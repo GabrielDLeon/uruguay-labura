@@ -1,0 +1,44 @@
+---
+import { ClientRouter } from "astro:transitions";
+import { Font } from "astro:assets";
+
+import "@/styles/global.css";
+
+import Seo from "@/components/common/Seo.astro";
+import ScrollAnimation from "@/components/common/ScrollAnimation.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+  lang: string;
+}
+
+const {
+  title = "Astro Starter",
+  description = "A starter for your next Astro project",
+  lang,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang={lang} data-theme="black">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <Seo title={title} description={description} />
+    <Font cssVariable="--font-inter" preload />
+    <ScrollAnimation />
+    <ClientRouter />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,43 @@
+---
+import { SEO } from "astro-seo";
+import config from "@/config.yml";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
+
+const { title, description } = Astro.props;
+const { seo: metadata } = config;
+---
+
+<SEO
+  title={title}
+  description={description}
+  titleDefault={metadata.title.default}
+  titleTemplate={metadata.title.template}
+  canonical={canonicalURL}
+  noindex={metadata.robots.noindex}
+  nofollow={metadata.robots.nofollow}
+  openGraph={{
+    basic: {
+      title: title,
+      type: "website",
+      image: `${Astro.site}${metadata.og.image.name}`,
+      url: canonicalURL,
+    },
+    image: {
+      url: `${Astro.site}${metadata.og.image.name}`,
+      alt: metadata.og.image.alt,
+      width: metadata.og.image.width,
+      height: metadata.og.image.height,
+    },
+  }}
+  twitter={{
+    creator: "@xgabrieldleon",
+    card: "summary_large_image",
+    title: metadata.twitter.title,
+  }}
+/>

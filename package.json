@@ -1,0 +1,31 @@
+{
+  "name": "minimal-astro-template",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.8",
+    "@astrojs/mdx": "^5.0.3",
+    "@astrojs/sitemap": "^3.7.2",
+    "@iconify-json/mdi": "^1.2.1",
+    "@tailwindcss/vite": "^4.0.15",
+    "astro": "^6.1.2",
+    "astro-icon": "^1.1.5",
+    "astro-seo": "^0.8.4",
+    "tailwindcss": "^4.0.15",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@rollup/plugin-yaml": "^4.1.2",
+    "@tailwindcss/typography": "^0.5.16",
+    "daisyui": "^5.5.19",
+    "prettier": "3.5.3",
+    "prettier-plugin-astro": "0.14.1"
+  }
+}
