@@ -1,11 +1,13 @@
 ---
-import Layout from "@/layouts/Layout.astro";
+import Layout from '@/layouts/Layout.astro'
 ---
 
 <Layout
-  title="Página no encontrada"
-  description="La página que estabas buscando no existe"
-  lang="es"
+  title='Pagina no encontrada'
+  description='La pagina que estabas buscando no existe'
 >
-  <div class="font-bold text-2xl">Error 404</div>
+  <div class='rounded-xl border border-[var(--border-subtle)] bg-[var(--card-bg)] p-6'>
+    <h2 class='text-2xl font-bold text-slate-900'>Error 404</h2>
+    <p class='mt-2 text-slate-700'>No encontramos la pagina solicitada.</p>
+  </div>
 </Layout>

@@ -1,42 +1,32 @@
 ---
-import { ClientRouter } from "astro:transitions";
-import { Font } from "astro:assets";
+import { Font } from 'astro:assets'
 
-import "@/styles/global.css";
-
-import Seo from "@/components/common/Seo.astro";
-import ScrollAnimation from "@/components/common/ScrollAnimation.astro";
-import Header from "@/components/Header.astro";
-import Footer from "@/components/Footer.astro";
+import Seo from '@/components/common/Seo.astro'
+import Footer from '@/components/Footer.astro'
+import Header from '@/components/Header.astro'
+import '@/styles/global.css'
 
 interface Props {
-  title?: string;
-  description?: string;
-  lang: string;
+  title?: string
+  description?: string
 }
 
-const {
-  title = "Astro Starter",
-  description = "A starter for your next Astro project",
-  lang,
-} = Astro.props;
+const { title, description } = Astro.props
 ---
 
 <!doctype html>
-<html lang={lang} data-theme="black">
+<html lang='es'>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width' />
+    <link rel='icon' type='image/svg+xml' href='/favicon.svg' />
+    <link rel='sitemap' href='/sitemap-index.xml' />
     <Seo title={title} description={description} />
-    <Font cssVariable="--font-inter" preload />
-    <ScrollAnimation />
-    <ClientRouter />
+    <Font cssVariable='--font-manrope' preload />
   </head>
   <body>
     <Header />
-    <main>
+    <main class='mx-auto w-full max-w-6xl px-4 sm:px-6'>
       <slot />
     </main>
     <Footer />

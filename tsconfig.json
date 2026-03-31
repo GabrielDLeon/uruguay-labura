@@ -5,6 +5,8 @@
   "compilerOptions": {
     "strictNullChecks": true,
     "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]

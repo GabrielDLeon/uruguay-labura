@@ -1,0 +1,82 @@
+{
+  "source": "uruguay-concursa",
+  "scrapedAt": "2026-03-31T12:00:00.000Z",
+  "total": 3,
+  "jobs": [
+    {
+      "id": "uruguay-concursa-0015-2026",
+      "source": "uruguay-concursa",
+      "sourceJobId": "0015/2026",
+      "callNumber": "0015/2026",
+      "title": "Gestor/a Administrativo/a - MRREE",
+      "organization": "Ministerio de Relaciones Exteriores",
+      "department": "Montevideo",
+      "locality": "Montevideo",
+      "inciso": "06",
+      "taskType": "Administrativas",
+      "status": "abierto",
+      "openingDate": "2026-03-13",
+      "closingDate": "2026-04-07",
+      "isNew": false,
+      "quotas": {
+        "afrodescendientes": true,
+        "discapacidad": false,
+        "trans": false,
+        "victimasDelitosViolentos": false
+      },
+      "detailUrl": "https://www.uruguayconcursa.gub.uy/",
+      "applyUrl": "https://www.uruguayconcursa.gub.uy/",
+      "scrapedAt": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "id": "uruguay-concursa-0018-2026",
+      "source": "uruguay-concursa",
+      "sourceJobId": "0018/2026",
+      "callNumber": "0018/2026",
+      "title": "Becario/a Administrativo - MTSS - Direccion Nacional de Trabajo",
+      "organization": "Ministerio de Trabajo y Seguridad Social",
+      "department": "Montevideo",
+      "locality": "Montevideo",
+      "inciso": "13",
+      "taskType": "Administrativas",
+      "status": "abierto",
+      "openingDate": "2026-03-27",
+      "closingDate": "2026-04-13",
+      "isNew": true,
+      "quotas": {
+        "afrodescendientes": false,
+        "discapacidad": false,
+        "trans": true,
+        "victimasDelitosViolentos": false
+      },
+      "detailUrl": "https://www.uruguayconcursa.gub.uy/",
+      "applyUrl": "https://www.uruguayconcursa.gub.uy/",
+      "scrapedAt": "2026-03-31T12:00:00.000Z"
+    },
+    {
+      "id": "uruguay-concursa-0019-2026",
+      "source": "uruguay-concursa",
+      "sourceJobId": "0019/2026",
+      "callNumber": "0019/2026",
+      "title": "Becario/a Administrativo/a - MTSS - Direccion General de Secretaria",
+      "organization": "Ministerio de Trabajo y Seguridad Social",
+      "department": "Montevideo",
+      "locality": "Montevideo",
+      "inciso": "13",
+      "taskType": "Administrativas",
+      "status": "abierto",
+      "openingDate": "2026-03-27",
+      "closingDate": "2026-04-13",
+      "isNew": true,
+      "quotas": {
+        "afrodescendientes": false,
+        "discapacidad": false,
+        "trans": true,
+        "victimasDelitosViolentos": false
+      },
+      "detailUrl": "https://www.uruguayconcursa.gub.uy/",
+      "applyUrl": "https://www.uruguayconcursa.gub.uy/",
+      "scrapedAt": "2026-03-31T12:00:00.000Z"
+    }
+  ]
+}

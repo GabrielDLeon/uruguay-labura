@@ -1,43 +1,41 @@
 ---
-import { SEO } from "astro-seo";
-import config from "@/config.yml";
+import { SEO } from 'astro-seo'
+import { siteConfig } from '@/config/site'
 
 interface Props {
-  title: string;
-  description?: string;
+  title?: string
+  description?: string
 }
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
-
-const { title, description } = Astro.props;
-const { seo: metadata } = config;
+const { title = siteConfig.titleDefault, description = siteConfig.description } = Astro.props
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString()
 ---
 
 <SEO
   title={title}
   description={description}
-  titleDefault={metadata.title.default}
-  titleTemplate={metadata.title.template}
+  titleDefault={siteConfig.titleDefault}
+  titleTemplate={siteConfig.titleTemplate}
   canonical={canonicalURL}
-  noindex={metadata.robots.noindex}
-  nofollow={metadata.robots.nofollow}
+  noindex={siteConfig.robots.noindex}
+  nofollow={siteConfig.robots.nofollow}
   openGraph={{
     basic: {
-      title: title,
-      type: "website",
-      image: `${Astro.site}${metadata.og.image.name}`,
+      title,
+      type: 'website',
+      image: `${Astro.site}${siteConfig.ogImage.name}`,
       url: canonicalURL,
     },
     image: {
-      url: `${Astro.site}${metadata.og.image.name}`,
-      alt: metadata.og.image.alt,
-      width: metadata.og.image.width,
-      height: metadata.og.image.height,
+      url: `${Astro.site}${siteConfig.ogImage.name}`,
+      alt: siteConfig.ogImage.alt,
+      width: siteConfig.ogImage.width,
+      height: siteConfig.ogImage.height,
     },
   }}
   twitter={{
-    creator: "@xgabrieldleon",
-    card: "summary_large_image",
-    title: metadata.twitter.title,
+    creator: siteConfig.social.twitter,
+    card: 'summary_large_image',
+    title,
   }}
 />
