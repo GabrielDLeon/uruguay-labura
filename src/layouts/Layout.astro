@@ -43,15 +43,16 @@ const { title, description } = Astro.props;
           }
         } catch (_) {}
 
-        const apply = (dark) => {
+        const apply = (dark: boolean) => {
           document.documentElement.classList.toggle("dark", dark);
           try {
             localStorage.setItem("themeMode", dark ? "dark" : "light");
           } catch (_) {}
         };
 
-        document.addEventListener("basecoat:theme", (event) => {
-          const mode = event.detail?.mode;
+        const onThemeChange = (event: Event) => {
+          const customEvent = event as CustomEvent<{ mode?: string }>;
+          const mode = customEvent.detail?.mode;
           apply(
             mode === "dark"
               ? true
@@ -59,7 +60,9 @@ const { title, description } = Astro.props;
                 ? false
                 : !document.documentElement.classList.contains("dark"),
           );
-        });
+        };
+
+        document.addEventListener("basecoat:theme", onThemeChange);
       })();
     </script>
   </body>

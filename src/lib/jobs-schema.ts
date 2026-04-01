@@ -7,6 +7,7 @@ export const jobSchema = z.object({
   callNumber: z.string().min(1),
   title: z.string().min(1),
   organization: z.string().nullable(),
+  subOrganization: z.string().nullable(),
   department: z.string().nullable(),
   locality: z.string().nullable(),
   inciso: z.string().nullable(),

@@ -14,6 +14,7 @@ export interface JobRecord {
   callNumber: string;
   title: string;
   organization: string | null;
+  subOrganization: string | null;
   department: string | null;
   locality: string | null;
   inciso: string | null;

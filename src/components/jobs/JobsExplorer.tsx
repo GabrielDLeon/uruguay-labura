@@ -1,7 +1,16 @@
-import { useMemo, useState } from "react";
+import { useDeferredValue, useEffect, useMemo, useState } from "react";
 import { Icon } from "@iconify/react/offline";
 import "@/styles/global.css";
 
+import SearchableSelect, {
+  type SearchableSelectOption,
+} from "@/components/common/SearchableSelect";
+import OrganizationLabel from "@/components/jobs/OrganizationLabel";
+import {
+  getOrganizationAbbreviation,
+  getOrganizationFullName,
+  getOrganizationSearchText,
+} from "@/lib/organizations";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
 
@@ -9,6 +18,10 @@ interface Props {
   jobs: JobRecord[];
   scrapedAt: string;
 }
+
+const MAX_TITLE_LENGTH = 110;
+const MAX_VISIBLE_RESULTS = 50;
+const MIN_CALL_NUMBER_CHARS = 3;
 
 function normalize(text: string | null | undefined) {
   return (text ?? "")
@@ -27,11 +40,23 @@ function formatDate(date: string | null) {
     return date;
   }
 
-  return new Intl.DateTimeFormat("es-UY").format(parsed);
+  return new Intl.DateTimeFormat("es-UY", {
+    day: "2-digit",
+    month: "2-digit",
+    year: "numeric",
+  }).format(parsed);
 }
 
 function cleanOption(value: string | null) {
   return value?.trim() || "Sin dato";
+}
+
+function shorten(text: string, maxLength: number) {
+  if (text.length <= maxLength) {
+    return text;
+  }
+
+  return `${text.slice(0, maxLength - 1).trimEnd()}...`;
 }
 
 function statusClass(status: JobRecord["status"]) {
@@ -49,30 +74,70 @@ function statusClass(status: JobRecord["status"]) {
 export default function JobsExplorer({ jobs, scrapedAt }: Props) {
   const [query, setQuery] = useState("");
   const [callNumber, setCallNumber] = useState("");
-  const [department, setDepartment] = useState("");
-  const [status, setStatus] = useState("");
+  const [organization, setOrganization] = useState("");
   const [taskType, setTaskType] = useState("");
-  const [onlyNew, setOnlyNew] = useState(false);
   const [afro, setAfro] = useState(false);
   const [discapacidad, setDiscapacidad] = useState(false);
   const [trans, setTrans] = useState(false);
   const [victimas, setVictimas] = useState(false);
+  const [viewportMode, setViewportMode] = useState<
+    "both" | "desktop" | "mobile"
+  >("both");
 
-  const departmentOptions = useMemo(() => {
-    return [...new Set(jobs.map((job) => cleanOption(job.department)))].sort(
-      (a, b) => a.localeCompare(b, "es"),
-    );
+  const deferredQuery = useDeferredValue(query);
+  const deferredCallNumber = useDeferredValue(callNumber);
+  const normalizedCallNumber = normalize(deferredCallNumber).trim();
+  const hasCallNumberFilter = normalizedCallNumber.length > 0;
+  const callNumberTooShort =
+    hasCallNumberFilter && normalizedCallNumber.length < MIN_CALL_NUMBER_CHARS;
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia("(min-width: 768px)");
+
+    const applyMode = () => {
+      setViewportMode(mediaQuery.matches ? "desktop" : "mobile");
+    };
+
+    applyMode();
+    mediaQuery.addEventListener("change", applyMode);
+
+    return () => {
+      mediaQuery.removeEventListener("change", applyMode);
+    };
+  }, []);
+
+  const organizationOptions = useMemo<SearchableSelectOption[]>(() => {
+    return [...new Set(jobs.map((job) => cleanOption(job.organization)))]
+      .sort((a, b) => a.localeCompare(b, "es"))
+      .map((organizationName) => {
+        const abbreviation = getOrganizationAbbreviation(organizationName);
+        const fullName = getOrganizationFullName(organizationName);
+
+        return {
+          value: organizationName,
+          label: abbreviation,
+          description: abbreviation === fullName ? undefined : fullName,
+          searchText: getOrganizationSearchText(organizationName),
+        };
+      });
   }, [jobs]);
 
-  const taskTypeOptions = useMemo(() => {
-    return [...new Set(jobs.map((job) => cleanOption(job.taskType)))].sort(
-      (a, b) => a.localeCompare(b, "es"),
-    );
+  const taskTypeOptions = useMemo<SearchableSelectOption[]>(() => {
+    return [...new Set(jobs.map((job) => cleanOption(job.taskType)))]
+      .sort((a, b) => a.localeCompare(b, "es"))
+      .map((option) => ({
+        value: option,
+        label: option,
+      }));
   }, [jobs]);
 
   const filtered = useMemo(() => {
-    const text = normalize(query);
-    const targetCallNumber = normalize(callNumber);
+    if (callNumberTooShort) {
+      return [];
+    }
+
+    const text = normalize(deferredQuery);
+    const targetCallNumber = normalizedCallNumber;
 
     return jobs.filter((job) => {
       if (text) {
@@ -81,7 +146,7 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
             job.title,
             job.callNumber,
             job.organization,
-            job.department,
+            job.subOrganization,
             job.locality,
             job.taskType,
           ]
@@ -100,19 +165,11 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
         return false;
       }
 
-      if (department && cleanOption(job.department) !== department) {
-        return false;
-      }
-
-      if (status && job.status !== status) {
+      if (organization && cleanOption(job.organization) !== organization) {
         return false;
       }
 
       if (taskType && cleanOption(job.taskType) !== taskType) {
-        return false;
-      }
-
-      if (onlyNew && !job.isNew) {
         return false;
       }
 
@@ -136,17 +193,22 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
     });
   }, [
     jobs,
-    query,
-    callNumber,
-    department,
-    status,
+    deferredQuery,
+    normalizedCallNumber,
+    callNumberTooShort,
+    organization,
     taskType,
-    onlyNew,
     afro,
     discapacidad,
     trans,
     victimas,
   ]);
+
+  const visibleJobs = useMemo(
+    () => filtered.slice(0, MAX_VISIBLE_RESULTS),
+    [filtered],
+  );
+  const hasMoreResults = filtered.length > MAX_VISIBLE_RESULTS;
 
   return (
     <section className="grid gap-5">
@@ -167,7 +229,7 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
               <input
                 id="job-search"
                 className="input"
-                placeholder="Titulo, organismo, departamento"
+                placeholder="Titulo, organismo o suborganismo"
                 value={query}
                 onChange={(event) => setQuery(event.target.value)}
               />
@@ -194,7 +256,7 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
             </div>
 
             <div className="grid gap-2">
-              <label className="label gap-2" htmlFor="job-department">
+              <label className="label gap-2" htmlFor="job-organization">
                 <Icon
                   icon={appIcons.department}
                   width="16"
@@ -202,45 +264,16 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
                   className="shrink-0"
                   aria-hidden="true"
                 />
-                Departamento
+                Organismo
               </label>
-              <select
-                id="job-department"
-                className="select"
-                value={department}
-                onChange={(event) => setDepartment(event.target.value)}
-              >
-                <option value="">Todos</option>
-                {departmentOptions.map((option) => (
-                  <option key={option} value={option}>
-                    {option}
-                  </option>
-                ))}
-              </select>
-            </div>
-
-            <div className="grid gap-2">
-              <label className="label gap-2" htmlFor="job-status">
-                <Icon
-                  icon={appIcons.status}
-                  width="16"
-                  height="16"
-                  className="shrink-0"
-                  aria-hidden="true"
-                />
-                Estado
-              </label>
-              <select
-                id="job-status"
-                className="select"
-                value={status}
-                onChange={(event) => setStatus(event.target.value)}
-              >
-                <option value="">Todos</option>
-                <option value="abierto">Abierto</option>
-                <option value="cerrado">Cerrado</option>
-                <option value="otro">Otro</option>
-              </select>
+              <SearchableSelect
+                id="job-organization"
+                value={organization}
+                options={organizationOptions}
+                allLabel="Todos"
+                searchPlaceholder="Buscar organismo"
+                onChange={setOrganization}
+              />
             </div>
 
             <div className="grid gap-2">
@@ -254,32 +287,18 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
                 />
                 Tipo de tarea
               </label>
-              <select
+              <SearchableSelect
                 id="job-task-type"
-                className="select"
                 value={taskType}
-                onChange={(event) => setTaskType(event.target.value)}
-              >
-                <option value="">Todos</option>
-                {taskTypeOptions.map((option) => (
-                  <option key={option} value={option}>
-                    {option}
-                  </option>
-                ))}
-              </select>
+                options={taskTypeOptions}
+                allLabel="Todos"
+                searchPlaceholder="Buscar tipo de tarea"
+                onChange={setTaskType}
+              />
             </div>
           </div>
 
           <fieldset className="grid gap-2 text-sm sm:grid-cols-2 lg:grid-cols-5">
-            <label className="label gap-2 font-normal">
-              <input
-                type="checkbox"
-                className="input"
-                checked={onlyNew}
-                onChange={(event) => setOnlyNew(event.target.checked)}
-              />
-              Solo nuevos
-            </label>
             <label className="label gap-2 font-normal">
               <input
                 type="checkbox"
@@ -329,6 +348,11 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
               />
               {filtered.length} resultados
             </span>
+            {hasMoreResults ? (
+              <span className="text-muted-foreground">
+                Mostrando {MAX_VISIBLE_RESULTS} de {filtered.length}
+              </span>
+            ) : null}
             <span className="text-muted-foreground inline-flex items-center gap-1">
               <Icon
                 icon={appIcons.updatedAt}
@@ -340,133 +364,159 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
               Actualizado: {formatDate(scrapedAt)}
             </span>
           </div>
+
+          {callNumberTooShort ? (
+            <p className="text-muted-foreground text-sm">
+              Ingresa al menos {MIN_CALL_NUMBER_CHARS} caracteres en N de
+              llamado para mostrar resultados.
+            </p>
+          ) : null}
         </section>
       </div>
 
-      <div className="card hidden md:block">
-        <section className="overflow-x-auto">
-          <table className="table">
-            <thead>
-              <tr>
-                <th>N llamado</th>
-                <th>Titulo</th>
-                <th>Tipo</th>
-                <th>Apertura</th>
-                <th>Cierre</th>
-                <th>Estado</th>
-                <th>Accion</th>
-              </tr>
-            </thead>
-            <tbody>
-              {filtered.map((job) => (
-                <tr key={job.id}>
-                  <td>{job.callNumber}</td>
-                  <td>
-                    <div className="font-semibold">
-                      <a href={job.detailUrl} target="_blank" rel="noreferrer">
-                        {job.title}
-                      </a>
-                    </div>
-                    <div className="text-muted-foreground text-xs">
-                      {[job.organization, job.department]
-                        .filter(Boolean)
-                        .join(" - ") || "Sin dato"}
-                    </div>
-                  </td>
-                  <td>{job.taskType ?? "Sin dato"}</td>
-                  <td>{formatDate(job.openingDate)}</td>
-                  <td>{formatDate(job.closingDate)}</td>
-                  <td>
-                    <span className={statusClass(job.status)}>
-                      {job.status}
-                    </span>
-                  </td>
-                  <td>
-                    <a
-                      className="btn btn-sm inline-flex items-center gap-1"
-                      href={job.applyUrl ?? job.detailUrl}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Ver llamado
-                      <Icon
-                        icon="mdi:account-credit-card"
-                        width="24"
-                        height="24"
-                      />
-                    </a>
-                  </td>
+      {viewportMode !== "mobile" ? (
+        <div className="card hidden md:block">
+          <section className="overflow-x-auto">
+            <table className="table">
+              <thead>
+                <tr>
+                  <th>N llamado</th>
+                  <th>Titulo</th>
+                  <th>Tipo</th>
+                  <th>Apertura</th>
+                  <th>Cierre</th>
+                  <th>Accion</th>
                 </tr>
-              ))}
-            </tbody>
-          </table>
-        </section>
-      </div>
+              </thead>
+              <tbody>
+                {visibleJobs.map((job) => (
+                  <tr key={job.id}>
+                    <td>
+                      <a
+                        href={job.detailUrl}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="badge-outline inline-flex items-center"
+                      >
+                        {job.callNumber}
+                      </a>
+                    </td>
+                    <td>
+                      <div className="font-semibold">
+                        <span
+                          className="block max-w-[42ch] truncate"
+                          title={job.title}
+                        >
+                          {shorten(job.title, MAX_TITLE_LENGTH)}
+                        </span>
+                      </div>
+                      <div className="text-muted-foreground text-xs">
+                        <OrganizationLabel
+                          organization={job.organization}
+                          subOrganization={job.subOrganization}
+                        />
+                      </div>
+                    </td>
+                    <td>{job.taskType ?? "Sin dato"}</td>
+                    <td>{formatDate(job.openingDate)}</td>
+                    <td>{formatDate(job.closingDate)}</td>
+                    <td>
+                      <a
+                        className="btn btn-sm inline-flex items-center gap-1"
+                        href={job.applyUrl ?? job.detailUrl}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Ver llamado
+                        <Icon
+                          icon="mdi:account-credit-card"
+                          width="24"
+                          height="24"
+                        />
+                      </a>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </section>
+        </div>
+      ) : null}
 
-      <div className="grid gap-3 md:hidden">
-        {filtered.map((job) => (
-          <article key={job.id} className="card">
-            <header className="flex flex-wrap items-center gap-2">
-              <span className="badge-outline">{job.callNumber}</span>
-              <span className={statusClass(job.status)}>{job.status}</span>
-              {job.isNew ? <span className="badge">Nuevo</span> : null}
-            </header>
-            <section>
-              <h3 className="text-base font-semibold">
-                <a href={job.detailUrl} target="_blank" rel="noreferrer">
-                  {job.title}
+      {viewportMode !== "desktop" ? (
+        <div className="grid gap-3 md:hidden">
+          {visibleJobs.map((job) => (
+            <article key={job.id} className="card">
+              <header className="flex flex-wrap items-center gap-2">
+                <a
+                  href={job.detailUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="badge-outline"
+                >
+                  {job.callNumber}
                 </a>
-              </h3>
-              <p className="text-muted-foreground mt-1 text-sm">
-                {[job.organization, job.department, job.locality]
-                  .filter(Boolean)
-                  .join(" - ") || "Sin dato"}
-              </p>
-              <div className="text-muted-foreground mt-3 grid grid-cols-2 gap-2 text-xs">
-                <span className="inline-flex items-center gap-1">
+                <span className={statusClass(job.status)}>{job.status}</span>
+                {job.isNew ? <span className="badge">Nuevo</span> : null}
+              </header>
+              <section>
+                <h3 className="text-base font-semibold">
+                  <span className="block truncate" title={job.title}>
+                    {shorten(job.title, MAX_TITLE_LENGTH)}
+                  </span>
+                </h3>
+                <p className="text-muted-foreground mt-1 text-sm">
+                  <OrganizationLabel
+                    organization={job.organization}
+                    subOrganization={job.subOrganization}
+                  />
+                </p>
+                <div className="text-muted-foreground mt-3 grid grid-cols-2 gap-2 text-xs">
+                  <span className="inline-flex items-center gap-1">
+                    <Icon
+                      icon={appIcons.openingDate}
+                      width="14"
+                      height="14"
+                      className="shrink-0"
+                      aria-hidden="true"
+                    />
+                    Apertura: {formatDate(job.openingDate)}
+                  </span>
+                  <span className="inline-flex items-center gap-1">
+                    <Icon
+                      icon={appIcons.closingDate}
+                      width="14"
+                      height="14"
+                      className="shrink-0"
+                      aria-hidden="true"
+                    />
+                    Cierre: {formatDate(job.closingDate)}
+                  </span>
+                  <span>Tipo: {job.taskType ?? "Sin dato"}</span>
+                  <span>Inciso: {job.inciso ?? "Sin dato"}</span>
+                </div>
+              </section>
+              <footer>
+                <a
+                  className="btn btn-sm inline-flex items-center gap-1"
+                  href={job.applyUrl ?? job.detailUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Ver llamado
                   <Icon
-                    icon={appIcons.openingDate}
-                    width="14"
-                    height="14"
+                    icon={appIcons.externalLink}
+                    width="16"
+                    height="16"
                     className="shrink-0"
                     aria-hidden="true"
                   />
-                  Apertura: {formatDate(job.openingDate)}
-                </span>
-                <span className="inline-flex items-center gap-1">
-                  <Icon
-                    icon={appIcons.closingDate}
-                    width="14"
-                    height="14"
-                    className="shrink-0"
-                    aria-hidden="true"
-                  />
-                  Cierre: {formatDate(job.closingDate)}
-                </span>
-                <span>Tipo: {job.taskType ?? "Sin dato"}</span>
-                <span>Inciso: {job.inciso ?? "Sin dato"}</span>
-              </div>
-            </section>
-            <footer>
-              <a
-                className="btn btn-sm inline-flex items-center gap-1"
-                href={job.applyUrl ?? job.detailUrl}
-                target="_blank"
-                rel="noreferrer"
-              >
-                Ver llamado
-                <Icon
-                  icon={appIcons.externalLink}
-                  width="16"
-                  height="16"
-                  className="shrink-0"
-                  aria-hidden="true"
-                />
-              </a>
-            </footer>
-          </article>
-        ))}
-      </div>
+                </a>
+              </footer>
+            </article>
+          ))}
+        </div>
+      ) : null}
     </section>
   );
 }
