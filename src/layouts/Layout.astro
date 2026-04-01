@@ -1,34 +1,66 @@
 ---
-import { Font } from 'astro:assets'
+import { Font } from "astro:assets";
 
-import Seo from '@/components/common/Seo.astro'
-import Footer from '@/components/Footer.astro'
-import Header from '@/components/Header.astro'
-import '@/styles/global.css'
+import Seo from "@/components/common/Seo.astro";
+import Footer from "@/components/Footer.astro";
+import Header from "@/components/Header.astro";
+import "@/styles/global.css";
 
 interface Props {
-  title?: string
-  description?: string
+  title?: string;
+  description?: string;
 }
 
-const { title, description } = Astro.props
+const { title, description } = Astro.props;
 ---
 
 <!doctype html>
-<html lang='es'>
+<html lang="es">
   <head>
-    <meta charset='UTF-8' />
-    <meta name='viewport' content='width=device-width' />
-    <link rel='icon' type='image/svg+xml' href='/favicon.svg' />
-    <link rel='sitemap' href='/sitemap-index.xml' />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
     <Seo title={title} description={description} />
-    <Font cssVariable='--font-manrope' preload />
+    <Font cssVariable="--font-manrope" preload />
   </head>
   <body>
     <Header />
-    <main class='mx-auto w-full max-w-6xl px-4 sm:px-6'>
+    <main class="mx-auto w-full max-w-6xl px-4 sm:px-6">
       <slot />
     </main>
     <Footer />
+    <script>
+      (() => {
+        try {
+          const stored = localStorage.getItem("themeMode");
+          if (
+            stored
+              ? stored === "dark"
+              : matchMedia("(prefers-color-scheme: dark)").matches
+          ) {
+            document.documentElement.classList.add("dark");
+          }
+        } catch (_) {}
+
+        const apply = (dark) => {
+          document.documentElement.classList.toggle("dark", dark);
+          try {
+            localStorage.setItem("themeMode", dark ? "dark" : "light");
+          } catch (_) {}
+        };
+
+        document.addEventListener("basecoat:theme", (event) => {
+          const mode = event.detail?.mode;
+          apply(
+            mode === "dark"
+              ? true
+              : mode === "light"
+                ? false
+                : !document.documentElement.classList.contains("dark"),
+          );
+        });
+      })();
+    </script>
   </body>
 </html>

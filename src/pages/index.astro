@@ -1,20 +1,20 @@
 ---
-import JobsExplorer from '@/components/jobs/JobsExplorer'
-import { parseJobsDataset } from '@/lib/jobs-schema'
-import Layout from '@/layouts/Layout.astro'
-import jobsDatasetRaw from '@/data/jobs.generated.json'
+import JobsExplorer from "@/components/jobs/JobsExplorer";
+import { parseJobsDataset } from "@/lib/jobs-schema";
+import Layout from "@/layouts/Layout.astro";
+import jobsDatasetRaw from "@/data/jobs.generated.json";
 
-const dataset = parseJobsDataset(jobsDatasetRaw)
+const dataset = parseJobsDataset(jobsDatasetRaw);
 ---
 
 <Layout
-  title='Llamados laborales en Uruguay'
-  description='Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada.'
+  title="Llamados laborales en Uruguay"
+  description="Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada."
 >
-  <section class='mb-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--card-bg)] p-4'>
-    <p class='text-sm text-slate-700'>
-      Primera fuente activa: Uruguay Concursa. Esta base se construye de forma estatica y se
-      actualiza durante el proceso de build.
+  <section class="mb-4">
+    <p class="text-sm">
+      Primera fuente activa: Uruguay Concursa. Esta base se construye de forma
+      estatica y se actualiza durante el proceso de build.
     </p>
   </section>
 
