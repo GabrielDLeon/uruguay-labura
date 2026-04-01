@@ -16,12 +16,11 @@ import type { JobRecord } from "@/types/jobs";
 
 interface Props {
   jobs: JobRecord[];
-  scrapedAt: string;
 }
 
 const MAX_TITLE_LENGTH = 110;
 const MAX_VISIBLE_RESULTS = 50;
-const MIN_CALL_NUMBER_CHARS = 3;
+const MIN_CALL_NUMBER_CHARS = 2;
 
 function normalize(text: string | null | undefined) {
   return (text ?? "")
@@ -71,7 +70,7 @@ function statusClass(status: JobRecord["status"]) {
   return "badge-outline";
 }
 
-export default function JobsExplorer({ jobs, scrapedAt }: Props) {
+export default function JobsExplorer({ jobs }: Props) {
   const [query, setQuery] = useState("");
   const [callNumber, setCallNumber] = useState("");
   const [organization, setOrganization] = useState("");
@@ -87,9 +86,8 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
   const deferredQuery = useDeferredValue(query);
   const deferredCallNumber = useDeferredValue(callNumber);
   const normalizedCallNumber = normalize(deferredCallNumber).trim();
-  const hasCallNumberFilter = normalizedCallNumber.length > 0;
-  const callNumberTooShort =
-    hasCallNumberFilter && normalizedCallNumber.length < MIN_CALL_NUMBER_CHARS;
+  const hasCallNumberFilter =
+    normalizedCallNumber.length >= MIN_CALL_NUMBER_CHARS;
 
   useEffect(() => {
     const mediaQuery = window.matchMedia("(min-width: 768px)");
@@ -132,10 +130,6 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
   }, [jobs]);
 
   const filtered = useMemo(() => {
-    if (callNumberTooShort) {
-      return [];
-    }
-
     const text = normalize(deferredQuery);
     const targetCallNumber = normalizedCallNumber;
 
@@ -159,7 +153,7 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
       }
 
       if (
-        targetCallNumber &&
+        hasCallNumberFilter &&
         !normalize(job.callNumber).includes(targetCallNumber)
       ) {
         return false;
@@ -195,7 +189,7 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
     jobs,
     deferredQuery,
     normalizedCallNumber,
-    callNumberTooShort,
+    hasCallNumberFilter,
     organization,
     taskType,
     afro,
@@ -209,14 +203,18 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
     [filtered],
   );
   const hasMoreResults = filtered.length > MAX_VISIBLE_RESULTS;
+  const hasNoResults = filtered.length === 0;
 
   return (
-    <section className="grid gap-5">
-      <div className="card">
+    <section className="flex flex-col gap-6">
+      <div className="card bg-transparent">
         <section className="form grid gap-4">
           <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-5">
-            <div className="grid gap-2 lg:col-span-2">
-              <label className="label gap-2" htmlFor="job-search">
+            <div role="group" className="field lg:col-span-2">
+              <label
+                className="inline-flex items-center gap-2"
+                htmlFor="job-search"
+              >
                 <Icon
                   icon={appIcons.search}
                   width="16"
@@ -235,8 +233,11 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
               />
             </div>
 
-            <div className="grid gap-2">
-              <label className="label gap-2" htmlFor="job-call-number">
+            <div role="group" className="field">
+              <label
+                className="inline-flex items-center gap-2"
+                htmlFor="job-call-number"
+              >
                 <Icon
                   icon={appIcons.callNumber}
                   width="16"
@@ -255,8 +256,11 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
               />
             </div>
 
-            <div className="grid gap-2">
-              <label className="label gap-2" htmlFor="job-organization">
+            <div role="group" className="field">
+              <label
+                className="inline-flex items-center gap-2"
+                htmlFor="job-organization"
+              >
                 <Icon
                   icon={appIcons.department}
                   width="16"
@@ -276,8 +280,11 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
               />
             </div>
 
-            <div className="grid gap-2">
-              <label className="label gap-2" htmlFor="job-task-type">
+            <div role="group" className="field">
+              <label
+                className="inline-flex items-center gap-2"
+                htmlFor="job-task-type"
+              >
                 <Icon
                   icon={appIcons.taskType}
                   width="16"
@@ -298,43 +305,52 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
             </div>
           </div>
 
-          <fieldset className="grid gap-2 text-sm sm:grid-cols-2 lg:grid-cols-5">
-            <label className="label gap-2 font-normal">
-              <input
-                type="checkbox"
-                className="input"
-                checked={afro}
-                onChange={(event) => setAfro(event.target.checked)}
-              />
-              Afrodescendientes
-            </label>
-            <label className="label gap-2 font-normal">
-              <input
-                type="checkbox"
-                className="input"
-                checked={discapacidad}
-                onChange={(event) => setDiscapacidad(event.target.checked)}
-              />
-              Discapacidad
-            </label>
-            <label className="label gap-2 font-normal">
-              <input
-                type="checkbox"
-                className="input"
-                checked={trans}
-                onChange={(event) => setTrans(event.target.checked)}
-              />
-              Personas trans
-            </label>
-            <label className="label gap-2 font-normal">
-              <input
-                type="checkbox"
-                className="input"
-                checked={victimas}
-                onChange={(event) => setVictimas(event.target.checked)}
-              />
-              Victimas delitos violentos
-            </label>
+          <fieldset className="fieldset gap-2">
+            <legend>Cupos</legend>
+            <div className="grid gap-2 text-sm sm:grid-cols-2 lg:grid-cols-5">
+              <div role="group" className="field" data-orientation="horizontal">
+                <input
+                  id="quota-afro"
+                  type="checkbox"
+                  className="input"
+                  checked={afro}
+                  onChange={(event) => setAfro(event.target.checked)}
+                />
+                <label htmlFor="quota-afro">Afrodescendientes</label>
+              </div>
+              <div role="group" className="field" data-orientation="horizontal">
+                <input
+                  id="quota-discapacidad"
+                  type="checkbox"
+                  className="input"
+                  checked={discapacidad}
+                  onChange={(event) => setDiscapacidad(event.target.checked)}
+                />
+                <label htmlFor="quota-discapacidad">Discapacidad</label>
+              </div>
+              <div role="group" className="field" data-orientation="horizontal">
+                <input
+                  id="quota-trans"
+                  type="checkbox"
+                  className="input"
+                  checked={trans}
+                  onChange={(event) => setTrans(event.target.checked)}
+                />
+                <label htmlFor="quota-trans">Personas trans</label>
+              </div>
+              <div role="group" className="field" data-orientation="horizontal">
+                <input
+                  id="quota-victimas"
+                  type="checkbox"
+                  className="input"
+                  checked={victimas}
+                  onChange={(event) => setVictimas(event.target.checked)}
+                />
+                <label htmlFor="quota-victimas">
+                  Victimas delitos violentos
+                </label>
+              </div>
+            </div>
           </fieldset>
 
           <div className="flex flex-wrap items-center gap-2 text-sm">
@@ -353,45 +369,42 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
                 Mostrando {MAX_VISIBLE_RESULTS} de {filtered.length}
               </span>
             ) : null}
-            <span className="text-muted-foreground inline-flex items-center gap-1">
-              <Icon
-                icon={appIcons.updatedAt}
-                width="14"
-                height="14"
-                className="shrink-0"
-                aria-hidden="true"
-              />
-              Actualizado: {formatDate(scrapedAt)}
-            </span>
           </div>
-
-          {callNumberTooShort ? (
-            <p className="text-muted-foreground text-sm">
-              Ingresa al menos {MIN_CALL_NUMBER_CHARS} caracteres en N de
-              llamado para mostrar resultados.
-            </p>
-          ) : null}
         </section>
       </div>
 
-      {viewportMode !== "mobile" ? (
-        <div className="card hidden md:block">
+      {hasNoResults ? (
+        <p className="text-muted-foreground text-sm">
+          No se encontraron resultados.
+        </p>
+      ) : null}
+
+      {!hasNoResults && viewportMode !== "mobile" ? (
+        <div className="hidden md:block">
           <section className="overflow-x-auto">
-            <table className="table">
+            <table className="table table-fixed w-full min-w-[900px]">
+              <colgroup>
+                <col className="w-24" />
+                <col className="w-48" />
+                <col />
+                <col className="w-28" />
+                <col className="w-28" />
+                <col className="w-40" />
+              </colgroup>
               <thead>
                 <tr>
-                  <th>N llamado</th>
-                  <th>Titulo</th>
+                  <th>Llamado</th>
                   <th>Tipo</th>
+                  <th>Titulo</th>
                   <th>Apertura</th>
                   <th>Cierre</th>
-                  <th>Accion</th>
+                  <th>Acción</th>
                 </tr>
               </thead>
               <tbody>
                 {visibleJobs.map((job) => (
                   <tr key={job.id}>
-                    <td>
+                    <td className="whitespace-nowrap">
                       <a
                         href={job.detailUrl}
                         target="_blank"
@@ -400,6 +413,9 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
                       >
                         {job.callNumber}
                       </a>
+                    </td>
+                    <td className="truncate" title={job.taskType ?? "Sin dato"}>
+                      {job.taskType ?? "Sin dato"}
                     </td>
                     <td>
                       <div className="font-semibold">
@@ -410,17 +426,23 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
                           {shorten(job.title, MAX_TITLE_LENGTH)}
                         </span>
                       </div>
-                      <div className="text-muted-foreground text-xs">
+                      <div
+                        className="text-muted-foreground max-w-[42ch] text-xs"
+                        title={`${job.organization ?? "Sin dato"}${job.subOrganization ? ` (${job.subOrganization})` : ""}`}
+                      >
                         <OrganizationLabel
                           organization={job.organization}
                           subOrganization={job.subOrganization}
                         />
                       </div>
                     </td>
-                    <td>{job.taskType ?? "Sin dato"}</td>
-                    <td>{formatDate(job.openingDate)}</td>
-                    <td>{formatDate(job.closingDate)}</td>
-                    <td>
+                    <td className="whitespace-nowrap">
+                      {formatDate(job.openingDate)}
+                    </td>
+                    <td className="whitespace-nowrap">
+                      {formatDate(job.closingDate)}
+                    </td>
+                    <td className="whitespace-nowrap">
                       <a
                         className="btn btn-sm inline-flex items-center gap-1"
                         href={job.applyUrl ?? job.detailUrl}
@@ -443,8 +465,8 @@ export default function JobsExplorer({ jobs, scrapedAt }: Props) {
         </div>
       ) : null}
 
-      {viewportMode !== "desktop" ? (
-        <div className="grid gap-3 md:hidden">
+      {!hasNoResults && viewportMode !== "desktop" ? (
+        <div className="flex flex-col gap-4 md:hidden">
           {visibleJobs.map((job) => (
             <article key={job.id} className="card">
               <header className="flex flex-wrap items-center gap-2">

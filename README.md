@@ -1,4 +1,4 @@
-# Uruguay Laburos
+# Uruguay Labura
 
 Sitio estatico para centralizar llamados laborales en Uruguay.
 

@@ -1,8 +1,30 @@
-<footer class='mx-auto mt-8 w-full max-w-6xl px-4 pb-10 text-sm text-muted-foreground sm:px-6'>
-  <div class='rounded-xl border border-[var(--border-subtle)] bg-[var(--card-bg)] p-4'>
-    <p>
-      Uruguay Laburos - MVP estatico con scraping pre-build. Proyecto orientado a centralizar
-      llamados y escalar a nuevas fuentes.
-    </p>
+<footer class='border-y border-[var(--color-border)] text-sm text-muted-foreground'>
+  <div class='mx-auto w-full max-w-6xl px-4 py-6 sm:px-6'>
+    <div class='flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between'>
+      <div class='max-w-2xl'>
+        <p class='text-base font-semibold text-foreground'>Uruguay Labura</p>
+        <p class='mt-2'>
+          Directorio de llamados laborales en Uruguay con filtros simples y acceso rapido a cada
+          convocatoria.
+        </p>
+      </div>
+
+      <nav class='grid gap-2 text-sm'>
+        <a href='/' class='transition-colors hover:text-foreground'>Inicio</a>
+        <a
+          href='https://www.uruguayconcursa.gub.uy'
+          target='_blank'
+          rel='noopener noreferrer'
+          class='transition-colors hover:text-foreground'
+        >
+          Fuente: Uruguay Concursa
+        </a>
+      </nav>
+    </div>
+
+    <div class='mt-5 flex flex-col gap-1 pt-4 text-xs sm:flex-row sm:items-center sm:justify-between'>
+      <p>Uruguay Labura. Proyecto en evolucion.</p>
+      <p>Creado por Gabriel.</p>
+    </div>
   </div>
 </footer>

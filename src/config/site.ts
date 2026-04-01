@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Uruguay Laburos",
-  titleDefault: "Uruguay Laburos | Empleos centralizados",
-  titleTemplate: "%s | Uruguay Laburos",
+  name: "Uruguay Labura",
+  titleDefault: "Uruguay Labura | Empleos centralizados",
+  titleTemplate: "%s | Uruguay Labura",
   description:
     "Buscador centralizado de llamados laborales en Uruguay, comenzando por Uruguay Concursa.",
   robots: {

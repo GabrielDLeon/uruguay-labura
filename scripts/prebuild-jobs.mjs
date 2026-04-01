@@ -170,6 +170,44 @@ function normalizeJob(rawJob, nowIso) {
   };
 }
 
+function compareNullableIsoDatesAsc(leftDate, rightDate) {
+  if (leftDate === rightDate) {
+    return 0;
+  }
+
+  if (!leftDate) {
+    return 1;
+  }
+
+  if (!rightDate) {
+    return -1;
+  }
+
+  return leftDate.localeCompare(rightDate);
+}
+
+function sortJobsByClosingDate(jobs) {
+  return [...jobs].sort((left, right) => {
+    const byClosing = compareNullableIsoDatesAsc(
+      left.closingDate,
+      right.closingDate,
+    );
+    if (byClosing !== 0) {
+      return byClosing;
+    }
+
+    const byOpening = compareNullableIsoDatesAsc(
+      left.openingDate,
+      right.openingDate,
+    );
+    if (byOpening !== 0) {
+      return byOpening;
+    }
+
+    return left.callNumber.localeCompare(right.callNumber, "es");
+  });
+}
+
 async function fetchSourceData() {
   const response = await fetch(sourceUrl);
 
@@ -191,7 +229,9 @@ async function writeDataset(dataset) {
 const sourcePayload = await fetchSourceData();
 const nowIso = new Date().toISOString();
 const rawJobs = flattenRawJobs(sourcePayload);
-const jobs = rawJobs.map((rawJob) => normalizeJob(rawJob, nowIso));
+const jobs = sortJobsByClosingDate(
+  rawJobs.map((rawJob) => normalizeJob(rawJob, nowIso)),
+);
 
 const normalized = {
   source: sourceName,
