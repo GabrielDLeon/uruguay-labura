@@ -12,7 +12,7 @@ export const siteConfig = {
     twitter: "@uruguaylaburos",
   },
   ogImage: {
-    name: "/opengraph-image.png",
+    name: "/og-image.png",
     width: 960,
     height: 720,
     alt: "Listado centralizado de empleos en Uruguay",

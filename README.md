@@ -1,33 +1,40 @@
 # Uruguay Labura
 
-Sitio estatico para centralizar llamados laborales en Uruguay.
+Sitio estático para centralizar llamados laborales en Uruguay. Actualmente solo cuenta con los llamados de Uruguay Concursa.
+
+## Motivación
+
+La experiencia de usuario del sitio de Uruguay Concursa me pareció compleja. Esta es una solución 1:1 pero enfocada en mejor UX.
 
 ## Stack
 
-- Astro como shell
-- React islands para filtros/listado
-- Tailwind + Basecoat para UI
-- Dataset generado por scraping previo al build
+- Astro 6.1
+- React 19
+- Tailwind + Basecoat
 
 ## Comandos
 
 - `pnpm install`
+- `pnpm dev`
+- `pnpm build`
 - `pnpm check`
-- `pnpm scrape:jobs`
 
-## Scraping pre-build
+## Configuración
 
-`pnpm build` ejecuta automaticamente `scripts/prebuild-jobs.mjs` via `prebuild`.
+El proyecto usa un script de scraping que se ejecuta automáticamente en build. Requiere la variable de entorno `SOURCE_URL` apuntando al JSON con los datos.
 
-Opciones:
+```bash
+SOURCE_URL=https://gist.githubusercontent.com/GabrielDLeon/152fb922300190a5c43ecf0318ed0ce2/raw/022d358f8aebcb36187fa182078b2aa20513c083/concursos.json pnpm build
+```
 
-1. Definir comando custom con `JOBS_SCRAPER_CMD`.
-2. O colocar script Python en `scripts/scrape_jobs.py`.
+## Contribuir
 
-El prebuild espera o genera `src/data/jobs.generated.json`.
+Haz fork del repo, crea una rama con tus cambios y abre un PR.
 
-## Documentacion de trabajo
+## Deploy
 
-- `CONTEXT.md`
-- `PLAN.md`
-- `TASKS.md`
+- **Producción**: https://uruguay-labura.pages.dev/
+
+## Licencia
+
+MIT
