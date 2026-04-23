@@ -1,14 +1,17 @@
 ---
-import { SEO } from 'astro-seo'
-import { siteConfig } from '@/config/site'
+import { SEO } from "astro-seo";
+import { siteConfig } from "@/config/site";
 
 interface Props {
-  title?: string
-  description?: string
+  title?: string;
+  description?: string;
 }
 
-const { title = siteConfig.titleDefault, description = siteConfig.description } = Astro.props
-const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString()
+const {
+  title = siteConfig.titleDefault,
+  description = siteConfig.description,
+} = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
 ---
 
 <SEO
@@ -22,7 +25,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString()
   openGraph={{
     basic: {
       title,
-      type: 'website',
+      type: "website",
       image: `${Astro.site}${siteConfig.ogImage.name}`,
       url: canonicalURL,
     },
@@ -35,7 +38,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString()
   }}
   twitter={{
     creator: siteConfig.social.twitter,
-    card: 'summary_large_image',
+    card: "summary_large_image",
     title,
   }}
 />

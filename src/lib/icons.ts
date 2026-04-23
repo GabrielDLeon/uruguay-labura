@@ -8,6 +8,12 @@ import mapMarkerOutline from "@iconify-icons/mdi/map-marker-outline.js";
 import magnify from "@iconify-icons/mdi/magnify.js";
 import numeric from "@iconify-icons/mdi/numeric.js";
 import openInNew from "@iconify-icons/mdi/open-in-new.js";
+import schoolOutline from "@iconify-icons/mdi/school-outline.js";
+import bookOpenOutline from "@iconify-icons/mdi/book-open-outline.js";
+import domain from "@iconify-icons/mdi/domain.js";
+import creditCardOutline from "@iconify-icons/mdi/credit-card-outline.js";
+import tagOutline from "@iconify-icons/mdi/tag-outline.js";
+import emailOutline from "@iconify-icons/mdi/email-outline.js";
 
 export const appIcons = {
   search: magnify,
@@ -20,6 +26,12 @@ export const appIcons = {
   openingDate: calendarStart,
   closingDate: calendarEnd,
   externalLink: openInNew,
+  school: schoolOutline,
+  book: bookOpenOutline,
+  institution: domain,
+  cost: creditCardOutline,
+  tag: tagOutline,
+  email: emailOutline,
 } as const;
 
 export type AppIconName = keyof typeof appIcons;
