@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 
 import Layout from "@/layouts/Layout.astro";
+import SearchModal from "@/components/search/SearchModal.astro";
 import { degreeTypeLabels, modalityLabels } from "@/lib/educacion";
 
 const entries = await getCollection("educacion");
@@ -14,7 +15,7 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
   description="Explora postgrados, maestrias, especializaciones y otras opciones de educacion superior en Uruguay."
 >
   <section class="mb-8 pt-6 sm:pt-8">
-    <h1 class="text-2xl mb-2 font-extrabold text-foreground sm:text-3xl">
+    <h1 class="font-playfair text-2xl mb-2 font-extrabold text-foreground sm:text-3xl">
       Educacion en Uruguay
     </h1>
     <p class="max-w-3xl text-sm sm:text-base text-muted-foreground">
@@ -23,6 +24,8 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
       buscan seguir creciendo profesionalmente.
     </p>
   </section>
+
+  <SearchModal />
 
   <section class="overflow-x-auto">
     <table class="table table-fixed w-full min-w-[900px]">

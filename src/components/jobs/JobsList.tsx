@@ -32,7 +32,7 @@ export default function JobsList({ jobs }: Props) {
             {job.isNew ? <span className="badge">Nuevo</span> : null}
           </header>
           <section>
-            <h3 className="text-base font-semibold">
+            <h3 className="font-playfair text-base font-semibold">
               <span className="block truncate" title={job.title}>
                 {shorten(job.title, MAX_TITLE_LENGTH)}
               </span>

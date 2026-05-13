@@ -1,0 +1,41 @@
+---
+import { Icon } from "astro-icon/components"
+---
+
+<div class="field mb-6">
+  <button
+    type="button"
+    class="input flex items-center gap-2 text-left text-muted-foreground"
+    id="search-trigger"
+  >
+    <Icon name="mdi:magnify" size={16} />
+    <span>Buscar programas educativos...</span>
+    <kbd class="ml-auto hidden text-[10px] font-mono opacity-50 sm:inline">Ctrl K</kbd>
+  </button>
+</div>
+
+<div class="command-dialog" popover id="search-dialog">
+  <div class="command">
+    <button
+      type="button"
+      aria-label="Cerrar"
+      onclick="document.getElementById('search-dialog').hidePopover()"
+    >
+      <Icon name="mdi:close" size={16} />
+    </button>
+    <header>
+      <Icon name="mdi:magnify" size={16} />
+      <input
+        type="search"
+        placeholder="Buscar programas..."
+        id="search-dialog-input"
+      />
+    </header>
+    <div role="menu" id="search-results" data-empty="Escribe para buscar..."></div>
+  </div>
+</div>
+
+<script>
+  import { initSearchModal } from "./search-modal"
+  initSearchModal()
+</script>

@@ -1,8 +1,9 @@
 ---
-
+import { Icon } from 'astro-icon/components'
 ---
 
 <header
+  data-pagefind-ignore
   class="border-b border-[var(--color-border)] bg-[var(--card-bg)]/90 backdrop-blur"
 >
   <div
@@ -16,14 +17,28 @@
       <nav class="hidden items-center gap-1 text-sm sm:flex">
         <a
           href="/"
-          class="rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-          >Empleos</a
+          class="inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
         >
+          <Icon
+            name="mdi:briefcase-outline"
+            size={16}
+            class="shrink-0"
+            aria-hidden="true"
+          />
+          Empleos
+        </a>
         <a
           href="/educacion"
-          class="rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-          >Educacion</a
+          class="inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
         >
+          <Icon
+            name="mdi:school-outline"
+            size={16}
+            class="shrink-0"
+            aria-hidden="true"
+          />
+          Educacion
+        </a>
       </nav>
     </div>
 
@@ -31,15 +46,39 @@
       <nav class="flex items-center gap-1 text-sm sm:hidden">
         <a
           href="/"
-          class="rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-          >Empleos</a
+          class="inline-flex items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
         >
+          <Icon
+            name="mdi:briefcase-outline"
+            size={16}
+            class="shrink-0"
+            aria-hidden="true"
+          />
+          Empleos
+        </a>
         <a
           href="/educacion"
-          class="rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-          >Educacion</a
+          class="inline-flex items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
         >
+          <Icon
+            name="mdi:school-outline"
+            size={16}
+            class="shrink-0"
+            aria-hidden="true"
+          />
+          Educacion
+        </a>
       </nav>
+
+      <a
+        href="https://github.com/GabrielDLeon/uruguay-labura"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="GitHub repository"
+        class="btn-icon-outline size-8"
+      >
+        <Icon name="mdi:github" size={24} aria-hidden="true" />
+      </a>
 
       <button
         type="button"
@@ -49,38 +88,20 @@
         onclick="document.dispatchEvent(new CustomEvent('basecoat:theme'))"
         class="btn-icon-outline size-8"
       >
-        <span class="hidden dark:block"
-          ><svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            ><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"
-            ></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"
-            ></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"
-            ></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"
-            ></path><path d="m19.07 4.93-1.41 1.41"></path></svg
-          ></span
-        >
-        <span class="block dark:hidden"
-          ><svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            ><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg
-          ></span
-        >
+        <span class="hidden dark:block">
+          <Icon
+            name="mdi:white-balance-sunny"
+            size={24}
+            aria-hidden="true"
+          />
+        </span>
+        <span class="block dark:hidden">
+          <Icon
+            name="mdi:weather-night"
+            size={24}
+            aria-hidden="true"
+          />
+        </span>
       </button>
     </div>
   </div>

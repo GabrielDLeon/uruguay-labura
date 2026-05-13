@@ -3,6 +3,8 @@ import { defineConfig, fontProviders } from "astro/config";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
+import icon from "astro-icon";
+import pagefind from "astro-pagefind";
 import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 
 export default defineConfig({
@@ -15,12 +17,20 @@ export default defineConfig({
       weights: [400, 500, 600, 700, 800],
       styles: ["normal"],
     },
+    {
+      provider: fontProviders.fontsource(),
+      name: "Playfair Display",
+      cssVariable: "--font-playfair",
+      weights: [400, 500, 600, 700, 800, 900],
+      styles: ["normal", "italic"],
+    },
   ],
-  integrations: [react(), sitemap()],
+  integrations: [react(), sitemap(), icon(), pagefind()],
   vite: {
     plugins: [tailwindcss(), prebuildJobsPlugin()],
     optimizeDeps: {
       include: ["react", "react-dom", "react-dom/client"],
     },
+
   },
 });
