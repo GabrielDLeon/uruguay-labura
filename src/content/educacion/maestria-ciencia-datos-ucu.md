@@ -1,6 +1,7 @@
 ---
 title: "Maestria en Ciencia de Datos e Inteligencia Artificial"
-institution: "Universidad Catolica del Uruguay (UCU)"
+institutionName: "Universidad Catolica del Uruguay (UCU)"
+institution: "ucu"
 degreeType: "maestria"
 area: "Tecnologia e Informatica"
 modality: "virtual"

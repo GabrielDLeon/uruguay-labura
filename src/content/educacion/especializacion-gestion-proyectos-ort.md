@@ -1,6 +1,7 @@
 ---
 title: "Especializacion en Gestion de Proyectos"
-institution: "Universidad ORT Uruguay"
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
 degreeType: "especializacion"
 area: "Administracion y Negocios"
 modality: "hibrido"

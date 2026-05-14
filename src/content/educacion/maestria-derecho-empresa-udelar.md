@@ -1,6 +1,8 @@
 ---
 title: "Maestria en Derecho de la Empresa"
-institution: "Universidad de la Republica (UDELAR)"
+institutionName: "Universidad de la Republica (UDELAR)"
+institution: "udelar"
+campus: "Facultad de Derecho"
 degreeType: "maestria"
 area: "Derecho"
 modality: "presencial"

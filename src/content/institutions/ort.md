@@ -1,0 +1,27 @@
+---
+name: "Universidad ORT Uruguay"
+short: "ORT"
+type: "private"
+website: "https://www.ort.edu.uy"
+contactEmail: "info@ort.edu.uy"
+phone: "+598 2902 1543"
+location: "Montevideo"
+campuses:
+  - name: "Campus Centro"
+    location: "Montevideo"
+    address: "Cuareim 1451, Montevideo"
+  - name: "Campus Pocitos"
+    location: "Montevideo"
+    address: "Bvar. España 2633, Montevideo"
+tags:
+  - "private"
+  - "montevideo"
+  - "technology"
+isActive: true
+---
+
+Universidad ORT Uruguay is a private university founded in 1943 as a technical institute and recognized as a university in 1996. It is part of the World ORT network, a global educational organization.
+
+ORT is particularly well known for its engineering, technology, and business programs. It consistently ranks among the top universities in Latin America for innovation and digital transformation. The university has a strong focus on employability, with close ties to the industry and a curriculum designed to meet market demands.
+
+With two campuses in Montevideo (Centro and Pocitos), ORT provides modern facilities and a student-centered learning environment. The university also offers a wide range of graduate programs and executive education.

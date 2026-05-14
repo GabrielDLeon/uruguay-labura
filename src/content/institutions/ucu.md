@@ -1,0 +1,27 @@
+---
+name: "Universidad Católica del Uruguay"
+short: "UCU"
+type: "private"
+website: "https://www.ucu.edu.uy"
+contactEmail: "info@ucu.edu.uy"
+phone: "+598 2487 2717"
+location: "Montevideo"
+campuses:
+  - name: "Campus Montevideo"
+    location: "Montevideo"
+    address: "Av. 8 de Octubre 2738, Montevideo"
+  - name: "Campus Punta del Este"
+    location: "Maldonado"
+    address: "Rambla de la Ballena s/n, Punta del Este"
+tags:
+  - "private"
+  - "montevideo"
+  - "maldonado"
+isActive: true
+---
+
+Universidad Católica del Uruguay is a private Catholic university founded in 1985. It is one of the most recognized private universities in the country, offering undergraduate and graduate programs across multiple disciplines including business, engineering, social sciences, health sciences, and technology.
+
+UCU is known for its strong international focus, with exchange programs and partnerships with universities around the world. The university emphasizes ethical education, research, and community engagement.
+
+The university operates two main campuses: Montevideo and Punta del Este, providing access to education both in the capital and on the eastern coast of Uruguay.
