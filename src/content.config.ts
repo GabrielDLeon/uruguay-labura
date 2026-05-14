@@ -2,15 +2,46 @@ import { defineCollection } from "astro:content";
 import { z } from "astro/zod";
 import { glob } from "astro/loaders";
 
+const campusSchema = z.object({
+  name: z.string().min(1),
+  location: z.string().min(1),
+  address: z.string().optional(),
+});
+
+const institutionSchema = z.object({
+  name: z.string().min(1),
+  short: z.string().optional(),
+  type: z.enum(["public", "private"]),
+  website: z.string().url(),
+  contactEmail: z.string().email().optional(),
+  phone: z.string().optional(),
+  location: z.string().optional(),
+  campuses: z.array(campusSchema).default([]),
+  tags: z.array(z.string()).default([]),
+  isActive: z.boolean().default(true),
+});
+
+export type InstitutionEntry = z.infer<typeof institutionSchema>;
+
+const institutionsCollection = defineCollection({
+  loader: glob({ base: "./src/content/institutions", pattern: "**/*.md" }),
+  schema: institutionSchema,
+});
+
 export const educacionSchema = z.object({
   title: z.string().min(1),
-  institution: z.string().min(1),
+  institution: z.string().optional(),
+  institutionName: z.string().min(1),
+  campus: z.string().optional(),
   degreeType: z.enum([
     "maestria",
     "especializacion",
     "doctorado",
     "diplomado",
     "posdoctorado",
+    "tecnologo",
+    "licenciatura",
+    "tecnicatura",
     "otro",
   ]),
   area: z.string().min(1),
@@ -39,4 +70,5 @@ const educacionCollection = defineCollection({
 
 export const collections = {
   educacion: educacionCollection,
+  institutions: institutionsCollection,
 };

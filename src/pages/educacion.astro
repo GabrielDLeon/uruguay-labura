@@ -6,6 +6,8 @@ import SearchModal from "@/components/search/SearchModal.astro";
 import { degreeTypeLabels, modalityLabels } from "@/lib/educacion";
 
 const entries = await getCollection("educacion");
+const institutions = await getCollection("institutions");
+const instMap = new Map(institutions.map((i) => [i.id, i.data]));
 
 entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
 ---
@@ -49,10 +51,23 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
       </thead>
       <tbody>
         {
-          entries.map((entry) => (
+          entries.map((entry) => {
+            const inst = entry.data.institution ? instMap.get(entry.data.institution) : null
+            return (
             <tr>
-              <td class="truncate" title={entry.data.institution}>
-                {entry.data.institution}
+              <td class="truncate">
+                {inst ? (
+                  <a
+                    href={`/institutions/${entry.data.institution}`}
+                    class="hover:underline font-medium"
+                  >
+                    {inst.short ?? entry.data.institutionName}
+                  </a>
+                ) : (
+                  <span title={entry.data.institution}>
+                    {entry.data.institution}
+                  </span>
+                )}
               </td>
               <td class="truncate">
                 {degreeTypeLabels[entry.data.degreeType] ??
@@ -81,7 +96,8 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
                 </a>
               </td>
             </tr>
-          ))
+            )
+          })
         }
       </tbody>
     </table>

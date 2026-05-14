@@ -18,7 +18,7 @@ const { Content } = await render(entry);
 
 <Layout
   title={entry.data.title}
-  description={`${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institution}.`}
+  description={`${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
 >
   <div data-pagefind-body>
     <div class="mb-6 pt-6 sm:pt-8">
@@ -41,12 +41,22 @@ const { Content } = await render(entry);
       <h1 class="font-playfair text-2xl mb-1 font-extrabold text-foreground sm:text-3xl">
         {entry.data.title}
       </h1>
-      <p class="text-muted-foreground text-base">{entry.data.institution}</p>
+      <p class="text-muted-foreground text-base">
+        {entry.data.institutionName}
+        {entry.data.institution ? (
+          <a
+            href={`/institutions/${entry.data.institution}`}
+            class="ml-2 text-sm text-foreground hover:underline font-medium"
+          >
+            Ver institución →
+          </a>
+        ) : null}
+      </p>
     </div>
 
     <div class="grid gap-8 md:grid-cols-3 mb-8">
       <div class="md:col-span-2 min-w-0">
-        <div class="prose prose-sm max-w-none">
+        <div class="prose prose-sm dark:prose-invert max-w-none">
           <Content />
         </div>
       </div>

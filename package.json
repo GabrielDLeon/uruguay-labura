@@ -17,6 +17,7 @@
     "@iconify-icons/mdi": "^1.2.48",
     "@iconify-json/mdi": "^1.2.3",
     "@iconify/react": "^6.0.2",
+    "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.4",
     "astro": "^6.1.2",
     "astro-icon": "^1.1.5",

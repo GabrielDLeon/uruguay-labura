@@ -1,0 +1,92 @@
+---
+import { getCollection } from "astro:content"
+
+import Layout from "@/layouts/Layout.astro"
+import { institutionTypeLabels } from "@/lib/institution"
+
+const entries = await getCollection("institutions")
+
+entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"))
+---
+
+<Layout
+  title="Institutions"
+  description="Directory of universities and higher education institutions in Uruguay."
+>
+  <section class="mb-8 pt-6 sm:pt-8">
+    <h1 class="font-playfair text-2xl mb-2 font-extrabold text-foreground sm:text-3xl">
+      Institutions
+    </h1>
+    <p class="max-w-3xl text-sm sm:text-base text-muted-foreground">
+      Universities and higher education institutions in Uruguay. Browse
+      institutions to explore their programs, locations, and contact
+      information.
+    </p>
+  </section>
+
+  <section class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+    {
+      entries.map((entry) => (
+        <a
+          href={`/institutions/${entry.id}`}
+          class="card border border-[var(--border)] bg-[var(--card)] p-6 hover:shadow-md transition-shadow"
+        >
+          <div class="flex items-start justify-between mb-3">
+            <div>
+              <h2 class="font-playfair text-lg font-bold text-foreground">
+                {entry.data.short ?? entry.data.name}
+              </h2>
+              <p class="text-sm text-muted-foreground truncate">
+                {entry.data.name}
+              </p>
+            </div>
+            <span
+              class={`badge text-xs ${
+                entry.data.type === "public"
+                  ? "badge-success"
+                  : "badge-secondary"
+              }`}
+            >
+              {institutionTypeLabels[entry.data.type]}
+            </span>
+          </div>
+
+          <div class="flex flex-col gap-1 text-xs text-muted-foreground mb-4">
+            {
+              entry.data.location ? (
+                <span>
+                  {entry.data.campuses.length > 1
+                    ? `${entry.data.campuses.length} campuses in ${entry.data.location} + ${entry.data.campuses.length - 1} more`
+                    : entry.data.location}
+                </span>
+              ) : null
+            }
+          </div>
+
+          {
+            entry.data.tags.length > 0 ? (
+              <div class="flex flex-wrap gap-1 mt-auto">
+                {entry.data.tags.slice(0, 4).map((tag) => (
+                  <span class="badge-outline text-xs">{tag}</span>
+                ))}
+                {entry.data.tags.length > 4 ? (
+                  <span class="text-xs text-muted-foreground">
+                    +{entry.data.tags.length - 4}
+                  </span>
+                ) : null}
+              </div>
+            ) : null
+          }
+        </a>
+      ))
+    }
+  </section>
+
+  {
+    entries.length === 0 ? (
+      <p class="text-muted-foreground mt-4 text-sm">
+        No institutions registered at the moment.
+      </p>
+    ) : null
+  }
+</Layout>

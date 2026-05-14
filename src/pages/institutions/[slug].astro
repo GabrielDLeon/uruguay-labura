@@ -1,0 +1,161 @@
+---
+import { getCollection, render } from "astro:content"
+
+import Layout from "@/layouts/Layout.astro"
+import { degreeTypeLabels } from "@/lib/educacion"
+import { institutionTypeLabels } from "@/lib/institution"
+
+export async function getStaticPaths() {
+  const entries = await getCollection("institutions")
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }))
+}
+
+const { entry } = Astro.props
+const { Content } = await render(entry)
+
+const programs = await getCollection("educacion", ({ data }) =>
+  Boolean(data.institution && data.institution === entry.id),
+)
+---
+
+<Layout
+  title={entry.data.short ?? entry.data.name}
+  description={`${entry.data.name} — ${institutionTypeLabels[entry.data.type]} university in Uruguay.`}
+>
+  <div class="pt-6 sm:pt-8 mb-8">
+    <div class="flex flex-wrap items-center gap-2 mb-3">
+      <span
+        class={`badge ${
+          entry.data.type === "public" ? "badge-success" : "badge-secondary"
+        }`}
+      >
+        {institutionTypeLabels[entry.data.type]}
+      </span>
+      {entry.data.isActive ? (
+        <span class="badge-outline text-xs">Activa</span>
+      ) : null}
+    </div>
+
+    <h1 class="font-playfair text-2xl mb-1 font-extrabold text-foreground sm:text-3xl">
+      {entry.data.short
+        ? `${entry.data.name} (${entry.data.short})`
+        : entry.data.name}
+    </h1>
+    {entry.data.location ? (
+      <p class="text-muted-foreground text-sm">{entry.data.location}</p>
+    ) : null}
+  </div>
+
+  <div class="grid gap-8 md:grid-cols-3 mb-8">
+    <div class="md:col-span-2 min-w-0">
+      <div class="prose prose-sm dark:prose-invert max-w-none">
+        <Content />
+      </div>
+    </div>
+
+    <aside class="flex flex-col gap-8">
+      <section>
+        <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+          Contacto
+        </h2>
+        <hr class="border-[var(--border)] mt-2 mb-4" />
+        <div class="flex flex-col gap-2">
+          <a
+            href={entry.data.website}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn-sm inline-flex items-center justify-center gap-1"
+          >
+            Sitio oficial
+          </a>
+          {entry.data.contactEmail ? (
+            <a
+              href={`mailto:${entry.data.contactEmail}`}
+              class="btn-outline btn-sm inline-flex items-center justify-center gap-1"
+            >
+              {entry.data.contactEmail}
+            </a>
+          ) : null}
+          {entry.data.phone ? (
+            <a
+              href={`tel:${entry.data.phone}`}
+              class="btn-outline btn-sm inline-flex items-center justify-center gap-1"
+            >
+              {entry.data.phone}
+            </a>
+          ) : null}
+        </div>
+      </section>
+
+      {entry.data.campuses.length > 0 ? (
+        <section>
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            Sedes
+          </h2>
+          <hr class="border-[var(--border)] mt-2 mb-4" />
+          <ul class="flex flex-col gap-3">
+            {entry.data.campuses.map((campus) => (
+              <li class="text-sm">
+                <p class="font-medium text-foreground">{campus.name}</p>
+                <p class="text-muted-foreground">{campus.location}</p>
+                {campus.address ? (
+                  <p class="text-muted-foreground text-xs">{campus.address}</p>
+                ) : null}
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
+
+      {programs.length > 0 ? (
+        <section>
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            Programas ({programs.length})
+          </h2>
+          <hr class="border-[var(--border)] mt-2 mb-4" />
+          <ul class="flex flex-col gap-2">
+            {programs.map((p) => (
+              <li>
+                <a
+                  href={`/educacion/${p.id}`}
+                  class="text-sm text-foreground hover:underline font-medium"
+                >
+                  {p.data.title}
+                </a>
+                <p class="text-xs text-muted-foreground">
+                  {degreeTypeLabels[p.data.degreeType] ?? p.data.degreeType}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
+
+      {entry.data.tags.length > 0 ? (
+        <section>
+          <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            Tags
+          </h2>
+          <hr class="border-[var(--border)] mt-2 mb-4" />
+          <div class="flex flex-wrap gap-1">
+            {entry.data.tags.map((tag) => (
+              <span class="badge-outline text-xs">{tag}</span>
+            ))}
+          </div>
+        </section>
+      ) : null}
+    </aside>
+  </div>
+
+  <div class="mb-8">
+    <a
+      href="/institutions"
+      class="text-sm text-muted-foreground hover:text-foreground"
+    >
+      ← Volver a Instituciones
+    </a>
+  </div>
+</Layout>
