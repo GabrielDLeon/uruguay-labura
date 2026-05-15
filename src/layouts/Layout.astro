@@ -24,14 +24,7 @@ const { title, description } = Astro.props;
     <Seo title={title} description={description} />
     <Font cssVariable="--font-manrope" preload />
     <Font cssVariable="--font-playfair" preload />
-  </head>
-  <body class="min-h-screen flex flex-col">
-    <Header />
-    <main class="mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6">
-      <slot />
-    </main>
-    <Footer />
-    <script>
+    <script is:inline>
       (() => {
         try {
           const stored = localStorage.getItem("themeMode");
@@ -43,28 +36,36 @@ const { title, description } = Astro.props;
             document.documentElement.classList.add("dark");
           }
         } catch (_) {}
-
-        const apply = (dark: boolean) => {
-          document.documentElement.classList.toggle("dark", dark);
-          try {
-            localStorage.setItem("themeMode", dark ? "dark" : "light");
-          } catch (_) {}
-        };
-
-        const onThemeChange = (event: Event) => {
-          const customEvent = event as CustomEvent<{ mode?: string }>;
-          const mode = customEvent.detail?.mode;
-          apply(
-            mode === "dark"
-              ? true
-              : mode === "light"
-                ? false
-                : !document.documentElement.classList.contains("dark"),
-          );
-        };
-
-        document.addEventListener("basecoat:theme", onThemeChange);
       })();
+    </script>
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <Header />
+    <main class="mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6">
+      <slot />
+    </main>
+    <Footer />
+    <script>
+      const apply = (dark: boolean) => {
+        document.documentElement.classList.toggle("dark", dark);
+        try {
+          localStorage.setItem("themeMode", dark ? "dark" : "light");
+        } catch (_) {}
+      };
+
+      const onThemeChange = (event: Event) => {
+        const customEvent = event as CustomEvent<{ mode?: string }>;
+        const mode = customEvent.detail?.mode;
+        apply(
+          mode === "dark"
+            ? true
+            : mode === "light"
+              ? false
+              : !document.documentElement.classList.contains("dark"),
+        );
+      };
+
+      document.addEventListener("basecoat:theme", onThemeChange);
     </script>
   </body>
 </html>

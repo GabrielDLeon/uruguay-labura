@@ -22,6 +22,8 @@ export const jobSchema = z.object({
     trans: z.boolean(),
     victimasDelitosViolentos: z.boolean(),
   }),
+  vinculoType: z.string().nullable(),
+  totalPositions: z.number().nullable(),
   detailUrl: z.url(),
   applyUrl: z.url().nullable(),
   scrapedAt: z.string(),

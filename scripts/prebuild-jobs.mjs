@@ -1,6 +1,7 @@
 import "dotenv/config";
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 
 const sourceUrl = process.env.SOURCE_URL;
 if (!sourceUrl) {
@@ -11,8 +12,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
   const rootDir = process.cwd();
   const outputPath = path.join(rootDir, "src/data/jobs.generated.json");
   const sourceName = "uruguay-concursa";
-  const jobUrlBase =
-    "https://www.uruguayconcursa.gub.uy/Portal/servlet/com.si.recsel.verllamado?";
+  const jobUrlBase = "https://www.uruguayconcursa.gub.uy/llamado/";
 
   function toNullableString(value) {
     if (typeof value !== "string") {
@@ -45,25 +45,6 @@ export async function fetchAndProcessJobs(sourceUrl) {
     return "otro";
   }
 
-  function parseDateToIso(rawDate) {
-    if (typeof rawDate !== "string") {
-      return null;
-    }
-
-    const trimmed = rawDate.trim();
-    if (!trimmed) {
-      return null;
-    }
-
-    const match = trimmed.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
-    if (!match) {
-      return null;
-    }
-
-    const [, day, month, year] = match;
-    return `${year}-${month}-${day}`;
-  }
-
   function isRecent(openingDateIso, nowIso) {
     if (!openingDateIso) {
       return false;
@@ -80,28 +61,6 @@ export async function fetchAndProcessJobs(sourceUrl) {
     const sevenDaysInMs = 7 * 24 * 60 * 60 * 1000;
 
     return diffInMs >= 0 && diffInMs <= sevenDaysInMs;
-  }
-
-  function inferQuotas(rawQuotas) {
-    const labels = Array.isArray(rawQuotas)
-      ? rawQuotas
-          .filter((quota) => typeof quota === "string")
-          .map((quota) => normalizeText(quota))
-      : [];
-
-    const hasQuota = (matcher) => labels.some((label) => matcher(label));
-
-    return {
-      afrodescendientes: hasQuota((label) => label.includes("afrodescend")),
-      discapacidad: hasQuota((label) => label.includes("discapacidad")),
-      trans: hasQuota((label) => label.includes("trans")),
-      victimasDelitosViolentos: hasQuota(
-        (label) =>
-          label.includes("victima") &&
-          label.includes("delitos") &&
-          label.includes("violentos"),
-      ),
-    };
   }
 
   function flattenRawJobs(payload) {
@@ -121,7 +80,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
         continue;
       }
 
-      if ("id_llamado" in entry) {
+      if ("id" in entry) {
         flattened.push(entry);
       }
     }
@@ -138,19 +97,24 @@ export async function fetchAndProcessJobs(sourceUrl) {
       throw new Error("Invalid job record: expected an object");
     }
 
-    const sourceJobId = toNullableString(rawJob.id_llamado);
-    const callNumber = toNullableString(rawJob.numero_llamado);
-    const title = toNullableString(rawJob.descripcion);
+    const sourceJobId = toNullableString(rawJob.id);
+    const callNumber = toNullableString(rawJob.numero);
+    const title = toNullableString(rawJob.titulo);
     const statusRaw = toNullableString(rawJob.estado) ?? "otro";
 
     if (!sourceJobId || !callNumber || !title) {
       throw new Error(
-        "Invalid job record: id_llamado, numero_llamado and descripcion are required",
+        "Invalid job record: id, numero and titulo are required",
       );
     }
 
-    const openingDate = parseDateToIso(rawJob.fecha_publicacion);
-    const closingDate = parseDateToIso(rawJob.fecha_cierre);
+    const openingDate = toNullableString(rawJob.fecha_apertura);
+    const closingDate = toNullableString(rawJob.fecha_cierre);
+    const vinculoType = toNullableString(rawJob.tipo_vinculo);
+    const totalPositions =
+      typeof rawJob.total_puestos === "number"
+        ? rawJob.total_puestos
+        : null;
 
     return {
       id: `${sourceName}-${sourceJobId}`,
@@ -159,7 +123,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
       callNumber,
       title,
       organization: toNullableString(rawJob.organismo),
-      subOrganization: toNullableString(rawJob.sub_organismo),
+      subOrganization: toNullableString(rawJob.unidad),
       department: null,
       locality: null,
       inciso: null,
@@ -168,7 +132,14 @@ export async function fetchAndProcessJobs(sourceUrl) {
       openingDate,
       closingDate,
       isNew: isRecent(openingDate, nowIso),
-      quotas: inferQuotas(rawJob.cupos),
+      quotas: {
+        afrodescendientes: Boolean(rawJob.cupo_afro),
+        discapacidad: Boolean(rawJob.cupo_discapacidad),
+        trans: Boolean(rawJob.cupo_trans),
+        victimasDelitosViolentos: Boolean(rawJob.cupo_victimas),
+      },
+      vinculoType,
+      totalPositions,
       detailUrl: `${jobUrlBase}${sourceJobId}`,
       applyUrl: `${jobUrlBase}${sourceJobId}`,
       scrapedAt: nowIso,
@@ -213,16 +184,22 @@ export async function fetchAndProcessJobs(sourceUrl) {
     });
   }
 
-  async function fetchSourceData() {
-    const response = await fetch(sourceUrl);
+  async function readSourceData(source) {
+    if (source.startsWith("http://") || source.startsWith("https://")) {
+      const response = await fetch(source);
 
-    if (!response.ok) {
-      throw new Error(
-        `Could not fetch source data (${response.status} ${response.statusText})`,
-      );
+      if (!response.ok) {
+        throw new Error(
+          `Could not fetch source data (${response.status} ${response.statusText})`,
+        );
+      }
+
+      return response.json();
     }
 
-    return response.json();
+    const absolutePath = path.resolve(process.cwd(), source);
+    const content = await readFile(absolutePath, "utf8");
+    return JSON.parse(content);
   }
 
   async function writeDataset(dataset) {
@@ -235,7 +212,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
     );
   }
 
-  const sourcePayload = await fetchSourceData();
+  const sourcePayload = await readSourceData(sourceUrl);
   const nowIso = new Date().toISOString();
   const rawJobs = flattenRawJobs(sourcePayload);
   const jobs = sortJobsByClosingDate(
@@ -254,4 +231,9 @@ export async function fetchAndProcessJobs(sourceUrl) {
   console.log(
     `[prebuild-jobs] Dataset ready at src/data/jobs.generated.json with ${jobs.length} jobs`,
   );
+}
+
+const isMainModule = process.argv[1] === fileURLToPath(import.meta.url);
+if (isMainModule) {
+  await fetchAndProcessJobs(sourceUrl);
 }
