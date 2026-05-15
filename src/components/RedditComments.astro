@@ -1,0 +1,20 @@
+---
+import { Icon } from "astro-icon/components"
+
+interface Props {
+  query: string
+}
+
+const { query } = Astro.props
+const url = `https://www.reddit.com/r/uruguay/search/?q=${encodeURIComponent(query)}`
+---
+
+<a
+  href={url}
+  target="_blank"
+  rel="noopener noreferrer"
+  class="btn-sm-outline inline-flex items-center justify-center gap-1"
+>
+  <Icon name="mdi:reddit" size={16} />
+  Comentarios en Reddit
+</a>

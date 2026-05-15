@@ -1,0 +1,31 @@
+---
+import { Icon } from 'astro-icon/components'
+import { degreeTypeLabels } from '@/lib/educacion'
+
+interface Props {
+  title: string
+  url: string
+  degreeType: string
+}
+
+const { title, url, degreeType } = Astro.props
+---
+
+<a
+  href={url}
+  class="not-prose group flex items-start gap-3 rounded-lg border border-border bg-muted/30 p-4 transition-colors hover:bg-accent/50"
+>
+  <div
+    class="flex size-10 shrink-0 items-center justify-center rounded-md bg-primary/10"
+  >
+    <Icon name="mdi:school" class="size-5 text-primary" />
+  </div>
+  <div class="min-w-0 flex-1">
+    <h4 class="text-sm font-semibold text-foreground group-hover:underline">
+      {title}
+    </h4>
+    <span class="badge-outline mt-1 inline-block text-xs">
+      {degreeTypeLabels[degreeType] ?? degreeType}
+    </span>
+  </div>
+</a>

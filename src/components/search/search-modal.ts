@@ -105,9 +105,10 @@ function createSearchModal() {
         return
       }
 
-      const data = await Promise.all(
-        result.results.slice(0, 8).map((r) => r.data())
-      )
+      const data = (await Promise.all(
+        result.results.map((r) => r.data())
+      )).filter((r) => r.meta.kind === "educacion")
+        .slice(0, 8)
       if (signal.aborted || currentId !== searchCounter) return
 
       renderResults(menu, data)

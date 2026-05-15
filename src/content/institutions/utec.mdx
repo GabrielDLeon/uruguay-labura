@@ -1,0 +1,84 @@
+---
+name: "Universidad Tecnológica del Uruguay"
+short: "UTEC"
+type: "public"
+website: "https://utec.edu.uy"
+contactEmail: "consultas@utec.edu.uy"
+phone: "+598 2603 8832"
+location: "Interior del país"
+tags:
+  - "public"
+  - "interior"
+  - "tecnología"
+  - "innovación"
+  - "informática"
+isActive: true
+---
+
+import CampusCard from '@/components/CampusCard.astro'
+import CareerList from '@/components/CareerList.astro'
+
+UTEC es la Universidad Tecnológica del Uruguay, una propuesta de educación terciaria universitaria pública de perfil tecnológico, orientada a la investigación y la innovación. Fundada en 2012, tiene entre sus objetivos centrales hacer más equitativo el acceso a la oferta educativa en el interior del país.
+
+UTEC opera a través de Institutos Tecnológicos Regionales (ITR) distribuidos en todo el territorio uruguayo, ofreciendo carreras de grado y posgrado en áreas como tecnologías de la información, mecatrónica, logística, energías renovables, biotecnología, alimentos y mas. La universidad se caracteriza por su modelo educativo innovador, con un fuerte componente práctico y vinculación con el sector productivo.
+
+Con sedes en Durazno, Rivera, Fray Bentos, Minas, Maldonado, San José, Paysandú, Melo, Florida y Colonia, UTEC llega a estudiantes de los 19 departamentos del país, siendo muchos de ellos la primera generación universitaria en sus familias.
+
+## Sedes
+
+<div class="not-prose grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+  <CampusCard
+    name="ITR Centro-Sur (Sede Durazno)"
+    location="Durazno"
+    address="Ruta 5, km 329, Durazno"
+  />
+  <CampusCard
+    name="ITR Norte (Sede Rivera)"
+    location="Rivera"
+    address="Av. Guido Machado Brum 2390, Rivera"
+  />
+  <CampusCard
+    name="ITR Suroeste (Sede Fray Bentos)"
+    location="Rio Negro"
+    address="Ruta 2, km 284, Fray Bentos"
+  />
+  <CampusCard
+    name="ITR Este (Sede Minas)"
+    location="Lavalleja"
+    address="Ruta 12, km 2,5, Minas"
+  />
+  <CampusCard
+    name="Sede Maldonado"
+    location="Maldonado"
+    address="CURE Maldonado, Maldonado"
+  />
+  <CampusCard
+    name="Sede San José"
+    location="San José"
+    address="San José de Mayo"
+  />
+  <CampusCard
+    name="Sede Paysandú"
+    location="Paysandú"
+    address="Paysandú"
+  />
+  <CampusCard
+    name="Sede Melo"
+    location="Cerro Largo"
+    address="Melo, Cerro Largo"
+  />
+  <CampusCard
+    name="Sede Florida"
+    location="Florida"
+    address="Florida"
+  />
+  <CampusCard
+    name="Sede Colonia"
+    location="Colonia"
+    address="Colonia"
+  />
+</div>
+
+## Carreras
+
+<CareerList institution="utec" />

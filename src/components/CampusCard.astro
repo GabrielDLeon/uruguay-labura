@@ -1,0 +1,28 @@
+---
+import { Icon } from 'astro-icon/components'
+
+interface Props {
+  name: string
+  location: string
+  address?: string
+}
+
+const { name, location, address } = Astro.props
+---
+
+<div
+  class="not-prose flex items-start gap-3 rounded-lg border border-border bg-muted/30 p-4"
+>
+  <div
+    class="flex size-10 shrink-0 items-center justify-center rounded-md bg-primary/10"
+  >
+    <Icon name="mdi:office-building" class="size-5 text-primary" />
+  </div>
+  <div class="min-w-0 flex-1">
+    <h4 class="text-sm font-semibold text-foreground">{name}</h4>
+    <p class="mt-0.5 text-xs text-muted-foreground">{location}</p>
+    {address ? (
+      <p class="mt-0.5 text-xs text-muted-foreground/70">{address}</p>
+    ) : null}
+  </div>
+</div>

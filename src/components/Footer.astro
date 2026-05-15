@@ -1,39 +1,99 @@
+---
+import { Icon } from 'astro-icon/components'
+---
+
 <footer
   data-pagefind-ignore
-  class="border-y border-[var(--color-border)] text-sm text-muted-foreground"
+  class="border-t border-[var(--color-border)] bg-[var(--card-bg)]/50"
 >
-  <div class="mx-auto w-full max-w-6xl px-4 py-6 sm:px-6">
-    <div
-      class="flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between"
-    >
-      <div class="max-w-2xl">
-        <p class="text-base font-semibold text-foreground">Uruguay Labura</p>
-        <p class="mt-2">
-          Directorio de llamados laborales y educacion en Uruguay con filtros
-          simples y acceso rapido a cada oportunidad.
+  <div class="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6">
+    <div class="grid grid-cols-1 gap-8 sm:grid-cols-3">
+      <!-- Sobre -->
+      <div class="max-w-xs">
+        <h3 class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground">
+          <Icon name="mdi:information-outline" size={18} aria-hidden="true" />
+          Sobre
+        </h3>
+        <p class="text-sm text-muted-foreground">
+          Directorio de llamados laborales y educación en Uruguay con filtros
+          simples y acceso rápido a cada oportunidad.
         </p>
       </div>
 
-      <nav class="grid gap-2 text-sm">
-        <a href="/" class="transition-colors hover:text-foreground">Empleos</a>
-        <a href="/educacion" class="transition-colors hover:text-foreground"
-          >Educacion</a
-        >
-        <a
-          href="https://www.uruguayconcursa.gub.uy"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="transition-colors hover:text-foreground"
-        >
-          Fuente: Uruguay Concursa
-        </a>
-      </nav>
-    </div>
+      <!-- Navegación -->
+      <div>
+        <h3 class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground">
+          <Icon name="mdi:navigation" size={18} aria-hidden="true" />
+          Navegación
+        </h3>
+        <nav class="grid gap-2 text-sm">
+          <a
+            href="/"
+            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Icon name="mdi:briefcase-outline" size={16} aria-hidden="true" />
+            Empleos
+          </a>
+          <a
+            href="/educacion"
+            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Icon name="mdi:school-outline" size={16} aria-hidden="true" />
+            Educación
+          </a>
+          <a
+            href="/educacion/instituciones"
+            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Icon name="mdi:office-building" size={16} aria-hidden="true" />
+            Instituciones
+          </a>
+          <a
+            href="https://www.uruguayconcursa.gub.uy"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Icon name="mdi:open-in-new" size={16} aria-hidden="true" />
+            Uruguay Concursa
+          </a>
+        </nav>
+      </div>
 
-    <div
-      class="mt-5 flex flex-col gap-1 pt-4 text-xs sm:flex-row sm:items-center sm:justify-between"
-    >
-      <p>Uruguay Labura. Proyecto en evolucion.</p>
+      <!-- Comunidad -->
+      <div>
+        <h3 class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground">
+          <Icon name="mdi:share-variant" size={18} aria-hidden="true" />
+          Comunidad
+        </h3>
+        <nav class="grid gap-2 text-sm">
+          <a
+            href="https://github.com/GabrielDLeon/uruguay-labura"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Icon name="mdi:github" size={16} aria-hidden="true" />
+            GitHub
+          </a>
+          <a
+            href="https://twitter.com/uruguaylaburos"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Icon name="mdi:twitter" size={16} aria-hidden="true" />
+            Twitter / X
+          </a>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <!-- Línea inferior full-width -->
+  <div class="border-t border-[var(--color-border)]">
+    <div class="mx-auto w-full max-w-6xl px-4 py-4 text-xs text-muted-foreground sm:flex sm:items-center sm:justify-between sm:px-6">
+      <p>Uruguay Labura. Proyecto en evolución.</p>
       <p>
         Creado por{' '}
         <a
@@ -41,7 +101,9 @@
           target="_blank"
           rel="noopener noreferrer"
           class="transition-colors hover:text-foreground"
-          >Gabriel de León</a>
+        >
+          Gabriel de León
+        </a>
       </p>
     </div>
   </div>

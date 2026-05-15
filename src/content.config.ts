@@ -24,7 +24,7 @@ const institutionSchema = z.object({
 export type InstitutionEntry = z.infer<typeof institutionSchema>;
 
 const institutionsCollection = defineCollection({
-  loader: glob({ base: "./src/content/institutions", pattern: "**/*.md" }),
+  loader: glob({ base: "./src/content/institutions", pattern: "**/*.{md,mdx}" }),
   schema: institutionSchema,
 });
 
@@ -59,12 +59,13 @@ export const educacionSchema = z.object({
   startDate: z.string().optional(),
   applicationDeadline: z.string().optional(),
   tags: z.array(z.string().min(1)).default([]),
+  draft: z.boolean().default(false),
 });
 
 export type EducacionEntry = z.infer<typeof educacionSchema>;
 
 const educacionCollection = defineCollection({
-  loader: glob({ base: "./src/content/educacion", pattern: "**/*.md" }),
+  loader: glob({ base: "./src/content/educacion", pattern: "**/*.{md,mdx}" }),
   schema: educacionSchema,
 });
 

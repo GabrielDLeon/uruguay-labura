@@ -5,6 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
 import icon from "astro-icon";
 import pagefind from "astro-pagefind";
+import mdx from "@astrojs/mdx";
 import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 
 export default defineConfig({
@@ -25,7 +26,7 @@ export default defineConfig({
       styles: ["normal", "italic"],
     },
   ],
-  integrations: [react(), sitemap(), icon(), pagefind()],
+  integrations: [react(), sitemap(), icon(), pagefind(), mdx()],
   vite: {
     plugins: [tailwindcss(), prebuildJobsPlugin()],
     optimizeDeps: {

@@ -19,7 +19,7 @@
 - **Components**: Astro components with frontmatter for logic and TypeScript interfaces for props
 - **Collections**: Define content collections in content.config.ts
 - **Icons**: Import from `astro-icon/components` (e.g., `import { Icon } from "astro-icon/components"`), use MDI icons (e.g., `mdi:menu`)
-- **Styling**: Tailwind CSS + DaisyUI (see `.agents/daisy-llms.txt` for complete component documentation)
+- **Styling**: Tailwind CSS + Basecoat CSS (see `node_modules/basecoat-css/dist/basecoat.css` for component styles)
 - **Config**: YAML files for site configuration
 
 ## Agent Specific Rules

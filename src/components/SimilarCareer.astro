@@ -1,0 +1,26 @@
+---
+interface Props {
+  name: string;
+  url: string;
+  description: string;
+}
+
+const { name, url, description } = Astro.props;
+---
+
+<a
+  href={url}
+  class="group/item flex items-center border text-sm rounded-md transition-colors duration-100 flex-wrap outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] border-transparent bg-muted/50 p-4 gap-4 hover:bg-accent/50"
+>
+  <div class="flex flex-1 flex-col gap-1">
+    <h3 class="flex w-fit items-center gap-2 text-sm leading-snug font-medium">
+      {name}
+    </h3>
+    <p
+      class="text-muted-foreground line-clamp-2 text-xs leading-normal font-normal text-balance"
+    >
+      {description}
+    </p>
+  </div>
+  <span class="btn-sm-outline shrink-0">Ver</span>
+</a>

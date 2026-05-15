@@ -5,7 +5,7 @@ import Layout from "@/layouts/Layout.astro";
 import SearchModal from "@/components/search/SearchModal.astro";
 import { degreeTypeLabels, modalityLabels } from "@/lib/educacion";
 
-const entries = await getCollection("educacion");
+const entries = await getCollection("educacion", ({ data }) => import.meta.env.DEV || !data.draft);
 const institutions = await getCollection("institutions");
 const instMap = new Map(institutions.map((i) => [i.id, i.data]));
 
@@ -58,7 +58,7 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
               <td class="truncate">
                 {inst ? (
                   <a
-                    href={`/institutions/${entry.data.institution}`}
+                    href={`/educacion/instituciones/${entry.data.institution}`}
                     class="hover:underline font-medium"
                   >
                     {inst.short ?? entry.data.institutionName}

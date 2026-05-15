@@ -1,0 +1,29 @@
+---
+import { getCollection } from 'astro:content'
+import CareerCard from '@/components/CareerCard.astro'
+
+interface Props {
+  institution: string
+}
+
+const { institution } = Astro.props
+
+const programs = await getCollection('educacion', ({ data }) =>
+  Boolean(
+    data.institution === institution &&
+      (import.meta.env.DEV || !data.draft),
+  ),
+)
+---
+
+{programs.length > 0 ? (
+  <div class="not-prose grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+    {programs.map((p) => (
+      <CareerCard
+        title={p.data.title}
+        url={`/educacion/${p.id}`}
+        degreeType={p.data.degreeType}
+      />
+    ))}
+  </div>
+) : null}
