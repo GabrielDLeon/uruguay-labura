@@ -18,7 +18,7 @@ const { Content } = await render(entry);
 
 <Layout
   title={entry.data.title}
-  description={`${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
+  description={entry.data.description ?? `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
 >
   <div class="mt-6 mb-4">
     <a
@@ -60,6 +60,19 @@ const { Content } = await render(entry);
       </div>
 
       <aside class="flex flex-col gap-8 h-full">
+        {
+          entry.data.description ? (
+            <section>
+              <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+                Descripcion
+              </h2>
+              <hr class="border-[var(--border)] mt-2 mb-4" />
+              <p class="text-sm text-foreground leading-relaxed">
+                {entry.data.description}
+              </p>
+            </section>
+          ) : null
+        }
         <section>
           <h2
             class="text-xs font-semibold uppercase tracking-widest text-muted-foreground"
@@ -82,12 +95,6 @@ const { Content } = await render(entry);
               <dt class="text-muted-foreground">Modalidad</dt>
               <dd class="font-medium text-right">
                 {modalityLabels[entry.data.modality] ?? entry.data.modality}
-              </dd>
-            </div>
-            <div class="flex justify-between">
-              <dt class="text-muted-foreground">Estado</dt>
-              <dd class="font-medium text-right">
-                {entry.data.isActive ? "Inscripcion abierta" : "Inscripcion cerrada"}
               </dd>
             </div>
             <div class="flex justify-between">

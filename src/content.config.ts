@@ -55,7 +55,7 @@ export const educacionSchema = z.object({
   contactEmail: z.string().email().optional(),
   location: z.string().min(1).optional(),
   accreditation: z.string().min(1).optional(),
-  isActive: z.boolean().default(true),
+  description: z.string().min(1).optional(),
   startDate: z.string().optional(),
   applicationDeadline: z.string().optional(),
   tags: z.array(z.string().min(1)).default([]),
