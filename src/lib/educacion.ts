@@ -16,6 +16,30 @@ export const modalityLabels: Record<string, string> = {
   hibrido: "Hibrido",
 };
 
+import { SOLIDARITY_INSTITUTIONS } from "@/config/financial";
+
+export function getSolidarityFundInfo(
+  institutionSlug: string | undefined,
+  duration: string,
+): { applies: boolean; tier: "short" | "long" | null; additional: boolean } {
+  if (!institutionSlug)
+    return { applies: false, tier: null, additional: false };
+
+  const slug = institutionSlug.toLowerCase();
+  const applies = SOLIDARITY_INSTITUTIONS.includes(slug);
+  if (!applies) return { applies: false, tier: null, additional: false };
+
+  const years = parseInt(duration, 10);
+  const tier = Number.isNaN(years) || years < 4 ? "short" : "long";
+  const additional = slug === "udelar" && !Number.isNaN(years) && years >= 5;
+
+  return { applies: true, tier, additional };
+}
+
+export function formatCurrency(amount: number): string {
+  return `$${new Intl.NumberFormat("es-UY").format(amount)}`;
+}
+
 export function formatDate(date: string | null | undefined) {
   if (!date) {
     return "-";

@@ -1,0 +1,67 @@
+---
+import { Icon } from "astro-icon/components";
+import { solidarityFundRates } from "@/config/financial";
+import { formatCurrency } from "@/lib/educacion";
+
+interface Props {
+  tier: "short" | "long" | null;
+  additional: boolean;
+}
+
+const { tier, additional } = Astro.props;
+const rates = solidarityFundRates[tier!];
+---
+
+<section>
+  <h2
+    class="text-xs font-semibold uppercase tracking-widest text-muted-foreground"
+  >
+    Aportes
+  </h2>
+  <hr class="border-[var(--border)] mt-2 mb-4" />
+  <a
+    href="https://egresados.fondodesolidaridad.edu.uy/aportes-y-montos"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="rounded-lg border border-border bg-muted/30 p-4 block hover:bg-accent/50 transition-colors"
+  >
+    <div class="flex flex-col gap-1">
+      <span class="flex items-center gap-2 text-sm text-foreground font-medium">
+        <Icon name="mdi:hand-coin-outline" class="size-4 shrink-0" />
+        <span>Aporta al Fondo de Solidaridad</span>
+      </span>
+      <p class="text-xs text-muted-foreground mt-1">
+        Aporte sujeto a ingresos del egresado. Ver condiciones en la pagina del
+        Fondo.
+      </p>
+      <div class="grid grid-cols-2 gap-x-2 gap-y-1 text-xs mt-2">
+        <span class="text-muted-foreground">Egresado hace</span>
+        <span class="text-muted-foreground text-right">Monto Anual</span>
+        <span class="text-foreground">{rates.gradual.range}</span>
+        <span class="text-foreground text-right"
+          >{formatCurrency(rates.gradual.amount)}</span
+        >
+        <span class="text-foreground">{rates.full.range}</span>
+        <span class="text-foreground text-right"
+          >{formatCurrency(rates.full.amount)}</span
+        >
+      </div>
+      {
+        additional ? (
+          <>
+            <hr class="border-[var(--border)] my-2 mx-0" />
+            <p class="text-xs text-muted-foreground">Aporte Adicional UDELAR</p>
+            <div class="grid grid-cols-2 gap-x-2 text-xs">
+              <span class="text-foreground">
+                {solidarityFundRates.additional.range}
+              </span>
+              <span class="text-foreground text-right">
+                {formatCurrency(solidarityFundRates.additional.amount)}
+              </span>
+            </div>
+          </>
+        ) : null
+      }
+    </div>
+  </a>
+</section>

@@ -2,10 +2,19 @@
 import { getCollection, render } from "astro:content";
 
 import Layout from "@/layouts/Layout.astro";
-import { degreeTypeLabels, modalityLabels, formatDate } from "@/lib/educacion";
+import {
+  degreeTypeLabels,
+  modalityLabels,
+  formatDate,
+  getSolidarityFundInfo,
+} from "@/lib/educacion";
+import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
 
 export async function getStaticPaths() {
-  const entries = await getCollection("educacion", ({ data }) => import.meta.env.DEV || !data.draft);
+  const entries = await getCollection(
+    "educacion",
+    ({ data }) => import.meta.env.DEV || !data.draft,
+  );
   return entries.map((entry) => ({
     params: { slug: entry.id },
     props: { entry },
@@ -14,11 +23,17 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
+const solidarityFund = getSolidarityFundInfo(
+  entry.data.institution,
+  entry.data.duration,
+);
 ---
 
 <Layout
   title={entry.data.title}
-  description={entry.data.description ?? `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
+  description={entry.data.description ??
+    `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
 >
   <div class="mt-6 mb-4">
     <a
@@ -88,7 +103,10 @@ const { Content } = await render(entry);
             <div class="flex justify-between">
               <dt class="text-muted-foreground">Tipo</dt>
               <dd class="font-medium text-right">
-                {degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType}
+                {
+                  degreeTypeLabels[entry.data.degreeType] ??
+                    entry.data.degreeType
+                }
               </dd>
             </div>
             <div class="flex justify-between">
@@ -175,6 +193,15 @@ const { Content } = await render(entry);
         }
 
         {
+          solidarityFund.applies ? (
+            <SolidarityFundInfo
+              tier={solidarityFund.tier}
+              additional={solidarityFund.additional}
+            />
+          ) : null
+        }
+
+        {
           entry.data.tags.length > 0 ? (
             <section>
               <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
@@ -233,16 +260,16 @@ const { Content } = await render(entry);
 
 <script>
   document.addEventListener("click", (e: MouseEvent) => {
-    const target = e.target as HTMLElement | null
-    if (!target) return
-    const btn = target.closest("[data-copy]") as HTMLElement | null
+    const target = e.target as HTMLElement | null;
+    if (!target) return;
+    const btn = target.closest("[data-copy]") as HTMLElement | null;
     if (btn) {
-      navigator.clipboard.writeText(btn.dataset.copy ?? "")
-      const original = btn.textContent
-      btn.textContent = "Copiado!"
+      navigator.clipboard.writeText(btn.dataset.copy ?? "");
+      const original = btn.textContent;
+      btn.textContent = "Copiado!";
       setTimeout(() => {
-        btn.textContent = original
-      }, 2000)
+        btn.textContent = original;
+      }, 2000);
     }
-  })
+  });
 </script>
