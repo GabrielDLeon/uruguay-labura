@@ -42,6 +42,8 @@ const { title, description } = Astro.props;
     </main>
     <Footer />
     <script>
+      import "basecoat-css/all"
+
       const apply = (dark: boolean) => {
         document.documentElement.classList.toggle("dark", dark);
         try {

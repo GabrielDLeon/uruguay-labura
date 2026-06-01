@@ -55,8 +55,10 @@ const { Content } = await render(entry)
 
   <div class="grid gap-8 md:grid-cols-3 mb-8">
     <div class="md:col-span-2 min-w-0">
-      <div class="prose prose-sm dark:prose-invert max-w-none">
-        <Content />
+      <div class="rounded-xl bg-[var(--muted)] p-6">
+        <div class="prose prose-sm dark:prose-invert max-w-none">
+          <Content />
+        </div>
       </div>
     </div>
 

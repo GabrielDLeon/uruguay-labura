@@ -44,37 +44,31 @@ const solidarityFund = getSolidarityFundInfo(
     </a>
   </div>
 
+  <div class="mb-6">
+    <h1
+      class="font-playfair text-2xl mb-1 font-extrabold text-foreground sm:text-3xl"
+    >
+      {entry.data.title}
+    </h1>
+    <p class="text-muted-foreground text-base">
+      {
+        entry.data.institution ? (
+          <a
+            href={`/educacion/instituciones/${entry.data.institution}`}
+            class="hover:underline"
+          >
+            {entry.data.institutionName}
+          </a>
+        ) : (
+          entry.data.institutionName
+        )
+      }
+    </p>
+  </div>
+
   <div data-pagefind-body class="mb-8">
     <div class="grid gap-8 md:grid-cols-3">
-      <div class="md:col-span-2 min-w-0">
-        <div class="mb-6">
-          <h1
-            class="font-playfair text-2xl mb-1 font-extrabold text-foreground sm:text-3xl"
-          >
-            {entry.data.title}
-          </h1>
-          <p class="text-muted-foreground text-base">
-            {
-              entry.data.institution ? (
-                <a
-                  href={`/educacion/instituciones/${entry.data.institution}`}
-                  class="hover:underline"
-                >
-                  {entry.data.institutionName}
-                </a>
-              ) : (
-                entry.data.institutionName
-              )
-            }
-          </p>
-        </div>
-
-        <div class="prose prose-sm dark:prose-invert max-w-none">
-          <Content />
-        </div>
-      </div>
-
-      <aside class="flex flex-col gap-8 h-full">
+      <aside class="flex flex-col gap-8 h-full md:order-2">
         {
           entry.data.description ? (
             <section>
@@ -177,43 +171,11 @@ const solidarityFund = getSolidarityFundInfo(
         </section>
 
         {
-          entry.data.requirements.length > 0 ? (
-            <section>
-              <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-                Requisitos
-              </h2>
-              <hr class="border-[var(--border)] mt-2 mb-4" />
-              <ul class="list-inside list-disc text-sm text-muted-foreground space-y-1">
-                {entry.data.requirements.map((req) => (
-                  <li>{req}</li>
-                ))}
-              </ul>
-            </section>
-          ) : null
-        }
-
-        {
           solidarityFund.applies ? (
             <SolidarityFundInfo
               tier={solidarityFund.tier}
               additional={solidarityFund.additional}
             />
-          ) : null
-        }
-
-        {
-          entry.data.tags.length > 0 ? (
-            <section>
-              <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-                Etiquetas
-              </h2>
-              <hr class="border-[var(--border)] mt-2 mb-4" />
-              <div class="flex flex-wrap gap-1">
-                {entry.data.tags.map((tag) => (
-                  <span class="badge-outline text-xs">{tag}</span>
-                ))}
-              </div>
-            </section>
           ) : null
         }
 
@@ -247,6 +209,12 @@ const solidarityFund = getSolidarityFundInfo(
           </div>
         </section>
       </aside>
+
+      <div class="md:order-1 md:col-span-2 min-w-0">
+        <div id="tabbed-content" class="prose prose-sm dark:prose-invert max-w-none">
+          <Content />
+        </div>
+      </div>
     </div>
     <span
       data-pagefind-meta={`degreeType:${degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType}`}

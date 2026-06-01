@@ -5,6 +5,7 @@ export const degreeTypeLabels: Record<string, string> = {
   diplomado: "Diplomado",
   posdoctorado: "Posdoctorado",
   tecnologo: "Tecnologo",
+  ingenieria: "Ingenieria",
   licenciatura: "Licenciatura",
   tecnicatura: "Tecnicatura",
   otro: "Otro",

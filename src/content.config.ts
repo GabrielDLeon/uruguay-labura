@@ -36,6 +36,7 @@ export const educacionSchema = z.object({
   degreeType: z.enum([
     "maestria",
     "especializacion",
+    "ingenieria",
     "doctorado",
     "diplomado",
     "posdoctorado",
