@@ -7,7 +7,7 @@
   --pagefind-ui-border-width: 2px;
   --pagefind-ui-border-radius: 0.5rem;
   --pagefind-ui-image-border-radius: 0.5rem;
-  --pagefind-ui-font: var(--font-manrope), sans-serif;
+  --pagefind-ui-font: ui-sans-serif, system-ui, sans-serif;
 }
 
 .dark {
@@ -43,19 +43,19 @@ body {
 }
 
 .font-playfair {
-  font-family: var(--font-playfair), serif;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 #search-trigger {
   cursor: pointer;
 }
 
-.command-dialog [role='menuitem'] {
+.command-dialog [role="menuitem"] {
   white-space: normal;
   align-items: flex-start;
 }
 
-.command-dialog [role='menuitem'] .truncate {
+.command-dialog [role="menuitem"] .truncate {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
