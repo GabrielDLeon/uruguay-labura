@@ -4,6 +4,7 @@ import OrganizationLabel from "@/components/jobs/OrganizationLabel";
 import {
   MAX_TITLE_LENGTH,
   formatDate,
+  formatRelative,
   shorten,
   statusClass,
 } from "@/components/jobs/jobs";
@@ -32,7 +33,7 @@ export default function JobsList({ jobs }: Props) {
             {job.isNew ? <span className="badge">Nuevo</span> : null}
           </header>
           <section>
-            <h3 className="font-playfair text-base font-semibold">
+            <h3 className="text-base font-semibold">
               <span className="block truncate" title={job.title}>
                 {shorten(job.title, MAX_TITLE_LENGTH)}
               </span>
@@ -62,7 +63,7 @@ export default function JobsList({ jobs }: Props) {
                   className="shrink-0"
                   aria-hidden="true"
                 />
-                Cierre: {formatDate(job.closingDate)}
+                Cierre: {formatRelative(job.closingDate)?.label ?? "-"}
               </span>
               <span>Tipo: {job.taskType ?? "Sin dato"}</span>
               <span>Inciso: {job.inciso ?? "Sin dato"}</span>

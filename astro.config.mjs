@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig } from "astro/config";
+import { defineConfig, fontProviders } from "astro/config";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -12,6 +12,15 @@ import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 export default defineConfig({
   site: "https://uruguaylaburos.uy",
   integrations: [react(), sitemap(), icon(), pagefind(), mdx({ remarkPlugins: [remarkTabs] })],
+  fonts: [
+    {
+      provider: fontProviders.fontsource(),
+      name: "Inter",
+      cssVariable: "--font-inter",
+      weights: [400, 500, 600, 700],
+      styles: ["normal"],
+    },
+  ],
   vite: {
     plugins: [tailwindcss(), prebuildJobsPlugin()],
     optimizeDeps: {

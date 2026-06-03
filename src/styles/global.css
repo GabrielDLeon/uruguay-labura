@@ -2,36 +2,51 @@
 @plugin "@tailwindcss/typography";
 @import "basecoat-css";
 
+@theme {
+  --font-sans: "Inter", "Inter Fallback", sans-serif;
+}
+
 :root {
+  --bar-l1: #f97316;
+  --bar-l2: #eab308;
+  --bar-l3: #84cc16;
+  --bar-l4: #22c55e;
+  --bar-inactive: #e0e0e0;
   --pagefind-ui-scale: 0.85;
   --pagefind-ui-border-width: 2px;
   --pagefind-ui-border-radius: 0.5rem;
   --pagefind-ui-image-border-radius: 0.5rem;
-  --pagefind-ui-font: ui-sans-serif, system-ui, sans-serif;
+  --pagefind-ui-font: "Inter", "Inter Fallback", sans-serif;
+}
+
+.prose.dark\:prose-invert {
+  --tw-prose-invert-th-borders: var(--border);
+  --tw-prose-invert-td-borders: var(--border);
 }
 
 .dark {
-  --background: #181818;
-  --foreground: #cacaca;
-  --card: #262626;
-  --card-foreground: #cacaca;
-  --primary: #cacaca;
-  --primary-foreground: #181818;
-  --secondary: #262626;
-  --secondary-foreground: #cacaca;
-  --muted: #262626;
-  --muted-foreground: #a0a0a0;
-  --accent: #262626;
-  --accent-foreground: #cacaca;
-  --border: #333333;
-  --input: #333333;
-  --ring: #555555;
-  --sidebar: #262626;
-  --sidebar-foreground: #cacaca;
-  --sidebar-accent: #333333;
-  --sidebar-accent-foreground: #cacaca;
-  --sidebar-border: #333333;
-  --sidebar-ring: #555555;
+  --bar-inactive: #3a3a3a;
+  --background: #191919;
+  --foreground: #D4D4D4;
+  --card: #202020;
+  --card-foreground: #D4D4D4;
+  --primary: #D4D4D4;
+  --primary-foreground: #191919;
+  --secondary: #202020;
+  --secondary-foreground: #D4D4D4;
+  --muted: #202020;
+  --muted-foreground: #838383;
+  --accent: #202020;
+  --accent-foreground: #D4D4D4;
+  --border: #2F2F2F;
+  --input: #2F2F2F;
+  --ring: #2F2F2F;
+  --sidebar: #202020;
+  --sidebar-foreground: #D4D4D4;
+  --sidebar-accent: #2F2F2F;
+  --sidebar-accent-foreground: #D4D4D4;
+  --sidebar-border: #2F2F2F;
+  --sidebar-ring: #2F2F2F;
 }
 
 .card {
@@ -40,10 +55,6 @@
 
 body {
   min-height: 100vh;
-}
-
-.font-playfair {
-  font-family: Georgia, "Times New Roman", serif;
 }
 
 #search-trigger {
