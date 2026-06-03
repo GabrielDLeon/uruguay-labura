@@ -1,14 +1,18 @@
 ---
 import { getCollection, render } from "astro:content";
 
+import { Icon } from "astro-icon/components";
 import Layout from "@/layouts/Layout.astro";
 import {
   degreeTypeLabels,
   modalityLabels,
+  modalityBarFilled,
+  getDegreeTypeBarInfo,
   formatDate,
   getSolidarityFundInfo,
 } from "@/lib/educacion";
 import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
+import BarIndicator from "@/components/BarIndicator.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -45,9 +49,7 @@ const solidarityFund = getSolidarityFundInfo(
   </div>
 
   <div class="mb-6">
-    <h1
-      class="font-playfair text-2xl mb-1 font-extrabold text-foreground sm:text-3xl"
-    >
+    <h1 class="text-2xl mb-1 font-bold text-foreground sm:text-3xl">
       {entry.data.title}
     </h1>
     <p class="text-muted-foreground text-base">
@@ -73,7 +75,7 @@ const solidarityFund = getSolidarityFundInfo(
           entry.data.description ? (
             <section>
               <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-                Descripcion
+                Descripción
               </h2>
               <hr class="border-[var(--border)] mt-2 mb-4" />
               <p class="text-sm text-foreground leading-relaxed">
@@ -82,6 +84,21 @@ const solidarityFund = getSolidarityFundInfo(
             </section>
           ) : null
         }
+        <section class="space-y-3">
+          <BarIndicator
+            label="Tipo"
+            value={degreeTypeLabels[entry.data.degreeType] ??
+              entry.data.degreeType}
+            total={4}
+            filled={getDegreeTypeBarInfo(entry.data.degreeType).filled}
+          />
+          <BarIndicator
+            label="Modalidad"
+            value={modalityLabels[entry.data.modality] ?? entry.data.modality}
+            total={3}
+            filled={modalityBarFilled[entry.data.modality] ?? 1}
+          />
+        </section>
         <section>
           <h2
             class="text-xs font-semibold uppercase tracking-widest text-muted-foreground"
@@ -91,32 +108,18 @@ const solidarityFund = getSolidarityFundInfo(
           <hr class="border-[var(--border)] mt-2 mb-4" />
           <dl class="grid gap-2 text-sm">
             <div class="flex justify-between">
-              <dt class="text-muted-foreground">Area</dt>
+              <dt class="text-muted-foreground">Área</dt>
               <dd class="font-medium text-right">{entry.data.area}</dd>
             </div>
+
             <div class="flex justify-between">
-              <dt class="text-muted-foreground">Tipo</dt>
-              <dd class="font-medium text-right">
-                {
-                  degreeTypeLabels[entry.data.degreeType] ??
-                    entry.data.degreeType
-                }
-              </dd>
-            </div>
-            <div class="flex justify-between">
-              <dt class="text-muted-foreground">Modalidad</dt>
-              <dd class="font-medium text-right">
-                {modalityLabels[entry.data.modality] ?? entry.data.modality}
-              </dd>
-            </div>
-            <div class="flex justify-between">
-              <dt class="text-muted-foreground">Duracion</dt>
+              <dt class="text-muted-foreground">Duración</dt>
               <dd class="font-medium text-right">{entry.data.duration}</dd>
             </div>
             {
               entry.data.credits ? (
                 <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Creditos</dt>
+                  <dt class="text-muted-foreground">Créditos</dt>
                   <dd class="font-medium text-right">{entry.data.credits}</dd>
                 </div>
               ) : null
@@ -132,7 +135,7 @@ const solidarityFund = getSolidarityFundInfo(
             {
               entry.data.location ? (
                 <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Ubicacion</dt>
+                  <dt class="text-muted-foreground">Ubicación</dt>
                   <dd class="font-medium text-right">{entry.data.location}</dd>
                 </div>
               ) : null
@@ -140,7 +143,7 @@ const solidarityFund = getSolidarityFundInfo(
             {
               entry.data.accreditation ? (
                 <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Acreditacion</dt>
+                  <dt class="text-muted-foreground">Acreditación</dt>
                   <dd class="font-medium text-right">
                     {entry.data.accreditation}
                   </dd>
@@ -160,7 +163,7 @@ const solidarityFund = getSolidarityFundInfo(
             {
               entry.data.applicationDeadline ? (
                 <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Cierre inscripcion</dt>
+                  <dt class="text-muted-foreground">Cierre inscripción</dt>
                   <dd class="font-medium text-right">
                     {formatDate(entry.data.applicationDeadline)}
                   </dd>
@@ -208,10 +211,25 @@ const solidarityFund = getSolidarityFundInfo(
             }
           </div>
         </section>
+
+        <div class="flex justify-center">
+          <a
+            href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/educacion/${entry.id}.mdx`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"
+          >
+            <Icon name="mdi:pencil" class="size-3" />
+            Editar contenido
+          </a>
+        </div>
       </aside>
 
       <div class="md:order-1 md:col-span-2 min-w-0">
-        <div id="tabbed-content" class="prose prose-sm dark:prose-invert max-w-none">
+        <div
+          id="tabbed-content"
+          class="prose prose-sm dark:prose-invert max-w-none"
+        >
           <Content />
         </div>
       </div>

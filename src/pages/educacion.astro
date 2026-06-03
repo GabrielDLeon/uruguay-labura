@@ -5,7 +5,10 @@ import Layout from "@/layouts/Layout.astro";
 import SearchModal from "@/components/search/SearchModal.astro";
 import { degreeTypeLabels, modalityLabels } from "@/lib/educacion";
 
-const entries = await getCollection("educacion", ({ data }) => import.meta.env.DEV || !data.draft);
+const entries = await getCollection(
+  "educacion",
+  ({ data }) => import.meta.env.DEV || !data.draft,
+);
 const institutions = await getCollection("institutions");
 const instMap = new Map(institutions.map((i) => [i.id, i.data]));
 
@@ -13,16 +16,16 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
 ---
 
 <Layout
-  title="Educacion en Uruguay"
+  title="Educación en Uruguay"
   description="Explora postgrados, maestrias, especializaciones y otras opciones de educacion superior en Uruguay."
 >
   <section class="mb-8 pt-6 sm:pt-8">
-    <h1 class="font-playfair text-2xl mb-2 font-extrabold text-foreground sm:text-3xl">
-      Educacion en Uruguay
+    <h1 class="text-2xl mb-2 font-bold text-foreground">
+      Educación en Uruguay
     </h1>
-    <p class="max-w-3xl text-sm sm:text-base text-muted-foreground">
-      Recopilacion de postgrados, maestrias, especializaciones y otras opciones
-      de formacion superior disponibles en el pais. Un lugar unico para quienes
+    <p class="max-w-2xl text-sm text-muted-foreground">
+      Recopilación de Postgrados, Maestrías, Especializaciones y otras opciones
+      de formación superior disponibles en el país. Un único lugar para quienes
       buscan seguir creciendo profesionalmente.
     </p>
   </section>
@@ -37,7 +40,6 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
         <col />
         <col class="w-28" />
         <col class="w-24" />
-        <col class="w-28" />
       </colgroup>
       <thead>
         <tr>
@@ -46,57 +48,55 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
           <th>Titulo</th>
           <th>Modalidad</th>
           <th>Duracion</th>
-          <th>Accion</th>
         </tr>
       </thead>
       <tbody>
         {
           entries.map((entry) => {
-            const inst = entry.data.institution ? instMap.get(entry.data.institution) : null
+            const inst = entry.data.institution
+              ? instMap.get(entry.data.institution)
+              : null;
             return (
-            <tr>
-              <td class="truncate">
-                {inst ? (
-                  <a
-                    href={`/educacion/instituciones/${entry.data.institution}`}
-                    class="hover:underline font-medium"
-                  >
-                    {inst.short ?? entry.data.institutionName}
-                  </a>
-                ) : (
-                  <span title={entry.data.institution}>
-                    {entry.data.institution}
-                  </span>
-                )}
-              </td>
-              <td class="truncate">
-                {degreeTypeLabels[entry.data.degreeType] ??
-                  entry.data.degreeType}
-              </td>
-              <td>
-                <div class="font-semibold">
-                  <a href={`/educacion/${entry.id}`} class="hover:underline">
-                    {entry.data.title}
-                  </a>
-                </div>
-                <div class="text-muted-foreground text-xs">
-                  {entry.data.area}
-                </div>
-              </td>
-              <td class="truncate">
-                {modalityLabels[entry.data.modality] ?? entry.data.modality}
-              </td>
-              <td class="whitespace-nowrap">{entry.data.duration}</td>
-              <td class="whitespace-nowrap">
-                <a
-                  href={`/educacion/${entry.id}`}
-                  class="btn btn-sm inline-flex items-center gap-1"
-                >
-                  Ver mas
-                </a>
-              </td>
-            </tr>
-            )
+              <tr
+                onclick={`window.location.href='/educacion/${entry.id}'`}
+                onkeydown={`if(event.key==='Enter'||event.key===' '){event.preventDefault();window.location.href='/educacion/${entry.id}'}`}
+                tabindex="0"
+                role="link"
+                class="cursor-pointer hover:bg-[#222222]"
+              >
+                <td class="truncate">
+                  {inst ? (
+                    <a
+                      href={`/educacion/instituciones/${entry.data.institution}`}
+                      class="hover:underline font-medium"
+                      onclick="event.stopPropagation()"
+                    >
+                      {inst.short ?? entry.data.institutionName}
+                    </a>
+                  ) : (
+                    <span title={entry.data.institution}>
+                      {entry.data.institution}
+                    </span>
+                  )}
+                </td>
+                <td class="truncate">
+                  {degreeTypeLabels[entry.data.degreeType] ??
+                    entry.data.degreeType}
+                </td>
+                <td>
+                  <div class="font-semibold">
+                    <span>{entry.data.title}</span>
+                  </div>
+                  <div class="text-muted-foreground text-xs">
+                    {entry.data.area}
+                  </div>
+                </td>
+                <td class="truncate">
+                  {modalityLabels[entry.data.modality] ?? entry.data.modality}
+                </td>
+                <td class="whitespace-nowrap">{entry.data.duration}</td>
+              </tr>
+            );
           })
         }
       </tbody>

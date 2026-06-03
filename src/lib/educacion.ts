@@ -17,6 +17,38 @@ export const modalityLabels: Record<string, string> = {
   hibrido: "Hibrido",
 };
 
+export const modalityBarFilled: Record<string, number> = {
+  presencial: 1,
+  hibrido: 2,
+  virtual: 3,
+};
+
+export const degreeTypeGroupLabels: Record<string, string> = {
+  diplomado: "Diplomado",
+  tecnico: "Tecnico",
+  grado: "Grado",
+  posgrado: "Posgrado",
+};
+
+const degreeTypeGroupMap: Record<string, { group: string; filled: number }> = {
+  diplomado: { group: "diplomado", filled: 1 },
+  otro: { group: "diplomado", filled: 1 },
+  tecnicatura: { group: "tecnico", filled: 2 },
+  tecnologo: { group: "tecnico", filled: 2 },
+  licenciatura: { group: "grado", filled: 3 },
+  ingenieria: { group: "grado", filled: 3 },
+  especializacion: { group: "posgrado", filled: 4 },
+  maestria: { group: "posgrado", filled: 4 },
+  doctorado: { group: "posgrado", filled: 4 },
+  posdoctorado: { group: "posgrado", filled: 4 },
+};
+
+export function getDegreeTypeBarInfo(
+  degreeType: string,
+): { group: string; filled: number } {
+  return degreeTypeGroupMap[degreeType] ?? { group: "diplomado", filled: 1 };
+}
+
 import { SOLIDARITY_INSTITUTIONS } from "@/config/financial";
 
 export function getSolidarityFundInfo(

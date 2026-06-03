@@ -1,7 +1,10 @@
-import { Icon } from "@iconify/react/offline";
-
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
-import { MAX_TITLE_LENGTH, formatDate, shorten } from "@/components/jobs/jobs";
+import {
+  MAX_TITLE_LENGTH,
+  formatDate,
+  formatRelative,
+  shorten,
+} from "@/components/jobs/jobs";
 import type { JobRecord } from "@/types/jobs";
 
 interface Props {
@@ -19,7 +22,6 @@ export default function JobsTable({ jobs }: Props) {
             <col />
             <col className="w-28" />
             <col className="w-28" />
-            <col className="w-40" />
           </colgroup>
           <thead>
             <tr>
@@ -28,21 +30,29 @@ export default function JobsTable({ jobs }: Props) {
               <th>Titulo</th>
               <th>Apertura</th>
               <th>Cierre</th>
-              <th>Accion</th>
             </tr>
           </thead>
           <tbody>
             {jobs.map((job) => (
-              <tr key={job.id}>
+              <tr
+                key={job.id}
+                onClick={() =>
+                  window.open(job.applyUrl ?? job.detailUrl, "_blank")
+                }
+                onKeyDown={(e) => {
+                  if (e.key === "Enter" || e.key === " ") {
+                    e.preventDefault()
+                    window.open(job.applyUrl ?? job.detailUrl, "_blank")
+                  }
+                }}
+                tabIndex={0}
+                role="link"
+                className="cursor-pointer hover:bg-[#222222]"
+              >
                 <td className="whitespace-nowrap">
-                  <a
-                    href={job.detailUrl}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="badge-outline inline-flex items-center"
-                  >
+                  <span className="badge-outline inline-flex items-center">
                     {job.callNumber}
-                  </a>
+                  </span>
                 </td>
                 <td className="truncate" title={job.taskType ?? "Sin dato"}>
                   {job.taskType ?? "Sin dato"}
@@ -50,14 +60,14 @@ export default function JobsTable({ jobs }: Props) {
                 <td>
                   <div className="font-semibold">
                     <span
-                      className="block max-w-[42ch] truncate"
+                      className="block truncate"
                       title={job.title}
                     >
                       {shorten(job.title, MAX_TITLE_LENGTH)}
                     </span>
                   </div>
                   <div
-                    className="text-muted-foreground max-w-[42ch] text-xs"
+                    className="text-muted-foreground truncate text-xs"
                     title={`${job.organization ?? "Sin dato"}${job.subOrganization ? ` (${job.subOrganization})` : ""}`}
                   >
                     <OrganizationLabel
@@ -69,23 +79,11 @@ export default function JobsTable({ jobs }: Props) {
                 <td className="whitespace-nowrap">
                   {formatDate(job.openingDate)}
                 </td>
-                <td className="whitespace-nowrap">
-                  {formatDate(job.closingDate)}
-                </td>
-                <td className="whitespace-nowrap">
-                  <a
-                    className="btn btn-sm inline-flex items-center gap-1"
-                    href={job.applyUrl ?? job.detailUrl}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Ver llamado
-                    <Icon
-                      icon="mdi:account-credit-card"
-                      width="24"
-                      height="24"
-                    />
-                  </a>
+                <td
+                  className="whitespace-nowrap"
+                  title={formatRelative(job.closingDate)?.title}
+                >
+                  {formatRelative(job.closingDate)?.label ?? "-"}
                 </td>
               </tr>
             ))}
