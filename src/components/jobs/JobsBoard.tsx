@@ -20,17 +20,37 @@ import {
   getOrganizationSearchText,
 } from "@/lib/organizations";
 
-export default function JobsBoard() {
+interface JobsBoardProps {
+  initialQuery?: string
+  initialCallNumber?: string
+  initialOrganization?: string
+  initialTaskType?: string
+  initialAfro?: boolean
+  initialDiscapacidad?: boolean
+  initialTrans?: boolean
+  initialVictimas?: boolean
+}
+
+export default function JobsBoard({
+  initialQuery = "",
+  initialCallNumber = "",
+  initialOrganization = "",
+  initialTaskType = "",
+  initialAfro = false,
+  initialDiscapacidad = false,
+  initialTrans = false,
+  initialVictimas = false,
+}: JobsBoardProps) {
   const { jobs, scrapedAt, loadError, isLoading, retry } = useJobs();
 
-  const [query, setQuery] = useState("");
-  const [callNumber, setCallNumber] = useState("");
-  const [organization, setOrganization] = useState("");
-  const [taskType, setTaskType] = useState("");
-  const [afro, setAfro] = useState(false);
-  const [discapacidad, setDiscapacidad] = useState(false);
-  const [trans, setTrans] = useState(false);
-  const [victimas, setVictimas] = useState(false);
+  const [query, setQuery] = useState(initialQuery);
+  const [callNumber, setCallNumber] = useState(initialCallNumber);
+  const [organization, setOrganization] = useState(initialOrganization);
+  const [taskType, setTaskType] = useState(initialTaskType);
+  const [afro, setAfro] = useState(initialAfro);
+  const [discapacidad, setDiscapacidad] = useState(initialDiscapacidad);
+  const [trans, setTrans] = useState(initialTrans);
+  const [victimas, setVictimas] = useState(initialVictimas);
   const [viewportMode, setViewportMode] = useState<
     "both" | "desktop" | "mobile"
   >("both");
@@ -55,6 +75,39 @@ export default function JobsBoard() {
       mediaQuery.removeEventListener("change", applyMode);
     };
   }, []);
+
+  useEffect(() => {
+    const params = new URLSearchParams()
+    if (query) params.set("q", query)
+    if (callNumber) params.set("call", callNumber)
+    if (organization) params.set("org", organization)
+    if (taskType) params.set("type", taskType)
+    if (afro) params.set("afro", "1")
+    if (discapacidad) params.set("disc", "1")
+    if (trans) params.set("trans", "1")
+    if (victimas) params.set("vict", "1")
+
+    const search = params.toString()
+    const newURL = search ? `?${search}` : window.location.pathname
+    history.replaceState(null, "", newURL)
+  }, [query, callNumber, organization, taskType, afro, discapacidad, trans, victimas])
+
+  useEffect(() => {
+    const onPopState = () => {
+      const params = new URLSearchParams(window.location.search)
+      setQuery(params.get("q") ?? "")
+      setCallNumber(params.get("call") ?? "")
+      setOrganization(params.get("org") ?? "")
+      setTaskType(params.get("type") ?? "")
+      setAfro(params.get("afro") === "1")
+      setDiscapacidad(params.get("disc") === "1")
+      setTrans(params.get("trans") === "1")
+      setVictimas(params.get("vict") === "1")
+    }
+
+    window.addEventListener("popstate", onPopState)
+    return () => window.removeEventListener("popstate", onPopState)
+  }, [])
 
   const organizationOptions = useMemo<SearchableSelectOption[]>(() => {
     return [...new Set(jobs.map((job) => cleanOption(job.organization)))]

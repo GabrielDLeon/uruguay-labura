@@ -24,5 +24,15 @@ import Layout from "@/layouts/Layout.astro";
     </p>
   </section>
 
-  <JobsBoard client:load />
+  <JobsBoard
+    client:load
+    initialQuery={Astro.url.searchParams.get('q') ?? ''}
+    initialCallNumber={Astro.url.searchParams.get('call') ?? ''}
+    initialOrganization={Astro.url.searchParams.get('org') ?? ''}
+    initialTaskType={Astro.url.searchParams.get('type') ?? ''}
+    initialAfro={Astro.url.searchParams.get('afro') === '1'}
+    initialDiscapacidad={Astro.url.searchParams.get('disc') === '1'}
+    initialTrans={Astro.url.searchParams.get('trans') === '1'}
+    initialVictimas={Astro.url.searchParams.get('vict') === '1'}
+  />
 </Layout>

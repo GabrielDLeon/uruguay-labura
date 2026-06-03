@@ -18,16 +18,16 @@ export default function JobsTable({ jobs }: Props) {
         <table className="table table-fixed w-full min-w-[900px]">
           <colgroup>
             <col className="w-24" />
-            <col className="w-48" />
             <col />
+            <col className="w-48" />
             <col className="w-28" />
             <col className="w-28" />
           </colgroup>
           <thead>
             <tr>
               <th>Llamado</th>
-              <th>Tipo</th>
               <th>Titulo</th>
+              <th>Tipo</th>
               <th>Apertura</th>
               <th>Cierre</th>
             </tr>
@@ -54,9 +54,6 @@ export default function JobsTable({ jobs }: Props) {
                     {job.callNumber}
                   </span>
                 </td>
-                <td className="truncate" title={job.taskType ?? "Sin dato"}>
-                  {job.taskType ?? "Sin dato"}
-                </td>
                 <td>
                   <div className="font-semibold">
                     <span
@@ -75,6 +72,9 @@ export default function JobsTable({ jobs }: Props) {
                       subOrganization={job.subOrganization}
                     />
                   </div>
+                </td>
+                <td className="truncate" title={job.taskType ?? "Sin dato"}>
+                  {job.taskType ?? "Sin dato"}
                 </td>
                 <td className="whitespace-nowrap">
                   {formatDate(job.openingDate)}
