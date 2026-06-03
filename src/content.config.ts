@@ -49,7 +49,6 @@ export const educacionSchema = z.object({
   modality: z.enum(["presencial", "virtual", "hibrido"]),
   duration: z.string().min(1),
   credits: z.number().int().nonnegative().optional(),
-  requirements: z.array(z.string().min(1)),
   cost: z.string().min(1),
   language: z.string().min(1).default("Espanol"),
   website: z.string().url(),
