@@ -1,38 +1,104 @@
 ---
-import JobsBoard from "@/components/jobs/JobsBoard";
 import Layout from "@/layouts/Layout.astro";
 ---
 
 <Layout
-  title="Llamados laborales en Uruguay"
-  description="Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada."
+  title="Empleos y educación en Uruguay"
+  description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay."
 >
   <section class="mb-8 pt-6 sm:pt-8">
     <h1 class="text-2xl mb-2 font-bold text-foreground">
-      Llamados laborales de Uruguay
+      Uruguay Labura
     </h1>
     <p class="max-w-2xl text-sm text-muted-foreground">
-      El siguiente listado es una recopilación semanal de los concursos
-      actualmente disponibles y activos del sitio
-      <a
-        href="https://www.uruguayconcursa.gub.uy"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="underline decoration-dotted underline-offset-3 hover:text-foreground"
-        >Uruguay Concursa</a
-      >. El proyecto busca mejorar la experiencia de los usuarios.
+      Directorio centralizado de llamados laborales y oportunidades educativas
+      en Uruguay. Seleccioná una sección para empezar.
     </p>
   </section>
 
-  <JobsBoard
-    client:load
-    initialQuery={Astro.url.searchParams.get('q') ?? ''}
-    initialCallNumber={Astro.url.searchParams.get('call') ?? ''}
-    initialOrganization={Astro.url.searchParams.get('org') ?? ''}
-    initialTaskType={Astro.url.searchParams.get('type') ?? ''}
-    initialAfro={Astro.url.searchParams.get('afro') === '1'}
-    initialDiscapacidad={Astro.url.searchParams.get('disc') === '1'}
-    initialTrans={Astro.url.searchParams.get('trans') === '1'}
-    initialVictimas={Astro.url.searchParams.get('vict') === '1'}
-  />
+  <div class="mt-8 grid gap-6 sm:grid-cols-2">
+    <a
+      href="/empleos"
+      class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+    >
+      <span class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        ><path d="M8 7V6a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1"/><rect width="16" height="12" x="4" y="7" rx="2"/><path d="M12 12v.01"/><path d="M12 16v.01"/><path d="M4 11h16"/></svg>
+      </span>
+      <div>
+        <h2 class="text-lg font-semibold text-foreground">Empleos</h2>
+        <p class="mt-1 text-sm text-muted-foreground">
+          Llamados laborales de Uruguay Concursa con filtros y vista
+          centralizada.
+        </p>
+      </div>
+    </a>
+
+    <a
+      href="/educacion"
+      class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+    >
+      <span class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        ><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 1.1 2.7 3 6 3s6-1.9 6-3v-5"/></svg>
+      </span>
+      <div>
+        <h2 class="text-lg font-semibold text-foreground">Educación</h2>
+        <p class="mt-1 text-sm text-muted-foreground">
+          Postgrados, maestrías, especializaciones y otras opciones de formación
+          superior en Uruguay.
+        </p>
+      </div>
+    </a>
+  </div>
+
+  <section class="my-12">
+    <h2 class="text-xl font-bold text-foreground mb-4">Sobre el Proyecto</h2>
+    <div class="prose prose-base max-w-2xl text-foreground prose-strong:text-foreground">
+      <p>
+        Uruguay Labura nace de una necesidad personal: hacer más accesible la
+        búsqueda de oportunidades laborales y educativas en Uruguay. La página
+        de <strong>Uruguay Concursa</strong>, si bien es una herramienta
+        valiosa, presenta una interfaz que dificulta la navegación y la
+        comparación rápida de llamados. Este proyecto busca simplificar esa
+        experiencia, ofreciendo una vista centralizada, filtros intuitivos y un
+        diseño moderno que priorice al usuario.
+      </p>
+      <p>
+        Con el tiempo, el proyecto se expandió al ámbito de la
+        <strong>educación</strong>. La información sobre postgrados, maestrías,
+        especializaciones y otras instancias de formación superior se encuentra
+        dispersa en decenas de sitios institucionales, lo que hace difícil
+        tener un panorama completo. La idea es construir un punto de encuentro
+        donde cualquier persona pueda descubrir, comparar y acceder a estas
+        oportunidades sin tener que recorrer la web institucional una por una.
+      </p>
+      <p>
+        Este es un proyecto <strong>en evolución constante</strong>. Voy
+        incorporando mejoras de forma progresiva y estoy abierto a sugerencias
+        y contribuciones. Si alguien quiere sumarse, puede abrir un
+        <strong>PR en GitHub</strong> — lo voy a recibir con gusto y lo voy a
+        revisar con atención. Todo sea por mejorar el acceso a la información
+        en Uruguay.
+      </p>
+    </div>
+  </section>
 </Layout>

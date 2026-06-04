@@ -62,7 +62,7 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
                 onkeydown={`if(event.key==='Enter'||event.key===' '){event.preventDefault();window.location.href='/educacion/${entry.id}'}`}
                 tabindex="0"
                 role="link"
-                class="cursor-pointer hover:bg-[#222222]"
+                class="cursor-pointer hover:bg-[var(--muted)]"
               >
                 <td class="truncate">
                   {inst ? (

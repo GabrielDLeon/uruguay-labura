@@ -47,7 +47,7 @@ export default function JobsTable({ jobs }: Props) {
                 }}
                 tabIndex={0}
                 role="link"
-                className="cursor-pointer hover:bg-[#222222]"
+                className="cursor-pointer hover:bg-[var(--muted)]"
               >
                 <td className="whitespace-nowrap">
                   <span className="badge-outline inline-flex items-center">

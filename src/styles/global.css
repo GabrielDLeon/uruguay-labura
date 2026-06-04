@@ -7,6 +7,29 @@
 }
 
 :root {
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+  --card: #ffffff;
+  --card-foreground: #1a1a1a;
+  --primary: #1a1a1a;
+  --primary-foreground: #fafafa;
+  --secondary: #f5f5f5;
+  --secondary-foreground: #1a1a1a;
+  --muted: #f5f5f5;
+  --muted-foreground: #737373;
+  --accent: #f5f5f5;
+  --accent-foreground: #1a1a1a;
+  --border: #e5e5e5;
+  --input: #e5e5e5;
+  --ring: #d4d4d4;
+  --sidebar: #fafafa;
+  --sidebar-foreground: #1a1a1a;
+  --sidebar-accent: #f5f5f5;
+  --sidebar-accent-foreground: #1a1a1a;
+  --sidebar-border: #e5e5e5;
+  --sidebar-ring: #d4d4d4;
+  --card-bg: #ffffff;
+  --border-subtle: #eeeeee;
   --bar-l1: #f97316;
   --bar-l2: #eab308;
   --bar-l3: #84cc16;
@@ -47,6 +70,8 @@
   --sidebar-accent-foreground: #D4D4D4;
   --sidebar-border: #2F2F2F;
   --sidebar-ring: #2F2F2F;
+  --card-bg: #202020;
+  --border-subtle: #2a2a2a;
 }
 
 .card {

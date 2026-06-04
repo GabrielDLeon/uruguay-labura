@@ -1,9 +1,9 @@
 export const siteConfig = {
   name: "Uruguay Labura",
-  titleDefault: "Uruguay Labura | Empleos centralizados",
+  titleDefault: "Uruguay Labura | Empleos y educación",
   titleTemplate: "%s | Uruguay Labura",
   description:
-    "Buscador centralizado de llamados laborales en Uruguay, comenzando por Uruguay Concursa.",
+    "Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay.",
   robots: {
     noindex: false,
     nofollow: false,
@@ -15,6 +15,6 @@ export const siteConfig = {
     name: "/og-image.png",
     width: 960,
     height: 720,
-    alt: "Listado centralizado de empleos en Uruguay",
+    alt: "Directorio centralizado de empleos y educación en Uruguay",
   },
 };
