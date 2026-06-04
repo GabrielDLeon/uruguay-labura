@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
 
 import Layout from "@/layouts/Layout.astro";
 import SearchModal from "@/components/search/SearchModal.astro";
@@ -68,9 +69,16 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
                   {inst ? (
                     <a
                       href={`/educacion/instituciones/${entry.data.institution}`}
-                      class="hover:underline font-medium"
+                      class="hover:underline font-medium "
                       onclick="event.stopPropagation()"
                     >
+                      {inst?.logo && (
+                        <Image
+                          src={inst.logo}
+                          alt={inst.name}
+                          class="h-7 w-auto object-contain rounded inline-block mr-1"
+                        />
+                      )}
                       {inst.short ?? entry.data.institutionName}
                     </a>
                   ) : (
@@ -91,10 +99,10 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
                     {entry.data.area}
                   </div>
                 </td>
-                <td class="truncate">
+                <td class="truncate ">
                   {modalityLabels[entry.data.modality] ?? entry.data.modality}
                 </td>
-                <td class="whitespace-nowrap">{entry.data.duration}</td>
+                <td class="whitespace-nowrap ">{entry.data.duration}</td>
               </tr>
             );
           })

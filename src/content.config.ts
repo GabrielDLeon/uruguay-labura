@@ -2,12 +2,6 @@ import { defineCollection } from "astro:content";
 import { z } from "astro/zod";
 import { glob } from "astro/loaders";
 
-const campusSchema = z.object({
-  name: z.string().min(1),
-  location: z.string().min(1),
-  address: z.string().optional(),
-});
-
 const institutionSchema = z.object({
   name: z.string().min(1),
   short: z.string().optional(),
@@ -16,16 +10,21 @@ const institutionSchema = z.object({
   contactEmail: z.string().email().optional(),
   phone: z.string().optional(),
   location: z.string().optional(),
-  campuses: z.array(campusSchema).default([]),
+  departments: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
   isActive: z.boolean().default(true),
+  description: z.string().optional(),
+  color: z.string().optional(),
 });
 
 export type InstitutionEntry = z.infer<typeof institutionSchema>;
 
 const institutionsCollection = defineCollection({
   loader: glob({ base: "./src/content/institutions", pattern: "**/*.{md,mdx}" }),
-  schema: institutionSchema,
+  schema: ({ image }) =>
+    institutionSchema.extend({
+      logo: image().optional(),
+    }),
 });
 
 export const educacionSchema = z.object({

@@ -1,0 +1,33 @@
+---
+import rawSvg from "@/assets/uruguay.svg?raw"
+
+interface Props {
+  highlighted?: string[]
+}
+
+const { highlighted = [] } = Astro.props
+
+const highlightedSet = new Set(highlighted)
+
+const innerContent = rawSvg.replace(
+  /^[\s\S]*?<svg[^>]*>([\s\S]*)<\/svg>[\s\S]*$/,
+  "$1",
+)
+
+const coloredContent = innerContent.replace(
+  /(<path[^>]*?id="(UY-[A-Z]+)"[^>]*?)(\/>)/g,
+  (_match, before, id, close) => {
+    const fill = highlightedSet.has(id)
+      ? "var(--map-highlight)"
+      : "var(--map-default)"
+    return `${before} fill="${fill}" stroke="var(--map-stroke)" stroke-width="1.5"${close}`
+  },
+)
+---
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 547.23975 594.42578"
+  class="w-full h-auto"
+  set:html={coloredContent}
+/>

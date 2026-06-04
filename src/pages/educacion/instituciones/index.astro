@@ -55,8 +55,8 @@ entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"))
             {
               entry.data.location ? (
                 <span>
-                  {entry.data.campuses.length > 1
-                    ? `${entry.data.campuses.length} campuses in ${entry.data.location} + ${entry.data.campuses.length - 1} more`
+                  {entry.data.departments.length > 1
+                    ? `${entry.data.departments.length} departments in ${entry.data.location} + ${entry.data.departments.length - 1} more`
                     : entry.data.location}
                 </span>
               ) : null

@@ -40,6 +40,9 @@
   --pagefind-ui-border-radius: 0.5rem;
   --pagefind-ui-image-border-radius: 0.5rem;
   --pagefind-ui-font: "Inter", "Inter Fallback", sans-serif;
+  --map-highlight: #ef4444;
+  --map-default: #e5e7eb;
+  --map-stroke: #f5f5f5;
 }
 
 .prose.dark\:prose-invert {
@@ -72,6 +75,9 @@
   --sidebar-ring: #2F2F2F;
   --card-bg: #202020;
   --border-subtle: #2a2a2a;
+  --map-highlight: #a83232;
+  --map-default: #202020;
+  --map-stroke: #2a2a2a;
 }
 
 .card {
