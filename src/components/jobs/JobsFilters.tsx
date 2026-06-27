@@ -74,6 +74,7 @@ export default function JobsFilters({
             </label>
             <input
               id="job-search"
+              type="text"
               className="input"
               placeholder="Titulo, organismo o suborganismo"
               value={query}
@@ -97,6 +98,7 @@ export default function JobsFilters({
             </label>
             <input
               id="job-call-number"
+              type="text"
               className="input"
               placeholder="0015/2026"
               value={callNumber}
