@@ -64,32 +64,17 @@ export async function fetchAndProcessJobs(sourceUrl) {
   }
 
   function flattenRawJobs(payload) {
-    if (!Array.isArray(payload)) {
-      throw new Error("Invalid gist payload: root must be an array");
+    if (!payload || typeof payload !== "object") {
+      throw new Error("Invalid gist payload: root must be an object");
     }
 
-    const flattened = [];
-
-    for (const entry of payload) {
-      if (!entry || typeof entry !== "object") {
-        continue;
-      }
-
-      if (Array.isArray(entry.jobs)) {
-        flattened.push(...entry.jobs);
-        continue;
-      }
-
-      if ("id" in entry) {
-        flattened.push(entry);
-      }
+    if (!Array.isArray(payload.jobs) || payload.jobs.length === 0) {
+      throw new Error(
+        "Invalid gist payload: root.jobs must be a non-empty array",
+      );
     }
 
-    if (flattened.length === 0) {
-      throw new Error("Invalid gist payload: no jobs found");
-    }
-
-    return flattened;
+    return payload.jobs;
   }
 
   function normalizeJob(rawJob, nowIso) {
@@ -97,23 +82,23 @@ export async function fetchAndProcessJobs(sourceUrl) {
       throw new Error("Invalid job record: expected an object");
     }
 
-    const sourceJobId = toNullableString(rawJob.id);
-    const callNumber = toNullableString(rawJob.numero);
-    const title = toNullableString(rawJob.titulo);
-    const statusRaw = toNullableString(rawJob.estado) ?? "otro";
+    const sourceJobId = toNullableString(rawJob.source_job_id);
+    const callNumber = toNullableString(rawJob.call_number);
+    const title = toNullableString(rawJob.title);
+    const statusRaw = toNullableString(rawJob.status) ?? "otro";
 
     if (!sourceJobId || !callNumber || !title) {
       throw new Error(
-        "Invalid job record: id, numero and titulo are required",
+        "Invalid job record: source_job_id, call_number and title are required",
       );
     }
 
-    const openingDate = toNullableString(rawJob.fecha_apertura);
-    const closingDate = toNullableString(rawJob.fecha_cierre);
-    const vinculoType = toNullableString(rawJob.tipo_vinculo);
+    const openingDate = toNullableString(rawJob.opening_date);
+    const closingDate = toNullableString(rawJob.closing_date);
+    const vinculoType = toNullableString(rawJob.link_type);
     const totalPositions =
-      typeof rawJob.total_puestos === "number"
-        ? rawJob.total_puestos
+      typeof rawJob.total_positions === "number"
+        ? rawJob.total_positions
         : null;
 
     return {
@@ -122,21 +107,21 @@ export async function fetchAndProcessJobs(sourceUrl) {
       sourceJobId,
       callNumber,
       title,
-      organization: toNullableString(rawJob.organismo),
-      subOrganization: toNullableString(rawJob.unidad),
+      organization: toNullableString(rawJob.organization),
+      subOrganization: toNullableString(rawJob.sub_organization),
       department: null,
       locality: null,
       inciso: null,
-      taskType: toNullableString(rawJob.tipo_tarea),
+      taskType: toNullableString(rawJob.task_type),
       status: normalizeStatus(statusRaw),
       openingDate,
       closingDate,
       isNew: isRecent(openingDate, nowIso),
       quotas: {
-        afrodescendientes: Boolean(rawJob.cupo_afro),
-        discapacidad: Boolean(rawJob.cupo_discapacidad),
-        trans: Boolean(rawJob.cupo_trans),
-        victimasDelitosViolentos: Boolean(rawJob.cupo_victimas),
+        afrodescendientes: Boolean(rawJob.quota_afro),
+        discapacidad: Boolean(rawJob.quota_disability),
+        trans: Boolean(rawJob.quota_trans),
+        victimasDelitosViolentos: Boolean(rawJob.quota_victims),
       },
       vinculoType,
       totalPositions,

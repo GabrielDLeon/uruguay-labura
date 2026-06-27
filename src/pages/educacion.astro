@@ -36,19 +36,21 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
   <section class="overflow-x-auto">
     <table class="table table-fixed w-full min-w-[900px]">
       <colgroup>
-        <col class="w-56" />
-        <col class="w-32" />
+        <col class="w-28" />
         <col />
+        <col class="w-32" />
         <col class="w-28" />
         <col class="w-24" />
+        <col class="w-36" />
       </colgroup>
       <thead>
         <tr>
-          <th>Institucion</th>
+          <th>Institución</th>
+          <th>Título</th>
           <th>Tipo</th>
-          <th>Titulo</th>
           <th>Modalidad</th>
-          <th>Duracion</th>
+          <th>Duración</th>
+          <th>Matrícula</th>
         </tr>
       </thead>
       <tbody>
@@ -87,10 +89,6 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
                     </span>
                   )}
                 </td>
-                <td class="truncate">
-                  {degreeTypeLabels[entry.data.degreeType] ??
-                    entry.data.degreeType}
-                </td>
                 <td>
                   <div class="font-semibold">
                     <span>{entry.data.title}</span>
@@ -99,10 +97,28 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
                     {entry.data.area}
                   </div>
                 </td>
-                <td class="truncate ">
-                  {modalityLabels[entry.data.modality] ?? entry.data.modality}
+                <td>
+                  <span class="badge-outline text-xs">
+                    {degreeTypeLabels[entry.data.degreeType] ??
+                      entry.data.degreeType}
+                  </span>
+                </td>
+                <td>
+                  <span class="badge-outline text-xs">
+                    {modalityLabels[entry.data.modality] ??
+                      entry.data.modality}
+                  </span>
                 </td>
                 <td class="whitespace-nowrap ">{entry.data.duration}</td>
+                <td>
+                  {
+                    entry.data.cost === "Gratuita" ? (
+                      <span class="text-muted-foreground">-</span>
+                    ) : (
+                      entry.data.cost
+                    )
+                  }
+                </td>
               </tr>
             );
           })

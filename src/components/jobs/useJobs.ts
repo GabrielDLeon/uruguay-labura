@@ -48,7 +48,21 @@ export default function useJobs() {
           throw new Error("Dataset con formato invalido");
         }
 
-        setJobs(dataset.jobs);
+        const now = new Date()
+        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
+
+        setJobs(
+          dataset.jobs.filter((job) => {
+            if (!job.closingDate) return true
+            const closingDate = new Date(job.closingDate)
+            const target = new Date(
+              closingDate.getFullYear(),
+              closingDate.getMonth(),
+              closingDate.getDate(),
+            )
+            return target >= today
+          }),
+        );
         setScrapedAt(dataset.scrapedAt);
       } catch (error) {
         if (controller.signal.aborted) {
