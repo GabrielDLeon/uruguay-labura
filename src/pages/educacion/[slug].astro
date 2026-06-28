@@ -13,6 +13,8 @@ import {
 } from "@/lib/educacion";
 import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
 import BarIndicator from "@/components/BarIndicator.astro";
+import AsideSection from "@/components/AsideSection.astro";
+import KeyValueList from "@/components/KeyValueList.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -32,6 +34,26 @@ const solidarityFund = getSolidarityFundInfo(
   entry.data.institution,
   entry.data.duration,
 );
+
+const detailItems = [
+  { label: "Área", value: entry.data.area },
+  { label: "Duración", value: entry.data.duration },
+  { label: "Créditos", value: entry.data.credits },
+  { label: "Costo", value: entry.data.cost },
+  { label: "Idioma", value: entry.data.language },
+  { label: "Ubicación", value: entry.data.location },
+  { label: "Acreditación", value: entry.data.accreditation },
+  {
+    label: "Inicio",
+    value: entry.data.startDate ? formatDate(entry.data.startDate) : undefined,
+  },
+  {
+    label: "Cierre inscripción",
+    value: entry.data.applicationDeadline
+      ? formatDate(entry.data.applicationDeadline)
+      : undefined,
+  },
+];
 ---
 
 <Layout
@@ -39,12 +61,12 @@ const solidarityFund = getSolidarityFundInfo(
   description={entry.data.description ??
     `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
 >
-  <div class="mt-6 mb-4">
+  <div class="mb-4">
     <a
       href="/educacion"
       class="text-sm text-muted-foreground hover:text-foreground"
     >
-      ← Volver a Educacion
+      ← Volver a Educación
     </a>
   </div>
 
@@ -73,15 +95,11 @@ const solidarityFund = getSolidarityFundInfo(
       <aside class="flex flex-col gap-8 h-full md:order-2">
         {
           entry.data.description ? (
-            <section>
-              <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-                Descripción
-              </h2>
-              <hr class="border-[var(--border)] mt-2 mb-4" />
+            <AsideSection title="Descripción">
               <p class="text-sm text-foreground leading-relaxed">
                 {entry.data.description}
               </p>
-            </section>
+            </AsideSection>
           ) : null
         }
         <section class="space-y-3">
@@ -99,79 +117,9 @@ const solidarityFund = getSolidarityFundInfo(
             filled={modalityBarFilled[entry.data.modality] ?? 1}
           />
         </section>
-        <section>
-          <h2
-            class="text-xs font-semibold uppercase tracking-widest text-muted-foreground"
-          >
-            Detalles
-          </h2>
-          <hr class="border-[var(--border)] mt-2 mb-4" />
-          <dl class="grid gap-2 text-sm">
-            <div class="flex justify-between">
-              <dt class="text-muted-foreground">Área</dt>
-              <dd class="font-medium text-right">{entry.data.area}</dd>
-            </div>
-
-            <div class="flex justify-between">
-              <dt class="text-muted-foreground">Duración</dt>
-              <dd class="font-medium text-right">{entry.data.duration}</dd>
-            </div>
-            {
-              entry.data.credits ? (
-                <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Créditos</dt>
-                  <dd class="font-medium text-right">{entry.data.credits}</dd>
-                </div>
-              ) : null
-            }
-            <div class="flex justify-between">
-              <dt class="text-muted-foreground">Costo</dt>
-              <dd class="font-medium text-right">{entry.data.cost}</dd>
-            </div>
-            <div class="flex justify-between">
-              <dt class="text-muted-foreground">Idioma</dt>
-              <dd class="font-medium text-right">{entry.data.language}</dd>
-            </div>
-            {
-              entry.data.location ? (
-                <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Ubicación</dt>
-                  <dd class="font-medium text-right">{entry.data.location}</dd>
-                </div>
-              ) : null
-            }
-            {
-              entry.data.accreditation ? (
-                <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Acreditación</dt>
-                  <dd class="font-medium text-right">
-                    {entry.data.accreditation}
-                  </dd>
-                </div>
-              ) : null
-            }
-            {
-              entry.data.startDate ? (
-                <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Inicio</dt>
-                  <dd class="font-medium text-right">
-                    {formatDate(entry.data.startDate)}
-                  </dd>
-                </div>
-              ) : null
-            }
-            {
-              entry.data.applicationDeadline ? (
-                <div class="flex justify-between">
-                  <dt class="text-muted-foreground">Cierre inscripción</dt>
-                  <dd class="font-medium text-right">
-                    {formatDate(entry.data.applicationDeadline)}
-                  </dd>
-                </div>
-              ) : null
-            }
-          </dl>
-        </section>
+        <AsideSection title="Detalles">
+          <KeyValueList items={detailItems} />
+        </AsideSection>
 
         {
           solidarityFund.applies ? (
@@ -182,13 +130,7 @@ const solidarityFund = getSolidarityFundInfo(
           ) : null
         }
 
-        <section>
-          <h2
-            class="text-xs font-semibold uppercase tracking-widest text-muted-foreground"
-          >
-            Contacto
-          </h2>
-          <hr class="border-[var(--border)] mt-2 mb-4" />
+        <AsideSection title="Contacto">
           <div class="flex flex-col gap-2">
             <a
               href={entry.data.website}
@@ -210,7 +152,7 @@ const solidarityFund = getSolidarityFundInfo(
               ) : null
             }
           </div>
-        </section>
+        </AsideSection>
 
         <div class="flex justify-center">
           <a
@@ -243,19 +185,3 @@ const solidarityFund = getSolidarityFundInfo(
     <span data-pagefind-meta="kind:educacion"></span>
   </div>
 </Layout>
-
-<script>
-  document.addEventListener("click", (e: MouseEvent) => {
-    const target = e.target as HTMLElement | null;
-    if (!target) return;
-    const btn = target.closest("[data-copy]") as HTMLElement | null;
-    if (btn) {
-      navigator.clipboard.writeText(btn.dataset.copy ?? "");
-      const original = btn.textContent;
-      btn.textContent = "Copiado!";
-      setTimeout(() => {
-        btn.textContent = original;
-      }, 2000);
-    }
-  });
-</script>

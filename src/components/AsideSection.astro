@@ -1,0 +1,16 @@
+---
+interface Props {
+  title: string
+  style?: string | Record<string, string>
+}
+
+const { title, style } = Astro.props
+---
+
+<section {style}>
+  <h2 class="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+    {title}
+  </h2>
+  <hr class="border-(--border) mt-2 mb-4" />
+  <slot />
+</section>
