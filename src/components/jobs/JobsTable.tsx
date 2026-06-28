@@ -1,6 +1,8 @@
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
 import {
+  HIDDEN_TAGS,
   MAX_TITLE_LENGTH,
+  TAG_LABELS,
   formatDate,
   formatRelative,
   shorten,
@@ -19,7 +21,7 @@ export default function JobsTable({ jobs }: Props) {
           <colgroup>
             <col className="w-24" />
             <col />
-            <col className="w-48" />
+            <col className="w-78" />
             <col className="w-28" />
             <col className="w-28" />
           </colgroup>
@@ -27,7 +29,7 @@ export default function JobsTable({ jobs }: Props) {
             <tr>
               <th>Llamado</th>
               <th>Titulo</th>
-              <th>Tipo</th>
+              <th>Tags</th>
               <th>Apertura</th>
               <th>Cierre</th>
             </tr>
@@ -70,8 +72,17 @@ export default function JobsTable({ jobs }: Props) {
                     />
                   </div>
                 </td>
-                <td className="truncate" title={job.taskType ?? "Sin dato"}>
-                  {job.taskType ?? "Sin dato"}
+                <td
+                  className="truncate"
+                  title={job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((t) => TAG_LABELS[t] ?? t).join(", ")}
+                >
+                  <span className="inline-flex gap-1">
+                    {job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((tag) => (
+                      <span key={tag} className="badge-outline text-xs">
+                        {TAG_LABELS[tag] ?? tag}
+                      </span>
+                    ))}
+                  </span>
                 </td>
                 <td className="whitespace-nowrap">
                   {formatDate(job.openingDate)}

@@ -125,6 +125,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
       },
       vinculoType,
       totalPositions,
+      tags: Array.isArray(rawJob.tags) ? rawJob.tags : [],
       detailUrl: `${jobUrlBase}${sourceJobId}`,
       applyUrl: `${jobUrlBase}${sourceJobId}`,
       scrapedAt: nowIso,

@@ -26,6 +26,7 @@ export interface JobRecord {
   quotas: JobQuotaFlags;
   vinculoType: string | null;
   totalPositions: number | null;
+  tags: string[];
   detailUrl: string;
   applyUrl: string | null;
   scrapedAt: string;

@@ -24,6 +24,7 @@ export const jobSchema = z.object({
   }),
   vinculoType: z.string().nullable(),
   totalPositions: z.number().nullable(),
+  tags: z.array(z.string()),
   detailUrl: z.url(),
   applyUrl: z.url().nullable(),
   scrapedAt: z.string(),
