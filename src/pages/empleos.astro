@@ -1,38 +1,35 @@
 ---
 import JobsBoard from "@/components/jobs/JobsBoard";
 import Layout from "@/layouts/Layout.astro";
+import PageHeader from "@/components/PageHeader.astro";
 ---
 
 <Layout
   title="Llamados laborales en Uruguay"
   description="Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada."
 >
-  <section class="mb-8 pt-6 sm:pt-8">
-    <h1 class="text-2xl mb-2 font-bold text-foreground">
-      Llamados laborales de Uruguay
-    </h1>
-    <p class="max-w-2xl text-sm text-muted-foreground">
-      El siguiente listado es una recopilación semanal de los concursos
-      actualmente disponibles y activos del sitio
-      <a
-        href="https://www.uruguayconcursa.gub.uy"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="underline decoration-dotted underline-offset-3 hover:text-foreground"
-        >Uruguay Concursa</a
-      >. El proyecto busca mejorar la experiencia de los usuarios.
-    </p>
-  </section>
+  <PageHeader title="Llamados laborales de Uruguay">
+    El siguiente listado es una recopilación semanal de los concursos
+    actualmente disponibles y activos del sitio
+    <a
+      href="https://www.uruguayconcursa.gub.uy"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="underline decoration-dotted underline-offset-3 hover:text-foreground"
+      >Uruguay Concursa</a
+    >. El proyecto busca mejorar la experiencia de los usuarios.
+  </PageHeader>
 
   <JobsBoard
     client:load
-    initialQuery={Astro.url.searchParams.get('q') ?? ''}
-    initialCallNumber={Astro.url.searchParams.get('call') ?? ''}
-    initialOrganization={Astro.url.searchParams.get('org') ?? ''}
-    initialTaskType={Astro.url.searchParams.get('type') ?? ''}
-    initialAfro={Astro.url.searchParams.get('afro') === '1'}
-    initialDiscapacidad={Astro.url.searchParams.get('disc') === '1'}
-    initialTrans={Astro.url.searchParams.get('trans') === '1'}
-    initialVictimas={Astro.url.searchParams.get('vict') === '1'}
+    initialQuery={Astro.url.searchParams.get("q") ?? ""}
+    initialCallNumber={Astro.url.searchParams.get("call") ?? ""}
+    initialOrganization={Astro.url.searchParams.get("org") ?? ""}
+    initialTaskType={Astro.url.searchParams.get("type") ?? ""}
+    initialAfro={Astro.url.searchParams.get("afro") === "1"}
+    initialDiscapacidad={Astro.url.searchParams.get("disc") === "1"}
+    initialTrans={Astro.url.searchParams.get("trans") === "1"}
+    initialVictimas={Astro.url.searchParams.get("vict") === "1"}
+    initialPage={Math.max(1, Number(Astro.url.searchParams.get("page") ?? "1"))}
   />
 </Layout>
