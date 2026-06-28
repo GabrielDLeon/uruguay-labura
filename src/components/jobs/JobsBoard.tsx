@@ -5,11 +5,12 @@ import "@/styles/global.css";
 import type { SearchableSelectOption } from "@/components/common/SearchableSelect";
 import JobsFilters from "@/components/jobs/JobsFilters";
 import JobsList from "@/components/jobs/JobsList";
+import JobsPagination from "@/components/jobs/JobsPagination";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
 import JobsTable from "@/components/jobs/JobsTable";
 import {
   MIN_CALL_NUMBER_CHARS,
-  MAX_VISIBLE_RESULTS,
+  ITEMS_PER_PAGE,
   cleanOption,
   normalize,
 } from "@/components/jobs/jobs";
@@ -21,14 +22,15 @@ import {
 } from "@/lib/organizations";
 
 interface JobsBoardProps {
-  initialQuery?: string
-  initialCallNumber?: string
-  initialOrganization?: string
-  initialTaskType?: string
-  initialAfro?: boolean
-  initialDiscapacidad?: boolean
-  initialTrans?: boolean
-  initialVictimas?: boolean
+  initialQuery?: string;
+  initialCallNumber?: string;
+  initialOrganization?: string;
+  initialTaskType?: string;
+  initialAfro?: boolean;
+  initialDiscapacidad?: boolean;
+  initialTrans?: boolean;
+  initialVictimas?: boolean;
+  initialPage?: number;
 }
 
 export default function JobsBoard({
@@ -40,6 +42,7 @@ export default function JobsBoard({
   initialDiscapacidad = false,
   initialTrans = false,
   initialVictimas = false,
+  initialPage = 1,
 }: JobsBoardProps) {
   const { jobs, scrapedAt, loadError, isLoading, retry } = useJobs();
 
@@ -54,6 +57,41 @@ export default function JobsBoard({
   const [viewportMode, setViewportMode] = useState<
     "both" | "desktop" | "mobile"
   >("both");
+
+  const [page, setPage] = useState(initialPage);
+
+  const handleQueryChange = (value: string) => {
+    setQuery(value);
+    setPage(1);
+  };
+  const handleCallNumberChange = (value: string) => {
+    setCallNumber(value);
+    setPage(1);
+  };
+  const handleOrganizationChange = (value: string) => {
+    setOrganization(value);
+    setPage(1);
+  };
+  const handleTaskTypeChange = (value: string) => {
+    setTaskType(value);
+    setPage(1);
+  };
+  const handleAfroChange = (value: boolean) => {
+    setAfro(value);
+    setPage(1);
+  };
+  const handleDiscapacidadChange = (value: boolean) => {
+    setDiscapacidad(value);
+    setPage(1);
+  };
+  const handleTransChange = (value: boolean) => {
+    setTrans(value);
+    setPage(1);
+  };
+  const handleVictimasChange = (value: boolean) => {
+    setVictimas(value);
+    setPage(1);
+  };
 
   const deferredQuery = useDeferredValue(query);
   const deferredCallNumber = useDeferredValue(callNumber);
@@ -77,37 +115,49 @@ export default function JobsBoard({
   }, []);
 
   useEffect(() => {
-    const params = new URLSearchParams()
-    if (query) params.set("q", query)
-    if (callNumber) params.set("call", callNumber)
-    if (organization) params.set("org", organization)
-    if (taskType) params.set("type", taskType)
-    if (afro) params.set("afro", "1")
-    if (discapacidad) params.set("disc", "1")
-    if (trans) params.set("trans", "1")
-    if (victimas) params.set("vict", "1")
+    const params = new URLSearchParams();
+    if (query) params.set("q", query);
+    if (callNumber) params.set("call", callNumber);
+    if (organization) params.set("org", organization);
+    if (taskType) params.set("type", taskType);
+    if (afro) params.set("afro", "1");
+    if (discapacidad) params.set("disc", "1");
+    if (trans) params.set("trans", "1");
+    if (victimas) params.set("vict", "1");
+    if (page > 1) params.set("page", String(page));
 
-    const search = params.toString()
-    const newURL = search ? `?${search}` : window.location.pathname
-    history.replaceState(null, "", newURL)
-  }, [query, callNumber, organization, taskType, afro, discapacidad, trans, victimas])
+    const search = params.toString();
+    const newURL = search ? `?${search}` : window.location.pathname;
+    history.replaceState(null, "", newURL);
+  }, [
+    query,
+    callNumber,
+    organization,
+    taskType,
+    afro,
+    discapacidad,
+    trans,
+    victimas,
+    page,
+  ]);
 
   useEffect(() => {
     const onPopState = () => {
-      const params = new URLSearchParams(window.location.search)
-      setQuery(params.get("q") ?? "")
-      setCallNumber(params.get("call") ?? "")
-      setOrganization(params.get("org") ?? "")
-      setTaskType(params.get("type") ?? "")
-      setAfro(params.get("afro") === "1")
-      setDiscapacidad(params.get("disc") === "1")
-      setTrans(params.get("trans") === "1")
-      setVictimas(params.get("vict") === "1")
-    }
+      const params = new URLSearchParams(window.location.search);
+      setQuery(params.get("q") ?? "");
+      setCallNumber(params.get("call") ?? "");
+      setOrganization(params.get("org") ?? "");
+      setTaskType(params.get("type") ?? "");
+      setAfro(params.get("afro") === "1");
+      setDiscapacidad(params.get("disc") === "1");
+      setTrans(params.get("trans") === "1");
+      setVictimas(params.get("vict") === "1");
+      setPage(Number(params.get("page") ?? "1"));
+    };
 
-    window.addEventListener("popstate", onPopState)
-    return () => window.removeEventListener("popstate", onPopState)
-  }, [])
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
+  }, []);
 
   const organizationOptions = useMemo<SearchableSelectOption[]>(() => {
     return [...new Set(jobs.map((job) => cleanOption(job.organization)))]
@@ -203,11 +253,10 @@ export default function JobsBoard({
     victimas,
   ]);
 
-  const visibleJobs = useMemo(
-    () => filtered.slice(0, MAX_VISIBLE_RESULTS),
-    [filtered],
-  );
-  const hasMoreResults = filtered.length > MAX_VISIBLE_RESULTS;
+  const totalPages = Math.max(1, Math.ceil(filtered.length / ITEMS_PER_PAGE));
+  const clampedPage = Math.min(page, totalPages);
+  const startOffset = (clampedPage - 1) * ITEMS_PER_PAGE;
+  const visibleJobs = filtered.slice(startOffset, startOffset + ITEMS_PER_PAGE);
   const hasNoResults = filtered.length === 0;
 
   if (isLoading) {
@@ -243,16 +292,15 @@ export default function JobsBoard({
         organizationOptions={organizationOptions}
         taskTypeOptions={taskTypeOptions}
         filteredCount={filtered.length}
-        hasMoreResults={hasMoreResults}
         scrapedAt={scrapedAt}
-        onQueryChange={setQuery}
-        onCallNumberChange={setCallNumber}
-        onOrganizationChange={setOrganization}
-        onTaskTypeChange={setTaskType}
-        onAfroChange={setAfro}
-        onDiscapacidadChange={setDiscapacidad}
-        onTransChange={setTrans}
-        onVictimasChange={setVictimas}
+        onQueryChange={handleQueryChange}
+        onCallNumberChange={handleCallNumberChange}
+        onOrganizationChange={handleOrganizationChange}
+        onTaskTypeChange={handleTaskTypeChange}
+        onAfroChange={handleAfroChange}
+        onDiscapacidadChange={handleDiscapacidadChange}
+        onTransChange={handleTransChange}
+        onVictimasChange={handleVictimasChange}
       />
 
       {hasNoResults ? (
@@ -267,6 +315,15 @@ export default function JobsBoard({
 
       {!hasNoResults && viewportMode !== "desktop" ? (
         <JobsList jobs={visibleJobs} />
+      ) : null}
+
+      {!hasNoResults && filtered.length > ITEMS_PER_PAGE ? (
+        <JobsPagination
+          page={clampedPage}
+          totalPages={totalPages}
+          total={filtered.length}
+          onPageChange={setPage}
+        />
       ) : null}
     </section>
   );

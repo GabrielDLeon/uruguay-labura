@@ -41,8 +41,8 @@ export default function JobsTable({ jobs }: Props) {
                 }
                 onKeyDown={(e) => {
                   if (e.key === "Enter" || e.key === " ") {
-                    e.preventDefault()
-                    window.open(job.applyUrl ?? job.detailUrl, "_blank")
+                    e.preventDefault();
+                    window.open(job.applyUrl ?? job.detailUrl, "_blank");
                   }
                 }}
                 tabIndex={0}
@@ -56,10 +56,7 @@ export default function JobsTable({ jobs }: Props) {
                 </td>
                 <td>
                   <div className="font-semibold">
-                    <span
-                      className="block truncate"
-                      title={job.title}
-                    >
+                    <span className="block truncate" title={job.title}>
                       {shorten(job.title, MAX_TITLE_LENGTH)}
                     </span>
                   </div>

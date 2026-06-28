@@ -5,7 +5,7 @@ import SearchableSelect, {
 } from "@/components/common/SearchableSelect";
 import { appIcons } from "@/lib/icons";
 
-import { formatDate, MAX_VISIBLE_RESULTS } from "@/components/jobs/jobs";
+import { formatDate } from "@/components/jobs/jobs";
 
 interface Props {
   query: string;
@@ -19,7 +19,6 @@ interface Props {
   organizationOptions: SearchableSelectOption[];
   taskTypeOptions: SearchableSelectOption[];
   filteredCount: number;
-  hasMoreResults: boolean;
   scrapedAt: string | null;
   onQueryChange: (value: string) => void;
   onCallNumberChange: (value: string) => void;
@@ -43,7 +42,6 @@ export default function JobsFilters({
   organizationOptions,
   taskTypeOptions,
   filteredCount,
-  hasMoreResults,
   scrapedAt,
   onQueryChange,
   onCallNumberChange,
@@ -212,11 +210,6 @@ export default function JobsFilters({
             />
             {filteredCount} resultados
           </span>
-          {hasMoreResults ? (
-            <span className="text-muted-foreground">
-              Mostrando {MAX_VISIBLE_RESULTS} de {filteredCount}
-            </span>
-          ) : null}
           {scrapedAt ? (
             <span className="text-muted-foreground inline-flex items-center gap-1">
               <Icon

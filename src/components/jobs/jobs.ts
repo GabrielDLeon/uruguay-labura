@@ -1,7 +1,7 @@
 import type { JobRecord } from "@/types/jobs";
 
 export const MAX_TITLE_LENGTH = 110;
-export const MAX_VISIBLE_RESULTS = 50;
+export const ITEMS_PER_PAGE = 25;
 export const MIN_CALL_NUMBER_CHARS = 2;
 
 export function normalize(text: string | null | undefined) {
