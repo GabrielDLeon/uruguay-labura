@@ -172,7 +172,13 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
   async function readSourceData(source) {
     if (source.startsWith("http://") || source.startsWith("https://")) {
-      const response = await fetch(source);
+      const headers = {};
+      const authToken = process.env.AUTH_TOKEN;
+      if (authToken) {
+        headers["Authorization"] = `Bearer ${authToken}`;
+      }
+
+      const response = await fetch(source, { headers });
 
       if (!response.ok) {
         throw new Error(
