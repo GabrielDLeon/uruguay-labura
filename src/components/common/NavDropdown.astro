@@ -1,0 +1,133 @@
+---
+import { Icon } from 'astro-icon/components'
+
+export interface Props {
+  /** Unique id for aria attributes */
+  id: string
+  /** Visible label */
+  label: string
+  /** mdi icon name (e.g. "mdi:briefcase-outline") */
+  icon?: string
+  /** Minimum width of the dropdown panel */
+  minWidth?: string
+}
+
+const { id, label, icon, minWidth = '12rem' } = Astro.props
+---
+
+<div class="nav-dropdown" style={`--min-width: ${minWidth}`}>
+  <button
+    type="button"
+    id={`${id}-trigger`}
+    class="nav-trigger"
+    aria-haspopup="menu"
+    aria-controls={`${id}-menu`}
+  >
+    {icon && (
+      <Icon name={icon} size={16} class="shrink-0" aria-hidden="true" />
+    )}
+    <span>{label}</span>
+    <span class="chevron-icon" aria-hidden="true">
+      <Icon name="mdi:chevron-down" size={16} />
+    </span>
+  </button>
+  <div class="nav-popover" role="menu" id={`${id}-menu`} aria-labelledby={`${id}-trigger`}>
+    <slot />
+  </div>
+</div>
+
+<style>
+  .nav-dropdown {
+    position: relative;
+  }
+
+  .nav-trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    border-radius: 0.375rem;
+    padding: 0.375rem 0.75rem;
+    color: var(--muted-foreground);
+    transition: color 0.15s, background-color 0.15s;
+    cursor: pointer;
+    border: none;
+    background: none;
+    font: inherit;
+    line-height: inherit;
+  }
+
+  .nav-trigger:hover {
+    background: var(--muted);
+    color: var(--foreground);
+  }
+
+  .chevron-icon {
+    display: inline-flex;
+    transition: transform 0.15s;
+  }
+
+  .nav-dropdown:hover .chevron-icon,
+  .nav-dropdown:focus-within .chevron-icon {
+    transform: rotate(180deg);
+  }
+
+  .nav-popover {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 50;
+    min-width: var(--min-width, 12rem);
+    background: var(--popover);
+    color: var(--popover-foreground);
+    border-radius: var(--radius, 0.5rem);
+    padding: 0.25rem;
+    box-shadow:
+      0 4px 6px -1px rgb(0 0 0 / 0.1),
+      0 2px 4px -2px rgb(0 0 0 / 0.1);
+    outline: 1px solid color-mix(in oklch, var(--foreground) 10%, transparent);
+    overflow: hidden auto;
+  }
+
+  .nav-dropdown:hover .nav-popover,
+  .nav-dropdown:focus-within .nav-popover {
+    display: block;
+  }
+
+  /* Slot content styling */
+  .nav-popover :global([role='menuitem']) {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    border-radius: calc(var(--radius, 0.5rem) - 4px);
+    padding: 0.375rem 0.5rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+    color: inherit;
+    text-decoration: none;
+    transition: background-color 0.1s;
+  }
+
+  .nav-popover :global([role='menuitem']:hover),
+  .nav-popover :global([role='menuitem']:focus-visible) {
+    background: var(--muted);
+    color: var(--foreground);
+    outline: none;
+  }
+
+  .nav-popover :global([role='separator']) {
+    display: block;
+    background: var(--border);
+    margin: 0.25rem -0.25rem;
+    height: 1px;
+    border: 0;
+  }
+
+  .nav-popover :global([role='heading']) {
+    display: block;
+    color: var(--muted-foreground);
+    padding: 0.375rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+</style>

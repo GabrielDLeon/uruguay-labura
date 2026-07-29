@@ -1,5 +1,6 @@
 ---
 import { Icon } from "astro-icon/components";
+import NavDropdown from "./common/NavDropdown.astro";
 ---
 
 <header
@@ -15,30 +16,27 @@ import { Icon } from "astro-icon/components";
       </a>
 
       <nav class="hidden items-center gap-1 text-sm sm:flex">
-        <a
-          href="/empleos"
-          class="inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-        >
-          <Icon
-            name="mdi:briefcase-outline"
-            size={16}
-            class="shrink-0"
-            aria-hidden="true"
-          />
-          Empleos
-        </a>
-        <a
-          href="/educacion"
-          class="inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-        >
-          <Icon
-            name="mdi:school-outline"
-            size={16}
-            class="shrink-0"
-            aria-hidden="true"
-          />
-          Educación
-        </a>
+        <NavDropdown id="empleos" label="Empleos" icon="mdi:briefcase-outline" minWidth="12rem">
+          <a href="/empleos" role="menuitem">
+            <Icon name="mdi:briefcase-outline" size={16} aria-hidden="true" />
+            Todos los llamados
+          </a>
+          <a href="/empleos/guardados" role="menuitem">
+            <Icon name="mdi:heart-outline" size={16} aria-hidden="true" />
+            Guardados
+          </a>
+        </NavDropdown>
+
+        <NavDropdown id="educacion" label="Educación" icon="mdi:school-outline" minWidth="12rem">
+          <a href="/educacion" role="menuitem">
+            <Icon name="mdi:school-outline" size={16} aria-hidden="true" />
+            Carreras
+          </a>
+          <a href="/educacion/instituciones" role="menuitem">
+            <Icon name="mdi:bank-outline" size={16} aria-hidden="true" />
+            Instituciones
+          </a>
+        </NavDropdown>
       </nav>
     </div>
 
@@ -55,6 +53,18 @@ import { Icon } from "astro-icon/components";
             aria-hidden="true"
           />
           Empleos
+        </a>
+        <a
+          href="/empleos/guardados"
+          class="inline-flex items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+          title="Empleos guardados"
+        >
+          <Icon
+            name="mdi:heart-outline"
+            size={16}
+            class="shrink-0"
+            aria-hidden="true"
+          />
         </a>
         <a
           href="/educacion"
@@ -98,3 +108,4 @@ import { Icon } from "astro-icon/components";
     </div>
   </div>
 </header>
+
