@@ -102,3 +102,16 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+/* Badge variant success (custom, not in Basecoat) */
+.badge[data-variant="success"] {
+  background: color-mix(in oklch, var(--color-green-600) 15%, transparent);
+  color: var(--color-green-700);
+  border-color: color-mix(in oklch, var(--color-green-600) 30%, transparent);
+}
+
+.dark .badge[data-variant="success"] {
+  background: color-mix(in oklch, var(--color-green-400) 15%, transparent);
+  color: var(--color-green-300);
+  border-color: color-mix(in oklch, var(--color-green-400) 30%, transparent);
+}

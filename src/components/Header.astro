@@ -75,7 +75,7 @@ import { Icon } from "astro-icon/components";
         target="_blank"
         rel="noopener noreferrer"
         aria-label="GitHub repository"
-        class="btn-icon-outline size-8"
+        class="btn" data-variant="outline" data-size="icon-sm"
       >
         <Icon name="mdi:github" size={24} aria-hidden="true" />
       </a>
@@ -86,7 +86,7 @@ import { Icon } from "astro-icon/components";
         data-tooltip="Toggle dark mode"
         data-side="bottom"
         onclick="document.dispatchEvent(new CustomEvent('basecoat:theme'))"
-        class="btn-icon-outline size-8"
+        class="btn" data-variant="outline" data-size="icon-sm"
       >
         <span class="hidden dark:block">
           <Icon name="mdi:white-balance-sunny" size={24} aria-hidden="true" />

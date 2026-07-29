@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig, fontProviders } from "astro/config";
+import { unified } from "@astrojs/markdown-remark";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -11,7 +12,12 @@ import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 
 export default defineConfig({
   site: "https://uruguaylaburos.uy",
-  integrations: [react(), sitemap(), icon(), pagefind(), mdx({ remarkPlugins: [remarkTabs] })],
+  markdown: {
+    processor: unified({
+      remarkPlugins: [remarkTabs],
+    }),
+  },
+  integrations: [react(), sitemap(), icon(), pagefind(), mdx()],
   fonts: [
     {
       provider: fontProviders.fontsource(),

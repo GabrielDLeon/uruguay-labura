@@ -52,7 +52,7 @@ export default function JobsTable({ jobs }: Props) {
                 className="cursor-pointer hover:bg-[var(--muted)]"
               >
                 <td className="whitespace-nowrap">
-                  <span className="badge-outline inline-flex items-center">
+                  <span className="badge inline-flex items-center" data-variant="outline">
                     {job.callNumber}
                   </span>
                 </td>
@@ -78,7 +78,7 @@ export default function JobsTable({ jobs }: Props) {
                 >
                   <span className="inline-flex gap-1">
                     {job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((tag) => (
-                      <span key={tag} className="badge-outline text-xs">
+                      <span key={tag} className="badge text-xs" data-variant="outline">
                         {TAG_LABELS[tag] ?? tag}
                       </span>
                     ))}

@@ -24,7 +24,7 @@ const { title, url, degreeType } = Astro.props
     <h4 class="text-sm font-semibold text-foreground group-hover:underline">
       {title}
     </h4>
-    <span class="badge-outline mt-1 inline-block text-xs">
+    <span class="badge mt-1 text-xs" data-variant="outline">
       {degreeTypeLabels[degreeType] ?? degreeType}
     </span>
   </div>

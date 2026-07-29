@@ -200,7 +200,7 @@ export default function JobsFilters({
         </fieldset>
 
         <div className="flex flex-wrap items-center gap-2 text-sm">
-          <span className="badge-secondary inline-flex items-center gap-1">
+          <span className="badge inline-flex items-center gap-1" data-variant="secondary">
             <Icon
               icon={appIcons.jobsCount}
               width="14"

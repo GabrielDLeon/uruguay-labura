@@ -157,14 +157,8 @@ export const TAG_LABELS: Record<string, string> = {
   administracion_salud: "Adm. Salud",
 }
 
-export function statusClass(status: JobRecord["status"]) {
-  if (status === "abierto") {
-    return "badge-secondary";
-  }
-
-  if (status === "cerrado") {
-    return "badge-destructive";
-  }
-
-  return "badge-outline";
+export function statusVariant(status: JobRecord["status"]) {
+  if (status === "abierto") return "secondary";
+  if (status === "cerrado") return "destructive";
+  return "outline";
 }

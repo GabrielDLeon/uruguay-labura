@@ -68,9 +68,9 @@ export async function fetchAndProcessJobs(sourceUrl) {
       throw new Error("Invalid gist payload: root must be an object");
     }
 
-    if (!Array.isArray(payload.jobs) || payload.jobs.length === 0) {
+    if (!Array.isArray(payload.jobs)) {
       throw new Error(
-        "Invalid gist payload: root.jobs must be a non-empty array",
+        "Invalid gist payload: root.jobs must be an array",
       );
     }
 

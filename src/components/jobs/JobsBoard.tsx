@@ -270,7 +270,7 @@ export default function JobsBoard({
           No se pudieron cargar los llamados. {loadError}
         </p>
         <div>
-          <button type="button" className="btn btn-sm" onClick={retry}>
+          <button type="button" className="btn" data-size="sm" onClick={retry}>
             Reintentar
           </button>
         </div>

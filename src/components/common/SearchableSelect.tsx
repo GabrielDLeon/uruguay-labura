@@ -93,7 +93,7 @@ export default function SearchableSelect({
     <div id={id} className="select relative" ref={rootRef}>
       <button
         type="button"
-        className="btn-outline flex w-full items-center justify-between"
+        className="btn flex w-full items-center justify-between" data-variant="outline"
         aria-haspopup="listbox"
         aria-expanded={open}
         aria-controls={`${id}-listbox`}

@@ -6,7 +6,7 @@ import {
   formatDate,
   formatRelative,
   shorten,
-  statusClass,
+  statusVariant,
 } from "@/components/jobs/jobs";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
@@ -25,11 +25,11 @@ export default function JobsList({ jobs }: Props) {
               href={job.detailUrl}
               target="_blank"
               rel="noreferrer"
-              className="badge-outline"
+  className="badge" data-variant="outline"
             >
               {job.callNumber}
             </a>
-            <span className={statusClass(job.status)}>{job.status}</span>
+            <span className="badge" data-variant={statusVariant(job.status)}>{job.status}</span>
             {job.isNew ? <span className="badge">Nuevo</span> : null}
           </header>
           <section>
@@ -71,7 +71,7 @@ export default function JobsList({ jobs }: Props) {
           </section>
           <footer>
             <a
-              className="btn btn-sm inline-flex items-center gap-1"
+  className="btn" data-size="sm"
               href={job.applyUrl ?? job.detailUrl}
               target="_blank"
               rel="noreferrer"

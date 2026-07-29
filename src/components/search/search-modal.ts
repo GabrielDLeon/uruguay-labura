@@ -131,8 +131,8 @@ function createSearchModal() {
     >
       <span class="font-medium leading-snug">${escapeHtml(r.meta.title || r.url)}</span>
       <div class="flex gap-1 mt-1">
-        ${r.meta.degreeType ? `<span class="badge-secondary text-xs">${escapeHtml(r.meta.degreeType)}</span>` : ""}
-        ${r.meta.modality ? `<span class="badge-outline text-xs">${escapeHtml(r.meta.modality)}</span>` : ""}
+        ${r.meta.degreeType ? `<span class="badge text-xs" data-variant="secondary">${escapeHtml(r.meta.degreeType)}</span>` : ""}
+        ${r.meta.modality ? `<span class="badge text-xs" data-variant="outline">${escapeHtml(r.meta.modality)}</span>` : ""}
       </div>
       <span class="text-xs text-muted-foreground truncate mt-1">${escapeHtml((r.plain_excerpt || "").slice(0, 120))}</span>
     </a>

@@ -46,9 +46,7 @@ const { Content } = await render(entry);
     <div class="min-w-0">
       <div class="flex flex-wrap items-center gap-x-2 gap-y-1 mb-3">
         <span
-          class={`badge ${
-            entry.data.type === "public" ? "badge-success" : "badge-secondary"
-          }`}
+          class="badge" data-variant={entry.data.type === "public" ? "success" : "secondary"}
         >
           {institutionTypeLabels[entry.data.type]}
         </span>
@@ -94,7 +92,7 @@ const { Content } = await render(entry);
             href={entry.data.website}
             target="_blank"
             rel="noopener noreferrer"
-            class="btn btn-sm inline-flex items-center justify-center gap-1"
+            class="btn" data-size="sm"
           >
             Sitio oficial
           </a>
@@ -102,7 +100,7 @@ const { Content } = await render(entry);
             entry.data.contactEmail ? (
               <a
                 href={`mailto:${entry.data.contactEmail}`}
-                class="btn-sm-outline inline-flex items-center justify-center gap-1"
+                class="btn" data-variant="outline" data-size="sm"
               >
                 {entry.data.contactEmail}
               </a>
@@ -112,7 +110,7 @@ const { Content } = await render(entry);
             entry.data.phone ? (
               <a
                 href={`tel:${entry.data.phone}`}
-                class="btn-sm-outline inline-flex items-center justify-center gap-1"
+                class="btn" data-variant="outline" data-size="sm"
               >
                 {entry.data.phone}
               </a>
@@ -135,7 +133,7 @@ const { Content } = await render(entry);
           <AsideSection title="Tags">
             <div class="flex flex-wrap gap-1">
               {entry.data.tags.map((tag) => (
-                <span class="badge-outline text-xs">{tag}</span>
+                <span class="badge text-xs" data-variant="outline">{tag}</span>
               ))}
             </div>
           </AsideSection>

@@ -136,7 +136,7 @@ const detailItems = [
               href={entry.data.website}
               target="_blank"
               rel="noopener noreferrer"
-              class="btn btn-sm inline-flex items-center justify-center gap-1"
+              class="btn" data-size="sm"
             >
               Sitio web oficial
             </a>
@@ -144,7 +144,7 @@ const detailItems = [
               entry.data.contactEmail ? (
                 <button
                   type="button"
-                  class="btn-outline"
+                  class="btn" data-variant="outline"
                   data-copy={entry.data.contactEmail}
                 >
                   {entry.data.contactEmail}
@@ -168,12 +168,9 @@ const detailItems = [
       </aside>
 
       <div class="md:order-1 md:col-span-2 min-w-0">
-        <div
-          id="tabbed-content"
-          class="prose prose-sm dark:prose-invert max-w-none"
-        >
+        <section id="tabbed-content">
           <Content />
-        </div>
+        </section>
       </div>
     </div>
     <span

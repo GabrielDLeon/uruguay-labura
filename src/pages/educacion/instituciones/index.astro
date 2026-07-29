@@ -41,11 +41,7 @@ entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"))
               </p>
             </div>
             <span
-              class={`badge text-xs ${
-                entry.data.type === "public"
-                  ? "badge-success"
-                  : "badge-secondary"
-              }`}
+              class="badge text-xs" data-variant={entry.data.type === "public" ? "success" : "secondary"}
             >
               {institutionTypeLabels[entry.data.type]}
             </span>
@@ -67,7 +63,7 @@ entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"))
             entry.data.tags.length > 0 ? (
               <div class="flex flex-wrap gap-1 mt-auto">
                 {entry.data.tags.slice(0, 4).map((tag) => (
-                  <span class="badge-outline text-xs">{tag}</span>
+                  <span class="badge text-xs" data-variant="outline">{tag}</span>
                 ))}
                 {entry.data.tags.length > 4 ? (
                   <span class="text-xs text-muted-foreground">
