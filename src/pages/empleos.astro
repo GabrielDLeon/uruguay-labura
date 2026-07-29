@@ -8,7 +8,7 @@ import PageHeader from "@/components/PageHeader.astro";
   title="Llamados laborales en Uruguay"
   description="Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada."
 >
-  <PageHeader title="Llamados laborales de Uruguay">
+  <PageHeader title="Llamados laborales de Uruguay" class="pt-8">
     El siguiente listado es una recopilación semanal de los concursos
     actualmente disponibles y activos del sitio
     <a
@@ -20,6 +20,7 @@ import PageHeader from "@/components/PageHeader.astro";
     >. El proyecto busca mejorar la experiencia de los usuarios.
   </PageHeader>
 
+  <div class="pb-8">
   <JobsBoard
     client:load
     initialQuery={Astro.url.searchParams.get("q") ?? ""}
@@ -32,4 +33,5 @@ import PageHeader from "@/components/PageHeader.astro";
     initialVictimas={Astro.url.searchParams.get("vict") === "1"}
     initialPage={Math.max(1, Number(Astro.url.searchParams.get("page") ?? "1"))}
   />
+</div>
 </Layout>

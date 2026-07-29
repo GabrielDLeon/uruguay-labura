@@ -29,6 +29,7 @@ const institutionsCollection = defineCollection({
 
 export const educacionSchema = z.object({
   title: z.string().min(1),
+  short: z.string().optional(),
   institution: z.string().optional(),
   institutionName: z.string().min(1),
   campus: z.string().optional(),
@@ -58,6 +59,7 @@ export const educacionSchema = z.object({
   startDate: z.string().optional(),
   applicationDeadline: z.string().optional(),
   tags: z.array(z.string().min(1)).default([]),
+  similar: z.array(z.string()).default([]),
   draft: z.boolean().default(false),
 });
 

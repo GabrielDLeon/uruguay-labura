@@ -24,7 +24,7 @@ const { Content } = await render(entry);
   title={entry.data.short ?? entry.data.name}
   description={`${entry.data.name} — ${institutionTypeLabels[entry.data.type]} university in Uruguay.`}
 >
-  <div class="mt-6 mb-4">
+  <div class="pt-8 mb-4">
     <a
       href="/educacion/instituciones"
       class="text-sm text-muted-foreground hover:text-foreground"
@@ -76,7 +76,7 @@ const { Content } = await render(entry);
     </div>
   </div>
 
-  <div class="grid gap-8 md:grid-cols-3 mb-8">
+  <div class="grid gap-8 md:grid-cols-3 pb-8">
     <div class="md:col-span-2 min-w-0">
       <div class="rounded-xl bg-[var(--muted)] p-6">
         <div class="prose prose-sm dark:prose-invert max-w-none">
