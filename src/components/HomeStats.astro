@@ -1,0 +1,51 @@
+---
+import type { JobsDataset, JobRecord } from "@/types/jobs"
+import jobsData from "@/data/jobs.generated.json"
+
+const dataset = jobsData as unknown as JobsDataset
+
+const today = new Date()
+const todayStart = new Date(today.getFullYear(), today.getMonth(), today.getDate())
+
+const activeJobs = dataset.jobs.filter((job: JobRecord) => {
+  if (job.status !== "abierto") return false
+  if (!job.closingDate) return true
+  const closing = new Date(job.closingDate)
+  const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate())
+  return closeDay >= todayStart
+})
+
+const uniqueOrganizations = new Set(
+  activeJobs.map((j: JobRecord) => j.organization).filter(Boolean),
+)
+
+const totalPositions = activeJobs.reduce(
+  (sum: number, j: JobRecord) => sum + (j.totalPositions ?? 0),
+  0,
+)
+
+const uniqueTaskTypes = new Set(
+  activeJobs.map((j: JobRecord) => j.taskType).filter(Boolean),
+)
+---
+
+<section class="my-8 grid grid-cols-2 gap-4 sm:grid-cols-4">
+  <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
+    <p class="text-2xl font-bold text-foreground sm:text-3xl">{activeJobs.length}</p>
+    <p class="mt-1 text-xs text-muted-foreground">Llamados activos</p>
+  </div>
+  <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
+    <p class="text-2xl font-bold text-foreground sm:text-3xl">{uniqueOrganizations.size}</p>
+    <p class="mt-1 text-xs text-muted-foreground">Organismos</p>
+  </div>
+  <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
+    <p class="text-2xl font-bold text-foreground sm:text-3xl">
+      {totalPositions > 0 ? totalPositions : "-"}
+    </p>
+    <p class="mt-1 text-xs text-muted-foreground">Puestos totales</p>
+  </div>
+  <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
+    <p class="text-2xl font-bold text-foreground sm:text-3xl">{uniqueTaskTypes.size}</p>
+    <p class="mt-1 text-xs text-muted-foreground">Tipos de tarea</p>
+  </div>
+</section>

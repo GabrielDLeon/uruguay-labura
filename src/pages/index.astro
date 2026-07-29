@@ -2,6 +2,8 @@
 import Layout from "@/layouts/Layout.astro";
 import { Icon } from "astro-icon/components";
 import PageHeader from "@/components/PageHeader.astro";
+import HomeStats from "@/components/HomeStats.astro";
+import ClosingSoon from "@/components/ClosingSoon.astro";
 ---
 
 <Layout
@@ -51,6 +53,10 @@ import PageHeader from "@/components/PageHeader.astro";
       </div>
     </a>
   </div>
+
+  <HomeStats />
+
+  <ClosingSoon />
 
   <section class="my-12">
     <h2 class="text-xl font-bold text-foreground mb-4">Sobre el Proyecto</h2>

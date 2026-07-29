@@ -1,0 +1,96 @@
+---
+import type { JobsDataset, JobRecord } from "@/types/jobs"
+import jobsData from "@/data/jobs.generated.json"
+import { Icon } from "astro-icon/components"
+import { formatRelative } from "@/components/jobs/jobs"
+
+const dataset = jobsData as unknown as JobsDataset
+
+const today = new Date()
+const todayStart = new Date(today.getFullYear(), today.getMonth(), today.getDate())
+const sevenDaysFromNow = new Date(todayStart)
+sevenDaysFromNow.setDate(sevenDaysFromNow.getDate() + 7)
+
+const closingSoon = dataset.jobs
+  .filter((job: JobRecord) => {
+    if (job.status !== "abierto") return false
+    if (!job.closingDate) return false
+    const closing = new Date(job.closingDate)
+    const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate())
+    return closeDay >= todayStart && closeDay <= sevenDaysFromNow
+  })
+  .sort((a: JobRecord, b: JobRecord) => {
+    if (!a.closingDate) return 1
+    if (!b.closingDate) return -1
+    return a.closingDate.localeCompare(b.closingDate)
+  })
+  .slice(0, 5)
+---
+
+<section class="my-8">
+  <div class="flex items-center justify-between mb-4">
+    <h2 class="text-xl font-bold text-foreground flex items-center gap-2">
+      <Icon name="mdi:clock-outline" class="size-5 shrink-0" aria-hidden="true" />
+      Próximos a cerrar
+    </h2>
+    <a
+      href="/empleos"
+      class="text-sm text-muted-foreground hover:text-foreground transition-colors"
+    >
+      Ver todos →
+    </a>
+  </div>
+
+  {
+    closingSoon.length > 0 ? (
+      <div class="grid gap-3">
+        {
+          closingSoon.map((job: JobRecord) => {
+            const relative = job.closingDate ? formatRelative(job.closingDate) : null
+            return (
+              <a
+                href={job.applyUrl ?? job.detailUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex items-start gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-3 transition-colors hover:bg-[var(--muted)]"
+              >
+                <div class="flex-1 min-w-0">
+                  <p class="text-sm font-semibold text-foreground truncate">
+                    {job.title}
+                  </p>
+                  <p class="text-xs text-muted-foreground truncate">
+                    {job.organization ?? "Sin organismo"}
+                    {job.subOrganization ? ` (${job.subOrganization})` : ""}
+                  </p>
+                  <span class="badge mt-1 text-xs" data-variant="outline">
+                    {job.callNumber}
+                  </span>
+                </div>
+                <div class="shrink-0 text-right">
+                  <span
+                    class={`inline-block rounded-full px-2.5 py-0.5 text-xs font-medium ${
+                      relative?.label === "Hoy"
+                        ? "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300"
+                        : relative?.label === "Mañana"
+                          ? "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300"
+                          : "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300"
+                    }`}
+                    title={relative?.title ?? ""}
+                  >
+                    {relative?.label ?? "-"}
+                  </span>
+                </div>
+              </a>
+            )
+          })
+        }
+      </div>
+    ) : (
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 text-center">
+        <p class="text-sm text-muted-foreground">
+          No hay llamados próximos a cerrar en los próximos 7 días.
+        </p>
+      </div>
+    )
+  }
+</section>
