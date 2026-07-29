@@ -53,7 +53,7 @@ export default function JobsFilters({
   onVictimasChange,
 }: Props) {
   return (
-    <div className="card bg-transparent">
+    <div className="card bg-transparent overflow-visible">
       <section className="form grid gap-4">
         <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-5">
           <div role="group" className="field lg:col-span-2">

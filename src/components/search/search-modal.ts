@@ -69,7 +69,8 @@ function createSearchModal() {
   async function initPagefind(): Promise<PagefindAPI | null> {
     if (pagefind) return pagefind
     try {
-      const mod = await import(`/pagefind/${"pagefind"}.js`)
+      const pagefindUrl = `${import.meta.env.BASE_URL}pagefind/pagefind.js`
+      const mod = await import(pagefindUrl)
       pagefind = mod as PagefindAPI
       return pagefind
     } catch (err) {
