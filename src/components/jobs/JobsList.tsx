@@ -1,6 +1,8 @@
 import { Icon } from "@iconify/react/offline";
 
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
+import SaveButton from "@/components/jobs/SaveButton";
+import ShareButton from "@/components/jobs/ShareButton";
 import {
   MAX_TITLE_LENGTH,
   formatDate,
@@ -69,7 +71,7 @@ export default function JobsList({ jobs }: Props) {
               <span>Inciso: {job.inciso ?? "Sin dato"}</span>
             </div>
           </section>
-          <footer>
+          <footer className="flex items-center gap-2">
             <a
   className="btn" data-size="sm"
               href={job.applyUrl ?? job.detailUrl}
@@ -85,6 +87,13 @@ export default function JobsList({ jobs }: Props) {
                 aria-hidden="true"
               />
             </a>
+            <span className="ml-auto flex items-center gap-0.5">
+              <SaveButton jobId={job.id} />
+              <ShareButton
+                url={job.applyUrl ?? job.detailUrl}
+                title={job.title}
+              />
+            </span>
           </footer>
         </article>
       ))}

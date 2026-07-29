@@ -1,4 +1,6 @@
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
+import SaveButton from "@/components/jobs/SaveButton";
+import ShareButton from "@/components/jobs/ShareButton";
 import {
   HIDDEN_TAGS,
   MAX_TITLE_LENGTH,
@@ -24,14 +26,16 @@ export default function JobsTable({ jobs }: Props) {
             <col className="w-78" />
             <col className="w-28" />
             <col className="w-28" />
+            <col className="w-20" />
           </colgroup>
           <thead>
             <tr>
               <th>Llamado</th>
-              <th>Titulo</th>
+              <th>Título</th>
               <th>Tags</th>
               <th>Apertura</th>
               <th>Cierre</th>
+              <th className="text-center"><span className="sr-only">Acciones</span></th>
             </tr>
           </thead>
           <tbody>
@@ -92,6 +96,21 @@ export default function JobsTable({ jobs }: Props) {
                   title={formatRelative(job.closingDate)?.title}
                 >
                   {formatRelative(job.closingDate)?.label ?? "-"}
+                </td>
+                <td className="whitespace-nowrap">
+                  <span
+                    className="inline-flex items-center gap-0.5"
+                    onClick={(e) => e.stopPropagation()}
+                    onKeyDown={(e) => e.stopPropagation()}
+                    role="toolbar"
+                    aria-label="Acciones"
+                  >
+                    <SaveButton jobId={job.id} />
+                    <ShareButton
+                      url={job.applyUrl ?? job.detailUrl}
+                      title={job.title}
+                    />
+                  </span>
                 </td>
               </tr>
             ))}
