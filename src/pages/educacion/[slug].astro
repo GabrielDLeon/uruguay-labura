@@ -8,7 +8,7 @@ import {
   degreeTypeLabels,
   modalityLabels,
   modalityBarFilled,
-  turnoLabels,
+  shiftLabels,
   getDegreeTypeBarInfo,
   formatDate,
   getSolidarityFundInfo,
@@ -63,22 +63,7 @@ const detailItems = [
   { label: "Idioma", value: entry.data.language },
   { label: "Ubicación", value: entry.data.location },
   { label: "Acreditación", value: entry.data.accreditation },
-  {
-    label: "Título intermedio",
-    value: entry.data.intermediateTitle,
-  },
-  { label: "Cupos", value: entry.data.spots },
-  {
-    label: "Proceso de selección",
-    value: entry.data.selectionProcess,
-  },
-  {
-    label: "Becas",
-    value:
-      entry.data.scholarships.length > 0
-        ? entry.data.scholarships.join(", ")
-        : undefined,
-  },
+
   {
     label: "Inicio",
     value: entry.data.startDate ? formatDate(entry.data.startDate) : undefined,
@@ -167,10 +152,10 @@ const detailItems = [
           />
           <BarIndicator
             label="Turno"
-            value={turnoLabels[entry.data.turno] ?? entry.data.turno}
+            value={shiftLabels[entry.data.shift] ?? entry.data.shift}
             total={3}
             filled={
-              { diurno: 1, nocturno: 2, ambos: 3 }[entry.data.turno] ?? 1
+              { day: 1, night: 2, both: 3 }[entry.data.shift] ?? 1
             }
           />
         </section>
