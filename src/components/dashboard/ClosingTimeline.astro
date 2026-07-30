@@ -1,0 +1,81 @@
+---
+import type { DailyClosing } from "@/types/jobs"
+
+export interface Props {
+  next7Days: {
+    totalClosing: number
+    byDate: DailyClosing[]
+  }
+}
+
+const { next7Days } = Astro.props
+const { totalClosing, byDate } = next7Days
+
+const dayLabels: Record<string, string> = {
+  "0": "domingo",
+  "1": "lunes",
+  "2": "martes",
+  "3": "miércoles",
+  "4": "jueves",
+  "5": "viernes",
+  "6": "sábado",
+}
+
+function formatDayLabel(dateStr: string): string {
+  const d = new Date(dateStr)
+  const today = new Date()
+  const todayStart = new Date(today.getFullYear(), today.getMonth(), today.getDate())
+  const diffDays = Math.round((d.getTime() - todayStart.getTime()) / (1000 * 60 * 60 * 24))
+
+  const weekday = dayLabels[d.getDay()] ?? ""
+  const dayNum = d.getDate()
+  const month = d.toLocaleDateString("es-UY", { month: "short" })
+
+  if (diffDays === 0) return `Hoy ${dayNum} ${month}`
+  if (diffDays === 1) return `Mañana ${dayNum} ${month}`
+  return `${weekday} ${dayNum} ${month}`
+}
+
+const maxCount = byDate.reduce((m, d) => Math.max(m, d.count), 0) || 1
+---
+
+<section>
+  <h3 class="text-lg font-bold text-foreground mb-2">Próximos 7 días</h3>
+  <p class="text-sm text-muted-foreground mb-4">
+    {totalClosing} llamados cierran en los próximos 7 días
+  </p>
+
+  {
+    byDate.length > 0 ? (
+      <div class="flex items-end gap-2" style="height: 120px">
+        {
+          byDate.map((day) => {
+            const heightPct = (day.count / maxCount) * 100
+            return (
+              <div class="flex flex-1 flex-col items-center justify-end h-full">
+                <span class="text-xs font-semibold text-foreground mb-1">{day.count}</span>
+                <div
+                  class="w-full rounded-t-md transition-all"
+                  style={{
+                    height: `${heightPct}%`,
+                    minHeight: day.count > 0 ? '12px' : '0',
+                    backgroundColor: 'var(--bar-l2)',
+                  }}
+                ></div>
+                <span class="mt-1 text-[10px] text-muted-foreground text-center leading-tight">
+                  {formatDayLabel(day.date)}
+                </span>
+              </div>
+            )
+          })
+        }
+      </div>
+    ) : (
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 text-center">
+        <p class="text-sm text-muted-foreground">
+          No hay llamados próximos a cerrar en los próximos 7 días.
+        </p>
+      </div>
+    )
+  }
+</section>

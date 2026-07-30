@@ -1,0 +1,49 @@
+---
+import type { DashboardData } from "@/types/jobs"
+import TopOrganizations from "./TopOrganizations.astro"
+import TaskTypePie from "./TaskTypePie.astro"
+import QuotaJobs from "./QuotaJobs.astro"
+import ClosingTimeline from "./ClosingTimeline.astro"
+import Evolution from "./Evolution.astro"
+import { Icon } from "astro-icon/components"
+
+export interface Props {
+  dashboard: DashboardData
+}
+
+const { dashboard } = Astro.props
+---
+
+<section class="my-12">
+  <div class="flex items-center gap-2 mb-6">
+    <Icon name="mdi:chart-bar" class="size-5 text-foreground" aria-hidden="true" />
+    <h2 class="text-xl font-bold text-foreground">Dashboard de llamados</h2>
+  </div>
+
+  <div class="grid gap-6">
+    <!-- Row 1: Top Orgs + Task Type Distribution -->
+    <div class="grid gap-6 md:grid-cols-2">
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
+        <TopOrganizations organizations={dashboard.topOrganizations} />
+      </div>
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
+        <TaskTypePie distribution={dashboard.taskTypeDistribution} />
+      </div>
+    </div>
+
+    <!-- Row 2: Quota Jobs + Closing Timeline -->
+    <div class="grid gap-6 md:grid-cols-2">
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
+        <QuotaJobs quotas={dashboard.quotaJobs} />
+      </div>
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
+        <ClosingTimeline next7Days={dashboard.next7Days} />
+      </div>
+    </div>
+
+    <!-- Row 3: Evolution -->
+    <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
+      <Evolution evolution={dashboard.evolution} />
+    </div>
+  </div>
+</section>

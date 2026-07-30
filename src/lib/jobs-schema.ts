@@ -1,5 +1,47 @@
 import { z } from "astro/zod";
 
+const topOrganizationSchema = z.object({
+  name: z.string().min(1),
+  count: z.number().nonnegative(),
+});
+
+const taskTypeEntrySchema = z.object({
+  name: z.string().min(1),
+  count: z.number().nonnegative(),
+  percentage: z.number(),
+});
+
+const quotaJobsCountsSchema = z.object({
+  afrodescendientes: z.number().nonnegative(),
+  trans: z.number().nonnegative(),
+  discapacidad: z.number().nonnegative(),
+  victimas: z.number().nonnegative(),
+});
+
+const dailyClosingSchema = z.object({
+  date: z.string(),
+  count: z.number().nonnegative(),
+});
+
+const next7DaysSchema = z.object({
+  totalClosing: z.number().nonnegative(),
+  byDate: z.array(dailyClosingSchema),
+});
+
+const evolutionSnapshotSchema = z.object({
+  date: z.string(),
+  total: z.number().nonnegative(),
+  organizations: z.number().nonnegative(),
+});
+
+const dashboardSchema = z.object({
+  topOrganizations: z.array(topOrganizationSchema),
+  taskTypeDistribution: z.array(taskTypeEntrySchema),
+  quotaJobs: quotaJobsCountsSchema,
+  next7Days: next7DaysSchema,
+  evolution: z.array(evolutionSnapshotSchema),
+});
+
 export const jobSchema = z.object({
   id: z.string().min(1),
   source: z.string().min(1),
@@ -35,6 +77,7 @@ export const jobsDatasetSchema = z.object({
   scrapedAt: z.string(),
   total: z.number().nonnegative(),
   jobs: z.array(jobSchema),
+  dashboard: dashboardSchema.optional(),
 });
 
 export function parseJobsDataset(input: unknown) {
