@@ -8,6 +8,7 @@ import {
   degreeTypeLabels,
   modalityLabels,
   modalityBarFilled,
+  turnoLabels,
   getDegreeTypeBarInfo,
   formatDate,
   getSolidarityFundInfo,
@@ -53,11 +54,31 @@ const solidarityFund = getSolidarityFundInfo(
 const detailItems = [
   { label: "Área", value: entry.data.area },
   { label: "Duración", value: entry.data.duration },
+  {
+    label: "Dedicación semanal",
+    value: entry.data.weeklyHours,
+  },
   { label: "Créditos", value: entry.data.credits },
   { label: "Costo", value: entry.data.cost },
   { label: "Idioma", value: entry.data.language },
   { label: "Ubicación", value: entry.data.location },
   { label: "Acreditación", value: entry.data.accreditation },
+  {
+    label: "Título intermedio",
+    value: entry.data.intermediateTitle,
+  },
+  { label: "Cupos", value: entry.data.spots },
+  {
+    label: "Proceso de selección",
+    value: entry.data.selectionProcess,
+  },
+  {
+    label: "Becas",
+    value:
+      entry.data.scholarships.length > 0
+        ? entry.data.scholarships.join(", ")
+        : undefined,
+  },
   {
     label: "Inicio",
     value: entry.data.startDate ? formatDate(entry.data.startDate) : undefined,
@@ -143,6 +164,14 @@ const detailItems = [
             value={modalityLabels[entry.data.modality] ?? entry.data.modality}
             total={3}
             filled={modalityBarFilled[entry.data.modality] ?? 1}
+          />
+          <BarIndicator
+            label="Turno"
+            value={turnoLabels[entry.data.turno] ?? entry.data.turno}
+            total={3}
+            filled={
+              { diurno: 1, nocturno: 2, ambos: 3 }[entry.data.turno] ?? 1
+            }
           />
         </section>
         <AsideSection title="Detalles">

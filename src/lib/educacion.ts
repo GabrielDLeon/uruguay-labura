@@ -11,6 +11,12 @@ export const degreeTypeLabels: Record<string, string> = {
   otro: "Otro",
 };
 
+export const turnoLabels: Record<string, string> = {
+  diurno: "Diurno",
+  nocturno: "Nocturno",
+  ambos: "Ambos",
+}
+
 export const modalityLabels: Record<string, string> = {
   presencial: "Presencial",
   virtual: "Virtual",
