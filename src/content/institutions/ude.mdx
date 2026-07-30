@@ -1,0 +1,61 @@
+---
+name: "Universidad de la Empresa"
+short: "UDE"
+logo: "../../assets/ude-logo.webp"
+type: "private"
+color: "#2334B5"
+website: "https://www.ude.edu.uy"
+contactEmail: "info@ude.edu.uy"
+phone: "+598 2900 2442"
+location: "Montevideo"
+tags:
+  - "private"
+  - "montevideo"
+  - "colonia"
+  - "maldonado"
+  - "empresa"
+departments:
+  - "Montevideo"
+  - "Colonia"
+  - "Maldonado"
+description: "La UDE tiene como misión la formación de profesionales al más alto nivel, con una marcada actitud proactiva e inclinación por la investigación."
+isActive: true
+---
+
+import CampusCard from '@/components/CampusCard.astro'
+import CareerList from '@/components/CareerList.astro'
+
+La Universidad de la Empresa (UDE) es una institución privada fundada en 1992 como Escuela de Negocios, con el respaldo de la Asociación de Dirigentes de Marketing (ADM) y las principales cámaras empresariales del país. Fue reconocida oficialmente como universidad en 1998 mediante el Decreto N° 308/995.
+
+UDE cuenta con 7 facultades: Ciencias Agrarias, Ciencias Empresariales, Ciencias de la Educación, Ciencias Jurídicas, Ciencias de la Salud, Diseño y Comunicación, e Ingeniería. Su rector actual es Roberto Brezzo y cuenta con aproximadamente 5.000 estudiantes.
+
+La universidad tiene sedes en Montevideo (Centro y Pocitos), Colonia, Punta del Este y una Facultad de Ciencias Agrarias, además de un Campus Virtual con formación online.
+
+## Sedes
+
+<div class="not-prose grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+  <CampusCard
+    name="Sede Centro"
+    location="Montevideo"
+    address="Soriano 959, Montevideo"
+  />
+  <CampusCard
+    name="Sede Pocitos"
+    location="Montevideo"
+    address="21 de Setiembre 2741, Montevideo"
+  />
+  <CampusCard
+    name="Sede Colonia"
+    location="Colonia"
+    address="Rio de la Plata S/N, Colonia de Sacramento"
+  />
+  <CampusCard
+    name="Sede Punta del Este"
+    location="Maldonado"
+    address="Av. Roosevelt (Parada 7) y Salto, Punta del Este"
+  />
+</div>
+
+## Carreras
+
+<CareerList institution="ude" />
