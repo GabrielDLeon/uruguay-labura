@@ -1,6 +1,7 @@
 ---
 import { Font } from "astro:assets";
 import Seo from "@/components/common/Seo.astro";
+import Banner from "@/components/Banner.astro";
 import Footer from "@/components/Footer.astro";
 import Header from "@/components/Header.astro";
 import "@/styles/global.css";
@@ -38,6 +39,7 @@ const { title, description } = Astro.props;
     </script>
   </head>
   <body class="min-h-screen flex flex-col">
+    <Banner />
     <Header />
     <main class="mx-auto w-full max-w-7xl flex-1 px-4 sm:px-6 border-x">
       <slot />
