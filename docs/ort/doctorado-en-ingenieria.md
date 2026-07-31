@@ -1,0 +1,81 @@
+# Doctorado en Ingeniería
+
+## Metadata
+
+- Nombre oficial: Doctorado en Ingeniería
+- Tipo: Doctorado
+- Área: Ingeniería
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: 3 años
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Título de grado universitario en Ingeniería o ramas afines. Según la entidad y especialidad de esta formación previa, se habilita el ingreso directo al doctorado, o se requieren actividades curriculares adicionales. Ver todos los detalles en los siguientes párrafos. Aceptación, por parte de un investigador de la facultad, para actuar como tutor. Este deberá tener alta dedicación en la Universidad ORT Uruguay e integrar el Sistema Nacional de Investigadores en el nivel I o superior. Alternativamente, podrá ejercer como tutor un doctor de la especialidad que no cumpla las condiciones anteriores, si se lo acompaña con un director académico que sí las cumple. La admisión al doctorado la define el Comité Académico del Doctorado, en base a documentación de los puntos anteriores presentada por el postulante. En particular, este determina cuál de las modalidades de ingreso se aplica: Ingreso directo al doctorado. El requisito se considera cumplido para quienes posean un título de Ingeniero a (5 años) en las ramas presentes en nuestra Facultad: Ingeniería en Sistemas (en Informática, en Computación, o afines). Ingeniería Eléctrica (incluyendo Electrónica, Telecomunicaciones, Eléctrica de Potencia y áreas afines) Ingeniería en Biotecnología y afines. Ingreso con requisitos adicionales. Para quienes posean una licenciatura (4 años) en las áreas de Ingeniería citadas arriba, se exigirá la realización de 36 créditos en actividades de postgrado antes de ingresar formalmente al doctorado. También pueden exigirse tales créditos adicionales a graduados de otras ramas de la ingeniería (como Civil, Industrial o Química) o de licenciaturas en otras ramas afines (como Matemática, Física, Química, Biología, Bioquímica, Economía). En todos estos casos, el Comité Académico del Doctorado evaluará la pertinencia de la formación previa y definirá los créditos adicionales requeridos antes de ingresar.
+- Perfil de egreso: Perfil de los graduados Los graduados del Doctorado en Ingeniería deberán haber adquirido un profundo conocimiento de su disciplina de estudio, así como competencias para realizar su investigación, reflejada en resultados originales de significación. Al tratarse de un Doctorado en Ingeniería, se espera que dichos resultados conjuguen aportes teóricos o experimentales novedosos, con una orientación hacia problemas de interés tecnológico. También desarrollarán habilidades de comunicación oral y escrita sobre temas de investigación. Este nivel de formación es habilitante para desarrollar una carrera académica plena en un ámbito universitario o también para ubicarse en posiciones de investigación y desarrollo en la industria, y en centros o institutos de investigación públicos o privados. EL objetivo principal de este nivel de formación es la elaboración y defensa de una tesis doctoral, cuyos resultados sean considerados significativos por un tribunal de expertos en su disciplina. Subsidiariamente, se considerará como indicador relevante la aceptación de artículos científicos en medios internacionales arbitrados de alta calidad.
+- Salida laboral: Perfil de los graduados Los graduados del Doctorado en Ingeniería deberán haber adquirido un profundo conocimiento de su disciplina de estudio, así como competencias para realizar su investigación, reflejada en resultados originales de significación. Al tratarse de un Doctorado en Ingeniería, se espera que dichos resultados conjuguen aportes teóricos o experimentales novedosos, con una orientación hacia problemas de interés tecnológico. También desarrollarán habilidades de comunicación oral y escrita sobre temas de investigación. Este nivel de formación es habilitante para desarrollar una carrera académica plena en un ámbito universitario o también para ubicarse en posiciones de investigación y desarrollo en la industria, y en centros o institutos de investigación públicos o privados. EL objetivo principal de este nivel de formación es la elaboración y defensa de una tesis doctoral, cuyos resultados sean considerados significativos por un tribunal de expertos en su disciplina. Subsidiariamente, se considerará como indicador relevante la aceptación de artículos científicos en medios internacionales arbitrados de alta calidad.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante. La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+- Página oficial: https://fi.ort.edu.uy/doctorado-en-ingenieria
+
+## Resumen
+
+Su objetivo principal es la formación de investigadores en ingeniería mediante la realización de una tesis doctoral con aportes originales y significativos.
+
+- Formación del más alto nivel en investigación en Ingeniería
+- Tutorías personalizadas por investigadores de prestigio internacional
+- Habilita para una carrera académica o en centros de investigación de la industria
+
+El Doctorado en Ingeniería se ofrece sin costo, en el entendido que los estudiantes se integran a los grupos de investigación de la facultad.
+
+El doctorado abarca todas las áreas activas de investigación de la Facultad de Ingeniería. Los que lo realicen se integrarán a uno de los grupos de investigación que funcionan en la facultad. Por ejemplo: biotecnología, computación cuántica, computación teórica, ingeniería de software, inteligencia artificial, matemática aplicada a telecomunicaciones y energía.
+
+El objetivo principal es la realización de una tesis doctoral, de autoría individual, que contenga aportes originales y relevantes al conocimiento en el área de especialidad. Los aportes se reflejarán normalmente también en publicaciones internacionales arbitradas.
+
+La formación doctoral constituye en el mundo la puerta de entrada para la carrera académica, es decir, de personas que se dedican a la vida universitaria en su versión más completa, de la cual una parte central es la investigación.
+
+También los doctorados son muy valorados por organizaciones más allá de las fronteras universitarias. En particular, empresas tecnológicas de punta que desarrollan nuevas tecnologías emplean cada vez más doctores en ingeniería en roles de liderazgo. También organizaciones de consultoría o de gobierno se apoyan en especialistas con doctorado.
+
+La formación brindada por nuestro doctorado capacita para todos estos roles a nivel internacional.
+
+En el Uruguay, la instalación de los doctorados es relativamente reciente. Su avance es clave para el fortalecimiento del ecosistema científico y tecnológico, posicionando al país como referente en ingeniería en la región, y para su adecuada inserción en el ámbito internacional del conocimiento. Los egresados contribuirán de modo esencial al desarrollo de estas capacidades en el país.
+
+## Plan de Estudio
+
+El Doctorado en Ingeniería es un programa por créditos ECTS. Se cuantifica el trabajo total en 180 créditos, distribuidos de la siguiente forma: Actividades Programadas (18 créditos). Cursos y seminarios de postgrado, de temática consistente con el área de tesis. Los mismos pueden ser ofrecidos por la Facultad de Ingeniería de ORT, por intercambio con otras instituciones del medio, o mediante la participación en actividades académicas a nivel internacional. Investigación y tesis doctoral (162 créditos). Esto abarca todo el proceso de investigación y se divide en las siguientes etapas: 42 créditos por el trabajo conducente a definir el problema de investigación a estudiar. Esta etapa concluye con un Examen de Calificación Doctoral. 80 créditos por avances documentados en la investigación. 40 créditos por la redacción y defensa de la tesis doctoral. Una progresión temporal posible, compatible con los requerimientos planteados: 1.er año: cumplimiento de las Actividades Programadas e inicio de las actividades de investigación. Rendir el Examen de Calificación Doctoral. 2.o año: dedicación plena a la investigación. Resultados preliminares, documentados en un reporte técnico o artículo enviado para publicación. 3.er año: resultados finales de investigación, redacción y defensa de la tesis.
+
+## Requisitos de ingreso (detalle)
+
+Título de grado universitario en Ingeniería o ramas afines. Según la entidad y especialidad de esta formación previa, se habilita el ingreso directo al doctorado, o se requieren actividades curriculares adicionales. Ver todos los detalles en los siguientes párrafos. Aceptación, por parte de un investigador de la facultad, para actuar como tutor. Este deberá tener alta dedicación en la Universidad ORT Uruguay e integrar el Sistema Nacional de Investigadores en el nivel I o superior. Alternativamente, podrá ejercer como tutor un doctor de la especialidad que no cumpla las condiciones anteriores, si se lo acompaña con un director académico que sí las cumple. La admisión al doctorado la define el Comité Académico del Doctorado, en base a documentación de los puntos anteriores presentada por el postulante. En particular, este determina cuál de las modalidades de ingreso se aplica: Ingreso directo al doctorado. El requisito se considera cumplido para quienes posean un título de Ingeniero/a (5 años) en las ramas presentes en nuestra Facultad: Ingeniería en Sistemas (en Informática, en Computación, o afines). Ingeniería Eléctrica (incluyendo Electrónica, Telecomunicaciones, Eléctrica de Potencia y áreas afines) Ingeniería en Biotecnología y afines. Ingreso con requisitos adicionales. Para quienes posean una licenciatura (4 años) en las áreas de Ingeniería citadas arriba, se exigirá la realización de 36 créditos en actividades de postgrado antes de ingresar formalmente al doctorado. También pueden exigirse tales créditos adicionales a graduados de otras ramas de la ingeniería (como Civil, Industrial o Química) o de licenciaturas en otras ramas afines (como Matemática, Física, Química, Biología, Bioquímica, Economía). En todos estos casos, el Comité Académico del Doctorado evaluará la pertinencia de la formación previa y definirá los créditos adicionales requeridos antes de ingresar.
+
+## Modalidad de cursado (detalle)
+
+Las actividades programadas se realizan en formato presencial o híbrido (HyFlex®). Las evaluaciones principales serán presenciales. La investigación se realiza en un laboratorio o espacio de trabajo dentro de la facultad, bajo la supervisión del tutor académico.
+
+## Duración y horarios (detalle)
+
+Duración 3 años. Para completar el doctorado en este lapso mínimo es necesaria una alta dedicación, no menor a las 30 horas semanales. La mayor parte de estas horas son dedicadas a la investigación, que por su naturaleza no tiene un horario fijo. Horarios de clase En cuanto a los créditos requeridos de actividades programadas (cursos y seminarios), estos pueden ser en horarios diversos, según la oferta académica de cada semestre. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Doctorado en Ingeniería es un postgrado reconocido por resolución oficial del Ministerio de Educación y Cultura del 4/2/26.
+
+## Requisito de graduación
+
+Para graduarse como Doctor/a en Ingeniería, el estudiante deberá: Completar al menos 180 créditos, distribuidos de la siguiente manera: 162 créditos correspondientes al trabajo de investigación (elaboración de la tesis). 18 créditos en actividades programadas de postgrado (cursos, seminarios, pasantías, etc.). Aprobar el Examen de Calificación Doctoral, que se realiza al final del primer año. Este examen: Es una presentación oral ante un tribunal de 3 docentes. Evalúa el conocimiento del estado del arte en el área elegida y las ideas preliminares del trabajo de tesis. Presentar avances documentados en la investigación, que idealmente conduzcan a al menos dos artículos científicos aceptados o publicados en medios internacionales arbitrados de alta calidad. Redactar y presentar una tesis doctoral, que debe: Ser un documento individual y original. Contener aportes relevantes al conocimiento científico y tecnológico. Ser respaldada por publicaciones científicas o, en casos excepcionales, por otras contribuciones significativas (como patentes). Defender públicamente la tesis ante un tribunal de 5 miembros, que debe incluir al menos un integrante externo a la Universidad ORT Uruguay. Obtener la aprobación del tribunal, que podrá sugerir correcciones antes de la versión final de la tesis.
+
+## Becas (detalle)
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://fi.ort.edu.uy/doctorado-en-ingenieria)
+- [Plan de estudios](https://fi.ort.edu.uy/doctorado-en-ingenieria/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)
