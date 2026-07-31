@@ -71,9 +71,18 @@ const SECTION_MAP = {
   // sección se conserva como ### Información adicional dentro del tab Ingreso.
   "Información adicional": { tab: "Ingreso", dynamic: true },
 
-  // se descartan
-  Docentes: null,
-  "Departamentos donde se dicta el posgrado": null,
+  // Secciones cortas (<=600 chars, != "No corresponde") con info curada
+  // (coordinadores, plantel editorial, comisiones) se conservan como
+  // ### Docentes en Resumen; los muros de nombres del CAP se descartan.
+  Docentes: {
+    tab: "Resumen",
+    subsection: "Docentes",
+    maxLen: 600,
+    skipIf: (c) => c.trim() === "No corresponde",
+  },
+  // La sección no se renderiza, pero el valor (ciudad) enriquece el campo
+  // `location` del frontmatter (p. ej. "Facultad de Agronomía, Montevideo").
+  "Departamentos donde se dicta el posgrado": { locationFrom: true },
 };
 
 // ── Parsing del cuerpo en secciones ───────────────────────────────────────
@@ -121,9 +130,12 @@ function renderTab(tabName, blocks) {
 }
 
 // ── Transformación del cuerpo ─────────────────────────────────────────────
-// Devuelve { body, changed, srcSections, dropped, seeded, sobreInserted, tabs }
-// o null si el archivo ya está normalizado.
-function transformBody(body, description) {
+// Devuelve { body, changed, srcSections, dropped, seeded, sobreInserted,
+//   merged, tabs, locationUpdate } o null si el archivo ya está normalizado.
+// locationUpdate: nuevo valor de `location` (ciudad del departamento
+//   universitario anexada) o null si no cambia.
+function transformBody(body, doc) {
+  const description = doc.description ?? "";
   const sections = splitSections(body);
   const intro = sections[0].heading === null ? sections[0].lines : [];
   const rest = sections[0].heading === null ? sections.slice(1) : sections;
@@ -133,6 +145,7 @@ function transformBody(body, description) {
   const dropped = [];
   const merged = [];
   let hasLegacy = false;
+  let departamento = null;
 
   for (const sec of rest) {
     const rule = SECTION_MAP[sec.heading];
@@ -145,6 +158,28 @@ function transformBody(body, description) {
       continue;
     }
     srcSections.push(sec.heading);
+
+    if (rule.locationFrom) {
+      departamento = sec.lines.join("\n").trim();
+      dropped.push(sec.heading);
+      hasLegacy = true;
+      continue;
+    }
+
+    if (rule.maxLen) {
+      // Docentes: se conserva solo si es una lista corta con info curada
+      const content = sec.lines.join("\n").trim();
+      if (rule.skipIf?.(content) || content.length > rule.maxLen) {
+        dropped.push(sec.heading);
+        hasLegacy = true;
+        continue;
+      }
+      const t = tabs.get(rule.tab) || [];
+      t.push({ subsection: rule.subsection, content });
+      tabs.set(rule.tab, t);
+      hasLegacy = true;
+      continue;
+    }
 
     if (rule === null) {
       dropped.push(sec.heading);
@@ -188,6 +223,19 @@ function transformBody(body, description) {
       t.push({ subsection, content });
     }
     tabs.set(rule.tab, t);
+  }
+
+  // `location` enriquecido con la ciudad del departamento universitario
+  // (p. ej. "Facultad de Veterinaria, Paysandú") cuando no está ya presente.
+  let locationUpdate = null;
+  if (departamento) {
+    const current = typeof doc.location === "string" ? doc.location : "";
+    if (
+      !current.toLowerCase().includes(departamento.toLowerCase()) &&
+      departamento.trim() !== ""
+    ) {
+      locationUpdate = current ? `${current}, ${departamento}` : departamento;
+    }
   }
 
   // Resumen sin contenido sustantivo (sin Objetivo/Perfil de egreso/texto
@@ -238,13 +286,14 @@ function transformBody(body, description) {
 
   return {
     body: newBody,
-    changed: newBody !== body,
+    changed: newBody !== body || locationUpdate !== null,
     srcSections,
     dropped,
     seeded,
     sobreInserted,
     merged,
     tabs: tabsSummary,
+    locationUpdate,
   };
 }
 
@@ -288,7 +337,7 @@ for (const file of files) {
   }
 
   const body = raw.slice(m[0].length);
-  const result = transformBody(body, doc.description ?? "");
+  const result = transformBody(body, doc);
 
   if (!result || !result.changed) {
     unchanged++;
@@ -308,16 +357,19 @@ for (const file of files) {
   byPattern.set(key, (byPattern.get(key) || 0) + 1);
 
   detail.push(
-    `${file}\t${srcSig}\t→\t${targetSig}${result.seeded ? "\t(seed: description)" : ""}${result.dropped.length ? `\t(drop: ${result.dropped.join(",")})` : ""}`,
+    `${file}\t${srcSig}\t→\t${targetSig}${result.seeded ? "\t(seed: description)" : ""}${result.locationUpdate ? `\t(location: ${result.locationUpdate})` : ""}${result.dropped.length ? `\t(drop: ${result.dropped.join(",")})` : ""}`,
   );
 
   if (APPLY) {
     const trailing = raw.endsWith("\n") ? "\n" : "";
-    writeFileSync(
-      path,
-      `${raw.slice(0, m[0].length)}${result.body}${trailing}`,
-      "utf8",
-    );
+    // `raw.slice(0, m[0].length)` incluye el frontmatter completo (`---\n{fm}\n---`);
+    // si hay locationUpdate, se reemplaza la línea `location:` en esa porción.
+    const head = result.locationUpdate
+      ? raw
+          .slice(0, m[0].length)
+          .replace(/^(location:\s*).*$/m, `$1"${result.locationUpdate}"`)
+      : raw.slice(0, m[0].length);
+    writeFileSync(path, `${head}${result.body}${trailing}`, "utf8");
   }
 }
 

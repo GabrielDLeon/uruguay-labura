@@ -13,6 +13,7 @@ Los `##` headings generan tabs automáticamente. Cada `##` es un tab.
 ### Objetivo               (opcional, posgrados UDELAR)
 ### Perfil de egreso       (opcional)
 ### Referentes académicos  (opcional)
+### Docentes               (opcional, solo listas cortas curadas: coordinadores, plantel, comisiones)
 ### Proceso de Selección   (opcional)
 ### Becas                  (opcional)
 ### Comunidades            (opcional)
@@ -60,8 +61,8 @@ usan secciones propias. Al normalizar (`scripts/normalize-body.mjs`) se mapean a
 | `## Unidades curriculares` | `## Plan de Estudio` → `### Unidades curriculares` |
 | `## Información adicional` | `## Ingreso` → `### Requisitos de Ingreso` (si arranca con "Requisitos de ingreso/inscripción:", sin el prefijo) o `### Información adicional` |
 | `## Fuentes` | `## Fuentes` (se conserva) |
-| `## Docentes` | se descarta (ruido: listas masivas de docentes del CAP) |
-| `## Departamentos donde se dicta el posgrado` | se descarta (redundante con `location`/`campus`) |
+| `## Docentes` | `## Resumen` → `### Docentes` si es lista corta (≤600 chars) con info curada (coordinadores, plantel, comisiones); los muros de nombres del CAP se descartan |
+| `## Departamentos donde se dicta el posgrado` | la sección no se renderiza; el valor (ciudad, p. ej. "Montevideo", "Paysandú") se anexa al campo `location` del frontmatter cuando no está ya presente |
 
 
 ## Frontmatter
