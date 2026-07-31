@@ -1,19 +1,20 @@
 ---
-import SavedJobsBoard from "@/components/jobs/SavedJobsBoard"
-import Layout from "@/layouts/Layout.astro"
-import PageHeader from "@/components/PageHeader.astro"
+import SavedJobsBoard from "@/components/jobs/SavedJobsBoard";
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import PageHeader from "@/components/PageHeader.astro";
 ---
 
 <Layout
   title="Empleos guardados"
   description="Tus llamados laborales guardados en Uruguay."
 >
-  <PageHeader title="Empleos guardados" class="pt-8">
-    Llamados que guardaste para postularte más tarde. Se guardan
-    automáticamente en tu navegador.
-  </PageHeader>
+  <Block>
+    <PageHeader title="Empleos guardados">
+      Llamados que guardaste para postularte más tarde. Se guardan
+      automáticamente en tu navegador.
+    </PageHeader>
 
-  <div class="pb-8">
     <SavedJobsBoard client:load />
-  </div>
+  </Block>
 </Layout>

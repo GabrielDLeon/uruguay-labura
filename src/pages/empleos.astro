@@ -1,6 +1,7 @@
 ---
 import JobsBoard from "@/components/jobs/JobsBoard";
 import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
 import PageHeader from "@/components/PageHeader.astro";
 ---
 
@@ -8,30 +9,33 @@ import PageHeader from "@/components/PageHeader.astro";
   title="Llamados laborales en Uruguay"
   description="Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada."
 >
-  <PageHeader title="Llamados laborales de Uruguay" class="pt-8">
-    El siguiente listado es una recopilación semanal de los concursos
-    actualmente disponibles y activos del sitio
-    <a
-      href="https://www.uruguayconcursa.gub.uy"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="underline decoration-dotted underline-offset-3 hover:text-foreground"
-      >Uruguay Concursa</a
-    >. El proyecto busca mejorar la experiencia de los usuarios.
-  </PageHeader>
+  <Block>
+    <PageHeader title="Llamados laborales de Uruguay">
+      El siguiente listado es una recopilación semanal de los concursos
+      actualmente disponibles y activos del sitio
+      <a
+        href="https://www.uruguayconcursa.gub.uy"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="underline decoration-dotted underline-offset-3 hover:text-foreground"
+        >Uruguay Concursa</a
+      >. El proyecto busca mejorar la experiencia de los usuarios.
+    </PageHeader>
 
-  <div class="pb-8">
-  <JobsBoard
-    client:load
-    initialQuery={Astro.url.searchParams.get("q") ?? ""}
-    initialCallNumber={Astro.url.searchParams.get("call") ?? ""}
-    initialOrganization={Astro.url.searchParams.get("org") ?? ""}
-    initialTaskType={Astro.url.searchParams.get("type") ?? ""}
-    initialAfro={Astro.url.searchParams.get("afro") === "1"}
-    initialDiscapacidad={Astro.url.searchParams.get("disc") === "1"}
-    initialTrans={Astro.url.searchParams.get("trans") === "1"}
-    initialVictimas={Astro.url.searchParams.get("vict") === "1"}
-    initialPage={Math.max(1, Number(Astro.url.searchParams.get("page") ?? "1"))}
-  />
-</div>
+    <JobsBoard
+      client:load
+      initialQuery={Astro.url.searchParams.get("q") ?? ""}
+      initialCallNumber={Astro.url.searchParams.get("call") ?? ""}
+      initialOrganization={Astro.url.searchParams.get("org") ?? ""}
+      initialTaskType={Astro.url.searchParams.get("type") ?? ""}
+      initialAfro={Astro.url.searchParams.get("afro") === "1"}
+      initialDiscapacidad={Astro.url.searchParams.get("disc") === "1"}
+      initialTrans={Astro.url.searchParams.get("trans") === "1"}
+      initialVictimas={Astro.url.searchParams.get("vict") === "1"}
+      initialPage={Math.max(
+        1,
+        Number(Astro.url.searchParams.get("page") ?? "1"),
+      )}
+    />
+  </Block>
 </Layout>

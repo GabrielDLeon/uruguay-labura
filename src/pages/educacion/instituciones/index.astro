@@ -1,45 +1,47 @@
 ---
-import { getCollection } from "astro:content"
+import { getCollection } from "astro:content";
 
-import Layout from "@/layouts/Layout.astro"
-import PageHeader from "@/components/PageHeader.astro"
-import InstitutionCard from "@/components/InstitutionCard.astro"
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import PageHeader from "@/components/PageHeader.astro";
+import InstitutionCard from "@/components/InstitutionCard.astro";
 
-const entries = await getCollection("institutions")
+const entries = await getCollection("institutions");
 
-entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"))
+entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"));
 ---
 
 <Layout
   title="Instituciones"
   description="Directorio de universidades e instituciones de educación superior en Uruguay."
 >
-  <PageHeader
-    title="Instituciones"
-    description="Universidades e instituciones de educación superior en Uruguay. Explora las instituciones para conocer sus programas, ubicaciones e información de contacto."
-    class="pt-6 sm:pt-8"
-  />
+  <Block>
+    <PageHeader
+      title="Instituciones"
+      description="Universidades e instituciones de educación superior en Uruguay. Explora las instituciones para conocer sus programas, ubicaciones e información de contacto."
+    />
 
-  <section class="pb-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+    <section class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {
+        entries.map((entry) => (
+          <InstitutionCard
+            href={`/educacion/instituciones/${entry.id}`}
+            name={entry.data.name}
+            short={entry.data.short}
+            description={entry.data.description}
+            type={entry.data.type}
+            logo={entry.data.logo}
+          />
+        ))
+      }
+    </section>
+
     {
-      entries.map((entry) => (
-        <InstitutionCard
-          href={`/educacion/instituciones/${entry.id}`}
-          name={entry.data.name}
-          short={entry.data.short}
-          description={entry.data.description}
-          type={entry.data.type}
-          logo={entry.data.logo}
-        />
-      ))
+      entries.length === 0 ? (
+        <p class="text-muted-foreground mt-4 text-sm">
+          No hay instituciones registradas por el momento.
+        </p>
+      ) : null
     }
-  </section>
-
-  {
-    entries.length === 0 ? (
-      <p class="text-muted-foreground mt-4 text-sm">
-        No hay instituciones registradas por el momento.
-      </p>
-    ) : null
-  }
+  </Block>
 </Layout>
