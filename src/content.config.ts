@@ -2,6 +2,14 @@ import { defineCollection } from "astro:content";
 import { z } from "astro/zod";
 import { glob } from "astro/loaders";
 
+export const campusSchema = z.object({
+  name: z.string().min(1),
+  location: z.string().min(1),
+  address: z.string().optional(),
+});
+
+export type Campus = z.infer<typeof campusSchema>;
+
 const institutionSchema = z.object({
   name: z.string().min(1),
   short: z.string().optional(),
@@ -15,6 +23,7 @@ const institutionSchema = z.object({
   isActive: z.boolean().default(true),
   description: z.string().optional(),
   color: z.string().optional(),
+  campuses: z.array(campusSchema).default([]),
 });
 
 export type InstitutionEntry = z.infer<typeof institutionSchema>;
@@ -75,6 +84,7 @@ const educacionCollection = defineCollection({
 
 const becasSchema = z.object({
   title: z.string().min(1),
+  short: z.string().optional(),
   type: z.string().min(1),
   institution: z.string().min(1),
   description: z.string().min(1).optional(),

@@ -36,6 +36,10 @@ import NavDropdown from "./common/NavDropdown.astro";
             <Icon name="mdi:bank-outline" size={16} aria-hidden="true" />
             Instituciones
           </a>
+          <a href="/educacion/becas" role="menuitem">
+            <Icon name="mdi:hand-coin-outline" size={16} aria-hidden="true" />
+            Becas
+          </a>
         </NavDropdown>
       </nav>
     </div>
@@ -77,6 +81,18 @@ import NavDropdown from "./common/NavDropdown.astro";
             aria-hidden="true"
           />
           Educación
+        </a>
+        <a
+          href="/educacion/becas"
+          class="inline-flex items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+        >
+          <Icon
+            name="mdi:hand-coin-outline"
+            size={16}
+            class="shrink-0"
+            aria-hidden="true"
+          />
+          Becas
         </a>
       </nav>
 

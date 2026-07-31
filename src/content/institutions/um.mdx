@@ -13,12 +13,13 @@ tags:
   - "cristiana"
 departments:
   - "Montevideo"
+campuses:
+  - name: "Campus Montevideo"
+    location: "Montevideo"
+    address: "Prudencio de Pena 2544, Montevideo"
 description: "La Universidad de Montevideo (UM) es una institución privada de identidad cristiana abierta a personas de todas las creencias. Con sus valores fomenta un clima de respeto y convivencia."
 isActive: true
 ---
-
-import CampusCard from '@/components/CampusCard.astro'
-import CareerList from '@/components/CareerList.astro'
 
 La Universidad de Montevideo (UM) es una institución privada fundada el 25 de noviembre de 1986, con orígenes en el IEEM (Instituto de Estudios Empresariales de Montevideo). Fue reconocida oficialmente como universidad en 1997. Es de identidad cristiana, inspirada en las enseñanzas de San Josemaría Escrivá, y abierta a personas de todas las creencias.
 
@@ -27,17 +28,3 @@ Ofrece carreras de grado y posgrado en sus facultades de Ciencias Empresariales 
 La UM se destaca como la universidad privada mejor ranqueada de Uruguay según el QS World University Ranking (puesto 741-750). El 99% de sus egresados (2018-2023) se insertaron en su rubro laboral. Cuenta con aproximadamente 2.500 estudiantes de grado y 950 de posgrado.
 
 Su sede central se encuentra en Prudencio de Pena 2544, Parque Batlle, Montevideo. Además cuenta con un Parque de Innovación en LATU donde funciona la Facultad de Ingeniería.
-
-## Sedes
-
-<div class="not-prose grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-  <CampusCard
-    name="Campus Montevideo"
-    location="Montevideo"
-    address="Prudencio de Pena 2544, Montevideo"
-  />
-</div>
-
-## Carreras
-
-<CareerList institution="um" />

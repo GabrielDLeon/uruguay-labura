@@ -4,12 +4,15 @@ import { getCollection, render } from "astro:content";
 import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
 import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
 import { institutionTypeLabels } from "@/lib/institution";
 import UruguayMap from "@/components/UruguayMap.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import { locationsToIds } from "@/lib/departments";
 import InstitutionCard from "@/components/InstitutionCard.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
+import CampusesTable from "@/components/careers/CampusesTable";
+import CareersTable from "@/components/careers/CareersTable";
 
 export async function getStaticPaths() {
   const entries = await getCollection("institutions");
@@ -26,13 +29,18 @@ export async function getStaticPaths() {
 
 const { entry, otherInstitutions } = Astro.props;
 const { Content } = await render(entry);
+
+const programs = await getCollection("educacion", ({ data }) =>
+  Boolean(data.institution === entry.id && !data.draft),
+);
+const hasCareers = programs.length > 0;
 ---
 
 <Layout
   title={entry.data.short ?? entry.data.name}
   description={`${entry.data.name} — ${institutionTypeLabels[entry.data.type]} university in Uruguay.`}
 >
-  <div class="border-b -mx-4 sm:-mx-6 px-4 sm:px-6 pt-8 pb-6">
+  <Block class="border-b">
     <div class="mb-4">
       <a
         href="/educacion/instituciones"
@@ -56,7 +64,9 @@ const { Content } = await render(entry);
         <div class="flex flex-wrap items-center gap-x-2 gap-y-1 mb-3">
           <span
             class="badge"
-            data-variant={entry.data.type === "public" ? "success" : "secondary"}
+            data-variant={entry.data.type === "public"
+              ? "success"
+              : "secondary"}
           >
             {institutionTypeLabels[entry.data.type]}
           </span>
@@ -85,7 +95,7 @@ const { Content } = await render(entry);
         }
       </div>
     </div>
-  </div>
+  </Block>
 
   <PagefindIndex
     title={entry.data.name}
@@ -98,107 +108,129 @@ const { Content } = await render(entry);
 
   <div data-pagefind-ignore="all">
     <div class="grid md:grid-cols-3">
-      <aside class="flex flex-col gap-8 h-full md:order-2 md:border-l md:pl-8 pt-8 pb-8 mb-8 md:mb-0">
-        <AsideSection title="Contacto">
-          <div class="flex flex-col gap-2">
+      <aside class="h-full md:order-2 md:border-l mb-8 md:mb-0">
+        <Block class="flex h-full flex-col gap-8">
+          <AsideSection title="Contacto">
+            <div class="flex flex-col gap-2">
+              <a
+                href={entry.data.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn"
+                data-size="sm"
+              >
+                Sitio oficial
+              </a>
+              {
+                entry.data.contactEmail ? (
+                  <a
+                    href={`mailto:${entry.data.contactEmail}`}
+                    class="btn"
+                    data-variant="outline"
+                    data-size="sm"
+                  >
+                    {entry.data.contactEmail}
+                  </a>
+                ) : null
+              }
+              {
+                entry.data.phone ? (
+                  <a
+                    href={`tel:${entry.data.phone}`}
+                    class="btn"
+                    data-variant="outline"
+                    data-size="sm"
+                  >
+                    {entry.data.phone}
+                  </a>
+                ) : null
+              }
+            </div>
+          </AsideSection>
+
+          <AsideSection
+            title="Presencia"
+            style={entry.data.color
+              ? `--map-highlight: ${entry.data.color}`
+              : undefined}
+          >
+            <UruguayMap highlighted={locationsToIds(entry.data.departments)} />
+          </AsideSection>
+
+          {
+            entry.data.tags.length > 0 ? (
+              <AsideSection title="Tags">
+                <div class="flex flex-wrap gap-1">
+                  {entry.data.tags.map((tag) => (
+                    <span class="badge text-xs" data-variant="outline">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              </AsideSection>
+            ) : null
+          }
+
+          <div class="flex justify-center">
             <a
-              href={entry.data.website}
+              href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/institutions/${entry.id}.mdx`}
               target="_blank"
               rel="noopener noreferrer"
-              class="btn"
-              data-size="sm"
+              class="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"
             >
-              Sitio oficial
+              <Icon name="mdi:pencil" class="size-3" />
+              Editar contenido
             </a>
-            {
-              entry.data.contactEmail ? (
-                <a
-                  href={`mailto:${entry.data.contactEmail}`}
-                  class="btn"
-                  data-variant="outline"
-                  data-size="sm"
-                >
-                  {entry.data.contactEmail}
-                </a>
-              ) : null
-            }
-            {
-              entry.data.phone ? (
-                <a
-                  href={`tel:${entry.data.phone}`}
-                  class="btn"
-                  data-variant="outline"
-                  data-size="sm"
-                >
-                  {entry.data.phone}
-                </a>
-              ) : null
-            }
           </div>
-        </AsideSection>
-
-        <AsideSection
-          title="Presencia"
-          style={entry.data.color ? `--map-highlight: ${entry.data.color}` : undefined}
-        >
-          <UruguayMap
-            highlighted={locationsToIds(entry.data.departments)}
-          />
-        </AsideSection>
-
-        {
-          entry.data.tags.length > 0 ? (
-            <AsideSection title="Tags">
-              <div class="flex flex-wrap gap-1">
-                {entry.data.tags.map((tag) => (
-                  <span class="badge text-xs" data-variant="outline">{tag}</span>
-                ))}
-              </div>
-            </AsideSection>
-          ) : null
-        }
-
-        <div class="flex justify-center">
-          <a
-            href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/institutions/${entry.id}.mdx`}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"
-          >
-            <Icon name="mdi:pencil" class="size-3" />
-            Editar contenido
-          </a>
-        </div>
+        </Block>
       </aside>
 
-      <div class="md:order-1 md:col-span-2 md:pr-8 pt-8 pb-8 min-w-0">
-        <div class="prose prose-sm dark:prose-invert max-w-none">
-          <Content />
-        </div>
+      <div class="md:order-1 md:col-span-2 min-w-0">
+        <Block>
+          <div class="prose prose-sm dark:prose-invert max-w-none">
+            <Content />
+          </div>
+        </Block>
+
+        {
+          hasCareers && (
+            <Block class="border-t border-border">
+              <h2 class="text-lg font-bold text-foreground mb-4">Carreras</h2>
+              <CareersTable institution={entry.id} client:visible />
+            </Block>
+          )
+        }
+
+        {
+          entry.data.campuses.length > 0 && (
+            <Block class="border-t border-border">
+              <h2 class="text-lg font-bold text-foreground mb-4">Sedes</h2>
+              <CampusesTable campuses={entry.data.campuses} client:visible />
+            </Block>
+          )
+        }
       </div>
     </div>
 
     {
       otherInstitutions.length > 0 ? (
-        <section class="border-t -mx-4 sm:-mx-6 px-4 sm:px-6 py-8">
+        <Block class="border-t">
           <h2 class="text-lg font-bold text-foreground mb-4">
             Otras instituciones
           </h2>
           <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {
-              otherInstitutions.map((inst) => (
-                <InstitutionCard
-                  href={`/educacion/instituciones/${inst.id}`}
-                  name={inst.data.name}
-                  short={inst.data.short}
-                  description={inst.data.description}
-                  type={inst.data.type}
-                  logo={inst.data.logo}
-                />
-              ))
-            }
+            {otherInstitutions.map((inst) => (
+              <InstitutionCard
+                href={`/educacion/instituciones/${inst.id}`}
+                name={inst.data.name}
+                short={inst.data.short}
+                description={inst.data.description}
+                type={inst.data.type}
+                logo={inst.data.logo}
+              />
+            ))}
           </div>
-        </section>
+        </Block>
       ) : null
     }
   </div>
