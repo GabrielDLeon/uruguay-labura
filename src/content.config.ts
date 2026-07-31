@@ -47,12 +47,15 @@ export const educacionSchema = z.object({
   ]),
   area: z.string().min(1),
   modality: z.enum(["presencial", "virtual", "hibrido"]),
+  shift: z.enum(["day", "night", "both"]),
+  weeklyHours: z.string().min(1),
   duration: z.string().min(1),
   credits: z.number().int().nonnegative().optional(),
+  becas: z.array(z.string()).default([]),
   cost: z.string().min(1),
   language: z.string().min(1).default("Espanol"),
   website: z.url(),
-  contactEmail: z.email().optional(),
+  contactEmail: z.union([z.email(), z.array(z.email())]).optional(),
   location: z.string().min(1).optional(),
   accreditation: z.string().min(1).optional(),
   description: z.string().min(1).optional(),
@@ -70,7 +73,25 @@ const educacionCollection = defineCollection({
   schema: educacionSchema,
 });
 
+const becasSchema = z.object({
+  title: z.string().min(1),
+  type: z.string().min(1),
+  institution: z.string().min(1),
+  description: z.string().min(1).optional(),
+  website: z.url(),
+  tags: z.array(z.string()).default([]),
+  draft: z.boolean().default(false),
+});
+
+export type BecasEntry = z.infer<typeof becasSchema>;
+
+const becasCollection = defineCollection({
+  loader: glob({ base: "./src/content/becas", pattern: "**/*.{md,mdx}" }),
+  schema: becasSchema,
+});
+
 export const collections = {
   educacion: educacionCollection,
   institutions: institutionsCollection,
+  becas: becasCollection,
 };

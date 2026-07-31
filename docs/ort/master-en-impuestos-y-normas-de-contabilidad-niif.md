@@ -1,0 +1,218 @@
+# Master en Impuestos y Normas de Contabilidad - NIIF
+
+## Metadata
+
+- Nombre oficial: Master en Impuestos y Normas de Contabilidad - NIIF
+- Tipo: Maestría
+- Área: Administración y Ciencias Sociales
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: 18 meses (según la página oficial). Nota: el JSON-LD del sitio indica 25 meses, hay información contradictoria entre fuentes.
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Los requisitos de ingreso son: • Ser un profesional universitario que se desempeñe en el área contable y o fiscal. • Demostrar experiencia profesional relevante. • Ser recomendado por el Tribunal Académico luego de una o más entrevistas. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los participantes Los estudiantes del Master en Impuestos y Normas de Contabilidad - NIIF son profesionales que buscan profundizar sus conocimientos en el área contable-fiscal con el objetivo de preparar estados financieros que reflejen en forma fiel las transacciones realizadas por las empresas. El perfil de los alumnos comprende cargos como gerentes, jefes, encargados de áreas, analistas y profesionales independientes, entre otros; principalmente contadores, licenciados en gerencia y administración y abogados.
+- Salida laboral: Perfil de los participantes Los estudiantes del Master en Impuestos y Normas de Contabilidad - NIIF son profesionales que buscan profundizar sus conocimientos en el área contable-fiscal con el objetivo de preparar estados financieros que reflejen en forma fiel las transacciones realizadas por las empresas. El perfil de los alumnos comprende cargos como gerentes, jefes, encargados de áreas, analistas y profesionales independientes, entre otros; principalmente contadores, licenciados en gerencia y administración y abogados.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+- Página oficial: https://facs.ort.edu.uy/escuela-de-postgrados/master-en-impuestos-y-normas-de-contabilidad-niif
+
+## Resumen
+
+Dirigido a Contadores Públicos interesados en especializarse en contabilidad e impuestos, orientados a funciones gerenciales o de consultoría tributaria.
+
+- Profundización en las normas financieras internacionales
+- Enfoque en la creación de informes financieros de alta calidad
+- Personalización de la formación con más de 15 materias electivas
+- Un generador de información financiera decisiva.
+- Un experto en sistema tributario local e internacional.
+- Un especialista en NIIF.
+
+La maestría profundiza en el dominio de las Normas Internacionales de Información Financiera (NIIF), permitiendo al profesional crear informes financieros de alta calidad, fundamentales para la toma de decisiones y el cálculo de obligaciones tributarias empresariales.
+
+Los aprendizajes del postgrado transforman al profesional en un asesor tributario completo, capacitado para guiar a clientes en la interpretación global de transacciones y negocios, considerando no solo su aspecto tributario, sino también contable.
+
+A través de este programa, te convertirás en:
+
+Además, aumentarás tu participación en la emisión de datos no financieros cruciales, ampliarás tu capacidad analítica y agudizarás tu enfoque práctico para resolver desafíos.
+
+Desarrollarás una perspectiva global en negocios complejos y cambiantes, posicionándote como un asesor tributario y contable de vanguardia.
+
+¡No pierdas esta oportunidad de crecer profesionalmente en el mundo de los impuestos y la contabilidad!
+
+Enfoque internacional
+
+La internacionalización de los negocios y la convergencia hacia estándares internacionales en materia tributaria requieren una visión global e internacional de los profesionales en su rol de asesores.
+
+Calificados profesores locales y extranjeros
+
+Cuenta con un sólido cuerpo docente integrado por destacados profesionales con experiencia académica y gerencial, tanto a nivel nacional como internacional, con el apoyo de profesores invitados y especializados del exterior.
+
+Contenidos actualizados y de perfil práctico
+
+El postgrado te expone a contenidos actualizados y te enfrenta a situaciones prácticas de la actuación profesional, convirtiéndote en un asesor integral de empresas en los aspectos contables y tributarios.
+
+Flexibilidad
+
+Su carga horaria part-time permite compatibilizar las obligaciones familiares y laborales con las académicas. Además, es a tu medida ya que cuenta con más de 15 materias electivas y numerosas experiencias internacionales cortas. Podés personalizar tu formación especializada.
+
+Comunidad Alumni
+
+Los graduados del postgrado forman parte de su Comunidad Alumni de la Escuela de Postgrados en Negocios, la cual lleva más de 30 años formando líderes, referentes y tomadores de decisiones de organizaciones del país y del exterior.
+
+Con eventos de networking y de formación continua, busca proyectar la carrera de sus estudiantes y graduados a través de la construcción de vínculos profesionales y académicos.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### Julio-Setiembre
+
+
+**Derecho tributario aplicado**
+
+Breve síntesis de la composición de los ingresos del Estado. Efectos económicos de los tributos y principios deseables de un sistema tributario. Marco normativo de la tributación en Uruguay (jurisdicciones). Hecho generador. Diferencia entre tributos y tasas y efectos prácticos. Obligación tributaria (nacimiento, sujetos, extinción, naturaleza jurídica de la exoneración y efectos prácticos). Interpretación e integración de la norma tributaria. Impacto de las normas contables en el terreno tributario. Responsabilidad tributaria. Consulta vinculante.
+
+**Tributación a rentas empresariales: fundamentos**
+
+Identifica y desarrolla habilidades prácticas en relación con los aspectos constitutivos del hecho generador del Impuesto a las Rentas de las Actividades Económicas (IRAE) como instrumento básico de la imposición a las ganancias de las empresas en el Uruguay y del sistema tributario en general.
+
+**Fundamentos de la información financiera**
+
+Analiza el Marco Conceptual de las Normas Internacionales de Contabilidad y el alcance en Uruguay, profundizando en los principios contables, en los criterios de valoración así como en los principales cambios que ha introducido el Decreto 266/07. Aborda los criterios de medición, el concepto de unidad de medida, el concepto de moneda funcional, entre otros fundamentales en la información contable.
+
+**Preparación y presentación de estados financieros**
+
+Examina los conceptos asociados a políticas contables, cambios en las estimaciones contables y errores. Analiza la pertinencia de la exposición de los hechos ocurridos después de la fecha de cierre de ejercicio y la consideración de provisiones, activos y pasivos contingentes. Aborda los conceptos necesarios para la preparación y presentación de los Estados Contables.
+
+### Octubre-Diciembre
+
+
+**Fiscalidad internacional**
+
+Marco normativo OCDE. Tratados para Evitar la Doble Imposición. Establecimiento Permanente. Concepto de residencia fiscal. Precios de Transferencia. Thin capitalization. Comercio Electrónico. Comparativo del sistema uruguayo con otros países del MERCOSUR.
+
+**Electiva 1 (Materia sugerida: Tributación a rentas empresariales: análisis avanzado)**
+
+Identificar y desarrollar habilidades prácticas en relación con determinados aspectos específicos y liquidación del Impuesto a las Rentas de las Actividades Económicas (IRAE) e Impuesto a la Enajenación de Bienes Agropecuarios (IMEBA) como instrumentos básicos de la imposición a las ganancias de las empresas en el Uruguay y del sistema tributario en general.
+
+**Activos y pasivos: reconocimiento y medición 1**
+
+Expone a través del análisis de existencias y del deterioro de valor, los conceptos de precio de adquisición y costo de producción y sus implicancias contables. Integra los conceptos relevantes que las normas internacionales establecen para su valoración, reconocimiento, medición y principales revelaciones. Se desarrollan las Normas Internacionales de Auditoría asociadas.
+
+**Activos y pasivos: reconocimiento y medición 2**
+
+Analiza el reconocimiento y medición de activos y pasivos, con un enfoque centrado en los principales problemas conceptuales y su aplicación práctica mediante el estudio de casos. Aborda situaciones como la posibilidad de activación de gastos financieros, construcción, leasing, propiedad de inversión y operaciones discontinuadas. En forma conjunta, analiza los instrumentos financieros y sus implicancias conceptuales. Se desarrollan las Normas Internacionales de Auditoría asociadas.
+
+### Diciembre (semana intensiva)
+
+
+**Taller de ética**
+
+Presenta casos del entorno internacional que llevarán a la reflexión sobre la práctica de los profesionales que se desempeñan en el área de contabilidad, impuestos o finanzas, dado que la convergencia internacional y la transparencia en los negocios requieren una actuación ética constante. El abordaje es desarrollado por un profesor extranjero invitado a tales efectos.
+
+### Febrero-Marzo
+
+
+**Tributación a las rentas de las personas físicas y no residentes**
+
+
+**Sociedades y finanzas sociales**
+
+Formas alternativas de transferencias empresariales. Grupos económicos: concepto y efectos jurídicos. Toma de decisiones y administración de las sociedades. Enfoque globalizador bajo la perspectiva fiscal (ingeniería societaria). Operaciones de naturaleza patrimonial: aspectos jurídicos. Operaciones de naturaleza patrimonial: aspectos fiscales.
+
+**Ingresos y gastos: reconocimiento y medición**
+
+Trabaja el reconocimiento del ingreso por ventas y del ingreso por prestación de servicios hasta la contabilización del impuesto diferido tanto desde la perspectiva contable como desde la perspectiva tributaria. Analiza diferencias temporales y temporarias, así como la aplicación del concepto de realización. Aborda los procedimientos de auditoría asociados.
+
+**Electiva 2 (Materia sugerida: Activos y pasivos: reconocimiento y medición 3)**
+
+Analiza el Marco Conceptual de las Normas Internacionales de Contabilidad y el alcance en Uruguay, profundizando en los principios contables, en los criterios de valoración así como en los principales cambios que ha introducido el Decreto 266/07. Aborda los criterios de medición, el concepto de unidad de medida, el concepto de moneda funcional, entre otros fundamentales en la información contable.
+
+### Abril-Junio
+
+
+**Imposición al consumo y al patrimonio**
+
+Imposición al capital (IP). Imposición al consumo (IVA, IMESI e IMEBA). Brinda los conocimientos de la regulación en materia de imposición al capital y al consumo, mediante el análisis de la normativa vigente, la doctrina existente y la jurisprudencia dictada, con el apoyo del estudio de casos prácticos.
+
+**Combinaciones de negocios**
+
+Desarrolla las implicancias de la adquisición de elementos patrimoniales que constituyan un negocio para otras empresas, abordando el concepto de estados consolidados, inversiones en empresas asociadas, participación en negocios conjuntos e información financiera intermedia, entre otros analiza las normas internacionales de auditoría asociadas.
+
+**Taller de investigación**
+
+Desarrolla los aspectos metodológicos necesarios para facilitar la concreción de la tesis o memoria final de Master. Aborda las tendencias en investigación contable, en auditoría e impuestos. Así como en el uso de herramientas y técnicas de apoyo en el desarrollo de trabajos de corte cuantitativos y cualitativos.
+
+**Electiva 3 (Materia sugerida: El componente tributario en las decisiones de financiamiento)**
+
+La materia apunta a permitir la comprensión de la incidencia de los impuestos nacionales en las diferentes alternativas de financiamiento empresarial existente, evaluada especialmente desde el punto de vista del deudor. La materia cuenta con un fuerte contenido conceptual que se equilibra en forma permanente con ejemplos de casos prácticos que permiten evaluar la incidencia de diferentes tributos en el financiamiento empresario.
+
+### Junio (semana intensiva)
+
+
+**Electiva 4 (Materia sugerida: Auditoría: aspectos prácticos y económicos)**
+
+El objetivo general del curso es discutir, desde una perspectiva tanto teórica como de un practioner, los temas relevantes del proceso de auditoría. La materia brinda a los estudiantes un panorama general sobre la naturaleza de los servicios de atestiguamiento, la regulación de la profesión del auditor y los aspectos comportamentales y económicos de la auditoría. Entre los temas discutidos también se incluyen temas relacionados al control interno y aspectos del gobierno corporativo de la entidad.
+
+## 2.do año
+
+
+### Julio-Setiembre
+
+
+**Tendencias globales en tributación (materia intensiva)**
+
+Los temas que se discuten son los que están actualmente en la agenda de organismos internacionales como la OCDE, el G20 y la UE. Con un enfoque comparativo con lo que ocurre en los gobiernos de todo el mundo, se busca analizar las tendencias generales en las reformas tributarias el entorno fiscal competitivo y cómo los países están tratando de lograr dicho entorno, tanto desde una perspectiva política como administrativa. Asimismo, se tratarán temas como la transparencia fiscal y la globalización de los impuestos.
+
+**Electiva 5**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Contabilidad Análisis de estados financieros El objetivo general del curso es lograr que los estudiantes adquieran los conocimientos y habilidades que les permitan analizar la información contable y financiera de las empresas. Por medio de resolución de casos y discusión de situaciones empresariales reales, se profundiza el entendimiento sobre qué contienen los Estados Financieros, por qué las firmas revelan cierta información en ellos y cómo ser un usuario sofisticado de información financiera. Contabilidad de instrumentos financieros A través de las normas internacionales de contabilidad se analiza la clasificación de pasivos y activos financieros, ya sean para mantener o para negociar y disponibles para la venta. Analiza el tratamiento contable a derivados, opciones y coberturas, cuestionando su efectividad y su eficacia. Atraviesa desde la visión pragmática la valoración de cartera de negociación, la inversión en bonos, el deterioro de valor de empresas hasta la transferencia de activos. Contabilidad y finanzas para el desarrollo sostenible Aborda el impacto del Global Reporting Information en la contabilidad y su vinculación con el Balance Social y con la Responsabilidad Social. Analiza la medición y exposición de los impactos provocados por la gestión medioambiental en la contabilidad. El curso está a cargo de un profesor extranjero especialista en el tema. Contabilidad de gestión Introduce en el análisis de la gestión de costos como acción estratégica para una organización, analizando negocios de temporada, decisiones coyunturales y estructurales, niveles de rentabilidad deseados y factores de restricción, así como negocios familiares y las formas de retribución al capital invertido en los mismos. Aborda el análisis y gestión de capacidades ociosas: de factores productivos y de capital financiero. Prácticas contables en PYMEs Analiza y estudia las características específicas de la problemática de este tipo de empresas y promueve un ámbito de discusión de las prácticas contables y del papel del Contador asesor en las PYME como facilitador en la aplicación de la normativa vigente. Examina las dificultades del relevamiento de información financiera y desarrolla habilidades de análisis que permitan crear valor agregado en el conocimiento y aplicación de las necesidades de información financiera de las PYME. Se hará una extensión de experiencias internacionales a Uruguay a cargo de un profesor extranjero. Presupuestación y planificación financiera La materia tiene como objetivo analizar los factores de mayor relevancia en proceso de análisis y planificación financiera de corto plazo. Esto implica el desarrollo de las capacidades de analizar las implicancias financieras de las principales decisiones operativas y estratégicas de la empresa, y a su vez, la concepción funcional del área financiera y el proceso de presupuestación como soporte de la implementación de la estrategia actual y futura de la empresa. Introducción a big data y analítica de negocios La materia apunta a permitir la comprensión de los cambios en el paradigma de negocios que torna imprescindible la competencia basada en la explotación de datos. Asimismo, busca que el alumno pueda comprender, diferenciar y utilizar fluidamente los principales conceptos clave asociados a la disciplina: fuentes de big data, principales tecnologías, perfiles y roles, metodologías de análisis e interpretación de datos y regulación de uso y protección de datos. Por último, se busca la comprensión de los pasos de la metodología de análisis de datos para elaborar un plan de trabajo desde la detección del caso de negocio, hasta la disponibilidad y medición de los resultados. Taller de habilidades gerenciales El objetivo del taller consiste en promover un cambio en el comportamiento del participante, que le permita desarrollar sus habilidades en la interacción y comunicación interpersonal, la motivación y el liderazgo de equipos de trabajo, que el rol gerencial requiere. El taller se centra en el participante como principal protagonista que deberá realizar un camino de desaprendizaje y aprendizaje a las más eficaces tendencias en lo referente a la comunicación, la motivación y el liderazgo personal y organizacional. Impuestos Análisis de convenios para evitar doble imposición El objetivo general del curso es dotar a los estudiantes de aquellos conocimientos necesarios que le permitan resolver casos prácticos bajo los Convenios para Evitar la Doble Imposición vigentes firmados por Uruguay. Auditoría tributaria Facilita la comprensión del impacto de los tributos sobre transacciones económicas específicas. Analiza los aspectos dinámicos de los tributos y cómo los mismos influyen en la elección de estructuras e instrumentos para el logro de objetivos empresariales que luego serán auditables. Management tributario Efectos de los tributos sobre la toma de decisiones. Tax planning: ejercicio de opciones tributarias. Gestión tributaria (compilación, retenciones, pagos, etc.). Transferencias empresariales. Medidas antiabuso y convenios para evitar doble imposición El objetivo de esta materia es entregar una visión global del problema de abuso de convenios de doble imposición, considerando el trabajo de OCDE, la política de distintos gobiernos y jurisprudencia relevante en la materia. Asimismo, además del análisis técnico de normas específicas, el curso busca proporcionar un entendimiento con respecto a la discusión política y técnica a nivel internacional que se vislumbra capaz de generar un cambio profundo en la tributación internacional en el corto plazo sobre la base de la iniciativa OCDE/G-20 Base Erosion and Profit Shifting (BEPS). Principales regímenes promocionales Analiza los aspectos teóricos y prácticos de los principales regímenes promocionales que otorgan beneficios tributarios a las empresas inversoras, destacando los aspectos que generan controversia, así como la posibilidad de combinar el aprovechamiento de distintos regímenes a la hora de estructurar la operativa empresarial. Régimen fiscal de precios de transferencia El curso busca suministrar conocimientos especializados sobre el Tema de Precios de Transferencia a través la transmisión de conceptos fundamentales y estratégicos en un ámbito académico y de intercambio de experiencias prácticas a nivel local, regional e internacional. Tributación a la seguridad social Analiza las diferentes partidas abonadas al personal y los ingresos de quienes se desempeñen en calidad de no dependientes desde el punto de vista de las Contribuciones Especiales a la Seguridad Social. Analiza la normativa vigente, así como las distintas posiciones de los organismos recaudadores ante consultas formuladas por los contribuyentes y la doctrina. Tributación aduanera y comercio exterior Presenta los principales instrumentos de imposición tributaria en el comercio exterior. Aborda el marco normativo vigente en Uruguay, el GATT y la OMC, valoración en aduana, normas de origen de mercancías y su aplicación a los acuerdos y, finalmente, clasificación arancelaria. Tributación en el sector agropecuario El objetivo general del curso es sintetizar la normativa tributaria más relevante vinculada a la tributación en el sector agropecuario. Se estudian las principales características del Impuesto a la Renta de las Actividades Económicas, del Impuesto al Valor Agregado y del Impuesto al Patrimonio y demás tributos de imposición al capital.
+
+### Octubre-Diciembre
+
+
+**Electiva 6**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Contabilidad Análisis de estados financieros El objetivo general del curso es lograr que los estudiantes adquieran los conocimientos y habilidades que les permitan analizar la información contable y financiera de las empresas. Por medio de resolución de casos y discusión de situaciones empresariales reales, se profundiza el entendimiento sobre qué contienen los Estados Financieros, por qué las firmas revelan cierta información en ellos y cómo ser un usuario sofisticado de información financiera. Contabilidad de instrumentos financieros A través de las normas internacionales de contabilidad se analiza la clasificación de pasivos y activos financieros, ya sean para mantener o para negociar y disponibles para la venta. Analiza el tratamiento contable a derivados, opciones y coberturas, cuestionando su efectividad y su eficacia. Atraviesa desde la visión pragmática la valoración de cartera de negociación, la inversión en bonos, el deterioro de valor de empresas hasta la transferencia de activos. Contabilidad y finanzas para el desarrollo sostenible Aborda el impacto del Global Reporting Information en la contabilidad y su vinculación con el Balance Social y con la Responsabilidad Social. Analiza la medición y exposición de los impactos provocados por la gestión medioambiental en la contabilidad. El curso está a cargo de un profesor extranjero especialista en el tema. Contabilidad de gestión Introduce en el análisis de la gestión de costos como acción estratégica para una organización, analizando negocios de temporada, decisiones coyunturales y estructurales, niveles de rentabilidad deseados y factores de restricción, así como negocios familiares y las formas de retribución al capital invertido en los mismos. Aborda el análisis y gestión de capacidades ociosas: de factores productivos y de capital financiero. Prácticas contables en PYMEs Analiza y estudia las características específicas de la problemática de este tipo de empresas y promueve un ámbito de discusión de las prácticas contables y del papel del Contador asesor en las PYME como facilitador en la aplicación de la normativa vigente. Examina las dificultades del relevamiento de información financiera y desarrolla habilidades de análisis que permitan crear valor agregado en el conocimiento y aplicación de las necesidades de información financiera de las PYME. Se hará una extensión de experiencias internacionales a Uruguay a cargo de un profesor extranjero. Presupuestación y planificación financiera La materia tiene como objetivo analizar los factores de mayor relevancia en proceso de análisis y planificación financiera de corto plazo. Esto implica el desarrollo de las capacidades de analizar las implicancias financieras de las principales decisiones operativas y estratégicas de la empresa, y a su vez, la concepción funcional del área financiera y el proceso de presupuestación como soporte de la implementación de la estrategia actual y futura de la empresa. Introducción a big data y analítica de negocios La materia apunta a permitir la comprensión de los cambios en el paradigma de negocios que torna imprescindible la competencia basada en la explotación de datos. Asimismo, busca que el alumno pueda comprender, diferenciar y utilizar fluidamente los principales conceptos clave asociados a la disciplina: fuentes de big data, principales tecnologías, perfiles y roles, metodologías de análisis e interpretación de datos y regulación de uso y protección de datos. Por último, se busca la comprensión de los pasos de la metodología de análisis de datos para elaborar un plan de trabajo desde la detección del caso de negocio, hasta la disponibilidad y medición de los resultados. Taller de habilidades gerenciales El objetivo del taller consiste en promover un cambio en el comportamiento del participante, que le permita desarrollar sus habilidades en la interacción y comunicación interpersonal, la motivación y el liderazgo de equipos de trabajo, que el rol gerencial requiere. El taller se centra en el participante como principal protagonista que deberá realizar un camino de desaprendizaje y aprendizaje a las más eficaces tendencias en lo referente a la comunicación, la motivación y el liderazgo personal y organizacional. Impuestos Análisis de convenios para evitar doble imposición El objetivo general del curso es dotar a los estudiantes de aquellos conocimientos necesarios que le permitan resolver casos prácticos bajo los Convenios para Evitar la Doble Imposición vigentes firmados por Uruguay. Auditoría tributaria Facilita la comprensión del impacto de los tributos sobre transacciones económicas específicas. Analiza los aspectos dinámicos de los tributos y cómo los mismos influyen en la elección de estructuras e instrumentos para el logro de objetivos empresariales que luego serán auditables. Management tributario Efectos de los tributos sobre la toma de decisiones. Tax planning: ejercicio de opciones tributarias. Gestión tributaria (compilación, retenciones, pagos, etc.). Transferencias empresariales. Medidas antiabuso y convenios para evitar doble imposición El objetivo de esta materia es entregar una visión global del problema de abuso de convenios de doble imposición, considerando el trabajo de OCDE, la política de distintos gobiernos y jurisprudencia relevante en la materia. Asimismo, además del análisis técnico de normas específicas, el curso busca proporcionar un entendimiento con respecto a la discusión política y técnica a nivel internacional que se vislumbra capaz de generar un cambio profundo en la tributación internacional en el corto plazo sobre la base de la iniciativa OCDE/G-20 Base Erosion and Profit Shifting (BEPS). Principales regímenes promocionales Analiza los aspectos teóricos y prácticos de los principales regímenes promocionales que otorgan beneficios tributarios a las empresas inversoras, destacando los aspectos que generan controversia, así como la posibilidad de combinar el aprovechamiento de distintos regímenes a la hora de estructurar la operativa empresarial. Régimen fiscal de precios de transferencia El curso busca suministrar conocimientos especializados sobre el Tema de Precios de Transferencia a través la transmisión de conceptos fundamentales y estratégicos en un ámbito académico y de intercambio de experiencias prácticas a nivel local, regional e internacional. Tributación a la seguridad social Analiza las diferentes partidas abonadas al personal y los ingresos de quienes se desempeñen en calidad de no dependientes desde el punto de vista de las Contribuciones Especiales a la Seguridad Social. Analiza la normativa vigente, así como las distintas posiciones de los organismos recaudadores ante consultas formuladas por los contribuyentes y la doctrina. Tributación aduanera y comercio exterior Presenta los principales instrumentos de imposición tributaria en el comercio exterior. Aborda el marco normativo vigente en Uruguay, el GATT y la OMC, valoración en aduana, normas de origen de mercancías y su aplicación a los acuerdos y, finalmente, clasificación arancelaria. Tributación en el sector agropecuario El objetivo general del curso es sintetizar la normativa tributaria más relevante vinculada a la tributación en el sector agropecuario. Se estudian las principales características del Impuesto a la Renta de las Actividades Económicas, del Impuesto al Valor Agregado y del Impuesto al Patrimonio y demás tributos de imposición al capital.
+
+**Electiva 7**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Contabilidad Análisis de estados financieros El objetivo general del curso es lograr que los estudiantes adquieran los conocimientos y habilidades que les permitan analizar la información contable y financiera de las empresas. Por medio de resolución de casos y discusión de situaciones empresariales reales, se profundiza el entendimiento sobre qué contienen los Estados Financieros, por qué las firmas revelan cierta información en ellos y cómo ser un usuario sofisticado de información financiera. Contabilidad de instrumentos financieros A través de las normas internacionales de contabilidad se analiza la clasificación de pasivos y activos financieros, ya sean para mantener o para negociar y disponibles para la venta. Analiza el tratamiento contable a derivados, opciones y coberturas, cuestionando su efectividad y su eficacia. Atraviesa desde la visión pragmática la valoración de cartera de negociación, la inversión en bonos, el deterioro de valor de empresas hasta la transferencia de activos. Contabilidad y finanzas para el desarrollo sostenible Aborda el impacto del Global Reporting Information en la contabilidad y su vinculación con el Balance Social y con la Responsabilidad Social. Analiza la medición y exposición de los impactos provocados por la gestión medioambiental en la contabilidad. El curso está a cargo de un profesor extranjero especialista en el tema. Contabilidad de gestión Introduce en el análisis de la gestión de costos como acción estratégica para una organización, analizando negocios de temporada, decisiones coyunturales y estructurales, niveles de rentabilidad deseados y factores de restricción, así como negocios familiares y las formas de retribución al capital invertido en los mismos. Aborda el análisis y gestión de capacidades ociosas: de factores productivos y de capital financiero. Prácticas contables en PYMEs Analiza y estudia las características específicas de la problemática de este tipo de empresas y promueve un ámbito de discusión de las prácticas contables y del papel del Contador asesor en las PYME como facilitador en la aplicación de la normativa vigente. Examina las dificultades del relevamiento de información financiera y desarrolla habilidades de análisis que permitan crear valor agregado en el conocimiento y aplicación de las necesidades de información financiera de las PYME. Se hará una extensión de experiencias internacionales a Uruguay a cargo de un profesor extranjero. Presupuestación y planificación financiera La materia tiene como objetivo analizar los factores de mayor relevancia en proceso de análisis y planificación financiera de corto plazo. Esto implica el desarrollo de las capacidades de analizar las implicancias financieras de las principales decisiones operativas y estratégicas de la empresa, y a su vez, la concepción funcional del área financiera y el proceso de presupuestación como soporte de la implementación de la estrategia actual y futura de la empresa. Introducción a big data y analítica de negocios La materia apunta a permitir la comprensión de los cambios en el paradigma de negocios que torna imprescindible la competencia basada en la explotación de datos. Asimismo, busca que el alumno pueda comprender, diferenciar y utilizar fluidamente los principales conceptos clave asociados a la disciplina: fuentes de big data, principales tecnologías, perfiles y roles, metodologías de análisis e interpretación de datos y regulación de uso y protección de datos. Por último, se busca la comprensión de los pasos de la metodología de análisis de datos para elaborar un plan de trabajo desde la detección del caso de negocio, hasta la disponibilidad y medición de los resultados. Taller de habilidades gerenciales El objetivo del taller consiste en promover un cambio en el comportamiento del participante, que le permita desarrollar sus habilidades en la interacción y comunicación interpersonal, la motivación y el liderazgo de equipos de trabajo, que el rol gerencial requiere. El taller se centra en el participante como principal protagonista que deberá realizar un camino de desaprendizaje y aprendizaje a las más eficaces tendencias en lo referente a la comunicación, la motivación y el liderazgo personal y organizacional. Impuestos Análisis de convenios para evitar doble imposición El objetivo general del curso es dotar a los estudiantes de aquellos conocimientos necesarios que le permitan resolver casos prácticos bajo los Convenios para Evitar la Doble Imposición vigentes firmados por Uruguay. Auditoría tributaria Facilita la comprensión del impacto de los tributos sobre transacciones económicas específicas. Analiza los aspectos dinámicos de los tributos y cómo los mismos influyen en la elección de estructuras e instrumentos para el logro de objetivos empresariales que luego serán auditables. Management tributario Efectos de los tributos sobre la toma de decisiones. Tax planning: ejercicio de opciones tributarias. Gestión tributaria (compilación, retenciones, pagos, etc.). Transferencias empresariales. Medidas antiabuso y convenios para evitar doble imposición El objetivo de esta materia es entregar una visión global del problema de abuso de convenios de doble imposición, considerando el trabajo de OCDE, la política de distintos gobiernos y jurisprudencia relevante en la materia. Asimismo, además del análisis técnico de normas específicas, el curso busca proporcionar un entendimiento con respecto a la discusión política y técnica a nivel internacional que se vislumbra capaz de generar un cambio profundo en la tributación internacional en el corto plazo sobre la base de la iniciativa OCDE/G-20 Base Erosion and Profit Shifting (BEPS). Principales regímenes promocionales Analiza los aspectos teóricos y prácticos de los principales regímenes promocionales que otorgan beneficios tributarios a las empresas inversoras, destacando los aspectos que generan controversia, así como la posibilidad de combinar el aprovechamiento de distintos regímenes a la hora de estructurar la operativa empresarial. Régimen fiscal de precios de transferencia El curso busca suministrar conocimientos especializados sobre el Tema de Precios de Transferencia a través la transmisión de conceptos fundamentales y estratégicos en un ámbito académico y de intercambio de experiencias prácticas a nivel local, regional e internacional. Tributación a la seguridad social Analiza las diferentes partidas abonadas al personal y los ingresos de quienes se desempeñen en calidad de no dependientes desde el punto de vista de las Contribuciones Especiales a la Seguridad Social. Analiza la normativa vigente, así como las distintas posiciones de los organismos recaudadores ante consultas formuladas por los contribuyentes y la doctrina. Tributación aduanera y comercio exterior Presenta los principales instrumentos de imposición tributaria en el comercio exterior. Aborda el marco normativo vigente en Uruguay, el GATT y la OMC, valoración en aduana, normas de origen de mercancías y su aplicación a los acuerdos y, finalmente, clasificación arancelaria. Tributación en el sector agropecuario El objetivo general del curso es sintetizar la normativa tributaria más relevante vinculada a la tributación en el sector agropecuario. Se estudian las principales características del Impuesto a la Renta de las Actividades Económicas, del Impuesto al Valor Agregado y del Impuesto al Patrimonio y demás tributos de imposición al capital.
+
+### Julio-Diciembre
+
+
+**Memoria Final**
+
+La Tesis o Memoria final es un trabajo de campo en equipo que utiliza los conceptos y técnicas adquiridas durante los dos años de curso en el análisis de un determinado problema o fenómeno de fiscalidad local e internacional. Los estudiantes son asistidos por tutores que colaboran en la discusión del contenido y analizan críticamente el avance del trabajo.
+
+## Requisitos de ingreso (detalle)
+
+Requisitos Los requisitos de ingreso son: • Ser un profesional universitario que se desempeñe en el área contable y/o fiscal. • Demostrar experiencia profesional relevante. • Ser recomendado por el Tribunal Académico luego de una o más entrevistas. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración 18 meses. Horarios de clase Las clases se dictan de lunes a jueves de 19:00 a 21:30. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Master en Impuestos y Normas de Contabilidad - NIIF fue reconocido por resolución del Ministerio de Educación y Cultura del 14 de agosto de 2013. La Universidad ORT Uruguay posee la categoría de Registered Learning Partener de ACCA, lo que implica que sus postgrados en contabilidad brindan la formación adecuada para obtener la certificación Internacional en Normas Internacionales de Información Financiera - NIIF (Certificate in International Financial Reporting). El Master en Impuestos y Normas de Contabilidad – NIIF es el único de Uruguay en su área considerado entre los 10 mejores de América Latina por Eduniversal Ranking.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://facs.ort.edu.uy/escuela-de-postgrados/master-en-impuestos-y-normas-de-contabilidad-niif)
+- [Plan de estudios](https://facs.ort.edu.uy/escuela-de-postgrados/master-en-impuestos-y-normas-de-contabilidad-niif/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados/facs)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

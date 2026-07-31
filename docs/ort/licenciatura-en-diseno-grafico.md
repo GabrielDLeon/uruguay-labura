@@ -1,0 +1,283 @@
+# Licenciatura en Diseño Gráfico
+
+## Metadata
+
+- Nombre oficial: Licenciatura en Diseño Gráfico
+- Tipo: Licenciatura
+- Área: Diseño
+- Modalidad: Presencial
+- Turno: No encontrado
+- Duración: 4 años de cursos
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). El valor de las cuotas varía según los factores indicados en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: Proyectista Gráfico
+- Proceso de selección: Ingreso directo (no requiere sorteo ni proceso de selección).
+- Requisitos de ingreso: Educación Media Superior (EMS) completa de cualquier orientación. Opciones de bachilleratos EMS equivalentes de planes anteriores. Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Estudiantes provenientes de otras universidades con al menos una materia aprobada, sin importar el bachillerato cursado previamente; sujeto al análisis de antecedentes por parte de la coordinación de la carrera correspondiente. La universidad admite el ingreso condicional a carreras universitarias hasta con dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico. Estudiantes del exterior Los estudiantes que culminaron su educación media en el exterior deben presentar el certificado de estudios correspondiente, apostillado o con legalización consular, a efectos de su admisión a los estudios universitarios de grado en la universidad.
+- Perfil de egreso: Perfil de los graduados Los licenciados en Diseño Gráfico son capaces de responder creativamente a cualquier necesidad de comunicación visual. Dominan aspectos formales y tecnológicos, y están presentes e involucrados en los procesos de elaboración, presentación y documentación de los contenidos. Luego de haber pasado por todas las áreas de formación del diseño gráfico, nuestros graduados pueden proponer y dirigir proyectos innovadores tanto en el campo del diseño editorial, como del publicitario, comercial, empresarial, organizacional y web. Estos profesionales tienen muy claro cuál es la meta de su trabajo: comunicar visualmente ideas de forma clara y concisa, siempre aplicando creatividad.
+- Salida laboral: Perfil de los graduados Los licenciados en Diseño Gráfico son capaces de responder creativamente a cualquier necesidad de comunicación visual. Dominan aspectos formales y tecnológicos, y están presentes e involucrados en los procesos de elaboración, presentación y documentación de los contenidos. Luego de haber pasado por todas las áreas de formación del diseño gráfico, nuestros graduados pueden proponer y dirigir proyectos innovadores tanto en el campo del diseño editorial, como del publicitario, comercial, empresarial, organizacional y web. Estos profesionales tienen muy claro cuál es la meta de su trabajo: comunicar visualmente ideas de forma clara y concisa, siempre aplicando creatividad.
+- Becas disponibles: Becas para carreras universitarias: Becas de hasta 60 %, según mérito académico y/o situación económica. La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
+- Página oficial: https://fd.ort.edu.uy/licenciatura-en-diseno-grafico
+
+## Resumen
+
+La carrera te prepara para crear soluciones visuales con creatividad, dominio tecnológico y un enfoque práctico en editorial, web y proyectos corporativos.
+
+- Formación multidisciplinaria que abarca todo el espectro del diseño gráfico
+- Enfoque en visión estratégica y creativa para abordar proyectos de diseño
+- Preparación de los graduados para desempeñarse en un contexto global
+
+El diseño gráfico, ya sea como formación integral o como complemento de otra profesión, permite idear y proyectar mensajes para presentarlos y comunicarlos visualmente.
+
+La Licenciatura ofrece todas las herramientas para que esa comunicación se realice con la claridad, la creatividad y la excelencia que demanda el mercado global actual.
+
+Hoy en día, los profesionales del diseño gráfico son intensamente requeridos por empresas e instituciones, demanda que se equipara a la que tienen las profesiones más tradicionales.
+
+Diversos profesionales, ya sea del ámbito del diseño o de otras áreas del conocimiento, eligen formarse en Gráfico con el objetivo de incorporar herramientas complementarias que mejoren la presentación de sus proyectos.
+
+Todas las áreas que tradicionalmente han sido competencia del diseñador gráfico —como el diseño editorial, el diseño de identidad corporativa, el diseño de empaques, el diseño publicitario y el diseño tipográfico— han sido complementadas y potenciadas en la plataforma digital por el diseño web y todas las herramientas multimedia.
+
+Escuela pionera
+
+La Universidad ORT Uruguay fue la primera institución terciaria del país en incorporar al Diseño Gráfico como carrera de grado. La Licenciatura en Diseño Gráfico, además, fue la primera de la Escuela de Diseño.
+
+Con 25 años de experiencia, se ha formado una masa crítica muy importante, tanto en lo que respecta a graduados como al cuerpo docente.
+
+Hoy en día, además, los diseñadores gráficos son de los profesionales más solicitados por las empresas e instituciones, equiparándose a profesiones más tradicionales.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### 1.er semestre
+
+
+**Arte y estética 1**
+
+Introduce en el conocimiento histórico del arte y el diseño como herramienta para el análisis de los lenguajes visuales y formales, a través de una mirada integradora de la sociedad, tomando en cuenta los contextos y las innovaciones tecnológicas que engendraron los cambios. Tiene como objetivos que el estudiante sea capaz de: Conocer las manifestaciones artísticas y culturales anteriores a nuestro tiempo, así como de ubicar los “objetos-productos” en un contexto histórico y cultural determinado. Descubrir la influencia de las corrientes artísticas y filosóficas en la cultura contemporánea. Desarrollar la reflexión crítica y criterio estético, para su propia síntesis creativa, tomando el conocimiento de la historia del diseño y las artes, como una herramienta para el proyecto.
+
+**Representación expresiva 1**
+
+Proporciona los recursos técnicos y expresivos que hacen viable un enriquecimiento de la sensibilidad visual y posibilitan el desarrollo de los proyectos de diseño. Tiene como objetivo que el estudiante sea capaz de dominar las diversas técnicas de dibujo, los medios expresivos y la maquetación.
+
+**Diseño y comunicación visual 1**
+
+Introduce en los elementos del lenguaje visual y su aplicación en el Diseño. Tiene como objetivos que el estudiante sea capaz de: Comprender al diseño como un proceso de comunicación. Entender la información visual como un medio y no como una finalidad en el proceso de comunicación. Reconocer y analizar los elementos que componen este proceso. Incorporar sistemas de lenguaje visual como herramientas de comunicación. Construir mensajes visuales de manera creativa y formalmente correctos.
+
+**Fotografía y edición de video**
+
+Introduce al estudiante en el conocimiento y uso del lenguaje fotográfico digital así como en la edición no-lineal de audio y video. Tiene como objetivos que el estudiante sea capaz de: Desarrollar un manejo óptimo de las cámaras digitales estándares no profesionales. Desarrollar una expresión propia del lenguaje fotográfico. Aplicar estos conocimientos al campo del diseño. Dotar al estudiante de las herramientas teóricas y prácticas básicas para montar distintos tipos de secuencias en programas de edición digital de última generación.
+
+**Diseño digital 1**
+
+Introduce al estudiante en el campo de la imagen digital. Tiene como objetivos que el estudiante sea capaz de: Aplicar el conocimiento de la imagen digital a trabajos de diseño. Elegir y elaborar imágenes de acuerdo a sus correspondientes medios de reproducción y soporte final. Resolver problemas dados con un adecuado conocimiento de las herramientas de software. Crear nuevas imágenes, retocar y/o modificar imágenes dadas. Usar de manera creativa y personal las herramientas dadas.
+
+**Expresión oral y escrita**
+
+Introduce en el código oral y escrito. Se trabajará el criterio normativo y pragmático del texto. Tiene como objetivos que el estudiante sea capaz de: - Presentar la palabra por sus diferentes valores en la producción oral y escrita. - Identificar las características propias del código escrito y su aplicación práctica en la producción de textos. - Lograr la profundización de los valores semántico y sintáctico. - Unificar los diferentes usos de la puntuación (fonética, prosodia y escritura de la palabra) de acuerdo con el criterio normativo de la sintaxis oracional.
+
+### 2.º semestre
+
+
+**Arte y estética 2**
+
+Profundiza en el conocimiento histórico del arte y el diseño, como herramienta para el análisis de los lenguajes visuales y formales a través de una mirada integradora de la sociedad, tomando en cuenta los contextos y las innovaciones tecnológicas que engendraron los cambios. Tiene como objetivos que el estudiante sea capaz de: - Conocer las manifestaciones artísticas y culturales anteriores a nuestro tiempo, así como de ubicar los “objetos-productos” en un contexto histórico y cultural determinado. - Descubrir la influencia de las corrientes artísticas y filosóficas en la cultura contemporánea. - Desarrollar la reflexión crítica y criterio estético, para su propia síntesis creativa, tomando el conocimiento de la historia del diseño y las artes, como una herramienta para el proyecto.
+
+**Representación expresiva 2**
+
+Proporciona los recursos expresivos para ampliar sus posibilidades creativas de representación. Tiene como objetivos que el estudiante sea capaz de profundizar los conocimientos adquiridos en dibujo expresivo y figura humana.
+
+**Diseño y comunicación visual 2**
+
+Introduce en los elementos del lenguaje visual y su aplicación en el Diseño. Tiene como objetivos que el estudiante sea capaz de: - Comprender al Diseño como un proceso de comunicación. - Entender la información visual como un medio y no como una finalidad en el proceso de comunicación. - Reconocer y analizar los elementos que componen este proceso. - Incorporar sistemas de lenguaje visual como herramientas de comunicación. - Construir mensajes visuales de manera creativa y formalmente correctos.
+
+**Tipografía 1**
+
+Introduce al estudiante en el área tipográfica. Tiene como objetivos que el estudiante sea capaz de: - Obtener una visión general del fenómeno tipográfico y su incidencia en la profesión. - Adquirir los elementos básicos para realizar una correcta selección tipográfica.
+
+**Diseño digital 2**
+
+Proporciona los elementos necesarios para el uso de una herramienta de dibujo vectorial (software) como apoyo para la actividad proyectual. Tiene como objetivos que el estudiante sea capaz de: - Aplicar el conocimiento del dibujo digital a trabajos de diseño. - Seleccionar la herramienta adecuada para desarrollar eficazmente los procesos proyectuales. - Hacer un uso óptimo y creativo de los medios que mejorarán el proceso proyectual. - Adecuarse a los avances tecnológicos del área por medio de la autocapacitación.
+
+**Diseño digital 4**
+
+Introduce al estudiante en el manejo del lenguaje HTML y CSS. Tiene como objetivos que el estudiante sea capaz de: - Comprender las diferentes características y lenguajes de las páginas web. - Comprender la utilización y eficaz manejo de las herramientas utilizadas. - Adecuarse a los avances tecnológicos del área por medio de la autocapacitación.
+
+## 2.º año
+
+
+### 3.er semestre
+
+
+**Técnicas de impresión 1**
+
+Introduce en el conocimiento de los diferentes métodos de impresión, la preparación y clasificación de originales y los procedimientos de confección de las películas correspondientes. Tiene como objetivos que el estudiante sea capaz de: - Entender la relación que existe entre técnica y diseño. - Conocer e identificar los pasos del proceso de reproducción gráfica. - Aplicar las herramientas tecnológicas a este proceso en forma optimizada. - Prever el desarrollo de su proyecto de diseño en los diferentes pasos de la reproducción gráfica. - Controlar la correcta reproducción de su diseño en las etapas de preimpresión e impresión. - Optimizar técnicamente su proyecto de forma de disminuir el riesgo de errores en las etapas de preimpresión digital.
+
+**Diseño editorial 1**
+
+Proporciona los elementos necesarios para desarrollar y profundizar los conocimientos adquiridos en el manejo de estructura y tipografía. Tiene como objetivos que el estudiante sea capaz de: - Realizar las configuraciones tipográficas más convenientes para el mensaje a transmitir y el tipo de publicación a diseñar. - Percibir, reconocer, identificar y aplicar distintos estilos tipográficos. - Generar sistemas estructurados en la resolución de piezas editoriales.
+
+**Diseño web**
+
+Capacita en el uso de las herramientas formales y conceptuales para el diseño web. Tiene como objetivos que el estudiante sea capaz de: - Comprender el lenguaje del diseño web. - Crear y maquetar sitios web respetando las normativas internacionales actuales. - Conozca y utilice marcos de trabajo predefinidos para el diseño responsivo y su manipulación mediante el conocimiento de la codificación. - Acercamiento a CMS y sus generalidades. - Introducción y análisis de Diseño de Interfases y manejo de conceptos como Usabilidad, Accesibilidad, UX, UI, Diseño basado en usuario.
+
+**Tipografía 2**
+
+Introduce en el proceso de la generación de fuentes, profundizando en los conocimientos de tipografía. Tiene como objetivos que el estudiante sea capaz de: - Dominar los aspectos compositivos de la tipografía en una pieza gráfica. - Experimentar procesos de análisis y creación de estilos tipográficos.
+
+**Diseño digital 3**
+
+Introduce al estudiante en el manejo de software como herramienta para el diseño editorial. Tiene como objetivos que el estudiante sea capaz de: - Organizar correctamente los diferentes componentes de la página, distribuyendo los distintos bloques de texto y sus jerarquías comunicacionales. - Comprender la utilización y eficaz manejo de la herramienta utilizada (software). - Adecuarse a los avances tecnológicos del área por medio de la autocapacitación.
+
+**Diseño digital 5**
+
+La asignatura profundiza el conocimiento del estudiante en el manejo del lenguaje HTML y CSS. Brinda al estudiante herramientas multimedia para aportar al proceso de diseño para sitios y plataformas. Tiene como objetivo que el estudiante sea capaz de: Comprender el lenguaje del diseño web. Propiedades CSS avanzadas. Crear y maquetar sitios web respetando las normativas internacionales actuales. Adecuarse a los avances tecnológicos del área por medio de la autocapacitación. Incorporar contenido multimedia a un sitio de acuerdo a los requerimientos y especificaciones del mismo, escoger la manera técnica ideal para el destino. Confeccionar piezas digitales requeridas por plataformas publicitarias y de comunicación.
+
+### 4.º semestre
+
+
+**Técnicas de impresión 2**
+
+Profundiza los conocimientos de los diferentes métodos de impresión, la preparación y clasificación de originales así como los procedimientos de confección de las películas correspondientes. Tiene como objetivos que el estudiante sea capaz de: - Entender la relación que existe entre técnica y diseño. - Conocer e identificar los pasos del proceso de reproducción gráfica. - Aplicar las herramientas tecnológicas a este proceso en forma optimizada. - Prever el desarrollo de su proyecto de diseño en los diferentes pasos de la reproducción gráfica. - Controlar la correcta reproducción de su diseño en las etapas de preimpresión e impresión. - Optimizar técnicamente su proyecto de forma de disminuir el riesgo de errores en las etapas de preimpresión digital.
+
+**Diseño editorial 2**
+
+Proporciona al estudiante los elementos que le permiten profundizar los conceptos sobre la organización de la puesta en página. Tiene como objetivo que el estudiante sea capaz de resolver problemas de puesta en página con eficacia e innovación.
+
+**Diseño de identidad 1**
+
+Proporciona los elementos necesarios para introducir al estudiante en la formulación, tanto conceptual como gráfica, de marcas y logotipos; entendiéndolos como uno de los elementos básicos de la identificación institucional. Tiene como objetivos que el estudiante sea capaz de: - Analizar, conceptualizar y sintetizar el problema comunicacional del sistema marca-logotipo, tanto para el diseño como el rediseño del mismo. - Manejar la pertinencia, pregnancia e interpretación del sistema marca-logotipo dado por la coherencia forma-contenido. - Manejar el sistema marca-logotipo como elemento inicial de la definición y desarrollo de la identidad corporativa. - Desarrollar un lenguaje gráfico propio, sintético e innovador.
+
+**Electiva 1 (Diseño de interfaces)**
+
+Estudia el intercambio de información entre personas y computadoras (hardware y software). Se enfoca en el diseño, implementación y evaluación de sistemas interactivos. Introduce al estudiante en los principios de HCI (interacción humano-computadora) y las técnicas para el desarrollo de UI (usabilidad de usuario). Estos estudios involucran las siguientes áreas: ingeniería de software, arquitectura de la información, diseño gráfico e interactivo, psicología y ergonomía. Tiene como objetivos que el estudiante sea capaz de: - Comprender los principios de HCI y técnicas para el desarrollo de UI. - Aplicar los patrones de diseño de interfaces en el proceso de desarrollo para mejorar la usabilidad del software. - Discutir las tendencias e investigaciones en el área. - Desarrollar proyectos propios en el área.
+
+**Electiva 2 (Evolución del diseño gráfico)**
+
+Introduce en el conocimiento de la evolución del diseño gráfico en el siglo XX, analizando las distintas áreas de desarrollo de la disciplina y promoviendo una reflexión crítica sobre la práctica concreta, así como sobre los discursos y teorías del diseño, en el contexto sociocultural y económico de la época. Tiene como objetivos que el estudiante sea capaz de: - Presentar la evolución del diseño gráfico a lo largo del siglo XX. - Analizar los diseños como resultado de un proceso de múltiples variables y en un contexto social y cultural determinado. - Desarrollar la reflexión crítica, discutiendo los discursos y enfoques teóricos que acompañaron el desarrollo de la disciplina a lo largo del siglo. - Considerar casos relevantes para ejemplificar y darle a los estudiantes las herramientas para estudiar otros casos.
+
+**Diseño digital 6**
+
+Profundiza en el uso no lineal de las herramientas de edición y postproducción multimedia como plataforma narrativa. Tiene como objetivos que el estudiante sea capaz de: - Dominar las etapas de producción no linear. - Creación de productos audiovisuales multimediales. - Profundizar en las herramientas de software de edición y postproducción de video. - Adecuarse a los avances tecnológicos del área por medio de la autocapacitación.
+
+## 3.er año
+
+
+### 5.º semestre
+
+
+**Electiva 3 (Gráfica para cine y TV)**
+
+Capacita en la producción de gráficos para producciones cinematográficas y televisión digital. Articula la gráfica a la estética de la producción audiovisual respetando la orientación de dirección de arte o brief. Tiene como objetivo que el estudiante sea capaz de: Identificar las funciones gráficas y su rol en cine, TV, así como en dispositivos móviles. Dominar los aspectos de diseño, en base a la estructura del producto o mensaje a transmitir. Desarrollar soluciones de diseño compatibles con cada pantalla. Elaborar proyectos creativos y apropiados a los criterios de diseño abordados en el curso.
+
+**Electiva 4 (Diseño editorial 3)**
+
+Profundiza en los elementos que le permiten al estudiante, desarrollos de diseño editorial complejo y el manejo de la ilustración editorial como medio complementario. Tiene como objetivos que el estudiante sea capaz de: - Ampliar la sensibilidad perceptiva y expresiva de la ilustración. - Adquirir el manejo fluido del lenguaje visual editorial. - Instrumentar los conocimientos adquiridos para propuestas editoriales complejas.
+
+**Diseño de identidad 2**
+
+Proporciona los elementos necesarios para introducir al estudiante en la problemática de la comunicación como generadora de identidad corporativa. Tiene como objetivos que el estudiante sea capaz de: - Discernir cuáles son los elementos de comunicación a ponderar en el diseño de la identidad. - Identificar los elementos culturales de la organización y su influencia sobre la imagen. - Transitar correctamente por la etapa analítica, creativa y proyectual. - Generar soluciones visuales, simbólicas e innovadoras. - Elaborar correctamente el conjunto de especificaciones visuales constitutivas de la imagen empresaria, recogidas en un manual de identidad. - Evaluar el impacto ambiental de su creación.
+
+**Diseño de persuasión 1**
+
+Proporciona al estudiante los conocimientos analíticos necesarios para vincular con eficiencia comunicacional los lenguajes visuales. Tiene como objetivos que el estudiante sea capaz de: - Profundizar en la relación mensaje lingüístico y mensaje visual. - Elegir los medios expresivos de acuerdo al problema planteado. - Manejar alguna de las técnicas de representación. - Experimentar con sentido crítico y visión personal. - Propiciar los primeros contactos con la realidad profesional.
+
+**El lenguaje publicitario**
+
+Tiene como objetivos: - Brindar una introducción al conocimiento de la Publicidad como disciplina de la comunicación. - Generar reflexión sobre el hecho publicitario y sus implicancias económicas, éticas y culturales. - Conocer las herramientas de que se vale el publicitario para el desarrollo de su profesión.
+
+### 6.º semestre
+
+
+**Teorías aplicadas al diseño**
+
+Proporciona los elementos necesarios para ingresar en el campo de la reflexión teórica del diseño combinando teorías de la percepción, la comunicación y la semiótica. Promueve una reflexión crítica acerca del Diseño como contribución a la formación de cultura. Tiene como objetivos que el estudiante sea capaz de: - Reconocer la pertinencia y contribuciones de los sistemas teóricos de la percepción, la comunicación y semióticos, y reconocer su funcionamiento. - Asimilar el uso pragmático de elementos afines al diseño que esos sistemas poseen, para ponerlos en práctica, con destreza y acierto.
+
+**Marketing 1**
+
+Proporciona un conocimiento extensivo de la base teórica, oportunidades y limitaciones del marketing. Tiene como objetivos que el estudiante sea capaz de: - Internalizar el concepto de marketing. - Comprender su vinculación con las demás disciplinas conexas. - Aprender a pensar y razonar en términos de marketing. - Generar capacidades para comprender a la empresa desde la óptica del marketing y su rol dentro de la estrategia de la organización.
+
+**Diseño de identidad 3**
+
+Introduce en el aprendizaje de la aplicación de los conocimientos preexistentes de gráfica en las tres dimensiones. Tiene como objetivos que el estudiante sea capaz de: - Sensibilizarse en la comprensión de la volumetría. - Aplicar los conocimientos de diseño gráfico de manera creativa a las tres dimensiones. - Relacionar toda la complejidad de los componentes del proyecto inherentes a la materia para cumplir con los objetivos de un proyecto global de diseño. ORT, DMR y Bodegas Cordano potencian el diseño en Uruguay En el marco de esta asignatura, los estudiantes trabajaron en coordinación con Bodega Cordano y la imprenta DMR en un ejercicio de implementación real: el rediseño de varias etiquetas de los vinos de la bodega.
+
+**Diseño de persuasión 2**
+
+Acerca a experiencias proyectuales en las que el estudiante deberá integrar sus conocimientos para generar una persuasión adecuada. Tiene como objetivos que el estudiante sea capaz de: - Trabajar en una dinámica lo más cercana posible a la realidad profesional. - Incorporar metodologías de trabajo individual y grupal y de análisis crítico de los diseños.
+
+**Gestión de proyectos creativos**
+
+Ayuda a desarrollar las competencias necesarias para una correcta gestión de proyectos, gestión de la propiedad intelectual y gestión profesional. Tiene como objetivos que el estudiante sea capaz de: - Formular proyectos para presentar ante clientes y entidades financiadoras - Planificar proyectos de sus propios emprendimientos, de sus clientes o empleadores - Identificar etapas, recursos y actividades componentes del proyecto, así como controlar la gestión de proyectos en relación con los objetivos planteados mediante la evaluación del proceso. - Comprender los aspectos jurídicos vinculados a la actividad creativa del diseñador, responsabilidad con las empresas, los clientes y usuarios, y aplicar ética profesional. - Incorporar técnicas de comunicación del proyecto. - Manejar estrategias e instrumentos de presentación profesional/laboral, desde una perspectiva del proyecto del “Yo” persona + “Yo” profesional + “Yo” proyecto.
+
+## 4.º año
+
+
+### 7.º semestre
+
+
+**Electiva 5 (Marketing digital)**
+
+Presenta los principales temas del marketing, la comercialización y la publicidad en internet. Se utilizará la nueva tecnología de información y comunicación para diseñar estrategias y tácticas de marketing de forma personalizada.
+
+**Diseño de identidad 4**
+
+Proporciona los elementos necesarios para introducir al estudiante en la comunicación visual que estudia la interacción entre los individuos y su entorno. Tiene como objetivos que el estudiante sea capaz de: - Relacionar la conjunción de tipografía, imagen y estructura aplicadas a la gráfica de exteriores. - Optimizar legibilidad y síntesis en relación a los cambios de escala en piezas de comunicación ambiental. - Introducir en tecnologías y materiales aplicables (carácter informativo).
+
+**Electiva 6 (Media Lab)**
+
+Posibilita la integración en equipos multidisciplnarios para la ejecución de proyectos de aplicación, extensión y similares, ejecutables en el marco del Media Lab. Tiene como objetivos que el estudiante sea capaz de: - Integrarse a equipos multidisciplinarios. - Reflexionar sobre el rol de su perfil de estudios y encontrar los elementos sinérgicos con otros perfiles. - Manejar la relación interpersonal y entender los mecanismos de comunicación en grupo, roles y liderazgo. - Aplicar sus conocimientos a proyectos y soluciones específicas.
+
+### 8.º semestre
+
+
+**Tendencias del diseño contemporáneo**
+
+Analiza, en forma crítica, temáticas contemporáneas propias o vinculables al área del Diseño. Tiene como objetivos que el estudiante sea capaz de: - Identificar las posibles fuentes de divulgación de las tendencias. - Interpretar y observar los diversos públicos, detectando la generación espontánea de tendencias. - Desarrollar productos usando los conceptos asociados a las tendencias como provocadores creativos. - Proponer y generar tendencias aplicables como conceptos o productos.
+
+**Proyecto integrador**
+
+Proporciona al estudiante los elementos necesarios para resolver problemáticas proyectuales complejas que requieren la integración de equipos multidisciplinarios. Tiene como objetivos que el estudiante sea capaz de: - Desarrollar proyectos factibles de ser implementados a partir de la participación colectiva o el proyecto individual. - Vincular su proyecto a disciplinas conexas, de las diferentes áreas del diseño, la ingeniería, la comunicación, la arquitectura, la medicina, etc.
+
+## Requisitos de ingreso (detalle)
+
+Educación Media Superior (EMS) completa de cualquier orientación. Opciones de bachilleratos EMS equivalentes de planes anteriores. Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Estudiantes provenientes de otras universidades con al menos una materia aprobada, sin importar el bachillerato cursado previamente; sujeto al análisis de antecedentes por parte de la coordinación de la carrera correspondiente. La universidad admite el ingreso condicional a carreras universitarias hasta con dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico. Estudiantes del exterior Los estudiantes que culminaron su educación media en el exterior deben presentar el certificado de estudios correspondiente, apostillado o con legalización consular, a efectos de su admisión a los estudios universitarios de grado en la universidad.
+
+## Modalidad de cursado (detalle)
+
+La carrera se dicta de forma presencial. Las instancias de evaluación obligatorias podrán realizarse mediante entrega digital y/o presencial. Además, muchas asignaturas complementan su enseñanza a través del modelo de 'aula expandida', una plataforma online que enriquece la experiencia de aprendizaje, facilitando el acceso a materiales, recursos y actividades que refuerzan la formación en el aula.
+
+## Duración y horarios (detalle)
+
+Duración 4 años de cursos. Horarios de clase Las clases se distribuirán dentro de esta franja horaria: 1.er y 2.º año: lunes a viernes entre las 8:15 y 13:15 horas. 3.er y 4.º año: lunes a jueves entre las 17:10 y 19:00 horas. Aclaración: algunas materias electivas o de carácter teórico/práctico pueden tener lugar en día y horario alternativo. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+Al culminar el segundo año de curso, los estudiantes obtienen el título intermedio de Proyectista Gráfico que los habilita a comenzar a desempeñarse en el campo laboral propio de su profesión. Una vez terminada la carrera y realizado el proyecto final, reciben el título de Licenciado/a en Diseño Gráfico. La Licenciatura en Diseño Gráfico es una carrera universitaria reconocida por resolución del Ministerio de Educación y Cultura (MEC) del 17 de setiembre de 1996. Como universidad reconocida y miembro de la Asociación Internacional de Universidades (IAU), los títulos de la Universidad ORT Uruguay cumplen estándares internacionales que permiten continuar estudios de maestría y doctorado en universidades de todo el mundo.
+
+## Requisito de graduación
+
+Aprobar todas las materias del plan de estudios. Examen integrador final, exonerable con un promedio acumulado de calificaciones (PAC) de 60 % o superior.
+
+## Reválidas
+
+Si iniciaste tu carrera en otra universidad y querés continuar tus estudios en la Universidad ORT Uruguay, podés revalidar las materias aprobadas y contar con beneficios en el valor de la cuota. y así podrás revalidar materias del plan de cursado.
+
+## Valor de las cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+## Becas (detalle)
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
+
+## Fuentes
+
+- [Página oficial de la carrera](https://fd.ort.edu.uy/licenciatura-en-diseno-grafico)
+- [Plan de estudios](https://fd.ort.edu.uy/licenciatura-en-diseno-grafico/plan-de-estudios)
+- [Listado de carreras universitarias](https://www.ort.edu.uy/carreras-universitarias)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-carreras-universitarias)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

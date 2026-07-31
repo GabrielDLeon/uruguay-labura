@@ -1,0 +1,108 @@
+# Diploma en Planificación y Gestión Educativa
+
+## Metadata
+
+- Nombre oficial: Diploma en Planificación y Gestión Educativa
+- Tipo: Diploma
+- Área: Instituto de Educación
+- Modalidad: Semipresencial (híbrido: combina presencialidad y virtualidad)
+- Turno: No encontrado
+- Duración: 1 año
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Ingreso directo (no requiere sorteo ni proceso de selección).
+- Requisitos de ingreso: Los candidatos a cursar el Diploma en Planificación y Gestión Educativa deben cumplir con alguno de los siguientes requisitos:• Título universitario en el área de la educación o de las ciencias sociales.• Título universitario en otras áreas y experiencia docente de, al menos, 5 años.• Título docente expedido por institutos de formación docente dependientes o habilitados por ANEP.• Otros títulos terciarios expedidos por instituciones universitarias reconocidas en el país de origen. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los graduados El Diploma en Planificación y Gestión Educativa forma profesionales capaces de: Impulsar y promover propuestas de aprendizaje y desarrollo organizacional, tanto a nivel de aula como institucionales. Diseñar procesos de planificación estratégica en escenarios de alta complejidad. Proponer e instrumentar diagnósticos y proyectos de innovación. Trabajar con la metodología de estudios de casos para la identificación de las problemáticas más relevantes en los centros educativos.
+- Salida laboral: Perfil de los graduados El Diploma en Planificación y Gestión Educativa forma profesionales capaces de: Impulsar y promover propuestas de aprendizaje y desarrollo organizacional, tanto a nivel de aula como institucionales. Diseñar procesos de planificación estratégica en escenarios de alta complejidad. Proponer e instrumentar diagnósticos y proyectos de innovación. Trabajar con la metodología de estudios de casos para la identificación de las problemáticas más relevantes en los centros educativos.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante. La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+- Página oficial: https://ie.ort.edu.uy/diploma-en-planificacion-y-gestion-educativa
+
+## Resumen
+
+Postgrado de un año de duración, que prepara a los egresados para diseñar e instrumentar procesos de planificación y liderazgo.
+
+- Exploración de metodologías con foco en la gestión educativa
+- Estrategias de gestión para transformar los entornos educativos
+- Oportunidad de aprender de profesionales con vasta experiencia
+- Proporcionar a los participantes estrategias y recursos metodológicos para desempeñar una gestión más eficaz, así como desarrollar una adecuada tarea de orientación y supervisión educativa.
+- Mejorar la práctica educativa, a través del estudio de casos, para el desarrollo de nuevas formas de intervención institucional.
+- Presentar referentes teóricos actualizados, que permitan interpretar y comprender la dinámica de la planificación, la innovación y la gestión educativa.
+- Favorecer el desarrollo de la investigación en planificación y gestión de la educación.
+
+En particular, tiene el propósito de:
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### 1.er semestre
+
+
+**Gestión de las instituciones educativas**
+
+Identifica y analiza aspectos esenciales para comprender la naturaleza de las instituciones educativas, reconociendo su importancia como escenario de cambio. Presenta e integra los pilares teóricos del primer semestre del postgrado, a modo de marco conceptual general de referencia.
+
+**Diagnóstico institucional y gestión por proyectos**
+
+Brinda herramientas y estrategias para el diseño, implementación y evaluación de proyectos que se encuentran transitando procesos de mejora o cambio. Promueve el fortalecimiento de capacidades institucionales, que permitan un mejor posicionamiento de la institución educativa ante los desafíos actuales.
+
+**Planificación estratégica en la gestión educativa**
+
+Aborda las dinámicas de gestión desde el marco de las políticas educativas –a nivel general– y desde la planificación estratégica –a nivel institucional–. Considera la innovación como principal eje de referencia, articulando aspectos macroestructurales con otros específicos de cada centro educativo.
+
+**Casos y métodos en investigación educativa 1**
+
+Brinda herramientas para la construcción de una actitud investigativa en educación, que permita la mejora de la práctica en un continuo analítico–crítico-reflexivo. Desarrolla competencias metodológicas orientadas al diseño, planificación e implementación de proyectos de investigación educativa aplicada.
+
+### 2.º semestre
+
+
+**Casos y métodos en investigación educativa 2**
+
+Busca profundizar el análisis de la información y la producción de datos en el marco del desarrollo de proyectos de mejora escolar, basados en la investigación educativa. Aborda el proceso de construcción del dato, la confiabilidad y la validez de la información empírica necesaria para promover proyectos de mejora educativa.
+
+**Electiva 1**
+
+Desarrollo profesional docente Presenta las diversas conceptualizaciones referidas al desarrollo profesional docente, así como las principales dimensiones del proceso. Aborda los retos y desafíos que el liderazgo educativo supone. Analiza las modalidades y estrategias de formación continua más efectivas, en base a casos y evidencia reciente. Las instituciones formadoras Expone las diversas concepciones acerca de la institución formadora. Aborda los fines y dinámicas de las instituciones, su estructura y organización. Analiza las instituciones en el campo de la educación formal y no formal. Examina las instituciones formadoras en el ámbito profesional. Evaluación de programas y proyectos educativos Desarrolla las perspectivas metodológicas de la evaluación curricular de un programa o proyecto formativo. Analiza los tipos y criterios de evaluación. Examina la demanda y el planteamiento de la evaluación, el diseño de la propuesta y de los instrumentos, así como la recolección de la información. Análisis y uso de la información Establece las relaciones entre el uso de los diversos métodos de investigación, la aplicación de técnicas de análisis de información y el empleo de la estadística descriptiva como insumo para la planificación, formación y gestión educativa. Analiza informes técnicos, reportes de investigación y registros de bases de datos nacionales e internacionales. Tecnología educativa Considera las tendencias actuales en el campo de la tecnología educativa y analiza los procesos de enseñanza y de aprendizaje en la contemporaneidad. Examina la mediación tecnológica y realiza una búsqueda analítica y creativa en la generación de proyectos y propuestas con incidencia en el sistema educativo. Políticas educativas comparadas Estudia las políticas educativas comparadas, sus nociones y alcance. Describe el proceso de diseño, implementación y evaluación de políticas educativas a partir de una perspectiva regional e internacional. Examina casos de interés para las políticas educativas tanto en los sistemas escolares, como en los de educación superior.
+
+**Proyecto de innovación**
+
+Brinda un espacio de acompañamiento en el diseño, aplicación y análisis de un proyecto de innovación, acotado a una situación concreta, enmarcado en el estudio de un caso. Constituye un ámbito de reflexión, orientación y análisis de las distintas fases del proceso.
+
+## Requisitos de ingreso (detalle)
+
+Los candidatos a cursar el Diploma en Planificación y Gestión Educativa deben cumplir con alguno de los siguientes requisitos: • Título universitario en el área de la educación o de las ciencias sociales. • Título universitario en otras áreas y experiencia docente de, al menos, 5 años. • Título docente expedido por institutos de formación docente dependientes o habilitados por ANEP. • Otros títulos terciarios expedidos por instituciones universitarias reconocidas en el país de origen. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Semipresencial. Este postgrado se dicta en forma semipresencial, combinando clases presenciales y actividades asincrónicas. Dentro de la modalidad semipresencial, se despliegan actividades académicas en tres modalidades básicas de clases, cuyo volumen dependerá de los resultados de aprendizaje de cada asignatura. Clases o actividades presenciales. Los participantes son convocados a clase presencial con el o los docentes. Clases o actividades híbridas. Los participantes pueden optar por participar de forma presencial o virtual. El docente dictará de forma presencial a través de la tecnología HyFlex®. Clases o actividades a distancia. Las clases serán impartidas de manera 100 % online, y tanto los estudiantes como el docente ―en algunos casos extranjeros― estarán remotos, conectados a través de la plataforma Zoom. Pueden ser sincrónicas o asincrónicas. En todos los casos el curso contará con el apoyo de plataformas virtuales (Moodle) para desarrollarse bajo el modelo de aula expandida: existe interacción previa y posterior a la clase en la plataforma, para complementar y fortalecer el proceso de aprendizaje. A modo de ejemplo: Se abren foros de discusión sobre temas, ejercicios u otras tareas planteadas. Se establecen entregas virtuales de trabajos individuales y/o grupales. Se proponen materiales de lectura para trabajar en las instancias sincrónicas o asincrónicas. Algunas materias presenciales se pueden cursar en modalidad HyFlex®. Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales.
+
+## Duración y horarios (detalle)
+
+Duración 1 año.
+
+## Títulos y reconocimientos
+
+Los egresados del postgrado reciben el título de Diploma en Planificación y Gestión Educativa. Master en Gestión Educativa Los estudiantes que obtengan el Diploma en Planificación y Gestión Educativa y cumplan con todos los requisitos de admisión, quedan habilitados a continuar su formación en el Master en Gestión Educativa.
+
+## Requisito de graduación
+
+Para obtener el título, es necesario haber cursado y aprobado todos los seminarios y talleres. Asimismo, los estudiantes deben haber presentado y aprobado el proyecto de innovación.
+
+## Becas (detalle)
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://ie.ort.edu.uy/diploma-en-planificacion-y-gestion-educativa)
+- [Plan de estudios](https://ie.ort.edu.uy/diploma-en-planificacion-y-gestion-educativa/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

@@ -1,0 +1,138 @@
+# Diploma de Especialización en Contabilidad
+
+## Metadata
+
+- Nombre oficial: Diploma de Especialización en Contabilidad
+- Tipo: Diploma de Especialización
+- Área: Administración y Ciencias Sociales
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: 1 año (según la página oficial). Nota: el JSON-LD del sitio indica 15 meses, hay información contradictoria entre fuentes.
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Los requisitos de ingreso son: • Ser un profesional universitario que se desempeñe en el área contable y o fiscal. • Demostrar experiencia profesional relevante. • Ser recomendado por el Tribunal Académico luego de una o más entrevistas. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los participantes Los estudiantes del Diploma son profesionales que buscan profundizar sus conocimientos en el área contable con el objetivo de preparar estados financieros que reflejen en forma fiel las transacciones realizadas por las empresas. El perfil de los alumnos comprende cargos como gerentes, jefes, encargados de áreas, analistas y profesionales independientes, entre otros; principalmente contadores, licenciados en gerencia y administración y abogados.
+- Salida laboral: Perfil de los participantes Los estudiantes del Diploma son profesionales que buscan profundizar sus conocimientos en el área contable con el objetivo de preparar estados financieros que reflejen en forma fiel las transacciones realizadas por las empresas. El perfil de los alumnos comprende cargos como gerentes, jefes, encargados de áreas, analistas y profesionales independientes, entre otros; principalmente contadores, licenciados en gerencia y administración y abogados.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+- Página oficial: https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-contabilidad
+
+## Resumen
+
+Posgrado dirigido a interesados en especializarse en contabilidad e impuestos, orientados a funciones gerenciales o de consultoría tributaria.
+
+- Desarrollo de capacidades analíticas y visión práctica para resolver problemas
+- Preparación de información financiera de calidad para decisiones empresariales
+- Enfoque internacional para afrontar contextos complejos y cambiantes
+
+El postgrado desarrolla un profundo dominio de las Normas Internacionales de Información Financiera (NIIF).
+
+Las NIIF garantizan que la información financiera sea transparente, comprensible y comparable en todo el mundo, permitiendo a los inversores, analistas, reguladores y otros interesados tomar decisiones informadas sobre inversiones y recursos financieros.
+
+Esto habilita al profesional a preparar información financiera de excelente calidad, la cual será utilizada por las empresas como base para la toma de decisiones.
+
+Podrás desarrollar tu capacidad analítica, una visión práctica para la resolución de problemas y tu visión internacional de los negocios en entornos complejos y cambiantes, transformándote en un asesor tributario contable de vanguardia.
+
+Los conocimientos proporcionados por el postgrado te transformarán en un asesor integral de empresas o personas físicas, que ayuda a sus clientes a interpretar el impacto de las transacciones o negocios realizados a nivel global en su empresa.
+
+Comunidad Alumni
+
+Los graduados forman parte de la Comunidad Alumni de la Escuela de Postgrados en Negocios – EPN, la cual lleva más de 30 años formando líderes, referentes y tomadores de decisiones de organizaciones del país y del exterior. Con eventos de networking y de formación continua, la EPN busca proyectar la carrera de sus estudiantes y graduados a través de la construcción de vínculos profesionales y académicos.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### Julio - Setiembre
+
+
+**Fundamentos de la información financiera**
+
+Analiza el Marco Conceptual de las Normas Internacionales de Información Financiera y el alcance en Uruguay, profundizando en los principios contables, en los criterios de valoración así como en los principales cambios que ha introducido el Decreto 266/07. Aborda los criterios de medición, el concepto de unidad de medida, el concepto de moneda funcional, entre otros aspectos fundamentales en la información contable.
+
+**Preparación y presentación de estados financieros**
+
+Examina los conceptos asociados a políticas contables, cambios en las estimaciones contables y errores. Analiza la pertinencia de la exposición de los hechos ocurridos después de la fecha de cierre de ejercicio y la consideración de provisiones, activos y pasivos contingentes. Aborda los conceptos necesarios para la preparación y presentación de los Estados Contables.
+
+**Materias electivas - Diploma de Especialización en Contabilidad**
+
+Seleccioná aquí para ver el listado completo y descripción de las materias electivas.
+
+### Octubre - Diciembre
+
+
+**Activos y pasivos: reconocimiento y medición 1**
+
+Expone a través del análisis de existencias y del deterioro de valor, los conceptos de precio de adquisición y costo de producción y sus implicancias contables. Integra los conceptos relevantes que las normas internacionales establecen para su valoración, reconocimiento, medición y principales revelaciones. Se desarrollan las Normas Internacionales de Auditoría asociadas.
+
+**Activos y pasivos: reconocimiento y medición 2**
+
+Analiza el reconocimiento y medición de activos y pasivos, con un enfoque centrado en los principales problemas conceptuales y su aplicación práctica mediante el estudio de casos. Aborda situaciones como la posibilidad de activación de gastos financieros, construcción, leasing, propiedad de inversión y operaciones discontinuadas. En forma conjunta, analiza los instrumentos financieros y sus implicancias conceptuales. Se desarrollan las Normas Internacionales de Auditoría asociadas.
+
+**Materias electivas - Diploma de Especialización en Contabilidad**
+
+Seleccioná aquí para ver el listado completo y descripción de las materias electivas.
+
+**Taller de ética**
+
+Presenta casos del entorno internacional que llevarán a la reflexión sobre la práctica de los profesionales que se desempeñan en el área de contabilidad, impuestos o finanzas, dado que la convergencia internacional y la transparencia en los negocios requieren una actuación ética constante. El abordaje es desarrollado por un profesor extranjero invitado a tales efectos.
+
+### Febrero-Marzo
+
+
+**Ingresos y gastos: reconocimiento y medición**
+
+Trabaja el reconocimiento del ingreso por ventas y del ingreso por prestación de servicios hasta la contabilización del impuesto diferido tanto desde la perspectiva contable como desde la perspectiva tributaria. Analiza diferencias temporales y temporarias, así como la aplicación del concepto de realización. Aborda los procedimientos de auditoría asociados.
+
+**Activos y pasivos: reconocimiento y medición 3**
+
+Trabaja el reconocimiento del ingreso por ventas y del ingreso por prestación de servicios hasta la contabilización del impuesto diferido tanto desde la perspectiva contable como desde la perspectiva tributaria. Analiza diferencias temporales y temporarias, así como la aplicación del concepto de realización. Aborda los procedimientos de auditoría asociados.
+
+**Materias electivas - Diploma de Especialización en Contabilidad**
+
+Seleccioná aquí para ver el listado completo y descripción de las materias electivas.
+
+### Abril-Junio
+
+
+**Combinaciones de negocios**
+
+Desarrolla las implicancias de la adquisición de elementos patrimoniales que constituyan un negocio para otras empresas, abordando el concepto de estados consolidados, inversiones en empresas asociadas, participación en negocios conjuntos e información financiera intermedia, entre otros analiza las normas internacionales de auditoría asociadas.
+
+**Auditoría: aspectos prácticos y económicos**
+
+El objetivo general del curso es discutir, desde una perspectiva tanto teórica como de un practioner, los temas relevantes del proceso de auditoría. La materia brinda a los estudiantes un panorama general sobre la naturaleza de los servicios de atestiguamiento, la regulación de la profesión del auditor y los aspectos comportamentales y económicos de la auditoría. Entre los temas discutidos también se incluyen temas relacionados al control interno y aspectos del gobierno corporativo de la entidad.
+
+**Proyecto integrador**
+
+El objetivo del Curso es apoyar al estudiante en la elaboración de un Proyecto Integrador, uno de los requisitos curriculares necesarios para la obtención del título. Las actividades buscan desarrollar capacidades metodológicas de identificación de un problema, selección del método y las técnicas de análisis correctas, recopilación de la información relevante para resolverlo, procesamiento, análisis, crítica y presentación de resultados. El curso tiene una parte general metodológica que aplica a todos los casos y luego consultas específicas a especialistas sectoriales o disciplinarios para resolver el problema planteado. En general se tratará de un Estudio de Caso sobre una situación y cómo resolverla con las técnicas aprendidas en el Diploma.
+
+## Requisitos de ingreso (detalle)
+
+Requisitos Los requisitos de ingreso son: • Ser un profesional universitario que se desempeñe en el área contable y/o fiscal. • Demostrar experiencia profesional relevante. • Ser recomendado por el Tribunal Académico luego de una o más entrevistas. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración 1 año. Horarios de clase Las clases se dictan de lunes a miércoles de 19:00 a 21:30 h. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Diploma de Especialización en Contabilidad fue reconocido por resolución del Ministerio de Educación y Cultura el 17 de enero de 2013. La Universidad ORT Uruguay posee la categoría de Registered Learning Partener de ACCA, lo que implica que sus postgrados en contabilidad brindan la formación adecuada para obtener la certificación Internacional en Normas Internacionales de Información Financiera - NIIF (Certificate in International Financial Reporting). El Diploma de Especialización en Contabilidad es el único de Uruguay en su área considerado entre los 10 mejores de América Latina por Eduniversal Ranking.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-contabilidad)
+- [Plan de estudios](https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-contabilidad/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados/facs)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

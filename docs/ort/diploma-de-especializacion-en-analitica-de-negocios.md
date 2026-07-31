@@ -1,0 +1,155 @@
+# Diploma de Especialización en Analítica de Negocios
+
+## Metadata
+
+- Nombre oficial: Diploma de Especialización en Analítica de Negocios
+- Tipo: Diploma de Especialización
+- Área: Administración y Ciencias Sociales
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: 1 año (según la página oficial). Nota: el JSON-LD del sitio indica 15 meses, hay información contradictoria entre fuentes.
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Título de grado universitario. Acreditar un año de experiencia profesional relevante. Es prerrequisito de admisión obtener un puntaje mínimo en Business Admissions Test (BAT). Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los participantes Para ingresar al postgrado se debe aprobar una serie de instancias durante el proceso de admisión que incluyen una prueba estandarizada para evaluar capacidades de comprensión y resolución de problemas y una entrevista personal que, junto al resto de la información presentada por el candidato, es evaluada finalmente por un comité. No se requieren conocimientos previos de programación en ningún lenguaje específico (es parte del conocimiento que se adquirirá durante el programa) pero sí se requiere un conocimiento mínimo de conceptos básicos de estadística y cálculo matemático. Durante el proceso de selección se busca la generación de un grupo diverso que permita un enriquecimiento cruzado a través del intercambio de experiencias y opiniones entre profesionales con distintas formaciones y vínculos laborales. Los participantes del postgrado pertenecen principalmente a las siguientes áreas profesionales: 41 % Contadores públicos. 28 % Economistas. 13 % Licenciados en gerencia y administración. 11 % Ingenieros. 7 % Otras profesiones.
+- Salida laboral: Perfil de los participantes Para ingresar al postgrado se debe aprobar una serie de instancias durante el proceso de admisión que incluyen una prueba estandarizada para evaluar capacidades de comprensión y resolución de problemas y una entrevista personal que, junto al resto de la información presentada por el candidato, es evaluada finalmente por un comité. No se requieren conocimientos previos de programación en ningún lenguaje específico (es parte del conocimiento que se adquirirá durante el programa) pero sí se requiere un conocimiento mínimo de conceptos básicos de estadística y cálculo matemático. Durante el proceso de selección se busca la generación de un grupo diverso que permita un enriquecimiento cruzado a través del intercambio de experiencias y opiniones entre profesionales con distintas formaciones y vínculos laborales. Los participantes del postgrado pertenecen principalmente a las siguientes áreas profesionales: 41 % Contadores públicos. 28 % Economistas. 13 % Licenciados en gerencia y administración. 11 % Ingenieros. 7 % Otras profesiones.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+- Página oficial: https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-analitica-de-negocios
+
+## Resumen
+
+Incorporá las habilidades para diseñar, desarrollar e implementar soluciones a problemas organizacionales con base en la explotación y la analítica de datos.
+
+- Enfoque en Analítica Descriptiva y Analítica Predictiva para la toma de decisiones en los negocios
+- Cuerpo docente con experiencia en consultoría y posiciones gerenciales
+- Crecimiento de habilidades analíticas usando Python, SQL y plataformas de BI y Ciencia de Datos
+- Las herramientas del análisis estadístico.
+- Las herramientas de gestión de la información.
+- Las habilidades comunicacionales necesarias para la interacción con equipos multidisciplinarios.
+- Definir objetivos y problemas de negocio.
+- Traducir los problemas en un proyecto basado en datos con una pregunta de investigación.
+- Obtener, explorar, limpiar y transformar datos.
+- Desarrollar modelos.
+- Analizar los resultados y traducirlos en alternativas de decisión y acciones.
+- Ingenieros/Arquitectos de datos: dedicados a obtener, explorar, limpiar y transformar los datos.
+- Científicos de datos: dedicados a seleccionar, analizar los datos y modelar.
+- Traductores/Analistas de datos: dedicados a la traducción de los requerimientos del negocio en un proyecto de analítica. Se trata de la traducción de los resultados analíticos en alternativas para la toma de decisiones de estrategia de negocios.
+
+Se trata de un postgrado dirigido a profesionales interesados en incorporar las habilidades para diseñar, desarrollar e implementar soluciones a problemas organizacionales con base en la explotación de los datos.
+
+A partir de un enfoque práctico y orientado a resultados, se integran:
+
+El diploma forma personas capaces de vincular las necesidades estratégicas de las organizaciones con los procesos de analítica de datos en lo que se denomina un traductor de analítica o analytics translator.
+
+Así, los egresados se dedican a la traducción de los resultados analíticos en alternativas para la toma de decisiones estratégicas de negocios.
+
+La evolución de las tecnologías de la información en las últimas décadas ha permitido generar, recolectar, almacenar y procesar inmensos volúmenes de datos. Por lo que las organizaciones necesitan convertir esos datos en información relevante para la toma de decisiones.
+
+La analítica de datos se ha convertido en una herramienta esencial para extraer conclusiones y tomar decisiones críticas. De este modo, las organizacionales demandan en forma creciente profesionales capaces de:
+
+Todo esto en un contexto multidisciplinario donde en muchas oportunidades (dependiendo de las características de la organización) conviven tres tipos de perfiles analíticos con diferentes roles:
+
+El Diploma de Especialización en Analítica de Negocios se centra en la formación de profesionales capaces de vincular las necesidades estratégicas de las organizaciones con los procesos de analítica de datos en lo que se denomina un traductor de analítica o analytics translator.
+
+Comunidad Alumni
+
+Los graduados forman parte de la Comunidad Alumni de la Escuela de Negocios, la cual lleva más de 30 años formando líderes, referentes y tomadores de decisiones de organizaciones del país y del exterior. Con eventos de networking y de formación continua, la EPN busca proyectar la carrera de sus estudiantes y graduados a través de la construcción de vínculos profesionales y académicos.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### Abril - Junio
+
+
+**Introducción a big data y analítica de negocios**
+
+Brinda una visión estratégica sobre cómo el Big Data y la analítica resuelven desafíos complejos e impulsan la innovación empresarial.
+
+**Estadística y métodos cuantitativos**
+
+Proporciona los fundamentos matemáticos y cuantitativos esenciales para construir modelos de datos robustos y confiables.
+
+**Introducción a la programación para analítica**
+
+Desarrolla habilidades prácticas en Python, la herramienta más demandada hoy en la ciencia de datos.
+
+**Fundamentos de bases de datos**
+
+Enseña la gestión y consulta profesional de grandes volúmenes de datos utilizando el lenguaje SQL.
+
+### Julio - Setiembre
+
+
+**Análisis de regresión**
+
+Desarrolla competencias avanzadas en modelización estadística con finalidad predictiva, aplicando técnicas de aprendizaje sobre bases de datos reales.
+
+**Fundamentos de modelos de datos y datamining**
+
+Se centra en el descubrimiento de patrones y relaciones ocultas que generan valor estratégico para el negocio.
+
+**GenAI Fundamentals**
+
+Integra los pilares de la Inteligencia Artificial Generativa dentro de la estrategia de datos de la organización.
+
+### Octubre - Diciembre
+
+
+**Machine learning no supervisado**
+
+Capacita en la creación de algoritmos que descubren estructuras y patrones ocultos en los datos sin etiquetas previas, como segmentaciones de clientes.
+
+**Machine learning supervisado**
+
+Se enfoca en el desarrollo de modelos predictivos de clasificación y regresión que aprenden de datos históricos para anticipar tendencias.
+
+**Business Intelligence (BI)**
+
+Enseña a transformar datos crudos en información valiosa mediante la gestión de analítica descriptiva para la toma de decisiones.
+
+**Visualización y narrativa de datos**
+
+Domina el arte de comunicar hallazgos técnicos de forma clara y persuasiva para influir en la toma de decisiones.
+
+### Febrero - Marzo
+
+
+**Electiva 1**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Analítica y métricas de marketing Analítica de operaciones y logística Simulación estratégica y analítica de marketing Analítica del consumidor Text mining y análisis de sentimientos Métodos cuantitativos para el riesgo financiero Big Data en inversiones Sistemas de recomendación Predicción de series temporales
+
+**Proyecto de analítica**
+
+Es el gran desafío final donde liderarás y ejecutarás un proyecto completo aplicado a un caso real de negocio.
+
+## Requisitos de ingreso (detalle)
+
+Requisitos Título de grado universitario. Acreditar un año de experiencia profesional relevante. Es prerrequisito de admisión obtener un puntaje mínimo en Business Admissions Test (BAT). Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración 1 año. Horarios de clase Los cursos obligatorios se dictan por lo general tres veces por semana, de 19:00 a 21:30. También se dictan materias intensivas en diversos formatos. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Diploma de Especialización en Analítica de Negocios fue reconocido por resolución del Ministerio de Educación y Cultura el 6 de julio de 2020.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-analitica-de-negocios)
+- [Plan de estudios](https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-analitica-de-negocios/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados/facs)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

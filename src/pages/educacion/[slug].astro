@@ -8,6 +8,7 @@ import {
   degreeTypeLabels,
   modalityLabels,
   modalityBarFilled,
+  shiftLabels,
   getDegreeTypeBarInfo,
   formatDate,
   getSolidarityFundInfo,
@@ -54,11 +55,16 @@ const solidarityFund = getSolidarityFundInfo(
 const detailItems = [
   { label: "Área", value: entry.data.area },
   { label: "Duración", value: entry.data.duration },
+  {
+    label: "Dedicación semanal",
+    value: entry.data.weeklyHours,
+  },
   { label: "Créditos", value: entry.data.credits },
   { label: "Costo", value: entry.data.cost },
   { label: "Idioma", value: entry.data.language },
   { label: "Ubicación", value: entry.data.location },
   { label: "Acreditación", value: entry.data.accreditation },
+
   {
     label: "Inicio",
     value: entry.data.startDate ? formatDate(entry.data.startDate) : undefined,
@@ -156,6 +162,14 @@ const detailItems = [
             total={3}
             filled={modalityBarFilled[entry.data.modality] ?? 1}
           />
+          <BarIndicator
+            label="Turno"
+            value={shiftLabels[entry.data.shift] ?? entry.data.shift}
+            total={3}
+            filled={
+              { day: 1, night: 2, both: 3 }[entry.data.shift] ?? 1
+            }
+          />
         </section>
         <AsideSection title="Detalles">
           <KeyValueList items={detailItems} />
@@ -183,14 +197,27 @@ const detailItems = [
             </a>
             {
               entry.data.contactEmail ? (
-                <button
-                  type="button"
-                  class="btn"
-                  data-variant="outline"
-                  data-copy={entry.data.contactEmail}
-                >
-                  {entry.data.contactEmail}
-                </button>
+                Array.isArray(entry.data.contactEmail) ? (
+                  entry.data.contactEmail.map((email) => (
+                    <button
+                      type="button"
+                      class="btn"
+                      data-variant="outline"
+                      data-copy={email}
+                    >
+                      {email}
+                    </button>
+                  ))
+                ) : (
+                  <button
+                    type="button"
+                    class="btn"
+                    data-variant="outline"
+                    data-copy={entry.data.contactEmail}
+                  >
+                    {entry.data.contactEmail}
+                  </button>
+                )
               ) : null
             }
           </div>

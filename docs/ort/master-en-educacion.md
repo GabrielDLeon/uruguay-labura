@@ -1,0 +1,147 @@
+# Master en Educación
+
+## Metadata
+
+- Nombre oficial: Master en Educación
+- Tipo: Maestría
+- Área: Instituto de Educación
+- Modalidad: Semipresencial (híbrido: combina presencialidad y virtualidad)
+- Turno: No encontrado
+- Duración: 2 años
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Ingreso directo (no requiere sorteo ni proceso de selección).
+- Requisitos de ingreso: Los candidatos a cursar el Master en Educación deben cumplir con alguno de los siguientes requisitos:• Título universitario en el área de la educación.• Título universitario en otras áreas y experiencia docente de, al menos, 5 años.• Título docente expedido por institutos de formación docente dependientes o habilitados por ANEP.• Otros títulos docentes terciarios expedidos por instituciones universitarias reconocidas en el país de origen. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los graduados El Master en Educación forma profesionales que sean capaces de: Caracterizar y analizar problemas educacionales, en diversas áreas disciplinares. Estudiar críticamente las tendencias actuales de la investigación educativa, con especial énfasis en la gestión, los procesos de enseñanza y de aprendizaje, la profesión docente, las tecnologías y las políticas educativas. Coordinar e implementar proyectos de investigación, en distintos niveles educativos, para mejorar la calidad y la equidad de la educación. Sugerir propuestas de mejora, tanto a nivel del aula, como del sistema educativo.
+- Salida laboral: Perfil de los graduados El Master en Educación forma profesionales que sean capaces de: Caracterizar y analizar problemas educacionales, en diversas áreas disciplinares. Estudiar críticamente las tendencias actuales de la investigación educativa, con especial énfasis en la gestión, los procesos de enseñanza y de aprendizaje, la profesión docente, las tecnologías y las políticas educativas. Coordinar e implementar proyectos de investigación, en distintos niveles educativos, para mejorar la calidad y la equidad de la educación. Sugerir propuestas de mejora, tanto a nivel del aula, como del sistema educativo.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante. La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+- Página oficial: https://ie.ort.edu.uy/master-en-educacion
+
+## Resumen
+
+El Master en Educación brinda una formación actualizada, con las últimas tendencias de la agenda educativa regional e internacional.
+
+- Desarrollo de habilidades para abordar fenómenos y problemas educativos
+- Capacitación en diseño de proyectos de investigación educativa
+- Modalidad semipresencial, con clases presenciales y actividades asincrónicas
+
+La propuesta forma profesionales con un alto nivel académico y con una gran competencia investigativa, con especial énfasis en las líneas de investigación referidas a la organización y a la gestión del sistema educativo, los procesos de enseñanza y los procesos de aprendizaje, la profesión docente, la tecnología y las políticas educativas.
+
+Asimismo, promueve el intercambio con comunidades y redes académicas, a nivel regional e internacional, para analizar y reflexionar en torno a la agenda educativa del siglo XXI.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### 1.er semestre
+
+
+**Teorías de la enseñanza**
+
+Analiza, desde una mirada histórica, los diversos enfoques sobre las teorías de la enseñanza. Construye marcos teóricos referenciales que posibilitan la comprensión crítica y reflexiva de las teorías de enseñanza contemporáneas. Aborda y utiliza los nuevos marcos interpretativos para el análisis de las prácticas de enseñanza en las aulas.
+
+**Teorías del aprendizaje**
+
+Procura mostrar, desde diferentes posturas teóricas, los principales hallazgos que la investigación ha generado en el campo del aprendizaje. De esa forma, se podrán construir referentes teóricos que faciliten la comprensión de los fenómenos que ocurren en el aula y en la institución.
+
+**Metodología de la investigación educativa 1**
+
+Promueve la construcción de una actitud investigativa en educación, para la mejora de la práctica y el desarrollo de las competencias básicas de investigación. Establece los distintos tipos de diseños, estrategias y técnicas utilizadas en la investigación educativa, a los efectos de lograr el desarrollo autónomo de proyectos individuales o colectivos.
+
+**Seminario: Problemas educativos contemporáneos**
+
+Seminario curricular con temáticas a determinar por los profesores invitados. Para su elección se tendrá en cuenta los intereses de los estudiantes y las necesidades de cubrir áreas de vacancia en los procesos formativos.
+
+### 2.º semestre
+
+
+**Innovación y cambio educativo**
+
+Analiza distintos proyectos y propuestas de innovación en su contexto. Brinda un marco para crear y proyectar propuestas innovadoras, que generen rupturas en las tradiciones pedagógicas, curriculares y disciplinares. Proporciona un recorrido sobre el concepto de innovación, sus controversias y sus definiciones.
+
+**Contextos emergentes para el aprendizaje**
+
+Promueve una profundización en la comprensión acerca del aprendizaje, a través de las teorías de mayor relevancia para el conocimiento. Estudia los aportes e influencias de las teorías del aprendizaje en las ciencias pedagógicas, en el discurso pedagógico, en las políticas educativas, en los enfoques curriculares y en la práctica docente.
+
+**Electiva 1**
+
+Desarrollo profesional docente Presenta las diversas conceptualizaciones referidas al desarrollo profesional docente, así como las principales dimensiones del proceso. Aborda los retos y desafíos que el liderazgo educativo supone. Analiza las modalidades y estrategias de formación continua más efectivas, en base a casos y evidencia reciente. Las instituciones formadoras Expone las diversas concepciones acerca de la institución formadora. Aborda los fines y dinámicas de las instituciones, su estructura y organización. Analiza las instituciones en el campo de la educación formal y no formal. Examina las instituciones formadoras en el ámbito profesional. Evaluación de programas y proyectos educativos Desarrolla las perspectivas metodológicas de la evaluación curricular de un programa o proyecto formativo. Analiza los tipos y criterios de evaluación. Examina la demanda y el planteamiento de la evaluación, el diseño de la propuesta y de los instrumentos, así como la recolección de la información. Análisis y uso de la información Establece las relaciones entre el uso de los diversos métodos de investigación, la aplicación de técnicas de análisis de información y el empleo de la estadística descriptiva como insumo para la planificación, formación y gestión educativa. Analiza informes técnicos, reportes de investigación y registros de bases de datos nacionales e internacionales. Tecnología educativa Considera las tendencias actuales en el campo de la tecnología educativa y analiza los procesos de enseñanza y de aprendizaje en la contemporaneidad. Examina la mediación tecnológica y realiza una búsqueda analítica y creativa en la generación de proyectos y propuestas con incidencia en el sistema educativo. Políticas educativas comparadas Estudia las políticas educativas comparadas, sus nociones y alcance. Describe el proceso de diseño, implementación y evaluación de políticas educativas a partir de una perspectiva regional e internacional. Examina casos de interés para las políticas educativas tanto en los sistemas escolares, como en los de educación superior.
+
+**Taller de diseño de investigación**
+
+Brinda herramientas para la planificación y el diseño de un proyecto de investigación. Presenta los principales componentes del proceso. Genera un ámbito de intercambio que permite comprender cuáles son las principales características de la tarea investigativa. Analiza los procesos de la construcción de las categorías teóricas, la saturación y las diferentes propuestas de validación en investigación educativa.
+
+**Proyecto de tesis**
+
+Al término del primer semestre del primer año —y luego de haber cumplido con las actividades académicas previstas— los estudiantes estarán en condiciones de elaborar un proyecto de investigación, que será evaluado por un tribunal.
+
+## 2.º año
+
+
+### 3.er semestre
+
+
+**Nuevas agendas para la enseñanza**
+
+Presenta la didáctica como disciplina científica, así como sus vinculaciones con las demás ciencias de la educación. Analiza investigaciones didácticas recientes. Desnaturaliza el curriculum escolar, a través de la revisión de la constitución histórica del campo del curriculum y del estudio de la conformación y universalización del código curricular de la enseñanza básica. Fundamenta la necesidad de un análisis político e institucional de la enseñanza, de forma de ampliar los alcances de la didáctica como campo de estudio.
+
+**Metodología de la investigación educativa 2**
+
+Estudia las estrategias generales del análisis de datos y su vinculación con el diseño de la investigación. Analiza e interpreta los datos desde una perspectiva cuantitativa y cualitativa. Reconoce las características de la construcción metodológica de un proyecto de investigación y el lugar del análisis de datos en dicha construcción. Profundiza sobre las diferentes técnicas de producción, interpretación y análisis de datos.
+
+**Electiva 2**
+
+Desarrollo profesional docente Presenta las diversas conceptualizaciones referidas al desarrollo profesional docente, así como las principales dimensiones del proceso. Aborda los retos y desafíos que el liderazgo educativo supone. Analiza las modalidades y estrategias de formación continua más efectivas, en base a casos y evidencia reciente. Las instituciones formadoras Expone las diversas concepciones acerca de la institución formadora. Aborda los fines y dinámicas de las instituciones, su estructura y organización. Analiza las instituciones en el campo de la educación formal y no formal. Examina las instituciones formadoras en el ámbito profesional. Evaluación de programas y proyectos educativos Desarrolla las perspectivas metodológicas de la evaluación curricular de un programa o proyecto formativo. Analiza los tipos y criterios de evaluación. Examina la demanda y el planteamiento de la evaluación, el diseño de la propuesta y de los instrumentos, así como la recolección de la información. Análisis y uso de la información Establece las relaciones entre el uso de los diversos métodos de investigación, la aplicación de técnicas de análisis de información y el empleo de la estadística descriptiva como insumo para la planificación, formación y gestión educativa. Analiza informes técnicos, reportes de investigación y registros de bases de datos nacionales e internacionales. Tecnología educativa Considera las tendencias actuales en el campo de la tecnología educativa y analiza los procesos de enseñanza y de aprendizaje en la contemporaneidad. Examina la mediación tecnológica y realiza una búsqueda analítica y creativa en la generación de proyectos y propuestas con incidencia en el sistema educativo. Políticas educativas comparadas Estudia las políticas educativas comparadas, sus nociones y alcance. Describe el proceso de diseño, implementación y evaluación de políticas educativas a partir de una perspectiva regional e internacional. Examina casos de interés para las políticas educativas tanto en los sistemas escolares, como en los de educación superior. Gestión de procesos de desarrollo organizacional Invita al análisis de ciertas capacidades institucionales, que permiten enfrentar y dar respuesta a los requerimientos del entorno. Identifica y aborda diferentes estadios de desarrollo presentes en los centros educativos. Trabaja aspectos relacionados con la gestión del conocimiento y la ética en las organizaciones. Diagnóstico institucional y gestión por proyectos Brinda herramientas y estrategias para el diseño, implementación y evaluación de proyectos que se encuentran transitando procesos de mejora o cambio. Promueve el fortalecimiento de capacidades institucionales, que permitan un mejor posicionamiento de la institución educativa ante los desafíos actuales.
+
+**Desarrollo del proyecto de tesis**
+
+Para la implementación del proyecto, los estudiantes contarán con el acompañamiento de un tutor, quien los apoyará a lo largo del proceso. Para la presentación del informe final de tesis, los estudiantes dispondrán de un período mínimo de un año y máximo de dos años, a partir de la aprobación de su proyecto de investigación.
+
+### 4.º semestre
+
+
+**Seminario de tesis**
+
+Brinda un espacio para el análisis grupal de las tesis en curso. Apoya en los aspectos metodológicos para la elaboración del informe final de tesis. Presenta y discute las diferentes temáticas de investigación abordadas por los estudiantes y sus referentes teóricos.
+
+**Presentación de la memoria final**
+
+Para la presentación de la memoria final, los estudiantes deberán tener cursadas y aprobadas todas las materias, seminarios y talleres del plan de estudios. El trabajo deberá ser de carácter individual, dar cuenta del dominio del problema y de los recursos metodológicos utilizados, así como constituir un aporte al estudio de la temática seleccionada.
+
+## Requisitos de ingreso (detalle)
+
+Los candidatos a cursar el Master en Educación deben cumplir con alguno de los siguientes requisitos: • Título universitario en el área de la educación. • Título universitario en otras áreas y experiencia docente de, al menos, 5 años. • Título docente expedido por institutos de formación docente dependientes o habilitados por ANEP. • Otros títulos docentes terciarios expedidos por instituciones universitarias reconocidas en el país de origen. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Semipresencial. Este postgrado se dicta en forma semipresencial, combinando clases presenciales y actividades asincrónicas. Dentro de la modalidad semipresencial, se despliegan actividades académicas en tres modalidades básicas de clases, cuyo volumen dependerá de los resultados de aprendizaje de cada asignatura. Clases o actividades presenciales. Los participantes son convocados a clase presencial con el o los docentes. Clases o actividades híbridas. Los participantes pueden optar por participar de forma presencial o virtual. El docente dictará de forma presencial a través de la tecnología HyFlex®. Clases o actividades a distancia. Las clases serán impartidas de manera 100 % online, y tanto los estudiantes como el docente ―en algunos casos extranjeros― estarán remotos, conectados a través de la plataforma Zoom. Pueden ser sincrónicas o asincrónicas. En todos los casos el curso contará con el apoyo de plataformas virtuales (Moodle) para desarrollarse bajo el modelo de aula expandida: existe interacción previa y posterior a la clase en la plataforma, para complementar y fortalecer el proceso de aprendizaje. A modo de ejemplo: Se abren foros de discusión sobre temas, ejercicios u otras tareas planteadas. Se establecen entregas virtuales de trabajos individuales y/o grupales. Se proponen materiales de lectura para trabajar en las instancias sincrónicas o asincrónicas. Algunas materias presenciales se pueden cursar en modalidad HyFlex®. Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales.
+
+## Duración y horarios (detalle)
+
+Duración 2 años.
+
+## Títulos y reconocimientos
+
+El Master en Educación de la Universidad ORT Uruguay es un postgrado de dos años de duración, reconocido por resolución oficial del Ministerio de Educación y Cultura del 1.º de octubre de 2002. Al finalizar el postgrado, los egresados reciben el título de Master en Educación. Títulos intermedios Certificado de Actualización en Ciencias de la Educación Con la aprobación de las materias Teorías de la Enseñanza, Teorías del Aprendizaje e Innovación y Cambio Educativo, los estudiantes reciben el Certificado de Actualización en Ciencias de la Educación. Diploma en Educación Luego de aprobados todos los cursos de los dos primeros semestres y tras la presentación de un proyecto de investigación, los estudiantes obtienen el Diploma en Educación.
+
+## Requisito de graduación
+
+Para obtener el título de Master en Educación es necesario haber cursado y aprobado todos los seminarios y talleres. Asimismo, haber presentado y aprobado la tesis final. Dicho trabajo debe inscribirse en una de las cinco líneas de investigación del Instituto de Educación: Organización y gestión del sistema educativo Procesos de enseñanza y procesos de aprendizaje Tecnología educativa Profesión docente Políticas educativas
+
+## Becas (detalle)
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://ie.ort.edu.uy/master-en-educacion)
+- [Plan de estudios](https://ie.ort.edu.uy/master-en-educacion/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

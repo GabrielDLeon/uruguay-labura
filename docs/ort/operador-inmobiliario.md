@@ -1,0 +1,116 @@
+# Operador Inmobiliario
+
+## Metadata
+
+- Nombre oficial: Operador Inmobiliario
+- Tipo: Tecnicatura
+- Área: Arquitectura
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: 2 años más un trabajo final
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). El valor de las cuotas varía según los factores indicados en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No encontrado
+- Proceso de selección: Ingreso directo (no requiere sorteo ni proceso de selección).
+- Requisitos de ingreso: Educación Media Superior (EMS) completa.  Esta carrera admite el ingreso condicional con hasta dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico.
+- Perfil de egreso: Perfil de los graduados Como graduado de la carrera Operador/a inmobiliario podrás: Mediar y negociar de manera ética, eficiente y profesional en el área inmobiliaria (compra-venta, arrendamientos, desarrollos Inmobiliarios, entre otros). Conocer y aplicar conceptos arquitectónicos, urbanísticos, jurídicos y notariales pertinentes al negocio inmobiliario. Realizar informes de tasación. Emplear herramientas digitales de vanguardia. Gestionar la propiedad horizontal con precisión, entendiendo las normativas y regulaciones aplicables para asegurar la correcta administración y convivencia en este tipo de propiedades Manejar profesionalmente las buenas prácticas de marketing, de negociación y de ventas. Conocer en profundidad el Mercado Inmobiliario. Insertarse en el mercado laboral de forma independiente o integrándose a un equipo de trabajo. Entender la variedad de necesidades de clientes y de colegas, respondiendo con creatividad a sus diversos requerimientos. Evaluar la viabilidad y rentabilidad de proyectos inmobiliarios, aplicando herramientas de análisis financiero, urbanístico y de mercado, para tomar decisiones acertadas. Cumplir con la normativa legal vigente, incluyendo aspectos fiscales, tributarios y de registros públicos, para garantizar la legalidad en todas las transacciones y gestiones inmobiliarias. Adoptar prácticas responsables que beneficien a la comunidad y al medio ambiente, respetando los principios de la responsabilidad social empresarial y el desarrollo sostenible.
+- Salida laboral: Perfil de los graduados Como graduado de la carrera Operador/a inmobiliario podrás: Mediar y negociar de manera ética, eficiente y profesional en el área inmobiliaria (compra-venta, arrendamientos, desarrollos Inmobiliarios, entre otros). Conocer y aplicar conceptos arquitectónicos, urbanísticos, jurídicos y notariales pertinentes al negocio inmobiliario. Realizar informes de tasación. Emplear herramientas digitales de vanguardia. Gestionar la propiedad horizontal con precisión, entendiendo las normativas y regulaciones aplicables para asegurar la correcta administración y convivencia en este tipo de propiedades Manejar profesionalmente las buenas prácticas de marketing, de negociación y de ventas. Conocer en profundidad el Mercado Inmobiliario. Insertarse en el mercado laboral de forma independiente o integrándose a un equipo de trabajo. Entender la variedad de necesidades de clientes y de colegas, respondiendo con creatividad a sus diversos requerimientos. Evaluar la viabilidad y rentabilidad de proyectos inmobiliarios, aplicando herramientas de análisis financiero, urbanístico y de mercado, para tomar decisiones acertadas. Cumplir con la normativa legal vigente, incluyendo aspectos fiscales, tributarios y de registros públicos, para garantizar la legalidad en todas las transacciones y gestiones inmobiliarias. Adoptar prácticas responsables que beneficien a la comunidad y al medio ambiente, respetando los principios de la responsabilidad social empresarial y el desarrollo sostenible.
+- Becas disponibles: Becas para Tecnicaturas: Becas para carreras con alta demanda laboral, otorgadas según situación económica y con cobertura total. La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+- Página oficial: https://fa.ort.edu.uy/operador-inmobiliario
+
+## Resumen
+
+Una carrera corta en la que podrás adquirir herramientas teóricas y prácticas para poder desarrollar la actividad inmobiliaria.
+
+- Dominio de la tecnología digital para el manejo de negocios inmobiliarios
+- Comunicación efectiva de propiedades mediante los últimos medios digitales
+- Estrategias para lograr negociaciones beneficiosas para todas las partes
+- Brindar herramientas teóricas y prácticas para poder desarrollar la actividad inmobiliaria.
+- Incorporar conceptos de vanguardia en áreas como marketing, ventas, economía, finanzas y arquitectura, aplicados a la actividad inmobiliaria.
+- Dominar las herramientas de negociación, liderazgo, trabajo en equipo y atención al cliente, organización empresarial y administración.
+- Manejar conceptos de calidad constructiva, derecho inmobiliario, urbanismo, tasaciones y prácticas notariales para poder potenciar el trabajo de los graduados.
+- Idóneos que ya estén operando en el sector y busquen una formación integral para la gestión profesional de su empresa, que les permita actualizarse para enfrentar los desafíos tecnológicos y digitales, y validar académicamente su experiencia.
+- Profesionales como arquitectos, escribanos, abogados, contadores, ingenieros y otros egresados de carreras universitarias y técnicas vinculadas a las finanzas o a la administración de empresas, que tengan afinidad a las ventas en el sector inmobiliario y con interés en la incorporación de los desarrollos digitales que están transformando al sector.
+- Conocimientos constructivos
+- Nociones de urbanismo
+- Nociones demográficas y códigos de planeamiento para asesorar desarrollos inmobiliarios
+- Informes de tasación
+- Marketing digital aplicado al negocio inmobiliario
+- Nociones audiovisuales y fotográficas aplicadas a inmuebles
+- Organización web y manejo de portales
+- Captación de clientes
+- Atención al cliente
+- Técnicas de negociación
+- Liderazgo
+- Fidelización y crecimiento
+- Nociones matemáticas (para aplicar a tasaciones y finanzas)
+- Funcionamiento del mercado inmobiliario
+- Administración de propiedades y empresarial
+- Métodos cuantitativos en tasaciones con enfoque científico y matemático
+- Construye una red de contactos.
+- Promueve el desarrollo de vínculos entre docentes y estudiantes y entre estudiantes, en un ambiente enriquecedor para promover el crecimiento personal y profesional de cada estudiante.
+- Brinda la posibilidad de intercambiar información que cataliza la concreción de negocios, entre los diferentes actores del sector inmobiliario.
+
+Objetivos
+
+A quién está dirigida
+
+Cuerpo docente
+
+Integrado por prestigiosos profesionales que trabajan de lo que enseñan, que poseen sus propias inmobiliarias o cargos de jerarquía en algunas de las inmobiliarias más destacadas en el sector.
+
+Plan de estudios
+
+El plan de estudios se estructura a través de cuatro áreas temáticas fundamentales que trabajan para lograr una formación interdisciplinar:
+
+- Arquitectura
+
+- Comercial
+
+- Economía y Finanzas
+
+El ambiente profesional de la carrera:
+
+Aprender haciendo
+
+La carrera le brinda al estudiante la posibilidad de adquirir conocimientos teóricos y prácticos para que al graduarse pueda desempeñarse de manera ética, profesional y rentable.
+
+## Plan de Estudio
+
+1.er año 1.er semestre Principios de arquitectura y planificación urbana Introducción al derecho inmobiliario Marketing inmobiliario estratégico Economía y finanzas 2.º semestre Técnicas de negociación y ventas Marketing digital Arquitectura técnica Fundamentos del derecho inmobiliario y la propiedad 2.º año 3.er semestre Prácticas notariales Aplicación práctica de la profesión Tasaciones Gestión de la empresa y administración de propiedades 4.° semestre Marketing inmobiliario operativo Innovación y tecnología Desarrollo de la práctica profesional Fotografía y presentación de inmuebles Trabajo final Trabajo final Título final: Operador/a Inmobiliario/a
+
+## Requisitos de ingreso (detalle)
+
+Educación Media Superior (EMS) completa. Esta carrera admite el ingreso condicional con hasta dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico.
+
+## Modalidad de cursado (detalle)
+
+Esta carrera se dicta en forma presencial en aula expandida. Todas las materias presenciales se pueden cursar en modalidad HyFlex®. Con un solo clic, quienes optan por la modalidad virtual visualizan el salón desde dentro. Asimismo, siguen la clase de manera simultánea con sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que permite a los estudiantes su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales.
+
+## Duración y horarios (detalle)
+
+Duración 2 años más un trabajo final. Horarios de clase Lunes a jueves de 18:00 a 22:00 horas. El dictado será una combinación de clases presenciales y virtuales. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+La carrera de Operador Inmobiliario se encuentra en trámite de reconocimiento como carrera terciaria no universitaria por el Ministerio de Educación y Cultura.
+
+## Valor de las cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+## Becas (detalle)
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+## Fuentes
+
+- [Página oficial de la carrera](https://fa.ort.edu.uy/operador-inmobiliario)
+- [Plan de estudios](https://fa.ort.edu.uy/operador-inmobiliario/plan-de-estudios)
+- [Listado de tecnicaturas](https://www.ort.edu.uy/tecnicaturas)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-tecnicaturas)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

@@ -1,0 +1,144 @@
+# Analista en Gestión Logística y Cadenas de Suministro
+
+## Metadata
+
+- Nombre oficial: Analista en Gestión Logística y Cadenas de Suministro
+- Tipo: Tecnicatura
+- Área: Administración y Ciencias Sociales
+- Modalidad: Semipresencial (híbrido: combina presencialidad y virtualidad)
+- Turno: No encontrado
+- Duración: 18 meses
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). El valor de las cuotas varía según los factores indicados en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No encontrado
+- Proceso de selección: Ingreso directo (no requiere sorteo ni proceso de selección).
+- Requisitos de ingreso: Educación Media Superior (EMS) completa.
+- Perfil de egreso: Perfil de los graduados Los graduados podrán desempeñarse en logística empresarial y multimodal, en organizaciones públicas y privadas, en contextos nacionales e internacionales. Estarán preparados para analizar, planificar y gestionar procesos a lo largo de la cadena de suministro, apoyados en la formación del plan de estudios, que comprende: Logística integral y SCM, Logística y transporte multimodal, Gestión de centros logísticos, Logística del e-commerce, Práctica logística, Matemática aplicada a la logística, Analítica de datos, Sistemas informáticos aplicados a la logística, Marco jurídico de la logística y Excel básico.
+- Salida laboral: Perfil de los graduados Los graduados podrán desempeñarse en logística empresarial y multimodal, en organizaciones públicas y privadas, en contextos nacionales e internacionales. Estarán preparados para analizar, planificar y gestionar procesos a lo largo de la cadena de suministro, apoyados en la formación del plan de estudios, que comprende: Logística integral y SCM, Logística y transporte multimodal, Gestión de centros logísticos, Logística del e-commerce, Práctica logística, Matemática aplicada a la logística, Analítica de datos, Sistemas informáticos aplicados a la logística, Marco jurídico de la logística y Excel básico.
+- Becas disponibles: Becas para Tecnicaturas: Becas para carreras con alta demanda laboral, otorgadas según situación económica y con cobertura total. La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+- Página oficial: https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro
+
+## Resumen
+
+Conocé la carrera Analista en Gestión Logística y Cadenas de Suministro de la Facultad de Administración y Ciencias Sociales de ORT.
+
+- Preparación para roles nacionales e internacionales en el área logística
+- Competencias para analizar y gestionar situaciones logísticas complejas
+- Formación sobre automatización y transformación digital
+
+La logística integral constituye una actividad con enfoque multidisciplinario para lograr cadenas de suministro profesionales y adaptativas; la gestión de estas comprende las actividades asociadas con el flujo de productos, información y transacciones monetarias desde el proveedor hasta los clientes.
+
+La carrera ofrece una formación completa para desarrollar las habilidades necesarias para trabajar en el campo logístico, tanto a nivel nacional como internacionales.
+
+Los graduados adquieren conocimientos teóricos y prácticos que les permiten desempeñarse eficazmente en roles relacionados con la gestión de la logística y las cadenas de suministro. Pueden ocupar puestos en niveles iniciales en la gestión de operaciones en centros logísticos, ya sea en organizaciones públicas o privadas, así como en la administración de sus propios proyectos empresariales.
+
+El plan de estudios se adapta a las tendencias laborales del futuro en el sector logístico, considerando la importancia de la tecnología, la alfabetización digital, la seguridad, la sostenibilidad y la colaboración en la planificación.
+
+También se enfoca en fortalecer las capacidades estratégicas y transformar modelos de negocios en las cadenas de suministro actuales; brinda marcos curriculares acordes a las tendencias laborales del futuro en el sector logístico, aborda la transformación tecnológica y digital, la seguridad, la sustentabilidad, el trabajo en equipo y el fortalecimiento de las capacidades operativas, que constituyen las directrices para el mundo de las cadenas de suministro actuales.
+
+¡Descubrí todas las oportunidades que te brinda el mundo de la logística y las cadenas de suministro!
+
+La carrera de Analista en Gestión Logística y Cadenas de Suministro ha sido diseñada con una visión integral, sostenible y sustentable, a los efectos de desarrollar en los futuros profesionales una perspectiva crítica, proactiva, teórica y práctica del sentido real de la logística, que pueda ser aplicada en cada rama de actividad en la que se desempeñen.
+
+Se incluyen temas actuales de gestión logística, como la automatización de procesos, la logística 4.0 y la transformación digital de la mano de la inteligencia artificial, el internet de las cosas (IoT), el blockchain, el big Data, la logística en la nube, la tecnología 5G, que implican una reconversión en materia de logística.
+
+El plan de estudios de estudios establece el marco curricular adecuado para que los graduados puedan manejarse con solvencia con relación a las tendencias laborales del futuro en el sector logístico.
+
+Tiene en cuenta las líneas directrices para el mundo de las cadenas de suministros actuales: la relevancia de la transformación tecnológica, la alfabetización digital, la seguridad, la salubridad, la sostenibilidad, la sustentabilidad, la planificación colaborativa, el fortalecimiento de las capacidades estratégicas y científico-tecnológicas, y la transformación de los modelos de negocios.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### 1.er semestre
+
+
+**Logística integral y SCM**
+
+Introduce al estudiante en los conceptos generales de logística. Presenta los fundamentos de Logística Integral y su interrelación con la gestión de la cadena de suministro: SCM (supply chain management). Incluye conceptos introductorios que van desde los procesos de la logística de entrada hasta los procesos de la logística inversa y la green logistic. Con un enfoque teórico–práctico, desarrolla una perspectiva crítica y activa de temas de Logística en cualquier actividad, tanto del sector público como del privado.
+
+**Excel básico**
+
+El curso aborda las herramientas esenciales que componen Microsoft Excel, de manera práctica y aplicada. Forma al estudiante en la organización, cálculo y análisis de datos económicos o estadísticos, brindándole además herramientas de análisis para la toma de decisiones con grandes volúmenes de información.
+
+**Logística y transporte multimodal**
+
+El curso explica la relación entre logística y transporte multimodal en la cadena de suministro. Presenta al estudiante cómo instrumentar un transporte multimodal a partir de la articulación entre diferentes modos de transporte —nacional o internacional— a fin de realizar en forma más rápida y eficaz las operaciones de trasbordo de materiales y mercancías.
+
+**Matemática aplicada a la logística**
+
+El curso brinda el instrumental matemático indispensable para la resolución de problemas logísticos. Se les capacita en temáticas básicas como pueden ser los cálculos de pesos volumétricos y de stocks hasta las bases generales de métodos matemáticos de cálculo, así como en conceptos de estadística básica.
+
+### 2.° semestre
+
+
+**Gestión de centros logísticos**
+
+El objetivo principal de la asignatura es presentar los fundamentos de la gestión de los centros logísticos. Los estudiantes conocerán diferentes aspectos necesarios para llevar adelante una administración y control eficientes de las operaciones logísticas que realizan las empresas. A través del análisis de casos prácticos, se busca plantear soluciones a los diversos problemas que surgen en la gestión de procesos de recepción, almacenamiento, preparación de pedidos y distribución.
+
+**Sistemas informáticos aplicados a la logística**
+
+Explora las principales herramientas digitales utilizadas en operaciones logísticas, como sistemas de gestión, transporte, planificación, entre otros. La materia está diseñada para que los estudiantes comprendan cómo estas tecnologías optimizan flujos de datos, recursos y procesos en la cadena de suministro, mejorando la eficiencia operativa desde una perspectiva estratégica y práctica. Se enfatiza el uso práctico de estas herramientas.
+
+**Analítica de datos**
+
+Brinda fundamentos en manejo y análisis de datos aplicados al ámbito logístico: desde la recolección de información y su tratamiento, hasta la extracción de insights mediante herramientas estadísticas y digitales. Los estudiantes aprenderán a interpretar volúmenes de datos logísticos para tomar decisiones más informadas y mejorar el rendimiento de la cadena de suministro. Este enfoque forma parte del espíritu práctico y orientado a la toma de decisiones de la carrera.
+
+**Marco jurídico de la logística**
+
+El objetivo central del curso apunta a presentar el marco jurídico nacional e internacional que regula las actividades logísticas, así como las relaciones entre los distintos actores que en ellas intervienen. Desde una perspectiva práctica, se plantean trabajos de relevamiento de los diferentes sectores de actividad, así como resolución de casos donde se apliquen distintas normas jurídicas.
+
+## 2.° año
+
+
+### 3.er semestre
+
+
+**Nuevas tendencias logísticas**
+
+Introduce a los nuevos modelos de negocios que han implicado el desarrollo de nuevas tendencias logísticas (logística 4.0). Se presentan soluciones digitales aplicadas a la gestión logística, internet de las cosas, robótica, big data, machine learning, inteligencia artificial, blockchain, entre otras.
+
+**Logística del e-commerce**
+
+Desarrolla habilidades en temas de logística del comercio electrónico, donde se registran nuevas estrategias logísticas. Introduce al estudiante en la digitalización del comercio y en las particularidades de la logística de última milla del e-commerce.
+
+**Práctica logística**
+
+Se presentan distintas herramientas, instrumentos y principios que reflejan la operativa diaria de la actividad, aplicadas a situaciones logísticas específicas.
+
+## Requisitos de ingreso (detalle)
+
+Educación Media Superior (EMS) completa.
+
+## Modalidad de cursado (detalle)
+
+Presencial o semipresencial Todas las materias presenciales se pueden seguir en forma remota por HyFlex®. Con solo un clic, quienes optan por seguir las aulas en forma remota visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración Un año y medio Horarios de clase Tres veces por semana entre lunes y jueves, de 19:30 a 22:00. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+Al aprobar todas las materias que componen el año y medio de la carrera, los estudiantes alcanzan el título de Analista en Gestión Logística y Cadenas de Suministro.
+
+## Valor de las cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+## Becas (detalle)
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+## Fuentes
+
+- [Página oficial de la carrera](https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro)
+- [Plan de estudios](https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro/plan-de-estudios)
+- [Listado de tecnicaturas](https://www.ort.edu.uy/tecnicaturas)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-tecnicaturas)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

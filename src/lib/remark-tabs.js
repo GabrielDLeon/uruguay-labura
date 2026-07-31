@@ -1,16 +1,12 @@
 import bookOpenOutline from '@iconify-icons/mdi/book-open-outline.js'
 import calendarTextOutline from '@iconify-icons/mdi/calendar-text-outline.js'
-import certificateOutline from '@iconify-icons/mdi/certificate-outline.js'
-import schoolOutline from '@iconify-icons/mdi/school-outline.js'
-import accountGroupOutline from '@iconify-icons/mdi/account-group-outline.js'
+import clipboardAccountOutline from '@iconify-icons/mdi/clipboard-account-outline.js'
 
 /** @type {Record<string, { width: number, height: number, body: string }>} */
 const DEFAULT_TAB_ICONS = {
   Resumen: bookOpenOutline,
+  Ingreso: clipboardAccountOutline,
   'Plan de Estudio': calendarTextOutline,
-  'Títulos intermedios': certificateOutline,
-  'Ciclo Inicial Optativo': schoolOutline,
-  Comunidades: accountGroupOutline,
 }
 
 const PROSE_CLASS = 'prose prose-sm dark:prose-invert max-w-none'
