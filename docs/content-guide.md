@@ -10,6 +10,10 @@ Los `##` headings generan tabs automáticamente. Cada `##` es un tab.
 ## Resumen                → tab "Resumen"
 ### Sobre la Carrera
 ### Título Intermedio      (opcional)
+### Objetivo               (opcional, posgrados UDELAR)
+### Perfil de egreso       (opcional)
+### Referentes académicos  (opcional)
+### Docentes               (opcional, solo listas cortas curadas: coordinadores, plantel, comisiones)
 ### Proceso de Selección   (opcional)
 ### Becas                  (opcional)
 ### Comunidades            (opcional)
@@ -18,19 +22,48 @@ Los `##` headings generan tabs automáticamente. Cada `##` es un tab.
 ### Requisitos de Ingreso
 ### Fechas                 (opcional, si hay startDate/applicationDeadline)
 ### Ciclo Inicial Optativo (opcional)
+### Reglamento             (opcional)
 
 ## Plan de Estudio         → tab "Plan de Estudio" (opcional)
+### Programa               (opcional)
+### Unidades curriculares  (opcional)
+
+## Fuentes                 → tab "Fuentes" (opcional, siempre al final)
 ```
 
 ## Reglas
 
-- **Siempre** empezar con `## Resumen` / `### Sobre la Carrera`.
-- **Tabs fijos:** `Resumen` e `Ingreso` están siempre presentes.
-- **Tab opcional:** `Plan de Estudio` solo cuando hay malla curricular.
+- **Siempre** empezar con `## Resumen` / `### Sobre la Carrera`. Si el archivo
+  no tiene texto introductorio propio, `### Sobre la Carrera` se puede sembrar
+  desde el campo `description` del frontmatter.
+- **Tabs fijos:** `Resumen` está siempre presente; `Ingreso` y `Plan de
+  Estudio` aparecen solo si hay contenido de ingreso / malla curricular.
+- **`## Fuentes`**: tab opcional al final con links a fuentes oficiales
+  (catálogo, ficha PDF, página oficial). No lleva subsecciones.
 - **`###`** son subsecciones dentro del tab que las contiene.
 - **Componentes Astro/React** (como `<RedditComments />`) funcionan dentro de cualquier sección.
 - **`import`** de componentes va al inicio del archivo, como siempre (después del frontmatter, antes del primer `##`).
 - **No hace falta** importar nada de tabs. Es automático.
+
+## Mapeo de secciones scrapeadas del CAP (UDELAR)
+
+Las carreras UDELAR scrapeadas del [Catálogo de Posgrados (CAP)](https://cap.posgrados.udelar.edu.uy/)
+usan secciones propias. Al normalizar (`scripts/normalize-body.mjs`) se mapean así:
+
+| Sección original | Destino |
+|---|---|
+| `## Objetivo` | `## Resumen` → `### Objetivo` |
+| `## Perfil de egreso` | `## Resumen` → `### Perfil de egreso` |
+| `## Referentes académicos` | `## Resumen` → `### Referentes académicos` |
+| `## Requisitos para postular` | `## Ingreso` → `### Requisitos de Ingreso` |
+| `## Reglamento` | `## Ingreso` → `### Reglamento` |
+| `## Programa` | `## Plan de Estudio` → `### Programa` |
+| `## Unidades curriculares` | `## Plan de Estudio` → `### Unidades curriculares` |
+| `## Información adicional` | `## Ingreso` → `### Requisitos de Ingreso` (si arranca con "Requisitos de ingreso/inscripción:", sin el prefijo) o `### Información adicional` |
+| `## Fuentes` | `## Fuentes` (se conserva) |
+| `## Docentes` | `## Resumen` → `### Docentes` si es lista corta (≤600 chars) con info curada (coordinadores, plantel, comisiones); los muros de nombres del CAP se descartan |
+| `## Departamentos donde se dicta el posgrado` | la sección no se renderiza; el valor (ciudad, p. ej. "Montevideo", "Paysandú") se anexa al campo `location` del frontmatter cuando no está ya presente |
+
 
 ## Frontmatter
 
@@ -106,3 +139,5 @@ Cada carrera referencia becas mediante el campo `becas` en su frontmatter.
 | `licenciatura-tecnologias-informacion-utec.mdx` | Resumen, Ingreso, Plan de Estudio |
 | `tecnicatura-superior-ts-utec.mdx` | Resumen, Ingreso |
 | `especializacion-gestion-proyectos-ort.mdx` | Resumen, Ingreso |
+| `agronomia-maestria-udelar.mdx` | Resumen, Ingreso, Plan de Estudio, Fuentes |
+| `abogacia-udelar.mdx` | Resumen, Ingreso, Fuentes |
