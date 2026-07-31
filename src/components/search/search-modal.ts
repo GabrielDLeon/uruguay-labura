@@ -1,3 +1,5 @@
+import { appIcons, iconToSvg } from "@/lib/icons"
+
 // Pagefind JS API types (generated at build time)
 interface PagefindResultData {
   url: string
@@ -5,6 +7,7 @@ interface PagefindResultData {
     title?: string
     degreeType?: string
     modality?: string
+    kind?: string
     [key: string]: string | undefined
   }
   plain_excerpt: string
@@ -23,6 +26,27 @@ interface PagefindSearchResponse {
 interface PagefindAPI {
   search: (query: string) => Promise<PagefindSearchResponse>
 }
+
+type ResultKind = "carrera" | "institucion"
+
+const KIND_CONFIG: Record<
+  ResultKind,
+  { icon: string; label: string; badge: string }
+> = {
+  carrera: {
+    icon: iconToSvg(appIcons.school),
+    label: "Carrera",
+    badge: "badge--carrera",
+  },
+  institucion: {
+    icon: iconToSvg(appIcons.institution),
+    label: "Institución",
+    badge: "badge--institucion",
+  },
+}
+
+const RESULT_LIMIT = 8
+const DESCRIPTION_MAX = 200
 
 function escapeHtml(text: string): string {
   const div = document.createElement("div")
@@ -55,29 +79,66 @@ function createSearchModal() {
 
   const trigger = document.getElementById("search-trigger")
   const dialog = document.getElementById("search-dialog")
+  const closeBtn = document.getElementById("search-dialog-close")
   const inputEl = document.getElementById("search-dialog-input")
   const menuEl = document.getElementById("search-results")
 
-  if (!trigger || !dialog || !inputEl || !menuEl) {
+  if (!trigger || !dialog || !closeBtn || !inputEl || !menuEl) {
     console.warn("[SearchModal] Missing DOM elements")
     return { destroy: () => {} }
   }
 
   const input = inputEl as HTMLInputElement
   const menu = menuEl
+  const dialogEl = dialog as HTMLElement & {
+    showPopover: () => void
+    hidePopover: () => void
+  }
 
-  async function initPagefind(): Promise<PagefindAPI | null> {
-    if (pagefind) return pagefind
-    try {
-      const pagefindUrl = `${import.meta.env.BASE_URL}pagefind/pagefind.js`
-      const mod = await import(pagefindUrl)
-      pagefind = mod as PagefindAPI
-      return pagefind
-    } catch (err) {
-      console.error("[SearchModal] Failed to load Pagefind:", err)
-      menu.setAttribute("data-empty", "Error al cargar el buscador")
-      return null
-    }
+  const getItems = () => menu.querySelectorAll<HTMLElement>('[role="option"]')
+
+  function showEmpty(message: string) {
+    menu.innerHTML = ""
+    menu.setAttribute("data-empty", message)
+  }
+
+  function renderResultItem(result: PagefindResultData, index: number): string {
+    const kind: ResultKind =
+      result.meta.kind === "carrera" ? "carrera" : "institucion"
+    const cfg = KIND_CONFIG[kind]
+    const description =
+      result.meta.description || result.plain_excerpt || result.excerpt || ""
+    return `
+    <a
+      role="option"
+      id="search-result-${index}"
+      tabindex="-1"
+      href="${escapeAttribute(result.url)}"
+      class="flex items-start gap-3 px-3 py-2.5 rounded-xl transition-colors hover:bg-[var(--accent)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--ring)]"
+    >
+      <div class="flex size-9 shrink-0 items-center justify-center rounded-lg bg-[var(--muted)] text-muted-foreground">
+        ${cfg.icon}
+      </div>
+      <div class="min-w-0 flex-1">
+        <div class="flex items-center gap-2">
+          <span class="text-sm font-medium text-foreground leading-snug">${escapeHtml(result.meta.title || result.url)}</span>
+          <span class="badge text-[10px] px-1.5 py-0.5 leading-none ${cfg.badge}">${cfg.label}</span>
+        </div>
+        ${
+          description
+            ? `<p class="text-xs text-muted-foreground line-clamp-2 mt-1 leading-relaxed">${escapeHtml(description.slice(0, DESCRIPTION_MAX))}</p>`
+            : ""
+        }
+      </div>
+    </a>
+  `
+  }
+
+  function renderResults(results: PagefindResultData[]) {
+    activeIndex = -1
+    menu.removeAttribute("data-empty")
+    menu.innerHTML = results.map(renderResultItem).join("")
+    input.removeAttribute("aria-activedescendant")
   }
 
   async function doSearch(query: string) {
@@ -88,145 +149,184 @@ function createSearchModal() {
 
     if (!query.trim()) {
       if (currentId !== searchCounter) return
-      menu.innerHTML = ""
-      menu.setAttribute("data-empty", "Escribe para buscar...")
+      showEmpty("Escribe para buscar...")
       return
     }
 
-    const pf = await initPagefind()
-    if (!pf || signal.aborted || currentId !== searchCounter) return
+    if (!pagefind) {
+      try {
+        const pagefindUrl = `${import.meta.env.BASE_URL}pagefind/pagefind.js`
+        const mod = await import(pagefindUrl)
+        pagefind = mod as PagefindAPI
+      } catch (err) {
+        console.error("[SearchModal] Failed to load Pagefind:", err)
+        if (currentId !== searchCounter) return
+        showEmpty("Error al cargar el buscador")
+        return
+      }
+    }
+
+    if (signal.aborted || currentId !== searchCounter) return
 
     try {
-      const result = await pf.search(query)
+      const result = await pagefind.search(query)
       if (signal.aborted || currentId !== searchCounter) return
 
       if (result.results.length === 0) {
-        menu.innerHTML = ""
-        menu.setAttribute("data-empty", "Sin resultados")
+        showEmpty("Sin resultados")
         return
       }
 
-      const data = (await Promise.all(
-        result.results.map((r) => r.data())
-      )).filter((r) => r.meta.kind === "educacion")
-        .slice(0, 8)
+      const data = await Promise.all(
+        result.results.slice(0, RESULT_LIMIT).map((r) => r.data()),
+      )
       if (signal.aborted || currentId !== searchCounter) return
 
-      renderResults(menu, data)
+      renderResults(data)
     } catch {
       if (currentId !== searchCounter) return
-      menu.innerHTML = ""
-      menu.setAttribute("data-empty", "Error al buscar")
+      showEmpty("Error al buscar")
     }
   }
 
-  function renderResults(container: HTMLElement, results: PagefindResultData[]) {
-    container.removeAttribute("data-empty")
-    container.innerHTML = results
-      .map(
-        (r) => `
-    <a
-      role="menuitem"
-      href="${escapeAttribute(r.url)}"
-      class="flex-col items-start"
-    >
-      <span class="font-medium leading-snug">${escapeHtml(r.meta.title || r.url)}</span>
-      <div class="flex gap-1 mt-1">
-        ${r.meta.degreeType ? `<span class="badge text-xs" data-variant="secondary">${escapeHtml(r.meta.degreeType)}</span>` : ""}
-        ${r.meta.modality ? `<span class="badge text-xs" data-variant="outline">${escapeHtml(r.meta.modality)}</span>` : ""}
-      </div>
-      <span class="text-xs text-muted-foreground truncate mt-1">${escapeHtml((r.plain_excerpt || "").slice(0, 120))}</span>
-    </a>
-  `
-      )
-      .join("")
-  }
+  const debouncedSearch = debounce((query: string) => doSearch(query), 200)
 
   function updateActive() {
-    const items = menu.querySelectorAll<HTMLElement>("[role='menuitem']")
+    const items = getItems()
     items.forEach((item, i) => {
       if (i === activeIndex) {
         item.classList.add("active")
+        item.setAttribute("aria-selected", "true")
         item.scrollIntoView({ block: "nearest" })
       } else {
         item.classList.remove("active")
+        item.removeAttribute("aria-selected")
       }
     })
+
+    if (activeIndex >= 0 && items[activeIndex]) {
+      input.setAttribute("aria-activedescendant", items[activeIndex].id)
+    } else {
+      input.removeAttribute("aria-activedescendant")
+    }
   }
 
-  // Event handlers
-  function onTriggerClick() {
-    ;(dialog as HTMLElement & { showPopover: () => void }).showPopover()
+  function navigate(direction: "down" | "up") {
+    const items = getItems()
+    if (items.length === 0) return
+    if (direction === "down") {
+      activeIndex = activeIndex < items.length - 1 ? activeIndex + 1 : 0
+    } else {
+      activeIndex = activeIndex > 0 ? activeIndex - 1 : items.length - 1
+    }
+    updateActive()
   }
 
   function onDialogToggle(e: Event) {
     const evt = e as ToggleEvent
     if (evt.newState === "open") {
       input.value = ""
-      menu.innerHTML = ""
-      menu.setAttribute("data-empty", "Escribe para buscar...")
       activeIndex = -1
+      showEmpty("Escribe para buscar...")
       searchCounter++
+      input.setAttribute("aria-expanded", "true")
       requestAnimationFrame(() => input.focus())
+    } else {
+      input.setAttribute("aria-expanded", "false")
+      input.removeAttribute("aria-activedescendant")
+      if (dialogEl.contains(document.activeElement)) trigger!.focus()
     }
   }
-
-  const debouncedSearch = debounce((query: string) => doSearch(query), 200)
 
   function onInput() {
     activeIndex = -1
     debouncedSearch(input.value)
   }
 
-  function onInputKeydown(e: KeyboardEvent) {
-    const items = menu.querySelectorAll<HTMLElement>("[role='menuitem']")
+  function onKeydown(e: KeyboardEvent) {
+    const items = getItems()
+
+    if (e.key === "Tab") {
+      if (e.shiftKey && document.activeElement === input) {
+        e.preventDefault()
+        closeBtn!.focus()
+      } else if (!e.shiftKey && document.activeElement === closeBtn) {
+        e.preventDefault()
+        input.focus()
+      }
+      return
+    }
 
     if (e.key === "ArrowDown") {
       e.preventDefault()
-      activeIndex = Math.min(activeIndex + 1, items.length - 1)
-      updateActive()
+      navigate("down")
     } else if (e.key === "ArrowUp") {
       e.preventDefault()
-      activeIndex = Math.max(activeIndex - 1, -1)
-      updateActive()
-      if (activeIndex === -1) input.focus()
+      navigate("up")
     } else if (e.key === "Enter" && activeIndex >= 0) {
       e.preventDefault()
       const item = items[activeIndex]
-      if (item) {
-        item.click()
-        ;(dialog as HTMLElement & { hidePopover: () => void }).hidePopover()
-      }
+      if (item) item.click()
     } else if (e.key === "Escape") {
-      ;(dialog as HTMLElement & { hidePopover: () => void }).hidePopover()
+      dialogEl.hidePopover()
+    }
+  }
+
+  function onMenuClick(e: MouseEvent) {
+    const target = e.target as HTMLElement
+    if (target.closest('[role="option"]')) {
+      dialogEl.hidePopover()
+    }
+  }
+
+  function onMenuMouseMove(e: MouseEvent) {
+    const target = e.target as HTMLElement
+    const item = target.closest<HTMLElement>('[role="option"]')
+    if (!item) return
+    const idx = Array.from(getItems()).indexOf(item)
+    if (idx !== activeIndex) {
+      activeIndex = idx
+      updateActive()
     }
   }
 
   function onGlobalKeydown(e: KeyboardEvent) {
     if ((e.metaKey || e.ctrlKey) && e.key === "k") {
       e.preventDefault()
-      const d = dialog as HTMLElement & { matches: (sel: string) => boolean; showPopover: () => void; hidePopover: () => void }
-      if (d.matches(":popover-open")) {
-        d.hidePopover()
+      if (dialogEl.matches(":popover-open")) {
+        dialogEl.hidePopover()
       } else {
-        d.showPopover()
+        dialogEl.showPopover()
       }
     }
   }
 
-  // Register listeners
+  function onTriggerClick() {
+    dialogEl.showPopover()
+  }
+
+  function onCloseClick() {
+    dialogEl.hidePopover()
+  }
+
   trigger.addEventListener("click", onTriggerClick)
+  closeBtn.addEventListener("click", onCloseClick)
   dialog.addEventListener("toggle", onDialogToggle)
+  dialog.addEventListener("keydown", onKeydown)
   input.addEventListener("input", onInput)
-  input.addEventListener("keydown", onInputKeydown)
+  menu.addEventListener("click", onMenuClick)
+  menu.addEventListener("mousemove", onMenuMouseMove)
   document.addEventListener("keydown", onGlobalKeydown)
 
   return {
     destroy: () => {
       trigger.removeEventListener("click", onTriggerClick)
+      closeBtn.removeEventListener("click", onCloseClick)
       dialog.removeEventListener("toggle", onDialogToggle)
+      dialog.removeEventListener("keydown", onKeydown)
       input.removeEventListener("input", onInput)
-      input.removeEventListener("keydown", onInputKeydown)
+      menu.removeEventListener("click", onMenuClick)
+      menu.removeEventListener("mousemove", onMenuMouseMove)
       document.removeEventListener("keydown", onGlobalKeydown)
       abortController?.abort()
     },

@@ -17,6 +17,7 @@ import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
 import BarIndicator from "@/components/BarIndicator.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -118,7 +119,18 @@ const detailItems = [
     </div>
   </div>
 
-  <div data-pagefind-body>
+  <PagefindIndex
+    title={entry.data.title}
+    description={entry.data.description}
+    kind="carrera"
+    meta={{
+      degreeType: degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType,
+      modality: modalityLabels[entry.data.modality] ?? entry.data.modality,
+      description: entry.data.description ?? undefined,
+    }}
+  />
+
+  <div data-pagefind-ignore="all">
     <div class="grid md:grid-cols-3">
       <aside class="flex flex-col gap-8 h-full md:order-2 md:border-l md:pl-8 pt-8 pb-8 mb-8 md:mb-0">
         {
@@ -234,12 +246,5 @@ const detailItems = [
       ) : null
     }
 
-    <span
-      data-pagefind-meta={`degreeType:${degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType}`}
-    ></span>
-    <span
-      data-pagefind-meta={`modality:${modalityLabels[entry.data.modality] ?? entry.data.modality}`}
-    ></span>
-    <span data-pagefind-meta="kind:educacion"></span>
   </div>
 </Layout>

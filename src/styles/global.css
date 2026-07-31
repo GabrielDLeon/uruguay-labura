@@ -88,31 +88,82 @@ body {
   min-height: 100vh;
 }
 
-#search-trigger {
-  cursor: pointer;
+#search-dialog-input::-webkit-search-cancel-button,
+#search-dialog-input::-webkit-search-decoration {
+  display: none;
 }
 
-.command-dialog [role="menuitem"] {
-  white-space: normal;
-  align-items: flex-start;
+#search-dialog-input {
+  -moz-appearance: none;
+  appearance: none;
 }
 
-.command-dialog [role="menuitem"] .truncate {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+#search-dialog::backdrop {
+  background: rgb(0 0 0 / 0.3);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
 
-/* Badge variant success (custom, not in Basecoat) */
+#search-results[data-empty] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 6rem;
+}
+
+#search-results[data-empty]::before {
+  content: attr(data-empty);
+  font-size: 0.875rem;
+  color: var(--muted-foreground);
+}
+
+#search-results [role="option"].active {
+  background: var(--accent);
+}
+
+#search-results [role="option"].active .badge--carrera,
+#search-results [role="option"].active .badge--institucion {
+  opacity: 1;
+}
+
+/* Tinted badges (custom, not in Basecoat) */
+.badge--carrera,
+.badge--institucion,
 .badge[data-variant="success"] {
-  background: color-mix(in oklch, var(--color-green-600) 15%, transparent);
-  color: var(--color-green-700);
-  border-color: color-mix(in oklch, var(--color-green-600) 30%, transparent);
+  --badge-tint: var(--color-blue-600);
+  --badge-fg: var(--color-blue-700);
+  background: color-mix(in oklch, var(--badge-tint) 15%, transparent);
+  color: var(--badge-fg);
+  border-color: color-mix(in oklch, var(--badge-tint) 30%, transparent);
+}
+
+.badge--carrera,
+.badge--institucion {
+  border-radius: 9999px;
+}
+
+.badge--institucion {
+  --badge-tint: var(--color-amber-600);
+  --badge-fg: var(--color-amber-700);
+}
+
+.badge[data-variant="success"] {
+  --badge-tint: var(--color-green-600);
+  --badge-fg: var(--color-green-700);
+}
+
+.dark .badge--carrera {
+  --badge-tint: var(--color-blue-400);
+  --badge-fg: var(--color-blue-300);
+}
+
+.dark .badge--institucion {
+  --badge-tint: var(--color-amber-400);
+  --badge-fg: var(--color-amber-300);
 }
 
 .dark .badge[data-variant="success"] {
-  background: color-mix(in oklch, var(--color-green-400) 15%, transparent);
-  color: var(--color-green-300);
-  border-color: color-mix(in oklch, var(--color-green-400) 30%, transparent);
+  --badge-tint: var(--color-green-400);
+  --badge-fg: var(--color-green-300);
 }
 

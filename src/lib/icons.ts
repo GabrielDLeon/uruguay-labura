@@ -45,3 +45,12 @@ export const appIcons = {
 } as const;
 
 export type AppIconName = keyof typeof appIcons;
+
+export function iconToSvg(
+  icon: { body: string; width?: number; height?: number },
+  className = "size-5",
+): string {
+  const width = icon.width ?? 24;
+  const height = icon.height ?? 24;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" class="${className}" aria-hidden="true">${icon.body}</svg>`;
+}
