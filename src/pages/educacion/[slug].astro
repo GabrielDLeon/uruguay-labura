@@ -185,14 +185,27 @@ const detailItems = [
             </a>
             {
               entry.data.contactEmail ? (
-                <button
-                  type="button"
-                  class="btn"
-                  data-variant="outline"
-                  data-copy={entry.data.contactEmail}
-                >
-                  {entry.data.contactEmail}
-                </button>
+                Array.isArray(entry.data.contactEmail) ? (
+                  entry.data.contactEmail.map((email) => (
+                    <button
+                      type="button"
+                      class="btn"
+                      data-variant="outline"
+                      data-copy={email}
+                    >
+                      {email}
+                    </button>
+                  ))
+                ) : (
+                  <button
+                    type="button"
+                    class="btn"
+                    data-variant="outline"
+                    data-copy={entry.data.contactEmail}
+                  >
+                    {entry.data.contactEmail}
+                  </button>
+                )
               ) : null
             }
           </div>

@@ -55,7 +55,7 @@ export const educacionSchema = z.object({
   cost: z.string().min(1),
   language: z.string().min(1).default("Espanol"),
   website: z.url(),
-  contactEmail: z.email().optional(),
+  contactEmail: z.union([z.email(), z.array(z.email())]).optional(),
   location: z.string().min(1).optional(),
   accreditation: z.string().min(1).optional(),
   description: z.string().min(1).optional(),
