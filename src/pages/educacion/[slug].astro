@@ -13,6 +13,7 @@ import {
   getDegreeTypeBarInfo,
   formatDate,
   getSolidarityFundInfo,
+  showDrafts,
 } from "@/lib/educacion";
 import SimilarCareer from "@/components/SimilarCareer.astro";
 import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
@@ -22,7 +23,10 @@ import KeyValueList from "@/components/KeyValueList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 
 export async function getStaticPaths() {
-  const entries = await getCollection("educacion", ({ data }) => !data.draft);
+  const entries = await getCollection(
+    "educacion",
+    ({ data }) => showDrafts || !data.draft,
+  );
   return entries.map((entry) => ({
     params: { slug: entry.id },
     props: { entry },

@@ -6,9 +6,12 @@ import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import SearchModal from "@/components/search/SearchModal.astro";
 import PageHeader from "@/components/PageHeader.astro";
-import { degreeTypeLabels, modalityLabels } from "@/lib/educacion";
+import { degreeTypeLabels, modalityLabels, showDrafts } from "@/lib/educacion";
 
-const entries = await getCollection("educacion", ({ data }) => !data.draft);
+const entries = await getCollection(
+  "educacion",
+  ({ data }) => showDrafts || !data.draft,
+);
 const institutions = await getCollection("institutions");
 const instMap = new Map(institutions.map((i) => [i.id, i.data]));
 

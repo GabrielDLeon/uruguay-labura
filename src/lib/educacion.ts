@@ -1,3 +1,5 @@
+export const showDrafts = import.meta.env.SHOW_DRAFTS === "true";
+
 export const degreeTypeLabels: Record<string, string> = {
   maestria: "Maestria",
   especializacion: "Especializacion",
@@ -15,7 +17,7 @@ export const shiftLabels: Record<string, string> = {
   day: "Diurno",
   night: "Nocturno",
   both: "Ambos",
-}
+};
 
 export const modalityLabels: Record<string, string> = {
   presencial: "Presencial",
@@ -49,9 +51,10 @@ const degreeTypeGroupMap: Record<string, { group: string; filled: number }> = {
   posdoctorado: { group: "posgrado", filled: 4 },
 };
 
-export function getDegreeTypeBarInfo(
-  degreeType: string,
-): { group: string; filled: number } {
+export function getDegreeTypeBarInfo(degreeType: string): {
+  group: string;
+  filled: number;
+} {
   return degreeTypeGroupMap[degreeType] ?? { group: "diplomado", filled: 1 };
 }
 

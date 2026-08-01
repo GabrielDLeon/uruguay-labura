@@ -6,6 +6,7 @@ import { Icon } from "astro-icon/components";
 import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import { institutionTypeLabels } from "@/lib/institution";
+import { showDrafts } from "@/lib/educacion";
 import UruguayMap from "@/components/UruguayMap.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import { locationsToIds } from "@/lib/departments";
@@ -30,8 +31,9 @@ export async function getStaticPaths() {
 const { entry, otherInstitutions } = Astro.props;
 const { Content } = await render(entry);
 
-const programs = await getCollection("educacion", ({ data }) =>
-  Boolean(data.institution === entry.id && !data.draft),
+const programs = await getCollection(
+  "educacion",
+  ({ data }) => data.institution === entry.id && (showDrafts || !data.draft),
 );
 const hasCareers = programs.length > 0;
 ---
