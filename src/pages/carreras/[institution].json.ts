@@ -29,7 +29,9 @@ export async function GET({ params }: APIContext) {
   const careers = await getCollection(
     "educacion",
     ({ data }) =>
-      data.institution === institution && (showDrafts || !data.draft),
+      data.institution === institution &&
+      (showDrafts || !data.draft) &&
+      data.listable,
   );
 
   const payload: CareersIndexPayload = {

@@ -10,7 +10,7 @@ import { degreeTypeLabels, modalityLabels, showDrafts } from "@/lib/educacion";
 
 const entries = await getCollection(
   "educacion",
-  ({ data }) => showDrafts || !data.draft,
+  ({ data }) => (showDrafts || !data.draft) && data.listable,
 );
 const institutions = await getCollection("institutions");
 const instMap = new Map(institutions.map((i) => [i.id, i.data]));
