@@ -6,6 +6,7 @@ import PageHeader from "@/components/PageHeader.astro";
 import HomeStats from "@/components/HomeStats.astro";
 import ClosingSoon from "@/components/ClosingSoon.astro";
 import DashboardSection from "@/components/dashboard/DashboardSection.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
 import type { JobsDataset } from "@/types/jobs";
 import jobsData from "@/data/jobs.generated.json";
 
@@ -17,6 +18,12 @@ const dashboard = dataset.dashboard;
   title="Empleos y educación en Uruguay"
   description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay."
 >
+  <PagefindIndex
+    title="Uruguay Labura — Empleos y educación en Uruguay"
+    description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay."
+    kind="pagina"
+  />
+
   <Block>
     <PageHeader
       title="Uruguay Labura"

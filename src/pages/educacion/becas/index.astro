@@ -5,6 +5,7 @@ import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import PageHeader from "@/components/PageHeader.astro";
 import ScholarshipCard from "@/components/ScholarshipCard.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
 
 const entries = await getCollection(
   "becas",
@@ -18,6 +19,12 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
   title="Becas en Uruguay"
   description="Guía de becas disponibles en Uruguay para estudiantes nacionales y extranjeros. Becas estatales, privadas e internacionales."
 >
+  <PagefindIndex
+    title="Becas en Uruguay"
+    description="Guía de becas disponibles en Uruguay para estudiantes nacionales y extranjeros. Becas estatales, privadas e internacionales."
+    kind="pagina"
+  />
+
   <Block>
     <PageHeader
       title="Becas en Uruguay"

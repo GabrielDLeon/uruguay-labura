@@ -123,7 +123,8 @@ body {
 
 #search-results [role="option"].active .badge--carrera,
 #search-results [role="option"].active .badge--institucion,
-#search-results [role="option"].active .badge--beca {
+#search-results [role="option"].active .badge--beca,
+#search-results [role="option"].active .badge--pagina {
   opacity: 1;
 }
 
@@ -131,6 +132,7 @@ body {
 .badge--carrera,
 .badge--institucion,
 .badge--beca,
+.badge--pagina,
 .badge[data-variant="success"] {
   --badge-tint: var(--color-blue-600);
   --badge-fg: var(--color-blue-700);
@@ -141,7 +143,8 @@ body {
 
 .badge--carrera,
 .badge--institucion,
-.badge--beca {
+.badge--beca,
+.badge--pagina {
   border-radius: 9999px;
 }
 
@@ -153,6 +156,11 @@ body {
 .badge--beca {
   --badge-tint: var(--color-violet-600);
   --badge-fg: var(--color-violet-700);
+}
+
+.badge--pagina {
+  --badge-tint: var(--color-orange-600);
+  --badge-fg: var(--color-orange-700);
 }
 
 .badge[data-variant="success"] {
@@ -175,8 +183,12 @@ body {
   --badge-fg: var(--color-violet-300);
 }
 
+.dark .badge--pagina {
+  --badge-tint: var(--color-orange-400);
+  --badge-fg: var(--color-orange-300);
+}
+
 .dark .badge[data-variant="success"] {
   --badge-tint: var(--color-green-400);
   --badge-fg: var(--color-green-300);
 }
-

@@ -5,6 +5,7 @@ import calendarEnd from "@iconify-icons/mdi/calendar-end.js";
 import calendarStart from "@iconify-icons/mdi/calendar-start.js";
 import check from "@iconify-icons/mdi/check.js";
 import clockOutline from "@iconify-icons/mdi/clock-outline.js";
+import compassOutline from "@iconify-icons/mdi/compass-outline.js";
 import creditCardOutline from "@iconify-icons/mdi/credit-card-outline.js";
 import domain from "@iconify-icons/mdi/domain.js";
 import emailOutline from "@iconify-icons/mdi/email-outline.js";
@@ -36,6 +37,7 @@ export const appIcons = {
   institution: domain,
   jobsCount: formatListBulleted,
   openingDate: calendarStart,
+  page: compassOutline,
   school: schoolOutline,
   scholarship: handCoinOutline,
   search: magnify,

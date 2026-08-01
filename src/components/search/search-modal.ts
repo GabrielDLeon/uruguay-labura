@@ -1,40 +1,65 @@
-import { appIcons, iconToSvg } from "@/lib/icons"
+import { appIcons, iconToSvg } from "@/lib/icons";
+
+// Institution logos keyed by institution slug. Logo filenames match the
+// institution slugs (e.g. ort-logo.jpg -> "ort"), so we can build the map
+// from the assets directory at build time.
+const institutionLogoUrls = import.meta.glob<string>("/src/assets/*-logo.*", {
+  eager: true,
+  import: "default",
+  query: "?url",
+});
+
+const INSTITUTION_LOGO_BY_SLUG: Record<string, string> = {};
+for (const [path, url] of Object.entries(institutionLogoUrls)) {
+  const slug = path.match(/([^/]+)-logo\.\w+$/)?.[1];
+  if (slug) INSTITUTION_LOGO_BY_SLUG[slug] = url;
+}
+
+function getInstitutionLogo(slug: string | undefined): string | undefined {
+  return slug ? INSTITUTION_LOGO_BY_SLUG[slug] : undefined;
+}
 
 // Pagefind JS API types (generated at build time)
 interface PagefindResultData {
-  url: string
+  url: string;
   meta: {
-    title?: string
-    degreeType?: string
-    modality?: string
-    kind?: string
-    [key: string]: string | undefined
-  }
-  plain_excerpt: string
-  excerpt: string
+    title?: string;
+    degreeType?: string;
+    modality?: string;
+    kind?: string;
+    [key: string]: string | undefined;
+  };
+  plain_excerpt: string;
+  excerpt: string;
 }
 
 interface PagefindResult {
-  id: string
-  data: () => Promise<PagefindResultData>
+  id: string;
+  data: () => Promise<PagefindResultData>;
 }
 
 interface PagefindSearchResponse {
-  results: PagefindResult[]
+  results: PagefindResult[];
 }
 
 interface PagefindAPI {
-  search: (query: string) => Promise<PagefindSearchResponse>
+  search: (query: string) => Promise<PagefindSearchResponse>;
 }
 
-type ResultKind = "carrera" | "institucion" | "beca"
+type ResultKind = "carrera" | "institucion" | "beca" | "pagina";
 
-const KIND_ORDER: ResultKind[] = ["institucion", "beca", "carrera"]
+const KIND_ORDER: ResultKind[] = ["pagina", "institucion", "beca", "carrera"];
 
 const KIND_CONFIG: Record<
   ResultKind,
   { icon: string; label: string; groupLabel: string; badge: string }
 > = {
+  pagina: {
+    icon: iconToSvg(appIcons.page),
+    label: "Sección",
+    groupLabel: "Secciones",
+    badge: "badge--pagina",
+  },
   carrera: {
     icon: iconToSvg(appIcons.school),
     label: "Carrera",
@@ -53,21 +78,22 @@ const KIND_CONFIG: Record<
     groupLabel: "Becas",
     badge: "badge--beca",
   },
-}
+};
 
 function getKind(meta: PagefindResultData["meta"]): ResultKind {
-  if (meta.kind === "carrera") return "carrera"
-  if (meta.kind === "beca") return "beca"
-  return "institucion"
+  if (meta.kind === "pagina") return "pagina";
+  if (meta.kind === "carrera") return "carrera";
+  if (meta.kind === "beca") return "beca";
+  return "institucion";
 }
 
-const RESULT_LIMIT = 8
-const DESCRIPTION_MAX = 200
+const RESULT_LIMIT = 8;
+const DESCRIPTION_MAX = 200;
 
 function escapeHtml(text: string): string {
-  const div = document.createElement("div")
-  div.textContent = text
-  return div.innerHTML
+  const div = document.createElement("div");
+  div.textContent = text;
+  return div.innerHTML;
 }
 
 function escapeAttribute(text: string): string {
@@ -76,46 +102,46 @@ function escapeAttribute(text: string): string {
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#39;")
     .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
+    .replace(/>/g, "&gt;");
 }
 
 function debounce<T extends (...args: string[]) => void>(fn: T, ms: number) {
-  let timeout: ReturnType<typeof setTimeout>
+  let timeout: ReturnType<typeof setTimeout>;
   return (...args: Parameters<T>) => {
-    clearTimeout(timeout)
-    timeout = setTimeout(() => fn(...args), ms)
-  }
+    clearTimeout(timeout);
+    timeout = setTimeout(() => fn(...args), ms);
+  };
 }
 
 function createSearchModal() {
-  let pagefind: PagefindAPI | null = null
-  let activeIndex = -1
-  let searchCounter = 0
-  let abortController: AbortController | null = null
+  let pagefind: PagefindAPI | null = null;
+  let activeIndex = -1;
+  let searchCounter = 0;
+  let abortController: AbortController | null = null;
 
-  const trigger = document.getElementById("search-trigger")
-  const dialog = document.getElementById("search-dialog")
-  const closeBtn = document.getElementById("search-dialog-close")
-  const inputEl = document.getElementById("search-dialog-input")
-  const menuEl = document.getElementById("search-results")
+  const trigger = document.getElementById("search-trigger");
+  const dialog = document.getElementById("search-dialog");
+  const closeBtn = document.getElementById("search-dialog-close");
+  const inputEl = document.getElementById("search-dialog-input");
+  const menuEl = document.getElementById("search-results");
 
   if (!trigger || !dialog || !closeBtn || !inputEl || !menuEl) {
-    console.warn("[SearchModal] Missing DOM elements")
-    return { destroy: () => {} }
+    console.warn("[SearchModal] Missing DOM elements");
+    return { destroy: () => {} };
   }
 
-  const input = inputEl as HTMLInputElement
-  const menu = menuEl
+  const input = inputEl as HTMLInputElement;
+  const menu = menuEl;
   const dialogEl = dialog as HTMLElement & {
-    showPopover: () => void
-    hidePopover: () => void
-  }
+    showPopover: () => void;
+    hidePopover: () => void;
+  };
 
-  const getItems = () => menu.querySelectorAll<HTMLElement>('[role="option"]')
+  const getItems = () => menu.querySelectorAll<HTMLElement>('[role="option"]');
 
   function showEmpty(message: string) {
-    menu.innerHTML = ""
-    menu.setAttribute("data-empty", message)
+    menu.innerHTML = "";
+    menu.setAttribute("data-empty", message);
   }
 
   function renderResultItem(
@@ -123,14 +149,28 @@ function createSearchModal() {
     kind: ResultKind,
     index: number,
   ): string {
-    const cfg = KIND_CONFIG[kind]
-    const match = result.url.match(/\/educacion\/(?:carreras\/)?([^/?#]+)/)
+    const cfg = KIND_CONFIG[kind];
+    const match = result.url.match(/\/educacion\/(?:carreras\/)?([^/?#]+)/);
     const url =
       kind === "carrera" && match
         ? `/educacion/carreras/${match[1]}`
-        : result.url
+        : result.url;
     const description =
-      result.meta.description || result.plain_excerpt || result.excerpt || ""
+      result.meta.description || result.plain_excerpt || result.excerpt || "";
+
+    const institutionLogo =
+      kind === "institucion"
+        ? getInstitutionLogo(
+            result.url.match(/\/educacion\/instituciones\/([^/?#]+)/)?.[1],
+          )
+        : undefined;
+
+    const leading = institutionLogo
+      ? `<img src="${institutionLogo}" alt="${escapeAttribute(result.meta.title || "")}" class="size-9 shrink-0 rounded-lg object-contain" loading="lazy" />`
+      : `<div class="flex size-9 shrink-0 items-center justify-center rounded-lg bg-[var(--muted)] text-muted-foreground">
+          ${cfg.icon}
+        </div>`;
+
     return `
     <a
       role="option"
@@ -139,9 +179,7 @@ function createSearchModal() {
       href="${escapeAttribute(url)}"
       class="flex items-start gap-3 px-3 py-2.5 rounded-xl transition-colors hover:bg-[var(--accent)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--ring)]"
     >
-      <div class="flex size-9 shrink-0 items-center justify-center rounded-lg bg-[var(--muted)] text-muted-foreground">
-        ${cfg.icon}
-      </div>
+      ${leading}
       <div class="min-w-0 flex-1">
         <div class="flex items-center gap-2">
           <span class="text-sm font-medium text-foreground leading-snug">${escapeHtml(result.meta.title || result.url)}</span>
@@ -154,234 +192,243 @@ function createSearchModal() {
         }
       </div>
     </a>
-  `
+  `;
   }
 
   function renderResults(results: PagefindResultData[]) {
-    activeIndex = -1
-    menu.removeAttribute("data-empty")
+    activeIndex = -1;
+    menu.removeAttribute("data-empty");
 
-    const byKind = new Map<ResultKind, PagefindResultData[]>()
+    const byKind = new Map<ResultKind, PagefindResultData[]>();
     for (const result of results) {
-      const kind = getKind(result.meta)
-      const group = byKind.get(kind) ?? []
-      group.push(result)
-      byKind.set(kind, group)
+      const kind = getKind(result.meta);
+      const group = byKind.get(kind) ?? [];
+      group.push(result);
+      byKind.set(kind, group);
     }
 
-    let remaining = RESULT_LIMIT
-    let itemIndex = 0
-    const groupsHtml: string[] = []
+    let remaining = RESULT_LIMIT;
+    let itemIndex = 0;
+    const groupsHtml: string[] = [];
 
     for (const kind of KIND_ORDER) {
-      const items = byKind.get(kind)
-      if (!items || items.length === 0) continue
+      const items = byKind.get(kind);
+      if (!items || items.length === 0) continue;
 
-      const slice = items.slice(0, remaining)
-      remaining -= slice.length
+      const slice = items.slice(0, remaining);
+      remaining -= slice.length;
 
       groupsHtml.push(
         `<div class="px-3 pt-3 pb-1 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">${KIND_CONFIG[kind].groupLabel}</div>`,
         ...slice.map((result) => renderResultItem(result, kind, itemIndex++)),
-      )
+      );
     }
 
-    menu.innerHTML = groupsHtml.join("")
-    input.removeAttribute("aria-activedescendant")
+    menu.innerHTML = groupsHtml.join("");
+    input.removeAttribute("aria-activedescendant");
   }
 
   async function doSearch(query: string) {
-    const currentId = ++searchCounter
-    abortController?.abort()
-    abortController = new AbortController()
-    const signal = abortController.signal
+    const currentId = ++searchCounter;
+    abortController?.abort();
+    abortController = new AbortController();
+    const signal = abortController.signal;
 
     if (!query.trim()) {
-      if (currentId !== searchCounter) return
-      showEmpty("Escribe para buscar...")
-      return
+      if (currentId !== searchCounter) return;
+      showEmpty("Escribe para buscar...");
+      return;
     }
 
     if (!pagefind) {
       try {
-        const pagefindUrl = `${import.meta.env.BASE_URL}pagefind/pagefind.js`
-        const mod = await import(pagefindUrl)
-        pagefind = mod as PagefindAPI
+        const pagefindUrl = `${import.meta.env.BASE_URL}pagefind/pagefind.js`;
+        const mod = await import(pagefindUrl);
+        pagefind = mod as PagefindAPI;
       } catch (err) {
-        console.error("[SearchModal] Failed to load Pagefind:", err)
-        if (currentId !== searchCounter) return
-        showEmpty("Error al cargar el buscador")
-        return
+        console.error("[SearchModal] Failed to load Pagefind:", err);
+        if (currentId !== searchCounter) return;
+        showEmpty("Error al cargar el buscador");
+        return;
       }
     }
 
-    if (signal.aborted || currentId !== searchCounter) return
+    if (signal.aborted || currentId !== searchCounter) return;
 
     try {
-      const result = await pagefind.search(query)
-      if (signal.aborted || currentId !== searchCounter) return
+      const result = await pagefind.search(query);
+      if (signal.aborted || currentId !== searchCounter) return;
 
       if (result.results.length === 0) {
-        showEmpty("Sin resultados")
-        return
+        showEmpty("Sin resultados");
+        return;
       }
 
       const data = await Promise.all(
         result.results.slice(0, RESULT_LIMIT).map((r) => r.data()),
-      )
-      if (signal.aborted || currentId !== searchCounter) return
+      );
+      if (signal.aborted || currentId !== searchCounter) return;
 
-      renderResults(data)
+      renderResults(data);
     } catch {
-      if (currentId !== searchCounter) return
-      showEmpty("Error al buscar")
+      if (currentId !== searchCounter) return;
+      showEmpty("Error al buscar");
     }
   }
 
-  const debouncedSearch = debounce((query: string) => doSearch(query), 200)
+  const debouncedSearch = debounce((query: string) => doSearch(query), 200);
 
   function updateActive() {
-    const items = getItems()
+    const items = getItems();
     items.forEach((item, i) => {
       if (i === activeIndex) {
-        item.classList.add("active")
-        item.setAttribute("aria-selected", "true")
-        item.scrollIntoView({ block: "nearest" })
+        item.classList.add("active");
+        item.setAttribute("aria-selected", "true");
+        item.scrollIntoView({ block: "nearest" });
       } else {
-        item.classList.remove("active")
-        item.removeAttribute("aria-selected")
+        item.classList.remove("active");
+        item.removeAttribute("aria-selected");
       }
-    })
+    });
 
     if (activeIndex >= 0 && items[activeIndex]) {
-      input.setAttribute("aria-activedescendant", items[activeIndex].id)
+      input.setAttribute("aria-activedescendant", items[activeIndex].id);
     } else {
-      input.removeAttribute("aria-activedescendant")
+      input.removeAttribute("aria-activedescendant");
     }
   }
 
   function navigate(direction: "down" | "up") {
-    const items = getItems()
-    if (items.length === 0) return
+    const items = getItems();
+    if (items.length === 0) return;
     if (direction === "down") {
-      activeIndex = activeIndex < items.length - 1 ? activeIndex + 1 : 0
+      activeIndex = activeIndex < items.length - 1 ? activeIndex + 1 : 0;
     } else {
-      activeIndex = activeIndex > 0 ? activeIndex - 1 : items.length - 1
+      activeIndex = activeIndex > 0 ? activeIndex - 1 : items.length - 1;
     }
-    updateActive()
+    updateActive();
   }
 
   function onDialogToggle(e: Event) {
-    const evt = e as ToggleEvent
+    const evt = e as ToggleEvent;
     if (evt.newState === "open") {
-      input.value = ""
-      activeIndex = -1
-      showEmpty("Escribe para buscar...")
-      searchCounter++
-      input.setAttribute("aria-expanded", "true")
-      requestAnimationFrame(() => input.focus())
+      input.value = "";
+      activeIndex = -1;
+      showEmpty("Escribe para buscar...");
+      searchCounter++;
+      input.setAttribute("aria-expanded", "true");
+      requestAnimationFrame(() => input.focus());
     } else {
-      input.setAttribute("aria-expanded", "false")
-      input.removeAttribute("aria-activedescendant")
-      if (dialogEl.contains(document.activeElement)) trigger!.focus()
+      input.setAttribute("aria-expanded", "false");
+      input.removeAttribute("aria-activedescendant");
+      if (dialogEl.contains(document.activeElement)) trigger!.focus();
     }
   }
 
   function onInput() {
-    activeIndex = -1
-    debouncedSearch(input.value)
+    activeIndex = -1;
+    debouncedSearch(input.value);
   }
 
   function onKeydown(e: KeyboardEvent) {
-    const items = getItems()
+    const items = getItems();
 
     if (e.key === "Tab") {
       if (e.shiftKey && document.activeElement === input) {
-        e.preventDefault()
-        closeBtn!.focus()
+        e.preventDefault();
+        closeBtn!.focus();
       } else if (!e.shiftKey && document.activeElement === closeBtn) {
-        e.preventDefault()
-        input.focus()
+        e.preventDefault();
+        input.focus();
       }
-      return
+      return;
     }
 
     if (e.key === "ArrowDown") {
-      e.preventDefault()
-      navigate("down")
+      e.preventDefault();
+      navigate("down");
     } else if (e.key === "ArrowUp") {
-      e.preventDefault()
-      navigate("up")
+      e.preventDefault();
+      navigate("up");
     } else if (e.key === "Enter" && activeIndex >= 0) {
-      e.preventDefault()
-      const item = items[activeIndex]
-      if (item) item.click()
+      e.preventDefault();
+      const item = items[activeIndex];
+      if (item) item.click();
     } else if (e.key === "Escape") {
-      dialogEl.hidePopover()
+      dialogEl.hidePopover();
     }
   }
 
   function onMenuClick(e: MouseEvent) {
-    const target = e.target as HTMLElement
+    const target = e.target as HTMLElement;
     if (target.closest('[role="option"]')) {
-      dialogEl.hidePopover()
+      dialogEl.hidePopover();
+    }
+  }
+
+  function onDialogClick(e: MouseEvent) {
+    const target = e.target as HTMLElement;
+    if (target.closest("[data-close-on-click]")) {
+      dialogEl.hidePopover();
     }
   }
 
   function onMenuMouseMove(e: MouseEvent) {
-    const target = e.target as HTMLElement
-    const item = target.closest<HTMLElement>('[role="option"]')
-    if (!item) return
-    const idx = Array.from(getItems()).indexOf(item)
+    const target = e.target as HTMLElement;
+    const item = target.closest<HTMLElement>('[role="option"]');
+    if (!item) return;
+    const idx = Array.from(getItems()).indexOf(item);
     if (idx !== activeIndex) {
-      activeIndex = idx
-      updateActive()
+      activeIndex = idx;
+      updateActive();
     }
   }
 
   function onGlobalKeydown(e: KeyboardEvent) {
     if ((e.metaKey || e.ctrlKey) && e.key === "k") {
-      e.preventDefault()
+      e.preventDefault();
       if (dialogEl.matches(":popover-open")) {
-        dialogEl.hidePopover()
+        dialogEl.hidePopover();
       } else {
-        dialogEl.showPopover()
+        dialogEl.showPopover();
       }
     }
   }
 
   function onTriggerClick() {
-    dialogEl.showPopover()
+    dialogEl.showPopover();
   }
 
   function onCloseClick() {
-    dialogEl.hidePopover()
+    dialogEl.hidePopover();
   }
 
-  trigger.addEventListener("click", onTriggerClick)
-  closeBtn.addEventListener("click", onCloseClick)
-  dialog.addEventListener("toggle", onDialogToggle)
-  dialog.addEventListener("keydown", onKeydown)
-  input.addEventListener("input", onInput)
-  menu.addEventListener("click", onMenuClick)
-  menu.addEventListener("mousemove", onMenuMouseMove)
-  document.addEventListener("keydown", onGlobalKeydown)
+  trigger.addEventListener("click", onTriggerClick);
+  closeBtn.addEventListener("click", onCloseClick);
+  dialog.addEventListener("toggle", onDialogToggle);
+  dialog.addEventListener("keydown", onKeydown);
+  input.addEventListener("input", onInput);
+  menu.addEventListener("click", onMenuClick);
+  dialog.addEventListener("click", onDialogClick);
+  menu.addEventListener("mousemove", onMenuMouseMove);
+  document.addEventListener("keydown", onGlobalKeydown);
 
   return {
     destroy: () => {
-      trigger.removeEventListener("click", onTriggerClick)
-      closeBtn.removeEventListener("click", onCloseClick)
-      dialog.removeEventListener("toggle", onDialogToggle)
-      dialog.removeEventListener("keydown", onKeydown)
-      input.removeEventListener("input", onInput)
-      menu.removeEventListener("click", onMenuClick)
-      menu.removeEventListener("mousemove", onMenuMouseMove)
-      document.removeEventListener("keydown", onGlobalKeydown)
-      abortController?.abort()
+      trigger.removeEventListener("click", onTriggerClick);
+      closeBtn.removeEventListener("click", onCloseClick);
+      dialog.removeEventListener("toggle", onDialogToggle);
+      dialog.removeEventListener("keydown", onKeydown);
+      input.removeEventListener("input", onInput);
+      menu.removeEventListener("click", onMenuClick);
+      dialog.removeEventListener("click", onDialogClick);
+      menu.removeEventListener("mousemove", onMenuMouseMove);
+      document.removeEventListener("keydown", onGlobalKeydown);
+      abortController?.abort();
     },
-  }
+  };
 }
 
 export function initSearchModal() {
-  return createSearchModal()
+  return createSearchModal();
 }

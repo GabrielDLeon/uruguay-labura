@@ -1,12 +1,12 @@
 ---
 interface Props {
-  title: string
-  description?: string | null
-  kind: "carrera" | "institucion" | "beca"
-  meta?: Record<string, string | undefined | null>
+  title: string;
+  description?: string | null;
+  kind: "carrera" | "institucion" | "beca" | "pagina";
+  meta?: Record<string, string | undefined | null>;
 }
 
-const { title, description, kind, meta } = Astro.props
+const { title, description, kind, meta } = Astro.props;
 ---
 
 <div data-pagefind-body class="sr-only">
@@ -15,7 +15,7 @@ const { title, description, kind, meta } = Astro.props
   <span data-pagefind-meta={`kind:${kind}`}></span>
   {
     Object.entries(meta ?? {}).map(([key, value]) =>
-      value ? <span data-pagefind-meta={`${key}:${value}`}></span> : null,
+      value ? <span data-pagefind-meta={`${key}:${value}`} /> : null,
     )
   }
 </div>

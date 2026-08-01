@@ -1,22 +1,26 @@
 ---
 import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
-import SearchModal from "@/components/search/SearchModal.astro";
 import PageHeader from "@/components/PageHeader.astro";
 import EducationTable from "@/components/careers/EducationTable";
+import PagefindIndex from "@/components/PagefindIndex.astro";
 ---
 
 <Layout
   title="Educación en Uruguay"
   description="Explora postgrados, maestrias, especializaciones y otras opciones de educacion superior en Uruguay."
 >
+  <PagefindIndex
+    title="Educación en Uruguay"
+    description="Postgrados, maestrías, especializaciones y otras opciones de formación superior en Uruguay."
+    kind="pagina"
+  />
+
   <Block>
     <PageHeader
       title="Educación en Uruguay"
       description="Recopilación de Postgrados, Maestrías, Especializaciones y otras opciones de formación superior disponibles en el país. Un único lugar para quienes buscan seguir creciendo profesionalmente."
     />
-
-    <SearchModal />
 
     <EducationTable client:visible />
   </Block>

@@ -3,12 +3,19 @@ import JobsBoard from "@/components/jobs/JobsBoard";
 import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import PageHeader from "@/components/PageHeader.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
 ---
 
 <Layout
   title="Llamados laborales en Uruguay"
   description="Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada."
 >
+  <PagefindIndex
+    title="Empleos en Uruguay"
+    description="Llamados laborales y concursos abiertos de Uruguay Concursa, con filtros y vista centralizada."
+    kind="pagina"
+  />
+
   <Block>
     <PageHeader title="Llamados laborales de Uruguay">
       El siguiente listado es una recopilación semanal de los concursos

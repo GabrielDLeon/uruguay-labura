@@ -1,8 +1,14 @@
 ---
-import { Icon } from "astro-icon/components"
+import { Icon } from "astro-icon/components";
+
+interface Props {
+  wrapperClass?: string;
+}
+
+const { wrapperClass = "mb-6" } = Astro.props;
 ---
 
-<div class="mb-6">
+<div class={wrapperClass}>
   <button
     type="button"
     class="flex h-9 w-full items-center gap-2 rounded-md border border-input bg-transparent px-3 py-1 text-left text-base text-muted-foreground shadow-xs outline-none transition-[color,box-shadow] md:text-sm dark:bg-input/30 cursor-pointer"
@@ -11,10 +17,10 @@ import { Icon } from "astro-icon/components"
     aria-controls="search-dialog"
   >
     <Icon name="mdi:magnify" class="size-4 shrink-0" />
-    <span>Buscar carreras e instituciones...</span>
-    <kbd
-      class="ml-auto hidden text-[10px] font-mono opacity-50 sm:inline"
-    >Ctrl K</kbd>
+    <span>Buscar en Uruguay Labura...</span>
+    <kbd class="ml-auto hidden text-[10px] font-mono opacity-50 sm:inline"
+      >Ctrl K</kbd
+    >
   </button>
 </div>
 
@@ -23,20 +29,22 @@ import { Icon } from "astro-icon/components"
   id="search-dialog"
   role="dialog"
   aria-modal="true"
-  aria-label="Buscar carreras e instituciones"
+  aria-label="Buscar en Uruguay Labura"
   class="mx-auto mt-[15vh] w-full max-w-xl rounded-2xl border border-[var(--border)] bg-[var(--background)] shadow-lg ring-1 ring-[var(--ring)] overflow-hidden"
 >
   <div class="flex flex-col">
-    <div class="flex items-center gap-3 border-b border-[var(--border)] px-4 py-3">
+    <div
+      class="flex items-center gap-3 border-b border-[var(--border)] px-4 py-3"
+    >
       <Icon name="mdi:magnify" class="size-5 shrink-0 text-muted-foreground" />
       <input
         type="search"
         role="combobox"
-        aria-label="Buscar carreras e instituciones"
+        aria-label="Buscar en Uruguay Labura"
         aria-expanded="false"
         aria-controls="search-results"
         aria-autocomplete="list"
-        placeholder="Buscar carreras e instituciones..."
+        placeholder="Buscar en Uruguay Labura..."
         id="search-dialog-input"
         class="flex-1 bg-transparent text-sm text-foreground placeholder:text-muted-foreground outline-none border-none"
       />
@@ -50,15 +58,57 @@ import { Icon } from "astro-icon/components"
       </button>
     </div>
     <div
+      class="flex flex-wrap items-center gap-1.5 border-b border-[var(--border)] px-4 py-2.5"
+    >
+      <span
+        class="mr-1 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground"
+      >
+        Secciones
+      </span>
+      <a
+        href="/educacion"
+        data-close-on-click
+        class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
+      >
+        <Icon name="mdi:school-outline" class="size-3.5" />
+        Educación
+      </a>
+      <a
+        href="/educacion/instituciones"
+        data-close-on-click
+        class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
+      >
+        <Icon name="mdi:domain" class="size-3.5" />
+        Instituciones
+      </a>
+      <a
+        href="/educacion/becas"
+        data-close-on-click
+        class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
+      >
+        <Icon name="mdi:hand-coin-outline" class="size-3.5" />
+        Becas
+      </a>
+      <a
+        href="/empleos"
+        data-close-on-click
+        class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
+      >
+        <Icon name="mdi:briefcase-outline" class="size-3.5" />
+        Empleos
+      </a>
+    </div>
+    <div
       role="listbox"
       id="search-results"
       aria-label="Resultados"
       class="max-h-[min(60vh,30rem)] overflow-y-auto p-2 empty:block"
-    ></div>
+    >
+    </div>
   </div>
 </div>
 
 <script>
-  import { initSearchModal } from "./search-modal"
-  initSearchModal()
+  import { initSearchModal } from "./search-modal";
+  initSearchModal();
 </script>
