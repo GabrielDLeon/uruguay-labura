@@ -66,6 +66,10 @@ const detailItems = [
     label: "Dedicación semanal",
     value: entry.data.weeklyHours,
   },
+  {
+    label: "Turno",
+    value: shiftLabels[entry.data.shift] ?? entry.data.shift,
+  },
   { label: "Créditos", value: entry.data.credits },
   { label: "Costo", value: entry.data.cost },
   { label: "Idioma", value: entry.data.language },
@@ -170,12 +174,6 @@ const detailItems = [
               value={modalityLabels[entry.data.modality] ?? entry.data.modality}
               total={3}
               filled={modalityBarFilled[entry.data.modality] ?? 1}
-            />
-            <BarIndicator
-              label="Turno"
-              value={shiftLabels[entry.data.shift] ?? entry.data.shift}
-              total={3}
-              filled={{ day: 1, night: 2, both: 3 }[entry.data.shift] ?? 1}
             />
           </section>
           <AsideSection title="Detalles">
@@ -308,7 +306,7 @@ const detailItems = [
                     modalityLabels[similar.data.modality] ??
                     similar.data.modality
                   }
-                  url={`/educacion/${similar.id}`}
+                  url={`/educacion/carreras/${similar.id}`}
                 />
               );
             })}

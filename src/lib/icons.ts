@@ -9,6 +9,7 @@ import creditCardOutline from "@iconify-icons/mdi/credit-card-outline.js";
 import domain from "@iconify-icons/mdi/domain.js";
 import emailOutline from "@iconify-icons/mdi/email-outline.js";
 import formatListBulleted from "@iconify-icons/mdi/format-list-bulleted.js";
+import handCoinOutline from "@iconify-icons/mdi/hand-coin-outline.js";
 import heart from "@iconify-icons/mdi/heart.js";
 import heartOutline from "@iconify-icons/mdi/heart-outline.js";
 import informationOutline from "@iconify-icons/mdi/information-outline.js";
@@ -36,6 +37,7 @@ export const appIcons = {
   jobsCount: formatListBulleted,
   openingDate: calendarStart,
   school: schoolOutline,
+  scholarship: handCoinOutline,
   search: magnify,
   share: shareVariant,
   status: informationOutline,
