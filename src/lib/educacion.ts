@@ -60,9 +60,19 @@ export function getDegreeTypeBarInfo(degreeType: string): {
 
 import { SOLIDARITY_INSTITUTIONS } from "@/config/financial";
 
+export function parseDurationYears(duration: string | undefined): number {
+  if (!duration) return Number.NaN;
+  const meses = /(\d+)\s+meses?/.exec(duration);
+  if (meses) return Number(meses[1]) / 12;
+  const años = /(\d+)\s+años?/.exec(duration);
+  if (años) return Number(años[1]);
+  const lead = /^\d+/.exec(duration);
+  return lead ? Number(lead[0]) : Number.NaN;
+}
+
 export function getSolidarityFundInfo(
   institutionSlug: string | undefined,
-  duration: string,
+  duration: string | undefined,
 ): { applies: boolean; tier: "short" | "long" | null; additional: boolean } {
   if (!institutionSlug)
     return { applies: false, tier: null, additional: false };
@@ -71,7 +81,7 @@ export function getSolidarityFundInfo(
   const applies = SOLIDARITY_INSTITUTIONS.includes(slug);
   if (!applies) return { applies: false, tier: null, additional: false };
 
-  const years = parseInt(duration, 10);
+  const years = parseDurationYears(duration);
   const tier = Number.isNaN(years) || years < 4 ? "short" : "long";
   const additional = slug === "udelar" && !Number.isNaN(years) && years >= 5;
 

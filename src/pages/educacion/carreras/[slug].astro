@@ -61,7 +61,7 @@ const solidarityFund = getSolidarityFundInfo(
 
 const detailItems = [
   { label: "Área", value: entry.data.area },
-  { label: "Duración", value: entry.data.duration },
+  { label: "Duración", value: entry.data.duration ?? "-" },
   {
     label: "Dedicación semanal",
     value: entry.data.weeklyHours,

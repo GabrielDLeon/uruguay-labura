@@ -24,7 +24,7 @@ export interface EducationCareerRecord {
   area: string
   degreeType: string
   modality: string
-  duration: string
+  duration?: string
   cost: string
   institutionName: string
   institution: EducationCareerInstitution | null
