@@ -10,6 +10,8 @@ export const degreeTypeLabels: Record<string, string> = {
   ingenieria: "Ingenieria",
   licenciatura: "Licenciatura",
   tecnicatura: "Tecnicatura",
+  carrera: "Carrera",
+  ciclo: "Ciclo",
   otro: "Otro",
 };
 
@@ -36,6 +38,7 @@ export const degreeTypeGroupLabels: Record<string, string> = {
   tecnico: "Tecnico",
   grado: "Grado",
   posgrado: "Posgrado",
+  ciclo: "Ciclo",
 };
 
 const degreeTypeGroupMap: Record<string, { group: string; filled: number }> = {
@@ -45,6 +48,8 @@ const degreeTypeGroupMap: Record<string, { group: string; filled: number }> = {
   tecnologo: { group: "tecnico", filled: 2 },
   licenciatura: { group: "grado", filled: 3 },
   ingenieria: { group: "grado", filled: 3 },
+  carrera: { group: "grado", filled: 3 },
+  ciclo: { group: "ciclo", filled: 1 },
   especializacion: { group: "posgrado", filled: 4 },
   maestria: { group: "posgrado", filled: 4 },
   doctorado: { group: "posgrado", filled: 4 },

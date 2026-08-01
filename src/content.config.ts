@@ -52,6 +52,8 @@ export const educacionSchema = z.object({
     "tecnologo",
     "licenciatura",
     "tecnicatura",
+    "carrera",
+    "ciclo",
     "otro",
   ]),
   area: z.string().min(1),
@@ -72,6 +74,7 @@ export const educacionSchema = z.object({
   applicationDeadline: z.string().optional(),
   tags: z.array(z.string().min(1)).default([]),
   similar: z.array(z.string()).default([]),
+  listable: z.boolean().default(true),
   draft: z.boolean().default(false),
 });
 

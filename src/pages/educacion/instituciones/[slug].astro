@@ -33,7 +33,10 @@ const { Content } = await render(entry);
 
 const programs = await getCollection(
   "educacion",
-  ({ data }) => data.institution === entry.id && (showDrafts || !data.draft),
+  ({ data }) =>
+    data.institution === entry.id &&
+    (showDrafts || !data.draft) &&
+    data.listable,
 );
 const hasCareers = programs.length > 0;
 ---
