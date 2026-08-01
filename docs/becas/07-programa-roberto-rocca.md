@@ -12,19 +12,37 @@ Grupo Techint (Tenaris, Ternium, Techint Ingeniería y Construcción).
 
 ## Universidades participantes en Uruguay
 
-| Universidad | Carreras elegibles |
-|---|---|
-| **Universidad de la República (UDELAR)** | Ingeniería Industrial Mecánica, Eléctrica, Química, Civil, Naval |
-| **Universidad Católica del Uruguay (UCU)** | Ingeniería Industrial, Sistemas Eléctricos de Potencia |
-| **Universidad ORT Uruguay** | Ingeniería Electrónica, Sistemas |
-| **Universidad de Montevideo (UM)** | Ingeniería Industrial, Eléctrica |
+Según el sitio oficial (becas universitarias de grado para estudiantes iniciales):
+
+- Universidad de la República (UDELAR)
+- Universidad Católica del Uruguay (UCU)
+- Universidad de Montevideo (UM)
+- Universidad ORT Uruguay (ORT)
+- Universidad de la Empresa (UDE)
+
+## Carreras elegibles (Uruguay)
+
+Areas y disciplinas relacionadas con la **Ingeniería, Ciencias Económicas y Relaciones con el Exterior o Negocios con el Exterior**:
+
+- Ingeniería Civil, de Alimentos, de Producción, Eléctrica, en Computación, en Sistemas de Comunicación, Físico-Matemática, Industrial Mecánica, Naval, Química
+- Lic. en Computación
+- Lic. en Recursos Hídricos y Riego (RN-Salto)
+- Contador Público
+- Lic. en Administración
+- Economía
+- Relaciones Internacionales
+- Negocios Internacionales
+
+> La elegibilidad por carrera se marca manualmente en el frontmatter de cada carrera
+> con la tag `programa-roberto-rocca`; el matcher de becas la filtra por esa tag.
 
 ## Requisitos (grado)
-- Ser alumno regular de alguna de las carreras y universidades participantes.
-- Cursar penúltimo o último año de la carrera.
-- Hasta 22 años de edad (en algunas convocatorias).
-- Promedio mínimo destacado (ej. 7 en escuela media).
-- Ingresos familiares limitados según convocatoria.
+- Ser estudiante de **primer o tercer año** de las carreras y universidades listadas.
+- Hasta **23 años** de edad.
+- Ingresos mensuales del grupo familiar hasta 7 salarios mínimos.
+- Superar el proceso de selección (formulario online, pruebas aptitudinales, entrevista).
+
+La beca de grado es una anualidad de **U$S 2.500** durante un año, renovable durante toda la carrera.
 
 ## Requisitos (doctorado)
 - Título de grado en ingeniería o ciencias aplicadas.

@@ -21,6 +21,7 @@ import BarIndicator from "@/components/BarIndicator.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
+import { getMatchingBecas } from "@/lib/becas";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -50,9 +51,7 @@ const similarEntries = entry.data.similar
   .filter((e): e is NonNullable<typeof e> => e != null);
 
 const becas = await getCollection("becas", ({ data }) => !data.draft);
-const careerBecas = entry.data.becas
-  .map((slug) => becas.find((b) => b.id === slug))
-  .filter((b): b is NonNullable<typeof b> => b != null);
+const careerBecas = getMatchingBecas(entry.data, becas);
 
 const solidarityFund = getSolidarityFundInfo(
   entry.data.institution,

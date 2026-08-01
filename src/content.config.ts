@@ -62,7 +62,6 @@ export const educacionSchema = z.object({
   weeklyHours: z.string().min(1),
   duration: z.string().min(1),
   credits: z.number().int().nonnegative().optional(),
-  becas: z.array(z.string()).default([]),
   cost: z.string().min(1),
   language: z.string().min(1).default("Espanol"),
   website: z.url(),
