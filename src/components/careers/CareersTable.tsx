@@ -17,7 +17,7 @@ const columns: DataTableColumn<CareerIndexRecord>[] = [
     searchText: (career) => [career.title],
     render: (career) => (
       <a
-        href={`/educacion/${career.id}`}
+        href={`/educacion/carreras/${career.id}`}
         className="font-medium text-foreground hover:underline"
       >
         {career.title}
@@ -126,6 +126,7 @@ export default function CareersTable({ institution }: Props) {
       getRowId={(career) => career.id}
       noun="carreras"
       searchPlaceholder="Buscar por título o área"
+      itemsPerPage={10}
     />
   )
 }

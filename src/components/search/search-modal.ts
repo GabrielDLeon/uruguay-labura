@@ -27,22 +27,38 @@ interface PagefindAPI {
   search: (query: string) => Promise<PagefindSearchResponse>
 }
 
-type ResultKind = "carrera" | "institucion"
+type ResultKind = "carrera" | "institucion" | "beca"
+
+const KIND_ORDER: ResultKind[] = ["institucion", "beca", "carrera"]
 
 const KIND_CONFIG: Record<
   ResultKind,
-  { icon: string; label: string; badge: string }
+  { icon: string; label: string; groupLabel: string; badge: string }
 > = {
   carrera: {
     icon: iconToSvg(appIcons.school),
     label: "Carrera",
+    groupLabel: "Carreras",
     badge: "badge--carrera",
   },
   institucion: {
     icon: iconToSvg(appIcons.institution),
     label: "Institución",
+    groupLabel: "Instituciones",
     badge: "badge--institucion",
   },
+  beca: {
+    icon: iconToSvg(appIcons.scholarship),
+    label: "Beca",
+    groupLabel: "Becas",
+    badge: "badge--beca",
+  },
+}
+
+function getKind(meta: PagefindResultData["meta"]): ResultKind {
+  if (meta.kind === "carrera") return "carrera"
+  if (meta.kind === "beca") return "beca"
+  return "institucion"
 }
 
 const RESULT_LIMIT = 8
@@ -102,10 +118,17 @@ function createSearchModal() {
     menu.setAttribute("data-empty", message)
   }
 
-  function renderResultItem(result: PagefindResultData, index: number): string {
-    const kind: ResultKind =
-      result.meta.kind === "carrera" ? "carrera" : "institucion"
+  function renderResultItem(
+    result: PagefindResultData,
+    kind: ResultKind,
+    index: number,
+  ): string {
     const cfg = KIND_CONFIG[kind]
+    const match = result.url.match(/\/educacion\/(?:carreras\/)?([^/?#]+)/)
+    const url =
+      kind === "carrera" && match
+        ? `/educacion/carreras/${match[1]}`
+        : result.url
     const description =
       result.meta.description || result.plain_excerpt || result.excerpt || ""
     return `
@@ -113,7 +136,7 @@ function createSearchModal() {
       role="option"
       id="search-result-${index}"
       tabindex="-1"
-      href="${escapeAttribute(result.url)}"
+      href="${escapeAttribute(url)}"
       class="flex items-start gap-3 px-3 py-2.5 rounded-xl transition-colors hover:bg-[var(--accent)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--ring)]"
     >
       <div class="flex size-9 shrink-0 items-center justify-center rounded-lg bg-[var(--muted)] text-muted-foreground">
@@ -137,7 +160,33 @@ function createSearchModal() {
   function renderResults(results: PagefindResultData[]) {
     activeIndex = -1
     menu.removeAttribute("data-empty")
-    menu.innerHTML = results.map(renderResultItem).join("")
+
+    const byKind = new Map<ResultKind, PagefindResultData[]>()
+    for (const result of results) {
+      const kind = getKind(result.meta)
+      const group = byKind.get(kind) ?? []
+      group.push(result)
+      byKind.set(kind, group)
+    }
+
+    let remaining = RESULT_LIMIT
+    let itemIndex = 0
+    const groupsHtml: string[] = []
+
+    for (const kind of KIND_ORDER) {
+      const items = byKind.get(kind)
+      if (!items || items.length === 0) continue
+
+      const slice = items.slice(0, remaining)
+      remaining -= slice.length
+
+      groupsHtml.push(
+        `<div class="px-3 pt-3 pb-1 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">${KIND_CONFIG[kind].groupLabel}</div>`,
+        ...slice.map((result) => renderResultItem(result, kind, itemIndex++)),
+      )
+    }
+
+    menu.innerHTML = groupsHtml.join("")
     input.removeAttribute("aria-activedescendant")
   }
 

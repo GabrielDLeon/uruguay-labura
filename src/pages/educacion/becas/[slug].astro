@@ -6,6 +6,7 @@ import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -64,6 +65,16 @@ const detailItems = [
       </p>
     </div>
   </Block>
+
+  <PagefindIndex
+    title={entry.data.title}
+    description={entry.data.description}
+    kind="beca"
+    meta={{
+      institution: entry.data.institution,
+      type: entry.data.type,
+    }}
+  />
 
   <div data-pagefind-body>
     <div class="grid md:grid-cols-3">

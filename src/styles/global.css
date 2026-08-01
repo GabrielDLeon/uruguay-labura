@@ -122,13 +122,15 @@ body {
 }
 
 #search-results [role="option"].active .badge--carrera,
-#search-results [role="option"].active .badge--institucion {
+#search-results [role="option"].active .badge--institucion,
+#search-results [role="option"].active .badge--beca {
   opacity: 1;
 }
 
 /* Tinted badges (custom, not in Basecoat) */
 .badge--carrera,
 .badge--institucion,
+.badge--beca,
 .badge[data-variant="success"] {
   --badge-tint: var(--color-blue-600);
   --badge-fg: var(--color-blue-700);
@@ -138,13 +140,19 @@ body {
 }
 
 .badge--carrera,
-.badge--institucion {
+.badge--institucion,
+.badge--beca {
   border-radius: 9999px;
 }
 
 .badge--institucion {
   --badge-tint: var(--color-amber-600);
   --badge-fg: var(--color-amber-700);
+}
+
+.badge--beca {
+  --badge-tint: var(--color-violet-600);
+  --badge-fg: var(--color-violet-700);
 }
 
 .badge[data-variant="success"] {
@@ -160,6 +168,11 @@ body {
 .dark .badge--institucion {
   --badge-tint: var(--color-amber-400);
   --badge-fg: var(--color-amber-300);
+}
+
+.dark .badge--beca {
+  --badge-tint: var(--color-violet-400);
+  --badge-fg: var(--color-violet-300);
 }
 
 .dark .badge[data-variant="success"] {
