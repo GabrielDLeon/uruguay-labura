@@ -44,7 +44,7 @@ const institutionEntry = entry.data.institution
 
 const allEntries = await getCollection(
   "careers",
-  ({ data }) => import.meta.env.DEV || !data.draft,
+  ({ data }) => showDrafts || !data.draft,
 );
 const similarEntries = entry.data.similar
   .map((slug) => allEntries.find((e) => e.id === slug))
