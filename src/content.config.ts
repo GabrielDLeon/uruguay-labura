@@ -24,6 +24,8 @@ const institutionSchema = z.object({
   description: z.string().optional(),
   color: z.string().optional(),
   campuses: z.array(campusSchema).default([]),
+  createdAt: z.string().optional(),
+  updatedAt: z.string().optional(),
 });
 
 export type InstitutionEntry = z.infer<typeof institutionSchema>;
@@ -79,6 +81,8 @@ export const educacionSchema = z.object({
   listable: z.boolean().default(true),
   searchable: z.boolean().default(true),
   draft: z.boolean().default(false),
+  createdAt: z.string().optional(),
+  updatedAt: z.string().optional(),
 });
 
 export type EducacionEntry = z.infer<typeof educacionSchema>;
@@ -97,6 +101,8 @@ const becasSchema = z.object({
   website: z.url(),
   tags: z.array(z.string()).default([]),
   draft: z.boolean().default(false),
+  createdAt: z.string().optional(),
+  updatedAt: z.string().optional(),
 });
 
 export type BecasEntry = z.infer<typeof becasSchema>;
