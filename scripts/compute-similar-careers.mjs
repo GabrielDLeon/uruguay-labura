@@ -45,7 +45,7 @@ const DIR = join(process.cwd(), "src/content/careers");
 const APPLY = process.argv.includes("--apply");
 
 // ── Parámetros (ajustables) ────────────────────────────────────────────────
-const TOP_N = 3; // cuántas similares por carrera
+const TOP_N = 6; // máx. de similares por carrera (no fuerza a llenar; toma hasta N que pasen el filtro)
 const MIN_THRESHOLD = 2.4; // score mínimo para sugerir (≈ un tag compartido)
 
 // ── Normalización ──────────────────────────────────────────────────────────
