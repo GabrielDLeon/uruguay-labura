@@ -60,7 +60,7 @@ export const educacionSchema = z.object({
   modality: z.enum(["presencial", "virtual", "hibrido"]),
   shift: z.enum(["day", "night", "both"]),
   weeklyHours: z.string().min(1),
-  duration: z.string().min(1),
+  duration: z.string().min(1).optional(),
   credits: z.number().int().nonnegative().optional(),
   cost: z.string().min(1),
   language: z.string().min(1).default("Espanol"),

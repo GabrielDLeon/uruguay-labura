@@ -74,7 +74,7 @@ const columns: DataTableColumn<EducationCareerRecord>[] = [
     header: 'Duración',
     render: (entry) => (
       <span className="whitespace-nowrap text-muted-foreground">
-        {entry.duration}
+        {entry.duration ?? '-'}
       </span>
     ),
   },
