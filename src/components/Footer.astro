@@ -1,5 +1,5 @@
 ---
-import { Icon } from 'astro-icon/components'
+import { Icon } from "astro-icon/components";
 ---
 
 <footer
@@ -10,7 +10,9 @@ import { Icon } from 'astro-icon/components'
     <div class="grid grid-cols-1 gap-8 sm:grid-cols-3">
       <!-- Sobre -->
       <div class="max-w-xs">
-        <h3 class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground">
+        <h3
+          class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
+        >
           <Icon name="mdi:information-outline" size={18} aria-hidden="true" />
           Sobre
         </h3>
@@ -18,11 +20,20 @@ import { Icon } from 'astro-icon/components'
           Directorio de llamados laborales y educación en Uruguay con filtros
           simples y acceso rápido a cada oportunidad.
         </p>
+        <a
+          href="/acerca"
+          class="mt-3 inline-flex items-center gap-1.5 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
+        >
+          Acerca del proyecto
+          <Icon name="mdi:arrow-right" size={16} aria-hidden="true" />
+        </a>
       </div>
 
       <!-- Navegación -->
       <div>
-        <h3 class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground">
+        <h3
+          class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
+        >
           <Icon name="mdi:navigation" size={18} aria-hidden="true" />
           Navegación
         </h3>
@@ -56,20 +67,20 @@ import { Icon } from 'astro-icon/components'
             Instituciones
           </a>
           <a
-            href="https://www.uruguayconcursa.gub.uy"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/educacion/becas"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon name="mdi:open-in-new" size={16} aria-hidden="true" />
-            Uruguay Concursa
+            <Icon name="mdi:hand-coin-outline" size={16} aria-hidden="true" />
+            Becas
           </a>
         </nav>
       </div>
 
       <!-- Comunidad -->
       <div>
-        <h3 class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground">
+        <h3
+          class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
+        >
           <Icon name="mdi:share-variant" size={18} aria-hidden="true" />
           Comunidad
         </h3>
@@ -84,13 +95,17 @@ import { Icon } from 'astro-icon/components'
             GitHub
           </a>
           <a
-            href="https://twitter.com/uruguaylaburos"
+            href="https://github.com/GabrielDLeon/uruguay-labura/issues"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon name="mdi:twitter" size={16} aria-hidden="true" />
-            Twitter / X
+            <Icon
+              name="mdi:message-alert-outline"
+              size={16}
+              aria-hidden="true"
+            />
+            Reportar un problema
           </a>
         </nav>
       </div>
@@ -99,10 +114,12 @@ import { Icon } from 'astro-icon/components'
 
   <!-- Línea inferior full-width -->
   <div class="border-t border-[var(--color-border)]">
-    <div class="mx-auto w-full max-w-7xl px-4 py-4 text-xs text-muted-foreground sm:flex sm:items-center sm:justify-between sm:px-6">
+    <div
+      class="mx-auto w-full max-w-7xl px-4 py-4 text-xs text-muted-foreground sm:flex sm:items-center sm:justify-between sm:px-6"
+    >
       <p>Uruguay Labura. Proyecto en evolución.</p>
       <p>
-        Creado por{' '}
+        Creado por{" "}
         <a
           href="https://github.com/gabrieldleon"
           target="_blank"
