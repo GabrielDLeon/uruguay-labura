@@ -4,7 +4,7 @@ import CareersSkeleton from '@/components/careers/CareersSkeleton'
 import DataTable, {
   type DataTableColumn,
 } from '@/components/common/DataTable'
-import { degreeTypeLabels } from '@/lib/educacion'
+import { degreeTypeLabels } from '@/lib/careers'
 import type { CareerIndexRecord, CareersIndexPayload } from '@/types/careers'
 
 interface Props {

@@ -1,14 +1,14 @@
 import { getCollection } from "astro:content";
 import type { APIContext } from "astro";
 
-import { showDrafts } from "@/lib/educacion";
+import { showDrafts } from "@/lib/careers";
 import type { EducationCareersPayload } from "@/types/careers";
 
 export const prerender = true;
 
 export async function GET({}: APIContext) {
   const [careers, institutions] = await Promise.all([
-    getCollection("educacion", ({ data }) => (showDrafts || !data.draft) && data.listable),
+    getCollection("careers", ({ data }) => (showDrafts || !data.draft) && data.listable),
     getCollection("institutions"),
   ]);
 

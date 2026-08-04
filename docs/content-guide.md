@@ -103,9 +103,9 @@ becas:
 draft: false                            # opcional, default false
 ```
 
-## Colección becas
+## Colección scholarships
 
-Las becas se modelan como una colección independiente en `src/content/becas/`.
+Las becas se modelan como una colección independiente en `src/content/scholarships/`.
 
 Frontmatter de una beca:
 

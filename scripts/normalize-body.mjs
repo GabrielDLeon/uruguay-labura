@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Normalización del cuerpo de las carreras (src/content/educacion).
+ * Normalización del cuerpo de las carreras (src/content/careers).
  *
  * Alinea el cuerpo de los archivos MDX con el estándar documentado en
  * docs/content-guide.md (## Resumen / ## Ingreso / ## Plan de Estudio con
@@ -30,7 +30,7 @@ try {
   YAML = require("/home/gabriel/dev/uruguay-labura/node_modules/.pnpm/yaml@2.8.3/node_modules/yaml");
 }
 
-const DIR = join(process.cwd(), "src/content/educacion");
+const DIR = join(process.cwd(), "src/content/careers");
 const APPLY = process.argv.includes("--apply");
 
 // Orden canónico de los tabs en el cuerpo normalizado

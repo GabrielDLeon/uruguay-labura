@@ -1,7 +1,7 @@
 import { getCollection } from "astro:content";
 import type { APIContext } from "astro";
 
-import { showDrafts } from "@/lib/educacion";
+import { showDrafts } from "@/lib/careers";
 import type { CareersIndexPayload } from "@/types/careers";
 
 export const prerender = true;
@@ -9,7 +9,7 @@ export const prerender = true;
 export async function getStaticPaths() {
   const [institutions, allCareers] = await Promise.all([
     getCollection("institutions"),
-    getCollection("educacion"),
+    getCollection("careers"),
   ]);
 
   const institutionsWithCareers = new Set(
@@ -27,7 +27,7 @@ export async function GET({ params }: APIContext) {
   const institution = params.institution ?? "";
 
   const careers = await getCollection(
-    "educacion",
+    "careers",
     ({ data }) =>
       data.institution === institution &&
       (showDrafts || !data.draft) &&

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Normaliza el formato del campo `duration` en src/content/educacion.
+ * Normaliza el formato del campo `duration` en src/content/careers.
  *
  * Formato canónico:
  *  - "N años"  para duraciones enteras (p.ej. "5 años")
@@ -23,7 +23,7 @@
 import { readFileSync, writeFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 
-const DIR = join(process.cwd(), 'src/content/educacion')
+const DIR = join(process.cwd(), 'src/content/careers')
 const APPLY = process.argv.includes('--apply')
 
 function normalize(value) {
