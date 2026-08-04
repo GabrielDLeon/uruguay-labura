@@ -1,0 +1,116 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import { Icon } from "astro-icon/components";
+import PageHeader from "@/components/PageHeader.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
+---
+
+<Layout
+  title="Acerca de Uruguay Labura"
+  description="Conocé la historia, la motivación y las metas de Uruguay Labura: centralizar el acceso a empleos y educación en Uruguay."
+>
+  <PagefindIndex
+    title="Acerca de Uruguay Labura"
+    description="Historia, motivación y objetivos del proyecto Uruguay Labura: un directorio centralizado de llamados laborales y oportunidades educativas en Uruguay."
+    kind="pagina"
+  />
+
+  <Block>
+    <PageHeader title="Acerca de Uruguay Labura">
+      Una visión sobre por qué existe este proyecto, cómo funciona y hacia dónde
+      apunta.
+    </PageHeader>
+
+    <div
+      class="prose prose-base max-w-3xl text-foreground prose-strong:text-foreground"
+    >
+      <section class="mt-6">
+        <h2
+          class="mb-3 flex items-center gap-2 text-lg font-bold text-foreground"
+        >
+          <Icon name="mdi:lightbulb-on-outline" size={20} aria-hidden="true" />
+          Motivación
+        </h2>
+        <p>
+          Uruguay Labura nace de una necesidad personal: hacer más accesible la
+          búsqueda de oportunidades laborales y educativas en Uruguay. La página
+          de <strong>Uruguay Concursa</strong>, si bien es una herramienta
+          valiosa, presenta una interfaz que dificulta la navegación y la
+          comparación rápida de llamados. Este proyecto busca simplificar esa
+          experiencia, ofreciendo una vista centralizada, filtros intuitivos y
+          un diseño moderno que priorice al usuario.
+        </p>
+      </section>
+
+      <section class="mt-6">
+        <h2
+          class="mb-3 flex items-center gap-2 text-lg font-bold text-foreground"
+        >
+          <Icon name="mdi:compass-outline" size={20} aria-hidden="true" />
+          Qué encontrás acá
+        </h2>
+        <p>
+          Es un directorio de <strong>empleos</strong> y <strong
+            >educación</strong
+          > en Uruguay. A día de hoy reúne los llamados laborales de Uruguay Concursa
+          en una vista centralizada con filtros, y agrupa oportunidades de formación
+          superior — postgrados, maestrías, especializaciones e instancias académicas
+          — dispersas en decenas de sitios institucionales, para que cualquiera pueda
+          comparar y acceder a ellas sin recorrer la web institucional página por
+          página.
+        </p>
+        <p>
+          Los datos se actualizan de forma periódica y el proyecto crece de
+          manera progresiva, sumando nuevas fuentes y mejores herramientas a
+          medida que avanza.
+        </p>
+      </section>
+
+      <section class="mt-6">
+        <h2
+          class="mb-3 flex items-center gap-2 text-lg font-bold text-foreground"
+        >
+          <Icon name="mdi:map-marker-path" size={20} aria-hidden="true" />
+          Futuro y objetivos
+        </h2>
+        <p>
+          La idea de fondo es construir un <strong>punto de encuentro</strong> donde
+          cualquier persona pueda descubrir, comparar y acceder a oportunidades sin
+          fricción. El camino por delante incluye seguir ampliando el alcance de
+          las fuentes, mejorar aún más los filtros y la experiencia de búsqueda,
+          y consolidar la cobertura del ámbito educativo para que el acceso a la
+          información sea cada vez más completo.
+        </p>
+      </section>
+
+      <section class="mt-6">
+        <h2
+          class="mb-3 flex items-center gap-2 text-lg font-bold text-foreground"
+        >
+          <Icon name="mdi:hand-heart-outline" size={20} aria-hidden="true" />
+          Contribuí
+        </h2>
+        <p>
+          Este es un proyecto <strong>en evolución constante</strong>. Voy
+          incorporando mejoras de forma progresiva y estoy abierto a sugerencias
+          y contribuciones. Si querés sumarte, podés abrir un <strong
+            >PR en GitHub</strong
+          > — lo voy a recibir con gusto y lo voy a revisar con atención. Todo sea
+          por mejorar el acceso a la información en Uruguay.
+        </p>
+        <div class="mt-4">
+          <a
+            href="https://github.com/GabrielDLeon/uruguay-labura"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex shrink-0 items-center gap-2 rounded-lg border border-border bg-card px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-foreground hover:text-background"
+          >
+            <Icon name="mdi:github" size={18} aria-hidden="true" />
+            Ver el repositorio
+          </a>
+        </div>
+      </section>
+    </div>
+  </Block>
+</Layout>

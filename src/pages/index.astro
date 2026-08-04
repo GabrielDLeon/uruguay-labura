@@ -79,37 +79,31 @@ const dashboard = dataset.dashboard;
     {dashboard && <DashboardSection dashboard={dashboard} />}
 
     <section class="my-12">
-      <h2 class="text-xl font-bold text-foreground mb-4">Sobre el Proyecto</h2>
-      <div
-        class="prose prose-base max-w-2xl text-foreground prose-strong:text-foreground"
+      <a
+        href="/acerca"
+        class="group flex flex-col gap-3 rounded-lg border border-border bg-card p-6 transition-colors hover:border-accent sm:flex-row sm:items-center sm:justify-between"
       >
-        <p>
-          Uruguay Labura nace de una necesidad personal: hacer más accesible la
-          búsqueda de oportunidades laborales y educativas en Uruguay. La página
-          de <strong>Uruguay Concursa</strong>, si bien es una herramienta
-          valiosa, presenta una interfaz que dificulta la navegación y la
-          comparación rápida de llamados. Este proyecto busca simplificar esa
-          experiencia, ofreciendo una vista centralizada, filtros intuitivos y
-          un diseño moderno que priorice al usuario.
-        </p>
-        <p>
-          Con el tiempo, el proyecto se expandió al ámbito de la
-          <strong>educación</strong>. La información sobre postgrados,
-          maestrías, especializaciones y otras instancias de formación superior
-          se encuentra dispersa en decenas de sitios institucionales, lo que
-          hace difícil tener un panorama completo. La idea es construir un punto
-          de encuentro donde cualquier persona pueda descubrir, comparar y
-          acceder a estas oportunidades sin tener que recorrer la web
-          institucional una por una.
-        </p>
-        <p>
-          Este es un proyecto <strong>en evolución constante</strong>. Voy
-          incorporando mejoras de forma progresiva y estoy abierto a sugerencias
-          y contribuciones. Si alguien quiere sumarse, puede abrir un
-          <strong>PR en GitHub</strong> — lo voy a recibir con gusto y lo voy a revisar
-          con atención. Todo sea por mejorar el acceso a la información en Uruguay.
-        </p>
-      </div>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">
+            Sobre el Proyecto
+          </h2>
+          <p class="mt-1 max-w-2xl text-sm text-muted-foreground">
+            La historia, la motivación y las metas de Uruguay Labura: por qué
+            nace y hacia dónde apunta.
+          </p>
+        </div>
+        <span
+          class="inline-flex shrink-0 items-center gap-2 rounded-lg border border-border bg-card px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-foreground hover:text-background"
+          aria-hidden="true"
+        >
+          Conocer más
+          <Icon
+            name="mdi:arrow-right"
+            class="size-4 transition-transform group-hover:translate-x-0.5"
+            aria-hidden="true"
+          />
+        </span>
+      </a>
     </section>
   </Block>
 </Layout>
