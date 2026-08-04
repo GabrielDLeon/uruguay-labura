@@ -26,7 +26,7 @@ const degreeTypeLevelMap: Record<string, BecaLevel> = {
   otro: "grado",
 };
 
-export function parseDurationYears(duration: string): number | undefined {
+export function parseDurationYears(duration?: string): number | undefined {
   if (!duration) return undefined;
   const text = duration.toLowerCase();
 
@@ -52,7 +52,7 @@ export function parseDurationYears(duration: string): number | undefined {
 
 function getDegreeLevel(
   degreeType: string,
-  duration: string,
+  duration?: string,
 ): BecaLevel | undefined {
   const base = degreeTypeLevelMap[degreeType];
   if (base === "posgrado" && degreeType === "doctorado") {
