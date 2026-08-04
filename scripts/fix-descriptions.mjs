@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Corrige descripciones de src/content/educacion.
+ * Corrige descripciones de src/content/careers.
  *
  * Casos:
  *  1. TRUNCADAS  -> la description termina en '…' (cortada a ~460 chars en el import).
@@ -26,7 +26,7 @@ try {
   YAML = require('/home/gabriel/dev/uruguay-labura/node_modules/.pnpm/yaml@2.8.3/node_modules/yaml')
 }
 
-const DIR = new URL('../src/content/educacion/', import.meta.url).pathname
+const DIR = new URL('../src/content/careers/', import.meta.url).pathname
 const APPLY = process.argv.includes('--apply')
 const MAX = 460 // límite original del import
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Limpieza y regeneración de tags de carreras (src/content/educacion).
+ * Limpieza y regeneración de tags de carreras (src/content/careers).
  *
  * Estrategia:
  *  1. Clasificador de palabras clave sobre el título → tags de área fina
@@ -27,7 +27,7 @@ try {
   );
 }
 
-const DIR = join(process.cwd(), "src/content/educacion");
+const DIR = join(process.cwd(), "src/content/careers");
 const APPLY = process.argv.includes("--apply");
 
 // ── Normalización: minúsculas + sin acentos para matching ────────────────

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Dedupe archivos de src/content/educacion.
+ * Dedupe archivos de src/content/careers.
  *
  * Elimina duplicados de scraping de UDELAR (mismo posgrado scrapeado varias veces
  * con códigos internos del CAP en el slug, p.ej. `bioinformatica-especializacion-11-88`).
@@ -11,8 +11,8 @@
  *  - RENAME: archivo legítimo pero con slug codificado -> renombrado para claridad.
  *
  * Uso:
- *   node scripts/dedupe-educacion.mjs            # dry-run (por defecto)
- *   node scripts/dedupe-educacion.mjs --apply    # aplica los cambios
+ *   node scripts/dedupe-careers.mjs            # dry-run (por defecto)
+ *   node scripts/dedupe-careers.mjs --apply    # aplica los cambios
  */
 import { readFileSync, writeFileSync, renameSync, unlinkSync, readdirSync } from 'fs'
 import { createRequire } from 'node:module'
@@ -26,7 +26,7 @@ try {
   YAML = require('/home/gabriel/dev/uruguay-labura/node_modules/.pnpm/yaml@2.8.3/node_modules/yaml')
 }
 
-const DIR = new URL('../src/content/educacion/', import.meta.url).pathname
+const DIR = new URL('../src/content/careers/', import.meta.url).pathname
 const APPLY = process.argv.includes('--apply')
 
 // --- Configuración -----------------------------------------------------------
@@ -128,7 +128,7 @@ if (errors > 0) {
 
 // --- Plan --------------------------------------------------------------------
 
-console.log(`=== DEDUPE src/content/educacion ===`)
+console.log(`=== DEDUPE src/content/careers ===`)
 console.log(`Modo: ${APPLY ? 'APPLY' : 'DRY-RUN (usar --apply para aplicar)'}\n`)
 
 for (const [dup, keep] of Object.entries(DELETE)) {

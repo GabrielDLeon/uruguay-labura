@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Reclasifica las carreras de src/content/educacion marcadas con
+ * Reclasifica las carreras de src/content/careers marcadas con
  * `degreeType: "otro"` que en realidad corresponden a tipos existentes
  * (o nuevos: `carrera` y `ciclo`).
  *
@@ -23,7 +23,7 @@
 import { readFileSync, writeFileSync, unlinkSync, readdirSync } from 'fs'
 import { join } from 'path'
 
-const DIR = join(process.cwd(), 'src/content/educacion')
+const DIR = join(process.cwd(), 'src/content/careers')
 const APPLY = process.argv.includes('--apply')
 
 // --- Configuración -----------------------------------------------------------

@@ -25,7 +25,7 @@ try {
   YAML = require('/home/gabriel/dev/uruguay-labura/node_modules/.pnpm/yaml@2.8.3/node_modules/yaml')
 }
 
-const DIR = new URL('../src/content/educacion/', import.meta.url).pathname
+const DIR = new URL('../src/content/careers/', import.meta.url).pathname
 const CACHE = '/tmp/desc_cache'
 const APPLY = process.argv.includes('--apply')
 const MAX = 460
