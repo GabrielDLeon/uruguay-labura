@@ -8,7 +8,7 @@ export const prerender = true;
 
 export async function GET({}: APIContext) {
   const [careers, institutions] = await Promise.all([
-    getCollection("careers", ({ data }) => showDrafts || !data.draft),
+    getCollection("careers", ({ data }) => (showDrafts || !data.draft) && data.listable),
     getCollection("institutions"),
   ]);
 

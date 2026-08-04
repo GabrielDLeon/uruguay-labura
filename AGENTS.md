@@ -26,6 +26,7 @@
 
 - Only execute `pnpm check` for significant changes that might introduce breaking issues.
 - Do not execute any `git` commands unless explicitly requested by the user.
+- The site is not in production and receives no external traffic: breaking old URLs is fine — no redirects or backward compatibility needed.
 
 ## Documentation
 
