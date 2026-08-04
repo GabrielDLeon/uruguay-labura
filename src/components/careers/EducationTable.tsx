@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 
 import CareersSkeleton from '@/components/careers/CareersSkeleton'
 import DataTable, { type DataTableColumn } from '@/components/common/DataTable'
-import { degreeTypeLabels, modalityLabels } from '@/lib/educacion'
+import { degreeTypeLabels, modalityLabels } from '@/lib/careers'
 import type {
   EducationCareerRecord,
   EducationCareersPayload,

@@ -80,7 +80,7 @@ export const educacionSchema = z.object({
 export type EducacionEntry = z.infer<typeof educacionSchema>;
 
 const educacionCollection = defineCollection({
-  loader: glob({ base: "./src/content/educacion", pattern: "**/*.{md,mdx}" }),
+  loader: glob({ base: "./src/content/careers", pattern: "**/*.{md,mdx}" }),
   schema: educacionSchema,
 });
 
@@ -98,12 +98,12 @@ const becasSchema = z.object({
 export type BecasEntry = z.infer<typeof becasSchema>;
 
 const becasCollection = defineCollection({
-  loader: glob({ base: "./src/content/becas", pattern: "**/*.{md,mdx}" }),
+  loader: glob({ base: "./src/content/scholarships", pattern: "**/*.{md,mdx}" }),
   schema: becasSchema,
 });
 
 export const collections = {
-  educacion: educacionCollection,
+  careers: educacionCollection,
   institutions: institutionsCollection,
-  becas: becasCollection,
+  scholarships: becasCollection,
 };

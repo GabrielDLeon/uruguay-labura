@@ -14,18 +14,18 @@ import {
   formatDate,
   getSolidarityFundInfo,
   showDrafts,
-} from "@/lib/educacion";
+} from "@/lib/careers";
 import SimilarCareer from "@/components/SimilarCareer.astro";
 import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
 import BarIndicator from "@/components/BarIndicator.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
-import { getMatchingBecas } from "@/lib/becas";
+import { getMatchingBecas } from "@/lib/scholarships";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
-    "educacion",
+    "careers",
     ({ data }) => showDrafts || !data.draft,
   );
   return entries.map((entry) => ({
@@ -43,14 +43,14 @@ const institutionEntry = entry.data.institution
   : undefined;
 
 const allEntries = await getCollection(
-  "educacion",
+  "careers",
   ({ data }) => import.meta.env.DEV || !data.draft,
 );
 const similarEntries = entry.data.similar
   .map((slug) => allEntries.find((e) => e.id === slug))
   .filter((e): e is NonNullable<typeof e> => e != null);
 
-const becas = await getCollection("becas", ({ data }) => !data.draft);
+const becas = await getCollection("scholarships", ({ data }) => !data.draft);
 const careerBecas = getMatchingBecas(entry.data, becas);
 
 const solidarityFund = getSolidarityFundInfo(
@@ -259,7 +259,7 @@ const detailItems = [
 
           <div class="flex justify-center">
             <a
-              href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/educacion/${entry.id}.mdx`}
+              href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/careers/${entry.id}.mdx`}
               target="_blank"
               rel="noopener noreferrer"
               class="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"

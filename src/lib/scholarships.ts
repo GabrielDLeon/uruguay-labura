@@ -2,7 +2,7 @@ import type { CollectionEntry } from "astro:content";
 
 import type { EducacionEntry } from "@/content.config";
 
-type BecaEntry = CollectionEntry<"becas">;
+type BecaEntry = CollectionEntry<"scholarships">;
 
 export type BecaLevel =
   | "grado"

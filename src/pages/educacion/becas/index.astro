@@ -8,7 +8,7 @@ import ScholarshipCard from "@/components/ScholarshipCard.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 
 const entries = await getCollection(
-  "becas",
+  "scholarships",
   ({ data }) => import.meta.env.DEV || !data.draft,
 );
 
