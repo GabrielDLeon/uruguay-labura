@@ -3,7 +3,7 @@ import { appIcons, iconToSvg } from "@/lib/icons";
 // Institution logos keyed by institution slug. Logo filenames match the
 // institution slugs (e.g. ort-logo.jpg -> "ort"), so we can build the map
 // from the assets directory at build time.
-const institutionLogoUrls = import.meta.glob<string>("/src/assets/*-logo.*", {
+const institutionLogoUrls = import.meta.glob<string>("/src/assets/institutions/*-logo.*", {
   eager: true,
   import: "default",
   query: "?url",

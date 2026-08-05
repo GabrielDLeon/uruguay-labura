@@ -41,7 +41,7 @@ const institutionsCollection = defineCollection({
     }),
 });
 
-export const educacionSchema = z.object({
+export const careerSchema = z.object({
   title: z.string().min(1),
   short: z.string().optional(),
   institution: z.string().optional(),
@@ -85,14 +85,14 @@ export const educacionSchema = z.object({
   updatedAt: z.string().optional(),
 });
 
-export type EducacionEntry = z.infer<typeof educacionSchema>;
+export type CareerEntry = z.infer<typeof careerSchema>;
 
-const educacionCollection = defineCollection({
+const careersCollection = defineCollection({
   loader: glob({ base: "./src/content/careers", pattern: "**/*.{md,mdx}" }),
-  schema: educacionSchema,
+  schema: careerSchema,
 });
 
-const becasSchema = z.object({
+const scholarshipSchema = z.object({
   title: z.string().min(1),
   short: z.string().optional(),
   type: z.string().min(1),
@@ -105,15 +105,15 @@ const becasSchema = z.object({
   updatedAt: z.string().optional(),
 });
 
-export type BecasEntry = z.infer<typeof becasSchema>;
+export type ScholarshipEntry = z.infer<typeof scholarshipSchema>;
 
-const becasCollection = defineCollection({
+const scholarshipsCollection = defineCollection({
   loader: glob({ base: "./src/content/scholarships", pattern: "**/*.{md,mdx}" }),
-  schema: becasSchema,
+  schema: scholarshipSchema,
 });
 
 export const collections = {
-  careers: educacionCollection,
+  careers: careersCollection,
   institutions: institutionsCollection,
-  scholarships: becasCollection,
+  scholarships: scholarshipsCollection,
 };

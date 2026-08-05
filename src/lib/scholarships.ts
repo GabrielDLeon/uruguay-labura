@@ -1,6 +1,6 @@
 import type { CollectionEntry } from "astro:content";
 
-import type { EducacionEntry } from "@/content.config";
+import type { CareerEntry } from "@/content.config";
 
 type BecaEntry = CollectionEntry<"scholarships">;
 
@@ -65,7 +65,7 @@ function getDegreeLevel(
 export interface BecaRule {
   institutions?: string[];
   degreeLevels?: BecaLevel[];
-  degreeTypes?: EducacionEntry["degreeType"][];
+  degreeTypes?: CareerEntry["degreeType"][];
   titleIncludes?: string[];
   tags?: string[];
   minYears?: number;
@@ -117,7 +117,7 @@ const becaRules: Record<string, BecaRule> = {
 
 export function becaMatchesCareer(
   beca: BecaEntry,
-  career: EducacionEntry,
+  career: CareerEntry,
 ): boolean {
   const rule = becaRules[beca.id];
   if (!rule) return false;
@@ -172,7 +172,7 @@ export function becaMatchesCareer(
 }
 
 export function getMatchingBecas(
-  career: EducacionEntry,
+  career: CareerEntry,
   becas: BecaEntry[],
 ): BecaEntry[] {
   return becas.filter((beca) => becaMatchesCareer(beca, career));
