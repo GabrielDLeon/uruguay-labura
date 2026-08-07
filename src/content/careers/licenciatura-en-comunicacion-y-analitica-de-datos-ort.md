@@ -1,0 +1,291 @@
+---
+title: "Licenciatura en Comunicación y Analítica de Datos"
+similar:
+  - ciencia-de-datos-aplicada-maestria-udelar
+  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
+  - diploma-de-especializacion-en-analitica-de-big-data-ort
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - ciencia-de-datos-especializacion-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "licenciatura"
+area: "Comunicación"
+modality: "presencial"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "4 años"
+credits: 180
+cost: "Arancelado"
+language: "Español"
+website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-analitica-de-datos-e-innovacion"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Licenciatura en Comunicación y Analítica de Datos de ORT Uruguay. Trabajar en el campo de la comunicación supone creatividad, aprendizaje continuo, profesionalismo y actualización permanente."
+tags:
+  - ciencia de datos
+  - comunicacion
+  - informatica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fc.ort.edu.uy/licenciatura-en-comunicacion-analitica-de-datos-e-innovacion'
+  - label: 'Plan de estudios'
+    url: 'https://fc.ort.edu.uy/licenciatura-en-comunicacion-analitica-de-datos-e-innovacion/plan-de-estudios'
+  - label: 'Listado de carreras universitarias'
+    url: 'https://www.ort.edu.uy/carreras-universitarias'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Trabajar en el campo de la comunicación supone creatividad, aprendizaje continuo, profesionalismo y actualización permanente.
+
+- Carrera con un enfoque creativo, analítico, tecnológico e innovador
+- Preparación para una demanda profesional creciente y global
+- Manejo y comprensión de datos para la toma de decisiones estratégicas
+
+Manejar, entender y tomar decisiones basadas en datos se han transformado en habilidades prioritarias. Hoy en día, los datos son los drivers de la estrategia y de la comunicación.
+
+Este nuevo perfil profesional, orientado hacia la analítica de datos y la innovación, incorpora el rigor analítico para leer el comportamiento de los públicos, potenciar las estrategias de comunicación, acelerar procesos de innovación y desarrollar nuevos modelos de negocio centrados en la comunicación.
+
+¿Por qué estudiar Analítica de Datos?
+
+Cada día se generan 2.500 gigabytes de datos en entornos digitales. Saber leerlos, entenderlos, procesarlos y convertirlos en poderosas estrategias de comunicación, construyendo contenidos que cautiven y emocionen a las audiencias, es la clave de la comunicación y uno de los motores de la innovación en los medios, las empresas y las organizaciones del futuro.
+
+En el mundo digital se mide absolutamente todo. Cada interacción, contenido o soporte genera datos de forma exponencial. Es necesario interpretar esos datos para entender los deseos y las necesidades de nuestros públicos y de los clientes; de esa forma, es posible crear mensajes de comunicación más efectivos en un mundo donde la principal batalla es por la atención.
+
+Este escenario demanda un nuevo perfil, que trasciende las fronteras sociales y humanísticas de la comunicación para incorporar habilidades transdisciplinarias, que potencian el alcance multidimensional de los proyectos innovadores. Se trata de un comunicador analítico, tecnológico, creativo e innovador, con herramientas para anticipar tendencias y gestionar la comunicación.
+
+### Título Intermedio
+
+Analista en Comunicación de Datos
+
+### Títulos y Reconocimientos
+
+Al obtener 180 créditos ECTS, los estudiantes obtienen el título intermedio de Analista en Comunicación de Datos. Una vez terminada la carrera, realizado el proyecto final y obtenidos 240 créditos ECTS, reciben el título de Licenciado/a en Comunicación y Analítica de Datos. La Licenciatura en Comunicación de la Universidad ORT Uruguay es una carrera reconocida por resolución oficial del Ministerio de Educación y Cultura del 12 de setiembre de 1997. Como universidad reconocida y miembro de la Asociación Internacional de Universidades (IAU), los títulos de la Universidad ORT Uruguay cumplen estándares internacionales que permiten continuar estudios de maestría y doctorado en universidades de todo el mundo.
+
+### Modalidad
+
+Presencial. Muchas asignaturas complementan sus dictados a través de la modalidad de "aula expandida"; es decir, un entorno virtual complementario del espacio presencial, que se articula con la propuesta de enseñanza y de aprendizaje, y tiene como objetivo acompañar y potenciar estos dos procesos.
+
+### Duración y Horarios
+
+Duración 4 años. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino. Semestres 5 al 8: nocturno.* * Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Educación Media Superior (EMS) completa de cualquier orientación. Opciones de bachilleratos EMS equivalentes de planes anteriores. Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Estudiantes provenientes de otras universidades con al menos una materia aprobada, sin importar el bachillerato cursado previamente; sujeto al análisis de antecedentes por parte de la coordinación de la carrera correspondiente. La universidad admite el ingreso condicional a carreras universitarias hasta con dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico. Estudiantes del exterior Los estudiantes que culminaron su educación media en el exterior deben presentar el certificado de estudios correspondiente, apostillado o con legalización consular, a efectos de su admisión a los estudios universitarios de grado en la universidad.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Reválidas
+
+Si iniciaste tu carrera en otra universidad y querés continuar tus estudios en la Universidad ORT Uruguay, podés revalidar las materias aprobadas y contar con beneficios en el valor de la cuota. y así podrás revalidar materias del plan de cursado.
+
+### Requisito de Graduación
+
+Examen integrador final, exonerable con un promedio acumulado de calificaciones (PAC) de 60 % o superior, previo al Proyecto Final.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Expresión oral y escrita**
+
+La materia trabaja sobre el criterio normativo y pragmático del texto. Estudia la palabra y la enunciación por sus diferentes valores en la producción oral y escrita. Explica las reglas de acentuación y ortografía. Plantea una breve introducción a la historia del lenguaje escrito y las diferencias con el código oral. Identifica las características propias del código escrito y su aplicación práctica en la producción de textos y el desarrollo de narrativas para diferentes productos comunicacionales. Profundiza el dominio de los valores semántico y sintáctico. Unifica los diferentes usos de la puntuación desde la fonética, la prosodia y la escritura, de acuerdo con el criterio normativo de la sintaxis oracional. Créditos: 6
+
+**Teorías de la comunicación 1**
+
+El curso se presenta como ámbito de formación teórica medular para el estudiante de Comunicación, en tanto despliega un aparato conceptual que, por un lado, sintetiza el desarrollo del pensamiento científico sobre la Comunicación y, por otro, ofrece herramientas de intelección para pensar las realidades comunicativas y socio-culturales con perspectiva científica, es decir, reflexiva, crítica y responsable. El curso se propone, en definitiva, como un ejercicio de observación del mundo social contemporáneo, organizado en torno a la Comunicación en tanto ámbito de interacción, producción e intercambio de sentidos a través de medios masivos, plataformas y nuevas tecnologías. Créditos: 6
+
+**Comunicación sonora**
+
+La asignatura propone conocer y analizar el sistema de medios radiofónicos y el podcasting. Los estudiantes aprenderán a distinguir criterios de noticiabilidad y a evaluar temas actuales, así como a crear, producir y conducir y monetizar programas de radio, podcasts y videopodcasts. Créditos: 6
+
+**Fotografía**
+
+El curso aporta los elementos necesarios para desempeñarse con corrección y profesionalismo en la disciplina fotográfica orientada a los productos audiovisuales, infocomunicacionales y del entretenimiento en todas las plataformas. La propuesta metodológica se centra en el trabajo teórico-práctico. Estudia los principios básicos de la fotografía, el trabajo con la cámara, el procesamiento de la película fotográfica, el copiado y la creación de la imagen. Abarca la fotografía digital y análisis del trabajo de los grandes maestros. Créditos: 6
+
+**Comunicación en las organizaciones**
+
+La materia propone una inducción a las bases teóricas y a la investigación disponible en materia de comunicación organizacional. En el marco del curso el estudiante identifica las principales funciones, facetas, modalidades, estrategias, problemas y actores que caracterizan el fenómeno de la comunicación en organizaciones de diversa índole. Incorpora gradualmente elementos de base para el diagnóstico de la comunicación en casos concretos de empresas e instituciones y para la discusión de alternativas de intervención. Créditos: 6
+
+#### 2.º semestre
+
+**Redacción expresiva**
+
+La materia aborda la temática de los actos lingüísticos en la información textual, trabajando el nivel denotativo y connotativo. Estudia las tipologías textuales —informativa, explicativa, narrativa y dialogada— y las funciones de lenguaje en relación con el contexto. Créditos: 6
+
+**Teorías de la comunicación 2**
+
+Con base en Teorías de la Comunicación 1, el curso se propone identificar y describir los planteos teóricos desarrollados en torno a los fenómenos comunicativos desde la fundación del campo académico hasta la actualidad; reconocer la complejidad de los fenómenos comunicativos, mediáticos y no mediáticos, a la luz de los diferentes enfoques que se han desarrollado en torno a la comunicación desde el nacimiento de la disciplina; propiciar la capacidad de reflexión sobre los fenómenos de la Comunicación en toda su amplitud, apertura y complejidad, reconociendo la centralidad de los medios y tecnologías de la comunicación en el mundo contemporáneo y el entorno digital. Créditos: 6
+
+**Semiótica de las mediatizaciones**
+
+La asignatura propone a los estudiantes a pensar sus vidas y futuras prácticas profesionales en un mundo de signos y presenta el estudio de la semiótica como ciencia del sentido. Al finalizar, los estudiantes comprenderán sus principios y fundamentos, aplicarán conceptos semióticos a los medios, plataformas y sus mediatizaciones, y desarrollarán habilidades para analizar discursos y prácticas simbólicas en cualquier tipo de soporte. Créditos: 6
+
+**Principios de la gerencia**
+
+La materia comprende el estudio de las funciones básicas del líder organizacional desde la influencia que ejerce en procesos de trabajo grupales, así como en la cultura organizacional, el manejo de conflictos y procesos de cambio en entornos complejos y dinámicos, considerando las diferentes etapas de la empresa durante su ciclo de vida y su relación con el mundo de la Comunicación y la dirección estratégica. Créditos: 6
+
+**Pensamiento creativo**
+
+La asignatura brinda los fundamentos conceptuales y estímulos prácticos que permiten comprender el proceso creativo en su dimensión neurológica, racional, emocional y corporal. Se trabaja el entrenamiento de las metacompetencias (competencias que permiten desarrollar otras más específicas), que demanda el posterior desarrollo y gestión del talento creativo individual y grupal de manera sistemática. Se profundiza en la comprensión y reflexión acerca de los retos que presenta el entorno surgido de los fenómenos y tecnologías exponenciales en la vida humana contemporánea y en las oportunidades que brinda ante los procesos comunicacionales y creativos. Créditos: 6
+
+### 2.° año
+
+#### 3.er semestre
+
+**Escrituras creativas**
+
+Escrituras Creativas amplía la variedad de lenguajes y formatos de las referencias y los recursos didácticos. Asimismo, mantiene el principio que reconoce que se aprende a escribir leyendo y escribiendo. Y agrega que hay otros aprendizajes en la escritura que se adquieren viendo, escuchando, corporizando, interpretando y mezclando sentidos, lenguajes y formas; todo eso que la escritura también demanda y permite expresar. Por ende, además de la investigación como espacio de análisis, este taller estimula y evalúa la experimentación como parte de la creación. Créditos: 6
+
+**Cultura y comunicación**
+
+La materia analiza las problemáticas culturales contemporáneas desde la mirada comunicacional. Aborda la reformulación de lo público y lo privado, la problematización de los espacios, las mediaciones en los problemas globales, la mundialización, la globalización y la plataformización de la representación. Estudia la relación entre las grandes transformaciones económicas, sociales, tecnológicas y políticas en la sociedad actual, y las que se producen en el campo de la cultura, la comunicación, los medios, las redes y las plataformas. Créditos: 6
+
+**Gestión de entornos virtuales**
+
+La asignatura tiene como fin aportar herramientas para la comprensión del entorno digital, incluyendo redes sociales y comunicación digital para empresas, medios y productos. Los estudiantes aprenderán sobre negocios digitales, audiencias, datos, y cómo integrar herramientas de negocio y comunicación en campañas. También desarrollarán habilidades para monitorear conversaciones online y elaborar planes de comunicación y posicionamiento efectivos. Créditos: 6
+
+**Fundamentos del marketing**
+
+La materia presenta los componentes de la gestión de marketing: sus variables y conceptos básicos (necesidad, deseo, demanda, intercambio), el mercado y su segmentación, el producto y su precio, y los sistemas de distribución, información y comunicación. A partir de exposiciones docentes y ejercicios prácticos, el alumno analiza campañas de relaciones públicas y publicidad con el objetivo de satisfacer eficientemente las demandas de los clientes. Créditos: 6
+
+**Pensamiento computacional**
+
+Al finalizar el curso, los estudiantes podrán aplicar el pensamiento lógico y la creatividad para resolver problemas complejos mediante algoritmos y estructuras de datos. También desarrollarán habilidades en programación orientada a objetos, manipulación de datos y el uso de herramientas informáticas para resolver problemas del mundo real y llevar a cabo proyectos exitosos. Créditos: 6
+
+#### 4.º semestre
+
+**Metodología de la investigación en comunicación**
+
+Durante el curso los estudiantes aprenderán a identificar las etapas del proceso de investigación de las Ciencias Sociales y a aplicar técnicas de investigación cualitativas, cuantitativas y mixtas, así como a fundamentar su uso en estudios de específicos del campo de la comunicación. También serán capaces de elegir diferentes tipos de diseños y herramientas de investigación de manera efectiva. Esta materia es la base conceptual y analítica que prepara a los estudiantes para el Proyecto Final de la carrera. Créditos: 6
+
+**Retórica y persuasión**
+
+El espacio Introduce en la retórica clásica desde una perspectiva actual. Brinda nociones de mecanismos retóricos, verbales, gestuales y corporales. Trabaja temas como el discurso retórico, la retórica del discurso lingüístico, la metáfora, la metonimia, la hipérbole, la antítesis, la doxa, la paradoja, entre otros. Los alumnos analizan discursos, manifiestos, piezas de opinión, piezas publicitarias. Entre otros, y redactan sus propios discursos para reconocer y comprender las formas de persuasión verbal y textual orientadas a captar la atención de públicos en las distintas áreas de la comunicación. Créditos: 6
+
+**Matemática para el análisis de datos**
+
+El curso brinda el instrumental analítico básico para su aplicación en ciencias sociales, que sirve de base para la toma de decisiones. Asimismo, se trata de homogeneizar la formación básica en la disciplina, tanto para una mejor asimilación de los conceptos a desarrollarse en las materias del ciclo como para el ejercicio del razonamiento lógico en el contexto del desempeño profesional. Créditos: 6
+
+**Equipos, liderazgo y capital humano**
+
+La materia propone reflexionar sobre la importancia del liderazgo y el trabajo en equipo en organizaciones y en la sociedad. Busca desarrollar habilidades para liderar, motivar e interactuar en situaciones variadas, incluidas las de conflicto y analizar tipos de liderazgo y dinámicas de equipos de trabajo según diferentes organizaciones. Al finalizar el curso el estudiante podrá reconocer roles y mecanismos de interacción dentro de los equipos y entrenar la capacidad de adaptación y flexibilidad para liderar y participar en procesos cotidianos y de cambio. Créditos: 6
+
+**Comercio electrónico**
+
+El curso permite reconocer el concepto de omnicanalidad y aplicarlo a estrategias de comercialización. Identificar tendencias y predicciones de marketing en retail y su relevancia en el ecosistema nacional e internacional. Permite distinguir modelos de organización y comercialización digital, y conocer plataformas de eCommerce y medios de pago, valorar aspectos logísticos y operativos para el lanzamiento de un eCommerce e identificar variables para la definición de precios y el mix de oferta. Asimismo, el estudiante podrá crear un catálogo digital para eCommerce y evaluar una tienda online mediante auditoría virtual, con el fin de definir un plan de marketing para generar tráfico y rentabilizar una tienda online. Créditos: 6
+
+### 3.er año
+
+#### 5.º semestre
+
+**Industrias culturales y del entretenimiento**
+
+El curso tiene como propósito caracterizar el desarrollo de las industrias culturales, creativas y del entretenimiento desde una perspectiva que imbrica los desarrollos tecnológicos con la materialidad de los modelos productivos y regímenes de acumulación dominantes en cada etapa. A partir de un abordaje situado, el curso propone un análisis profundo de las mediatizaciones humanas, una caracterización material de las industrias culturales, la evolución tecnológica y una mirada minuciosa sobre los ecosistemas digitales de la actualidad, en los cuales las sociedades dirimen los sentidos en una arena dinámica atravesada por relaciones de poder. Créditos: 6
+
+**Planificación de medios**
+
+El curso presenta los elementos para la planificación de medios: gestión y simulación de pautas, estudio de audiencias, análisis de métricas, público objetivo y formas de pautado. Se estudian las ventajas y desventajas de los diferentes medios de comunicación, Internet, zapping, tasa de repetición, cobertura neta. Realiza prácticas con software de gestión y simulación de pautas. Créditos: 6
+
+**Estadística para el análisis de datos**
+
+En el curso se estudian los aspectos fundamentales de estadística descriptiva de variables unidimensionales y bidimensionales, apuntando a aspectos de visualización de datos observados a través de diversas formas de representación, caracterización de dichas variables por sus medidas de resumen, y estudio de asociación y correlación entre variables. Se presentan nociones de probabilidad y las principales distribuciones de probabilidad. Créditos: 6
+
+**Marketing estratégico**
+
+La materia permite al estudiante consolidar una base teórica del planeamiento estratégico de marketing como un proceso de gestión sistemático y permanente; familiarizándolo con sus principales tendencias y desafíos. Asimismo, posibilita la incorporación de las herramientas de comunicación básicas para la gestión de marketing en el seno de las organizaciones (ejemplo: generación de bases de datos, marketing directo, gestión de la fuerza de ventas, manejo de crisis y marketing interno, entre otras). La finalidad última es desarrollar los beneficios del entendimiento de la conducta del consumidor y la posibilidad de predecirla. Créditos: 6
+
+**Storytelling**
+
+El curso propone introducir los elementos básicos de la narración y sus particularidades para diferentes tipos de productos -audiovisual, cine, periodismo, publicidades,storytelling corporativo, storytelling personal- y promover la capacidad de detectar y compartir ejemplos valiosos. Los estudiantes podrán dominar el storytelling utilizando recursos multimedia para concebir la historia y su presentación y yxperimentar el proceso de producción profesional en diversos formatos. Créditos: 6
+
+#### 6.º semestre
+
+**Media Lab**
+
+Media Lab Posibilita la integración en equipos multidisciplnarios para la ejecución de proyectos de aplicación, extensión y similares. El fin último es que, a partir de un problema complejo planteado por una institución real externa, el estudiante trabaje en equipos multidisciplinares en soluciones creativas, innovadoras y aplicables. También es posible que el estudiante formule sus propios proyectos y trabaje grupalmente en su incubación. El espacio tiene como objetivos que el estudiante sea capaz de integrarse a equipos multidisciplinarios; reflexionar sobre el rol de su perfil de estudios y encontrar los elementos sinérgicos con otros perfiles; manejar la relación interpersonal y entender los mecanismos de comunicación en grupo, roles y liderazgo y aplicar sus conocimientos a proyectos y soluciones específicas. Créditos: 6
+
+**Investigación de mercado**
+
+El curso capacita para la realización de investigaciones de mercado aplicadas a la publicidad. Brinda los elementos necesarios para diseñar, implementar y evaluar investigaciones cualitativas y cuantitativas. Complementa con discusiones sobre investigación y otros temas fundamentales del quehacer publicitario y de planificación de la comunicación orientado por datos. Créditos: 6
+
+**Analítica de datos**
+
+El curso tiene por objetivo dar una formación que permita vincular los aspectos técnicos del tratamiento de datos y uso de prácticas estadísticas con los problemas y oportunidades habituales del mundo de la comunicación. Se integra un enfoque teórico-técnico con los aspectos prácticos que se encuentran en el ejercicio usual de la disciplina. Al finalizar el curso, el alumno estará dotado de un conjunto de metodologías y herramientas que le permitirá extraer información de valor de los grandes volúmenes de datos y bases que hoy existen en el mundo. Ya sea que estos se utilicen como núcleo central de una investigación periodística, en la planificación estratégica de una campaña publicitaria, en el análisis previo al armado de una pieza audiovisual o para la toma de decisiones en un ámbito empresarial.
+
+**Electiva 1**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+**Electiva 2**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+**Electiva 3**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+### 4.º año
+
+#### 7.º semestre
+
+**Seminario de proyecto final**
+
+Tiene por finalidad presentar al alumno las metodologías y técnicas necesarias para emprender una investigación académico-científica o el desarrollo de un producto profesional relacionado con su carrrera. Acompañado por un tutor, el estudiante desarrolla su proyecto desde la concepción de la idea hasta el producto final. Créditos: 6
+
+**Innovación y cambio organizacional**
+
+En este curso se comprenderá la relación entre el éxito de la innovación y la gestión de los procesos. El curso apunta a enseñar cómo introducir, gestionar y liderar los procesos de innovación. Se pone en evidencia que las competencias ligadas al liderazgo resultan esenciales para la gestión de equipos de trabajo de máximo rendimiento personal y profesional, esenciales para los procesos de comunicación e innovación. Créditos: 6
+
+**Comunicación y visualización de datos**
+
+El curso proporciona herramientas y elementos para realizar presentaciones y representaciones de información cuantitativa adaptadas a la audiencia. Explora cómo presentar información en forma de historia para facilitar la comprensión por parte de quienes toman decisiones en organizaciones, estructuran campañas de comunicación o consumen medios informativos. La finalidad es trabajar con información en formato “crudo” de diversas áreas para explorar y determinar las formas más efectivas de mostrarla. Créditos: 6
+
+**Electiva 4**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+**Electiva 5**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+#### 8.º semestre
+
+**Proyecto final**
+
+Es una instancia individual o grupal de cierre de carrera en la que el alumno desarrolla un proyecto de corte profesional o una trabajo académico-científico de integración de conocimientos en su área. Las dos opciones implican un componente decisivo de investigación y un despliegue de estrategias y métodos de trabajo (académico / profesional) que acrediten un sólido dominio de saberes adquiridos a lo largo de toda la carrera. Créditos: 18
+
+**Electiva 6**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+**Pasantía o Electiva 7**
+
+Pasantía Espacio de incursión en el mercado laboral a través de una práctica formativa asistida por tutores designados por la Universidad ORT Uruguay. La práctica se desarrolla en una institución o empresa con convenio vigente con la universidad, asegurando una actividad formativa supervisada que pueda ser acreditada como materia electiva. Créditos: 6 Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3

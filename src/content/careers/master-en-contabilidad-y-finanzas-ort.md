@@ -1,0 +1,201 @@
+---
+title: "Master en Contabilidad y Finanzas"
+similar:
+  - diploma-de-especializacion-en-impuestos-ort
+  - licenciatura-en-finanzas-ort
+  - master-en-impuestos-y-normas-de-contabilidad-niif-ort
+  - diploma-de-especializacion-en-finanzas-ort
+  - diploma-de-especializacion-en-contabilidad-ort
+  - finanzas-maestria-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "maestria"
+area: "Administración y Negocios"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "18 meses"
+cost: "Arancelado"
+language: "Español"
+website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-contabilidad-y-finanzas"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Master en Contabilidad y Finanzas de ORT Uruguay. El Master en Contabilidad y Finanzas brinda conocimientos financieros desde la perspectiva de las finanzas corporativas y los mercados de capitales."
+tags:
+  - contabilidad
+  - finanzas
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/master-en-contabilidad-y-finanzas'
+  - label: 'Plan de estudios'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/master-en-contabilidad-y-finanzas/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados/facs'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Master en Contabilidad y Finanzas brinda conocimientos financieros desde la perspectiva de las finanzas corporativas y los mercados de capitales.
+
+- Capacitación de vanguardia en finanzas corporativas y mercados de capitales
+- Formación orientada a roles de alto impacto en finanzas y consultoría
+- Metodología diseñada para armonizar estudio, trabajo y vida personal
+- Un preparador de información financiera de calidad para la toma de decisiones.
+- Un experto en el manejo de riesgos y la valuación de inversiones.
+- Un especialista en normas internacionales de información financiera (NIIF).
+- Un experto en la detección de oportunidades y en la comprensión de los mercados financieros.
+
+La maestría brinda el marco teórico y la habilidad necesarios para entender la creciente interrelación de la gestión financiera y de riegos con las normas internacionales de información financiera.
+
+Es un postgrado que capacita a los estudiantes para emitir estados financieros de calidad, preparar presupuestos, realizar una adecuada planificación financiera y tomar decisiones vinculadas a las finanzas corporativas y a los mercados de capitales.
+
+A través del Master en Contabilidad y Finanzas podrás transformarte en:
+
+Asimismo, lograrás impulsar tu involucramiento en la emisión de información no financiera de vital importancia en la actualidad, desarrollar tu capacidad analítica y una visión práctica para la resolución de problemas.
+
+¡Sumá conocimientos clave para potenciar tu carrera profesional!
+
+### Títulos y Reconocimientos
+
+El Master en Contabilidad y Finanzas fue reconocido por resolución del Ministerio de Educación y Cultura el 10 de junio de 2015. La Universidad ORT Uruguay posee la categoría de Registered Learning Partener de ACCA, lo que implica que sus postgrados en contabilidad brindan la formación adecuada para obtener la certificación Internacional en Normas Internacionales de Información Financiera - NIIF (Certificate in International Financial Reporting).
+
+### Modalidad
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 18 meses. Horarios de clase Las clases se dictan de lunes a jueves de 19:00 a 21:30. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Requisitos Los requisitos de ingreso son: Ser un profesional universitario que se desempeñe en el área contable y/o financiera. Demostrar experiencia profesional relevante. Rendir prueba BAT, obteniendo – al menos – 7,67 puntos. Ser recomendado por el Tribunal Académico luego de una o más entrevistas. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+### Proceso de Selección
+
+Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### Abril - Junio
+
+**Instrumentos de renta fija**
+
+Estudia los métodos de valoración dividend discount model, criterios de multiplicadores y ratios. Analiza los mercados de títulos, fixed income securities, partiendo de bonos cupón cero, su valoración de precios, el rendimiento y la temporalidad de las tasas (HPR, Fwd). Realiza el análisis de casos uruguayos y regionales, y de las diferentes estrategias de ingeniería financiera como políticas de inmunizaciones, manejos de activos y pasivos, entre otras.
+
+**Análisis de estados financieros**
+
+Aborda las fuentes de información, la generación de estados financieros y su análisis. Evalúa casos reales para la toma de decisiones directivas empleando el estado de situación financiera, el estado de resultados y el estado de flujos de efectivo. Paralelamente examina los conceptos de instrumentos financieros y su impacto en los estados financieros, tales como leasing y fideicomisos, entre otros.
+
+**Métodos cuantitativos y análisis de datos**
+
+Presenta los principales procedimientos estadísticos y econométricos utilizados en el análisis de temas financieros y en la toma de decisiones: tablas de contingencia, análisis de la varianza, regresión simple y múltiple. Enfatiza en la presentación de los conceptos y en la aplicación práctica de los métodos y procedimientos.
+
+#### Julio - Setiembre
+
+**Fundamentos de la información financiera**
+
+Analiza el Marco Conceptual de las Normas Internacionales de Contabilidad y el alcance en Uruguay, profundizando en los principios contables, en los criterios de valoración así como en los principales cambios que ha introducido el Decreto 266/07. Aborda los criterios de medición, el concepto de unidad de medida, el concepto de moneda funcional, entre otros fundamentales en la información contable.
+
+**Decisiones de inversión**
+
+Profundiza en los diferentes estudios de riesgo y de valoración que llevan a una comprensión del capital asset pricing model y deriva en evaluaciones de opciones y teorema de utilidad de una firma. Desarrolla los aspectos teóricos y prácticos de las herramientas utilizadas por los ejecutivos de una corporación para la toma de decisiones financieras vinculadas con la asignación de capital para inversiones en activos reales, reconociendo que las decisiones financieras constituyen una parte integral de la estrategia general de la empresa.
+
+**Preparación y presentación de estados financieros**
+
+Examina los conceptos asociados a políticas contables, cambios en las estimaciones contables y errores. Analiza la pertinencia de la exposición de los hechos ocurridos después de la fecha de cierre de ejercicio y la consideración de provisiones, activos y pasivos contingentes. Aborda los conceptos necesarios para la preparación y presentación de los Estados Financieros.
+
+**Instrumentos financieros derivados**
+
+Dirigido al conocimiento y uso de instrumentos y títulos financieros. Analiza los diferentes criterios de valoración y los riesgos básicos asociados a los instrumentos. Deriva los conceptos de put call parity y el método de Black & Scholes, para profundizar en sus aplicaciones reales a situaciones regionales, en particular de nuestro país. Desarrolla instrumentos sintéticos e introduce modelos binomiales para captar la esencia de la valuación de opciones. Estudia además la metodología de medición del Riesgo de Mercado conocida como Value at Risk (VaR), culminando con el teorema de arbitraje.
+
+#### Octubre - Diciembre
+
+**Activos y pasivos: reconocimiento y medición 1**
+
+Analiza el reconocimiento y medición de activos y pasivos, con un enfoque centrado en los principales problemas conceptuales y su aplicación práctica mediante el estudio de casos. Aborda situaciones como la posibilidad de activación de gastos financieros, construcción, leasing, propiedad de inversión y operaciones discontinuadas. En forma conjunta, analiza los instrumentos financieros y sus implicancias conceptuales.
+
+**Activos y pasivos: reconocimiento y medición 2**
+
+Analiza el reconocimiento y medición de activos y pasivos, con un enfoque centrado en los principales problemas conceptuales y su aplicación práctica mediante el estudio de casos. Aborda situaciones como la posibilidad de activación de gastos financieros, construcción, leasing, propiedad de inversión y operaciones discontinuadas. En forma conjunta, analiza los instrumentos financieros y sus implicancias conceptuales.
+
+**Gerenciamiento de activos**
+
+Estudia el proceso de inversión y el manejo de activos (colocación, monitoreo y performance). Evalúa aspectos como riesgo y retorno, probabilidad y distribución, y construcción de portafolios. Diseña estrategias de diversificación y administración activa o pasiva de las finanzas, y contempla factores simples y múltiples con desarrollos en Excel® para resolver problemas de programación lineal y armar fronteras de portafolios eficientes.
+
+**Project Finance**
+
+El curso brinda una formación integral sobre la estructuración, financiamiento y gestión de proyectos de gran escala. Los estudiantes aprenden a analizar riesgos, contratos y esquemas de repago, evaluando la viabilidad financiera mediante modelos de flujo de caja y escenarios prácticos. Con un enfoque en mercados emergentes y casos reales, el curso combina teoría y aplicación para comprender el rol de bancos, inversores y organismos multilaterales en proyectos de infraestructura y energía. Una propuesta clave para quienes buscan dominar las finanzas aplicadas a proyectos complejos y estratégicos en un entorno global dinámico.
+
+**Taller de ética**
+
+Presenta casos del entorno internacional que llevan a la reflexión sobre la práctica de los profesionales que se desempeñan en el área de contabilidad, impuestos o finanzas, dado que la convergencia internacional y la transparencia en los negocios requieren una actuación ética constante. El abordaje es desarrollado por un profesor extranjero invitado a tales efectos.
+
+#### Febrero - Marzo
+
+**Finanzas 3: Decisiones de financiamiento y dividendos**
+
+Analiza los teoremas de Modigliani-Miller y su impacto en nuestras latitudes en los valores de la firma, culminando con teoría de la Agencia. Profundiza en el impacto de decisiones tácticas y estructuras de financiamiento de las empresas. Analiza escenarios con distintas fuentes de financiamiento de la empresa, desarrolla una estructura óptima y culmina con los aspectos determinantes de la política de dividendos, con un énfasis en la gestión de las finanzas en economías inestables.
+
+**Ingresos y gastos: reconocimiento y medición**
+
+Trabaja el reconocimiento del ingreso por ventas y del ingreso por prestación de servicios hasta la contabilización del impuesto diferido tanto desde la perspectiva contable como desde la perspectiva tributaria. Analiza diferencias temporales y temporarias, así como la aplicación del concepto de realización.
+
+**Valoración de empresas**
+
+Estudia a través de casos reales los diferentes criterios de valoración de empresas y su implementación en la región. Profundiza en métodos basados en el estado de situación financiera y en el estado de resultados. Analiza métodos mixtos y basados en flujos de fondos. Aborda además las diferentes etapas de la valoración, y las ventajas y desventajas de los diferentes criterios. Culmina con un juego opcional de valoración de una empresa bajo condiciones que van variando.
+
+### 2.do año
+
+#### Abril - Junio
+
+**Taller de riesgo financiero**
+
+**Combinaciones de negocios**
+
+Desarrolla las implicancias de la adquisición de elementos patrimoniales que constituyan un negocio para otras empresas, abordando el concepto de estados consolidados, inversiones en empresas asociadas, participación en negocios conjuntos e información financiera intermedia, entre otros analiza las normas internacionales de auditoría asociadas.
+
+**Taller de investigación**
+
+Desarrolla los aspectos metodológicos necesarios para facilitar la concreción de la tesis o memoria final de Master. Aborda las tendencias en investigación contable y financiera, así como como en el uso de herramientas y técnicas de apoyo en el desarrollo de trabajos de corte cuantitativos y cualitativos.
+
+**Presupuestación y planificación financiera**
+
+El objetivo de esta materia es proporcionar las herramientas para el análisis de los estados financieros de una empresa desde el punto de vista de la evaluación de gestión y de la planificación estratégica, integrar los conceptos de planificación y control financiero para lograr un dominio que permita participar en el diseño de los sistemas de información que provean a la dirección de información oportuna y relevante para la toma de decisiones y que permitan monitorear la gestión de la compañía.
+
+#### Julio - Setiembre
+
+**Gobierno corporativo**
+
+**Electiva 1**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Análisis técnico y estrategias de trading B2B Gorwth Strategy Banca de inversión Blockchain, Crypto y Defi Dirección de operaciones Eficacia y desarrollo organizacional Estrategia con derivados Finanzas 3: Decisiones de financiamiento y dividendos Fundamentos de la información financiera Fundamentos de modelos de datos y datamining Gestión integral de riesgo y prueba de tensión Grupos e influencia interpersonal Liderazgo emprendedor Machine learning no supervisado Machine learning supervisado Nuevas tendencias en finanzas Presupuestación y planificación financiera Taller de conversaciones difíciles Taller de mercados e instituciones financieras Valoración de activos financiero
+
+**Electiva 2**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Análisis técnico y estrategias de trading B2B Gorwth Strategy Banca de inversión Blockchain, Crypto y Defi Dirección de operaciones Eficacia y desarrollo organizacional Estrategia con derivados Finanzas 3: Decisiones de financiamiento y dividendos Fundamentos de la información financiera Fundamentos de modelos de datos y datamining Gestión integral de riesgo y prueba de tensión Grupos e influencia interpersonal Liderazgo emprendedor Machine learning no supervisado Machine learning supervisado Nuevas tendencias en finanzas Presupuestación y planificación financiera Taller de conversaciones difíciles Taller de mercados e instituciones financieras Valoración de activos financiero
+
+#### Julio
+
+**Memoria Final**
+
+La Tesis o Memoria final es un trabajo de campo en equipo que utiliza los conceptos y técnicas adquiridas durante los dos años de curso en el análisis de un determinado problema o fenómeno de fiscalidad local e internacional. Los estudiantes son asistidos por tutores que colaboran en la discusión del contenido y analizan críticamente el avance del trabajo.

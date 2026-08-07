@@ -1,0 +1,136 @@
+---
+title: "Diploma de Especialización en Analítica de Big Data"
+similar:
+  - master-en-big-data-ort
+  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
+  - tecnologo-en-analisis-y-gestion-de-datos-utec
+  - licenciatura-en-bioinformatica-ort
+  - master-en-inteligencia-artificial-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "especializacion"
+area: "Ingeniería"
+modality: "hibrido"
+shift: "night"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Arancelado"
+language: "Español"
+website: "https://fi.ort.edu.uy/diploma-de-especializacion-en-analitica-de-big-data"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "El Diploma busca formar profesionales universitarios con capacidades técnicas para resolver problemas complejos en un mundo de grandes volúmenes de datos."
+tags:
+  - ciencia de datos
+  - informatica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fi.ort.edu.uy/diploma-de-especializacion-en-analitica-de-big-data'
+  - label: 'Plan de estudios'
+    url: 'https://fi.ort.edu.uy/diploma-de-especializacion-en-analitica-de-big-data/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Diploma busca formar profesionales universitarios con capacidades técnicas para resolver problemas complejos en un mundo de grandes volúmenes de datos.
+
+- Programa orientado a graduados universitarios de diversas áreas
+- Abordaje de la analítica de big data desde una perspectiva multidisciplinaria
+- Elección de diferentes electivas según el interés y perfil de cada estudiante
+- Formar profesionales universitarios con capacidades técnicas para resolver problemas complejos en un mundo de grandes volúmenes de datos.
+- Brindar una formación sólida que provea los conocimientos necesarios para garantizar la adaptación del profesional a los cambios tecnológicos.
+- Desarrollar habilidades que agregan valor a la práctica profesional: rigurosidad, trabajo en equipo, liderazgo, comunicación, confianza, servicio y compromiso.
+- Capacitar al profesional para lograr una rápida aplicación de los conocimientos adquiridos en el ámbito laboral.
+- Favorecer una metodología de formación teórico-práctica, que fomente la curiosidad, la creatividad, la experimentación y el emprendimiento mediante la resolución de casos de estudio de complejidad creciente.
+
+Los especialistas en analítica de grandes volúmenes de datos (Big Data Scientist) juegan un rol clave en el proceso de toma de decisiones, reemplazando el análisis artesanal ad-hoc de los datos, por un tratamiento sistemático y profundo que se realiza mediante herramientas informáticas fundadas en modelos matemáticos y estadísticos.
+
+Los conocimientos teóricos y la experiencia práctica adquirida, les permitirán aportar valor agregado en la elaboración, liderazgo y ejecución de proyectos, enfatizando la productividad y la calidad.
+
+La analítica de grandes volúmenes de datos se ha vuelto una herramienta esencial para extraer conclusiones y tomar decisiones críticas.
+
+La vertiginosa evolución de las tecnologías de la información de las últimas décadas trajo aparejado que, por primera vez en la historia, la sociedad tiene la capacidad de generar, recolectar y almacenar inmensos volúmenes de datos. Existen grandes cantidades de información digital sobre prácticamente cualquier tema de interés para una empresa.
+
+A partir de esta revolución tecnológica, la analítica de grandes volúmenes de datos se ha vuelto una herramienta esencial para extraer conclusiones y tomar decisiones críticas en todas las áreas de actividad humana, ya sea económicas, sociales, empresariales, industriales, agrícolas y biológicas, entre otras.
+
+En la edición de octubre de 2012 de la Harvard Business Review, titulada “Getting control of Big Data”, se presenta a la analítica de grandes volúmenes de datos como la actividad profesional más atractiva del siglo XXI.
+
+El Diploma persigue los siguientes objetivos:
+
+Los cursos del Diploma de Especialización en Analítica de Big Data forman parte del Master en Big Data.
+
+### Títulos y Reconocimientos
+
+El Diploma de Especialización en Analítica de Big Data es un postgrado reconocido por resolución oficial del Ministerio de Educación y Cultura del 09/08/18.
+
+### Modalidad
+
+El postgrado se dicta en modalidad HyFlex®. Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones se dictan en forma presencial.
+
+### Duración y Horarios
+
+Duración 1 año Horarios de clase Nocturno: tres veces por semana entre lunes y jueves de 19:00 a 22:00 horas. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Los requisitos de ingreso al postgrado son los siguientes: - Título de grado universitario. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Requisito de Graduación
+
+Para obtener el título se requiere haber aprobado 6 asignaturas.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### Semestre 1
+
+**Técnicas de machine learning para análisis de datos**
+
+El aprendizaje automático (machine learning) es un área de muy rápido crecimiento y gran actualidad que se ubica en la intersección de las ciencias de la computación y la estadística. Es la piedra fundamental de los motores de búsqueda, los filtros colaborativos usados para recomendación personalizada, la traducción automática, el reconocimiento de voz y de imágenes, etc. Esta materia presenta los elementos fundamentales que constituyen el cuerpo teórico-práctico esencial de las técnicas de aprendizaje automático. En particular, el curso cubre los enfoques y algoritmos básicos necesarios para construir modelos para su utilización en el análisis predictivo de grandes volúmenes de datos.
+
+**Modelos avanzados de bases de datos**
+
+El objetivo de este curso es estudiar distintos paradigmas de bases de datos. Los objetivos específicos son: presentar el dinamismo existente en el campo de las bases de datos e incentivar la investigación de tecnologías de bases de datos orientadas a big data. Durante el curso se verán paradigmas que van desde bases de datos embebidas en dispositivos móviles hasta los nuevos modelos no relacionales NoSQL. Al final del curso el estudiante tendrá́ las herramientas necesarias para poder analizar y seleccionar la tecnología de base de datos que mejor se adapte a sus necesidades.
+
+**Taller de analítica de datos**
+
+Este curso tiene por objetivo general que los estudiantes integren los conceptos clave de la analítica de datos: qué implica generar ventajas competitivas a partir de los datos y cómo aplicar técnicas de inteligencia artificial y análisis de datos para la resolución de problemas de negocio. En este sentido, se buscará que los estudiantes puedan diferenciar y emplear los diferentes conceptos vinculados a la analítica de datos: ciencia de datos, metodologías, roles, tecnologías y técnicas de modelado. Por último, se busca que los participantes del curso puedan desarrollar las competencias prácticas para integrar el análisis de datos a la toma de decisiones, como método de resolución de problemas comunes con abordajes innovadores. En este sentido, el curso tendrá un abordaje teórico práctico, en el cual los estudiantes puedan ir aplicando los fundamentos de análisis de datos cubiertos en casos de negocio y datos reales, desde el entendimiento del problema, a la extracción de insights accionables a partir de los datos.
+
+#### Semestre 2
+
+**Deep learning aplicado al análisis de datos**
+
+Uno de los problemas fundamentales en aprendizaje automático es la representación del conocimiento. Las técnicas y modelos de aprendizaje profundo constituyen un paradigma cuyo factor central es la representación de modelos complejos mediante la composición de representaciones más simples. Esta materia presenta los modelos fundamentales de aprendizaje profundo, en particular, diferentes tipos de redes neuronales, así como una metodología de aplicación práctica. Además, se presentan implementaciones paralelas y distribuidas de los algoritmos que proveen soluciones eficientes en diferentes arquitecturas.
+
+**Ingeniería para Big Data**
+
+El objetivo de este curso es proporcionar una introducción general de los principales conceptos, desafíos y terminología que definen la esencia misma de la analítica de grandes volúmenes de datos. Se presentan las diversas características que distinguen a los grandes conjuntos de datos y el ciclo de vida de la analítica, desde la identificación hasta la utilización final para la toma de decisiones. Se discute cómo los grandes volúmenes de datos impactan en la inteligencia de negocios. Se estudian las diferentes fases de la analítica de big data, en cuanto a los requerimientos, infraestructura y mecanismos necesarios para el almacenamiento, procesamiento y análisis de grandes volúmenes de datos.
+
+**Taller de tecnologías para Big Data**
+
+El objetivo de este taller es poner en práctica los conocimientos, competencias y herramientas necesarias con el fin de poder sobrellevar los retos relacionados con la gobernanza y la toma de decisiones a partir de grandes volúmenes de datos en diferentes áreas de negocio, en particular, organizaciones relacionadas con la salud, empresas, organismos públicos, etc. Por ejemplo, un proyecto tipo consistirá en la elaboración de una serie de dashboards cuyo objetivo es responder a las preguntas que se formulan los responsables de las diferentes áreas de una organización, tales como ¿es posible personalizar los mensajes de marketing en tiempo real? ¿se puede lograr aumentar las compras online de los clientes en un 15%?

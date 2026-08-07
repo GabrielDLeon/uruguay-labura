@@ -1,0 +1,165 @@
+---
+title: "Diseño y Producción de Videojuegos"
+similar:
+  - licenciatura-en-animacion-y-videojuegos-ort
+  - diseno-de-interfaces-ort
+  - master-en-diseno-estrategico-e-innovacion-ort
+  - tecnico-en-diseno-de-sonido-ort
+  - diseno-grafico-ort
+  - tecnico-en-diseno-de-interiores-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Diseño"
+modality: "presencial"
+shift: "night"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fd.ort.edu.uy/diseno-y-produccion-de-videojuegos"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Diseño y Producción de Videojuegos de ORT Uruguay. La carrera forma profesionales capaces de concebir, diseñar y prototipar experiencias interactivas, combinando creatividad, narrativa y tecnología"
+tags:
+  - audiovisual
+  - diseno
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fd.ort.edu.uy/diseno-y-produccion-de-videojuegos'
+  - label: 'Plan de estudios'
+    url: 'https://fd.ort.edu.uy/diseno-y-produccion-de-videojuegos/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La carrera forma profesionales capaces de concebir, diseñar y prototipar experiencias interactivas, combinando creatividad, narrativa y tecnología
+
+- Creación de experiencias para medios digitales
+- Creación de guiones, niveles y prototipos
+- Introducción a la gestión y el marketing para videojuegos
+
+La carrera forma profesionales capaces de concebir, diseñar y prototipar experiencias interactivas innovadoras, combinando creatividad, narrativa y tecnología.
+
+El plan de estudios integra fundamentos de diseño de juego en 2D y 3D, el diseño de interacción y mecánicas de juego, así como en la planificación de equipos de trabajo y la gestión de tiempos en un rol de productor de contenidos interactivos.
+
+### Títulos y Reconocimientos
+
+Los estudiantes que aprueben las 17 materias obligatorias, incluido el Portfolio final, obtienen el título de Diseñador/a y Productor/a de Videojuegos.
+
+### Modalidad
+
+La carrera se dicta de forma presencial. Las instancias de evaluación obligatorias podrán realizarse mediante entrega digital y/o presencial. Además, muchas asignaturas complementan su enseñanza a través del modelo de "aula expandida", una plataforma online que enriquece la experiencia de aprendizaje, facilitando el acceso a materiales, recursos y actividades que refuerzan la formación en el aula.
+
+### Duración y Horarios
+
+Duración 2 años. Horarios de clase Frecuencia: 4 días por semana. Nocturno: de lunes a jueves de 19:00 a 22:15. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+1.er año de Educación Media Superior (EMS) completo o su equivalente.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Diseño 1 (Comunicación)**
+
+Desarrolla la capacidad expresiva a través de ejercicios de percepción sensorial y expresión libre. Estudia sistemas de generación de formas, teoría del color, técnicas visuales, imagen gráfica y su representación bi y tridimensional.
+
+**Diseño de videojuegos 1 (GDD)**
+
+Introducción a los fundamentos del diseño de videojuegos y elaboración del Game Design Document (GDD) como herramienta central de planificación. El estudiante aprenderá a estructurar ideas, definir mecánicas, dinámicas y objetivos, y comunicar efectivamente la visión de un proyecto de videojuego.
+
+**Narrativa y guion**
+
+La asignatura introduce al estudiante en los fundamentos del guion aplicado al ámbito audiovisual, multimedial y de los videojuegos. Se abordan las estructuras narrativas y las mecánicas de storytelling interactivo. Asimismo, se incorporan herramientas metodológicas para crear relatos inmersivos que potencien la experiencia del jugador en la producción de un producto interactivo.
+
+**Proceso digital de imágenes**
+
+Introduce al campo de la imagen digital y manejo del software pixelar. Aborda la creación de texturas aplicables a los objetos modelados y la optimización y fotocomposición de imágenes.
+
+#### 2.° semestre
+
+**Teoría y evolución del juego**
+
+La asignatura propone un recorrido por la evolución del juego y del videojuego como fenómeno cultural y social, abordando los fundamentos conceptuales de la teoría del juego y la ludología. A partir del análisis el estudiante desarrollará una mirada crítica y creativa sobre el diseño de experiencias lúdicas digitales, explorando también aplicaciones como el advergaming y la comunicación a través de videojuegos.
+
+**Diseño de videojuegos 2 (UX-Videojuegos 2D)**
+
+Profundiza en el diseño de experiencias de usuario aplicadas a videojuegos 2D. Se trabajan principios de usabilidad, accesibilidad, de interfaces y flujo de interacción, integrados al diseño visual y narrativo para generar experiencias jugables coherentes y atractivas.
+
+**Programación para videojuegos 1**
+
+La asignatura introduce al estudiante en los principios fundamentales de la programación aplicada al desarrollo de videojuegos. Se trabajan conceptos básicos de lógica, estructuras de control y manejo de objetos, orientados a la creación de prototipos jugables.
+
+**Animación 2D**
+
+La asignatura introduce al estudiante en el uso lineal y no lineal de las herramientas digitales, creando una narrativa visual animada 2D.
+
+### 2.° año
+
+#### 3.er semestre
+
+**Gestión de proyectos**
+
+La asignatura capacita en los principios, metodologías y herramientas de gestión aplicadas al desarrollo de videojuegos. Introduce al estudiante en la planificación y coordinación de procesos creativos y tecnológicos, integrando aspectos de diseño, programación, arte y narrativa.
+
+**Diseño de videojuegos 3 (Videojuegos narrativos)**
+
+Explora las posibilidades narrativas del videojuego como medio interactivo. El curso aborda storytelling, construcción de mundos, diseño de personajes y guion no lineal, aplicando estas herramientas en el desarrollo de propuestas narrativas que potencien la jugabilidad.
+
+**Programación para videojuegos 2**
+
+La asignatura profundiza en el desarrollo de videojuegos mediante la incorporación de técnicas avanzadas de programación y optimización. Se abordan estructuras más complejas, integrando componentes 2D y 3D.
+
+**Modelado y animación 3D**
+
+La asignatura capacita en los fundamentos del modelado y la animación tridimensional digital. Introduce en el modelado técnico orgánico, la puesta en escena, el control de luces, sombras, cámaras y texturas, así como la animación de personajes 3D.
+
+#### 4.° semestre
+
+**Marketing and live operations**
+
+La asignatura introduce al estudiante en las estrategias de posicionamiento, difusión y sostenibilidad de los videojuegos. Capacita en los conceptos de marketing digital, segmentación de audiencias, construcción de comunidades y análisis de métricas de desempeño. Asimismo, se abordan las dinámicas de live operations, entendidas como la gestión continua de un videojuego tras su lanzamiento.
+
+**Diseño de videojuegos 4 (Videojuegos 3D)**
+
+Introducción al diseño y producción de videojuegos en entornos 3D. Se abordan aspectos de jugabilidad en tres dimensiones, diseño de niveles, cámara, física y experiencia inmersiva, integrando los conocimientos adquiridos previamente para la construcción de un proyecto completo.
+
+**Emprendimientos**
+
+La asignatura capacita al estudiante en los fundamentos de la creación y gestión de iniciativas dentro de la industria creativa y de los videojuegos. El curso promueve el desarrollo de una mentalidad emprendedora, brindando herramientas para transformar ideas en proyectos sostenibles. A su vez se fomenta la capacidad de presentar, argumentar y validar proyectos ante diferentes públicos e inversores.
+
+**IA generativa para videojuegos**
+
+La asignatura aborda el rol y el impacto de la inteligencia artificial (IA) generativa en el campo de los videojuegos combinando la teoría y práctica, así como el uso responsable de la herramienta.

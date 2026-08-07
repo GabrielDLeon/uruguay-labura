@@ -1,0 +1,126 @@
+---
+title: "Diploma de Especialización en Inteligencia Artificial"
+similar:
+  - master-en-inteligencia-artificial-ort
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - especializacion-en-robotica-e-inteligencia-artificial-utec
+  - maestria-en-robotica-e-inteligencia-artificial-utec
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - analista-en-tecnologias-de-la-informacion-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "especializacion"
+area: "Ingeniería"
+modality: "hibrido"
+shift: "night"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Arancelado"
+language: "Español"
+website: "https://fi.ort.edu.uy/diploma-de-especializacion-en-inteligencia-artificial"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "El objetivo del Diploma de Especialización en Inteligencia Artificial es formar profesionales capaces de construir sistemas computacionales inteligentes."
+tags:
+  - informatica
+  - inteligencia artificial
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fi.ort.edu.uy/diploma-de-especializacion-en-inteligencia-artificial'
+  - label: 'Plan de estudios'
+    url: 'https://fi.ort.edu.uy/diploma-de-especializacion-en-inteligencia-artificial/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El objetivo del Diploma de Especialización en Inteligencia Artificial es formar profesionales capaces de construir sistemas computacionales inteligentes.
+
+- Aprendizaje de las principales técnicas y herramientas de inteligencia artificial
+- Desarrollo de proyectos que solucionen problemas reales de diferentes ámbitos
+- Apoyo de docentes que te brindarán feedback constante y personalizado
+- aumento del valor agregado en productos y servicios,
+- aceleración del crecimiento,
+- apalancamiento de la innovación.
+
+El diploma brinda conocimientos teóricos esenciales para la construcción de algoritmos de aprendizaje automático avanzados y experiencia práctica en el manejo de tecnologías para la ingeniería de sistemas computacionales inteligentes.
+
+El plan de estudios pone énfasis en reinforcement learning y deep learning, pilares fundamentales de la inteligencia artificial moderna.
+
+El impacto esperado de la adopción de técnicas de inteligencia artificial, motorizadas por big data, en el sistema productivo son:
+
+Los cursos aprobados del plan de estudios del Diploma son reconocidos para la realización del Master en Inteligencia Artificial y dan créditos para el Master en Ingeniería (por Investigación).
+
+### Títulos y Reconocimientos
+
+El Diploma de Especialización en Inteligencia Artificial es un postgrado reconocido por resolución oficial del Ministerio de Educación y Cultura del 28/07/20.
+
+### Modalidad
+
+El postgrado se dicta en modalidad HyFlex®. Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones se dictan de forma presencial.
+
+### Duración y Horarios
+
+Duración 1 año. Horarios de clase Nocturno: tres veces por semana entre lunes y jueves de 19:00 a 22:00 horas. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Poseer título universitario. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Requisito de Graduación
+
+Para obtener el título de Diploma de Especialización en Inteligencia Artificial se requiere: Aprobar un mínimo de 6 asignaturas del plan de estudios.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### Semestre 1
+
+**Agentes inteligentes**
+
+Esta materia presenta una introducción al problema de desarrollar agentes inteligentes que interactúan a lo largo del tiempo con un entorno, percibido de manera aproximada. Estos deben aprender a tomar acciones que modifican el ambiente guiados por una función de utilidad a maximizar. Se estudian los fundamentos del aprendizaje por refuerzos como enfoque computacional para resolver el problema planteado. Se utiliza el marco formal de los procesos de decisión de Márkov para definir la interacción entre un agente y su entorno en términos de estados, acciones y recompensas. Este marco permite modelar relaciones de causa y efecto, la incertidumbre y el no determinismo, y utilidades numéricas explícitas.
+
+**Taller de inteligencia artificial**
+
+El objetivo de este taller es aplicar los conocimientos adquiridos en casos de estudio prácticos. Se utilizarán herramientas basadas en Python, en particular OpenAI.
+
+**Machine learning para inteligencia artificial**
+
+El objetivo de este curso es presentar los fundamentos teóricos del aprendizaje estadístico (o statistical learning theory) y los paradigmas algorítmicos que se derivan de estos. Mediante un enfoque teórico-práctico se guía al estudiante en el desarrollo de sistemas de inteligencia artificial con el fin de resolver problemas mediante aprendizaje automático (o machine learning) en diferentes áreas de aplicación.
+
+#### Semestre 2
+
+**Modelos de deep learning**
+
+Uno de los problemas fundamentales en aprendizaje automático es la representación del conocimiento. Las técnicas y modelos de aprendizaje profundo constituyen un paradigma cuyo factor central es la representación de modelos complejos mediante la composición de representaciones más simples. Esta materia presenta los modelos fundamentales de aprendizaje profundo, en particular, diferentes tipos de redes neuronales, enfocándose principalmente en los aspectos teóricos de estos modelos.
+
+**Taller de deep learning**
+
+El objetivo de este taller es experimentar con herramientas de deep learning para resolver problemas de procesamiento de lenguaje natural, reconocimiento de patrones en imágenes, diagnóstico médico, detección de spam, etc. Se utilizarán herramientas basadas en Python.
+
+**Inteligencia artificial generativa**
+
+Este curso es una introducción al campo de la inteligencia artificial orientada al desarrollo y aplicación de algoritmos y modelos que tienen la capacidad de generar contenidos de forma autónoma. La materia se basa en una metodología hands-on que motiva a explorar diversas técnicas y enfoques utilizados en la IA generativa, proporcionando una base sólida para comprender y aplicar estos conceptos en proyectos de la vida real.

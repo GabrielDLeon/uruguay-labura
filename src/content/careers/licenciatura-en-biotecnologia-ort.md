@@ -1,0 +1,324 @@
+---
+title: "Licenciatura en Biotecnología"
+similar:
+  - licenciatura-en-biotecnologia-udelar
+  - biotecnologia-doctorado-udelar
+  - biotecnologia-maestria-udelar
+  - ingenieria-en-biotecnologia-ort
+  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
+  - licenciatura-en-ciencias-biologicas-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "licenciatura"
+area: "Ingeniería"
+modality: "hibrido"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fi.ort.edu.uy/licenciatura-en-biotecnologia"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Licenciatura en Biotecnología de ORT Uruguay. La Licenciatura en Biotecnología forma profesionales que evalúan, desarrollan y mejoran procesos de producción en diferentes industrias."
+tags:
+  - biologia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fi.ort.edu.uy/licenciatura-en-biotecnologia'
+  - label: 'Plan de estudios'
+    url: 'https://fi.ort.edu.uy/licenciatura-en-biotecnologia/plan-de-estudios'
+  - label: 'Listado de carreras universitarias'
+    url: 'https://www.ort.edu.uy/carreras-universitarias'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La Licenciatura en Biotecnología forma profesionales que evalúan, desarrollan y mejoran procesos de producción en diferentes industrias.
+
+- Uso intensivo de tecnología e instrumentos de vanguardia en biotecnología
+- Enseñanza orientada a la innovación y el desarrollo de nuevas soluciones
+- Formación adaptada a las tendencias actuales y futuras de la biotecnología
+
+La carrera Licenciatura en Biotecnología forma profesionales con las destrezas técnicas para desempeñarse en la innovación de productos y procesos para la industria.
+
+Asimismo, pueden incorporarse a equipos multidisciplinarios de investigación y desarrollo.
+
+Los graduados trabajan en áreas como el agro, la industria, la salud, el desarrollo de fármacos y vacunas, entre muchas otras.
+
+La biotecnología es una industria en sí misma y a la vez una disciplina transversal, debido a la importancia que tiene en distintos procesos productivos, incluidos los alimentos, la energía, la salud, la educación y la producción en general.
+
+Los estudiantes tienen acceso a equipos de última generación desde el primer año, lo que les brinda la posibilidad de obtener conocimientos técnicos actualizados y relevantes, y de adquirir destrezas necesarias para el ejercicio de la profesión.
+
+Un porcentaje relevante de las exportaciones uruguayas se basa en los recursos naturales y sus derivados, por lo que las empresas necesitan innovar constantemente en los procesos productivos.
+
+Las carreras en el área de la biotecnología son una buena opción para aportar al sector industrial del país, ya que es una disciplina con múltiples ramas y sus aportes pueden atravesar horizontalmente el mapa productivo uruguayo.
+
+Según explica el coordinador de la carrera, Mag. Carlos Sanguinetti: “El negocio de la biotecnología en Uruguay es muy importante. Si uno compara la industria del vino con la de la biotecnología, cualquiera diría que la del vino es mucho más relevante. Sin embargo, los números muestran algo totalmente diferente”.
+
+Por todas estas razones es que la Universidad ORT Uruguay ofrece diferentes propuestas educativas en el área de la biotecnología, como por ejemplo, la Licenciatura en Biotecnología.
+
+Se apunta a que los graduados tengan un rol importante en el desarrollo y el crecimiento de áreas productivas de alto valor agregado que el país puede generar a partir de sus cadenas agroindustriales.
+
+Laboratorios de avanzada https://www.youtube.com/watch?v=2rdFLEStfWw&feature=emb_logo
+
+Durante el transcurso de la carrera los estudiantes utilizan laboratorios propios de la facultad, especialmente equipados para el trabajo en química, bioquímica, microbiología e ingeniería genética.
+
+Obtienen una preparación altamente competitiva en el manejo de instrumentos y en el dominio de las técnicas de laboratorio de uso habitual en la industria y en la investigación.
+
+Por medio de convenios con instituciones como el Laboratorio Tecnológico del Uruguay (LATU), el Instituto Nacional de Investigación Agropecuaria (INIA) y el Instituto Pasteur de Montevideo, los estudiantes pueden acceder a equipamientos de gran porte, tanto para facilitar el desarrollo de proyectos y actividades especiales como para la demostración y práctica de técnicas instrumentales.
+
+### Título Intermedio
+
+Técnico/a Biotecnólogo/a
+
+### Títulos y Reconocimientos
+
+Una vez terminada la carrera y realizado el trabajo final, los estudiantes reciben el título universitario de Licenciado/a en Biotecnología. Este título es reconocido como de nivel universitario por resolución oficial del Ministerio de Educación y Cultura el 17/11/10. Al finalizar el tercer año, los estudiantes obtienen el título intermedio de Técnico/a Biotecnólogo/a que los habilita para comenzar a desempeñarse en el campo laboral propio de su profesión. Este título es terciario nivel III, reconocido por el Ministerio de Educación y Cultura del 17/11/10. Los graduados que trabajen en el área de la salud deben registrar su título ante el Ministerio de Salud Pública mediante el trámite correspondiente.
+
+### Modalidad
+
+Semestres 1 a 5 Modalidad presencial. Semestre 6 en adelante El estudiante puede elegir si asiste a la clase de forma presencial o si la sigue de manera virtual, en simultáneo, a través de tecnología HyFlex®. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico del estudiante y su participación activa, permitiendo la interacción en tiempo real con docentes y compañeros, tanto para quienes asisten al aula como para quienes participan de forma remota. Algunas materias se dictan exclusivamente en formato presencial debido a su dinámica, el trabajo en equipo o el uso de laboratorios. Las evaluaciones se realizan de forma presencial.
+
+### Duración y Horarios
+
+Duración 4 años. Horarios de clase Matutino: 8:00 a 14:00. Algunas prácticas tienen lugar en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Educación Media Superior (EMS) completa de cualquier orientación salvo las opciones Creativo Artístico, General y Ciencias Sociales y Humanidades – UCA Derecho y Ciencias Políticas. Opciones de bachilleratos EMS equivalentes de planes anteriores. Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Estudiantes provenientes de otras universidades con al menos una materia aprobada, sin importar el bachillerato cursado previamente; sujeto al análisis de antecedentes por parte de la coordinación de la carrera correspondiente. La universidad admite el ingreso condicional a carreras universitarias hasta con dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico. Estudiantes del exterior Los estudiantes que culminaron su educación media en el exterior deben presentar el certificado de estudios correspondiente, apostillado o con legalización consular, a efectos de su admisión a los estudios universitarios de grado en la universidad.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Reválidas
+
+Si iniciaste tu carrera en otra universidad y querés continuar tus estudios en la Universidad ORT Uruguay, podés revalidar las materias aprobadas y contar con beneficios en el valor de la cuota. y así podrás revalidar materias del plan de cursado.
+
+### Requisito de Graduación
+
+Para obtener el título, el estudiante deberá cumplir con la totalidad de los créditos establecidos en el plan de estudios vigente.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Matemática 1**
+
+Uniformizar los niveles de conocimiento matemático de los estudiantes procedentes de las diferentes orientaciones del bachillerato (secundaria). Revisar conceptos básicos, introducir y profundizar en los temas de importancia para materias de semestres que siguen. Más específicamente, manejar clara y precisamente los conceptos y las técnicas del cálculo diferencial e integral y su vinculación con las aplicaciones.
+
+**Química general**
+
+Presenta las bases para comprender la relación entre la estructura de la materia y las propiedades de los compuestos químicos, así como de sus interacciones y reacciones. Se analizan los mecanismos de reacción posibles, su estequiometria implícita, su estudio cuantitativo y sus expresiones. Se presentan los conceptos de equilibrio, cinética química y termoquímica. Se introducen las bases estructurales de la química del carbono y algunos aspectos de la reactividad de las moléculas orgánicas, con énfasis en los constituyentes posteriores de las biomoléculas.
+
+**Biología**
+
+Tiene como objetivo presentar los conocimientos básicos de la Biología, incluyendo los conceptos centrales y los modelos que le permitirán el aprovechamiento de los contenidos de los cursos correlativos (por ejemplo, Biología Celular y Molecular II, Microbiología, Ingeniería Genética, etc.).
+
+**Introducción a la biotecnología**
+
+Presenta una introducción a las técnicas y aplicaciones vinculadas a la utilización de conocimientos biológicos para generar nuevas técnicas, productos y servicios. Revisa, de manera general, los alcances e implicaciones de la utilización de la Biotecnología, presentando ejemplos y casos provenientes de diversas áreas de aplicación. Introduce a la consideración de los aspectos científicos, legales, económicos y éticos de las aplicaciones biotecnológicas.
+
+**Introducción al laboratorio**
+
+Introduce al alumno a los aspectos principales del trabajo en laboratorio, enfatizando las normas de seguridad, correcta manipulación, uso de equipos básicos de laboratorio (ph-metro, balanzas, centrífuga, espectrofotómetro) y registro y procesamiento de datos. Se pretende que el alumno desarrolle destreza en el manejo práctico, así como ejercitar aspectos relacionados con la estructura de la materia, nomenclatura, estequiometria de las reacciones, pH y su medición, soluciones amortiguadoras, titulaciones, equilibrio químico y cinética química.
+
+#### 2.º semestre
+
+**Matemática 2**
+
+Uniformizar los niveles de conocimiento matemático de los estudiantes procedentes de las diferentes orientaciones del bachillerato (secundaria). Revisar conceptos básicos, incorporar y profundizar en los temas de importancia para los siguientes semestres. Introducir el concepto de probabilidad y dar herramientas para su cálculo en problemas concretos. Manejar los conceptos de sucesiones y series. Manejar clara y precisamente los conceptos y las técnicas del álgebra matricial y su vinculación con las aplicaciones.
+
+**Química orgánica**
+
+Introducir al estudiante a los conceptos relacionados a la química del carbono.
+
+**Química biológica**
+
+Estudia las bases químicas y físicoquímicas del comportamiento de las diferentes macromoléculas que constituyen la materia viviente. A partir de los fundamentos básicos de química orgánica, la estructura de las moléculas orgánicas y su reactividad química, se progresa hacia la identificación de los principales grupos funcionales orgánicos de interés en Biotecnología, la evaluación de su reactividad y la predicción de los productos obtenidos en las reacciones orgánicas más importantes.
+
+**Física**
+
+Introduce los métodos y conceptos físicos básicos que se utilizarán en otras asignaturas. El programa considera temas de la mecánica clásica y de los fluidos, los fenómenos de transporte de carga y de calor, como también una introducción a los fundamentos de la mecánica estadística y las fuerzas eléctricas.
+
+**Aspectos éticos y sociales de la biotecnología**
+
+Trata los temas relacionados con la Bioética, la Bioseguridad, el control de calidad y la evaluación de aplicaciones biotecnológicas, desde el punto de vista de la sociedad. Presenta aspectos de la comunicación social vinculada con las Biotecnologías y analiza algunos de los principales desafíos contemporáneos, mediante la presentación y análisis de casos o ejemplos. Videos realizados por estudiantes de primer año para la asignatura.
+
+**Laboratorio de macromoléculas**
+
+Estudia las bases químicas y fisicoquímicas del comportamiento de las diferentes macromoléculas que constituyen la materia viviente. A partir de los fundamentos básicos de química orgánica, la estructura de las moléculas orgánicas y su reactividad química, se progresa hacia la identificación, purificación y análisis de las principales macromoléculas biológicas (proteínas, ácidos nucléicos, lípidos y carbohidratos). También se realizará hincapié en la correcta manipulación, uso de equipos y correcto registro, procesamiento y discusión de datos obtenidos en las actividades prácticas.
+
+### 2.º año
+
+#### 3.er semestre
+
+**Probabilidad y estadística**
+
+Introduce los conceptos de variables aleatorias y distribuciones, medidas de tendencia central y dispersión, así como propiedades de las distribuciones clásicas. Se tratan los modelos probabilísticos y su análisis, así como los modelos de decisión y Bayesianos. Se presenta la estadística de muestras, el análisis de varianza, la regresión lineal y los principales tests estadísticos, así como las funciones involucradas.
+
+**Bioquímica**
+
+Presenta los conceptos básicos de la estructura y función de las macromoléculas de importancia biológica y el metabolismo intermediario, con énfasis en la integración del metabolismo con conceptos de regulación metabólica, producción y consumo energético.
+
+**Biología celular**
+
+Trata los conceptos que caracterizan a los seres vivos a nivel celular, presentando de organización biológica, estructura de la célula, microscopía, organización subcelular, componentes químicos de los seres vivos, moléculas biológicas, metabolismo y genética, entre otros.
+
+**Fisicoquímica 1**
+
+Introduce el conjunto de principios y métodos para explorar los sistemas químicos que son especialmente valiosos para comprender procesos biológicos. Estudia los fundamentos de la termodinámica, enfatizando las aplicaciones a equilibrio químico, soluciones y macromoléculas biológicas. Trata las propiedades de transporte y estudia los conceptos de cinética química, en particular de las reacciones enzimáticas. Introduce los principios de la espectroscopía y los métodos microscópicos que permite conocer interacciones intermoleculares y comprender el comportamiento estructural de las moléculas biológicas, así como las técnicas usadas para su separación y procesamiento.
+
+**Laboratorio de biología celular**
+
+Familiariza al alumno con los sistemas de medición y observación clásicos utilizados en Biología, introduciendo el trabajo con organismos vivos o materiales provenientes de éstos. Enseña el uso del microscopio óptico. El estudiante incursiona en algunas técnicas de extracción, separación y análisis de moléculas biológicas.
+
+**Propiedad Intelectual e Industrial**
+
+Trata las nociones básicas de la protección de la propiedad intelectual e industrial y la patentabilidad de invenciones biotecnológicas. Analiza las ventajas y desventajas de las patentes versus el secreto industrial. Además presenta los tipos de patentes relevantes para la Biotecnología y los requisitos y procesos para presentar patentes en Estados Unidos y Europa, así como los mecanismos previstos por el Tratado Internacional de Cooperación en Patentes (PCT).
+
+#### 4.º semestre
+
+**Genética y evolución**
+
+A partir de los conceptos de información biológica e interacción molecular como fundamentos de la vida, presenta los fundamentos de la herencia y la variación en los seres vivos para comprender la base material de la herencia y la diversidad biológica. Analiza los distintos niveles en los que estos fenómenos pueden estudiarse y ser modificados. Presenta una visión del concepto de genoma y postgenoma. Estudia las leyes que explican el comportamiento de los genes en las familias y las poblaciones. Presenta las potenciales implicancias de estos conocimientos sobre nuestra sociedad, salud y formas de producción.
+
+**Economía**
+
+Introduce los conceptos económicos relevantes para comprender el entorno de las empresas. El programa incluye la conceptualización de la oferta y demanda, la escasez y el costo de oportunidad, la organización de los sistemas económicos y su funcionamiento en una economía de mercado. Se presenta la función del dinero en la economía, los problemas de la inflación y el desempleo.
+
+**Biología molecular**
+
+Esta asignatura tiene como objetivo introducir al estudiante en los conocimientos avanzados de Biología Celular y Molecular, que le permitirán comprender los mecanismos involucrados en el funcionamiento y reproducción de los seres vivos. Por ejemplo, en el mantenimiento y expresión de la información genética en organismos procariotas y eucariotas, en la estructura del material genético, en la replicación, recombinación y reparación de ADN, la transcripción y el procesamiento de ARN, y la traducción y regulación de la expresión génica.
+
+**Fisicoquímica 2**
+
+Introduce el conjunto de principios y métodos para explorar los sistemas químicos que son especialmente valiosos para comprender procesos biológicos. Estudia los fundamentos de la termodinámica, enfatizando las aplicaciones a equilibrio químico, soluciones y macromoléculas biológicas. Trata las propiedades de transporte y estudia los conceptos de cinética química, en particular de las reacciones enzimáticas. Introduce los principios de la espectroscopía y los métodos microscópicos que permite conocer interacciones intermoleculares y comprender el comportamiento estructural de las moléculas biológicas, así como las técnicas usadas para su separación y procesamiento.
+
+**Métodos y equipos analíticos**
+
+Esta asignatura presenta las diferentes metodologías instrumentales cuali y cuantitativas utilizadas en Bioquímica, Fisicoquímica, Biología Celular y Molecular para la purificación, caracterización y cuantificación de biomoléculas, incluyendo visitas para el conocimiento de equipo de gran porte y presentaciones invitadas.
+
+**Laboratorio de enzimología**
+
+Integrar aspectos fundamentales y aplicados de la enzimología moderna desde un punto de vista práctico.
+
+### 3.er año
+
+#### 5.º semestre
+
+**Programación**
+
+Introducir a la utilización de un sistema operativo y a la programación de computadores mediante un lenguaje de alto nivel. Se dará énfasis a la resolución de problemas del área Bioinformática mediante la aplicación de algoritmos típicos.
+
+**Microbiología**
+
+Trata los principios fundamentales de la microbiología, como instrumento para comprender sus diferentes aplicaciones a la biotecnología. Se presentan aspectos de la estructura y función de microorganismos procariotas y eucariotas. Se estudian los requerimientos nutricionales y el metabolismo microbiano, así como la cinética de crecimiento. Se presentan los principales agentes antimicrobianos, de esterilización y desinfección, junto con sus mecanismos de acción. Posteriormente se estudian aplicaciones que vinculan la microbiología con las biotecnologías, incluyendo el campo de la salud, las tecnologías de alimentos, ambientales, agrícolas e industriales. Se estudian aspectos del metabolismo aplicado a los procesos y se analizan los habitats extremos, que se consideran una posible fuente de microorganismos de interés biotecnológico.
+
+**Gestión de empresas**
+
+Se presentan los aspectos centrales de la gestión estratégica de las empresas y su funcionamiento, profundizando en la naturaleza de la estrategia competitiva y la forma de implementarla de manera exitosa a través de modelos sustentables de negocio.
+
+**Ingeniería genética**
+
+La asignatura presenta una visión de la ingeniería genómica como un nuevo campo de las ingenierías, integrando aportes desde la biología de sistemas y orientada al desarrollo tecnológico de nuevos productos y procesos. Integra conceptos de genética y biología molecular con herramientas bioinformáticas que faciliten la comprensión funcional e ingeniería de diversos bioprocesos. Se identifican y analizan casos de aplicaciones biotecnológicas que están siendo desarrolladas a partir de los avances en el conocimiento de la biología genómica. Se discuten líneas generales de posibles soluciones biotecnológicas para diversos sectores económicos, a partir de la oferta de información genómica y post-genómica disponible a nivel internacional.
+
+**Laboratorio de biología molecular**
+
+Introduce los fundamentos para el desarrollo de metodologías de clonado y presenta la tecnología del ADN recombinante, con sus amplias aplicaciones biotecnológicas. Se enseñan los fundamentos y aplicaciones de las distintas técnicas utilizadas en Ingeniería Genética aplicadas en diversas ramas de la Biología, como por ejemplo: clonado molecular, incluyendo enzimas de restricción y modificación de ácidos nucleicos; vectores plasmídicos, vectores fágicos y transformación de células procariotas y eucariotas. Se presentan las técnicas de análisis de ácidos nucleicos, incluyendo geles de agarosa, geles de poliacrilamida, visualización y medida de ADN y ARN, marcado de sondas e hibridización de ácidos nucleicos y secuenciación de ADN. Se trata la construcción y análisis de bibliotecas genómicas y de ADNc. Se presenta la reacción en cadena de la polimerasa y las técnicas de mutagénesis dirigida.
+
+#### 6.º semestre
+
+**Bioinformática 1**
+
+Introduce los conceptos básicos del análisis de secuencias biológicas, así como las herramientas básicas para dicho análisis. A partir de este curso el estudiante será capaz de ubicar los repositorios claves de secuencias, así como extraer información relevante a partir de estas. Desarrollará habilidades que le permitan estudiar la estructura y propiedades de biomoléculas claves asociadas a problemas biológicos, bioquímicos y/o farmacoquímicos, así como la aplicación de nuevos métodos y recursos bioinformáticos de modelado y predicción.
+
+**Agrobiotecnologías**
+
+Introduce las principales tecnologías implicadas en la moderna agrobiotecnología, las tendencias y las perspectivas de desarrollo. Trata el impacto de las biotecnologías en el sector agropecuario a nivel internacional y nacional, y la relación de la biotecnología con la agricultura sustentable. Se presentan técnicas básicas para el cultivo de tejidos vegetales y la regeneración de plantas in vitro, así como la organización del laboratorio, su montaje y el costeo de la producción, enfatizando la producción masiva de microplantas. También se presentan aplicaciones de la tecnología de manipulación genética para el desarrollo de cultivos con tolerancia a herbicidas y resistencia al daño causado por insectos. Se estudia la realización de pruebas de campo con plantas transgénicas bajo condiciones de bioseguridad y los procesos para la liberación comercial de plantas transgénicas. Se analizan las aplicaciones de la tecnología de marcadores moleculares en el mejoramiento genético de plantas y animales de interés agropecuario, así como la identificación genética aplicada en procesos de trazabilidad de productos vegetales y animales.
+
+**Inmunotecnologías**
+
+Trata la relación antígeno-anticuerpo, y la producción de anticuerpos monoclonales y recombinantes. Presenta metodologías para el diseño de ELISA y WB. Se tratan aplicaciones al diagnóstico y a la tipificación. Se discuten las potencialidades y líneas de desarrollo de las inmunotecnologías.
+
+**Bioprocesos**
+
+Esta secuencia de materias relacionadas con bioprocesos se refiere a la selección de la fuente, producción, y aislación del producto biotecnológico. A partir de la comprensión de los distintos sistemas de expresión recombinante, se trata la selección del sistema de expresión acorde al producto y la formulación del medio apropiado para el bioproceso. Se plantea el diseño de un bioproceso, el modelado de biorreactores, y las técnicas de operación de fermentadores, así como los conceptos de esterilización, la evaluación de los rendimientos y el manejo de los parámetros del reactor. También, se tratan los sistemas de ruptura celular y liberación de producto junto con los métodos y mecanismos para la separación de biomoléculas, con el objetivo de seleccionar el proceso más conveniente desde el punto de vista de los parámetros requeridos de pureza y concentración. Se tratan las técnicas de escalado y la evaluación de rendimientos y aspectos económicos de los bioprocesos. El objetivo final es la capacidad de diseñar un proceso viable y dimensionar equipamiento de acuerdo con la necesidad planteada, los requisitos y normativas de GMP.
+
+**Laboratorio de microbiología**
+
+Enseña las técnicas y metodologías microbiológicas tradicionales, con el objetivo de desarrollar criterio para resolver experimentalmente problemas referidos a la microbiología general. Introduce el uso de métodos moleculares para caracterización de microorganismos, la Bioseguridad, las preparaciones y coloraciones para microscopía, las técnicas de preparación, y esterilización de materiales de laboratorios, medios de cultivo y soluciones, y la descontaminación de material. Se enseña el trabajo en condiciones asépticas, así como las técnicas de siembra y conservación de microorganismos. Se trabaja en el aislamiento y caracterización de microorganismos y el recuento de bacterias y hongos. Se estudian algunos factores que afectan el crecimiento microbiano y la influencia de agentes químicos y antibióticos sobre el crecimiento. Muestra de los trabajos realizados por estudiantes durante el curso.
+
+### 4.º año
+
+#### 7.º semestre
+
+**Bioinformática 2**
+
+Introducen los conceptos básicos del análisis de secuencias biológicas, así como las herramientas básicas para dicho análisis. A partir de este curso el alumno será capaz de ubicar los repositorios claves de secuencias, así como extraer información relevante a partir de las mismas. Desarrollará habilidades que le permitan estudiar la estructura y propiedades de biomoléculas claves asociadas a problemas biológicos, bioquímicos y/o farmacoquímicos, así como la aplicación de nuevos métodos y recursos bioinformáticos de modelado y predicción.
+
+**Bioseparaciones**
+
+Esta secuencia de materias relacionadas con bioprocesos se refiere a la selección de la fuente, producción, y aislación del producto biotecnológico. A partir de la comprensión de los distintos sistemas de expresión recombinante, se trata la selección del sistema de expresión acorde al producto y la formulación del medio apropiado para el bioproceso. Se plantea el diseño de un bioproceso, el modelado de biorreactores, y las técnicas de operación de fermentadores, así como los conceptos de esterilización, la evaluación de los rendimientos y el manejo de los parámetros del reactor. Además, se tratan los sistemas de ruptura celular y liberación de producto junto con los métodos y mecanismos para la separación de biomoléculas, con el objetivo de seleccionar el proceso más conveniente desde el punto de vista de los parámetros requeridos de pureza y concentración. Se enseñan las técnicas de escalado y la evaluación de rendimientos y aspectos económicos de los bioprocesos. El objetivo final es la capacidad de diseñar un proceso viable y dimensionar equipamiento de acuerdo con la necesidad planteada, los requisitos y normativas de GMP.
+
+**Tecnología de los alimentos**
+
+Tiene como objetivo presentar, formar y confrontar al futuro graduado con los aspectos esenciales de la Biotecnología alimentaria, desde los conceptos de alimentos funcionales hasta la presentación de un plan de negocios, pasando por nociones de propiedad intelectual y comunicación científica.
+
+**Bionegocios**
+
+Esta asignatura presenta la estructura del sector industrial y sus principales subsectores. Se analizan casos de estudio de emprendimientos basados en biotecnologías, los modelos de negocio utilizados en el sector, y la financiación de emprendimientos de biotecnología. Se presentan los conceptos de evaluación económica de proyectos. Se analizan las técnicas para la identificación de oportunidades y se aplican a un caso o ejemplo de estudio.
+
+**Laboratorio de control de calidad**
+
+Curso práctico que permite al estudiante adquirir la capacidad y destrezas técnicas en los aspectos relacionados con el control de calidad y de regulación que rodean la experimentación y la investigación con una aplicación directa en la industria biotecnológica.
+
+**Virología**
+
+Presenta conceptos generales sobre los virus y la estructura viral. Trata la relación virus-célula, la multiplicación viral, interferencia, evolución y genética viral. Estudia la inmunología viral, la transformación de células inducida por virus y las familias virales. Presenta la genética molecular de virus y los métodos de diagnóstico viral.
+
+#### 8.º semestre
+
+**Trabajo de grado**
+
+El proyecto de grado es una actividad integradora en donde los estudiantes, trabajando en grupos de hasta tres integrantes o –excepcionalmente- en forma individual, desarrollan el planteo de un proceso o servicio basado en la biotecnología. Los temas de proyecto pueden ser propuestos por los propios estudiantes y aprobados por la Coordinación Académica, o pueden surgir de una lista propuesta por la Coordinación Académica a partir de temas originados en la industria, los sectores de producción primaria o de problemas de interés sanitario o productivo. El desarrollo del proyecto debe ser científicamente fundado, incluir aspectos tecnológicos y económicos, debe estar basado en los resultados técnicos del laboratorio de proyecto o en información científica disponible. Se busca que el proyecto de grado genere una propuesta viable de aplicación biotecnológica de interés productivo, con valor económico o interés social.
+
+**Inmunotecnologías 2**
+
+El curso está orientado a profundizar en el uso de herramientas inmunotecnológicas para el tratamiento y diagnóstico de diversas patologías como el cáncer, enfermedades autoinflamatorias/autoinmunes, y enfermedades infecciosas.
+
+**Análisis y diseño de bioprocesos**
+
+Esta secuencia de materias relacionadas con bioprocesos se refiere a la selección de la fuente, producción, y aislación del producto biotecnológico. A partir de la comprensión de los distintos sistemas de expresión recombinante, se trata la selección del sistema de expresión acorde al producto y la formulación del medio apropiado para el bioproceso. Se plantea el diseño de un bioproceso, el modelado de biorreactores, y las técnicas de operación de fermentadores, así como los conceptos de esterilización, la evaluación de los rendimientos y el manejo de los parámetros del reactor. Se tratan los sistemas de ruptura celular y liberación de producto junto con los métodos y mecanismos para la separación de biomoléculas, con el objetivo de seleccionar el proceso más conveniente desde el punto de vista de los parámetros requeridos de pureza y concentración. Se enseñan las técnicas de escalado y la evaluación de rendimientos y aspectos económicos de los bioprocesos. El objetivo final es la capacidad de diseñar un proceso viable y dimensionar equipamiento de acuerdo con la necesidad planteada, los requisitos y normativas de GMP.
+
+**Temas avanzados en biotecnología**
+
+Esta asignatura es una puesta al día de un tema de actualidad en Biotecnología. Pretende que el estudiante profundice su formación sobre un tema específico de su elección, generalmente relacionado con su proyecto de grado, mediante el estudio y producción de un informe técnico bajo la supervisión de un docente. Según determine el docente, el curso puede involucrar el estudio de textos y publicaciones técnicas, una pasantía en una industria, trabajo de laboratorio (en la asignatura Laboratorio de Proyecto 2), la búsqueda y sistematización de información técnica, de propiedad industrial o económica sobre una oportunidad de negocios, u otros temas análogos.
+
+**Laboratorio de biotecnología vegetal**
+
+El laboratorio plantea una secuencia de trabajo que se inicia con el desarrollo del inóculo: definición de un gen de interés, producción, purificación; selección del vector, clonado y expresión; determinación de las condiciones ideales de cultivo. A continuación se realiza la fermentación, recuperación de la biomasa, ruptura celular y solubilización de cuerpos de inclusión. Finalmente, se realiza la concentración del producto por ultrafiltración, purificación cromatográfica o diafiltración. La secuencia se pone en relación con el trabajo en Bioprocesos.
