@@ -25,6 +25,14 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
 import { getMatchingBecas } from "@/lib/scholarships";
 import LastUpdated from "@/components/LastUpdated.astro";
 import TabsContent from "@/components/common/TabsContent.astro";
+import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
+import {
+  absUrl,
+  breadcrumbList,
+  educationalProgramMode,
+  durationToIso8601,
+  parseCost,
+} from "@/lib/seo";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -92,22 +100,93 @@ const detailItems = [
       : undefined,
   },
 ];
+
+const pageUrl = absUrl(`/educacion/carreras/${entry.id}`);
+const degreeTypeLabel =
+  degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType;
+const breadcrumbs = [
+  { label: "Inicio", url: absUrl("/") },
+  { label: "Educación", url: absUrl("/educacion") },
+  { label: "Carreras", url: absUrl("/educacion/carreras") },
+  { label: entry.data.title },
+];
+const price = parseCost(entry.data.cost);
+const timeToComplete = durationToIso8601(entry.data.duration);
+const programMode = educationalProgramMode[entry.data.modality];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": `${pageUrl}#webpage`,
+      url: pageUrl,
+      name: entry.data.title,
+      inLanguage: "es",
+      isPartOf: { "@id": `${absUrl("/")}#website` },
+      about: { "@id": `${pageUrl}#program` },
+      breadcrumb: { "@id": `${pageUrl}#breadcrumb` },
+    },
+    {
+      "@type": "EducationalOccupationalProgram",
+      "@id": `${pageUrl}#program`,
+      url: pageUrl,
+      name: entry.data.title,
+      ...(entry.data.description
+        ? { description: entry.data.description }
+        : {}),
+      programType: degreeTypeLabel,
+      ...(programMode ? { educationalProgramMode: programMode } : {}),
+      ...(timeToComplete ? { timeToComplete } : {}),
+      ...(entry.data.credits != null
+        ? { numberOfCredits: entry.data.credits }
+        : {}),
+      ...(entry.data.startDate ? { startDate: entry.data.startDate } : {}),
+      ...(entry.data.applicationDeadline
+        ? { applicationDeadline: entry.data.applicationDeadline }
+        : {}),
+      inLanguage: "es",
+      educationalCredentialAwarded: {
+        "@type": "EducationalOccupationalCredential",
+        credentialCategory: degreeTypeLabel,
+        name: entry.data.title,
+      },
+      provider: {
+        "@type": "CollegeOrUniversity",
+        name: entry.data.institutionName,
+        ...(entry.data.institution
+          ? {
+              url: absUrl(`/educacion/instituciones/${entry.data.institution}`),
+            }
+          : {}),
+        sameAs: entry.data.website,
+      },
+      ...(price != null
+        ? {
+            offers: {
+              "@type": "Offer",
+              priceSpecification: {
+                "@type": "PriceSpecification",
+                price,
+                priceCurrency: "UYU",
+              },
+            },
+          }
+        : {}),
+    },
+    breadcrumbList(breadcrumbs, `${pageUrl}#breadcrumb`),
+  ],
+};
 ---
 
 <Layout
   title={entry.data.title}
   description={entry.data.description ??
     `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
+  jsonLd={jsonLd}
 >
   <Block class="border-b">
-    <div class="mb-4">
-      <a
-        href="/educacion"
-        class="text-sm text-muted-foreground hover:text-foreground"
-      >
-        ← Volver a Educación
-      </a>
-    </div>
+    <Breadcrumbs items={breadcrumbs} />
 
     <div class="flex items-center gap-4">
       {

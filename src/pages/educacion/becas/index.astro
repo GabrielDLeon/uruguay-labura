@@ -6,6 +6,8 @@ import Block from "@/components/Block.astro";
 import PageHeader from "@/components/PageHeader.astro";
 import ScholarshipCard from "@/components/ScholarshipCard.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
+import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
+import { absUrl, breadcrumbList } from "@/lib/seo";
 
 const entries = await getCollection(
   "scholarships",
@@ -13,11 +15,25 @@ const entries = await getCollection(
 );
 
 entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
+
+const breadcrumbs = [
+  { label: "Inicio", url: absUrl("/") },
+  { label: "Educación", url: absUrl("/educacion") },
+  { label: "Becas", url: absUrl("/educacion/becas") },
+];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    breadcrumbList(breadcrumbs, `${absUrl("/educacion/becas")}#breadcrumb`),
+  ],
+};
 ---
 
 <Layout
   title="Becas en Uruguay"
   description="Guía de becas disponibles en Uruguay para estudiantes nacionales y extranjeros. Becas estatales, privadas e internacionales."
+  jsonLd={jsonLd}
 >
   <PagefindIndex
     title="Becas en Uruguay"
@@ -26,6 +42,7 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
   />
 
   <Block>
+    <Breadcrumbs items={breadcrumbs} />
     <PageHeader
       title="Becas en Uruguay"
       description="Recopilación de las principales becas disponibles en Uruguay para estudiantes de grado, posgrado y educación media. Encontrá oportunidades de financiamiento estatal, privado e internacional."

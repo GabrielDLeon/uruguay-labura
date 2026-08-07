@@ -15,6 +15,8 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
 import LastUpdated from "@/components/LastUpdated.astro";
 import CampusesTable from "@/components/careers/CampusesTable";
 import CareersTable from "@/components/careers/CareersTable";
+import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
+import { absUrl, breadcrumbList } from "@/lib/seo";
 
 export async function getStaticPaths() {
   const entries = await getCollection("institutions");
@@ -40,21 +42,84 @@ const programs = await getCollection(
     data.listable,
 );
 const hasCareers = programs.length > 0;
+
+const pageUrl = new URL(
+  `/educacion/instituciones/${entry.id}`,
+  import.meta.env.SITE as string,
+).toString();
+const name = entry.data.name;
+const breadcrumbs = [
+  { label: "Inicio", url: absUrl("/") },
+  { label: "Educación", url: absUrl("/educacion") },
+  { label: "Instituciones", url: absUrl("/educacion/instituciones") },
+  { label: name },
+];
+
+const contactPoint =
+  entry.data.contactEmail || entry.data.phone
+    ? {
+        "@type": "ContactPoint",
+        ...(entry.data.phone ? { telephone: entry.data.phone } : {}),
+        ...(entry.data.contactEmail ? { email: entry.data.contactEmail } : {}),
+      }
+    : undefined;
+
+const organization = {
+  "@type": "CollegeOrUniversity",
+  "@id": `${pageUrl}#org`,
+  name: name,
+  ...(entry.data.short ? { alternateName: entry.data.short } : {}),
+  url: pageUrl,
+  ...(entry.data.logo
+    ? {
+        logo: new URL(
+          entry.data.logo.src,
+          import.meta.env.SITE as string,
+        ).toString(),
+      }
+    : {}),
+  ...(entry.data.description ? { description: entry.data.description } : {}),
+  ...(entry.data.contactEmail ? { email: entry.data.contactEmail } : {}),
+  ...(entry.data.phone ? { telephone: entry.data.phone } : {}),
+  sameAs: entry.data.website,
+  ...(entry.data.location
+    ? {
+        address: {
+          "@type": "PostalAddress",
+          addressCountry: "UY",
+          addressLocality: entry.data.location,
+        },
+      }
+    : {}),
+  ...(contactPoint ? { contactPoint } : {}),
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": `${pageUrl}#webpage`,
+      url: pageUrl,
+      name: name,
+      inLanguage: "es",
+      isPartOf: { "@id": `${absUrl("/")}#website` },
+      about: { "@id": `${pageUrl}#org` },
+      breadcrumb: { "@id": `${pageUrl}#breadcrumb` },
+    },
+    organization,
+    breadcrumbList(breadcrumbs, `${pageUrl}#breadcrumb`),
+  ],
+};
 ---
 
 <Layout
   title={entry.data.short ?? entry.data.name}
   description={`${entry.data.name} — ${institutionTypeLabels[entry.data.type]} university in Uruguay.`}
+  jsonLd={jsonLd}
 >
   <Block class="border-b">
-    <div class="mb-4">
-      <a
-        href="/educacion/instituciones"
-        class="text-sm text-muted-foreground hover:text-foreground"
-      >
-        ← Volver a Instituciones
-      </a>
-    </div>
+    <Breadcrumbs items={breadcrumbs} />
 
     <div class="flex items-start gap-6">
       {

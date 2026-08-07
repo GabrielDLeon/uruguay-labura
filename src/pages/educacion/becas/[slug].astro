@@ -9,6 +9,8 @@ import KeyValueList from "@/components/KeyValueList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import LastUpdated from "@/components/LastUpdated.astro";
 import TabsContent from "@/components/common/TabsContent.astro";
+import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
+import { absUrl, breadcrumbList } from "@/lib/seo";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -42,22 +44,46 @@ const detailItems = [
     value: entry.data.institution,
   },
 ];
+
+const pageUrl = absUrl(`/educacion/becas/${entry.id}`);
+const breadcrumbs = [
+  { label: "Inicio", url: absUrl("/") },
+  { label: "Educación", url: absUrl("/educacion") },
+  { label: "Becas", url: absUrl("/educacion/becas") },
+  { label: entry.data.title },
+];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": `${pageUrl}#webpage`,
+      url: pageUrl,
+      name: entry.data.title,
+      ...(entry.data.description
+        ? { description: entry.data.description }
+        : {}),
+      inLanguage: "es",
+      isPartOf: { "@id": `${absUrl("/")}#website` },
+      about: entry.data.title,
+      ...(entry.data.tags.length > 0
+        ? { keywords: entry.data.tags.join(", ") }
+        : {}),
+    },
+    breadcrumbList(breadcrumbs, `${pageUrl}#breadcrumb`),
+  ],
+};
 ---
 
 <Layout
   title={entry.data.title}
   description={entry.data.description ??
     `Información sobre ${entry.data.title} en Uruguay.`}
+  jsonLd={jsonLd}
 >
   <Block class="border-b">
-    <div class="mb-4">
-      <a
-        href="/educacion/becas"
-        class="text-sm text-muted-foreground hover:text-foreground"
-      >
-        ← Volver a Becas
-      </a>
-    </div>
+    <Breadcrumbs items={breadcrumbs} />
 
     <div>
       <h1 class="text-2xl mb-1 font-bold text-foreground sm:text-3xl">
