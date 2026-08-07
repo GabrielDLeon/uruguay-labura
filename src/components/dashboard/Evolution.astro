@@ -1,5 +1,6 @@
 ---
 import type { EvolutionSnapshot } from "@/types/jobs"
+import { formatDateShortMonth } from "@/lib/dates"
 
 export interface Props {
   evolution: EvolutionSnapshot[]
@@ -17,12 +18,7 @@ const { evolution } = Astro.props
         <div class="space-y-2">
           {
             evolution.toReversed().map((snap) => {
-              const d = new Date(snap.date)
-              const label = d.toLocaleDateString("es-UY", {
-                day: "2-digit",
-                month: "short",
-                year: "numeric",
-              })
+              const label = formatDateShortMonth(snap.date)
               return (
                 <div class="flex items-center justify-between text-sm">
                   <span class="text-muted-foreground">{label}</span>

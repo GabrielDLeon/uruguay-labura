@@ -5,7 +5,7 @@ import SearchableSelect, {
 } from "@/components/common/SearchableSelect";
 import { appIcons } from "@/lib/icons";
 
-import { formatDate } from "@/components/jobs/jobs";
+import { formatDateShort } from "@/lib/dates";
 
 interface Props {
   query: string;
@@ -219,7 +219,7 @@ export default function JobsFilters({
                 className="shrink-0"
                 aria-hidden="true"
               />
-              Actualizado: {formatDate(scrapedAt)}
+              Actualizado: {formatDateShort(scrapedAt)}
             </span>
           ) : null}
         </div>

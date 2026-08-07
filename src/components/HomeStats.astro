@@ -1,18 +1,18 @@
 ---
 import type { JobsDataset, JobRecord } from "@/types/jobs"
 import jobsData from "@/data/jobs.generated.json"
+import { parseDate, startOfDay, startOfToday } from "@/lib/dates"
 
 const dataset = jobsData as unknown as JobsDataset
 
-const today = new Date()
-const todayStart = new Date(today.getFullYear(), today.getMonth(), today.getDate())
+const todayStart = startOfToday()
 
 const activeJobs = dataset.jobs.filter((job: JobRecord) => {
   if (job.status !== "abierto") return false
   if (!job.closingDate) return true
-  const closing = new Date(job.closingDate)
-  const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate())
-  return closeDay >= todayStart
+  const closing = parseDate(job.closingDate)
+  if (!closing) return true
+  return startOfDay(closing) >= todayStart
 })
 
 const uniqueOrganizations = new Set(
