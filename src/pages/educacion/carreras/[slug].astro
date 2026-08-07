@@ -105,9 +105,9 @@ const pageUrl = absUrl(`/educacion/carreras/${entry.id}`);
 const degreeTypeLabel =
   degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType;
 const breadcrumbs = [
-  { label: "Inicio", url: absUrl("/") },
-  { label: "Educación", url: absUrl("/educacion") },
-  { label: "Carreras", url: absUrl("/educacion/carreras") },
+  { label: "Inicio", url: "/" },
+  { label: "Educación", url: "/educacion" },
+  { label: "Carreras", url: "/educacion/carreras" },
   { label: entry.data.title },
 ];
 const price = parseCost(entry.data.cost);

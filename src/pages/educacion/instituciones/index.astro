@@ -14,9 +14,9 @@ const entries = await getCollection("institutions");
 entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"));
 
 const breadcrumbs = [
-  { label: "Inicio", url: absUrl("/") },
-  { label: "Educación", url: absUrl("/educacion") },
-  { label: "Instituciones", url: absUrl("/educacion/instituciones") },
+  { label: "Inicio", url: "/" },
+  { label: "Educación", url: "/educacion" },
+  { label: "Instituciones", url: "/educacion/instituciones" },
 ];
 const jsonLd = {
   "@context": "https://schema.org",

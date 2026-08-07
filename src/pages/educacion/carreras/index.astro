@@ -20,9 +20,9 @@ const institutionById = new Map(institutions.map((inst) => [inst.id, inst]));
 entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
 
 const breadcrumbs = [
-  { label: "Inicio", url: absUrl("/") },
-  { label: "Educación", url: absUrl("/educacion") },
-  { label: "Carreras", url: absUrl("/educacion/carreras") },
+  { label: "Inicio", url: "/" },
+  { label: "Educación", url: "/educacion" },
+  { label: "Carreras", url: "/educacion/carreras" },
 ];
 
 const jsonLd = {

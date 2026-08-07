@@ -11,8 +11,10 @@ export interface Crumb {
 }
 
 /**
- * Build a schema.org BreadcrumbList node. The last crumb has no `item`
- * (it represents the current page).
+ * Build a schema.org BreadcrumbList node from site-relative paths.
+ * The last crumb has no `item` (it represents the current page).
+ * Every `url` is converted to an absolute URL, because structured data
+ * requires absolute URLs.
  */
 export function breadcrumbList(
   items: Crumb[],
@@ -24,7 +26,7 @@ export function breadcrumbList(
       "@type": "ListItem",
       position: i + 1,
       name: item.label,
-      ...(item.url ? { item: item.url } : {}),
+      ...(item.url ? { item: absUrl(item.url) } : {}),
     })),
   };
   if (id) node["@id"] = id;
