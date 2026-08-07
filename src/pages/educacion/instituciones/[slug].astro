@@ -15,7 +15,7 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
 import LastUpdated from "@/components/LastUpdated.astro";
 import CampusesTable from "@/components/careers/CampusesTable";
 import CareersTable from "@/components/careers/CareersTable";
-import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
 import { absUrl, breadcrumbList } from "@/lib/seo";
 
 export async function getStaticPaths() {
@@ -48,12 +48,7 @@ const pageUrl = new URL(
   import.meta.env.SITE as string,
 ).toString();
 const name = entry.data.name;
-const breadcrumbs = [
-  { label: "Inicio", url: "/" },
-  { label: "Educación", url: "/educacion" },
-  { label: "Instituciones", url: "/educacion/instituciones" },
-  { label: name },
-];
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname, name);
 
 const contactPoint =
   entry.data.contactEmail || entry.data.phone
@@ -117,10 +112,9 @@ const jsonLd = {
   title={entry.data.short ?? entry.data.name}
   description={`${entry.data.name} — ${institutionTypeLabels[entry.data.type]} university in Uruguay.`}
   jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
 >
   <Block class="border-b">
-    <Breadcrumbs items={breadcrumbs} />
-
     <div class="flex items-start gap-6">
       {
         entry.data.logo && (

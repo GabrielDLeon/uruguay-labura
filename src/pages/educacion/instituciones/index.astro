@@ -6,18 +6,14 @@ import Block from "@/components/Block.astro";
 import PageHeader from "@/components/PageHeader.astro";
 import InstitutionCard from "@/components/InstitutionCard.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
-import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
 import { absUrl, breadcrumbList } from "@/lib/seo";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
 
 const entries = await getCollection("institutions");
 
 entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"));
 
-const breadcrumbs = [
-  { label: "Inicio", url: "/" },
-  { label: "Educación", url: "/educacion" },
-  { label: "Instituciones", url: "/educacion/instituciones" },
-];
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname);
 const jsonLd = {
   "@context": "https://schema.org",
   "@graph": [
@@ -33,6 +29,7 @@ const jsonLd = {
   title="Instituciones"
   description="Directorio de universidades e instituciones de educación superior en Uruguay."
   jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
 >
   <PagefindIndex
     title="Instituciones en Uruguay"
@@ -41,8 +38,6 @@ const jsonLd = {
   />
 
   <Block>
-    <Breadcrumbs items={breadcrumbs} />
-
     <PageHeader
       title="Instituciones"
       description="Universidades e instituciones de educación superior en Uruguay. Explora las instituciones para conocer sus programas, ubicaciones e información de contacto."

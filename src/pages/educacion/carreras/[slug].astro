@@ -25,7 +25,7 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
 import { getMatchingBecas } from "@/lib/scholarships";
 import LastUpdated from "@/components/LastUpdated.astro";
 import TabsContent from "@/components/common/TabsContent.astro";
-import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
 import {
   absUrl,
   breadcrumbList,
@@ -104,12 +104,7 @@ const detailItems = [
 const pageUrl = absUrl(`/educacion/carreras/${entry.id}`);
 const degreeTypeLabel =
   degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType;
-const breadcrumbs = [
-  { label: "Inicio", url: "/" },
-  { label: "Educación", url: "/educacion" },
-  { label: "Carreras", url: "/educacion/carreras" },
-  { label: entry.data.title },
-];
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname, entry.data.title);
 const price = parseCost(entry.data.cost);
 const timeToComplete = durationToIso8601(entry.data.duration);
 const programMode = educationalProgramMode[entry.data.modality];
@@ -184,10 +179,9 @@ const jsonLd = {
   description={entry.data.description ??
     `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
   jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
 >
   <Block class="border-b">
-    <Breadcrumbs items={breadcrumbs} />
-
     <div class="flex items-center gap-4">
       {
         institutionEntry?.data.logo && (

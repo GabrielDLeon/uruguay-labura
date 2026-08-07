@@ -9,8 +9,8 @@ import KeyValueList from "@/components/KeyValueList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import LastUpdated from "@/components/LastUpdated.astro";
 import TabsContent from "@/components/common/TabsContent.astro";
-import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
 import { absUrl, breadcrumbList } from "@/lib/seo";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -46,12 +46,7 @@ const detailItems = [
 ];
 
 const pageUrl = absUrl(`/educacion/becas/${entry.id}`);
-const breadcrumbs = [
-  { label: "Inicio", url: "/" },
-  { label: "Educación", url: "/educacion" },
-  { label: "Becas", url: "/educacion/becas" },
-  { label: entry.data.title },
-];
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname, entry.data.title);
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -81,10 +76,9 @@ const jsonLd = {
   description={entry.data.description ??
     `Información sobre ${entry.data.title} en Uruguay.`}
   jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
 >
   <Block class="border-b">
-    <Breadcrumbs items={breadcrumbs} />
-
     <div>
       <h1 class="text-2xl mb-1 font-bold text-foreground sm:text-3xl">
         {entry.data.title}
