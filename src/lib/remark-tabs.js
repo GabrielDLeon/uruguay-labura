@@ -12,6 +12,12 @@ const DEFAULT_TAB_ICONS = {
 const PROSE_CLASS = 'prose prose-sm dark:prose-invert max-w-none'
 
 /**
+ * Transforma las secciones (`##` de nivel 2) en un contenedor de tabs.
+ *
+ * Emite nodos `html` de MDAST (raw HTML) en lugar de nodos JSX de MDX, para que
+ * funcione con el procesador de Markdown plano (sin @astrojs/mdx), que preserva
+ * el HTML crudo vía rehype-raw.
+ *
  * @param {{ tabIcons?: Record<string, { width: number, height: number, body: string }> }} [options]
  */
 export default function remarkTabs(options) {
@@ -40,184 +46,70 @@ export default function remarkTabs(options) {
 
     // Wrap intro content (before first h2) in a prose div
     if (intro.length > 0) {
-      newChildren.push({
-        type: 'mdxJsxFlowElement',
-        name: 'div',
-        attributes: [
-          { type: 'mdxJsxAttribute', name: 'class', value: PROSE_CLASS },
-        ],
-        children: intro,
-      })
+      newChildren.push({ type: 'html', value: `<div class="${PROSE_CLASS}">` })
+      newChildren.push(...intro)
+      newChildren.push({ type: 'html', value: '</div>' })
     }
 
     // .tabs wrapper
-    const tabsWrapper = {
-      type: 'mdxJsxFlowElement',
-      name: 'div',
-      attributes: [
-        { type: 'mdxJsxAttribute', name: 'class', value: 'tabs' },
-        { type: 'mdxJsxAttribute', name: 'id', value: id },
-      ],
-      children: [],
-    }
+    newChildren.push({ type: 'html', value: `<div class="tabs" id="${id}">` })
 
-    // nav[role="tablist"]
-    const tablist = {
-      type: 'mdxJsxFlowElement',
-      name: 'nav',
-      attributes: [
-        { type: 'mdxJsxAttribute', name: 'role', value: 'tablist' },
-        {
-          type: 'mdxJsxAttribute',
-          name: 'aria-orientation',
-          value: 'horizontal',
-        },
-        {
-          type: 'mdxJsxAttribute',
-          name: 'class',
-          value: 'flex flex-wrap gap-x-3',
-        },
-      ],
-      children: [],
-    }
+    // nav[role="tablist"] with the tab buttons
+    let nav =
+      '<nav role="tablist" aria-orientation="horizontal" class="flex flex-wrap gap-x-3">'
+    sections.forEach((section, i) => {
+      nav += buildButtonHtml(section.label, id, i + 1, i === 0, tabIcons)
+    })
+    nav += '</nav>'
+    newChildren.push({ type: 'html', value: nav })
 
+    // Tab panels. Content of each section is emitted as raw MDAST nodes in
+    // between the raw opening/closing panel tags so Markdown keeps processing it.
     sections.forEach((section, i) => {
       const tabNum = i + 1
-
-      tablist.children.push({
-        type: 'mdxJsxFlowElement',
-        name: 'button',
-        attributes: [
-          { type: 'mdxJsxAttribute', name: 'type', value: 'button' },
-          { type: 'mdxJsxAttribute', name: 'role', value: 'tab' },
-          {
-            type: 'mdxJsxAttribute',
-            name: 'id',
-            value: `${id}-tab-${tabNum}`,
-          },
-          {
-            type: 'mdxJsxAttribute',
-            name: 'aria-controls',
-            value: `${id}-panel-${tabNum}`,
-          },
-          {
-            type: 'mdxJsxAttribute',
-            name: 'aria-selected',
-            value: i === 0 ? 'true' : 'false',
-          },
-          {
-            type: 'mdxJsxAttribute',
-            name: 'tabindex',
-            value: i === 0 ? '0' : '-1',
-          },
-        ],
-        children: buildButtonChildren(section.label, tabIcons),
+      newChildren.push({
+        type: 'html',
+        value:
+          `<div role="tabpanel" id="${id}-panel-${tabNum}" aria-labelledby="${id}-tab-${tabNum}" tabindex="-1" class="${PROSE_CLASS}"${i !== 0 ? ' hidden' : ''}>`,
       })
-
-      // Build panel attributes
-      const panelAttrs = [
-        { type: 'mdxJsxAttribute', name: 'role', value: 'tabpanel' },
-        { type: 'mdxJsxAttribute', name: 'id', value: `${id}-panel-${tabNum}` },
-        {
-          type: 'mdxJsxAttribute',
-          name: 'aria-labelledby',
-          value: `${id}-tab-${tabNum}`,
-        },
-        { type: 'mdxJsxAttribute', name: 'tabindex', value: '-1' },
-        {
-          type: 'mdxJsxAttribute',
-          name: 'class',
-          value: PROSE_CLASS,
-        },
-      ]
-      if (i !== 0) {
-        panelAttrs.push({
-          type: 'mdxJsxAttribute',
-          name: 'hidden',
-          value: null,
-        })
-      }
-
-      tabsWrapper.children.push({
-        type: 'mdxJsxFlowElement',
-        name: 'div',
-        attributes: panelAttrs,
-        children: section.children,
-      })
+      newChildren.push(...section.children)
+      newChildren.push({ type: 'html', value: '</div>' })
     })
 
-    tabsWrapper.children.unshift(tablist)
-    newChildren.push(tabsWrapper)
+    newChildren.push({ type: 'html', value: '</div>' })
     tree.children = newChildren
   }
 }
 
 /**
- * Build the children nodes for a tab button: optional SVG icon + label text.
+ * Build the HTML string for a tab button: optional SVG icon + escaped label.
  *
  * @param {string} label
+ * @param {string} id
+ * @param {number} tabNum
+ * @param {boolean} isFirst
  * @param {Record<string, { width: number, height: number, body: string }>} iconMap
- * @returns {import('mdast').Content[]}
+ * @returns {string}
  */
-function buildButtonChildren(label, iconMap) {
+function buildButtonHtml(label, id, tabNum, isFirst, iconMap) {
   const icon = iconMap[label]
-  const children = []
-
-  if (icon) {
-    children.push({
-      type: 'mdxJsxTextElement',
-      name: 'svg',
-      attributes: [
-        { type: 'mdxJsxAttribute', name: 'class', value: 'inline-block w-5 h-5 mr-1.5 align-middle shrink-0' },
-        { type: 'mdxJsxAttribute', name: 'width', value: String(icon.width) },
-        { type: 'mdxJsxAttribute', name: 'height', value: String(icon.height) },
-        { type: 'mdxJsxAttribute', name: 'viewBox', value: `0 0 ${icon.width} ${icon.height}` },
-        { type: 'mdxJsxAttribute', name: 'fill', value: 'currentColor' },
-        { type: 'mdxJsxAttribute', name: 'aria-hidden', value: 'true' },
-      ],
-      children: parseSvgBody(icon.body),
-    })
-  }
-
-  children.push({ type: 'text', value: label })
-  return children
+  const selected = isFirst ? 'true' : 'false'
+  const tabindex = isFirst ? '0' : '-1'
+  const children =
+    (icon
+      ? `<svg class="inline-block w-5 h-5 mr-1.5 align-middle shrink-0" width="${icon.width}" height="${icon.height}" viewBox="0 0 ${icon.width} ${icon.height}" fill="currentColor" aria-hidden="true">${icon.body}</svg>`
+      : '') + escapeHtml(label)
+  return (
+    `<button type="button" role="tab" id="${id}-tab-${tabNum}" aria-controls="${id}-panel-${tabNum}" aria-selected="${selected}" tabindex="${tabindex}">${children}</button>`
+  )
 }
 
-/**
- * Parse a simple SVG body HTML string (e.g. `<path fill="currentColor" d="..."/>`)
- * into an array of MDAST `mdxJsxTextElement` nodes so MDX renders them as real
- * SVG child elements instead of escaping the markup as text.
- *
- * @param {string} html — the icon body from @iconify-icons/*
- * @returns {import('mdast').Content[]}
- */
-function parseSvgBody(html) {
-  const nodes = []
-  const tagRegex = /<(\w+)((?:\s+\w+(?:\s*=\s*(?:"[^"]*"|'[^']*'|\S+))?)*)\s*\/?>/g
-  const attrRegex = /(\w+)\s*=\s*"([^"]*)"/g
-
-  let match
-  while ((match = tagRegex.exec(html)) !== null) {
-    const [, tagName, attrsStr] = match
-    const attrs = []
-    let attrMatch
-    attrRegex.lastIndex = 0
-    while ((attrMatch = attrRegex.exec(attrsStr)) !== null) {
-      attrs.push({
-        type: 'mdxJsxAttribute',
-        name: attrMatch[1],
-        value: attrMatch[2],
-      })
-    }
-    nodes.push({
-      type: 'mdxJsxTextElement',
-      name: tagName,
-      attributes: attrs,
-      children: [],
-    })
-  }
-
-  return nodes
+function escapeHtml(text) {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
 }
 
 function extractText(node) {
