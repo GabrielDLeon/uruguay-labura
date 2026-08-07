@@ -78,7 +78,9 @@ const detailItems = [
 
   {
     label: "Inicio",
-    value: entry.data.startDate ? formatDateShort(entry.data.startDate) : undefined,
+    value: entry.data.startDate
+      ? formatDateShort(entry.data.startDate)
+      : undefined,
   },
   {
     label: "Cierre inscripción",
@@ -258,21 +260,35 @@ const detailItems = [
             </div>
           </AsideSection>
 
-          <LastUpdated
-            createdAt={entry.data.createdAt}
-            updatedAt={entry.data.updatedAt}
-          />
+          <div class="flex flex-col gap-2">
+            <LastUpdated
+              createdAt={entry.data.createdAt}
+              updatedAt={entry.data.updatedAt}
+            />
 
-          <div class="flex justify-start">
-            <a
-              href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/careers/${entry.id}.mdx`}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"
-            >
-              <Icon name="mdi:pencil" class="size-3" />
-              Editar contenido
-            </a>
+            <div class="flex justify-start">
+              <a
+                href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/careers/${entry.id}.mdx`}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <Icon name="mdi:pencil" class="size-4" />
+                Editar contenido
+              </a>
+            </div>
+
+            <div class="flex justify-start">
+              <a
+                href="https://github.com/GabrielDLeon/uruguay-labura/issues"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <Icon name="mdi:git-issue" class="size-4" />
+                Reportar problema
+              </a>
+            </div>
           </div>
         </Block>
       </aside>
