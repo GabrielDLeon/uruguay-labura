@@ -1,17 +1,23 @@
 ---
 import { Font } from "astro:assets";
 import Seo from "@/components/common/Seo.astro";
+import JsonLd from "@/components/common/JsonLd.astro";
 import Banner from "@/components/Banner.astro";
 import Footer from "@/components/Footer.astro";
 import Header from "@/components/Header.astro";
+import Breadcrumbs from "@/components/common/Breadcrumbs.astro";
+import type { Crumb } from "@/lib/seo";
 import "@/styles/global.css";
+import Block from "@/components/Block.astro";
 
 interface Props {
   title?: string;
   description?: string;
+  jsonLd?: object;
+  breadcrumbs?: Crumb[];
 }
 
-const { title, description } = Astro.props;
+const { title, description, jsonLd, breadcrumbs } = Astro.props;
 ---
 
 <!doctype html>
@@ -22,6 +28,7 @@ const { title, description } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <Seo title={title} description={description} />
+    <JsonLd data={jsonLd} />
     <Font cssVariable="--font-inter" preload />
     <script is:inline>
       (() => {
@@ -42,6 +49,13 @@ const { title, description } = Astro.props;
     <Banner />
     <Header />
     <main class="mx-auto w-full max-w-7xl flex-1 border-x">
+      {
+        breadcrumbs && breadcrumbs.length > 0 ? (
+          <Block class="border-b border-border sm:py-4">
+            <Breadcrumbs items={breadcrumbs} />
+          </Block>
+        ) : null
+      }
       <slot />
     </main>
     <Footer />

@@ -1,0 +1,43 @@
+---
+interface Crumb {
+  label: string;
+  url?: string;
+}
+
+interface Props {
+  items: Crumb[];
+}
+
+const { items } = Astro.props;
+---
+
+<nav aria-label="Ruta de navegación">
+  <ol class="flex flex-wrap items-center gap-2 text-sm text-muted-foreground">
+    {
+      items.map((item, i) => {
+        const isLast = i === items.length - 1;
+        const isLink = Boolean(item.url && !isLast);
+        return (
+          <li class="flex items-center gap-2 text-xs">
+            {i > 0 ? <span aria-hidden="true">&gt;</span> : null}
+            {isLink ? (
+              <a
+                href={item.url}
+                class="transition-colors hover:text-foreground"
+              >
+                {item.label}
+              </a>
+            ) : (
+              <span
+                class:list={[isLast ? "text-foreground" : undefined]}
+                aria-current={isLast ? "page" : undefined}
+              >
+                {item.label}
+              </span>
+            )}
+          </li>
+        );
+      })
+    }
+  </ol>
+</nav>

@@ -1,0 +1,97 @@
+---
+import { getCollection } from "astro:content";
+
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import PageHeader from "@/components/PageHeader.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
+import { absUrl, breadcrumbList } from "@/lib/seo";
+import { degreeTypeLabels, showDrafts } from "@/lib/careers";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
+
+const entries = await getCollection(
+  "careers",
+  ({ data }) => (showDrafts || !data.draft) && data.listable && data.searchable,
+);
+
+const institutions = await getCollection("institutions");
+const institutionById = new Map(institutions.map((inst) => [inst.id, inst]));
+
+entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
+
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname);
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    breadcrumbList(breadcrumbs, `${absUrl("/educacion/carreras")}#breadcrumb`),
+  ],
+};
+---
+
+<Layout
+  title="Carreras en Uruguay"
+  description="Guía de carreras universitarias y terciarias disponibles en Uruguay: licenciaturas, ingenierías, maestrías, tecnicaturas y más."
+  jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
+>
+  <PagefindIndex
+    title="Carreras en Uruguay"
+    description="Carreras universitarias y programas de educación superior en Uruguay. Explorá las opciones de grado, posgrado y formación técnica por institución."
+    kind="pagina"
+  />
+
+  <Block>
+    <PageHeader
+      title="Carreras"
+      description="Programas de grado, posgrado y formación técnica ofrecidos por universidades e instituciones de educación superior en Uruguay."
+    />
+
+    <section class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {
+        entries.map((entry) => {
+          const institution = institutionById.get(entry.data.institution ?? "");
+          return (
+            <div class="rounded-lg border border-border bg-muted/30 p-4 flex flex-col gap-1 hover:bg-accent/50 transition-colors">
+              <span>
+                <a
+                  href={`/educacion/carreras/${entry.id}`}
+                  class="text-sm text-foreground font-medium hover:text-accent-foreground transition-colors"
+                >
+                  {entry.data.title}
+                </a>
+              </span>
+              <span class="text-xs text-muted-foreground">
+                {institution?.data.name ? (
+                  <a
+                    href={`/educacion/instituciones/${institution.id}`}
+                    class="hover:underline transition-colors"
+                  >
+                    {institution.data.name}
+                  </a>
+                ) : (
+                  entry.data.institutionName
+                )}
+              </span>
+              <span
+                class="badge mt-2 text-xs self-start"
+                data-variant="outline"
+              >
+                {degreeTypeLabels[entry.data.degreeType] ??
+                  entry.data.degreeType}
+              </span>
+            </div>
+          );
+        })
+      }
+    </section>
+
+    {
+      entries.length === 0 ? (
+        <p class="text-muted-foreground mt-4 text-sm">
+          No hay carreras registradas por el momento.
+        </p>
+      ) : null
+    }
+  </Block>
+</Layout>
