@@ -1,6 +1,7 @@
 import { defineCollection } from "astro:content";
 import { z } from "astro/zod";
 import { glob } from "astro/loaders";
+import { sectionsLoader } from "./lib/sections-loader";
 
 export const campusSchema = z.object({
   name: z.string().min(1),
@@ -91,12 +92,17 @@ export const careerSchema = z.object({
   draft: z.boolean().default(false),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
+  /** Injected by sectionsLoader (not part of the markdown frontmatter). */
+  sections: z
+    .array(z.object({ id: z.string(), label: z.string(), html: z.string() }))
+    .default([]),
+  introHtml: z.string().optional(),
 });
 
 export type CareerEntry = z.infer<typeof careerSchema>;
 
 const careersCollection = defineCollection({
-  loader: glob({ base: "./src/content/careers", pattern: "**/*.md" }),
+  loader: sectionsLoader({ base: "./src/content/careers", pattern: "**/*.md" }),
   schema: careerSchema,
 });
 
@@ -111,12 +117,17 @@ const scholarshipSchema = z.object({
   draft: z.boolean().default(false),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
+  /** Injected by sectionsLoader (not part of the markdown frontmatter). */
+  sections: z
+    .array(z.object({ id: z.string(), label: z.string(), html: z.string() }))
+    .default([]),
+  introHtml: z.string().optional(),
 });
 
 export type ScholarshipEntry = z.infer<typeof scholarshipSchema>;
 
 const scholarshipsCollection = defineCollection({
-  loader: glob({
+  loader: sectionsLoader({
     base: "./src/content/scholarships",
     pattern: "**/*.md",
   }),

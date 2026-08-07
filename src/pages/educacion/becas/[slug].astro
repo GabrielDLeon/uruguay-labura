@@ -8,6 +8,7 @@ import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import LastUpdated from "@/components/LastUpdated.astro";
+import TabsContent from "@/components/common/TabsContent.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -22,6 +23,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const hasSections = entry.data.sections.length > 0;
 
 const typeLabelMap: Record<string, string> = {
   estatal: "Estatal",
@@ -157,11 +159,18 @@ const detailItems = [
       </aside>
 
       <div class="md:order-1 md:col-span-2 min-w-0">
-        <Block>
-          <section id="tabbed-content">
-            <Content />
-          </section>
-        </Block>
+        <section id="tabbed-content">
+          {
+            hasSections ? (
+              <TabsContent
+                sections={entry.data.sections}
+                introHtml={entry.data.introHtml}
+              />
+            ) : (
+              <Content />
+            )
+          }
+        </section>
       </div>
     </div>
 

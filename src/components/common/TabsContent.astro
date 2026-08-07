@@ -1,0 +1,83 @@
+---
+import bookOpenOutline from "@iconify-icons/mdi/book-open-outline.js";
+import calendarTextOutline from "@iconify-icons/mdi/calendar-text-outline.js";
+import clipboardAccountOutline from "@iconify-icons/mdi/clipboard-account-outline.js";
+import { iconToSvg } from "@/lib/icons";
+import Block from "@/components/Block.astro";
+
+interface SectionData {
+  id: string;
+  label: string;
+  html: string;
+}
+
+interface Props {
+  sections: SectionData[];
+  introHtml?: string;
+  id?: string;
+}
+
+const { sections, introHtml } = Astro.props;
+const tabsId = Astro.props.id ?? sections[0]?.id ?? "tabs";
+const PROSE_CLASS = "prose prose-sm dark:prose-invert max-w-none";
+
+const TAB_ICONS: Record<
+  string,
+  { body: string; width?: number; height?: number }
+> = {
+  Resumen: bookOpenOutline,
+  Ingreso: clipboardAccountOutline,
+  "Plan de Estudio": calendarTextOutline,
+};
+---
+
+{introHtml && <div class={PROSE_CLASS} set:html={introHtml} />}
+
+{
+  sections.length > 0 && (
+    <div class="tabs gap-0" id={tabsId}>
+      <nav
+        role="tablist"
+        aria-orientation="horizontal"
+        class="flex flex-wrap gap-x-3 w-full rounded-none"
+      >
+        {sections.map((s, i) => {
+          const icon = TAB_ICONS[s.label];
+          const tabNum = i + 1;
+          return (
+            <button
+              type="button"
+              role="tab"
+              id={`${tabsId}-tab-${tabNum}`}
+              aria-controls={`${tabsId}-panel-${tabNum}`}
+              aria-selected={i === 0 ? "true" : "false"}
+              tabindex={i === 0 ? "0" : "-1"}
+              class="shadow-none aria-selected:border aria-selected:border-border"
+            >
+              {icon && <Fragment set:html={iconToSvg(icon, "mr-1.5 size-5")} />}
+              {s.label}
+            </button>
+          );
+        })}
+      </nav>
+      <div class="w-full border-b border-border" />
+      {sections.map((s, i) => {
+        const tabNum = i + 1;
+        return (
+          <div
+            role="tabpanel"
+            id={`${tabsId}-panel-${tabNum}`}
+            aria-labelledby={`${tabsId}-tab-${tabNum}`}
+            tabindex="-1"
+            class:list={[PROSE_CLASS, "[&>div>*:first-child]:mt-0"]}
+            hidden={i !== 0}
+          >
+            <Block>
+              <Fragment set:html={s.html} />
+            </Block>
+          </div>
+        );
+      })}
+    </div>
+  )
+}

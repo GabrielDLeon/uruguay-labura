@@ -24,6 +24,7 @@ import SourcesList from "@/components/SourcesList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import { getMatchingBecas } from "@/lib/scholarships";
 import LastUpdated from "@/components/LastUpdated.astro";
+import TabsContent from "@/components/common/TabsContent.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -38,6 +39,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const hasSections = entry.data.sections.length > 0;
 
 const institutions = await getCollection("institutions");
 const institutionEntry = entry.data.institution
@@ -268,7 +270,7 @@ const detailItems = [
               </AsideSection>
             ) : null
           }
-          
+
           <div class="flex flex-col gap-2">
             <LastUpdated
               createdAt={entry.data.createdAt}
@@ -303,11 +305,18 @@ const detailItems = [
       </aside>
 
       <div class="md:order-1 md:col-span-2 min-w-0">
-        <Block>
-          <section id="tabbed-content">
-            <Content />
-          </section>
-        </Block>
+        <section id="tabbed-content">
+          {
+            hasSections ? (
+              <TabsContent
+                sections={entry.data.sections}
+                introHtml={entry.data.introHtml}
+              />
+            ) : (
+              <Content />
+            )
+          }
+        </section>
       </div>
     </div>
 
