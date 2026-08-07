@@ -1,0 +1,150 @@
+---
+title: "Técnico en Fotografía y Postproducción Audiovisual"
+similar:
+  - tecnico-en-realizacion-audiovisual-ort
+  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-artes-fotografia-udelar
+  - cine-latinoamericano-maestria-udelar
+  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
+  - tecnico-en-diseno-de-sonido-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Comunicación"
+modality: "presencial"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fc.ort.edu.uy/tecnico-en-fotografia-y-postproduccion-audiovisual"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "El cine y las series dedican cada vez más tiempo y recursos a la postproducción de los contenidos: es donde se termina dando el salto de calidad."
+tags:
+  - audiovisual
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fc.ort.edu.uy/tecnico-en-fotografia-y-postproduccion-audiovisual'
+  - label: 'Plan de estudios'
+    url: 'https://fc.ort.edu.uy/tecnico-en-fotografia-y-postproduccion-audiovisual/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El cine y las series dedican cada vez más tiempo y recursos a la postproducción de los contenidos: es donde se termina dando el salto de calidad.
+
+- Capacitación en edición audiovisual con programas profesionales de vanguardia
+- Sólida formación en técnicas y lenguajes cinematográficos
+- Enseñanza en iluminación y manejo de cámara, incluyendo teoría y práctica
+
+A partir de 2020 cambió la matriz de trabajo audiovisual en Uruguay. El desembarco de las plataformas de streaming implicó un aumento exponencial en la producción de contenidos con la consecuente necesidad de una mayor masa laboral especializada, algo que Uruguay aún no ha logrado cubrir.
+
+Los departamentos de Fotografía y Postproducción son los que más han evolucionado en los últimos años, y donde hay una mayor demanda de técnicos capacitados.
+
+Se vuelve necesaria la formación de profesionales capaces de cumplir con las demandas de un mercado cada vez más exigente, profesionales que comprendan las etapas desde la fotografía a la edición y postproducción de audiovisuales, que permitan diseñar el estilo visual de una obra.
+
+### Títulos y Reconocimientos
+
+Los estudiantes que aprueben las 13 materias obligatorias obtendrán el título de Técnico/a en Fotografía y Postproducción Audiovisual.
+
+### Modalidad
+
+Presencial.
+
+### Duración y Horarios
+
+Duración Dos años de cursos. Horarios de clase Tres días por semana, entre lunes y jueves, de 18:30 a 21:30 horas. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+2.° año de Educación Media Superior (EMS) completo. Esta carrera admite el ingreso condicional con hasta tres previas (por un año).
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Edición**
+
+Aborda el trabajo de la edición audiovisual, analizando los criterios de selección de material, tipo y momento de cortes y diversas herramientas en la manipulación de videos. Busca dotar al estudiante de conocimientos básicos para el manejo de programas de edición profesionales.
+
+**Lenguaje audiovisual**
+
+Capacita en la comprensión del lenguaje audiovisual y sus principales soportes (cine, video, multimedia). Analiza el lenguaje cinematográfico a través de la visión de películas y enfatiza la resolución de situaciones prácticas (planos, movimientos de cámara, eje de acción). A partir de ejemplos visuales, relaciona el cine actual con las influencias de distintas épocas y movimientos cinematográficos.
+
+**Iluminación y cámara**
+
+Analiza los elementos básicos de la fotografía, la teoría de la luz y las diferentes fuentes de iluminación. Desarrolla una serie de ejercicios que permiten adquirir la destreza necesaria para el desempeño como camarógrafo. Aborda el funcionamiento de la cámara de video, la combinación de movimientos y las grabaciones en estudio, locaciones y exteriores. Trabajos destacados en Iluminación y cámara en Técnico en Realización Audiovisual https://www.youtube.com/embed/CkAHxuz7xk0?
+
+#### 2.º semestre
+
+**Corrección de color**
+
+Comprende y domina las herramientas básicas para la manipulación del color como parte del proceso creativo en la obra audiovisual. Perfecciona la estética visual de proyectos, corrigiendo y mejorando los colores de tus imágenes para lograr resultados profesionales. El estudiante dominará las herramientas y técnicas en el manejo del software DaVinci Resolve.
+
+**Fotografía avanzada**
+
+Se profundiza en el rol del director de Fotografía como profesional responsable de la creación de imágenes para la puesta en escena. Se abordarán las decisiones del director de Fotografía sobre óptica, encuadre y composición. Se estudian las partes elementales de la cámara y los equipos complementarios que se utilizan en el rodaje. Se harán pruebas con distintas cámaras y ópticas, en distintas situaciones de rodaje. Se complementarán fundamentos técnicos con prácticas de los distintos roles de rodaje.
+
+**Teoría del color**
+
+El curso plantea una exploración de cómo los colores influyen en la cinematografía y el diseño de imágenes. Los estudiantes adquirirán un conocimiento sólido sobre la teoría del color y aprenderán a aplicar estos conceptos de manera efectiva en proyectos audiovisuales.
+
+**Imagen digital**
+
+Introduce al campo de la imagen digital y manejo de software de edición de imagen digital fija. Aborda la creación de textura, aplicables a los objetos modelados y la optimización y fotocomposición de imágenes.
+
+### 2.° año
+
+#### 3.er semestre
+
+**Etalonaje digital**
+
+Este curso explorará la fase de postproducción posterior a la corrección de color. El etalonaje (o gradación de color) es una herramienta para dar sentido estético a la obra audiovisual. El curso busca a dominar la técnica de construir el estilo artístico de la obra: destacar estados de ánimo de personajes, crear ambientes enfatizar sentimientos, dar un aspecto de frío o cálido a una misma escena o lograr que un mismo escenario transmita sensación de alegría o de tristeza.
+
+**Workflow digital**
+
+El taller se plantea como una iniciación esencial en el manejo de los procesos técnicos que abarcan la planificación, captura y postproducción de imágenes en proyectos audiovisuales. Su objetivo principal es proporcionar a los profesionales del campo una base sólida de conocimientos prácticos, que potencien su desarrollo y habilidades. Desde la concepción del proyecto hasta su entrega final, tras la fase de postproducción de imágenes, el taller guía a los participantes a través de cada paso crítico en el flujo de trabajo audiovisual.
+
+**Montaje**
+
+Brinda elementos de teoría del montaje cinematográfico, su evolución y sus reglas técnicas. Desarrolla diferentes ejercicios de montaje lineal. El curso incluye la organización del montaje: herramientas, planificación de la edición, composición del equipo, papel del editor y diálogo con el director.
+
+#### 4.º semestre
+
+**Coordinación de postproducción**
+
+Durante el curso comprenderemos cómo interactúa la postproducción con las otras fases del proceso (financiación, producción, distribución) y con otros departamentos, que desarrollan su actividad durante esta fase y no necesariamente durante este período. Conoceremos los procesos asociados a la postproducción de proyectos audiovisuales, los procesos de finalización de un material audiovisual y los roles asociados: conformado, masterización, restauración y corrección de color, creatividad en la sala de post y el trabajo con el director. Se abordan los contenidos a partir de su aplicación en experiencias de postproducción.
+
+**Proyecto final**
+
+La asignatura propone al estudiante la aplicación de su habilidad y creatividad a la solución de una problemática de postproducción de una obra audiovisual, utilizando los conocimientos adquiridos a lo largo de la carrera.

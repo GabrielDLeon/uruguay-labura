@@ -1,0 +1,275 @@
+---
+title: "Licenciatura en Diseño Industrial"
+similar:
+  - licenciatura-en-diseno-industrial-udelar
+  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
+  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
+  - diseno-de-interfaces-ort
+  - diseno-y-produccion-de-videojuegos-ort
+  - licenciatura-en-diseno-de-interiores-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "licenciatura"
+area: "Diseño"
+modality: "presencial"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fd.ort.edu.uy/licenciatura-en-diseno-industrial"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Licenciatura en Diseño Industrial de ORT Uruguay. Los graduados de Diseño Industrial responden en forma innovadora a las necesidades de nuevos productos en empresas, instituciones y organizaciones."
+tags:
+  - diseno
+  - ingenieria
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fd.ort.edu.uy/licenciatura-en-diseno-industrial'
+  - label: 'Plan de estudios'
+    url: 'https://fd.ort.edu.uy/licenciatura-en-diseno-industrial/plan-de-estudios'
+  - label: 'Listado de carreras universitarias'
+    url: 'https://www.ort.edu.uy/carreras-universitarias'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Los graduados de Diseño Industrial responden en forma innovadora a las necesidades de nuevos productos en empresas, instituciones y organizaciones.
+
+- Foco en el diseño de productos innovadores, factibles y sustentables
+- Acceso a tecnologías de fabricación digital, corte láser, impresión 3D y fresado CNC
+- Oportunidades para desarrollar proyectos en situaciones reales
+
+La curiosidad, la creatividad y el ingenio son rasgos de la personalidad de un diseñador industrial, capacidades que se aprenden y se desarrollan.
+
+Durante la carrera se desarrollan las capacidades de expresión, a nivel oral y escrito, así como las técnicas tradicionales, como el dibujo técnico, la ilustración del producto y el uso de herramientas digitales. Las habilidades de expresión y la comunicación son muy importantes para que los diseñadores, frente a un cliente o un auditorio, destaquen las fortalezas y los puntos atractivos de su propuesta.
+
+El punto de partida del diseño industrial puede ser una situación para la cual no existe una solución (un nuevo diseño) o la mejora de algo existente (un rediseño).
+
+Para facilitar la realización de las ideas en la práctica, un punto fuerte de la universidad es la disponibilidad de los Laboratorios de Diseño, especialmente del Laboratorio de Prototipado 3D. Allí el estudiante primero se sensibiliza con los materiales y explora su interacción con todos los sentidos, y luego materializa la idea para poder evaluarla como producto: la idea conceptual de una silla evoluciona hacia el objeto silla mediante un prototipo, que permite evaluar su atractivo y comodidad.
+
+Es allí cuando surge la posibilidad de crear un objeto nuevo, que considera integralmente varios factores: la eficiencia funcional, los componentes estéticos (la forma, los materiales, sus atributos) y la viabilidad técnico-constructiva. Estos son los dos aspectos fundamentales en el diseño industrial: el concepto de un producto atractivo que cumple una función y el grado de novedad que se incorpora.
+
+### Título Intermedio
+
+Proyectista Industrial
+
+### Títulos y Reconocimientos
+
+Al culminar el segundo año de curso, los estudiantes obtienen el título intermedio de Proyectista Industrial que los habilita para comenzar a desempeñarse en el campo laboral propio de su profesión. Una vez terminada la carrera y realizado el proyecto final, reciben el título de Licenciado/a en Diseño Industrial. La Licenciatura en Diseño Industrial es una carrera universitaria reconocida por resolución del Ministerio de Educación y Cultura (MEC) del 19 de abril de 2007. Como universidad reconocida y miembro de la Asociación Internacional de Universidades (IAU), los títulos de la Universidad ORT Uruguay cumplen estándares internacionales que permiten continuar estudios de maestría y doctorado en universidades de todo el mundo.
+
+### Modalidad
+
+La carrera se dicta de forma presencial. Las instancias de evaluación obligatorias podrán realizarse mediante entrega digital y/o presencial. Además, muchas asignaturas complementan su enseñanza a través del modelo de 'aula expandida', una plataforma online que enriquece la experiencia de aprendizaje, facilitando el acceso a materiales, recursos y actividades que refuerzan la formación en el aula.
+
+### Duración y Horarios
+
+Duración 4 años de cursos. Horarios de clase Las clases se distribuirán dentro de esta franja horaria: 1.er y 2.º año: lunes a viernes entre las 8:15 y 15:10 horas. 3.er y 4.º año: lunes a jueves entre las 17:10 y 22:15 horas. Aclaración: algunas materias electivas o de carácter teórico/práctico pueden tener lugar en día y horario alternativo. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Educación Media Superior (EMS) completa de cualquier orientación. Opciones de bachilleratos EMS equivalentes de planes anteriores. Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Estudiantes provenientes de otras universidades con al menos una materia aprobada, sin importar el bachillerato cursado previamente; sujeto al análisis de antecedentes por parte de la coordinación de la carrera correspondiente. La universidad admite el ingreso condicional a carreras universitarias hasta con dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico. Estudiantes del exterior Los estudiantes que culminaron su educación media en el exterior deben presentar el certificado de estudios correspondiente, apostillado o con legalización consular, a efectos de su admisión a los estudios universitarios de grado en la universidad.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Reválidas
+
+Si iniciaste tu carrera en otra universidad y querés continuar tus estudios en la Universidad ORT Uruguay, podés revalidar las materias aprobadas y contar con beneficios en el valor de la cuota. y así podrás revalidar materias del plan de cursado.
+
+### Requisito de Graduación
+
+Aprobar todas las materias del plan de estudios. Examen integrador final, exonerable con un promedio acumulado de calificaciones (PAC) de 60 % o superior.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Arte y estética 1**
+
+Presenta la historia del arte en relación con la comunicación visual y el diseño. Provee de una visión panorámica de las manifestaciones artísticas y de las teorías estéticas en las que se basaron sus creadores. Estudia en forma crítica los códigos empleados por los artistas contemporáneos. Fomenta la aproximación personal a las distintas expresiones, con el fin de agudizar el sentido crítico y estético.
+
+**Expresión oral y escrita**
+
+Trabaja sobre el criterio normativo y pragmático del texto. Estudia la palabra y las estructuras gramaticales, con el objetivo de facilitar la comunicación de ideas.
+
+**Diseño y comunicación visual 1**
+
+Introduce en los lenguajes visuales aplicados al diseño a través de ejercicios de percepción sensorial, expresión libre y diseño aplicado. Estudia el desarrollo morfológico, sistemas de generación de formas, teoría del color y técnicas para el análisis, formulación y construcción de mensajes visuales.
+
+**Fotografía y edición de video**
+
+La asignatura introduce al estudiante en el conocimiento y uso del lenguaje fotográfico digital así como en la edición no-lineal de audio y video.
+
+**Diseño digital 1**
+
+La asignatura introduce al estudiante en el campo de la imagen digital.
+
+**Representación expresiva 1**
+
+Proporciona los recursos técnicos que hacen viable un enriquecimiento de la sensibilidad visual en el campo del diseño. Instruye en el conocimiento de diversas técnicas de representación, experimentación y búsqueda de un estilo personal de expresión gráfica.
+
+#### 2.º semestre
+
+**Arte y estética 2**
+
+Presenta la historia del arte en relación con la comunicación visual y el diseño. Provee de una visión panorámica de las manifestaciones artísticas y de las teorías estéticas en las que se basaron sus creadores. Estudia en forma crítica los códigos empleados por los artistas contemporáneos. Fomenta la aproximación personal a las distintas expresiones, con el fin de agudizar el sentido crítico y estético.
+
+**Introducción al diseño industrial**
+
+Aplica las técnicas de representación como lenguaje de expresión vinculado al ámbito productivo industrial, para la observación, registro, relevamiento de piezas y componentes de productos. Examina la importancia de la precisión, medición y graficación.
+
+**Diseño y comunicación visual 2**
+
+Introduce en los lenguajes visuales aplicados al diseño a tráves de ejercicios de percepción sensorial, expresión libre y diseño aplicado. Estudia el desarrollo morfológico, sistemas de generación de formas, teoría del color y técnicas para el análisis, formulación y construcción de mensajes visuales.
+
+**Tipografía 1**
+
+Presenta una síntesis histórica de la escritura, los alfabetos y la tipografía. Clasifica las fuentes tipográficas, y estudia el signo, su morfología, funcionalidad y legibilidad. Profundiza en la creación de sistemas de piezas y herramientas para la gestación de un alfabeto.
+
+**Diseño asistido 1**
+
+Desarrolla aplicaciones digitales para el enriquecimiento de la labor proyectual, instrumentos de modelado y creación de volúmenes, cuerpos y productos. Realiza la representación fotorealista de objetos y ambientes, y la creación de prototipos digitales y su aplicación en procesos productivos (simulación).
+
+**Electiva 1 (Representación expresiva 2)**
+
+Proporciona los recursos técnicos que hacen viable un enriquecimiento de la sensibilidad visual en el campo del diseño. Instruye en el conocimiento de diversas técnicas de representación, experimentación y búsqueda de un estilo personal de expresión gráfica.
+
+### 2.º año
+
+#### 3.er semestre
+
+**Electiva 2 (Evolución del diseño industrial 1)**
+
+La asignatura introduce al estudiante en el conocimiento del desarrollo del Diseño Industrial en el siglo XX, atendiendo a los resultados de la sinergia diseño - producción, con las variables sociales, tecnológicas y económicas que los propiciaron.
+
+**Ergonomía 1**
+
+Presenta elementos para el análisis de los hábitos y comportamientos humanos, y sus relaciones con los objetos y el entorno. Identifica las condiciones de seguridad, eficiencia, confort, disfrute y salud a que se expone un usuario individual o colectivo a partir de la interacción con de los productos diseñados.
+
+**Diseño industrial 1**
+
+Mediante el análisis de casos y la ejercitación, el área proyectual va involucrando todas las variables concernientes al desarrollo creativo de los productos. Forma y función El producto como elemento expresivo que responde a una función específica.
+
+**Tecnología industrial 1**
+
+Estudia los materiales naturales y artificiales, sus procesos productivos, las posibilidades y limitantes expresivas, proyectuales, técnicas y constructivas. Analiza el impacto ambiental, reciclaje, reuso y disposición final.
+
+**Diseño asistido 2**
+
+Desarrolla aplicaciones digitales para el enriquecimiento de la labor proyectual, instrumentos de modelado y creación de volúmenes, cuerpos y productos. Realiza la representación fotorealista de objetos y ambientes, y la creación de prototipos digitales y su aplicación en procesos productivos (simulación).
+
+#### 4.º semestre
+
+**Electiva 3 (Evolución del diseño industrial 2)**
+
+La asignatura introduce al estudiante en el conocimiento del desarrollo del Diseño Industrial en el siglo XX, atendiendo a los resultados de la sinergia diseño - producción, con las variables sociales, tecnológicas y económicas que los propiciaron.
+
+**Electiva 4 (Ergonomía 2)**
+
+Presenta elementos para el análisis de los hábitos y comportamientos humanos, y sus relaciones con los objetos y el entorno. Identifica las condiciones de seguridad, eficiencia, confort, disfrute y salud a que se expone un usuario individual o colectivo a partir de la interacción con de los productos diseñados.
+
+**Diseño industrial 2**
+
+Mediante el análisis de casos y la ejercitación, el área proyectual va involucrando todas las variables concernientes al desarrollo creativo de los productos. Tecnología Identificación, valoración y aplicación en el desarrollo proyectual de las variables tecnológicas, materiales y procesos de fabricación.
+
+**Tecnología industrial 2**
+
+Estudia los materiales naturales y artificiales, sus procesos productivos, las posibilidades y limitantes expresivas, proyectuales, técnicas y constructivas. Analiza el impacto ambiental, reciclaje, reuso y disposición final.
+
+**Diseño asistido 3**
+
+Desarrolla aplicaciones digitales para el enriquecimiento de la labor proyectual, instrumentos de modelado y creación de volúmenes, cuerpos y productos. Realiza la representación fotorealista de objetos y ambientes, y la creación de prototipos digitales y su aplicación en procesos productivos (simulación).
+
+### 3.er año
+
+#### 5.º semestre
+
+**Administración y costos industriales**
+
+La asignatura presenta al estudiante nociones básicas de la estructura de una empresa industrial productora de bienes tangibles y delinea los aspectos generales constitutivos de una empresa y su relación con el modelo de gestión, necesarios para la administración del proceso industrial. A su vez, permite al estudiante la identificación de los elementos constitutivos de la estructura de costos, su impacto en el producto y en los cálculos de márgenes y retornos.
+
+**Gráfica de producto e infografía**
+
+Analiza la tipografía como elemento de comunicación aplicado al producto. Estudia la identificación textual e icónica de los productos, marcas, comandos e interfases con la utilización de recursos tipográficos, simbólicos o figurativos.
+
+**Diseño industrial 3**
+
+Mediante el análisis de casos y la ejercitación, el área proyectual va involucrando todas las variables concernientes al desarrollo creativo de los productos. Factibilidad productiva Identificación, valoración y aplicación en el desarrollo proyectual de las variables productivas, logísticas, stock y comercialización. Experiencia Food design
+
+**Electiva 5 (Taller de hiperrealismo digital)**
+
+La asignatura permita al estudiante profundizar en el modelado digital en tres dimensiones y técnicas de representación.
+
+**Diseño asistido 4**
+
+Desarrolla aplicaciones digitales para el enriquecimiento de la labor proyectual, instrumentos de modelado y creación de volúmenes, cuerpos y productos. Realiza la representación fotorealista de objetos y ambientes, y la creación de prototipos digitales y su aplicación en procesos productivos (simulación). Trabajos destacados de Diseño asistido 4
+
+#### 6.º semestre
+
+**Teorías aplicadas al diseño**
+
+La asignatura proporciona al estudiante los elementos necesarios para ingresar en el campo de la reflexión teórica del diseño combinando teorías de la percepción, la comunicación y la semiótica. Promueve una reflexión crítica acerca del Diseño como contribución a la formación de cultura.
+
+**Marketing 1**
+
+Estudia los componentes de gestión del marketing, tipos de mercado, modelos de conducta de compra, mercado de consumo, análisis de fuerzas competitivas, ciclo de vida del producto, elección de mercados meta, segmentación, posicionamiento y mix de marketing.
+
+**Diseño industrial 4**
+
+Mediante el análisis de casos y la ejercitación, el área proyectual va involucrando todas las variables concernientes al desarrollo creativo de los productos. Mercado Identificación, valoración y aplicación en el desarrollo proyectual de las variables de mercado, identificación, personalización y segmentación. Hack the city
+
+**Gestión de proyectos creativos**
+
+Desarrolla las competencias necesarias para una correcta identificación, administración, seguimiento y supervisión de los participantes en el proyecto: recursos humanos, materiales y financieros, capacidades productivas, definición de actividades y administración de tiempos.
+
+### 4.º año
+
+#### 7.º semestre
+
+**Electiva 6 (Marketing digital)**
+
+Presenta los principales temas del marketing, la comercialización y la publicidad en Internet. El alumno aprenderá a utilizar la nueva tecnología de información y comunicación para diseñar estrategias y tácticas de marketing de forma personalizada.
+
+**Diseño industrial 5**
+
+Mediante el análisis de casos y la ejercitación, el área proyectual va involucrando todas las variables concernientes al desarrollo creativo de los productos. Innovación Identificación, valoración y aplicación en el desarrollo proyectual de los avances tecnológicos, productivos y culturales. https://www.youtube.com/watch?v=_EEfIhc_YCg
+
+**Electiva 7 (Media Lab)**
+
+La asignatura posibilita al estudiante a integrarse en equipos multidisciplnarios para la ejecución de proyectos de aplicación, extensión y similares, ejecutables en el marco del Media Lab.
+
+#### 8.º semestre
+
+**Tendencias del diseño contemporáneo**
+
+Analiza en forma crítica temáticas contemporáneas y realiza la interpretación dinámica de las acciones culturales, innovaciones tecnológicas y modificaciones de comportamiento, y su aplicación en el desarrollo de nuevos conceptos.
+
+**Proyecto integrador**
+
+Reflexiona acerca de las problemáticas proyectuales complejas y su resolución mediante la interacción de equipos multidisciplinarios. Un mismo proyecto integra diversos actores del campo del diseño, como diseñadores gráficos, industriales, de modas y multimedia, y considera la interacción con disciplinas conexas (comunicación, ingeniería, entre otros). Proyecto Integrador | Recreación

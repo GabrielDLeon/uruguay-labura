@@ -1,0 +1,399 @@
+---
+title: "Carrera de Arquitectura"
+similar:
+  - diploma-de-especializacion-en-arquitectura-sostenible-ort
+  - arquitectura-udelar
+  - arquitectura-doctorado-udelar
+  - arquitectura-en-madera-especializacion-udelar
+  - arquitectura-maestria-udelar
+  - construccion-de-obras-de-arquitectura-especializacion-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "carrera"
+area: "Arquitectura"
+modality: "presencial"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fa.ort.edu.uy/carrera-de-arquitectura"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Carrera de Arquitectura de ORT Uruguay. Estudiar la carrera de Arquitectura en la Universidad ORT Uruguay te aporta una verdadera formación integral, garantizando una inserción laboral exitosa."
+tags:
+  - "arquitectura"
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fa.ort.edu.uy/carrera-de-arquitectura'
+  - label: 'Plan de estudios'
+    url: 'https://fa.ort.edu.uy/carrera-de-arquitectura/plan-de-estudios'
+  - label: 'Listado de carreras universitarias'
+    url: 'https://www.ort.edu.uy/carreras-universitarias'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Estudiar la carrera de Arquitectura en la Universidad ORT Uruguay te aporta una verdadera formación integral, garantizando una inserción laboral exitosa.
+
+- Es la única carrera que te brinda dos títulos en Arquitectura: uno en Uruguay y otro en Brasil
+- Certificada por ARCU-SUR, asegurando calidad educativa de excelencia
+- Cursá un semestre en el extranjero y adquirí una visión global de la arquitectura
+- Desarrolla las habilidades de creación y representación, y trabaja en ejercitaciones de proyectos de arquitectura.
+- Transmite los conocimientos técnicos necesarios para que el proyecto arquitectónico se pueda materializar.
+- Incorporan el conocimiento del contexto social y cultural en el que se desarrolla la arquitectura.
+
+Durante la carrera adquirirás todas las herramientas para materializar ideas y realizar diseños que se transformarán en espacios reales e innovadores.
+
+La arquitectura es una disciplina fuertemente práctica. Por lo que tu formación profesional se complementa con clases en obras de construcción y múltiples actividades de extensión fuera de las aulas.
+
+Harás viajes a Argentina, Perú, Chile y Brasil, entre otros países, que te permitirán conocer de primera mano la arquitectura de la región.
+
+Asimismo, durante la carrera, visitarás estudios de arquitectura y realizarás workshops con estudiantes de prestigiosas universidades.
+
+La carrera consta de un plan de estudios de 10 semestres reales. Por la buena gestión administrativo-académica que la caracteriza, se aseguran cursados sin interrupciones ni dificultades.
+
+Plan de estudios
+
+El plan de estudios se estructura en tres áreas de conocimiento:
+
+Diseño
+
+Tecnología
+
+Ciencias sociales y humanas
+
+La carrera de Arquitectura consta de cinco años de cursado, dentro de un plan de estudios de 10 semestres reales, en los que se aseguran clases sin interrupciones. Es decir, que la carrera se puede cursar tal como lo establece el programa.
+
+La Facultad de Arquitectura de la Universidad ORT Uruguay ofrece un plan de estudios revisado y actualizado, que garantiza una formación vigente y al día con los últimos avances de los conocimientos y las prácticas de la arquitectura a nivel mundial.
+
+Cuerpo docente
+
+Los docentes de la carrera de Arquitectura cuentan con una vasta y reconocida experiencia profesional en sus áreas de especialización.
+
+Las clases son dictadas por equipos de profesores, donde los profesionales son acompañados por docentes en formación y jóvenes asistentes.
+
+Esto permite un proceso de enseñanza de calidad, con fuerte apoyo al estudiante y un fluido relacionamiento.
+
+Qué hacen los graduados
+
+La arquitectura es una disciplina en constante transformación, por lo que el mercado laboral exige a sus nuevos profesionales un alto nivel de formación, competitividad y actualización.
+
+Los arquitectos graduados de la Universidad ORT Uruguay tienen una tasa de inserción laboral del 96 %, lo cual es un fiel reflejo de la calidad de la formación obtenida.
+
+Título intermedio y título final
+
+Después del tercer año de la carrera, los estudiantes de Arquitectura pueden obtener el título intermedio de Asistente de Obra y Estudio. La obtención de este título implica que cuentan con todos los conocimientos para insertarse en el mercado laboral.
+
+Los últimos dos años de formación se centran en gestión, urbanismo, investigación y proyecto ejecutivo.
+
+De esta manera, las materias se organizan de forma que puedas gestionar tu tiempo de acuerdo a tus necesidades.
+
+Un semestre estudiando en el exterior
+
+La Facultad de Arquitectura mantiene convenios de intercambio con universidades de todo el mundo.
+
+Los estudiantes tienen la posibilidad de realizar un semestre en una universidad del extranjero y cursar materias que se revalidan sin costo al regreso.
+
+*La institución de destino se reserva el derecho de otorgar la aprobación final de la admisión de los estudiantes provenientes de universidades del extranjero.
+
+Talleres, clases prácticas y visitas a obras
+
+A lo largo de toda la carrera de Arquitectura, los estudiantes asisten a diferentes clases y prácticas en obras, en las que conocen directamente los procesos de trabajo de la construcción, en correspondencia con los temas teóricos tratados en el aula.
+
+El estudiante puede conocer las diversas tareas propias de la construcción: encofrados, hormigón, muros, revoques, revestimientos, entre otras, enriqueciéndose su formación por el contacto directo con la práctica de obra, no solamente viendo los trabajos, sino realizándolos con sus propias manos en actividades de extensión universitaria.
+
+En la carrera se desarrolla la ideación, la elaboración y la concreción de proyectos arquitectónicos, a través de talleres y trabajos prácticos en los que los estudiantes perfeccionan sus habilidades.
+
+La práctica en problemas de diseño introduce al estudiante en la modalidad de trabajo que caracteriza a la disciplina y que lo acompañará en su vida profesional.
+
+Becas y valor de las cuotas
+
+La Universidad ORT Uruguay otorga más de 1.000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios.
+
+Asimismo, concede becas especiales a estudiantes que hayan tenido un alto desempeño académico en secundaria.
+
+Las cuotas, en la medida de lo posible, se ajustan al desempeño, la situación y las posibilidades de cada estudiante, dependiendo de varios factores, como la beca con la que pueda ser favorecido, los descuentos para familiares, el cursado de más de una carrera a la vez, y los convenios que mantiene la universidad con diferentes empresas e instituciones, entre otros.
+
+Por ello, te sugerimos mantener una reunión con un asesor académico para analizar tu caso en particular y poder informarte más ampliamente sobre los distintos aspectos de la carrera.
+
+### Título Intermedio
+
+Asistente de Obra y Estudio
+
+### Títulos y Reconocimientos
+
+Reconocimiento del título de Arquitecto/a El título de Arquitecto/a es reconocido como de nivel universitario por resolución oficial del Ministerio de Educación y Cultura del 9/09/99. Título intermedio Al finalizar el tercer año, los estudiantes obtienen el título intermedio de Asistente de Obra y Estudio, que avala su capacitación para desarrollar tareas relacionadas con la profesión, en estudio y obra, lo que les permite comenzar su carrera laboral. Reconocimiento regional de la carrera En diciembre de 2022, por tercera vez, la carrera de Arquitectura fue reacreditada por el plazo máximo dentro del Mecanismo de Acreditación de Calidad Académica Mercosur de Carreras Universitarias, Sistema ARCU-SUR. El 28 de junio de 2023, la acreditación fue entregada por el MEC. El dictamen, emitido por la Comisión Ad Hoc de Acreditación después de un extenso y trabajoso proceso de evaluación, certifica públicamente la calidad de la carrera. La acreditación de la calidad de la formación de grado es un elemento sustancial para la mejora de la educación superior y para el avance en el proceso de integración regional. Única carrera de Arquitectura en Uruguay con doble titulación La Facultad de Arquitectura de la Universidad ORT Uruguay firmó un convenio de doble titulación con la Pontificia Universidad Católica de Minas Gerais (PUC Minas), de Poços de Caldas, Brasil. De este modo, con una única carrera, podés titularte como Arquitecto/a en Uruguay y como Arquitecto y Urbanista en Brasil.
+
+### Modalidad
+
+Esta carrera se dicta en forma presencial. Las evaluaciones se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración Plan de estudios de 5 años. Horarios de clase Matutino: lunes a viernes de 8:00 a 14:00. Nocturno (semestres avanzados): lunes a jueves de 17:30 a 22:30. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Educación Media Superior (EMS) completa de orientación Ciencia y Tecnología en cualquiera de sus opciones (UCA Química y UCA Historia del Arte). Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Otras opciones de Bachilleratos EMS, Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Estudiantes provenientes de otras universidades con al menos una materia aprobada, sin importar el bachillerato cursado previamente; sujeto al análisis de antecedentes por parte de la coordinación de la carrera correspondiente. La universidad admite el ingreso condicional a carreras universitarias hasta con dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico. Estudiantes del exterior: Los estudiantes que culminaron su educación media en el exterior deben presentar el certificado de estudios correspondiente, apostillado o con legalización consular, a efectos de su admisión a los estudios universitarios de grado en la universidad.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Reválidas
+
+Si iniciaste tu carrera en otra universidad y querés continuar tus estudios en la Universidad ORT Uruguay, podés revalidar las materias aprobadas y contar con beneficios en el valor de la cuota. y así podrás revalidar materias del plan de cursado.
+
+### Requisito de Graduación
+
+En caso que los estudiantes obtengan un Promedio Acumulado de Calificaciones (PAC) menor a 60 puntos al terminar su carrera, deberán aprobar un examen final integrador.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Dibujo 1***
+
+El objetivo de esta asignatura es capacitar al alumno en el empleo del dibujo sistematizado y altamente codificado, orientado específicamente a la representación del Proyecto de Arquitectura, que lo habilite a establecer una comunicación clara y precisa de sus ideas. También se busca capacitar al alumno en el control formal del espacio desarrollando destrezas en el manejo de propiedades y relaciones de las formas, incluyendo los fundamentos geométricos de la representación gráfica.
+
+**Proyecto 1***
+
+El objetivo de esta asignatura es introducir al estudiante a la comprensión de las metodologías de diseño en arquitectura. La materia procura que los estudiantes comprendan al proceso de diseño como la intersección de dos niveles de expresión, uno material y otro conceptual, y que tengan la habilidad para integrarlos en una entidad o producto cohesivo y unificado. Se busca que comprendan los principios y sistemas de orden que subyacen en todo diseño, que conozcan el marco teórico en que se dan dichos principios y sistemas, y que tengan la habilidad de aplicarlos al proceso de diseño, utilizando y potenciando adecuadamente los mecanismos de creatividad. Que tengan la habilidad para comunicar sus ideas y propuestas y de aplicar en todo momento, teorías y principios de representación y comunicación.
+
+**Introducción a la construcción**
+
+Brinda los conocimientos básicos para comprender la interrelación entre el medio ambiente y el edificio, cómo impacta el ambiente en el edificio y viceversa. Brinda conocimientos que permiten analizar la evolución a través del tiempo de los distintos sistemas constructivos, haciendo énfasis en la relación espacio-técnica de cada período estudiado. Brinda conocimientos sobre terminología básica de construcción, a los efectos que el estudiante se familiarice con la misma y permita el entendimiento de las materias siguientes. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
+
+**Seminario de Técnicas Informáticas***
+
+Tiene como objetivos: Brindar los conocimientos y desarrollar las habilidades necesarias para construir un "prototipo digital" de edificio, al tiempo que incorporan conceptos de la Metodología BIM; como por ejemplo: conceptualizar la importancia del trabajo interdisciplinario y cooperativo, con visión a todo el ciclo de vida del edificio.
+
+**Matemática 1***
+
+El objetivo de esta asignatura es conocer las nociones básicas de trigonometría, cálculo vectorial, geometría analítica, álgebra y funciones de una variable real. Nivelar conocimientos previos. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
+
+**Introducción a la arquitectura contemporánea**
+
+El objetivo de esta asignatura es introducir al estudiante a la reflexión teórica de la arquitectura, en especial de la arquitectura contemporánea y brindar los fundamentos conceptuales y metodológicos de la disciplina. La materia procura que los estudiantes conozcan las distintas escalas del quehacer arquitectónico y las teorías arquitectónicas y urbanísticas actuales. Busca que comprendan cómo se han relacionado con el contexto los diferentes individuos y grupos sociales, en sus distintas escalas a lo largo del siglo XX. Que comprendan los roles del arquitecto en la sociedad contemporánea y comiencen a desarrollar la habilidad para realizar apreciaciones críticas iniciales sobre las cualidades espaciales, estéticas, técnicas y sociales de las obras arquitectónicas.
+
+#### 2.º semestre
+
+**Dibujo 2***
+
+El objetivo de esta asignatura es desarrollar en el alumno la capacidad para el pensamiento analógico-visual, que lo habilite para la representación y el desarrollo de ideas arquitectónicas. Busca capacitar al alumno en el empleo de los medios de expresión idóneos para la concepción, transformación y evolución del espacio: el dibujo de ideación, el modelo tridimensional a escala, y otros medios de expresión complementarios.
+
+**Proyecto 2***
+
+Proyecto 2 Los objetivos de esta asignatura son: Iniciar al estudiante en el proceso de aprendizaje de la práctica proyectual. Formalizar una propuesta arquitectónica de complejidad moderada, vinculada al espacio individual, manejando variables funcionales y formales. Integración elemental de sistemas constructivos y estructurales. Manejo del concepto de partido, con especial énfasis en la composición del espacio interior y su relación con el exterior. Los elementos y sus agrupamientos. Desarrollo de la capacidad de comunicación del proyecto cuidando especialmente la definición geométrica y la realización de dibujos y maquetas, tanto de ideación como de comunicación. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes, y con la realización de un ejercicio de proyecto. Este ejercicio, de carácter individual, estará dirigido mediante críticas colectivas e individuales, por los profesores responsables.
+
+**Materiales de construcción***
+
+Objetivos y metodología Brinda los conocimientos de los materiales más usados en nuestro medio, aplicables a la industria de la construcción. Describe y analiza cada material, sus propiedades, subproductos y su aplicación en la construcción. Se introduce al estudiante a un contacto directo con el material, reconociendo sus características específicas. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
+
+**Matemática 2**
+
+Objetivos y metodología Brindar conocimientos de cálculo integral y comprender su aplicación en el cálculo de áreas, volúmenes y momentos. Comprender las nociones de centro de gravedad y momentos y su aplicación en el campo arquitectónico. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
+
+**Teoría y práctica de la arquitectura**
+
+Objetivos y metodología Estudiar las articulaciones entre el discurso teórico y la práctica arquitectónica, así como introducir a los estudiantes en los principios básicos y teorías de la percepción y especulación filosófica sobre la naturaleza del diseño arquitectónico. Para ello se estudiará la relación entre teoría y práctica desde un punto de vista conceptual, la importancia del proyecto como síntesis de las ideas y a su vez instrumento de concreción de la obra. Por último se analizará como se idea la arquitectura y al mismo tiempo como se materializan esas ideas, abarcando además la experiencia y el uso de la arquitectura. El curso se estructura con clases teóricas con actividades prácticas individuales y en equipos.
+
+### 2.º año
+
+#### 3. er semestre
+
+**Proyecto 3**
+
+Objetivos y metodología Introducir al estudiante en la problemática del diseño arquitectónico referido a aspectos elementales de inserción urbana y de relacionamiento con el contexto así como a la comprensión, análisis y desarrollo de programas arquitectónicos de baja complejidad funcional. La materia procura que los estudiantes comprendan los procesos de implantación urbana como resultado de sus reflexiones en cuanto al sitio. Que comprendan el análisis programático y funcional como síntesis del conocimiento abstracto de las actividades humanas. Que tengan la habilidad de realizar procesos de generación formal en arquitectura con referencia a ideas y conocimientos. Que comprendan los temas vinculados a la significación y contenido en sus propuestas arquitectónicas. Que tengan la habilidad para analizar la generación del espacio arquitectónico a nivel interno y externo. Que tengan la habilidad para seleccionar las tecnologías constructivas que mejor se adapten a sus propuestas arquitectónicas. Que tengan la habilidad para desarrollar un pensamiento reflexivo y crítico en observaciones y discusiones sobre la propia arquitectura. El curso se estructura con clases teóricas, generales y aplicadas, a fin de presentar conocimientos y apoyar el desarrollo de habilidades de observación, análisis y síntesis; y con la realización de trabajos en grupo e individuales dirigidos por los profesores responsables mediante críticas individuales y colectivas.
+
+**Procedimientos constructivos 1**
+
+Objetivos y metodología Brindar conocimientos sobre estructuras de hierro, madera y hormigón armado. Brindar conocimientos básicos de mecánica de suelos y de la interacción suelo-estructura. Analizar sistemas de fundaciones, y movimientos de tierra. Introducir al alumno en la comprensión de los procedimientos constructivos, para poder desarrollar el proyecto arquitectónico desde el punto de vista estructural. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
+
+**Acondicionamiento térmico***
+
+Objetivos y metodología Brindar los conocimientos fundamentales vinculados al acondicionamiento térmico natural y artificial en la arquitectura y a la protección contra incendio, que permitan resolver problemas prácticos de diseño en obras y que puedan ser integrados en todas las etapas del proyecto. Informar sobre la necesidad de coordinar e integrar estas instalaciones con los demás acondicionamientos y con el diseño general del proyecto. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
+
+**Estructuras 1***
+
+Objetivos y metodología Orientar y aportar instrumentos al estudiante respecto a la problemática estructural dentro de la arquitectura. Brindar los conocimientos para que el estudiante comprenda la estructura de manera de poder analizar una construcción como un sistema estable que asegure la transmisión de las cargas al suelo. Brindar los conocimientos y trasmitir las capacidades para reconocer los esfuerzos de las estructuras, procesarlos y graficarlos en diagramas de solicitaciones. Capacitar al estudiante para dimensionar los elementos simples que componen las estructuras, con materiales homogéneos, en particular, acero o madera. El curso se estructura con clases teóricas y clases prácticas.
+
+**La construcción del mundo moderno**
+
+Objetivos y metodología Dotar al estudiante de la dimensión histórica en el conocimiento de la arquitectura occidental, desde la antigüedad al siglo XIX inclusive y de disciplinas relacionadas (historia de las ideas, del arte y del paisaje, entre otras) a través de textos y obras. Para ello se incursionará en el análisis de la construcción efectiva y conceptual de la modernidad, desde un método que permita contemplar las dimensiones sincrónicas y diacrónicas, seleccionando en cada tema los períodos históricos pertinentes para su estudio. Se llevará adelante una aproximación al conocimiento del hecho arquitectónico desde el punto de vista formal, tipo – morfológico y semántico, a los efectos de crear en el estudiante un espíritu crítico imprescindible a la hora de la proyectación. El curso se estructura con clases teóricas y se llevarán a cabo actividades prácticas individuales y en equipo.
+
+#### 4.º semestre
+
+**Proyecto 4**
+
+Objetivos y metodología Introducir al estudiante en la problemática del diseño arquitectónico referido a aspectos elementales de inserción urbana y de relacionamiento con el contexto así como a la comprensión, análisis y desarrollo de programas arquitectónicos de baja complejidad funcional. La materia procura que los estudiantes comprendan los procesos de implantación urbana como resultado de sus reflexiones en cuanto al sitio. Que comprendan el análisis programático y funcional como síntesis del conocimiento abstracto de las actividades humanas. Que tengan la habilidad de realizar procesos de generación formal en arquitectura con referencia a ideas y conocimientos. Que comprendan los temas vinculados a la significación y contenido en sus propuestas arquitectónicas. Que tengan la habilidad para analizar la generación del espacio arquitectónico a nivel interno y externo. Que tengan la habilidad para seleccionar las tecnologías constructivas que mejor se adapten a sus propuestas arquitectónicas. Que tengan la habilidad para desarrollar un pensamiento reflexivo y crítico en observaciones y discusiones sobre la propia arquitectura. El curso se estructura con clases teóricas, generales y aplicadas, a fin de presentar conocimientos y apoyar el desarrollo de habilidades de observación, análisis y síntesis; y con la realización de trabajos en grupo e individuales dirigidos por los profesores responsables mediante críticas individuales y colectivas.
+
+**Procedimientos constructivos 2**
+
+Objetivos Brindar conocimientos sobre los sistemas constructivos tradicionales y no tradicionales de las envolventes de los edificios: cerramientos, particiones y acabados, requeridas para el funcionamiento del edificio de acuerdo al destino del mismo y al medio ambiente en el que se implanta. Comprender el impacto que produce la aplicación de cada sistema constructivo en el espacio edificado y en el medio ambiente. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
+
+**Acondicionamiento acústico***
+
+Objetivos y metodología El objetivo del curso es brindar los conocimientos fundamentales vinculados a la acústica arquitectónica que permitan resolver problemas prácticos de diseño en obras y que puedan ser integrados en todas las etapas del proyecto. También busca informar sobre la necesidad de coordinar e integrar estos temas con los demás acondicionamientos en el contexto del diseño general del proyecto. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
+
+**Acondicionamiento sanitario***
+
+Objetivos y metodología Impartir conocimientos sobre las instalaciones sanitarias internas de los edificios incluyendo abastecimiento de agua fría y caliente, desagües sanitarios y pluviales y red de incendio con la finalidad de que el alumno pueda proyectar estas instalaciones en viviendas individuales y colectivas de complejidad media sin recurrir a un técnico sanitario o un ingeniero. Brindar los conocimientos para poder interactuar con asesores sanitarios en proyectos de mayor envergadura. Capacitar al alumno para supervisar la ejecución de obras de sanitaria interna.
+
+**Estructuras 2**
+
+Objetivos y metodología Capacitar al estudiante a utilizar todos los conocimientos adquiridos anteriormente para abordar el diseño y cálculo de las estructuras. Brindar nuevos conocimientos referidos al análisis de estados de tensión-deformación de los elementos estructurales frente a las distintas solicitaciones: Axil, Cortante, Flexión simple y compuesta, Torsión. Capacitar al estudiante a encarar el diseño del proyecto de estructuras independientes con materiales homogéneos, acero o madera, y estructuras de muros portantes, con la finalidad que pueda sintetizar todos los elementos de análisis que se le han proporcionado, y logre abordar en forma global el diseño estructural de construcciones de materiales homogéneos. El curso se estructura con clases teóricas y prácticas.
+
+**La conformación de la región**
+
+Objetivos y metodología Brindar al estudiante los conocimientos de historia, teoría y crítica de la arquitectura en el Uruguay y en la región donde se inserta y los distintos métodos historiográficos y teóricos de aproximación a la realidad regional. Brindar los conocimientos de las características comunes de los asentamientos humanos y sus lineamientos urbanísticos en el contexto regional. Capacitar al estudiante para comprender la incidencia de los vínculos regionales en el desarrollo de las ciudades, la relación entre población, arquitectura y ambiente y el impacto de los valores socioculturales de la región en la responsabilidad y rol del arquitecto. Capacitar al estudiante para comprender las historias y teorías de la arquitectura y el urbanismo y su aplicación en el debate de una arquitectura latinoamericana. Trasmitir la habilidad para desarrollar una actitud crítica frente a las ideas y realizaciones que se llevan a cabo en la región. Trasmitir la habilidad de analizar reflexivamente el rol del arquitecto en el Uruguay, en la región y en un mundo globalizado. Las clases serán teóricas y se desarrollarán actividades prácticas individuales y en equipo. Dada la temática del curso se promoverá el contacto directo con las obras y ciudades, para ello se realizarán visitas guiadas y trabajos en los mismos.
+
+### 3.er año
+
+#### 5.º semestre
+
+**Proyecto 5**
+
+Objetivos y metodología Desarrollar habilidades para organizar metodologías de diseño lógicas, aplicables a la resolución de problemas arquitectónicos de escala y complejidad intermedia. La materia procura que los estudiantes tengan la habilidad de analizar, evaluar e integrar al proceso de diseño las exigencias derivadas del contexto natural y artificial así como de los aspectos de regulación urbana. Que tengan la habilidad para analizar e integrar las necesidades y aspiraciones de usuarios y del contexto social y cultural, y de usar la teoría y la historia de la arquitectura en el análisis y producción de objetos arquitectónicos. Que tengan la habilidad para evaluar y seleccionar sistemas estructurales, constructivos y de instalaciones, y de realizar estimaciones de costos. Que tengan la habilidad para comunicar sus ideas y propuestas, en las diferentes etapas del proceso de diseño, usando la variedad de técnicas disponibles, incluyendo las informáticas. El curso se estructura con clases teóricas, generales y aplicadas, a fin de presentar conocimientos y apoyar el desarrollo de habilidades de observación, análisis y síntesis; y con la realización de trabajos en grupo e individuales dirigidos por los profesores responsables mediante críticas individuales y colectivas.
+
+**Procedimientos constructivos 3**
+
+Objetivos y metodología Desarrollar habilidades en Construcción Tradicional para interrelacionar y sintetizar conocimientos técnicos adquiridos en las diferentes materias del área tecnológica. Ejercitar la aplicación de los conocimientos y habilidades en la envolvente del edificio, para entender el cerramiento exterior como piel de resolución constructiva de los acondicionamientos. Desarrollar habilidades para el análisis y la materialización de dispositivos y detalles constructivos en relación a los requerimientos formales, técnicas constructivas y el entorno de aplicación; para garantizar la durabilidad proyectada. Analizar la evolución en el tiempo de materiales y procedimientos constructivos a través del conocimiento de su composición (física, química, etc). Analizar las posibilidades de su recuperación. Analizar y reconocer las tipologías, las técnicas y los procedimientos constructivos tradicionales en Edificaciones Pre-existentes. Reconocer las lesiones y sintomatologías frecuentes en los diferentes elementos constructivos y principales materiales de construcción en edificios pre-existentes. Adquirir un método como herramienta para el relevamiento, diagnóstico y tratamiento de lesiones en los edificios. El curso se estructura en dictado de clases teóricas generales y trabajos prácticos en grupos.
+
+**Acondicionamiento eléctrico***
+
+Objetivos y metodología Brindar los conocimientos fundamentales vinculados al Acondicionamiento Eléctrico y las Tensiones Débiles en la Arquitectura. Desarrollar habilidades para incorporar estos conocimientos en el proceso de diseño. Comunicar la necesidad de coordinar e integrar estas Instalaciones con el Proyecto de Diseño y los demás acondicionamientos. Capacitar al estudiante para desarrollar un Proyecto Primario de Instalaciones Eléctricas de mediana complejidad. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas a obras.
+
+**Acondicionamiento lumínico***
+
+Objetivos y metodología Brindar los conocimientos fundamentales vinculados al acondicionamiento lumínico en la arquitectura que permitan resolver problemas prácticos de diseño y que puedan ser integrados en todas las etapas del proyecto. Informar sobre la necesidad de coordinar e integrar estas instalaciones con los demás acondicionamientos y con el diseño general del proyecto. El curso se estructura sobre la base de clases teóricas, investigación y lecturas independientes, y un proyecto semestral tutorado.
+
+**Estructuras 3**
+
+Objetivos y metodología Capacitar al estudiante a resolver problemas avanzados de cálculo estructural. Brindar los conocimientos para comprender los fundamentos del comportamiento estructural del hormigón armado. Capacitar al estudiante en la aplicación del dimensionado de secciones a los dispositivos constructivos más habituales en arquitectura. El curso se estructura con clases teóricas, generales y aplicadas.
+
+**Análisis crítico de la arquitectura contemporánea**
+
+Objetivos y metodología Profundizar en el análisis crítico de la producción arquitectónica actual, como sustento reflexivo para la tarea de proyectación. Para ello es necesario un acercamiento y profundización del fenómeno de la contemporaneidad, sus relaciones con el pasado reciente y sus proyecciones en el futuro inmediato. Se lleva adelante clases teóricas y actividades individuales y en equipo. Se realizará un trabajo monográfico final.
+
+#### 6.º semestre
+
+**Proyecto 6**
+
+Objetivos y metodología Desarrollar habilidades para organizar metodologías de diseño lógicas, aplicables a la resolución de problemas arquitectónicos de escala y complejidad intermedia. La materia procura que los estudiantes tengan la habilidad de analizar, evaluar e integrar al proceso de diseño las exigencias derivadas del contexto natural y artificial así como de los aspectos de regulación urbana. Que tengan la habilidad para analizar e integrar las necesidades y aspiraciones de usuarios y del contexto social y cultural, y de usar la teoría y la historia de la arquitectura en el análisis y producción de objetos arquitectónicos. Que tengan la habilidad para evaluar y seleccionar sistemas estructurales, constructivos y de instalaciones, y de realizar estimaciones de costos. Que tengan la habilidad para comunicar sus ideas y propuestas, en las diferentes etapas del proceso de diseño, usando la variedad de técnicas disponibles, incluyendo las informáticas. El curso se estructura con clases teóricas, generales y aplicadas, a fin de presentar conocimientos y apoyar el desarrollo de habilidades de observación, análisis y síntesis; y con la realización de trabajos en grupo e individuales dirigidos por los profesores responsables mediante críticas individuales y colectivas.
+
+**Procedimientos constructivos 4**
+
+Objetivos y metodología Comprender los principios, estándares, aplicaciones y restricciones asociadas con la manufactura, uso y control de calidad de los materiales y de los procedimientos de construcción de obra húmeda. Conocer las habilidades requeridas al personal de obra para la realización de tareas de obra húmeda. El curso se estructura mediante clases prácticas, donde los estudiantes ejecutan componentes de obra cuya secuencia simula la ejecución completa de un edificio, y explicaciones teóricas generales.
+
+**Energías renovables**
+
+El propósito de esta materia es brindar a los futuros profesionales, criterios de diseño y cálculo de instalaciones de energía solar, eólica, biomasa y geotermia para la generación de energía térmica y eléctrica aplicados a proyectos arquitectónicos. Se trabaja por medio de clases expositivas, brindadas por un equipo docente con experiencia probada en el campo de las energías renovables, se requerirá continuamente la participación de los alumnos para que el grupo descubra/deduzca los conceptos base. Se recurre a material de apoyo como elementos audiovisuales y casos de estudio y publicaciones especializadas. Se contará con material didáctico específico para el curso.
+
+**Electiva 1***
+
+Las materias electivas se presentan a título de ejemplo. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Diseño Taller de Arquitectura y Arte Diseño Bioclimático Técnicas de Expresión Gráfica Diseño y Comunicación Visual 1 Tecnología Taller de Rehabilitación Edilicia Técnicas de Construcción Introducción a los Desarrollos Inmobiliarios Estructuras 5 Ciencias sociales y humanas Trabajo de Extensión Trabajo de Investigación 1 y 2 Criterios de Intervención en el Patrimonio Cultural Tópicos Avanzados en Arquitectura 1, 2, 3, 4 y 5 Pasantía laboral
+
+**Estructuras 4**
+
+Objetivos y metodología Brindar al estudiante una síntesis de la problemática estructural. Aportar al estudiante la idoneidad en el manejo de dicha problemática, dada la responsabilidad que ella supone, particularmente en lo que tiene que ver con la dirección de obra. Brindar orientación para la toma de decisiones con relación al sistema estructural, y particularmente de la cimentación. Capacitar al estudiante a resolver a nivel Proyecto la estructura de propuestas arquitectónicas. El curso se estructura en base a módulos que se componen de clases expositivas, y clases prácticas de aplicación de cada tema.
+
+### 4.º año
+
+#### 7.º semestre
+
+**Proyecto 7**
+
+Objetivos y metodología Desarrollar conocimientos y habilidades que permitan introducir al estudiante en la escala del proyecto entendido como anteproyecto ajustado. Se formalizarán proyectos de complejidad funcional y tecnológica que abarquen definiciones constructivas, estructurales y de instalaciones como iniciación a una mayor complejidad técnica. Se exigirá desarrollo del detalle constructivo y de la documentación técnica, como expresión del conocimiento integral de los aspectos constructivos del proyecto. Desarrollo de argumentos arquitectónicos complejos que incluyen la escala del objeto y sus relaciones con la ciudad, en tanto contexto físico, histórico y cultural. Se procurará la coherencia global del proyecto: idea, lenguaje y diseño formal y tecnológico. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes, y con la realización de un ejercicio de proyecto, abarcativo de todo el semestre. Éste, de carácter individual, estará dirigido mediante críticas colectivas e individuales, por los profesores responsables.
+
+**Gestión de proyectos 1**
+
+Objetivos: Brindar los conocimientos para que el alumno elabore presupuestos y programas de obra de un proyecto de construcción pública y/o privada. Capacitar al estudiante para: conocer y explicar el proceso de desarrollo de un proyecto de construcción; explicar la importancia y necesidad de desarrollar un proceso racional para la ejecución de estas funciones y analizar los requerimientos y características de un proyecto. Capacitar al estudiante, a partir de la definición del proyecto o tarea, para analizar la información del proyecto, y realice la subdivisión del mismo en actividades y eventos. Capacitar al estudiante, una vez realizado el ordenamiento de las actividades, para estimar la duración y costo de las actividades.
+
+**Electiva 2***
+
+Las materias electivas se presentan a título de ejemplo. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Diseño Taller de Arquitectura y Arte Diseño Bioclimático Técnicas de Expresión Gráfica Diseño y Comunicación Visual 1 Tecnología Taller de Rehabilitación Edilicia Técnicas de Construcción Introducción a los Desarrollos Inmobiliarios Estructuras 5 Ciencias sociales y humanas Trabajo de Extensión Trabajo de Investigación 1 y 2 Criterios de Intervención en el Patrimonio Cultural Tópicos Avanzados en Arquitectura 1, 2, 3, 4 y 5 Pasantía laboral
+
+**Teoría y práctica del urbanismo**
+
+Objetivos y metodología Brindar al estudiante conocimientos sobre el fenómeno urbano y los procedimientos y técnicas contemporáneas aplicables a su gestión y orientación prospectiva. Aplicar los conocimientos adquiridos en las actividades del Taller de Urbanismo y en los Talleres de Arquitectura complementando el conocimiento de las relaciones entre el fenómeno edilicio y la ciudad, apoyándose en el análisis de casos concretos ilustrativos de la realidad urbana contemporánea. Capacitar al estudiante a reflexionar críticamente sobre la realidad urbana nacional y regional, y a comprender el fenómeno urbano a partir del análisis de los principales procesos sociales, económicos, culturales, políticos y tecnológicos que explican las apropiaciones territoriales y entre ciudades configurando redes o sistemas. Capacitar metodológicamente al estudiante tomando como base las técnicas de la planificación estratégica y de modelos de formulación participativa de programas de acción (marco lógico).
+
+**Enfoques y problemas en arquitectura**
+
+Objetivos y metodología Desarrollar la capacidad crítica del estudiante mediante tratamiento de tópicos orientados a unificar la diversidad temática de las materias del área humanística y aportar a la integración de saberes provenientes de las otras áreas curriculares. La materia se estructura en base a exposiciones de docentes y de los propios estudiantes, de forma individual y colectiva, sobre aspectos totales o parciales de los tópicos tratados. Los temas variarán en el tiempo y serán elegidos y desarrollados a fin de permitir que el estudiante construya visiones globales, que consideren diversos enfoques. En los años 2011, 2012 y 2013 el tema desarrollado fue: “Arquitectura Contemporánea en la región, articulaciones con la globalización”.
+
+#### 8.º semestre
+
+**Proyecto 8**
+
+Objetivos y metodología Continuar con el desarrollo de conocimientos y habilidades que permitan introducir al estudiante en la escala del proyecto entendido como anteproyecto ajustado. Se formalizarán proyectos de complejidad funcional y tecnológica que abarquen definiciones constructivas, estructurales y de instalaciones como iniciación a una mayor complejidad técnica. Desarrollo del detalle constructivo y de la documentación técnica, como expresión del conocimiento integral de los aspectos constructivos del proyecto. Desarrollo de argumentos arquitectónicos complejos que incluyen la escala del objeto y sus relaciones con la ciudad, en tanto contexto físico, histórico y cultural. Coherencia global del proyecto: idea, lenguaje y diseño formal y tecnológico. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes, y con la realización de un ejercicio de proyecto, abarcativo de todo el semestre. Éste, de carácter individual, estará dirigido mediante críticas colectivas e individuales, por los profesores responsables. Comparte apoyatura teórica y práctica con Taller de Urbanismo, materia con la que define conjuntamente tanto el lugar geográfico de actuación como el tema arquitectónico a desarrollar.
+
+**Gestión de proyectos 2**
+
+Emprendedurismo Brindar los conocimientos y capacidades al estudiante para identificar, validar e implementar oportunidades de negocio. Brindar los conocimientos al estudiante para que pueda diseñar, planificar e implementar un negocio a partir de una oportunidad, utilizando el Plan de Negocio como herramienta. Se utilizará un software para el armado del Plan de Negocio. Comprender los aspectos de gestión de la calidad bajo las normas ISO 9000:2000 y los conceptos que en ellas están involucrados: La satisfacción al cliente y la mejora continua. Proporcionar y aplicar una visión integradora de los aspectos técnicos, humanos y de dirección de proyectos. Proporcionar y aplicar herramientas y métodos para la dirección de proyectos. Brindar conocimientos sobre estrategias para la gestión del cambio en el desarrollo de las organizaciones por proyectos.
+
+**Taller de urbanismo**
+
+Objetivos y metodología Brindar conocimientos al estudiante sobre los nuevos procesos de la ciudad contemporánea. Capacitar al estudiante dándole las herramientas para el desempeño profesional en el área y la interacción con las disciplinas afines. Aportar las herramientas para el desempeño del estudiante en el diseño urbano, en la gestión urbana y en el desarrollo territorial. Trasmitir al estudiante la visión multiescalar de la disciplina y el trabajo con diferentes metodologías de abordaje de la problemática urbana contemporánea. El curso se desarrolla a través de clases prácticas y clases teóricas.
+
+**Gestión ambiental**
+
+Objetivos y metodología Poner en contacto al alumno con la noción de ambiente como sistema y su caracterización espacio-temporal. Analizar la relación del hombre con su espacio dinámico de soporte y definir las interacciones mutuas, producto general de la cultura y particular de las tecnologías disponibles. Introducir el concepto de gestión y gestión sustentable. Revisar las normas e instituciones que regulan la actividad y relacionarlas con el ejercicio de la profesión de Arquitecto y Urbanista en el Uruguay contemporáneo. Incorporar conceptos actualizados acerca del ambiente y sus conflictos y de los efectos generados en él por las distintas actividades humanas. Se analizará también el concepto de gestión ambiental y las normas e instituciones públicas y privadas involucradas en la misma en el país y en países en los que la gestión ambiental se encuentra en un mayor nivel de avance.
+
+**Electiva 3***
+
+Las materias electivas se presentan a título de ejemplo. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Diseño Taller de Arquitectura y Arte Diseño Bioclimático Técnicas de Expresión Gráfica Diseño y Comunicación Visual 1 Tecnología Taller de Rehabilitación Edilicia Técnicas de Construcción Introducción a los Desarrollos Inmobiliarios Estructuras 5 Ciencias sociales y humanas Trabajo de Extensión Trabajo de Investigación 1 y 2 Criterios de Intervención en el Patrimonio Cultural Tópicos Avanzados en Arquitectura 1, 2, 3, 4 y 5 Pasantía laboral
+
+### 5.º año
+
+#### 9.º semestre
+
+**Proyecto 9**
+
+Objetivos y metodología Iniciar al estudiante en la escala del proyecto de ejecución. Se desarrollarán proyectos de complejidad funcional y tecnológica que abarquen definiciones constructivas, estructurales y de instalaciones, y se introducirá al estudiante a la aplicación práctica de conocimientos gerenciales en el proceso de diseño. Aspectos específicos: interrelación de instalaciones; memorias, especificaciones técnicas de obra y detalles constructivos; cronograma y presupuesto de obras. Se busca que el estudiante obtenga una visión integral sobre la manera como intervienen las diferentes instalaciones en el proyecto arquitectónico y que sea capaz, además, de establecer una adecuada interrelación en el proceso de diseño. Por ello las clases contarán con la presencia de profesores especialistas en las distintas disciplinas. Éstos intervendrán en las correcciones de los proyectos, e integrarán mesas redondas donde desarrollarán temas vinculados a las exigencias técnicas de su disciplina y a la forma de interrelacionarse con las otras. El curso se estructura con clases teórico-prácticas, generales y aplicadas, para todos los estudiantes, y con la realización de un ejercicio de proyecto, abarcativo de todo el semestre. Éste, de carácter individual, estará dirigido mediante críticas colectivas e individuales, por los profesores responsables. Se pretende que al finalizar este curso el estudiante esté en condiciones de desarrollar su Proyecto Fin de Carrera.
+
+**Infraestructura urbana**
+
+Objetivos y metodología Proporcionar a los estudiantes un panorama teórico y práctico de los proyectos de infraestructura y entender su rol en el desarrollo de las ciudades. Capacitar al estudiante a comprender los proyectos de infraestructura como motores de desarrollo urbano y como producto de su contexto económico y social. Comunicar al estudiante la necesidad de coordinación de múltiples actores (Arquitectos, Ingenieros, Profesionales técnicos de Intendencias, Ministerio De Transportes y Obras Públicas, DINAMA, etc.), los plazos de implementación y los cambios imprevistos que caracterizan los proyectos de Infraestructura, así como la necesidad de contar con instrumentos flexibles de diseño y gestión. Exponer al estudiante el rol del arquitecto en el desarrollo de los proyectos urbanos, manejando herramientas de diseño y gestión que fortalezcan su rol mediador e integrador. Trasmitir al estudiante la participación ciudadana en la gestión de los proyectos de infraestructura. Aportar al estudiante los criterios que se deben manejar para la elección de los terrenos y zonas más aptos para ser urbanizados desde el punto de vista económico, social, del cuidado del medio ambiente y de conveniencia para las infraestructuras. Trasmitir al estudiante los conceptos y las nomenclaturas utilizadas en estas áreas de la ingeniería para poder interactuar con asesores en la materia. Brindar criterios constructivos generales para capacitar al estudiante en dirección de obras de infraestructura.
+
+**Práctica profesional**
+
+Objetivos y metodología El objetivo del curso es recorrer con el alumno el camino que va desde el hecho proyectual al constructivo, analizando su propia función como Arquitecto, la de la Empresa constructora y la Organización de la Obra y su entorno. Se busca obtener una visión integradora de los aspectos técnicos, humanos y de dirección de proyectos, dotando a los participantes de herramientas para la práctica profesional, incluyen un reexamen de metodología de uso habitual en la dirección de proyectos. Los temas que se exponen apoyan un desarrollo práctico de la situación concreta planteada por el alumno, permitiéndole abordar la coordinación de los diversos elementos que intervienen en el proceso de construcción, desde el proyecto y su tramitación, hasta su realización final. La materia prepara para la práctica profesional en lo que afecta a su responsabilidad de comprender y manejar los procesos y relaciones humanas alrededor de su profesión, el código deontológico y los aspectos legales que atañen a la misma.
+
+**Metodología de la investigación**
+
+Objetivos y metodología Introducir al estudiante al uso práctico de técnicas y métodos de investigación en historia y teoría de la arquitectura a través de la confección de un plan de trabajo y un estudio bibliográfico, en el que se hace énfasis en los aspectos metodológicos. Brindar conocimientos sobre metodologías de investigación en historia y teoría de la arquitectura, y en ciencias sociales. Discutir aspectos generales de la organización del trabajo y del manejo de bibliografía, así como criterios generales para la selección de temas. Al final del semestre, cada equipo, de tres estudiantes como máximo, debe haber definido conjuntamente con el profesor titular el tema de la monografía, su justificación, el tutor, una lista de referencias bibliográficas, y un plan de trabajo (que incluye la pregunta de investigación). El trabajo propiamente dicho se llevará a cabo en el semestre siguiente, en la Memoria Fin de Carrera.
+
+#### 10.º semestre
+
+**Proyecto fin de carrera**
+
+Objetivo y metodología Desarrollar el anteproyecto elaborado en la materia previa Proyecto 9. Producir un proyecto completo de calidad profesional, confeccionando planos de arquitectura, especificaciones técnicas, detalles constructivos, coordinación de estructura e instalaciones, cronograma y presupuesto. El objetivo formativo de esta materia es que el estudiante realice un trabajo de proyecto de alcance acotado, pero que vincule el ejercicio profesional al campo del diseño arquitectónico, incorporando los alcances éticos de la profesión y conocimientos vinculados a la gestión de obras y proyectos. El estudiante desarrollará el trabajo planteado en el semestre anterior, bajo el control del profesor titular y del equipo de asesores: especialistas vinculados al campo estructural y de acondicionamiento e instalaciones. Al final del curso, el estudiante deberá producir una carpeta con un conjunto de recaudos técnicos y deberá, además, realizar una defensa oral ante un jurado integrado por profesores invitados especialmente convocados para la oportunidad.
+
+**Memoria fin de carrera/Reflexiones arquitectónicas contemporáneas**
+
+Los estudiantes deben elegir una de estas dos asignaturas. Memoria fin de carrera Objetivos y metodología Llevar a cabo el trabajo planteado en el semestre anterior, ajustando los aspectos de metodología y alcance del trabajo que sea necesario. Producir una monografía de calidad profesional sobre el tema elegido. El objetivo formativo de esta materia es que el equipo de estudiantes realice un trabajo de investigación de alcance limitado, e incorpore los hábitos de rigurosidad, método y crítica necesarios para apreciar y desarrollar la labor investigativa. El equipo de estudiantes desarrollará el trabajo planteado en el semestre anterior, bajo el control de un tutor, quien supervisará el trabajo del equipo. Al final del curso, el equipo producirá una monografía, y cada miembro del equipo realizará una defensa oral separada del trabajo producido. Reflexiones arquitectónicas contemporáneas Profundizar la capacidad reflexiva del estudiante en torno a los distintos tópicos de la arquitectura contemporánea, integrando los conocimientos asimilados en los cursos precedentes de la cátedra, como así también los saberes provenientes de las otras áreas curriculares. La materia se propone como la síntesis final de un proceso de aprendizaje en materia de Teoría, Historia y Crítica de la Arquitectura, a fin de contribuir a un respaldo teórico en la acción profesional futura del estudiante.

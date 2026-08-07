@@ -1,0 +1,98 @@
+---
+title: "Diploma de Especialización en Negocios Inmobiliarios"
+similar:
+  - licenciatura-en-negocios-digitales-ort
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
+  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
+  - master-en-business-analytics-ort
+  - diploma-de-especializacion-en-fiscalidad-internacional-ort
+  - licenciatura-en-gerencia-y-administracion-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "especializacion"
+area: "Arquitectura"
+modality: "hibrido"
+shift: "night"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Arancelado"
+language: "Español"
+website: "https://fa.ort.edu.uy/diploma-de-especializacion-en-negocios-inmobiliarios"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Postgrado de un año de duración que capacita a profesionales de varias áreas en el análisis, asesoramiento y ejecución de negocios inmobiliarios."
+tags:
+  - negocios
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fa.ort.edu.uy/diploma-de-especializacion-en-negocios-inmobiliarios'
+  - label: 'Plan de estudios'
+    url: 'https://fa.ort.edu.uy/diploma-de-especializacion-en-negocios-inmobiliarios/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Postgrado de un año de duración que capacita a profesionales de varias áreas en el análisis, asesoramiento y ejecución de negocios inmobiliarios.
+
+- Integración del marketing y la tecnología a los negocios inmobiliarios
+- Preparación para responder a desafíos complejos en el sector inmobiliario
+- Desarrollo de habilidades para comprender el mercado inmobiliario
+- Comprender las constantes interrelaciones y transformaciones del negocio inmobiliario.
+- Conocer las oportunidades que el mercado inmobiliario brinda para satisfacer las necesidades de la comunidad.
+- Ofrecer respuestas creativas e innovadoras, responsables y eficaces a los directivos de las empresas del sector que quieran asumir roles de liderazgo en la construcción del ambiente.
+- Porque en el mundo de hoy, en permanente cambio, los innumerables desafíos que enfrentan los diferentes actores que operan en el sector inmobiliario son cada vez más complejos.
+- Porque el desarrollo, la administración, el financiamiento y la estructura de propiedad de los emprendimientos inmobiliarios plantean problemas y desafíos únicos que requieren de un conjunto de conocimientos especializados e integrados.
+- Porque las condiciones económicas del mercado y las normas regulatorias e impositivas cambian velozmente dentro de un contexto de acontecimientos que se suceden en la escena nacional e internacional, que tienen por resultado un ambiente de negocios en el cual las respuestas acertadas y oportunas a los problemas son de importancia crucial.
+
+El Diploma de Especialización en Negocios Inmobiliarios tiene como objetivo principal formar profesionales con sólidos conocimientos teóricos y técnicos que sean capaces de:
+
+¿Por qué un Diploma de Especialización en Negocios Inmobiliarios?
+
+Es por estos motivos que se requiere cada vez una mayor especialización, actualización y complementación de los conocimientos profesionales en el sector inmobiliario.
+
+### Títulos y Reconocimientos
+
+El Diploma de Especialización en Negocios Inmobiliarios es un postgrado reconocido por resolución oficial del Ministerio de Educación y Cultura del 01/10/14.
+
+### Modalidad
+
+Esta carrera se dicta en forma presencial en aula expandida. Todas las materias presenciales se pueden cursar en modalidad HyFlex®. Con un solo clic, quienes optan por la modalidad virtual visualizan el salón desde dentro. Asimismo, siguen la clase de manera simultánea con sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que permite a los estudiantes su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 1 año Horarios de clase Nocturno: martes y jueves de 18.30 a 22.30. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Los postulantes deben contar con título universitario y estar vinculados al desarrollo y gestión de negocios y activos inmobiliarios. Todos los postulantes deberán presentar una carta dirigida al coordinador académico del Diploma exponiendo los motivos por los cuales desean realizar este postgrado. Aquellos candidatos que no estén vinculados al área inmobiliaria deberán tener una entrevista previa de admisión con el coordinador académico. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+### Proceso de Selección
+
+Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+
+### Requisito de Graduación
+
+Los requisitos de graduación para el diploma son haber aprobado todas las materias que integran los cuatro módulos y haber asistido al Seminario Técnicas de Negociación en el Sector Inmobiliario. La asistencia a al menos un 75% de las clases dictadas en cada materia es obligatoria.
+
+## Plan de Estudio
+
+Módulo 1 Nociones contables y financieras Brinda una introducción a los fundamentos contables y financieros aplicados a los negocios inmobiliarios . Se aborda la interpretación de los estados contables, los procesos administrativos y el control presupuestario del sector, incorporando además herramientas para la evaluación de inversiones, como el valor tiempo del dinero, las tasas de interés, el VAN y la TIR. Aspectos jurídicos relevantes Proporciona los fundamentos jurídicos esenciales para evaluar la viabilidad de proyectos de inversión inmobiliaria. Aborda el régimen de propiedad de la tierra, la propiedad horizontal, los derechos reales aplicables a los negocios inmobiliarios, la normativa laboral y de seguridad social de la construcción y las principales regulaciones vigentes del sector. Fundamentos económicos Introduce los principales conceptos económicos aplicados al análisis del negocio inmobiliario , permitiendo comprender la dinámica de los mercados y los factores que condicionan su evolución. Se estudian la oferta y demanda, estructuras de mercado, elasticidad de precios y variables de la economía uruguaya como herramientas para la evaluación y toma de decisiones en proyectos inmobiliarios. Costos tributarios e incentivos fiscales Introduce el tratamiento tributario de los principales negocios inmobiliarios , analizando las distintas alternativas fiscales y su impacto en la rentabilidad de los proyectos. Asimismo, brinda herramientas para evaluar el costo tributario y su incidencia en la tasa de retorno de inversores y desarrollistas. Módulo 2 Análisis financiero de bienes raíces Desarrolla las principales herramientas de valoración y análisis financiero aplicadas a los bienes raíces , orientadas a la toma de decisiones de inversión. Aborda conceptos como tasas de capitalización y descuento, costo de oportunidad y estimación de variables financieras, con el fin de evaluar la rentabilidad y el riesgo de los proyectos inmobiliarios. Opciones de financiamiento Analiza las principales alternativas de financiamiento aplicables a los desarrollos inmobiliarios , evaluando las condiciones y oportunidades de utilización de cada una. Asimismo, estudia el impacto financiero del endeudamiento en los proyectos, considerando sus ventajas, riesgos y efectos sobre la rentabilidad y la estructura de capital. Estructuración jurídica de desarrollos inmobiliarios Aborda las principales herramientas jurídicas utilizadas en la estructuración y ejecución de negocios inmobiliarios , analizando los instrumentos contractuales y legales que intervienen en el desarrollo de proyectos. Se estudian figuras como el fideicomiso inmobiliario, las garantías, los contratos de construcción y las relaciones entre los distintos actores del emprendimiento, incorporando aspectos de responsabilidad profesional y normativa aplicable al sector. Investigación de mercado Aborda el proceso de diseño y posicionamiento de productos inmobiliarios , desde su concepción hasta su lanzamiento al mercado. Proporciona herramientas de investigación de mercados, tanto cualitativas como cuantitativas, para evaluar la viabilidad, definir la oferta y apoyar la toma de decisiones durante las distintas etapas del desarrollo inmobiliario . Módulo 3 Transformación digital Desarrolla los fundamentos de la transformación digital aplicada al sector inmobiliario, incorporando analítica de datos, economía de tokens y tecnología blockchain. Los participantes comprenderán el valor de los datos como herramienta para la toma de decisiones, conocerán nuevas tecnologías y sus aplicaciones, e interpretarán cómo estas innovaciones pueden generar oportunidades y nuevos modelos de negocio en la industria inmobiliaria. Desarrollo de proyectos inmobiliarios El curso tiene como objetivo concebir y desarrollar un proyecto inmobiliario desde sus etapas iniciales , definiendo su implantación, programa y propuesta arquitectónica en función de las características del terreno, la normativa urbanística y los criterios de factibilidad y rentabilidad. Asimismo, incorpora talleres de urbanismo, inteligencia artificial y herramientas para la formulación del plan de negocios , sentando las bases del proyecto que será posteriormente desarrollado e integrado con los conocimientos adquiridos en el resto del Diploma. Módulo 4 Proyecto integrador Constituye la instancia final del Diploma , en la que los participantes consolidan un desarrollo inmobiliario integrando los conocimientos adquiridos en las distintas asignaturas . El curso permite evaluar la viabilidad técnica, jurídica, comercial y financiera del proyecto, culminando con la presentación de una propuesta integral de negocio inmobiliario. Negociación y marketing Desarrolla las competencias de negociación y comercialización aplicadas al negocio inmobiliario mediante el análisis de casos de éxito , estudios de caso ( case studies ) y simulaciones de negociación ( role plays ). Las actividades son guiadas por docentes internacionales, promoviendo una visión práctica y alineada con las mejores experiencias del sector.

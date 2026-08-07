@@ -1,0 +1,136 @@
+---
+title: "Diploma de Especialización en Enseñanza de Inglés como Lengua Extranjera"
+similar:
+  - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
+  - traductorado-publico-ingles-udelar
+  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
+  - ensenanza-de-lenguas-extranjeras-maestria-udelar
+  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
+  - didactica-para-ensenanza-media-especializacion-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "especializacion"
+area: "Educación"
+modality: "virtual"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Arancelado"
+language: "Español"
+website: "https://ie.ort.edu.uy/diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Es un postgrado orientado a actualizar el conocimiento de los docentes de inglés, así como de aquellos docentes que dictan sus cursos en dicha lengua."
+tags:
+  - educacion
+  - letras
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-04 19:47:33"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://ie.ort.edu.uy/diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera'
+  - label: 'Plan de estudios'
+    url: 'https://ie.ort.edu.uy/diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es un postgrado orientado a actualizar el conocimiento de los docentes de inglés, así como de aquellos docentes que dictan sus cursos en dicha lengua.
+
+- Enfoque en la actualización disciplinar y profesional para docentes de inglés
+- Desarrollo de propuestas innovadoras para la enseñanza del inglés
+- Apoyo al desarrollo profesional en distintos niveles educativos
+- Proporcionar una formación de alto grado de especialización académica, que permita identificar situaciones problemáticas, generar propuestas innovadoras y diseñar estrategias para intervenir de forma oportuna sobre la enseñanza y el aprendizaje del inglés, a nivel nacional y regional.
+- Aportar conocimientos, reflexiones y análisis, a partir de los principales paradigmas y modelos vigentes.
+- Contribuir a identificar experiencias y soluciones exitosas, como respuesta a los problemas recurrentes de los escenarios educativos bilingües o plurilingües.
+- Fortalecer la capacidad de integrar, a la práctica de la enseñanza de lenguas extranjeras, la investigación aplicada y diversas alternativas teórico-metodológicas.
+- Concretar el diseño y la evaluación de una propuesta de innovación en la enseñanza del inglés, en los ámbitos de la enseñanza, la formación docente, la gestión y el desarrollo curricular.
+
+El diploma ofrece una actualización en los campos de la didáctica, la lingüística aplicada, la pedagogía inclusiva y la enseñanza mediada por tecnologías digitales.
+
+A su vez, introduce a los participantes en la investigación de la enseñanza del inglés como lengua extranjera.
+
+En particular, el Diploma de Especialización en Enseñanza de Inglés como Lengua Extranjera busca:
+
+Es importante destacar que el postgrado es impartido íntegramente en inglés.
+
+### Títulos y Reconocimientos
+
+Se trata de un postgrado reconocido, por resolución oficial del Ministerio de Educación y Cultura del 9 de febrero de 2024. Al finalizar el postgrado, los egresados reciben el título de Diploma de Especialización en Enseñanza de Inglés como Lengua Extranjera.
+
+### Modalidad
+
+Virtual. Todas las clases se dictan en formato online, a través de plataformas y ambientes de aprendizaje virtual. Las actividades pueden ser sincrónicas y/o asincrónicas. En todos los casos el curso contará con el apoyo de plataformas virtuales (Moodle) para desarrollarse bajo el modelo de aula expandida: existe interacción previa y posterior a la clase en la plataforma, para complementar y fortalecer el proceso de aprendizaje. A modo de ejemplo: Se abren foros de discusión sobre temas, ejercicios u otras tareas planteadas. Se establecen entregas virtuales de trabajos individuales y/o grupales. Se proponen materiales de lectura para trabajar en las instancias sincrónicas o asincrónicas.
+
+### Duración y Horarios
+
+Duración 1 año.
+
+### Becas
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Los candidatos a cursar el Diploma de Especialización en Enseñanza de Inglés como Lengua Extranjera deben cumplir con alguno de los siguientes requisitos: Título universitario expedido por universidades o institutos universitarios de Uruguay. Título docente expedido o habilitado por ANEP. Título universitario de universidades extranjeras con reconocimiento oficial en el país de origen. Otros títulos docentes expedidos por instituciones universitarias reconocidas en el país de origen. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Requisito de Graduación
+
+Para obtener el título es necesario haber cursado y aprobado todas las materias. Asimismo, los estudiantes deben haber presentado y aprobado el Proyecto de Intervención.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Taller de lectura y escritura académica**
+
+Introducción a las normas retóricas del discurso académico. Características de los géneros académicos. Análisis y enseñanza de estrategias de lectura y escritura académica. Organización retórica del discurso en el área de lenguas extranjeras. Herramientas digitales que aportan a la competencia comunicativa en lengua inglesa.
+
+**Factores individuales del aprendizaje de lenguas extranjeras**
+
+Las características de los factores individuales que tienen injerencia en el aprendizaje de lenguas extranjeras. Atributos de los aprendices: edad, aptitud para las lenguas, personalidad, ansiedad, género. Actitudes de los aprendices: motivación, creencias y valores, preferencias de aprendizaje. Acciones de los aprendices: estrategias de aprendizaje. Prácticas inclusivas en la enseñanza de inglés como lengua extranjera. Los mitos sobre la aptitud para el aprendizaje de lenguas extranjeras. La dislexia y los problemas de lectura y escritura en lenguas extranjeras. La discalculia. El trastorno de déficit atencional. La dispraxia y la disgrafía. Otras necesidades de inclusión. La contribución de las tecnologías digitales a las estrategias inclusivas.
+
+**Lingüística aplicada y didáctica del Inglés**
+
+Fundamentos de la lingüística general. Aportes de la psicolingüística y sociolingüística a la didáctica de las lenguas extranjeras. La lingüística aplicada y las investigaciones sobre adquisición y aprendizaje de lenguas extranjeras. Teorías lingüísticas contemporáneas. Herramientas digitales que aportan a la lingüística y su investigación. Recorrido histórico de la didáctica de las lenguas extranjeras. Enfoques orientados al desarrollo de la competencia comunicativa. Paradigmas, enfoques y métodos contemporáneos de enseñanza y aprendizaje de lenguas extranjeras. El aprendizaje de lenguas mediado por tecnologías digitales.
+
+#### 2.º semestre
+
+**La evaluación y las lenguas extranjeras**
+
+Principios de la evaluación. Problemas y contextos para la evaluación en lenguas extranjeras. Evaluación de, para y como aprendizaje. Desarrollo de instrumentos de evaluación en lenguas extranjeras. La evaluación mediada por tecnologías digitales.
+
+**Taller de diseño de materiales didácticos**
+
+Contextos de creación de materiales didácticos para lenguas extranjeras. Enfoques al diseño de materiales didácticos. Criterios de selección de materiales didácticos. Análisis de las necesidades de aprendizaje. Estrategias de adaptación de los materiales didácticos. El rol de las tecnologías y de las herramientas digitales en la creación, selección y adaptación de materiales.
+
+**Temas actuales en la enseñanza del Inglés**
+
+Materia de contenido variable, dictada por docentes extranjeros, que responde a las motivaciones de cada cohorte del Diploma —en torno a temas relacionados con la gestión de las instituciones de enseñanza de inglés, las innovaciones en materia de tecnologías digitales y/o a los enfoques críticos de la enseñanza de inglés—.
+
+**Investigación en lenguas extranjeras**
+
+Paradigma, tradición, método y técnica. Diseños, fases y planificación de la investigación con énfasis en el campo de las lenguas extranjeras. Diseño y estrategias cuantitativas y cualitativas. Diseños mixtos y triangulación de métodos. Aportes de las tecnologías digitales a los proyectos de investigación.
+
+**Proyecto de intervención**
+
+Preparación para la innovación. Detección de necesidades de cambio. Formulación de objetivos. La logística del proceso de innovación. La evaluación del proceso por parte de diferentes grupos de actores. Los instrumentos, las técnicas y los métodos de evaluación de los proyectos de intervención.
