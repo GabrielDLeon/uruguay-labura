@@ -6,7 +6,6 @@ import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
 import icon from "astro-icon";
 import pagefind from "astro-pagefind";
-import mdx from "@astrojs/mdx";
 import remarkTabs from "./src/lib/remark-tabs.js";
 import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 
@@ -17,7 +16,7 @@ export default defineConfig({
       remarkPlugins: [remarkTabs],
     }),
   },
-  integrations: [react(), sitemap(), icon(), pagefind(), mdx()],
+  integrations: [react(), sitemap(), icon(), pagefind()],
   fonts: [
     {
       provider: fontProviders.fontsource(),

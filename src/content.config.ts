@@ -33,7 +33,7 @@ export type InstitutionEntry = z.infer<typeof institutionSchema>;
 const institutionsCollection = defineCollection({
   loader: glob({
     base: "./src/content/institutions",
-    pattern: "**/*.{md,mdx}",
+    pattern: "**/*.md",
   }),
   schema: ({ image }) =>
     institutionSchema.extend({
@@ -96,7 +96,7 @@ export const careerSchema = z.object({
 export type CareerEntry = z.infer<typeof careerSchema>;
 
 const careersCollection = defineCollection({
-  loader: glob({ base: "./src/content/careers", pattern: "**/*.{md,mdx}" }),
+  loader: glob({ base: "./src/content/careers", pattern: "**/*.md" }),
   schema: careerSchema,
 });
 
@@ -118,7 +118,7 @@ export type ScholarshipEntry = z.infer<typeof scholarshipSchema>;
 const scholarshipsCollection = defineCollection({
   loader: glob({
     base: "./src/content/scholarships",
-    pattern: "**/*.{md,mdx}",
+    pattern: "**/*.md",
   }),
   schema: scholarshipSchema,
 });
