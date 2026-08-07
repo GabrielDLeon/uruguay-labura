@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Abogacía"
+title: "Abogacía"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-abogacia--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Abogacía de la Universidad Católica del Uruguay. Forma profesionales capaces de asesorar, prevenir conflictos, mediar, resolver casos, litigar e investigar, con clínicas jurídicas y cursos de derecho y tecnología."
+description: "Abogacía de la Universidad Católica del Uruguay. Forma profesionales capaces de asesorar, prevenir conflictos, mediar, resolver casos, litigar e investigar, con clínicas jurídicas y cursos de derecho y tecnología."
 tags:
   - derecho
   - abogacia

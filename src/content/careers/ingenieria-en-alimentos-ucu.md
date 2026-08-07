@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Ingeniería en Alimentos"
+title: "Ingeniería en Alimentos"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-alimentos--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Ingeniería en Alimentos de la UCU. Forma profesionales capaces de desarrollar productos, seleccionar materias primas, definir procesos productivos y verificar la calidad a lo largo de toda la cadena alimentaria."
+description: "Ingeniería en Alimentos de la UCU. Forma profesionales capaces de desarrollar productos, seleccionar materias primas, definir procesos productivos y verificar la calidad a lo largo de toda la cadena alimentaria."
 tags:
   - alimentos
   - industria-alimentaria

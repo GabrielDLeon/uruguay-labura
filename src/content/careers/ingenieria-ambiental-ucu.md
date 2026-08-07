@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Ingeniería Ambiental"
+title: "Ingeniería Ambiental"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-ambiental--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Ingeniería Ambiental de la UCU. Forma profesionales comprometidos con el ambiente y la biodiversidad, capaces de diseñar, analizar, gestionar y evaluar proyectos ambientales desde una perspectiva científica y tecnológica."
+description: "Ingeniería Ambiental de la UCU. Forma profesionales comprometidos con el ambiente y la biodiversidad, capaces de diseñar, analizar, gestionar y evaluar proyectos ambientales desde una perspectiva científica y tecnológica."
 tags:
   - ambiente
   - sostenibilidad

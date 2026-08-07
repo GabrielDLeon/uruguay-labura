@@ -1,5 +1,5 @@
 ---
-title: "Sociología"
+title: "Licenciatura en Sociología"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

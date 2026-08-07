@@ -1,5 +1,5 @@
 ---
-title: "Psicopedagogía"
+title: "Licenciatura en Psicopedagogía"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

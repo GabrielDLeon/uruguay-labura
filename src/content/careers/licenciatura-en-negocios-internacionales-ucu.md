@@ -1,5 +1,5 @@
 ---
-title: "Negocios Internacionales"
+title: "Licenciatura en Negocios Internacionales"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-negocios-internacionales--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Negocios Internacionales de la UCU. Forma profesionales para desempeñarse en un entorno global, con herramientas de comercio exterior, logística e integración económica, y dominio del inglés, portugués y chino mandarín."
+description: "Licenciatura en Negocios Internacionales de la UCU. Forma profesionales para desempeñarse en un entorno global, con herramientas de comercio exterior, logística e integración económica, y dominio del inglés, portugués y chino mandarín."
 tags:
   - comercio-exterior
   - negocios

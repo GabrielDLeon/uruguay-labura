@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Ingeniería en Sistemas Eléctricos de Potencia"
+title: "Ingeniería en Sistemas Eléctricos de Potencia"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-sistemas-electricos-de-potencia--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Ingeniería en Sistemas Eléctricos de Potencia de la UCU. Forma profesionales capaces de diseñar soluciones y dirigir proyectos relacionados con la generación y el manejo de la energía eléctrica y sus aplicaciones."
+description: "Ingeniería en Sistemas Eléctricos de Potencia de la UCU. Forma profesionales capaces de diseñar soluciones y dirigir proyectos relacionados con la generación y el manejo de la energía eléctrica y sus aplicaciones."
 tags:
   - energia
   - electricidad

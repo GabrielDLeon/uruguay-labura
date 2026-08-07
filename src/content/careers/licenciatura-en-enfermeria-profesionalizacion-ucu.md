@@ -1,5 +1,5 @@
 ---
-title: "Enfermería (Profesionalización)"
+title: "Licenciatura en Enfermería (Profesionalización)"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

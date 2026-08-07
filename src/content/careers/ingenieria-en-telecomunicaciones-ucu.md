@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Ingeniería en Telecomunicaciones"
+title: "Ingeniería en Telecomunicaciones"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-telecomunicaciones--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Ingeniería en Telecomunicaciones de la UCU. Forma profesionales capaces de innovar en las tecnologías de la información y las comunicaciones, diseñando y gestionando redes de mediano y gran porte."
+description: "Ingeniería en Telecomunicaciones de la UCU. Forma profesionales capaces de innovar en las tecnologías de la información y las comunicaciones, diseñando y gestionando redes de mediano y gran porte."
 tags:
   - telecomunicaciones
   - redes

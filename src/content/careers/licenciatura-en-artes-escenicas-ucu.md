@@ -1,5 +1,5 @@
 ---
-title: "Artes Escénicas"
+title: "Licenciatura en Artes Escénicas"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

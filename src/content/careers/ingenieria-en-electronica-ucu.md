@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Ingeniería en Electrónica"
+title: "Ingeniería en Electrónica"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-electronica--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Ingeniería en Electrónica de la UCU. Forma profesionales capaces de crear dispositivos electrónicos con impacto en la vida cotidiana y participar en todo su ciclo de desarrollo, desde el diseño hasta la implementación."
+description: "Ingeniería en Electrónica de la UCU. Forma profesionales capaces de crear dispositivos electrónicos con impacto en la vida cotidiana y participar en todo su ciclo de desarrollo, desde el diseño hasta la implementación."
 tags:
   - electronica
   - ingenieria

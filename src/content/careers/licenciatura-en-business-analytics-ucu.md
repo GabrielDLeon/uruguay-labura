@@ -1,5 +1,5 @@
 ---
-title: "Business Analytics"
+title: "Licenciatura en Business Analytics"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

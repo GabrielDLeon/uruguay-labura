@@ -1,5 +1,5 @@
 ---
-title: "Psicopedagogía Semipresencial"
+title: "Licenciatura en Psicopedagogía (Semipresencial)"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

@@ -1,5 +1,5 @@
 ---
-title: "Psicomotricidad"
+title: "Licenciatura en Psicomotricidad"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

@@ -1,5 +1,5 @@
 ---
-title: "Trabajo Social"
+title: "Licenciatura en Trabajo Social"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

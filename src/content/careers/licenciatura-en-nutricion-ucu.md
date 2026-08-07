@@ -1,5 +1,5 @@
 ---
-title: "Nutrición"
+title: "Licenciatura en Nutrición"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

@@ -1,5 +1,5 @@
 ---
-title: "Enfermería"
+title: "Licenciatura en Enfermería"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

@@ -1,5 +1,5 @@
 ---
-title: "Marketing y Estrategia Comercial"
+title: "Licenciatura en Marketing y Estrategia Comercial"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-marketing-y-estrategia-comercial--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Marketing y Estrategia Comercial de la UCU. Forma para diseñar e implementar estrategias comerciales y de marketing con herramientas de inteligencia comercial y datos, coordinando canales de comunicación y venta."
+description: "Licenciatura en Marketing y Estrategia Comercial de la UCU. Forma para diseñar e implementar estrategias comerciales y de marketing con herramientas de inteligencia comercial y datos, coordinando canales de comunicación y venta."
 tags:
   - marketing
   - estrategia comercial

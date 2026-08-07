@@ -1,5 +1,5 @@
 ---
-title: "Negocios y Economía"
+title: "Licenciatura en Negocios y Economía"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-negocios-y-economia--pde--presencial"
 location: "Punta del Este"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Negocios y Economía de la UCU en Punta del Este. Forma profesionales capaces de liderar la administración global de los negocios con sólidos conocimientos en economía, finanzas, idiomas y tecnología."
+description: "Licenciatura en Negocios y Economía de la UCU en Punta del Este. Forma profesionales capaces de liderar la administración global de los negocios con sólidos conocimientos en economía, finanzas, idiomas y tecnología."
 tags:
   - negocios
   - economia

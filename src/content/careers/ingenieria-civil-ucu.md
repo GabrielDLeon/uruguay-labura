@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Ingeniería Civil"
+title: "Ingeniería Civil"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-civil--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Ingeniería Civil de la UCU. Forma profesionales capaces de proyectar, planificar, dirigir y supervisar obras de infraestructura vial, hidráulica, estructural y sanitaria, con una sólida formación técnica y sostenible."
+description: "Ingeniería Civil de la UCU. Forma profesionales capaces de proyectar, planificar, dirigir y supervisar obras de infraestructura vial, hidráulica, estructural y sanitaria, con una sólida formación técnica y sostenible."
 tags:
   - ingenieria civil
   - infraestructura

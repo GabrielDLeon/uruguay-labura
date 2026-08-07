@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Ingeniería en Informática"
+title: "Ingeniería en Informática"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-informatica--mvd--presencial"
 location: "Montevideo y Punta del Este"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Ingeniería en Informática de la UCU. Forma profesionales capaces de crear soluciones mediante las tecnologías de la información y las comunicaciones con visión de negocio, integrando ingeniería, software, hardware y gestión de proyectos."
+description: "Ingeniería en Informática de la UCU. Forma profesionales capaces de crear soluciones mediante las tecnologías de la información y las comunicaciones con visión de negocio, integrando ingeniería, software, hardware y gestión de proyectos."
 tags:
   - informatica
   - software

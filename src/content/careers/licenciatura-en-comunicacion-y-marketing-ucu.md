@@ -1,5 +1,5 @@
 ---
-title: "Carrera en Comunicación y Marketing"
+title: "Licenciatura en Comunicación y Marketing"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -13,7 +13,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-comunicacion-y-marketing--pde--presencial"
 location: "Punta del Este"
 accreditation: "Ministerio de Educación y Cultura"
-description: "Carrera en Comunicación y Marketing de la Universidad Católica del Uruguay en Campus Punta del Este. Forma profesionales capaces de producir contenidos digitales, desarrollar estrategias de comunicación y marketing y aplicar analítica de datos."
+description: "Licenciatura en Comunicación y Marketing de la Universidad Católica del Uruguay en Campus Punta del Este. Forma profesionales capaces de producir contenidos digitales, desarrollar estrategias de comunicación y marketing y aplicar analítica de datos."
 tags:
   - comunicacion
   - marketing

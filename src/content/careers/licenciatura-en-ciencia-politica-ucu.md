@@ -1,5 +1,5 @@
 ---
-title: "Ciencia Política"
+title: "Licenciatura en Ciencia Política"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

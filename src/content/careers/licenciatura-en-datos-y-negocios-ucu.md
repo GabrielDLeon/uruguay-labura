@@ -1,5 +1,5 @@
 ---
-title: "Datos y Negocios"
+title: "Licenciatura en Datos y Negocios"
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
