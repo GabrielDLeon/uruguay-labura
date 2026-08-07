@@ -1,0 +1,36 @@
+---
+import { Icon } from "astro-icon/components";
+
+export interface SourceEntry {
+  label: string;
+  url: string;
+}
+
+interface Props {
+  sources: SourceEntry[];
+}
+
+const { sources } = Astro.props;
+
+if (!sources || sources.length === 0) {
+  return;
+}
+---
+
+<ul class="flex flex-col gap-2">
+  {
+    sources.map((source) => (
+      <li>
+        <a
+          href={source.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+        >
+          <span>{source.label}</span>
+          <Icon name="mdi:open-in-new" class="size-3.5 shrink-0" />
+        </a>
+      </li>
+    ))
+  }
+</ul>

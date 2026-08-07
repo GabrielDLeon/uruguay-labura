@@ -43,6 +43,7 @@ export async function GET({ params }: APIContext) {
         title: data.title,
         degreeType: data.degreeType,
         area: data.area,
+        sources: data.sources,
       }))
       .sort((a, b) => a.title.localeCompare(b.title, "es")),
   };

@@ -70,6 +70,14 @@ export const careerSchema = z.object({
   cost: z.string().min(1),
   language: z.string().min(1).default("Espanol"),
   website: z.url(),
+  sources: z
+    .array(
+      z.object({
+        label: z.string().min(1),
+        url: z.url(),
+      }),
+    )
+    .default([]),
   contactEmail: z.union([z.email(), z.array(z.email())]).optional(),
   location: z.string().min(1).optional(),
   accreditation: z.string().min(1).optional(),
@@ -108,7 +116,10 @@ const scholarshipSchema = z.object({
 export type ScholarshipEntry = z.infer<typeof scholarshipSchema>;
 
 const scholarshipsCollection = defineCollection({
-  loader: glob({ base: "./src/content/scholarships", pattern: "**/*.{md,mdx}" }),
+  loader: glob({
+    base: "./src/content/scholarships",
+    pattern: "**/*.{md,mdx}",
+  }),
   schema: scholarshipSchema,
 });
 
