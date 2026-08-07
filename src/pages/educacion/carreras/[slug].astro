@@ -20,6 +20,7 @@ import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
 import BarIndicator from "@/components/BarIndicator.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
+import SourcesList from "@/components/SourcesList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import { getMatchingBecas } from "@/lib/scholarships";
 import LastUpdated from "@/components/LastUpdated.astro";
@@ -78,7 +79,9 @@ const detailItems = [
 
   {
     label: "Inicio",
-    value: entry.data.startDate ? formatDateShort(entry.data.startDate) : undefined,
+    value: entry.data.startDate
+      ? formatDateShort(entry.data.startDate)
+      : undefined,
   },
   {
     label: "Cierre inscripción",
@@ -257,6 +260,14 @@ const detailItems = [
               }
             </div>
           </AsideSection>
+
+          {
+            entry.data.sources.length > 0 ? (
+              <AsideSection title="Fuentes">
+                <SourcesList sources={entry.data.sources} />
+              </AsideSection>
+            ) : null
+          }
 
           <LastUpdated
             createdAt={entry.data.createdAt}
