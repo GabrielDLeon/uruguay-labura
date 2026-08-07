@@ -1,12 +1,12 @@
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
 import SaveButton from "@/components/jobs/SaveButton";
 import ShareButton from "@/components/jobs/ShareButton";
+import { formatDateShort, formatRelative } from "@/lib/dates";
+
 import {
   HIDDEN_TAGS,
   MAX_TITLE_LENGTH,
   TAG_LABELS,
-  formatDate,
-  formatRelative,
   shorten,
 } from "@/components/jobs/jobs";
 import type { JobRecord } from "@/types/jobs";
@@ -89,7 +89,7 @@ export default function JobsTable({ jobs }: Props) {
                   </span>
                 </td>
                 <td className="whitespace-nowrap">
-                  {formatDate(job.openingDate)}
+                  {formatDateShort(job.openingDate)}
                 </td>
                 <td
                   className="whitespace-nowrap"

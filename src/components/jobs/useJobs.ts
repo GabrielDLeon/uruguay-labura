@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 
 import type { JobRecord } from "@/types/jobs";
+import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
 
 const JOBS_DATASET_URL = "/jobs.generated.json";
 
@@ -48,19 +49,14 @@ export default function useJobs() {
           throw new Error("Dataset con formato invalido");
         }
 
-        const now = new Date()
-        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
+        const today = startOfToday();
 
         setJobs(
           dataset.jobs.filter((job) => {
             if (!job.closingDate) return true
-            const closingDate = new Date(job.closingDate)
-            const target = new Date(
-              closingDate.getFullYear(),
-              closingDate.getMonth(),
-              closingDate.getDate(),
-            )
-            return target >= today
+            const closing = parseDate(job.closingDate)
+            if (!closing) return true
+            return startOfDay(closing) >= today
           }),
         );
         setScrapedAt(dataset.scrapedAt);

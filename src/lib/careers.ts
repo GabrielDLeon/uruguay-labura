@@ -96,20 +96,3 @@ export function getSolidarityFundInfo(
 export function formatCurrency(amount: number): string {
   return `$${new Intl.NumberFormat("es-UY").format(amount)}`;
 }
-
-export function formatDate(date: string | null | undefined) {
-  if (!date) {
-    return "-";
-  }
-
-  const parsed = new Date(date);
-  if (Number.isNaN(parsed.getTime())) {
-    return date;
-  }
-
-  return new Intl.DateTimeFormat("es-UY", {
-    day: "2-digit",
-    month: "2-digit",
-    year: "numeric",
-  }).format(parsed);
-}

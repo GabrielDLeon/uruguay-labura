@@ -1,5 +1,6 @@
 ---
 import type { DailyClosing } from "@/types/jobs"
+import { diffInDays, startOfDay, startOfToday } from "@/lib/dates"
 
 export interface Props {
   next7Days: {
@@ -23,9 +24,7 @@ const dayLabels: Record<string, string> = {
 
 function formatDayLabel(dateStr: string): string {
   const d = new Date(dateStr)
-  const today = new Date()
-  const todayStart = new Date(today.getFullYear(), today.getMonth(), today.getDate())
-  const diffDays = Math.round((d.getTime() - todayStart.getTime()) / (1000 * 60 * 60 * 24))
+  const diffDays = diffInDays(startOfToday(), startOfDay(d))
 
   const weekday = dayLabels[d.getDay()] ?? ""
   const dayNum = d.getDate()

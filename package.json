@@ -8,7 +8,9 @@
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
-    "scrape:jobs": "node scripts/prebuild-jobs.mjs"
+    "scrape:jobs": "node scripts/prebuild-jobs.mjs",
+    "update:dates": "node scripts/update-content-dates.mjs --apply",
+    "check:dates": "node scripts/update-content-dates.mjs --check"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",

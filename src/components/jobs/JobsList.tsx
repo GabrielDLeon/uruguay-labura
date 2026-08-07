@@ -3,10 +3,10 @@ import { Icon } from "@iconify/react/offline";
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
 import SaveButton from "@/components/jobs/SaveButton";
 import ShareButton from "@/components/jobs/ShareButton";
+import { formatDateShort, formatRelative } from "@/lib/dates";
+
 import {
   MAX_TITLE_LENGTH,
-  formatDate,
-  formatRelative,
   shorten,
   statusVariant,
 } from "@/components/jobs/jobs";
@@ -55,7 +55,7 @@ export default function JobsList({ jobs }: Props) {
                   className="shrink-0"
                   aria-hidden="true"
                 />
-                Apertura: {formatDate(job.openingDate)}
+                Apertura: {formatDateShort(job.openingDate)}
               </span>
               <span className="inline-flex items-center gap-1">
                 <Icon
