@@ -1,0 +1,35 @@
+---
+import { formatDateReadable } from "@/lib/dates"
+
+interface Props {
+  createdAt?: string
+  updatedAt?: string
+}
+
+const { createdAt, updatedAt } = Astro.props
+
+const hasCreated = createdAt !== undefined && createdAt !== ""
+const hasUpdated = updatedAt !== undefined && updatedAt !== ""
+---
+
+{
+  hasCreated || hasUpdated ? (
+    <footer class="border-t border-border pt-4 text-xs text-muted-foreground">
+      {
+        hasUpdated ? (
+          <p>
+            Última actualización:{" "}
+            <time datetime={updatedAt}>{formatDateReadable(updatedAt)}</time>
+          </p>
+        ) : null
+      }
+      {
+        hasCreated ? (
+          <p>
+            Publicada: <time datetime={createdAt}>{formatDateReadable(createdAt)}</time>
+          </p>
+        ) : null
+      }
+    </footer>
+  ) : null
+}

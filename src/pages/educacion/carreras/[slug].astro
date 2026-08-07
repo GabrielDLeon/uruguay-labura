@@ -5,13 +5,13 @@ import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
 import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
+import { formatDateShort } from "@/lib/dates";
 import {
   degreeTypeLabels,
   modalityLabels,
   modalityBarFilled,
   shiftLabels,
   getDegreeTypeBarInfo,
-  formatDate,
   getSolidarityFundInfo,
   showDrafts,
 } from "@/lib/careers";
@@ -22,6 +22,7 @@ import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import { getMatchingBecas } from "@/lib/scholarships";
+import LastUpdated from "@/components/LastUpdated.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -77,12 +78,12 @@ const detailItems = [
 
   {
     label: "Inicio",
-    value: entry.data.startDate ? formatDate(entry.data.startDate) : undefined,
+    value: entry.data.startDate ? formatDateShort(entry.data.startDate) : undefined,
   },
   {
     label: "Cierre inscripción",
     value: entry.data.applicationDeadline
-      ? formatDate(entry.data.applicationDeadline)
+      ? formatDateShort(entry.data.applicationDeadline)
       : undefined,
   },
 ];
@@ -257,7 +258,12 @@ const detailItems = [
             </div>
           </AsideSection>
 
-          <div class="flex justify-center">
+          <LastUpdated
+            createdAt={entry.data.createdAt}
+            updatedAt={entry.data.updatedAt}
+          />
+
+          <div class="flex justify-start">
             <a
               href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/careers/${entry.id}.mdx`}
               target="_blank"

@@ -12,6 +12,7 @@ import AsideSection from "@/components/AsideSection.astro";
 import { locationsToIds } from "@/lib/departments";
 import InstitutionCard from "@/components/InstitutionCard.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
+import LastUpdated from "@/components/LastUpdated.astro";
 import CampusesTable from "@/components/careers/CampusesTable";
 import CareersTable from "@/components/careers/CareersTable";
 
@@ -176,7 +177,12 @@ const hasCareers = programs.length > 0;
             ) : null
           }
 
-          <div class="flex justify-center">
+          <LastUpdated
+            createdAt={entry.data.createdAt}
+            updatedAt={entry.data.updatedAt}
+          />
+
+          <div class="flex justify-start">
             <a
               href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/institutions/${entry.id}.mdx`}
               target="_blank"
