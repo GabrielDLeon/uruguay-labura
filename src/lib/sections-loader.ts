@@ -9,12 +9,10 @@ import type { Loader } from "astro/loaders";
  * Wraps `glob()` for file discovery; presentation (tabs, icons) stays in the
  * consuming `.astro` component.
  *
- * Every processed entry gets a **composite digest** (sha256 over the glob file
- * digest, the raw body, the frontmatter data, and the rendered intro/sections).
- * This digest is stable across builds for unchanged content, and differs from
- * the raw glob file digest, so `scopedStore` (which dedupes on matching
- * digests) still accepts our updated entry. Consumers can use `entry.digest`
- * as the incremental build `cacheKey`.
+ * Every entry gets a **composite digest** (sha256 over the file digest, body,
+ * frontmatter, and rendered intro/sections). It is stable across builds and
+ * differs from the glob file digest, so `scopedStore` still accepts the entry.
+ * Consumers can use `entry.digest` as the incremental build `cacheKey`.
  */
 export function sectionsLoader(options: Parameters<typeof glob>[0]): Loader {
   const base = glob(options);

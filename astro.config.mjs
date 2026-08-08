@@ -11,10 +11,7 @@ export default defineConfig({
   site: "https://uruguaylaburos.uy",
   integrations: [react(), sitemap(), icon(), pagefind()],
   experimental: {
-    /**
-     * Reuse the output of the previous build so unchanged static pages are
-     * not rendered again (astro 7.2.0+).
-     */
+    // Reuse the output of the previous build so unchanged static pages are not rendered again.
     incrementalBuild: true,
   },
   vite: {
