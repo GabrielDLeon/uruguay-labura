@@ -145,7 +145,7 @@ const jsonLd = {
           }
         </div>
 
-        <h1 class="text-2xl mb-1 font-bold text-foreground sm:text-3xl">
+        <h1 class="text-2xl mb-1 font-semibold text-foreground sm:text-3xl">
           {
             entry.data.short
               ? `${entry.data.name} (${entry.data.short})`
@@ -280,7 +280,7 @@ const jsonLd = {
         {
           hasCareers && (
             <Block class="border-t border-border">
-              <h2 class="text-lg font-bold text-foreground mb-4">Carreras</h2>
+              <h2 class="text-lg font-semibold text-foreground mb-4">Carreras</h2>
               <CareersTable institution={entry.id} client:visible />
             </Block>
           )
@@ -289,7 +289,7 @@ const jsonLd = {
         {
           entry.data.campuses.length > 0 && (
             <Block class="border-t border-border">
-              <h2 class="text-lg font-bold text-foreground mb-4">Sedes</h2>
+              <h2 class="text-lg font-semibold text-foreground mb-4">Sedes</h2>
               <CampusesTable campuses={entry.data.campuses} client:visible />
             </Block>
           )
@@ -300,7 +300,7 @@ const jsonLd = {
     {
       otherInstitutions.length > 0 ? (
         <Block class="border-t">
-          <h2 class="text-lg font-bold text-foreground mb-4">
+          <h2 class="text-lg font-semibold text-foreground mb-4">
             Otras instituciones
           </h2>
           <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

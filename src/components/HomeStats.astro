@@ -31,21 +31,21 @@ const uniqueTaskTypes = new Set(
 
 <section class="my-8 grid grid-cols-2 gap-4 sm:grid-cols-4">
   <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
-    <p class="text-2xl font-bold text-foreground sm:text-3xl">{activeJobs.length}</p>
+    <p class="text-2xl font-semibold text-foreground sm:text-3xl">{activeJobs.length}</p>
     <p class="mt-1 text-xs text-muted-foreground">Llamados activos</p>
   </div>
   <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
-    <p class="text-2xl font-bold text-foreground sm:text-3xl">{uniqueOrganizations.size}</p>
+    <p class="text-2xl font-semibold text-foreground sm:text-3xl">{uniqueOrganizations.size}</p>
     <p class="mt-1 text-xs text-muted-foreground">Organismos</p>
   </div>
   <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
-    <p class="text-2xl font-bold text-foreground sm:text-3xl">
+    <p class="text-2xl font-semibold text-foreground sm:text-3xl">
       {totalPositions > 0 ? totalPositions : "-"}
     </p>
     <p class="mt-1 text-xs text-muted-foreground">Puestos totales</p>
   </div>
   <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
-    <p class="text-2xl font-bold text-foreground sm:text-3xl">{uniqueTaskTypes.size}</p>
+    <p class="text-2xl font-semibold text-foreground sm:text-3xl">{uniqueTaskTypes.size}</p>
     <p class="mt-1 text-xs text-muted-foreground">Tipos de tarea</p>
   </div>
 </section>

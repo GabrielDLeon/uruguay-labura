@@ -1,41 +1,10 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 @import "basecoat-css";
-
-/* Self-hosted Inter (latin subset) — replaces the Astro font provider, which
-   embedded a dynamic font-server port into the module graph and broke
-   incremental build determinism. */
-@font-face {
-  font-family: "Inter";
-  src: url("/fonts/inter-latin-400-normal.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Inter";
-  src: url("/fonts/inter-latin-500-normal.woff2") format("woff2");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Inter";
-  src: url("/fonts/inter-latin-600-normal.woff2") format("woff2");
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Inter";
-  src: url("/fonts/inter-latin-700-normal.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
+@import "@fontsource-variable/inter/wght.css";
 
 @theme {
-  --font-sans: "Inter", "Inter Fallback", sans-serif;
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
 }
 
 :root {
@@ -71,7 +40,7 @@
   --pagefind-ui-border-width: 2px;
   --pagefind-ui-border-radius: 0.5rem;
   --pagefind-ui-image-border-radius: 0.5rem;
-  --pagefind-ui-font: "Inter", "Inter Fallback", sans-serif;
+  --pagefind-ui-font: "Inter Variable", sans-serif;
   --map-highlight: #ef4444;
   --map-default: #e5e7eb;
   --map-stroke: #f5f5f5;
@@ -118,6 +87,7 @@
 
 body {
   min-height: 100vh;
+  font-family: 'Inter Variable', sans-serif;
 }
 
 #search-dialog-input::-webkit-search-cancel-button,

@@ -47,7 +47,7 @@ const totalQuotaJobs = Object.values(quotas).reduce((s, c) => s + c, 0)
 ---
 
 <section>
-  <h3 class="text-lg font-bold text-foreground mb-4">Llamados con cupo</h3>
+  <h3 class="text-lg font-semibold text-foreground mb-4">Llamados con cupo</h3>
 
   <div class="grid grid-cols-2 gap-3">
     {
@@ -60,7 +60,7 @@ const totalQuotaJobs = Object.values(quotas).reduce((s, c) => s + c, 0)
           >
             <Icon name={item.icon} class={`size-5 ${item.color}`} aria-hidden="true" />
           </div>
-          <p class="text-2xl font-bold text-foreground">{item.count}</p>
+          <p class="text-2xl font-semibold text-foreground">{item.count}</p>
           <p class="mt-0.5 text-xs text-muted-foreground">{item.label}</p>
         </div>
       ))
