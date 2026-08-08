@@ -3,10 +3,16 @@ import { appIcons, iconToSvg } from "@/lib/icons";
 // Institution logos keyed by institution slug. Logo filenames match the
 // institution slugs (e.g. ort-logo.jpg -> "ort"), so we can build the map
 // from the assets directory at build time.
+// Force inlining: with `?url`, Vite emits a `__VITE_ASSET__<refId>` placeholder
+// whose token is order-dependent and rotates between builds. The module code
+// for these assets is then byte-different even when nothing changed, which
+// breaks Astro's incremental-build dependency hash for every page that loads
+// this module (all pages, via Header > SearchModal). `?inline` produces a
+// stable data URI.
 const institutionLogoUrls = import.meta.glob<string>("/src/assets/institutions/*-logo.*", {
   eager: true,
   import: "default",
-  query: "?url",
+  query: "?inline",
 });
 
 const INSTITUTION_LOGO_BY_SLUG: Record<string, string> = {};

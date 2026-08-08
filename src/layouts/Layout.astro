@@ -1,5 +1,4 @@
 ---
-import { Font } from "astro:assets";
 import Seo from "@/components/common/Seo.astro";
 import JsonLd from "@/components/common/JsonLd.astro";
 import Banner from "@/components/Banner.astro";
@@ -29,7 +28,6 @@ const { title, description, jsonLd, breadcrumbs } = Astro.props;
     <link rel="sitemap" href="/sitemap-index.xml" />
     <Seo title={title} description={description} />
     <JsonLd data={jsonLd} />
-    <Font cssVariable="--font-inter" preload />
     <script is:inline>
       (() => {
         try {

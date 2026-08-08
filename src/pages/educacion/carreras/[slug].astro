@@ -42,6 +42,7 @@ export async function getStaticPaths() {
   return entries.map((entry) => ({
     params: { slug: entry.id },
     props: { entry },
+    cacheKey: String(entry.digest ?? entry.data.updatedAt ?? entry.id),
   }));
 }
 

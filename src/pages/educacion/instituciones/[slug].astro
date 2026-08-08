@@ -28,6 +28,7 @@ export async function getStaticPaths() {
         (inst) => inst.id !== entry.id && inst.data.isActive,
       ),
     },
+    cacheKey: String(entry.digest ?? entry.data.updatedAt ?? entry.id),
   }));
 }
 
