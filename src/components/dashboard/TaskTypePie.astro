@@ -63,7 +63,7 @@ const gradientStyle = buildConicGradient(pieItems, COLORS)
 ---
 
 <section>
-  <h3 class="text-lg font-bold text-foreground mb-4">Distribución por tipo de tarea</h3>
+  <h3 class="text-lg font-semibold text-foreground mb-4">Distribución por tipo de tarea</h3>
 
   <div class="flex flex-col items-center gap-6 sm:flex-row sm:items-start">
     <!-- Donut chart -->
@@ -78,7 +78,7 @@ const gradientStyle = buildConicGradient(pieItems, COLORS)
       >
         <div class="flex size-24 items-center justify-center rounded-full bg-[var(--card-bg)]">
           <div class="text-center">
-            <p class="text-2xl font-bold text-foreground leading-none">
+            <p class="text-2xl font-semibold text-foreground leading-none">
               {pieItems.reduce((s, d) => s + d.count, 0)}
             </p>
             <p class="text-xs text-muted-foreground mt-0.5">total</p>

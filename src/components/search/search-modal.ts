@@ -3,11 +3,17 @@ import { appIcons, iconToSvg } from "@/lib/icons";
 // Institution logos keyed by institution slug. Logo filenames match the
 // institution slugs (e.g. ort-logo.jpg -> "ort"), so we can build the map
 // from the assets directory at build time.
-const institutionLogoUrls = import.meta.glob<string>("/src/assets/institutions/*-logo.*", {
-  eager: true,
-  import: "default",
-  query: "?url",
-});
+// `?inline` instead of `?url`: Vite's `?url` placeholder is order-dependent
+// and churns the module hash between builds (this module is loaded on every
+// page). `?inline` produces a byte-stable data URI.
+const institutionLogoUrls = import.meta.glob<string>(
+  "/src/assets/institutions/*-logo.*",
+  {
+    eager: true,
+    import: "default",
+    query: "?inline",
+  },
+);
 
 const INSTITUTION_LOGO_BY_SLUG: Record<string, string> = {};
 for (const [path, url] of Object.entries(institutionLogoUrls)) {

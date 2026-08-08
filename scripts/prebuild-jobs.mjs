@@ -205,7 +205,9 @@ export async function fetchAndProcessJobs(sourceUrl) {
   }
 
   const sourcePayload = await readSourceData(sourceUrl);
-  const nowIso = new Date().toISOString();
+  // Day precision: keeps the generated dataset byte-identical between builds
+  // on the same day, so the module hash of jobs.generated.json doesn't change.
+  const nowIso = new Date().toISOString().slice(0, 10);
   const rawJobs = flattenRawJobs(sourcePayload);
   const jobs = sortJobsByClosingDate(
     rawJobs.map((rawJob) => normalizeJob(rawJob, nowIso)),

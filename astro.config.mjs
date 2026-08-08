@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig, fontProviders } from "astro/config";
+import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -10,15 +10,10 @@ import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 export default defineConfig({
   site: "https://uruguaylaburos.uy",
   integrations: [react(), sitemap(), icon(), pagefind()],
-  fonts: [
-    {
-      provider: fontProviders.fontsource(),
-      name: "Inter",
-      cssVariable: "--font-inter",
-      weights: [400, 500, 600, 700],
-      styles: ["normal"],
-    },
-  ],
+  experimental: {
+    // Reuse the output of the previous build so unchanged static pages are not rendered again.
+    incrementalBuild: true,
+  },
   vite: {
     plugins: [tailwindcss(), prebuildJobsPlugin()],
     optimizeDeps: {

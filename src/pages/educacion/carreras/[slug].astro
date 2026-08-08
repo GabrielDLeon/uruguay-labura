@@ -42,6 +42,7 @@ export async function getStaticPaths() {
   return entries.map((entry) => ({
     params: { slug: entry.id },
     props: { entry },
+    cacheKey: String(entry.digest ?? entry.data.updatedAt ?? entry.id),
   }));
 }
 
@@ -193,7 +194,7 @@ const jsonLd = {
         )
       }
       <div>
-        <h1 class="text-2xl mb-1 font-bold text-foreground sm:text-3xl">
+        <h1 class="text-2xl mb-1 font-semibold text-foreground sm:text-3xl">
           {entry.data.title}
         </h1>
         <p class="text-muted-foreground text-base">
@@ -396,7 +397,7 @@ const jsonLd = {
     {
       similarEntries.length > 0 ? (
         <Block class="border-t">
-          <h2 class="text-lg font-bold text-foreground mb-4">
+          <h2 class="text-lg font-semibold text-foreground mb-4">
             Te podría interesar
           </h2>
           <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

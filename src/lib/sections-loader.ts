@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { glob } from "astro/loaders";
 import type { Loader } from "astro/loaders";
 
@@ -7,6 +8,11 @@ import type { Loader } from "astro/loaders";
  *
  * Wraps `glob()` for file discovery; presentation (tabs, icons) stays in the
  * consuming `.astro` component.
+ *
+ * Every entry gets a **composite digest** (sha256 over the file digest, body,
+ * frontmatter, and rendered intro/sections). It is stable across builds and
+ * differs from the glob file digest, so `scopedStore` still accepts the entry.
+ * Consumers can use `entry.digest` as the incremental build `cacheKey`.
  */
 export function sectionsLoader(options: Parameters<typeof glob>[0]): Loader {
   const base = glob(options);
@@ -50,16 +56,24 @@ export function sectionsLoader(options: Parameters<typeof glob>[0]): Loader {
           }),
         );
 
-        // NOTE: do NOT forward the `digest` in the set — scopedStore uses it as a
-        // deduper and would discard this update (matching digest → return false).
-        const { digest: _digest, ...entryWithoutDigest } = entry;
+        const data = {
+          ...stored,
+          ...(introHtml ? { introHtml } : {}),
+          sections: renderedSections,
+        };
+
         context.store.set({
-          ...entryWithoutDigest,
-          data: {
-            ...stored,
-            ...(introHtml ? { introHtml } : {}),
+          id: entry.id,
+          data,
+          ...(entry.body ? { body: entry.body } : {}),
+          ...(entry.filePath ? { filePath: entry.filePath } : {}),
+          digest: compositeDigest({
+            fileDigest: entry.digest,
+            body: entry.body,
+            frontmatter: stored,
+            introHtml,
             sections: renderedSections,
-          },
+          }),
         });
       }
     },
@@ -70,6 +84,29 @@ export interface SectionData {
   id: string;
   label: string;
   html: string;
+}
+
+interface CompositeDigestInput {
+  fileDigest?: string | number;
+  body?: string;
+  frontmatter: Record<string, unknown>;
+  introHtml?: string;
+  sections: SectionData[];
+}
+
+/** Stable, content-derived digest for incremental build `cacheKey`s. */
+export function compositeDigest(input: CompositeDigestInput): string {
+  const hasher = createHash("sha256");
+  if (input.fileDigest) {
+    hasher.update(String(input.fileDigest));
+    hasher.update("\n");
+  }
+  if (input.body) {
+    hasher.update(input.body);
+    hasher.update("\n");
+  }
+  hasher.update(JSON.stringify(input.frontmatter));
+  return `sections:${hasher.digest("hex")}`;
 }
 
 function splitSections(body: string): {
