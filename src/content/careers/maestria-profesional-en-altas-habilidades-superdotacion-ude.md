@@ -24,10 +24,10 @@ applicationDeadline: ""
 description: "Maestría stricto sensu con perfil profesional que forma multiplicadores capaces de identificar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), con campos de actuación en instituciones educativas, públicas y privadas."
 tags:
   - educacion
-  - altas habilidades
-  - educacion inclusiva
-  - educacion especial
-  - atencion a la diversidad
+  - altas-habilidades
+  - educacion-inclusiva
+  - educacion-especial
+  - atencion-a-la-diversidad
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

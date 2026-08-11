@@ -24,9 +24,9 @@ description: "Licenciatura en Economía y Finanzas de la Universidad de la Empre
 tags:
   - economia
   - finanzas
-  - evaluacion de proyectos
-  - gestion de riesgos
-  - finanzas corporativas
+  - evaluacion-de-proyectos
+  - gestion-de-riesgos
+  - finanzas-corporativas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

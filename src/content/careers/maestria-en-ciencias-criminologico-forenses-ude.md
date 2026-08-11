@@ -22,11 +22,11 @@ location: "Montevideo"
 description: "Maestría en Ciencias Criminológico-Forenses de la Universidad de la Empresa (UDE). Forma especialistas en la comprensión, evaluación y abordaje de la realidad delictiva uruguaya desde una perspectiva criminológica, clínica y forense."
 tags:
   - criminologia
-  - ciencias forenses
-  - psicologia clinica
-  - psicologia forense
-  - medicina legal
-  - derecho penal
+  - ciencias-forenses
+  - psicologia-clinica
+  - psicologia-forense
+  - medicina-legal
+  - derecho-penal
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -22,11 +22,11 @@ description: "Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetEx
 startDate: ""
 applicationDeadline: ""
 tags:
-  - relaciones internacionales
-  - integracion regional
-  - economia internacional
-  - derecho internacional
-  - ciencia politica
+  - relaciones-internacionales
+  - integracion-regional
+  - economia-internacional
+  - derecho-internacional
+  - ciencia-politica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

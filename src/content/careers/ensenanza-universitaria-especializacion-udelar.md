@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: "Facultad de Humanidades"
 tags:
   - educacion
-  - educacion superior
+  - educacion-superior
   - pedagogia
   - didactica
 draft: true

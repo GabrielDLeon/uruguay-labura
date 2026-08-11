@@ -21,9 +21,9 @@ location: "Montevideo"
 description: "Diploma en Comunicación de las Organizaciones Públicas de la UCU. Forma para diseñar estrategias comunicacionales y establecer mejores diálogos con los públicos de las organizaciones públicas, en modalidad virtual."
 tags:
   - comunicacion
-  - comunicacion publica
-  - sector publico
-  - administracion publica
+  - comunicacion-publica
+  - sector-publico
+  - administracion-publica
   - gobierno
 draft: true
 createdAt: "2026-08-07 19:13:13"

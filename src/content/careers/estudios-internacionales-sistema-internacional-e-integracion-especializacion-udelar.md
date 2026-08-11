@@ -22,9 +22,9 @@ description: "Objetivo General Especializar a docentes, investigadores, analista
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
-  - relaciones internacionales
-  - integracion regional
+  - ciencias-sociales
+  - relaciones-internacionales
+  - integracion-regional
   - diplomacia
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -22,9 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Inteligencia Artificial y Ciencia de Datos de la UCU. Forma profesionales capaces de extraer, visualizar, manipular y procesar datos para evaluar, diseñar e implementar soluciones basadas en IA y ciencia de datos."
 tags:
-  - inteligencia artificial
-  - ciencia de datos
-  - machine learning
+  - inteligencia-artificial
+  - ciencia-de-datos
+  - machine-learning
   - informatica
 draft: true
 createdAt: "2026-08-07 19:13:13"

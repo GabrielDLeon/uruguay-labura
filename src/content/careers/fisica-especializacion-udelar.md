@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: "Secretaría de Posgrado del IPES"
 tags:
   - fisica
-  - ciencias exactas
+  - ciencias-exactas
   - didactica
-  - formacion docente
+  - formacion-docente
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

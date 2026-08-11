@@ -24,7 +24,7 @@ applicationDeadline: ""
 tags:
   - matematica
   - algebra
-  - analisis matematico
+  - analisis-matematico
   - probabilidad
   - estadistica
   - geometria

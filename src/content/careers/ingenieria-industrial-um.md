@@ -21,10 +21,10 @@ website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/in
 location: "Montevideo"
 description: "Ingeniería Industrial de la Universidad de Montevideo. Forma profesionales capaces de organizar y dirigir los componentes del proceso de producción, diseñar y gestionar plantas industriales y liderar equipos con visión integradora."
 tags:
-  - ingenieria industrial
-  - procesos industriales
-  - gestion de operaciones
-  - gestion empresarial
+  - ingenieria-industrial
+  - procesos-industriales
+  - gestion-de-operaciones
+  - gestion-empresarial
   - liderazgo
 draft: true
 createdAt: "2026-08-10 16:53:42"

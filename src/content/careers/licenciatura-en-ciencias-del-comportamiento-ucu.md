@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Ciencias del Comportamiento de la UCU. Forma para comprender las decisiones de las personas, analizar datos y diseñar estrategias basadas en evidencia, con un enfoque multidisciplinario e innovador."
 tags:
   - psicologia
-  - ciencias del comportamiento
+  - ciencias-del-comportamiento
   - neurociencias
-  - ciencia de datos
-  - toma de decisiones
+  - ciencia-de-datos
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

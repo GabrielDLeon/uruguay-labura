@@ -22,10 +22,10 @@ description: "Se espera contar, a la hora del egreso, con un cuerpo profesional 
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - familia
-  - intervencion social
-  - trabajo social
+  - intervencion-social
+  - trabajo-social
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

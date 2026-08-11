@@ -22,8 +22,8 @@ location: "Montevideo, Punta del Este, Colonia"
 description: "Técnico en Diseño Gráfico de la UDE. Formación técnica de 2 años para desempeñarse en estudios de gráfica, agencias de publicidad, departamentos de marketing e imprentas, con rápida inserción laboral."
 tags:
   - diseno
-  - diseno grafico
-  - comunicacion visual
+  - diseno-grafico
+  - comunicacion-visual
   - publicidad
   - marketing
 draft: true

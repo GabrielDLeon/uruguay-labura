@@ -24,7 +24,7 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - antropologia
   - humanidades
 draft: true

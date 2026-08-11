@@ -22,8 +22,8 @@ description: "Especialización en Jóvenes, Juventud y Políticas Públicas, dic
 startDate: ""
 applicationDeadline: "No disponible"
 tags:
-  - ciencias sociales
-  - politicas publicas
+  - ciencias-sociales
+  - politicas-publicas
   - juventud
   - adolescencia
 draft: true

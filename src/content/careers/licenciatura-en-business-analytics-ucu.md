@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Business Analytics de la UCU. Forma profesionales capaces de analizar datos para la toma de decisiones estratégicas, integrando negocios, tecnología y analítica."
 tags:
   - negocios
-  - ciencia de datos
-  - analitica de negocios
-  - business intelligence
-  - toma de decisiones
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - business-intelligence
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

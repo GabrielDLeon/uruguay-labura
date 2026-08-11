@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería en Electrónica de ORT Uruguay. Los graduados de Ingeniería Electrónica diseñan, ponen en servicio y mantienen sistemas electrónicos en los más variados campos de aplicación."
 tags:
-  - ingenieria electronica
+  - ingenieria-electronica
   - electronica
   - ingenieria
-  - programa roberto rocca
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

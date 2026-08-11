@@ -23,7 +23,7 @@ description: "Maestría en Humanización de la Salud de la UCU. Capacita para co
 tags:
   - salud
   - humanizacion
-  - atencion centrada en la persona
+  - atencion-centrada-en-la-persona
   - comunicacion
   - bioetica
 draft: true

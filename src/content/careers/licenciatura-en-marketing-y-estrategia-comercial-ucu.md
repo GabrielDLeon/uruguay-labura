@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Marketing y Estrategia Comercial de la UCU. Forma para diseñar e implementar estrategias comerciales y de marketing con herramientas de inteligencia comercial y datos, coordinando canales de comunicación y venta."
 tags:
   - marketing
-  - estrategia comercial
+  - estrategia-comercial
   - ventas
-  - ciencia de datos
-  - gestion comercial
+  - ciencia-de-datos
+  - gestion-comercial
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

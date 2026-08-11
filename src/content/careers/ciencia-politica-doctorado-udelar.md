@@ -22,8 +22,8 @@ description: "El Programa de Doctorado es un programa estratégico de la Faculta
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencia politica
-  - ciencias sociales
+  - ciencia-politica
+  - ciencias-sociales
   - gobierno
 draft: true
 createdAt: "2026-07-31 16:58:06"

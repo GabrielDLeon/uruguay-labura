@@ -22,12 +22,12 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Civil de la UCU. Forma profesionales capaces de proyectar, planificar, dirigir y supervisar obras de infraestructura vial, hidráulica, estructural y sanitaria, con una sólida formación técnica y sostenible."
 tags:
-  - ingenieria civil
+  - ingenieria-civil
   - infraestructura
   - construccion
-  - ingenieria estructural
-  - ingenieria hidraulica
-  - ingenieria sanitaria
+  - ingenieria-estructural
+  - ingenieria-hidraulica
+  - ingenieria-sanitaria
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

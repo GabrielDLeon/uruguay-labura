@@ -24,7 +24,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
-  - neurofisiologia clinica
+  - neurofisiologia-clinica
   - neurologia
   - neurociencias
 draft: true

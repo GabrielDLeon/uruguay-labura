@@ -23,7 +23,7 @@ tags:
   - agronegocios
   - granos
   - comercializacion
-  - estrategia comercial
+  - estrategia-comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

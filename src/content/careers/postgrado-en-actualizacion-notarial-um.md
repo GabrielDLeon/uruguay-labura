@@ -24,7 +24,7 @@ description: "Postgrado en Actualización Notarial de la Universidad de Montevid
 tags:
   - derecho
   - notariado
-  - derecho notarial
+  - derecho-notarial
   - escribania
   - contratos
 draft: true

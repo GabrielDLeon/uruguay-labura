@@ -22,7 +22,7 @@ location: "Montevideo"
 description: "Especialización en Medicina de Emergencia del Centro de Ciencias Biomédicas de la Universidad de Montevideo. Formación presencial de cinco semestres con guardias semanales, orientada a médicos con título de doctor en Medicina."
 tags:
   - medicina
-  - medicina de emergencia
+  - medicina-de-emergencia
   - urgencias
   - salud
 draft: true

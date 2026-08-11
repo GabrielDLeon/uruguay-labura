@@ -23,10 +23,10 @@ location: "Montevideo"
 description: "Postgrado en Derecho Penal Económico de la Universidad de Montevideo. Formación práctica sobre la problemática penal de la actividad económica y empresarial, para abogados, jueces y fiscales."
 tags:
   - derecho
-  - derecho penal
-  - derecho penal economico
+  - derecho-penal
+  - derecho-penal-economico
   - compliance
-  - derecho economico
+  - derecho-economico
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

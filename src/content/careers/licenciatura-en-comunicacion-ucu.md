@@ -26,7 +26,7 @@ tags:
   - periodismo
   - publicidad
   - audiovisual
-  - comunicacion organizacional
+  - comunicacion-organizacional
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
-  - anatomia patologica
+  - anatomia-patologica
   - patologia
   - pediatria
 draft: true

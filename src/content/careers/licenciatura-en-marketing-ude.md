@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Marketing de la Universidad de la Empresa. Forma profesionales universitarios especialistas en marketing con un amplio conocimiento de las técnicas más modernas, preparados para actuar a nivel ejecutivo, en investigación de mercados, consultoría, agencias de publicidad y medios."
 tags:
   - marketing
-  - marketing digital
-  - investigacion de mercados
+  - marketing-digital
+  - investigacion-de-mercados
   - publicidad
   - consultoria
 draft: true

@@ -25,7 +25,7 @@ applicationDeadline: ""
 credits: 90
 tags:
   - salud
-  - salud publica
+  - salud-publica
   - biologia
 listable: false
 searchable: true

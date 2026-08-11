@@ -23,7 +23,7 @@ applicationDeadline: "Facultad de ingeniería"
 tags:
   - transporte
   - transito
-  - ingenieria civil
+  - ingenieria-civil
   - vialidad
   - logistica
 draft: true

@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "Maestría en Marketing y Dirección Comercial de la Universidad de la Empresa. Desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de marketing integral y la búsqueda de ventajas competitivas desde la dirección comercial."
 tags:
   - marketing
-  - direccion comercial
-  - estrategia comercial
-  - marketing digital
-  - gestion comercial
+  - direccion-comercial
+  - estrategia-comercial
+  - marketing-digital
+  - gestion-comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

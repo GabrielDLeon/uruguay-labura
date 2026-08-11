@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: "www.odon.edu.uy"
 tags:
   - odontologia
-  - odontologia restauradora
-  - rehabilitacion oral
+  - odontologia-restauradora
+  - rehabilitacion-oral
   - endodoncia
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Comunicación Organizacional de la UCU. Desarrolla habilidades estratégicas, liderazgo efectivo y un enfoque interdisciplinario para dirigir y transformar la comunicación en entornos organizacionales dinámicos."
 tags:
   - comunicacion
-  - comunicacion organizacional
-  - comunicacion estrategica
+  - comunicacion-organizacional
+  - comunicacion-estrategica
   - liderazgo
   - consultoria
 draft: true

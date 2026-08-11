@@ -23,9 +23,9 @@ location: "Montevideo"
 description: "Postgrado en Asesoramiento Corporativo de la Universidad de Montevideo. Formación para el asesoramiento jurídico integral de empresas, con materias de derecho societario, contratos, compliance y finanzas."
 tags:
   - derecho
-  - derecho corporativo
-  - derecho societario
-  - asesoramiento empresarial
+  - derecho-corporativo
+  - derecho-societario
+  - asesoramiento-empresarial
   - contratos
   - compliance
 draft: true

@@ -26,8 +26,8 @@ description: "Ingeniería gratuita en Agroambiental de UTEC, semipresencial en D
 tags:
   - ingenieria
   - agronomia
-  - medio ambiente
-  - recursos naturales
+  - medio-ambiente
+  - recursos-naturales
   - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

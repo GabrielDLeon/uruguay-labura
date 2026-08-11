@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - administracion
-  - gestion empresarial
+  - gestion-empresarial
   - informatica
-  - sistemas de informacion
+  - sistemas-de-informacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

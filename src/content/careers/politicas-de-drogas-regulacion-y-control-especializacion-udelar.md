@@ -22,10 +22,10 @@ description: "Constituye una propuesta de formación de posgrado inscripta en la
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
-  - politicas publicas
-  - ninos y adolescentes
-  - derecho penal
+  - ciencias-sociales
+  - politicas-publicas
+  - ninos-y-adolescentes
+  - derecho-penal
   - criminologia
 draft: true
 createdAt: "2026-07-31 16:58:06"

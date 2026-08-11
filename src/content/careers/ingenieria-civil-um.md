@@ -21,11 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/in
 location: "Montevideo"
 description: "Ingeniería Civil de la Universidad de Montevideo. Forma profesionales capaces de diseñar y construir edificios, puentes, obras hidráulicas, vías ferroviarias, aeropuertos y sistemas de tratamiento ambiental, y de dirigir obras y gestionar proyectos."
 tags:
-  - ingenieria civil
+  - ingenieria-civil
   - construccion
   - infraestructura
   - obras
-  - ingenieria hidraulica
+  - ingenieria-hidraulica
   - puentes
 draft: true
 createdAt: "2026-08-10 16:53:42"

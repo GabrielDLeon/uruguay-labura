@@ -22,11 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Relaciones Internacionales de la Universidad de la Empresa (UDE). Forma profesionales para desempeñarse en el ámbito público nacional e internacional, en organismos internacionales y en el sector privado."
 tags:
-  - relaciones internacionales
+  - relaciones-internacionales
   - diplomacia
-  - comercio exterior
-  - derecho internacional
-  - ciencias juridicas
+  - comercio-exterior
+  - derecho-internacional
+  - ciencias-juridicas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

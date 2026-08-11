@@ -24,8 +24,8 @@ description: "Maestría en Lengua Inglesa y Educación Intercultural Bilingüe (
 tags:
   - letras
   - linguistica
-  - lengua inglesa
-  - educacion bilingue
+  - lengua-inglesa
+  - educacion-bilingue
   - interculturalidad
 draft: true
 createdAt: "2026-08-10 16:53:42"

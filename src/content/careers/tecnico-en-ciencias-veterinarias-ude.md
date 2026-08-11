@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "Tecnicatura que forma profesionales capaces de colaborar con el médico veterinario en el examen, tratamiento y seguimiento de rumiantes, equinos y pequeños animales, así como en la prevención y control de enfermedades."
 tags:
   - veterinaria
-  - salud animal
-  - medicina veterinaria preventiva
-  - produccion animal
+  - salud-animal
+  - medicina-veterinaria-preventiva
+  - produccion-animal
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

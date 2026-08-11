@@ -24,9 +24,9 @@ location: "Durazno"
 description: "Programa de Posgrado en Agua y Desarrollo Sostenible de UTEC, en colaboración con IHE Delft Institute for Water Education (bajo auspicio de UNESCO). Comprende cursos individuales, una Especialización en Ingeniería Sanitaria y dos Maestrías."
 tags:
   - agua
-  - recursos hidricos
-  - ingenieria sanitaria
-  - desarrollo sostenible
+  - recursos-hidricos
+  - ingenieria-sanitaria
+  - desarrollo-sostenible
   - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

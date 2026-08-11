@@ -24,7 +24,7 @@ applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
   - rehabilitacion
-  - medicina fisica
+  - medicina-fisica
   - fisioterapia
 draft: true
 createdAt: "2026-07-31 16:58:06"

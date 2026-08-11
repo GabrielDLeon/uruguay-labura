@@ -24,10 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 363
 tags:
-  - diseno grafico
+  - diseno-grafico
   - diseno
-  - comunicacion visual
-  - diseno editorial
+  - comunicacion-visual
+  - diseno-editorial
   - publicidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

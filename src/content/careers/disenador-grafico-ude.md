@@ -22,8 +22,8 @@ location: "Campus Virtual"
 description: "Diplomado en Diseñador Gráfico de la UDE (1 año, Campus Virtual). Formación práctica en comunicación visual, con unidades de diseño en formato taller y módulos de apoyo, con dictado 100% en vivo."
 tags:
   - diseno
-  - diseno grafico
-  - comunicacion visual
+  - diseno-grafico
+  - comunicacion-visual
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

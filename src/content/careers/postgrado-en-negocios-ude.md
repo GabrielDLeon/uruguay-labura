@@ -23,9 +23,9 @@ description: "Postgrado en Negocios de la Universidad de la Empresa. Brinda herr
 tags:
   - negocios
   - marketing
-  - estrategia de negocios
-  - gestion empresarial
-  - gestion comercial
+  - estrategia-de-negocios
+  - gestion-empresarial
+  - gestion-comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Formación de Formadores de ORT Uruguay. Un postgrado pensado para quienes requieran desarrollar las capacidades necesarias para planificar, diseñar y liderar procesos formativos de calidad."
 tags:
   - educacion
-  - formacion docente
-  - formacion profesional
-  - liderazgo educativo
+  - formacion-docente
+  - formacion-profesional
+  - liderazgo-educativo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -25,9 +25,9 @@ applicationDeadline: ""
 credits: 160
 tags:
   - matematica
-  - ciencias exactas
+  - ciencias-exactas
   - algebra
-  - analisis matematico
+  - analisis-matematico
 listable: false
 searchable: true
 draft: true

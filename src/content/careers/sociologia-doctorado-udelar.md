@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - sociologia
-  - ciencias sociales
+  - ciencias-sociales
   - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

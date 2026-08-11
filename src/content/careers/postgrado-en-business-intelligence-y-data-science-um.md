@@ -21,9 +21,9 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-business-intel
 location: "Campus Virtual"
 description: "Postgrado en Business Intelligence & Data Science de la Universidad de Montevideo (UMPE). Forma en herramientas y metodologías de analítica de datos aplicada al ámbito empresarial, en modalidad online."
 tags:
-  - business intelligence
-  - ciencia de datos
-  - analitica de negocios
+  - business-intelligence
+  - ciencia-de-datos
+  - analitica-de-negocios
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

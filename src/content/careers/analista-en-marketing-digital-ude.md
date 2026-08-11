@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "La carrera de Analista en Marketing Digital ofrece una visión práctica de las herramientas digitales para planificar acciones de marketing online enmarcadas en la estrategia global de la empresa."
 tags:
   - marketing
-  - marketing digital
-  - redes sociales
-  - comercio electronico
+  - marketing-digital
+  - redes-sociales
+  - comercio-electronico
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

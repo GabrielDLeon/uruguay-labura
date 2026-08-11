@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
   - medicina
-  - salud mental
+  - salud-mental
   - psiquiatria
-  - salud publica
+  - salud-publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

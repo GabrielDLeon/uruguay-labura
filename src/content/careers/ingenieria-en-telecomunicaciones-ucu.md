@@ -25,7 +25,7 @@ tags:
   - telecomunicaciones
   - redes
   - ingenieria
-  - redes de datos
+  - redes-de-datos
   - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"

@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
-  - derecho financiero
-  - derecho tributario
+  - derecho-financiero
+  - derecho-tributario
   - tributacion
   - finanzas
 draft: true

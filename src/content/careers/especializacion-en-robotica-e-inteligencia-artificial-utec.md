@@ -24,7 +24,7 @@ location: "Rivera"
 description: "Especialización en Robótica e Inteligencia Artificial de UTEC, posgrado trinacional junto a la Universidad Federal do Rio Grande (Brasil) y la Universidad Nacional de Rafaela (Argentina). Formación semipresencial con título válido en Uruguay, Brasil y Argentina."
 tags:
   - informatica
-  - inteligencia artificial
+  - inteligencia-artificial
   - robotica
 draft: true
 createdAt: "2026-07-31 16:58:06"

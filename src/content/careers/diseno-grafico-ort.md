@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Diseño Gráfico de ORT Uruguay. Estos profesionales capaces de ofrecer soluciones visuales a problemas específicos en diversos campos como el diseño editorial o el publicitario."
 tags:
   - diseno
-  - diseno grafico
-  - comunicacion visual
-  - diseno editorial
+  - diseno-grafico
+  - comunicacion-visual
+  - diseno-editorial
   - publicidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "Licenciatura en Dirección y Administración de Empresas de la Universidad de Montevideo. Forma profesionales con espíritu emprendedor para la gestión integral y coordinada de las distintas áreas de una empresa."
 tags:
   - administracion
-  - administracion de empresas
-  - direccion de empresas
-  - gestion empresarial
+  - administracion-de-empresas
+  - direccion-de-empresas
+  - gestion-empresarial
   - emprendimiento
 draft: true
 createdAt: "2026-08-10 16:53:42"

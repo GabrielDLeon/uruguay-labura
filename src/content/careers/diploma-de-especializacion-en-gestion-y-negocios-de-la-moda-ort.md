@@ -24,7 +24,7 @@ description: "Este primer diploma busca preparar a profesionales y emprendedores
 tags:
   - negocios
   - moda
-  - gestion empresarial
+  - gestion-empresarial
   - emprendimiento
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -22,7 +22,7 @@ description: "El objetivo fundamental que persigue el presente Plan de Estudio e
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria de software
+  - ingenieria-de-software
   - software
   - informatica
   - programacion

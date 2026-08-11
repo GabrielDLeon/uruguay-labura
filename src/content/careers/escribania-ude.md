@@ -24,8 +24,8 @@ tags:
   - derecho
   - escribania
   - notariado
-  - derecho notarial
-  - ciencias juridicas
+  - derecho-notarial
+  - ciencias-juridicas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -26,8 +26,8 @@ updatedAt: "2026-08-07 12:21:06"
 tags:
   - mecanica
   - manufactura
-  - procesos industriales
-  - mantenimiento industrial
+  - procesos-industriales
+  - mantenimiento-industrial
 ---
 
 ## Resumen

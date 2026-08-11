@@ -26,8 +26,8 @@ credits: 270
 tags:
   - agronomia
   - agropecuario
-  - produccion animal
-  - produccion vegetal
+  - produccion-animal
+  - produccion-vegetal
   - silvicultura
 draft: true
 createdAt: "2026-07-31 16:58:06"

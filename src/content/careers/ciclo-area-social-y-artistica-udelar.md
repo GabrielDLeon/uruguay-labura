@@ -24,7 +24,7 @@ startDate: ""
 applicationDeadline: ""
 credits: 80
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - arte
   - humanidades
 listable: false

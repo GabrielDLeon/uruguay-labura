@@ -28,8 +28,8 @@ updatedAt: "2026-08-07 12:21:06"
 tags:
   - mecatronica
   - automatizacion
-  - sistemas embebidos
-  - procesos industriales
+  - sistemas-embebidos
+  - procesos-industriales
   - ingenieria
 ---
 

@@ -22,10 +22,10 @@ description: "Formar graduados con dominio de temas o áreas dentro de una profe
 startDate: ""
 applicationDeadline: "Unidad de Posgrado y Educación Permanente - Facultad de Agronomía"
 tags:
-  - desarrollo rural
+  - desarrollo-rural
   - agronomia
-  - ciencias sociales
-  - desarrollo sostenible
+  - ciencias-sociales
+  - desarrollo-sostenible
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

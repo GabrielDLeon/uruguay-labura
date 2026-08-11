@@ -22,8 +22,8 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma busca formar profesionales universitarios con capacidades técnicas para resolver problemas complejos en un mundo de grandes volúmenes de datos."
 tags:
-  - ciencia de datos
-  - big data
+  - ciencia-de-datos
+  - big-data
   - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"

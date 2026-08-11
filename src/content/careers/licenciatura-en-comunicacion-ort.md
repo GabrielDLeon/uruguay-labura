@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Comunicación de ORT Uruguay. Licenciatura en Comunicación en ORT: 4 años, formación práctica y digital, docentes referentes y proyectos aplicados con foco profesional."
 tags:
   - comunicacion
-  - comunicacion digital
+  - comunicacion-digital
   - medios
-  - produccion de contenidos
+  - produccion-de-contenidos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

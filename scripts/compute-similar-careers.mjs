@@ -222,10 +222,10 @@ for (const file of files) {
     file,
     title: doc.title,
     short: doc.short,
-    // Normalize tag spelling (lowercase, no accents, hyphens→spaces) so that
-    // vocabulary variants like "comercio-exterior" vs "comercio exterior" or
-    // "diseño" vs "diseno" compare equal.
-    tags: new Set((doc.tags ?? []).map((t) => norm(String(t)).replace(/-/g, " "))),
+    // Normalize tag spelling to kebab-case (lowercase, no accents, spaces→hyphens)
+    // so that vocabulary variants like "comercio exterior" vs "comercio-exterior"
+    // or "diseño" vs "diseno" compare equal.
+    tags: new Set((doc.tags ?? []).map((t) => norm(String(t)).replace(/\s+/g, "-"))),
     area: doc.area ?? "",
     degreeType: doc.degreeType ?? "",
     institution: doc.institution ?? "",

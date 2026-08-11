@@ -24,9 +24,9 @@ description: "Maestría en Salud y PNIE de la UCU. Forma en una estrategia terap
 tags:
   - salud
   - psicoterapia
-  - psicoterapia integrativa
+  - psicoterapia-integrativa
   - psiconeuroinmunoendocrinologia
-  - salud mental
+  - salud-mental
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -25,7 +25,7 @@ applicationDeadline: ""
 credits: 360
 tags:
   - biologia
-  - ciencias naturales
+  - ciencias-naturales
   - biofisica
   - neurociencias
 draft: true

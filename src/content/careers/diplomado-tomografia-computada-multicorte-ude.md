@@ -20,7 +20,7 @@ website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-tomograf
 location: "Montevideo"
 description: "Diplomado virtual de Tomografía Computada Multicorte (TCMC) de la UDE, que forma especialistas capaces de comprender las bases físicas del método, reconocer la imagen normal y patológica y obtener estudios complejos."
 tags:
-  - tomografia computada
+  - tomografia-computada
   - imagenologia
   - radiologia
   - salud

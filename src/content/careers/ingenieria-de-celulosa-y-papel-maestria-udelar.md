@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
   - ingenieria
-  - ingenieria quimica
-  - procesos industriales
-  - celulosa y papel
+  - ingenieria-quimica
+  - procesos-industriales
+  - celulosa-y-papel
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

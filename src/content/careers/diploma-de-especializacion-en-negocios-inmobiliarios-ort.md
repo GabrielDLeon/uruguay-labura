@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Postgrado de un año de duración que capacita a profesionales de varias áreas en el análisis, asesoramiento y ejecución de negocios inmobiliarios."
 tags:
   - negocios
-  - negocios inmobiliarios
+  - negocios-inmobiliarios
   - inmobiliario
-  - asesoramiento empresarial
+  - asesoramiento-empresarial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

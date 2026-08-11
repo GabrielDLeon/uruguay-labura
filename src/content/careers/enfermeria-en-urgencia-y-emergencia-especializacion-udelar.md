@@ -24,7 +24,7 @@ applicationDeadline: "Montevideo"
 tags:
   - enfermeria
   - urgencias
-  - medicina de emergencia
+  - medicina-de-emergencia
   - cuidados
 draft: true
 createdAt: "2026-07-31 16:58:06"

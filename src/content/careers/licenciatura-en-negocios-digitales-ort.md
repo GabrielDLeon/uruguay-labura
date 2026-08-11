@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Negocios Digitales de ORT Uruguay. Conocé la Licenciatura en Negocios Digitales de ORT. Una carrera que forma líderes para los negocios digitales y la transformación tecnológica."
 tags:
   - negocios
-  - negocios digitales
-  - transformacion digital
-  - comercio electronico
+  - negocios-digitales
+  - transformacion-digital
+  - comercio-electronico
   - emprendimiento
 draft: true
 createdAt: "2026-07-31 16:58:06"

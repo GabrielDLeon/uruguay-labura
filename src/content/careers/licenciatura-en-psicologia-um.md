@@ -23,7 +23,7 @@ location: "Montevideo"
 description: "Licenciatura en Psicología de la Universidad de Montevideo. Cuatro años, 315 créditos, con psicología basada en evidencia, neurociencias, investigación y datos, y prácticas profesionales supervisadas en cuatro años más uno de posgrado."
 tags:
   - psicologia
-  - salud mental
+  - salud-mental
   - neurociencias
   - investigacion
 draft: true

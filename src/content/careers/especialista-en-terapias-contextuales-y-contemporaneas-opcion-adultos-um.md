@@ -23,8 +23,8 @@ description: "Especialista en Terapias Contextuales y Contemporáneas – opció
 tags:
   - psicologia
   - psicoterapia
-  - psicologia clinica
-  - terapias contextuales
+  - psicologia-clinica
+  - terapias-contextuales
   - adultos
 draft: true
 createdAt: "2026-08-10 16:53:42"

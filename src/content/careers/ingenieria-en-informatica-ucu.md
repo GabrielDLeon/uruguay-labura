@@ -25,8 +25,8 @@ tags:
   - informatica
   - software
   - ingenieria
-  - gestion de proyectos it
-  - sistemas de informacion
+  - gestion-de-proyectos-it
+  - sistemas-de-informacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

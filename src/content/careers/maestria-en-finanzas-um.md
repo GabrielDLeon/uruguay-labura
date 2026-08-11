@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Finanzas de la Universidad de Montevideo (UMPE). Forma para posiciones de liderazgo en el área financiera, corporativa y de mercado de capitales, con herramientas de Business Intelligence & Data Science."
 tags:
   - finanzas
-  - mercado de capitales
-  - finanzas corporativas
-  - ciencia de datos
-  - business intelligence
+  - mercado-de-capitales
+  - finanzas-corporativas
+  - ciencia-de-datos
+  - business-intelligence
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Diploma en Planificación y Gestión Educativa de ORT Uruguay. Postgrado de un año de duración, que prepara a los egresados para diseñar e instrumentar procesos de planificación y liderazgo."
 tags:
   - educacion
-  - gestion educativa
-  - planificacion estrategica
-  - liderazgo educativo
+  - gestion-educativa
+  - planificacion-estrategica
+  - liderazgo-educativo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

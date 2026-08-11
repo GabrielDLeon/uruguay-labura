@@ -22,10 +22,10 @@ description: "OBJETIVOS – El Diploma de “Especialista en Intervención en el
 startDate: ""
 applicationDeadline: ""
 tags:
-  - patrimonio arquitectonico
+  - patrimonio-arquitectonico
   - arquitectura
   - restauracion
-  - patrimonio cultural
+  - patrimonio-cultural
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

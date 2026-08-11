@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Industrial de la UCU. Forma profesionales capaces de optimizar procesos y resolver problemas que afectan a diversas industrias con solvencia técnica y una mirada innovadora de la gestión empresarial."
 tags:
-  - ingenieria industrial
-  - gestion empresarial
-  - procesos industriales
-  - gestion de operaciones
+  - ingenieria-industrial
+  - gestion-empresarial
+  - procesos-industriales
+  - gestion-de-operaciones
   - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"

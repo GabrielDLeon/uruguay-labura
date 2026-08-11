@@ -24,8 +24,8 @@ description: "EMBA, Executive MBA semipresencial de ORT Uruguay. El MBA semipres
 tags:
   - administracion
   - mba
-  - direccion de empresas
-  - habilidades gerenciales
+  - direccion-de-empresas
+  - habilidades-gerenciales
   - liderazgo
 draft: true
 createdAt: "2026-07-31 16:58:06"

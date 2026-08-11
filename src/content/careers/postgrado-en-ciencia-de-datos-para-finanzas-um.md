@@ -21,11 +21,11 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-cincia-datos-fina
 location: "Campus Virtual"
 description: "Postgrado en Ciencia de Datos para Finanzas de la Universidad de Montevideo (UMPE). Forma para extraer y analizar grandes volúmenes de datos en el ámbito financiero, con dashboards e inteligencia artificial."
 tags:
-  - ciencia de datos
+  - ciencia-de-datos
   - finanzas
-  - inteligencia artificial
-  - business intelligence
-  - big data
+  - inteligencia-artificial
+  - business-intelligence
+  - big-data
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

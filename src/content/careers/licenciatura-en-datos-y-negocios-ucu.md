@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Datos y Negocios de la UCU. Forma profesionales que integran el análisis de datos y la gestión empresarial, en modalidad semipresencial en el Campus Salto."
 tags:
   - negocios
-  - ciencia de datos
-  - analitica de negocios
-  - gestion empresarial
-  - toma de decisiones
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - gestion-empresarial
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

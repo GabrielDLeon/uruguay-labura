@@ -23,10 +23,10 @@ description: "El egresado será capaz de comprender, analizar, investigar y gest
 startDate: ""
 applicationDeadline: ""
 tags:
-  - gestion ambiental
-  - medio ambiente
-  - evaluacion de impacto ambiental
-  - ordenamiento territorial
+  - gestion-ambiental
+  - medio-ambiente
+  - evaluacion-de-impacto-ambiental
+  - ordenamiento-territorial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

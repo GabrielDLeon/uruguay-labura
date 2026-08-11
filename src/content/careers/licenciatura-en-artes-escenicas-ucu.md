@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Artes Escénicas de la UCU. Forma profesionales en actuación, danza y canto con experiencias prácticas, formación interdisciplinaria y oportunidades internacionales, en el Campus Montevideo."
 tags:
   - arte
-  - artes escenicas
+  - artes-escenicas
   - actuacion
   - danza
   - canto

@@ -22,9 +22,9 @@ description: "Objetivos • Formar investigadores en el campo de la educación f
 startDate: ""
 applicationDeadline: ""
 tags:
-  - educacion fisica
+  - educacion-fisica
   - deporte
-  - actividad fisica
+  - actividad-fisica
   - educacion
   - recreacion
 draft: true

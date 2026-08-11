@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Si estás interesado en realizar un curso de diseño interior, la carrera Técnico en Diseño de Interiores te permite desarrollar tus ideas y tu creatividad."
 tags:
   - diseno
-  - diseno de interiores
+  - diseno-de-interiores
   - interiorismo
-  - diseno de espacios
+  - diseno-de-espacios
   - creatividad
 draft: true
 createdAt: "2026-07-31 16:58:06"

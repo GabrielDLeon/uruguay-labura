@@ -24,9 +24,9 @@ description: "El posgrado en Fiscalidad Internacional de la Escuela de Postgrado
 tags:
   - negocios
   - tributacion
-  - tributacion internacional
+  - tributacion-internacional
   - impuestos
-  - derecho tributario
+  - derecho-tributario
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

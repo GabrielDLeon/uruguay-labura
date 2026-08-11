@@ -23,7 +23,7 @@ description: "Diplomado en Diseñador de Interiores de la UDE (1 año, Campus Vi
 tags:
   - diseno
   - interiorismo
-  - diseno de interiores
+  - diseno-de-interiores
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

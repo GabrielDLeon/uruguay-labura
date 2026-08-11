@@ -27,8 +27,8 @@ tags:
   - informatica
   - software
   - programacion
-  - sistemas de informacion
-  - analista funcional
+  - sistemas-de-informacion
+  - analista-funcional
 ---
 
 ## Resumen

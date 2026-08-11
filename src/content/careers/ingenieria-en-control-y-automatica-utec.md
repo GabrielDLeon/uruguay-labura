@@ -26,8 +26,8 @@ description: "Ingeniería gratuita en Control y Automática de UTEC, presencial 
 tags:
   - mecatronica
   - automatizacion
-  - automatizacion industrial
-  - control de procesos
+  - automatizacion-industrial
+  - control-de-procesos
   - electronica
   - ingenieria
 draft: true

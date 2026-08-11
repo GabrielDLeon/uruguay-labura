@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Técnico en Paisajismo de ORT Uruguay. En esta carrera obtendrás todas las herramientas necesarias para diseñar espacios exteriores y construirlos de manera responsable y exitosa."
 tags:
   - paisajismo
-  - arquitectura del paisaje
-  - diseno de espacios
+  - arquitectura-del-paisaje
+  - diseno-de-espacios
   - diseno
   - arquitectura
 draft: true

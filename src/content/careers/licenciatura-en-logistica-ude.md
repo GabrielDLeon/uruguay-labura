@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera universitaria con fuerte base teórica y científica orientada a la gestión de cadenas de suministro, con título intermedio de Técnico en Logística."
 tags:
   - logistica
-  - cadena de suministros
+  - cadena-de-suministros
   - transporte
 draft: true
 createdAt: "2026-08-09 15:12:26"

@@ -26,7 +26,7 @@ tags:
   - software
   - programacion
   - ingenieria
-  - gestion de proyectos it
+  - gestion-de-proyectos-it
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

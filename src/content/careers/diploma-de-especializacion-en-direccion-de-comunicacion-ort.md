@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Esta formación aúna la función gerencial de la comunicación con la administración y el liderazgo dentro y fuera de la organización."
 tags:
   - comunicacion
-  - direccion de comunicacion
-  - comunicacion estrategica
+  - direccion-de-comunicacion
+  - comunicacion-estrategica
   - liderazgo
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -23,10 +23,10 @@ location: "Montevideo"
 description: "Postgrado en Derecho Administrativo Económico de la Universidad de Montevideo. Formación práctica en normativa, jurisprudencia y doctrina del derecho administrativo económico, para la actividad privada y la función pública."
 tags:
   - derecho
-  - derecho administrativo
-  - derecho economico
-  - administracion publica
-  - funcion publica
+  - derecho-administrativo
+  - derecho-economico
+  - administracion-publica
+  - funcion-publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

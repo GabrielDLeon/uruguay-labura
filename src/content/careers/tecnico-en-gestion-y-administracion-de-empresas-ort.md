@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Estudiar Gestión en la Universidad ORT Uruguay habilita a asumir responsabilidades en las diversas áreas funcionales de todo tipo de organizaciones."
 tags:
   - administracion
-  - administracion de empresas
-  - gestion empresarial
+  - administracion-de-empresas
+  - gestion-empresarial
   - negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - educacion
-  - gestion educativa
-  - direccion de centros
-  - liderazgo educativo
+  - gestion-educativa
+  - direccion-de-centros
+  - liderazgo-educativo
   - administracion
 draft: true
 createdAt: "2026-07-31 16:58:06"

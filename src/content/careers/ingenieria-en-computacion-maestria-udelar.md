@@ -22,8 +22,8 @@ description: "La Maestría en Ingeniería en Computación se dirige a profesiona
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria informatica
-  - ingenieria de software
+  - ingenieria-informatica
+  - ingenieria-de-software
   - software
   - programacion
 draft: true

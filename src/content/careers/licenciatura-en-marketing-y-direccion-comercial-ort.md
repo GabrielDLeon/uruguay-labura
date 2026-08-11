@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "La carrera te prepara para dirigir el departamento comercial del futuro, con una mirada única desde el marketing y la gestión de clientes."
 tags:
   - marketing
-  - direccion comercial
-  - gestion comercial
-  - estrategia comercial
+  - direccion-comercial
+  - gestion-comercial
+  - estrategia-comercial
   - ventas
 draft: true
 createdAt: "2026-07-31 16:58:06"

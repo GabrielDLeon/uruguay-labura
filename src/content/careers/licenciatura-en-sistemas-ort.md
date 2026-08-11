@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Sistemas de ORT Uruguay. La Licenciatura en Sistemas es la única carrera en Uruguay que integra tecnología y negocios, brindando una sólida formación en sistemas y administración."
 tags:
   - informatica
-  - sistemas de informacion
+  - sistemas-de-informacion
   - administracion
   - negocios
   - software

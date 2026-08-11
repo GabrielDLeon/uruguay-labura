@@ -24,9 +24,9 @@ description: "Licenciatura que forma profesionales capaces de participar y aseso
 tags:
   - agropecuario
   - agronegocios
-  - gestion empresarial
+  - gestion-empresarial
   - administracion
-  - toma de decisiones
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

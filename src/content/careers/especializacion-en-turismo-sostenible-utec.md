@@ -24,8 +24,8 @@ location: "Minas - Lavalleja"
 description: "Especialización en Turismo Sostenible de UTEC, en colaboración con la Cátedra UNESCO de Turismo y Desarrollo Económico Sostenible de la ULPGC (España). Formación online para la gestión sostenible de destinos turísticos."
 tags:
   - turismo
-  - gestion de destinos
-  - turismo sostenible
+  - gestion-de-destinos
+  - turismo-sostenible
   - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

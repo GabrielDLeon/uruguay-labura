@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Operador Inmobiliario de ORT Uruguay. Una carrera corta en la que podrás adquirir herramientas teóricas y prácticas para poder desarrollar la actividad inmobiliaria."
 tags:
   - negocios
-  - negocios inmobiliarios
+  - negocios-inmobiliarios
   - inmobiliario
   - ventas
 draft: true

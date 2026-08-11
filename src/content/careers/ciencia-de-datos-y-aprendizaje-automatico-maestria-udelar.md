@@ -22,9 +22,9 @@ description: "Los objetivos de la Maestría en Ciencia de Datos y Aprendizaje Au
 startDate: ""
 applicationDeadline: "maestriaCDAA@fing.edu.uy"
 tags:
-  - ciencia de datos
-  - machine learning
-  - inteligencia artificial
+  - ciencia-de-datos
+  - machine-learning
+  - inteligencia-artificial
   - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"

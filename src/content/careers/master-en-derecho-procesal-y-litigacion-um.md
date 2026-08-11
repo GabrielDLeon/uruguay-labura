@@ -23,7 +23,7 @@ location: "Montevideo"
 description: "Máster en Derecho Procesal y Litigación de la Universidad de Montevideo. Formación práctica en procesos judiciales y litigación, dirigida a abogados, jueces y fiscales."
 tags:
   - derecho
-  - derecho procesal
+  - derecho-procesal
   - litigacion
   - justicia
 draft: true

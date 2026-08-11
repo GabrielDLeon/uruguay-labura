@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Metodologías Activas de Enseñanza de la UCU. Forma profesionales comprometidos con la educación transformadora en diseño, ejecución, implementación y evaluación de experiencias de aprendizaje activo y significativo."
 tags:
   - educacion
-  - metodologias activas
-  - innovacion educativa
-  - evaluacion educativa
+  - metodologias-activas
+  - innovacion-educativa
+  - evaluacion-educativa
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -22,11 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Economía de ORT Uruguay. La Licenciatura en Economía estudia los procesos económicos de personas, empresas y gobiernos, incluyendo herramientas de Business Analytics y Data Science."
 tags:
-  - programa roberto rocca
+  - programa-roberto-rocca
   - economia
-  - ciencia de datos
-  - analitica de negocios
-  - analisis economico
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - analisis-economico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: "IPES- Asilo 3255, Montevideo"
 tags:
   - educacion
-  - educacion ambiental
-  - medio ambiente
+  - educacion-ambiental
+  - medio-ambiente
   - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

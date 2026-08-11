@@ -26,7 +26,7 @@ tags:
   - tributacion
   - auditoria
   - impuestos
-  - toma de decisiones
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

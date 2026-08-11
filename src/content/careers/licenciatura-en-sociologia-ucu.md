@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera de Sociología de la Universidad Católica del Uruguay. Forma profesionales comprometidos con el desarrollo de la sociedad, capaces de generar conocimiento sistemático y proponer soluciones basadas en el riguroso análisis de datos."
 tags:
   - sociologia
-  - ciencias sociales
-  - investigacion social
-  - ciencia de datos
+  - ciencias-sociales
+  - investigacion-social
+  - ciencia-de-datos
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

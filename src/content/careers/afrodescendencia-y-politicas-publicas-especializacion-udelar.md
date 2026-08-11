@@ -22,8 +22,8 @@ description: "Especialización en Afrodescendencia y Políticas Públicas, dicta
 startDate: ""
 applicationDeadline: "No vigente"
 tags:
-  - ciencias sociales
-  - politicas publicas
+  - ciencias-sociales
+  - politicas-publicas
   - afrodescendencia
   - diversidad
 draft: true

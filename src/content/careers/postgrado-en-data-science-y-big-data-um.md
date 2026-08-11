@@ -21,9 +21,9 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-data-science-b
 location: "Campus Virtual"
 description: "Postgrado en Data Science & Big Data de la Universidad de Montevideo (UMPE). Forma en ciencia de datos y machine learning, combinando fundamentos estadísticos y de programación con una visión de negocios."
 tags:
-  - ciencia de datos
-  - big data
-  - machine learning
+  - ciencia-de-datos
+  - big-data
+  - machine-learning
   - estadistica
   - programacion
   - negocios

@@ -22,9 +22,9 @@ description: "Normal 0 21 false false false MicrosoftInternetExplorer4 DISPOSICI
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
-  - salud animal
+  - salud-animal
   - veterinaria
-  - medicina veterinaria preventiva
+  - medicina-veterinaria-preventiva
   - epidemiologia
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -22,7 +22,7 @@ description: "Especialización en Investigación de la Salud con Énfasis en Per
 startDate: ""
 applicationDeadline: ""
 tags:
-  - salud publica
+  - salud-publica
   - perinatologia
   - obstetricia
   - investigacion

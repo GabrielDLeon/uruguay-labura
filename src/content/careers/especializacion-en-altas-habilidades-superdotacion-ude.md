@@ -22,9 +22,9 @@ applicationDeadline: ""
 description: "Especialización pionera en Uruguay que forma profesionales e investigadores capaces de identificar, valorar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), en los ámbitos educativos públicos y privados."
 tags:
   - educacion
-  - altas habilidades
-  - educacion inclusiva
-  - educacion especial
+  - altas-habilidades
+  - educacion-inclusiva
+  - educacion-especial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

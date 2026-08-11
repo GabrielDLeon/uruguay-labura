@@ -21,7 +21,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
-  - medicina de emergencia
+  - medicina-de-emergencia
   - urgencias
 draft: true
 createdAt: "2026-07-31 16:58:06"

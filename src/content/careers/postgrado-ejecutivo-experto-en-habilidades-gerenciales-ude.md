@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "El Postgrado Ejecutivo Experto en Habilidades Gerenciales prepara a directivos para liderar equipos, gestionar el cambio y desarrollar competencias como el coaching, la inteligencia emocional y la negociación."
 tags:
   - liderazgo
-  - habilidades gerenciales
-  - gestion del cambio
-  - inteligencia emocional
-  - gestion de personas
+  - habilidades-gerenciales
+  - gestion-del-cambio
+  - inteligencia-emocional
+  - gestion-de-personas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

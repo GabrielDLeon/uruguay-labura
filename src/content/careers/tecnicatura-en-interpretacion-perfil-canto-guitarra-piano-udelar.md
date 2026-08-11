@@ -24,7 +24,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - musica
-  - interpretacion musical
+  - interpretacion-musical
   - canto
 draft: true
 createdAt: "2026-07-31 16:58:06"

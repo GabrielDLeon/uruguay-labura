@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Inteligencia Artificial de ORT Uruguay. Forma profesionales especializados en inteligencia artificial, centrados en desarrollar sistemas autónomos para resolver problemas complejos."
 tags:
   - informatica
-  - inteligencia artificial
-  - machine learning
-  - sistemas autonomos
+  - inteligencia-artificial
+  - machine-learning
+  - sistemas-autonomos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

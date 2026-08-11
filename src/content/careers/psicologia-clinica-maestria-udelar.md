@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: "Formulario web de Facultad de Psicología."
 tags:
   - psicologia
-  - psicologia clinica
+  - psicologia-clinica
   - psicoterapia
   - investigacion
 draft: true

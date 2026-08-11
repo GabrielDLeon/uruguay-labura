@@ -25,8 +25,8 @@ accreditation: "UTEC"
 description: "Licenciatura gratuita en Ciencia y Tecnología de Lácteos de UTEC, única en Uruguay. Procesamiento e industrialización de leche y productos lácteos. Semipresencial en La Paz, Colonia. Título intermedio de Tecnólogo."
 tags:
   - alimentos
-  - ciencia y tecnologia de alimentos
-  - industria alimentaria
+  - ciencia-y-tecnologia-de-alimentos
+  - industria-alimentaria
   - lacteos
 draft: true
 createdAt: "2026-07-31 16:58:06"

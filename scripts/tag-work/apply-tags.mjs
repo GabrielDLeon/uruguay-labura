@@ -155,7 +155,7 @@ function canonicalTag(raw) {
   if (SYNONYMS[t]) t = SYNONYMS[t];
   t = norm(t);
   if (DROP_TAGS.has(t)) return null;
-  return t;
+  return t.replace(/\s+/g, "-"); // kebab-case output
 }
 
 const workFiles = readdirSync(WORK)

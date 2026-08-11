@@ -24,7 +24,7 @@ applicationDeadline: "Facultad de Medicina"
 tags:
   - medicina
   - cirugia
-  - cirugia pediatrica
+  - cirugia-pediatrica
   - pediatria
 draft: true
 createdAt: "2026-07-31 16:58:06"

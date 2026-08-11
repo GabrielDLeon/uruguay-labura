@@ -29,8 +29,8 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - comunicacion
-  - contenidos digitales
-  - industrias creativas
+  - contenidos-digitales
+  - industrias-creativas
   - videojuegos
   - audiovisual
   - animacion

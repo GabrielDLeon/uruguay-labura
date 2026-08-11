@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "Diploma Profesional en Innovación Pedagógica en Enseñanza Bilingüe e Internacional (DIPIEBI) de la Universidad de Montevideo. Título propio de formación profesional y aplicada para docentes de inglés, organizado en tres niveles con certificaciones intermedias."
 tags:
   - educacion
-  - innovacion pedagogica
-  - educacion bilingue
-  - lengua inglesa
-  - formacion docente
+  - innovacion-pedagogica
+  - educacion-bilingue
+  - lengua-inglesa
+  - formacion-docente
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -22,10 +22,10 @@ description: "Especialización en Salud Pública, dictada por la Facultad de Med
 startDate: ""
 applicationDeadline: ""
 tags:
-  - salud publica
+  - salud-publica
   - epidemiologia
-  - gestion sanitaria
-  - politicas de salud
+  - gestion-sanitaria
+  - politicas-de-salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -23,9 +23,9 @@ applicationDeadline: "31 de agosto de 2026"
 description: "Especialización en Fabricación Digital e Innovación de UTEC, en colaboración con Fab Lab Barcelona (IAAC) y Fab Lab ESAN de la Universidad ESAN de Perú. Formación híbrida para liderar procesos de innovación con tecnologías de fabricación digital."
 tags:
   - innovacion
-  - fabricacion digital
+  - fabricacion-digital
   - manufactura
-  - impresion 3d
+  - impresion-3d
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

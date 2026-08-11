@@ -21,11 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/of
 location: "Montevideo"
 description: "Licenciatura en Ciencia de Datos para Negocios de la Universidad de Montevideo, dictada por FCEE y Facultad de Ingeniería. Forma profesionales para analizar grandes volúmenes de datos con base matemática, estadística, tecnológica y gerencial."
 tags:
-  - ciencia de datos
-  - big data
+  - ciencia-de-datos
+  - big-data
   - negocios
   - estadistica
-  - analitica de negocios
+  - analitica-de-negocios
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

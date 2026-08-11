@@ -24,7 +24,7 @@ applicationDeadline: "www.odon.edu.uy"
 tags:
   - odontologia
   - ortodoncia
-  - ortopedia dento maxilo facial
+  - ortopedia-dento-maxilo-facial
   - medicina
 draft: true
 createdAt: "2026-07-31 16:58:06"

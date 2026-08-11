@@ -25,7 +25,7 @@ applicationDeadline: ""
 credits: 360
 tags:
   - geologia
-  - ciencias de la tierra
+  - ciencias-de-la-tierra
   - mineralogia
   - hidrogeologia
 draft: true

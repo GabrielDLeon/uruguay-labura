@@ -22,8 +22,8 @@ location: "Montevideo"
 description: "Diplomado virtual de la UDE que forma especialistas en Resonancia Magnética (MRI), desarrollando la capacidad del Licenciado en Imagenología para aplicar las técnicas, protocolos y procesamiento de la imagen por resonancia."
 tags:
   - imagenologia
-  - resonancia magnetica
-  - diagnostico por imagenes
+  - resonancia-magnetica
+  - diagnostico-por-imagenes
   - salud
 draft: true
 createdAt: "2026-08-09 15:12:26"

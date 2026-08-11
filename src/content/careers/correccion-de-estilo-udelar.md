@@ -25,7 +25,7 @@ applicationDeadline: ""
 credits: 180
 tags:
   - letras
-  - correccion de estilo
+  - correccion-de-estilo
   - redaccion
   - edicion
 draft: true

@@ -22,9 +22,9 @@ location: "Campus Virtual"
 description: "Maestría en Ciberseguridad y Gestión de Riesgos Tecnológicos del Centro de Postgrados de Ingeniería de la Universidad de Montevideo. Formación virtual sincrónica de dos años para prevenir, detectar y mitigar riesgos cibernéticos y liderar la innovación tecnológica."
 tags:
   - ciberseguridad
-  - gestion de riesgos
-  - seguridad de la informacion
-  - seguridad informatica
+  - gestion-de-riesgos
+  - seguridad-de-la-informacion
+  - seguridad-informatica
   - informatica
 draft: true
 createdAt: "2026-08-10 16:53:42"

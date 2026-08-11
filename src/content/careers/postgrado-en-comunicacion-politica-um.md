@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "Postgrado en Comunicación Política de la Universidad de Montevideo. Forma profesionales capaces de analizar, diseñar y gestionar estrategias de comunicación que incidan en la agenda pública; modalidad semipresencial en un año lectivo."
 tags:
   - comunicacion
-  - comunicacion politica
-  - opinion publica
+  - comunicacion-politica
+  - opinion-publica
   - gobierno
-  - ciencia politica
+  - ciencia-politica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

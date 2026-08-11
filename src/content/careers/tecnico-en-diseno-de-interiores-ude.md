@@ -23,8 +23,8 @@ description: "Técnico en Diseño de Interiores de la UDE. Formación técnica d
 tags:
   - diseno
   - interiorismo
-  - diseno de interiores
-  - diseno de espacios
+  - diseno-de-interiores
+  - diseno-de-espacios
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Técnico en Diseño de Sonido de ORT Uruguay. El profesional que diseña y crea todos los elementos que componen la banda sonora en un producto audiovisual o un videojuego."
 tags:
   - audiovisual
-  - diseno de sonido
+  - diseno-de-sonido
   - videojuegos
   - musica
 draft: true

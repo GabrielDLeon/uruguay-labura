@@ -23,9 +23,9 @@ description: "Profesorado de Matemática de la Universidad de Montevideo. Forma 
 tags:
   - educacion
   - matematica
-  - formacion docente
+  - formacion-docente
   - profesorado
-  - matematica educativa
+  - matematica-educativa
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

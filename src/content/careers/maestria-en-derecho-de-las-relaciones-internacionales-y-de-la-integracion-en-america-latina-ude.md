@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "Maestría en Derecho de las Relaciones Internacionales y de la Integración en América Latina de la Universidad de la Empresa (UDE). Forma magísteres con sólida reflexión teórica y capacidad de investigación sobre la integración regional latinoamericana."
 tags:
   - derecho
-  - derecho internacional
-  - relaciones internacionales
-  - integracion regional
+  - derecho-internacional
+  - relaciones-internacionales
+  - integracion-regional
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

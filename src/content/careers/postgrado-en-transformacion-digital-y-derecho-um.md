@@ -23,10 +23,10 @@ location: "Montevideo"
 description: "Postgrado en Transformación Digital y Derecho de la Universidad de Montevideo. Formación sobre el impacto de las nuevas tecnologías y las plataformas digitales en el ejercicio del derecho."
 tags:
   - derecho
-  - derecho y tecnologia
+  - derecho-y-tecnologia
   - legaltech
-  - transformacion digital
-  - derecho digital
+  - transformacion-digital
+  - derecho-digital
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -25,10 +25,10 @@ applicationDeadline: ""
 credits: 360
 tags:
   - fisica
-  - fisica medica
-  - medicina nuclear
+  - fisica-medica
+  - medicina-nuclear
   - radiologia
-  - tecnologia medica
+  - tecnologia-medica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

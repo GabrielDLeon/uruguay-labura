@@ -22,8 +22,8 @@ location: "Montevideo y Salto"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Tecnicatura en Acompañamiento Terapéutico de la UCU. Forma profesionales capaces de intervenir con personas que requieren atención en salud mental, educación o ámbito social, integrando equipos interdisciplinarios."
 tags:
-  - salud mental
-  - acompanamiento terapeutico
+  - salud-mental
+  - acompanamiento-terapeutico
   - salud
   - cuidados
 draft: true

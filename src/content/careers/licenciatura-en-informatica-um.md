@@ -24,7 +24,7 @@ tags:
   - informatica
   - programacion
   - software
-  - sistemas de informacion
+  - sistemas-de-informacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

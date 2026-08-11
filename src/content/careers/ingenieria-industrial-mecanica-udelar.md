@@ -24,11 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
-  - ingenieria industrial
-  - ingenieria mecanica
+  - ingenieria-industrial
+  - ingenieria-mecanica
   - ingenieria
-  - procesos industriales
-  - programa roberto rocca
+  - procesos-industriales
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

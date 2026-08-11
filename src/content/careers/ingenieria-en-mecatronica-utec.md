@@ -25,10 +25,10 @@ accreditation: "UTEC"
 description: "Ingeniería gratuita en Mecatrónica de UTEC, semipresencial en Fray Bentos. Combina ingeniería mecánica, electrónica e informática para automatizar equipos, procesos y productos. Título intermedio de Tecnólogo en Mecatrónica."
 tags:
   - mecatronica
-  - ingenieria mecanica
+  - ingenieria-mecanica
   - electronica
   - automatizacion
-  - automatizacion industrial
+  - automatizacion-industrial
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

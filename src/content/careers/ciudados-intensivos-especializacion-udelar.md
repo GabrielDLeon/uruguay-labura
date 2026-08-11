@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
   - enfermeria
-  - cuidados intensivos
-  - medicina intensiva
+  - cuidados-intensivos
+  - medicina-intensiva
   - cuidados
 draft: true
 createdAt: "2026-07-31 16:58:06"

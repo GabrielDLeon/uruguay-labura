@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Finanzas de la UCU. Forma en finanzas corporativas, inversión de patrimonios y gestión de riesgos, con tecnología aplicada a los procesos financieros y acreditaciones internacionales."
 tags:
   - finanzas
-  - finanzas corporativas
+  - finanzas-corporativas
   - inversiones
-  - gestion de riesgos
-  - mercado de capitales
+  - gestion-de-riesgos
+  - mercado-de-capitales
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

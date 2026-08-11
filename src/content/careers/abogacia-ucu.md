@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Abogacía de la Universidad Católica del Uruguay. Forma profesionales capaces de asesorar, prevenir conflictos, mediar, resolver casos, litigar e investigar, con clínicas jurídicas y cursos de derecho y tecnología."
 tags:
   - derecho
-  - ciencias juridicas
+  - ciencias-juridicas
   - litigacion
   - mediacion
-  - derecho y tecnologia
+  - derecho-y-tecnologia
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

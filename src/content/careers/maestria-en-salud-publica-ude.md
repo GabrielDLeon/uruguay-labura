@@ -22,9 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Salud Pública de la UDE, de naturaleza internacional, orientada al análisis crítico, el entendimiento y la generación de conocimiento original sobre los procesos de salud poblacional."
 tags:
-  - salud publica
+  - salud-publica
   - epidemiologia
-  - politicas de salud
+  - politicas-de-salud
   - salud
 draft: true
 createdAt: "2026-08-09 15:12:26"

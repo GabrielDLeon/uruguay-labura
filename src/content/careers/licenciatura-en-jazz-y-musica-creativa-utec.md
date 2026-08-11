@@ -25,9 +25,9 @@ accreditation: "UTEC"
 description: "Licenciatura gratuita en Jazz y Música Creativa de UTEC, semipresencial en Mercedes. Formación en improvisación, composición, arreglos y producción musical. Título intermedio de Tecnólogo en Jazz y Música Creativa."
 tags:
   - musica
-  - interpretacion musical
+  - interpretacion-musical
   - composicion
-  - produccion musical
+  - produccion-musical
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

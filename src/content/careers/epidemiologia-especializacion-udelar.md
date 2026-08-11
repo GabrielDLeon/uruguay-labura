@@ -22,7 +22,7 @@ description: "Especialización en Epidemiologia, dictada por la Facultad de Medi
 startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
-  - salud publica
+  - salud-publica
   - epidemiologia
   - bioestadistica
 draft: true

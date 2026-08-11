@@ -22,9 +22,9 @@ description: "OBJETIVO La especialización en Ciencias Ambientales es un posgrad
 startDate: ""
 applicationDeadline: ""
 tags:
-  - medio ambiente
-  - ciencias ambientales
-  - gestion ambiental
+  - medio-ambiente
+  - ciencias-ambientales
+  - gestion-ambiental
   - ecologia
 draft: true
 createdAt: "2026-07-31 16:58:06"

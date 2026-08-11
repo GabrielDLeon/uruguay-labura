@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: "Página web Facultad de Psicología"
 tags:
   - psicologia
-  - psicologia del deporte
+  - psicologia-del-deporte
   - deporte
-  - actividad fisica
+  - actividad-fisica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -26,7 +26,7 @@ credits: 360
 tags:
   - arte
   - danza
-  - artes escenicas
+  - artes-escenicas
   - coreografia
 draft: true
 createdAt: "2026-07-31 16:58:06"

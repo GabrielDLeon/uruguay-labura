@@ -22,11 +22,11 @@ description: "OBJETIVOS La presente propuesta destaca la idea de crear capacidad
 startDate: ""
 applicationDeadline: ""
 tags:
-  - gestion publica
-  - administracion publica
-  - politicas publicas
+  - gestion-publica
+  - administracion-publica
+  - politicas-publicas
   - gobierno
-  - sector publico
+  - sector-publico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

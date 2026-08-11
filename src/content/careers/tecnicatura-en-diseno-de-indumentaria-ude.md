@@ -22,7 +22,7 @@ location: "Montevideo, Colonia, Punta del Este, Ciudad de la Costa"
 description: "Tecnicatura en Diseño de Indumentaria de la UDE. Formación creativa de 2 años con rápida inserción laboral y posibilidad de continuar la Licenciatura mediante convalidación de asignaturas."
 tags:
   - diseno
-  - diseno de moda
+  - diseno-de-moda
   - indumentaria
   - moda
 draft: true

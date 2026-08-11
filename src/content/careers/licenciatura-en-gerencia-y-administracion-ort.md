@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Los graduados pueden desempeñarse en la dirección y administración de empresas, el análisis de datos, crear su propio emprendimiento o ser consultores."
 tags:
   - administracion
-  - administracion de empresas
-  - direccion de empresas
-  - ciencia de datos
+  - administracion-de-empresas
+  - direccion-de-empresas
+  - ciencia-de-datos
   - consultoria
   - emprendimiento
 draft: true

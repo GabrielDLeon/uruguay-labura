@@ -24,8 +24,8 @@ description: "Diseño y Producción de Videojuegos de ORT Uruguay. La carrera fo
 tags:
   - diseno
   - videojuegos
-  - diseno de juegos
-  - desarrollo de videojuegos
+  - diseno-de-juegos
+  - desarrollo-de-videojuegos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Psicología de la UCU. Forma profesionales capaces de evaluar e intervenir en diversas áreas de la Psicología para promover la salud mental y el bienestar de las personas en su expresión individual, interpersonal y social."
 tags:
   - psicologia
-  - salud mental
-  - psicologia clinica
+  - salud-mental
+  - psicologia-clinica
   - salud
 draft: true
 createdAt: "2026-08-07 19:13:13"

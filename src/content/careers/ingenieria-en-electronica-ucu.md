@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería en Electrónica de la UCU. Forma profesionales capaces de crear dispositivos electrónicos con impacto en la vida cotidiana y participar en todo su ciclo de desarrollo, desde el diseño hasta la implementación."
 tags:
-  - ingenieria electronica
+  - ingenieria-electronica
   - electronica
   - ingenieria
-  - dispositivos electronicos
+  - dispositivos-electronicos
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

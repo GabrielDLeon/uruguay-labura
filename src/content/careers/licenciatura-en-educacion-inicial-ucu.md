@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Educación Inicial de la UCU. Forma profesionales capaces de planificar y gestionar acciones educativas para proteger, acompañar y promover el aprendizaje de niños y niñas en su etapa inicial."
 tags:
   - educacion
-  - primera infancia
+  - primera-infancia
   - pedagogia
 draft: true
 createdAt: "2026-08-07 19:13:13"

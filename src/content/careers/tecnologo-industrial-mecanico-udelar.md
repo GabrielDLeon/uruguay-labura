@@ -24,10 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 270
 tags:
-  - ingenieria mecanica
-  - ingenieria industrial
-  - mantenimiento industrial
-  - procesos industriales
+  - ingenieria-mecanica
+  - ingenieria-industrial
+  - mantenimiento-industrial
+  - procesos-industriales
   - energia
 draft: true
 createdAt: "2026-07-31 16:58:06"

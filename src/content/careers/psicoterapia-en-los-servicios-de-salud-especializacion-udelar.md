@@ -24,7 +24,7 @@ applicationDeadline: ""
 tags:
   - psicologia
   - psicoterapia
-  - salud publica
+  - salud-publica
   - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"

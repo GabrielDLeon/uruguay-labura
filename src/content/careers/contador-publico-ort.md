@@ -22,11 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Contador Público de ORT Uruguay. La carrera de Contador Público integra la analítica de negocios, Big Data y el Data Science con las áreas centrales de la profesión."
 tags:
-  - programa roberto rocca
+  - programa-roberto-rocca
   - contabilidad
-  - ciencia de datos
-  - analitica de negocios
-  - big data
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - big-data
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

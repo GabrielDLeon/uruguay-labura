@@ -22,10 +22,10 @@ description: "El Diploma de Especialización en Sistemas de Información y tecno
 startDate: ""
 applicationDeadline: ""
 tags:
-  - sistemas de informacion
+  - sistemas-de-informacion
   - informatica
-  - ciencia de datos
-  - gestion de datos
+  - ciencia-de-datos
+  - gestion-de-datos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

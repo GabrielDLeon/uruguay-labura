@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "Licenciatura en Finanzas de la Universidad de Montevideo, con foco en la transformación digital de las finanzas corporativas, la industria de servicios financieros, la consultoría y el sector público."
 tags:
   - finanzas
-  - finanzas corporativas
+  - finanzas-corporativas
   - banca
   - fintech
-  - transformacion digital
+  - transformacion-digital
   - inversiones
 draft: true
 createdAt: "2026-08-10 16:53:42"

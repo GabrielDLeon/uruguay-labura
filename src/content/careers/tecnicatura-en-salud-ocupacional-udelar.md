@@ -23,11 +23,11 @@ description: "Es un tecnólogo universitario capacitado para el reconocimiento d
 startDate: ""
 applicationDeadline: ""
 tags:
-  - salud ocupacional
-  - salud publica
-  - medicina del trabajo
-  - riesgos laborales
-  - seguridad industrial
+  - salud-ocupacional
+  - salud-publica
+  - medicina-del-trabajo
+  - riesgos-laborales
+  - seguridad-industrial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

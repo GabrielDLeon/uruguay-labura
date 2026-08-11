@@ -20,10 +20,10 @@ website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-ge
 location: "Montevideo"
 description: "Maestría en Gestión Ambiental de la Universidad de la Empresa, con un enfoque aplicado a la gestión, la toma de decisiones y la solución de problemas ambientales concretos, con perfiles académico y profesional."
 tags:
-  - medio ambiente
-  - gestion ambiental
+  - medio-ambiente
+  - gestion-ambiental
   - sostenibilidad
-  - toma de decisiones
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

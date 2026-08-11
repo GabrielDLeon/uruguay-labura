@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Liderazgo y Gestión Educativa de la UCU. Forma líderes capaces de diseñar estrategias para fortalecer la enseñanza y la gestión en centros educativos, programas y proyectos, en el ámbito público y privado."
 tags:
   - educacion
-  - liderazgo educativo
-  - gestion educativa
-  - planificacion estrategica
+  - liderazgo-educativo
+  - gestion-educativa
+  - planificacion-estrategica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

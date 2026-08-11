@@ -23,10 +23,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
-  - derecho penal
-  - ninos y adolescentes
-  - justicia juvenil
-  - ciencias sociales
+  - derecho-penal
+  - ninos-y-adolescentes
+  - justicia-juvenil
+  - ciencias-sociales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

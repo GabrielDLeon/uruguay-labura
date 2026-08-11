@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño Industrial de ORT Uruguay. Los graduados de Diseño Industrial responden en forma innovadora a las necesidades de nuevos productos en empresas, instituciones y organizaciones."
 tags:
   - diseno
-  - diseno industrial
-  - diseno de productos
+  - diseno-industrial
+  - diseno-de-productos
   - innovacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

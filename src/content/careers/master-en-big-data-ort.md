@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Big Data de ORT Uruguay. El Master proporciona los conocimientos teóricos y la experiencia práctica en el manejo de la tecnología de big data, con el objetivo de formar profesionales"
 tags:
-  - ciencia de datos
-  - big data
+  - ciencia-de-datos
+  - big-data
   - informatica
-  - gestion de datos
+  - gestion-de-datos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

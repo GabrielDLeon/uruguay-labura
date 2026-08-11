@@ -24,8 +24,8 @@ tags:
   - traduccion
   - interpretacion
   - idiomas
-  - lengua inglesa
-  - lengua espanola
+  - lengua-inglesa
+  - lengua-espanola
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

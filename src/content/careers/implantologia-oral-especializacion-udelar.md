@@ -24,8 +24,8 @@ applicationDeadline: "www.odon.edu.uy"
 tags:
   - odontologia
   - implantologia
-  - rehabilitacion oral
-  - cirugia maxilofacial
+  - rehabilitacion-oral
+  - cirugia-maxilofacial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

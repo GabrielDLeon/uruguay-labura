@@ -22,11 +22,11 @@ location: "Campus Virtual"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Ciencia de Datos de la Universidad de Montevideo (UMPE), 100% online. Forma en estadística, programación para ciencia de datos, machine learning, big data, deep learning e IA generativa para liderar proyectos de analítica."
 tags:
-  - ciencia de datos
-  - machine learning
-  - big data
+  - ciencia-de-datos
+  - machine-learning
+  - big-data
   - estadistica
-  - inteligencia artificial
+  - inteligencia-artificial
   - programacion
 draft: true
 createdAt: "2026-08-10 16:53:42"

@@ -25,7 +25,7 @@ tags:
   - nutricion
   - salud
   - alimentacion
-  - nutricion clinica
+  - nutricion-clinica
   - alimentos
 draft: true
 createdAt: "2026-08-07 19:13:13"

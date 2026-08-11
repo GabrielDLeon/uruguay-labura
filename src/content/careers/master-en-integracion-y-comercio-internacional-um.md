@@ -22,12 +22,12 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/mast
 location: "Montevideo"
 description: "Máster en Integración y Comercio Internacional de la Universidad de Montevideo. Forma profesionales en estrategia, consultoría y diseño de políticas comerciales, con foco en los procesos de integración regional."
 tags:
-  - comercio internacional
-  - comercio exterior
-  - integracion regional
+  - comercio-internacional
+  - comercio-exterior
+  - integracion-regional
   - derecho
-  - negocios internacionales
-  - politica comercial
+  - negocios-internacionales
+  - politica-comercial
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

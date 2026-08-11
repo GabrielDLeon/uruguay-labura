@@ -21,8 +21,8 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Atención Temprana de la UCU. Forma para detectar, prevenir e intervenir en situaciones de riesgo para el desarrollo de niños y niñas de 0 a 6 años, desde el neurodesarrollo, el sistema familiar y el trabajo interdisciplinario."
 tags:
-  - atencion temprana
-  - primera infancia
+  - atencion-temprana
+  - primera-infancia
   - neurodesarrollo
   - salud
   - familia

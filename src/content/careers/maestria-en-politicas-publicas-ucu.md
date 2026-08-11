@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Políticas Públicas de la UCU. Forma para pensar soluciones creativas e innovadoras a problemas públicos y lograr alianzas no tradicionales entre gobierno, sociedad civil y el mundo empresarial."
 tags:
-  - politicas publicas
+  - politicas-publicas
   - gobierno
-  - gestion publica
-  - administracion publica
+  - gestion-publica
+  - administracion-publica
   - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"

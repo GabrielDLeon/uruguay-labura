@@ -23,11 +23,11 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Apps, webs, animaciones, motion graphics, efectos especiales, instalaciones, videomaping, internet de las cosas (IoT), realidad aumentada, realidad virtual."
 tags:
   - diseno
-  - diseno digital
+  - diseno-digital
   - multimedia
   - animacion
-  - realidad aumentada
-  - realidad virtual
+  - realidad-aumentada
+  - realidad-virtual
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

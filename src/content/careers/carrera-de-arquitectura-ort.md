@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera de Arquitectura de ORT Uruguay. Estudiar la carrera de Arquitectura en la Universidad ORT Uruguay te aporta una verdadera formación integral, garantizando una inserción laboral exitosa."
 tags:
   - arquitectura
-  - diseno arquitectonico
+  - diseno-arquitectonico
   - construccion
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
-  - derecho procesal
+  - derecho-procesal
   - litigacion
   - justicia
 draft: true

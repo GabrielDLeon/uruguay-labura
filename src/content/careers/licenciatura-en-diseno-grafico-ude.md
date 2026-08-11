@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño Gráfico de la UDE. Forma profesionales del diseño y la comunicación visual con juicio crítico, bases culturales sólidas, espíritu creativo y responsabilidad social."
 tags:
   - diseno
-  - diseno grafico
-  - comunicacion visual
+  - diseno-grafico
+  - comunicacion-visual
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

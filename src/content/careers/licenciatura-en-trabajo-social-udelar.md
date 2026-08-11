@@ -23,9 +23,9 @@ description: "El Trabajo Social construye su espacio profesional a partir de una
 startDate: ""
 applicationDeadline: ""
 tags:
-  - trabajo social
-  - ciencias sociales
-  - intervencion social
+  - trabajo-social
+  - ciencias-sociales
+  - intervencion-social
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

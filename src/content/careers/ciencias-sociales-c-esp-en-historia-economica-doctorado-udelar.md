@@ -22,9 +22,9 @@ description: "El Programa de Doctorado es un programa estratégico de la Faculta
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - historia
-  - historia economica
+  - historia-economica
   - economia
 draft: true
 createdAt: "2026-07-31 16:58:06"

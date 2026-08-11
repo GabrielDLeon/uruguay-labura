@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Gestión Humana y Relaciones Laborales de la UCU. Forma en gestión de la cultura organizacional, atracción y desarrollo del talento y relaciones laborales, con fuerte articulación entre academia y empresas."
 tags:
-  - recursos humanos
-  - gestion de personas
-  - relaciones laborales
-  - cultura organizacional
+  - recursos-humanos
+  - gestion-de-personas
+  - relaciones-laborales
+  - cultura-organizacional
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

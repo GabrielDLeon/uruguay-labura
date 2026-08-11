@@ -23,10 +23,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
-  - derecho administrativo
-  - gestion publica
-  - administracion publica
-  - funcion publica
+  - derecho-administrativo
+  - gestion-publica
+  - administracion-publica
+  - funcion-publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

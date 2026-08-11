@@ -24,10 +24,10 @@ applicationDeadline: ""
 description: "Maestría stricto sensu de la UDE que forma profesionales e investigadores con conocimientos sólidos sobre Altas Habilidades/Superdotación (AH/SD), capaces de identificar, atender e investigar a esta población en el país y la región."
 tags:
   - educacion
-  - altas habilidades
-  - educacion inclusiva
-  - educacion especial
-  - investigacion educativa
+  - altas-habilidades
+  - educacion-inclusiva
+  - educacion-especial
+  - investigacion-educativa
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

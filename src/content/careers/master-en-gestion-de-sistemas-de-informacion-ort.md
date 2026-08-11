@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Master forma profesionales especializados en liderar procesos de transformación organizacional a través de la incorporación de la tecnología."
 tags:
   - informatica
-  - sistemas de informacion
-  - transformacion digital
-  - gestion del cambio
+  - sistemas-de-informacion
+  - transformacion-digital
+  - gestion-del-cambio
   - administracion
 draft: true
 createdAt: "2026-07-31 16:58:06"

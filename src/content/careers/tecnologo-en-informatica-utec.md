@@ -28,8 +28,8 @@ tags:
   - informatica
   - software
   - programacion
-  - administracion de sistemas
-  - soporte tecnico
+  - administracion-de-sistemas
+  - soporte-tecnico
 ---
 
 ## Resumen

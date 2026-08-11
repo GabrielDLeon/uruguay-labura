@@ -22,7 +22,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - geologia
-  - ciencias de la tierra
+  - ciencias-de-la-tierra
   - geofisica
   - geoquimica
 draft: true

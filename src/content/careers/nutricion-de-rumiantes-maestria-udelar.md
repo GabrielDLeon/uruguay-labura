@@ -22,8 +22,8 @@ description: "Normal 0 21 false false false MicrosoftInternetExplorer4 DISPOSICI
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrados"
 tags:
-  - nutricion animal
-  - produccion animal
+  - nutricion-animal
+  - produccion-animal
   - veterinaria
   - ganaderia
 draft: true

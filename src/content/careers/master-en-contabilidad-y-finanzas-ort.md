@@ -24,8 +24,8 @@ description: "Master en Contabilidad y Finanzas de ORT Uruguay. El Master en Con
 tags:
   - contabilidad
   - finanzas
-  - finanzas corporativas
-  - mercado de capitales
+  - finanzas-corporativas
+  - mercado-de-capitales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

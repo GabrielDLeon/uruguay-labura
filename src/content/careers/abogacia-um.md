@@ -22,8 +22,8 @@ location: "Montevideo"
 description: "Abogacía de la Universidad de Montevideo. Combina asignaturas jurídicas tradicionales con materias prácticas y de actualidad, con programa de Derecho Anglosajón, pasantías y asesoría académica, en un plan de 5 años."
 tags:
   - derecho
-  - ciencias juridicas
-  - derecho anglosajon
+  - ciencias-juridicas
+  - derecho-anglosajon
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

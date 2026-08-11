@@ -25,7 +25,7 @@ tags:
   - contabilidad
   - finanzas
   - auditoria
-  - gestion contable
+  - gestion-contable
   - negocios
 draft: true
 createdAt: "2026-08-07 19:13:13"

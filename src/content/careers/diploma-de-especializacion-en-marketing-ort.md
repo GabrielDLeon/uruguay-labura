@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Postgrado en marketing diseñado para quienes desean desarrollar su carrera en roles de gestión de marketing en un contexto hiperconectado y digitalizado."
 tags:
   - marketing
-  - marketing digital
-  - estrategia comercial
-  - gestion comercial
+  - marketing-digital
+  - estrategia-comercial
+  - gestion-comercial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

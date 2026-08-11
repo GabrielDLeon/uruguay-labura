@@ -26,8 +26,8 @@ description: "Licenciatura gratuita en Análisis Alimentario de UTEC, semipresen
 tags:
   - alimentos
   - quimica
-  - calidad alimentaria
-  - inocuidad alimentaria
+  - calidad-alimentaria
+  - inocuidad-alimentaria
   - bromatologia
 draft: true
 createdAt: "2026-07-31 16:58:06"

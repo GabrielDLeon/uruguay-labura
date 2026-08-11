@@ -24,10 +24,10 @@ startDate: ""
 applicationDeadline: ""
 description: "Licenciatura de la UDE que forma profesionales universitarios con conocimientos pedagógicos y técnicos para la promoción de la actividad física, el deporte y las acciones recreativas, desde una perspectiva que atiende a personas y grupos sociales diversos."
 tags:
-  - educacion fisica
+  - educacion-fisica
   - deporte
   - recreacion
-  - actividad fisica
+  - actividad-fisica
   - educacion
 draft: true
 createdAt: "2026-08-09 15:12:26"

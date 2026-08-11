@@ -21,7 +21,7 @@ credits: 180
 tags:
   - cartografia
   - topografia
-  - sistemas de informacion geografica
+  - sistemas-de-informacion-geografica
   - sig
 draft: true
 createdAt: "2026-07-31 16:58:06"

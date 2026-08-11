@@ -16,9 +16,9 @@ description: "La Licenciatura en Ciencias Sociales que se dicta en el Centro Uni
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - sociologia
-  - ciencia politica
+  - ciencia-politica
   - antropologia
 similar:
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar

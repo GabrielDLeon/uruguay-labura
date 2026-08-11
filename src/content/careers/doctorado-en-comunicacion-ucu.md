@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Doctorado en Comunicación de la UCU. Forma investigadores capaces de llevar adelante investigaciones individuales o colectivas que aporten conocimientos actualizados, originales e innovadores en el campo de la comunicación."
 tags:
   - comunicacion
-  - ciencias sociales
+  - ciencias-sociales
   - investigacion
 draft: true
 createdAt: "2026-08-07 19:13:13"

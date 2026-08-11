@@ -18,7 +18,7 @@ applicationDeadline: ""
 credits: 360
 tags:
   - biologia
-  - biologia molecular
+  - biologia-molecular
   - biomedicina
   - salud
   - genetica

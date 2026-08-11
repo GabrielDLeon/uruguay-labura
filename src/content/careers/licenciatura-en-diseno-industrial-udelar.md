@@ -24,9 +24,9 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - diseno industrial
+  - diseno-industrial
   - diseno
-  - diseno de productos
+  - diseno-de-productos
   - manufactura
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -25,8 +25,8 @@ applicationDeadline: ""
 credits: 230
 tags:
   - quimica
-  - quimica analitica
-  - quimica organica
+  - quimica-analitica
+  - quimica-organica
   - fisicoquimica
 draft: true
 createdAt: "2026-07-31 16:58:06"

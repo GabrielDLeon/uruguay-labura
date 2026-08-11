@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Gestión y Salud Pública de la UCU. Forma para diseñar, ejecutar y evaluar planes que impulsen mejoras en los distintos ámbitos de la salud a nivel local y regional."
 tags:
-  - salud publica
+  - salud-publica
   - gestion
-  - gestion sanitaria
-  - politicas de salud
+  - gestion-sanitaria
+  - politicas-de-salud
   - liderazgo
 draft: true
 createdAt: "2026-08-07 19:13:13"

@@ -25,9 +25,9 @@ applicationDeadline: ""
 credits: 262
 tags:
   - carnes
-  - industria alimentaria
-  - tecnologia de alimentos
-  - procesos industriales
+  - industria-alimentaria
+  - tecnologia-de-alimentos
+  - procesos-industriales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

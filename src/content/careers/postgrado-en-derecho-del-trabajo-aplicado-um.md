@@ -23,10 +23,10 @@ location: "Montevideo"
 description: "Postgrado en Derecho del Trabajo Aplicado de la Universidad de Montevideo. Actualización en derecho laboral y sindical con enfoque práctico, para abogados, magistrados y profesionales de la gestión humana."
 tags:
   - derecho
-  - derecho laboral
+  - derecho-laboral
   - sindicatos
-  - relaciones laborales
-  - recursos humanos
+  - relaciones-laborales
+  - recursos-humanos
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

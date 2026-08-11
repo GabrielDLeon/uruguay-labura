@@ -23,10 +23,10 @@ location: "Montevideo"
 description: "Máster en Derecho Administrativo Económico de la Universidad de Montevideo. Forma profesionales para asesorar a empresas en sus relaciones con la Administración Pública y para desempeñarse en la función pública."
 tags:
   - derecho
-  - derecho administrativo
-  - derecho economico
-  - administracion publica
-  - funcion publica
+  - derecho-administrativo
+  - derecho-economico
+  - administracion-publica
+  - funcion-publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

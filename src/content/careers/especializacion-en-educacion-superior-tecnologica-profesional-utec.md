@@ -24,9 +24,9 @@ location: "Rivera, Santana do Livramento y Santa Maria (Brasil)"
 description: "Especialización en Educación Superior Tecnológica Profesional, posgrado internacional y cooperativo entre la UFSM (Brasil), IFSUL (Brasil) y UTEC (Uruguay). Formación semipresencial en pedagogía de la educación tecnológica y profesional con enfoque binacional."
 tags:
   - educacion
-  - educacion superior
-  - educacion tecnologica
-  - educacion profesional
+  - educacion-superior
+  - educacion-tecnologica
+  - educacion-profesional
   - pedagogia
 draft: true
 createdAt: "2026-07-31 16:58:06"

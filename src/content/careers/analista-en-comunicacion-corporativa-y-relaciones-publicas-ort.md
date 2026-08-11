@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Capacitate para definir, ejecutar y evaluar estrategias de comunicación corporativa y relaciones públicas en diferentes empresas y organizaciones."
 tags:
   - comunicacion
-  - comunicacion organizacional
-  - comunicacion corporativa
-  - relaciones publicas
+  - comunicacion-organizacional
+  - comunicacion-corporativa
+  - relaciones-publicas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

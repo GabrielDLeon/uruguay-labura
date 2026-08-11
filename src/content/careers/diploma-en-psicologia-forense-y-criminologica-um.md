@@ -22,7 +22,7 @@ location: "Montevideo"
 description: "Diploma en Psicología Forense y Criminológica de la Universidad de Montevideo. Formación en la intersección entre psicología, derecho y criminología: peritajes, psicología del testimonio, perfilamiento criminal y autopsia psicológica."
 tags:
   - psicologia
-  - psicologia forense
+  - psicologia-forense
   - criminologia
   - peritaje
   - derecho

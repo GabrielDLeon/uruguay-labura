@@ -24,9 +24,9 @@ description: "Ingeniería en Alimentos de la UCU. Forma profesionales capaces de
 tags:
   - ingenieria
   - alimentos
-  - industria alimentaria
-  - ciencia y tecnologia de alimentos
-  - calidad alimentaria
+  - industria-alimentaria
+  - ciencia-y-tecnologia-de-alimentos
+  - calidad-alimentaria
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

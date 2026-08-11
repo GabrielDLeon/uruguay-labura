@@ -22,10 +22,10 @@ description: "El objetivo de este plan de estudios es la formación de Especiali
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - seguridad informatica
+  - seguridad-informatica
   - ciberseguridad
   - informatica
-  - seguridad de la informacion
+  - seguridad-de-la-informacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

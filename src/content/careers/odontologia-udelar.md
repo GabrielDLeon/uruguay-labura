@@ -25,7 +25,7 @@ applicationDeadline: ""
 credits: 495
 tags:
   - odontologia
-  - salud bucal
+  - salud-bucal
   - salud
   - clinica
 draft: true

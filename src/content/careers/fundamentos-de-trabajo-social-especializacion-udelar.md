@@ -22,9 +22,9 @@ description: "se incorpora la creación de un Diploma de especialización enFund
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
-  - trabajo social
-  - intervencion social
+  - ciencias-sociales
+  - trabajo-social
+  - intervencion-social
   - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

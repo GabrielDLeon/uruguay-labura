@@ -23,8 +23,8 @@ location: "Montevideo"
 description: "Postgrado en Derecho de Familia de la Universidad de Montevideo. Formación virtual e interdisciplinaria sobre la dinámica del derecho de familia para abogados, escribanos y operadores jurídicos."
 tags:
   - derecho
-  - derecho de familia
-  - derecho civil
+  - derecho-de-familia
+  - derecho-civil
   - familia
 draft: true
 createdAt: "2026-08-10 16:53:42"

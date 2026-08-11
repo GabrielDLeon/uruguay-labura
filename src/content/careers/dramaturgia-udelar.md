@@ -25,7 +25,7 @@ applicationDeadline: ""
 credits: 180
 tags:
   - arte
-  - artes escenicas
+  - artes-escenicas
   - teatro
   - dramaturgia
   - literatura

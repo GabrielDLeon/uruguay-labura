@@ -24,7 +24,7 @@ description: "Licenciatura en Biotecnología de ORT Uruguay. La Licenciatura en 
 tags:
   - biotecnologia
   - biologia
-  - procesos industriales
+  - procesos-industriales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

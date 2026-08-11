@@ -28,7 +28,7 @@ description: "Ingeniería gratuita en Logística de UTEC, presencial en turno no
 tags:
   - ingenieria
   - logistica
-  - cadena de suministros
+  - cadena-de-suministros
   - transporte
 draft: true
 createdAt: "2026-07-31 16:58:06"

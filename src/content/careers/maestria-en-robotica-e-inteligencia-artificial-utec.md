@@ -24,7 +24,7 @@ accreditation: "UTEC"
 description: "Maestría en Robótica e Inteligencia Artificial de UTEC, continuidad de la Especialización en Robótica e IA impartida junto a FURG (Brasil) y UNRaf (Argentina). Formación semipresencial con tres áreas de énfasis: Robótica, Inteligencia Artificial e Impacto Social de la Tecnología."
 tags:
   - informatica
-  - inteligencia artificial
+  - inteligencia-artificial
   - robotica
 draft: true
 createdAt: "2026-07-31 16:58:06"

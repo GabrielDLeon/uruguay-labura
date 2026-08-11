@@ -23,7 +23,7 @@ description: "Carrera técnica del Campus Virtual orientada a formar técnicos c
 tags:
   - forestal
   - silvicultura
-  - produccion forestal
+  - produccion-forestal
   - sostenibilidad
 draft: true
 createdAt: "2026-08-09 15:12:26"

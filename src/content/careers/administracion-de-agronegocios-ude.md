@@ -23,9 +23,9 @@ description: "Posgrado 100% virtual que estudia los agronegocios como sistema a 
 tags:
   - agronegocios
   - administracion
-  - administracion de agronegocios
+  - administracion-de-agronegocios
   - commodities
-  - cadena de suministros
+  - cadena-de-suministros
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

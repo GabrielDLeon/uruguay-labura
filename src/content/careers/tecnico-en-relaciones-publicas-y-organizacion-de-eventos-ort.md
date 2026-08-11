@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Las Relaciones Públicas y la producción de eventos cobran cada vez más peso en las estrategias globales de las empresas, fundaciones, ONG y emprendimientos."
 tags:
   - comunicacion
-  - relaciones publicas
+  - relaciones-publicas
   - eventos
-  - comunicacion organizacional
+  - comunicacion-organizacional
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

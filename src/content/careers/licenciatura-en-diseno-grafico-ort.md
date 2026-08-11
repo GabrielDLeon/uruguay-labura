@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "La carrera te prepara para crear soluciones visuales con creatividad, dominio tecnológico y un enfoque práctico en editorial, web y proyectos corporativos."
 tags:
   - diseno
-  - diseno grafico
-  - comunicacion visual
-  - diseno editorial
-  - diseno web
+  - diseno-grafico
+  - comunicacion-visual
+  - diseno-editorial
+  - diseno-web
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

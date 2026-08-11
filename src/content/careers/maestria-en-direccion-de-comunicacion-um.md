@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "Máster en Dirección de Comunicación (MDC) de la Universidad de Montevideo. Forma directores de comunicación (DIRCOM) con visión sistémica de la organización, combinando comunicación estratégica, management e investigación aplicada, con opción de doble titulación."
 tags:
   - comunicacion
-  - direccion de comunicacion
-  - comunicacion estrategica
-  - comunicacion organizacional
-  - direccion de empresas
+  - direccion-de-comunicacion
+  - comunicacion-estrategica
+  - comunicacion-organizacional
+  - direccion-de-empresas
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

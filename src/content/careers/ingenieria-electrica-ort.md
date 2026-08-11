@@ -22,12 +22,12 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Eléctrica de ORT Uruguay. Los ingenieros eléctricos planifican y diseñan instalaciones de cualquier porte para la generación, transporte y utilización de la energía eléctrica."
 tags:
-  - ingenieria electrica
+  - ingenieria-electrica
   - energia
   - electricidad
-  - instalaciones electricas
-  - generacion de energia
-  - programa roberto rocca
+  - instalaciones-electricas
+  - generacion-de-energia
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

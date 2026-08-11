@@ -23,8 +23,8 @@ description: "El Ciclo Inicial Optativo (CIO) es una nueva propuesta que permite
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias exactas
-  - ciencias naturales
+  - ciencias-exactas
+  - ciencias-naturales
   - ingenieria
 listable: false
 searchable: true

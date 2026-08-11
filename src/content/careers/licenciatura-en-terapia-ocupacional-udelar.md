@@ -23,7 +23,7 @@ description: "El terapeuta ocupacional es miembro activo del equipo de rehabilit
 startDate: ""
 applicationDeadline: ""
 tags:
-  - terapia ocupacional
+  - terapia-ocupacional
   - rehabilitacion
   - salud
   - cuidados

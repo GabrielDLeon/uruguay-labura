@@ -24,8 +24,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Los comunicadores globales son ciudadanos del mundo capaces de desarrollar planes estratégicos de comunicación adaptados a diferentes entornos culturales."
 tags:
   - comunicacion
-  - comunicacion estrategica
-  - relaciones internacionales
+  - comunicacion-estrategica
+  - relaciones-internacionales
   - interculturalidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

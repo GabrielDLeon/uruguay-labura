@@ -23,8 +23,8 @@ description: "Postgrado de Especialización en Gestión de Portafolios de la Uni
 tags:
   - finanzas
   - inversiones
-  - gestion de portafolios
-  - mercado de capitales
+  - gestion-de-portafolios
+  - mercado-de-capitales
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

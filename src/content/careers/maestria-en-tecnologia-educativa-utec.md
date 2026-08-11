@@ -24,10 +24,10 @@ accreditation: "UTEC"
 description: "Maestría gratuita en Tecnología Educativa de UTEC, en modalidad virtual. Formación para producir conocimiento en tecnología educativa basado en investigación didáctica y pedagógica. Título intermedio de Especialista en Tecnología Educativa."
 tags:
   - educacion
-  - tecnologia educativa
-  - educacion virtual
-  - innovacion educativa
-  - investigacion educativa
+  - tecnologia-educativa
+  - educacion-virtual
+  - innovacion-educativa
+  - investigacion-educativa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

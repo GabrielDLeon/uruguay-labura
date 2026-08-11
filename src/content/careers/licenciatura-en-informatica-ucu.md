@@ -24,7 +24,7 @@ description: "Licenciatura en Informática de la UCU. Forma profesionales capace
 tags:
   - informatica
   - software
-  - sistemas de informacion
+  - sistemas-de-informacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

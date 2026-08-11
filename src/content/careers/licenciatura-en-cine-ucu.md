@@ -24,7 +24,7 @@ description: "Licenciatura en Cine de la UCU. Forma profesionales capaces de des
 tags:
   - cine
   - audiovisual
-  - produccion audiovisual
+  - produccion-audiovisual
   - comunicacion
 draft: true
 createdAt: "2026-08-07 19:13:13"

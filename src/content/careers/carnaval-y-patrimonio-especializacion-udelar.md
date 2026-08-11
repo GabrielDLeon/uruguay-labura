@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: "No vigente"
 tags:
   - arte
-  - patrimonio cultural
+  - patrimonio-cultural
   - patrimonio
-  - gestion cultural
+  - gestion-cultural
   - carnaval
 draft: true
 createdAt: "2026-07-31 16:58:06"

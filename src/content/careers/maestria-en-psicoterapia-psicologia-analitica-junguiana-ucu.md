@@ -24,8 +24,8 @@ description: "Maestría en Psicoterapia - Psicología Analítica Junguiana de la
 tags:
   - psicologia
   - psicoterapia
-  - psicologia analitica
-  - psicologia clinica
+  - psicologia-analitica
+  - psicologia-clinica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

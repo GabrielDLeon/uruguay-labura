@@ -21,10 +21,10 @@ website: "https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-recursos
 location: "Montevideo"
 description: "La carrera de Analista en Recursos Humanos forma en un año graduados capacitados para desempeñarse a nivel operativo en la incorporación de personas, la capacitación, la administración de remuneraciones y la gestión del talento."
 tags:
-  - recursos humanos
-  - gestion de personas
-  - seleccion de personal
-  - capacitacion laboral
+  - recursos-humanos
+  - gestion-de-personas
+  - seleccion-de-personal
+  - capacitacion-laboral
   - compensaciones
 draft: true
 createdAt: "2026-08-09 15:12:26"

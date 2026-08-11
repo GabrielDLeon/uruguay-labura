@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Ambiental de la UCU. Forma profesionales comprometidos con el ambiente y la biodiversidad, capaces de diseñar, analizar, gestionar y evaluar proyectos ambientales desde una perspectiva científica y tecnológica."
 tags:
-  - ingenieria ambiental
-  - medio ambiente
+  - ingenieria-ambiental
+  - medio-ambiente
   - sostenibilidad
-  - gestion ambiental
+  - gestion-ambiental
   - biodiversidad
 draft: true
 createdAt: "2026-08-07 19:13:13"

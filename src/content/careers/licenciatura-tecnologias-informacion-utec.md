@@ -31,9 +31,9 @@ tags:
   - informatica
   - programacion
   - testing
-  - calidad de software
+  - calidad-de-software
   - infraestructura
-  - computacion en la nube
+  - computacion-en-la-nube
 draft: false
 createdAt: "2026-05-15 00:00:44"
 updatedAt: "2026-08-07 12:21:06"

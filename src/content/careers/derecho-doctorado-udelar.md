@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: "posgrado@fder.edu.uy"
 tags:
   - derecho
-  - ciencias juridicas
+  - ciencias-juridicas
   - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

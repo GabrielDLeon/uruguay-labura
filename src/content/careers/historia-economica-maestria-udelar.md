@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - historia
-  - historia economica
-  - historia social
+  - historia-economica
+  - historia-social
   - economia
 draft: true
 createdAt: "2026-07-31 16:58:06"

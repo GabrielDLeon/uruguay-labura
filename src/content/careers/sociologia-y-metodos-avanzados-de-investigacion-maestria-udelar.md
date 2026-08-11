@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: "cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
 tags:
   - sociologia
-  - ciencias sociales
-  - metodologia de la investigacion
-  - investigacion social
+  - ciencias-sociales
+  - metodologia-de-la-investigacion
+  - investigacion-social
   - estadistica
 draft: true
 createdAt: "2026-07-31 16:58:06"

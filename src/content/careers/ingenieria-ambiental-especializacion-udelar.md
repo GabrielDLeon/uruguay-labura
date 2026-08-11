@@ -22,10 +22,10 @@ description: "La Especialización en Ingeniería Ambiental, de acuerdo con el ar
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria ambiental
+  - ingenieria-ambiental
   - ingenieria
-  - medio ambiente
-  - gestion ambiental
+  - medio-ambiente
+  - gestion-ambiental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

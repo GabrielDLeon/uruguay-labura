@@ -21,11 +21,11 @@ website: "https://ude.edu.uy/escuela-desarrollo-empresarial/postgrado-ejecutivo-
 location: "Montevideo"
 description: "El Postgrado Ejecutivo Experto en Dirección de Personas forma directivos en la dirección estratégica del talento humano y la gestión de equipos de alto desempeño."
 tags:
-  - recursos humanos
-  - gestion de personas
+  - recursos-humanos
+  - gestion-de-personas
   - liderazgo
-  - cultura organizacional
-  - habilidades gerenciales
+  - cultura-organizacional
+  - habilidades-gerenciales
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

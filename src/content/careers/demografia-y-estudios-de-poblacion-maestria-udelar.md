@@ -22,9 +22,9 @@ description: "El objetivo de la Maestría en Demografía y Estudios de Població
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - demografia
-  - analisis sociodemografico
+  - analisis-sociodemografico
   - estadistica
 draft: true
 createdAt: "2026-07-31 16:58:06"

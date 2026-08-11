@@ -25,9 +25,9 @@ applicationDeadline: ""
 description: "Maestría en Educación de la UDE, un postgrado académico de naturaleza internacional con énfasis en la investigación, orientado a fortalecer las competencias de docentes y gestores educativos frente a las nuevas demandas de los sistemas educativos regionales."
 tags:
   - educacion
-  - investigacion educativa
-  - gestion educativa
-  - formacion docente
+  - investigacion-educativa
+  - gestion-educativa
+  - formacion-docente
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

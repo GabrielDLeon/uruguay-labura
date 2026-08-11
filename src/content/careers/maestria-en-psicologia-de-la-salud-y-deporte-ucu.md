@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicología de la Salud y Deporte de la UCU. Programa enfocado en la promoción de la salud a través del ejercicio y el deporte, desde una mirada interdisciplinaria que reúne a profesionales de diferentes disciplinas."
 tags:
   - psicologia
-  - psicologia del deporte
+  - psicologia-del-deporte
   - deporte
   - salud
-  - actividad fisica
+  - actividad-fisica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

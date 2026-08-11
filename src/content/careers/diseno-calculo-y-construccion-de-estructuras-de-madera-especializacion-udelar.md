@@ -22,9 +22,9 @@ description: "Ofrecer a los alumnos graduados la formación de especialista en e
 startDate: ""
 applicationDeadline: "dgodoy@fing.edu.uy"
 tags:
-  - estructuras de madera
-  - construccion en madera
-  - ingenieria estructural
+  - estructuras-de-madera
+  - construccion-en-madera
+  - ingenieria-estructural
   - construccion
 draft: true
 createdAt: "2026-07-31 16:58:06"

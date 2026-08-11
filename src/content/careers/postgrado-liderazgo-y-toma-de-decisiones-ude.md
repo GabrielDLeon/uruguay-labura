@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "El Postgrado Ejecutivo Experto en Liderazgo y Toma de Decisiones desarrolla la comunicación efectiva, la inteligencia emocional, la gestión de equipos y estrategias de decisión para líderes en entornos cambiantes."
 tags:
   - liderazgo
-  - toma de decisiones
-  - inteligencia emocional
-  - habilidades gerenciales
-  - gestion de personas
+  - toma-de-decisiones
+  - inteligencia-emocional
+  - habilidades-gerenciales
+  - gestion-de-personas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicología Forense y Penitenciaria de la UCU. Forma profesionales del campo jurídico para generar impacto en el asesoramiento, la evaluación y la intervención en el sistema penal juvenil, los juzgados y las prisiones."
 tags:
   - psicologia
-  - psicologia forense
-  - psicologia penitenciaria
+  - psicologia-forense
+  - psicologia-penitenciaria
   - criminologia
   - justicia
 draft: true

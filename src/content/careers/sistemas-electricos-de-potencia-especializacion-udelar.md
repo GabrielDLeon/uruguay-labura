@@ -22,11 +22,11 @@ description: "De acuerdo con el artículo 2° de la Ordenanza de las Carreras de
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - sistemas electricos de potencia
-  - ingenieria electrica
-  - generacion de energia
-  - distribucion de energia
-  - transmision de energia
+  - sistemas-electricos-de-potencia
+  - ingenieria-electrica
+  - generacion-de-energia
+  - distribucion-de-energia
+  - transmision-de-energia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

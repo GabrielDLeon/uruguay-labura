@@ -22,7 +22,7 @@ location: "Montevideo"
 description: "Tecnicatura semipresencial orientada a formar técnicos capacitados para gestionar y administrar emprendimientos ecuestres: cría y producción equina, establecimientos deportivos y empresas vinculadas a la actividad hípica."
 tags:
   - equinos
-  - produccion equina
+  - produccion-equina
   - gestion
   - administracion
 draft: true

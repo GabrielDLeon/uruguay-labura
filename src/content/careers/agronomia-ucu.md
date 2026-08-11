@@ -25,8 +25,8 @@ tags:
   - agronomia
   - agropecuario
   - agronegocios
-  - ciencia de datos
-  - medio ambiente
+  - ciencia-de-datos
+  - medio-ambiente
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

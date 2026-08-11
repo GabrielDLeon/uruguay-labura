@@ -22,11 +22,11 @@ description: "Están dirigidos a formar profesionales de segundo nivel universit
 startDate: ""
 applicationDeadline: "cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
 tags:
-  - ciencia politica
-  - ciencias sociales
+  - ciencia-politica
+  - ciencias-sociales
   - gobierno
-  - sector publico
-  - administracion publica
+  - sector-publico
+  - administracion-publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

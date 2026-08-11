@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - farmacia
-  - farmacia hospitalaria
+  - farmacia-hospitalaria
   - farmacologia
 draft: true
 createdAt: "2026-07-31 16:58:06"

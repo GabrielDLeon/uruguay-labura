@@ -23,10 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Finanzas de ORT Uruguay. Los profesionales en finanzas tienen dominio de herramientas cuantitativas para analizar datos, evaluar mercados y tomar decisiones estratégicas."
 tags:
   - finanzas
-  - finanzas corporativas
-  - mercado de capitales
+  - finanzas-corporativas
+  - mercado-de-capitales
   - inversiones
-  - ciencia de datos
+  - ciencia-de-datos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

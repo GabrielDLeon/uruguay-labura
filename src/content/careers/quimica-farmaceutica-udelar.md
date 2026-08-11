@@ -24,7 +24,7 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
-  - quimica farmaceutica
+  - quimica-farmaceutica
   - farmacia
   - quimica
   - farmacologia

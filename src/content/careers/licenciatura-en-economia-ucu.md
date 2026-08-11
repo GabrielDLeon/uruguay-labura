@@ -24,9 +24,9 @@ description: "Licenciatura en Economía de la UCU. Forma economistas capaces de 
 tags:
   - economia
   - econometria
-  - ciencia de datos
-  - politicas publicas
-  - analisis economico
+  - ciencia-de-datos
+  - politicas-publicas
+  - analisis-economico
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

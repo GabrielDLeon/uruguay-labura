@@ -22,9 +22,9 @@ description: "I. PRÓPOSITO La Maestría en Atención a la Salud en el Primer Ni
 startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
-  - salud publica
-  - atencion primaria
-  - atencion comunitaria
+  - salud-publica
+  - atencion-primaria
+  - atencion-comunitaria
   - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"

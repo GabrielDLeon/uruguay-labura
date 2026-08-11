@@ -26,7 +26,7 @@ credits: 360
 tags:
   - humanidades
   - archivologia
-  - gestion documental
+  - gestion-documental
   - historia
 draft: true
 createdAt: "2026-07-31 16:58:06"

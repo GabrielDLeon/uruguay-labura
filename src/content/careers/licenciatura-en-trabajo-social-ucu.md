@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Trabajo Social de la Universidad Católica del Uruguay. Forma profesionales capaces de diseñar e implementar intervenciones sociales basadas en datos y justicia social para transformar comunidades vulnerables."
 tags:
-  - trabajo social
-  - ciencias sociales
-  - intervencion social
-  - justicia social
+  - trabajo-social
+  - ciencias-sociales
+  - intervencion-social
+  - justicia-social
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

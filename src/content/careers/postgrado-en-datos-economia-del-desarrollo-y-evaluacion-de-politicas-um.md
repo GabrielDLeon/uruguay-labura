@@ -21,11 +21,11 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-datos-economia
 location: "Montevideo"
 description: "Postgrado en Datos, Economía del Desarrollo y Evaluación de Políticas de la Universidad de Montevideo (UMPE). Forma profesionales en desarrollo y analítica de datos aplicada, con enfoque en la evidencia científica y la evaluación de políticas."
 tags:
-  - ciencia de datos
+  - ciencia-de-datos
   - economia
-  - economia del desarrollo
-  - politicas publicas
-  - evaluacion de politicas publicas
+  - economia-del-desarrollo
+  - politicas-publicas
+  - evaluacion-de-politicas-publicas
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

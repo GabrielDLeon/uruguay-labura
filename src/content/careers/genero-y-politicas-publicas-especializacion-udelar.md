@@ -22,9 +22,9 @@ description: "Brindar herramientas teóricas y metodológicas para la comprensi�
 startDate: ""
 applicationDeadline: "Bedelía de Posgrados - FCS"
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - genero
-  - politicas publicas
+  - politicas-publicas
   - diversidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

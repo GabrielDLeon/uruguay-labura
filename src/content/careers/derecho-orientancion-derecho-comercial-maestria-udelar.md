@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
-  - derecho comercial
+  - derecho-comercial
   - negocios
-  - asesoramiento empresarial
+  - asesoramiento-empresarial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

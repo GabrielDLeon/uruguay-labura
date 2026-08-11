@@ -25,9 +25,9 @@ applicationDeadline: ""
 credits: 320
 tags:
   - psicologia
-  - ciencias sociales
-  - psicologia social
-  - salud mental
+  - ciencias-sociales
+  - psicologia-social
+  - salud-mental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

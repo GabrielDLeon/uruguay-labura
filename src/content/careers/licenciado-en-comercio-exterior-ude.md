@@ -22,11 +22,11 @@ location: "Montevideo y Colonia"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Comercio Exterior de la Universidad de la Empresa. Forma profesionales universitarios especialistas en comercio exterior con un amplio conocimiento de las materias de actualidad, capaces de aplicarlas en la realidad nacional o de actuar exitosamente en el exterior."
 tags:
-  - comercio exterior
-  - comercio internacional
+  - comercio-exterior
+  - comercio-internacional
   - aduanas
-  - logistica internacional
-  - negocios internacionales
+  - logistica-internacional
+  - negocios-internacionales
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

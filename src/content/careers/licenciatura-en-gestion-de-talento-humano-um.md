@@ -21,10 +21,10 @@ website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/of
 location: "Montevideo"
 description: "Licenciatura en Gestión de Talento Humano de la Universidad de Montevideo. Forma para liderar y acompañar decisiones estratégicas relacionadas con las personas y sus equipos en las organizaciones."
 tags:
-  - recursos humanos
-  - gestion de personas
+  - recursos-humanos
+  - gestion-de-personas
   - liderazgo
-  - cultura organizacional
+  - cultura-organizacional
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

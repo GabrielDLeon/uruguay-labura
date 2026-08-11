@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma de Especialización en Gestión de Sistemas de Información formar a los estudiantes en la implementación de una arquitectura empresarial consistente"
 tags:
   - informatica
-  - sistemas de informacion
-  - arquitectura empresarial
-  - gestion de proyectos it
+  - sistemas-de-informacion
+  - arquitectura-empresarial
+  - gestion-de-proyectos-it
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

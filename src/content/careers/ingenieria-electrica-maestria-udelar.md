@@ -22,7 +22,7 @@ description: "Son objetivos de esta Maestría promover la profundización y la a
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria electrica
+  - ingenieria-electrica
   - ingenieria
   - electricidad
 draft: true

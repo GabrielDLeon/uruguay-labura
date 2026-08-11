@@ -23,9 +23,9 @@ description: "Licenciatura en Marketing de la Universidad de Montevideo, dictada
 tags:
   - marketing
   - publicidad
-  - comunicacion comercial
-  - ciencia de datos
-  - direccion comercial
+  - comunicacion-comercial
+  - ciencia-de-datos
+  - direccion-comercial
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Promueve el enfoque estratégico de la gestión de recursos humanos a partir del análisis del entorno y del entendimiento de los objetivos organizacionales."
 tags:
-  - recursos humanos
-  - gestion de personas
-  - cultura organizacional
-  - estrategia de negocios
+  - recursos-humanos
+  - gestion-de-personas
+  - cultura-organizacional
+  - estrategia-de-negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

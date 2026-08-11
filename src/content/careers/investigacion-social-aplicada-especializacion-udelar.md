@@ -22,11 +22,11 @@ description: "El Diploma se dirige a graduados en las Ciencias Sociales con una 
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
-  - investigacion social
-  - metodologia de la investigacion
-  - opinion publica
-  - investigacion de mercados
+  - ciencias-sociales
+  - investigacion-social
+  - metodologia-de-la-investigacion
+  - opinion-publica
+  - investigacion-de-mercados
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

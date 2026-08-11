@@ -24,10 +24,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El comunicador empresarial posee habilidades gerenciales que le permiten planificar e implementar estrategias alineadas a los objetivos de negocio."
 tags:
   - comunicacion
-  - comunicacion organizacional
-  - comunicacion corporativa
-  - habilidades gerenciales
-  - estrategia de negocios
+  - comunicacion-organizacional
+  - comunicacion-corporativa
+  - habilidades-gerenciales
+  - estrategia-de-negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

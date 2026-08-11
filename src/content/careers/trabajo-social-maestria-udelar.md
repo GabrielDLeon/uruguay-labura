@@ -22,9 +22,9 @@ description: "La Maestría en Trabajo Social se inscribe en el proceso universit
 startDate: ""
 applicationDeadline: ""
 tags:
-  - trabajo social
-  - ciencias sociales
-  - intervencion social
+  - trabajo-social
+  - ciencias-sociales
+  - intervencion-social
   - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

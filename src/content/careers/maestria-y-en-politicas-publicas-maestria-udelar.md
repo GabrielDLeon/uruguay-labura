@@ -22,9 +22,9 @@ description: "*La Maestría consta de un total de 120 créditos, 40 de los cuale
 startDate: ""
 applicationDeadline: ""
 tags:
-  - politicas publicas
-  - ciencias sociales
-  - gestion publica
+  - politicas-publicas
+  - ciencias-sociales
+  - gestion-publica
   - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

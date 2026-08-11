@@ -23,8 +23,8 @@ location: "Montevideo"
 description: "Diploma de Postgrado en Educación Emocional de la Universidad de Montevideo. Seis seminarios de cuatro semanas sobre fundamentos, modelos e implementación de la educación emocional, con 12 créditos académicos en modalidad virtual."
 tags:
   - educacion
-  - educacion emocional
-  - inteligencia emocional
+  - educacion-emocional
+  - inteligencia-emocional
   - bienestar
 draft: true
 createdAt: "2026-08-10 16:53:42"

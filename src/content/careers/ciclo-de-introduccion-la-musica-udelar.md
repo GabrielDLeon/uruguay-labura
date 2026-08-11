@@ -24,8 +24,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - musica
-  - educacion musical
-  - teoria musical
+  - educacion-musical
+  - teoria-musical
 listable: false
 searchable: true
 draft: true

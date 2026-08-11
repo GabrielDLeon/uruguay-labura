@@ -18,8 +18,8 @@ applicationDeadline: ""
 credits: 360
 tags:
   - musica
-  - interpretacion musical
-  - teoria musical
+  - interpretacion-musical
+  - teoria-musical
 similar:
   - licenciatura-en-musica-udelar
   - licenciatura-en-composicion-udelar

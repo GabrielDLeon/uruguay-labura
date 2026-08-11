@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
-  - medicina de emergencia
+  - medicina-de-emergencia
   - urgencias
   - pediatria
 draft: true

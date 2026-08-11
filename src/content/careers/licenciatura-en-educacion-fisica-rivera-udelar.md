@@ -24,9 +24,9 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - educacion fisica
+  - educacion-fisica
   - deporte
-  - actividad fisica
+  - actividad-fisica
   - recreacion
   - educacion
 draft: true

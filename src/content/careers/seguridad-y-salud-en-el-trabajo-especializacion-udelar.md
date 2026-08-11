@@ -18,11 +18,11 @@ description: "Al culminar los cursos de la Especialización, el egresado del pro
 startDate: ""
 applicationDeadline: ""
 tags:
-  - seguridad y salud en el trabajo
-  - salud ocupacional
-  - medicina del trabajo
-  - seguridad industrial
-  - higiene industrial
+  - seguridad-y-salud-en-el-trabajo
+  - salud-ocupacional
+  - medicina-del-trabajo
+  - seguridad-industrial
+  - higiene-industrial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

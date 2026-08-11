@@ -22,11 +22,11 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Tributación Internacional de la Universidad de Montevideo. Formación práctica sobre fiscalidad internacional, precios de transferencia y convenios para evitar la doble imposición."
 tags:
-  - tributacion internacional
+  - tributacion-internacional
   - tributacion
   - impuestos
-  - derecho tributario
-  - comercio internacional
+  - derecho-tributario
+  - comercio-internacional
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

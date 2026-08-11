@@ -23,9 +23,9 @@ location: "Montevideo"
 description: "Maestría en Educación y Desarrollo Profesional Docente de la Universidad de Montevideo. Dos años para formar profesionales e investigadores de la educación, con título intermedio de Especialista en Educación y título de Magíster."
 tags:
   - educacion
-  - formacion docente
-  - desarrollo profesional docente
-  - investigacion educativa
+  - formacion-docente
+  - desarrollo-profesional-docente
+  - investigacion-educativa
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

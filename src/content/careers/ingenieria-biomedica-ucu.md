@@ -21,10 +21,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Biomédica de la UCU. Forma profesionales capaces de aplicar métodos de ingeniería para evaluar y desarrollar tecnologías destinadas a la prevención, el diagnóstico, el tratamiento y la rehabilitación en salud."
 tags:
-  - ingenieria biomedica
+  - ingenieria-biomedica
   - salud
-  - tecnologia medica
-  - dispositivos medicos
+  - tecnologia-medica
+  - dispositivos-medicos
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

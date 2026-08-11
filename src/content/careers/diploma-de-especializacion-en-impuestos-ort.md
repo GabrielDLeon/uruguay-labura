@@ -24,8 +24,8 @@ description: "Diploma de Especialización en Impuestos de ORT Uruguay. El posgra
 tags:
   - impuestos
   - tributacion
-  - finanzas corporativas
-  - mercado de capitales
+  - finanzas-corporativas
+  - mercado-de-capitales
   - finanzas
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -22,7 +22,7 @@ description: "La Maestría en Gestión de la Innovación se dirige a profesional
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - gestion de la innovacion
+  - gestion-de-la-innovacion
   - innovacion
   - administracion
   - gestion

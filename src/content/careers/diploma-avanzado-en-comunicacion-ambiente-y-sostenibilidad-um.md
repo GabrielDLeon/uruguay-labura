@@ -22,10 +22,10 @@ location: "Campus Virtual"
 description: "Diploma Avanzado en Comunicación, Ambiente y Sostenibilidad de la Universidad de Montevideo (FCOM). 60 horas 100% virtuales, con seis módulos teórico-prácticos y un taller integrador para el análisis y la gestión de proyectos ambientales desde la comunicación."
 tags:
   - comunicacion
-  - comunicacion ambiental
+  - comunicacion-ambiental
   - sostenibilidad
-  - medio ambiente
-  - gestion ambiental
+  - medio-ambiente
+  - gestion-ambiental
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

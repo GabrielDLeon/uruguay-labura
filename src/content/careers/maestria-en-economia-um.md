@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Economía de la Universidad de Montevideo (UMPE). Brinda una base sólida en teoría económica, análisis de datos e investigación, preparando para la inserción en organismos internacionales, instituciones financieras, consultoras y empresas."
 tags:
   - economia
-  - ciencia de datos
-  - analisis economico
+  - ciencia-de-datos
+  - analisis-economico
   - econometria
   - investigacion
 draft: true

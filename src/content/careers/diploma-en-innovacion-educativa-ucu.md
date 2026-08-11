@@ -21,9 +21,9 @@ location: "Montevideo"
 description: "Diploma en Innovación Educativa de la UCU. Forma docentes y líderes educativos para incorporar estrategias, metodologías, tendencias y buenas prácticas que favorezcan la calidad educativa."
 tags:
   - educacion
-  - innovacion educativa
-  - metodologias activas
-  - liderazgo educativo
+  - innovacion-educativa
+  - metodologias-activas
+  - liderazgo-educativo
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -21,9 +21,9 @@ location: "Montevideo"
 description: "Diploma en Métodos de Investigación y Análisis de Datos de la UCU. Forma en herramientas de investigación, procesamiento e interpretación de datos para contribuir a la toma de decisiones en el ámbito académico, público o privado."
 tags:
   - investigacion
-  - ciencia de datos
-  - toma de decisiones
-  - metodos de investigacion
+  - ciencia-de-datos
+  - toma-de-decisiones
+  - metodos-de-investigacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

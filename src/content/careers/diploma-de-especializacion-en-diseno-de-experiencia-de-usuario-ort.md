@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma de Especialización en Diseño de Experiencia de Usuario (UX) te capacita para anticipar y liderar la transformación digital."
 tags:
   - diseno
-  - experiencia de usuario
-  - transformacion digital
-  - diseno digital
+  - experiencia-de-usuario
+  - transformacion-digital
+  - diseno-digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

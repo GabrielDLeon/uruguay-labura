@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Licenciado en Diseño de Interiores diseña y construye espacios y equipamientos, y adapta los existentes a nuevas necesidades funcionales y estéticas."
 tags:
   - diseno
-  - diseno de interiores
+  - diseno-de-interiores
   - interiorismo
-  - diseno de espacios
+  - diseno-de-espacios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

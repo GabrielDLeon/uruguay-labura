@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Imagenología de la UDE. Forma al profesional universitario responsable de la obtención de las imágenes médicas diagnósticas y de las que guían procedimientos terapéuticos, operando equipamiento especializado con mínima irradiación del paciente."
 tags:
   - imagenologia
-  - diagnostico por imagenes
+  - diagnostico-por-imagenes
   - radiologia
   - salud
 draft: true

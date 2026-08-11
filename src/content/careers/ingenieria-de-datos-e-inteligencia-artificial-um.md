@@ -21,11 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/in
 location: "Montevideo"
 description: "Ingeniería de Datos e Inteligencia Artificial de la Universidad de Montevideo. Forma profesionales para diseñar arquitecturas de datos a gran escala, aplicar técnicas de machine learning y protagonizar la transformación digital de las organizaciones."
 tags:
-  - ciencia de datos
-  - inteligencia artificial
-  - big data
-  - machine learning
-  - transformacion digital
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - big-data
+  - machine-learning
+  - transformacion-digital
   - informatica
 draft: true
 createdAt: "2026-08-10 16:53:42"

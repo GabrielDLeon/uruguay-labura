@@ -22,9 +22,9 @@ description: "El diploma de Especialización en Ciencia de Datos se dirige a pro
 startDate: ""
 applicationDeadline: "Facultad de Ingenieria"
 tags:
-  - ciencia de datos
-  - inteligencia artificial
-  - machine learning
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - machine-learning
   - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -23,7 +23,7 @@ location: "Montevideo"
 description: "LL.M. Máster en Derecho de la Universidad de Montevideo. Formación de posgrado con currícula abierta y orientaciones en las principales áreas del derecho para abogados y profesionales jurídicos."
 tags:
   - derecho
-  - ciencias juridicas
+  - ciencias-juridicas
   - abogacia
 draft: true
 createdAt: "2026-08-10 16:53:42"

@@ -23,9 +23,9 @@ description: "Ingeniería en Informática de la Universidad de Montevideo. Forma
 tags:
   - informatica
   - programacion
-  - ingenieria de software
-  - sistemas de informacion
-  - gestion de proyectos it
+  - ingenieria-de-software
+  - sistemas-de-informacion
+  - gestion-de-proyectos-it
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

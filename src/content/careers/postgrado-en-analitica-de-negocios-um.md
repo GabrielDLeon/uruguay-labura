@@ -21,11 +21,11 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-analitica-de-n
 location: "Campus Virtual"
 description: "Postgrado en Analítica de Negocios de la Universidad de Montevideo (UMPE). Forma gestores que comprenden modelos y herramientas analíticas para tomar decisiones basadas en datos y liderar la transformación digital."
 tags:
-  - analitica de negocios
-  - ciencia de datos
-  - toma de decisiones
-  - transformacion digital
-  - business intelligence
+  - analitica-de-negocios
+  - ciencia-de-datos
+  - toma-de-decisiones
+  - transformacion-digital
+  - business-intelligence
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

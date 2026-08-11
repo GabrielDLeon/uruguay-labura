@@ -24,7 +24,7 @@ description: "La creatividad como proceso mental y la innovación como proceso p
 tags:
   - innovacion
   - creatividad
-  - gestion de la innovacion
+  - gestion-de-la-innovacion
   - negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"

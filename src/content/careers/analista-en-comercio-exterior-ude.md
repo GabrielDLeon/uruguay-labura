@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "La carrera de Analista en Comercio Exterior forma en un año graduados capacitados para desempeñarse en el nivel operativo de la normativa y operaciones aduaneras, la logística internacional y la gestión de operaciones de comercio exterior."
 tags:
   - negocios
-  - comercio exterior
+  - comercio-exterior
   - aduanas
-  - logistica internacional
+  - logistica-internacional
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

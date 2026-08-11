@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Dirección Financiera de ORT Uruguay. La Maestría en Finanzas combina la especialización en las distintas áreas de las finanzas con la capacidad de desarrollo de habilidades gerenciales."
 tags:
   - finanzas
-  - finanzas corporativas
+  - finanzas-corporativas
   - inversiones
-  - habilidades gerenciales
+  - habilidades-gerenciales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

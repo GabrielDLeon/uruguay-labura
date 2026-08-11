@@ -25,8 +25,8 @@ description: "Ingeniería gratuita en Agua y Desarrollo Sostenible de UTEC. Uso 
 tags:
   - ingenieria
   - agua
-  - recursos hidricos
-  - ingenieria hidraulica
+  - recursos-hidricos
+  - ingenieria-hidraulica
   - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

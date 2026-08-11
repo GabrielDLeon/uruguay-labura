@@ -22,10 +22,10 @@ description: "El objetivo de la Maestría Académica es lograr en los egresados 
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria estructural
-  - ingenieria civil
+  - ingenieria-estructural
+  - ingenieria-civil
   - construccion
-  - diseno estructural
+  - diseno-estructural
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

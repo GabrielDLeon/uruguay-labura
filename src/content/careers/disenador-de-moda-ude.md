@@ -24,7 +24,7 @@ tags:
   - diseno
   - moda
   - indumentaria
-  - diseno de moda
+  - diseno-de-moda
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

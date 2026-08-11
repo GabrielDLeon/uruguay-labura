@@ -24,7 +24,7 @@ description: "Analista en Infraestructura Informática en la Universidad ORT Uru
 tags:
   - informatica
   - infraestructura
-  - administracion de sistemas
+  - administracion-de-sistemas
   - servidores
   - redes
 draft: true

@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "MDES — Máster en Dirección de Empresas de Salud — del IEEM, Escuela de Negocios de la Universidad de Montevideo. Forma en dirección general y planificación sanitaria para profesionales del sector salud con vocación directiva."
 tags:
   - salud
-  - direccion de empresas
-  - gestion sanitaria
-  - administracion de servicios de salud
+  - direccion-de-empresas
+  - gestion-sanitaria
+  - administracion-de-servicios-de-salud
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

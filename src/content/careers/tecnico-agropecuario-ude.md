@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "Carrera técnica semipresencial orientada a formar técnicos capaces de trabajar en actividades productivas y de contribuir a la gestión de las empresas agropecuarias."
 tags:
   - agropecuario
-  - produccion animal
-  - produccion vegetal
+  - produccion-animal
+  - produccion-vegetal
   - agronegocios
-  - gestion empresarial
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -24,9 +24,9 @@ description: "Licenciatura en Comunicación y Marketing de la Universidad Catól
 tags:
   - comunicacion
   - marketing
-  - marketing digital
-  - contenidos digitales
-  - ciencia de datos
+  - marketing-digital
+  - contenidos-digitales
+  - ciencia-de-datos
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

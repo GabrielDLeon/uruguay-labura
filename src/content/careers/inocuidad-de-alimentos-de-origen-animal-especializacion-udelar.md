@@ -22,11 +22,11 @@ description: "Objetivos A través de esta Especialización, el profesional profu
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
-  - inocuidad alimentaria
+  - inocuidad-alimentaria
   - alimentos
-  - seguridad alimentaria
-  - higiene de los alimentos
-  - salud animal
+  - seguridad-alimentaria
+  - higiene-de-los-alimentos
+  - salud-animal
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

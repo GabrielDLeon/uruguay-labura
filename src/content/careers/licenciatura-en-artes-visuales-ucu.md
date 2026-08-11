@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Artes Visuales de la UCU. Formación artística con solvencia técnica en diseño, ilustración, fotografía, realización audiovisual, animación, videojuegos y gestión cultural, con práctica desde el inicio."
 tags:
   - arte
-  - artes visuales
+  - artes-visuales
   - diseno
   - ilustracion
   - fotografia

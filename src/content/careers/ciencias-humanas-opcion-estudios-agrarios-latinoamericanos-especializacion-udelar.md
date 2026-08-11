@@ -22,11 +22,11 @@ description: "Contribuir a la actualización y formación en investigación de p
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - humanidades
   - agropecuario
-  - estudios latinoamericanos
-  - desarrollo territorial
+  - estudios-latinoamericanos
+  - desarrollo-territorial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -26,7 +26,7 @@ tags:
   - historia
   - humanidades
   - patrimonio
-  - patrimonio cultural
+  - patrimonio-cultural
   - investigacion
 draft: true
 createdAt: "2026-08-10 16:53:42"

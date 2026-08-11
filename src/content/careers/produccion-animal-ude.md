@@ -21,8 +21,8 @@ website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/produccion-animal/"
 location: "Campus Virtual"
 description: "Posgrado 100% virtual, dictado con la Universidad Nacional de Mar del Plata y el INTA Balcarce, que profundiza en nutrición aplicada, pasturas, calidad de carne y sistemas de producción ganadera."
 tags:
-  - produccion animal
-  - nutricion animal
+  - produccion-animal
+  - nutricion-animal
   - pasturas
   - ganaderia
   - carnes

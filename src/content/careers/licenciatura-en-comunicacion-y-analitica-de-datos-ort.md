@@ -24,10 +24,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Comunicación y Analítica de Datos de ORT Uruguay. Trabajar en el campo de la comunicación supone creatividad, aprendizaje continuo, profesionalismo y actualización permanente."
 tags:
   - comunicacion
-  - ciencia de datos
-  - analitica de negocios
-  - comunicacion de datos
-  - comunicacion digital
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - comunicacion-de-datos
+  - comunicacion-digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

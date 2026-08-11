@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "El Postgrado Ejecutivo Experto en Dirección de Marketing brinda una visión completa de las herramientas y funciones del marketing para dirigir la estrategia comercial de las empresas."
 tags:
   - marketing
-  - direccion comercial
-  - estrategia comercial
-  - marketing digital
-  - gestion comercial
+  - direccion-comercial
+  - estrategia-comercial
+  - marketing-digital
+  - gestion-comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

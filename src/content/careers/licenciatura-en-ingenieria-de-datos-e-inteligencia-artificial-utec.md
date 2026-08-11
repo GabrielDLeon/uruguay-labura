@@ -24,11 +24,11 @@ location: "Rivera (ITR Norte)"
 accreditation: "UTEC"
 description: "Licenciatura gratuita en Ingeniería de Datos e IA de UTEC (LIDIA), presencial en Rivera. Almacenamiento y procesamiento de datos, cloud, IA, IoT y ciberseguridad. Título intermedio de Tecnólogo en Análisis y Gestión de Datos."
 tags:
-  - ciencia de datos
-  - inteligencia artificial
+  - ciencia-de-datos
+  - inteligencia-artificial
   - informatica
-  - computacion en la nube
-  - internet de las cosas
+  - computacion-en-la-nube
+  - internet-de-las-cosas
   - ciberseguridad
 draft: true
 createdAt: "2026-07-31 16:58:06"

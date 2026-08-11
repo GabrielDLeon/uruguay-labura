@@ -27,7 +27,7 @@ tags:
   - ingenieria
   - software
   - programacion
-  - programa roberto rocca
+  - programa-roberto-rocca
 draft: false
 createdAt: "2026-06-01 00:29:35"
 updatedAt: "2026-08-07 12:21:06"

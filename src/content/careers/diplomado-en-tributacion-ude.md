@@ -22,7 +22,7 @@ location: "Montevideo, Colonia y Punta del Este"
 description: "Diplomado en Tributación de la Universidad de la Empresa. Plan de actualización tributaria de 64 horas, con enfoque teórico-práctico y análisis de casos reales, en modalidad virtual o presencial."
 tags:
   - tributacion
-  - derecho tributario
+  - derecho-tributario
   - impuestos
 draft: true
 createdAt: "2026-08-09 15:12:26"

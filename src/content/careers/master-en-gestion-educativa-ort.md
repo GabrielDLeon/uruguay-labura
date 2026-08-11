@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Gestión Educativa de ORT Uruguay. Postgrado diseñado para aquellos que estén interesados en liderar procesos de mejora y de desarrollo organizacional en diversos centros educativos."
 tags:
   - educacion
-  - gestion educativa
-  - liderazgo educativo
-  - gestion organizacional
+  - gestion-educativa
+  - liderazgo-educativo
+  - gestion-organizacional
   - administracion
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -22,11 +22,11 @@ description: "Generar un espacio de formación semi presencial de recursos human
 startDate: ""
 applicationDeadline: ""
 tags:
-  - salud publica
-  - educacion para la salud
-  - promocion de la salud
+  - salud-publica
+  - educacion-para-la-salud
+  - promocion-de-la-salud
   - educacion
-  - atencion comunitaria
+  - atencion-comunitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

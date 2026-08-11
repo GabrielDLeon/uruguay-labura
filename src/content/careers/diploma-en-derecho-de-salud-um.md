@@ -23,9 +23,9 @@ location: "Montevideo"
 description: "Diploma en Derecho de Salud de la Universidad de Montevideo. Formación integral sobre el derecho a la salud, el Sistema Nacional Integrado de Salud y la responsabilidad en el ámbito sanitario."
 tags:
   - derecho
-  - derecho sanitario
+  - derecho-sanitario
   - salud
-  - salud publica
+  - salud-publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -22,7 +22,7 @@ description: "Título otorgado: “Magíster en Ciencias Cognitivas” Perfil de
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias cognitivas
+  - ciencias-cognitivas
   - psicologia
   - neurociencias
 draft: true

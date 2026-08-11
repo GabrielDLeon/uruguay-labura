@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "MBA Senior del IEEM, Escuela de Negocios de la Universidad de Montevideo. Versión del MBA Ejecutivo para mayores de 40 años con más de 12 años de experiencia laboral y destacada trayectoria gerencial."
 tags:
   - mba
-  - direccion de empresas
-  - administracion de empresas
+  - direccion-de-empresas
+  - administracion-de-empresas
   - liderazgo
-  - habilidades gerenciales
+  - habilidades-gerenciales
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

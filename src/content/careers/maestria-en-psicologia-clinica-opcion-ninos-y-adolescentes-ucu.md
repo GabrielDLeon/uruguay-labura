@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicología Clínica - Opción Niños y Adolescentes de la UCU. Capacita en habilidades clínicas para la atención de niños y adolescentes en centros de salud, ONG o atención privada, con entrevistas filmadas y supervisadas."
 tags:
   - psicologia
-  - psicologia clinica
+  - psicologia-clinica
   - psicoterapia
-  - ninos y adolescentes
+  - ninos-y-adolescentes
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

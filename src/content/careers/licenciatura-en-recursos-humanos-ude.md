@@ -22,11 +22,11 @@ location: "Montevideo y Colonia"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Recursos Humanos de la Universidad de la Empresa. Forma profesionales con dominio teórico-práctico de la normativa, la gestión y la planificación de los recursos humanos de la empresa, capaces de apoyar la toma de decisiones y supervisar el área de recursos humanos."
 tags:
-  - recursos humanos
-  - gestion de personas
-  - derecho laboral
-  - relaciones laborales
-  - toma de decisiones
+  - recursos-humanos
+  - gestion-de-personas
+  - derecho-laboral
+  - relaciones-laborales
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

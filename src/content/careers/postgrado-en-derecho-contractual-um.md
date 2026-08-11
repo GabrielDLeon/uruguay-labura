@@ -24,8 +24,8 @@ description: "Postgrado en Derecho Contractual de la Universidad de Montevideo. 
 tags:
   - derecho
   - contratos
-  - derecho civil
-  - asesoramiento empresarial
+  - derecho-civil
+  - asesoramiento-empresarial
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

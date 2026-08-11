@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Administrador de Servidores y Aplicaciones en la Universidad ORT Uruguay forma técnicos para administrar servidores Windows y Linux y servicios de red."
 tags:
   - informatica
-  - administracion de sistemas
+  - administracion-de-sistemas
   - servidores
   - redes
 draft: true

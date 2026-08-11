@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño de Indumentaria de la UDE. Forma profesionales de la moda con formación creativa, socio-antropológica, cultural, artística y tecnológica, con título de grado con reconocimiento académico internacional."
 tags:
   - diseno
-  - diseno de moda
+  - diseno-de-moda
   - indumentaria
   - moda
 draft: true

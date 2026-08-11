@@ -19,9 +19,9 @@ description: "Formar profesionales y académicos capacitados en el conocimiento 
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - demografia
-  - analisis sociodemografico
+  - analisis-sociodemografico
   - estadistica
 draft: true
 createdAt: "2026-07-31 16:58:06"

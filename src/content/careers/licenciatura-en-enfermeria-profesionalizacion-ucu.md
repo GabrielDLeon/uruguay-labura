@@ -24,7 +24,7 @@ description: "Licenciatura en Enfermería (Profesionalización) de la UCU, dirig
 tags:
   - enfermeria
   - salud
-  - gestion sanitaria
+  - gestion-sanitaria
   - cuidados
 draft: true
 createdAt: "2026-08-07 19:13:13"

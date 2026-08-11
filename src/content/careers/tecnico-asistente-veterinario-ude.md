@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "Tecnicatura que forma técnicos capaces de colaborar con el médico veterinario en el examen, tratamiento y seguimiento de rumiantes, equinos y pequeños animales, con perfil orientado a la salud y el bienestar animal."
 tags:
   - veterinaria
-  - salud animal
-  - bienestar animal
-  - veterinaria clinica
+  - salud-animal
+  - bienestar-animal
+  - veterinaria-clinica
   - equinos
 draft: true
 createdAt: "2026-08-09 15:12:26"

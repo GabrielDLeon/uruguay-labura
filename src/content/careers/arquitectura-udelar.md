@@ -25,7 +25,7 @@ applicationDeadline: ""
 credits: 450
 tags:
   - arquitectura
-  - diseno arquitectonico
+  - diseno-arquitectonico
   - construccion
 draft: true
 createdAt: "2026-07-31 16:58:06"

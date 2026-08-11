@@ -25,8 +25,8 @@ applicationDeadline: ""
 credits: 450
 tags:
   - derecho
-  - ciencias juridicas
-  - ciencias sociales
+  - ciencias-juridicas
+  - ciencias-sociales
   - humanidades
 draft: true
 createdAt: "2026-07-31 16:58:06"

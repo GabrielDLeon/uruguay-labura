@@ -22,7 +22,7 @@ description: "De acuerdo a lo establecido en el Art. 26º de la Ordenanza de las
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria electrica
+  - ingenieria-electrica
   - ingenieria
   - electricidad
 draft: true

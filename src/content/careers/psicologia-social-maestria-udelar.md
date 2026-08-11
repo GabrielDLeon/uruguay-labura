@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: "Formulario web de Facultad de Psicología."
 tags:
   - psicologia
-  - psicologia social
-  - ciencias sociales
+  - psicologia-social
+  - ciencias-sociales
   - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

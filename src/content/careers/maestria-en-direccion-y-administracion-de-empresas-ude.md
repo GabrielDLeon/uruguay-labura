@@ -22,11 +22,11 @@ location: "Montevideo"
 description: "Maestría en Dirección y Administración de Empresas de la Universidad de la Empresa. Proporciona una visión global de todos los departamentos de una empresa y desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de gestión en las organizaciones."
 tags:
   - administracion
-  - administracion de empresas
-  - direccion de empresas
-  - estrategia de negocios
-  - toma de decisiones
-  - gestion empresarial
+  - administracion-de-empresas
+  - direccion-de-empresas
+  - estrategia-de-negocios
+  - toma-de-decisiones
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

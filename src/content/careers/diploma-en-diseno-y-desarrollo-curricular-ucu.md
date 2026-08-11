@@ -22,8 +22,8 @@ description: "Diploma en Diseño y Desarrollo Curricular de la UCU. Forma para d
 tags:
   - educacion
   - curriculum
-  - diseno curricular
-  - educacion inclusiva
+  - diseno-curricular
+  - educacion-inclusiva
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

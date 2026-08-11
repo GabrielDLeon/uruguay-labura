@@ -24,10 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
-  - ingenieria forestal
+  - ingenieria-forestal
   - forestal
   - silvicultura
-  - produccion forestal
+  - produccion-forestal
   - agronomia
 draft: true
 createdAt: "2026-07-31 16:58:06"

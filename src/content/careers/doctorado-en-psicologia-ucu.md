@@ -24,7 +24,7 @@ description: "Doctorado en Psicología de la UCU. Forma investigadores para cont
 tags:
   - psicologia
   - investigacion
-  - ciencias sociales
+  - ciencias-sociales
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma de Especialización en Arquitectura Sostenible brinda las herramientas y la capacitación necesaria para incorporar a los proyectos."
 tags:
   - arquitectura
-  - arquitectura sostenible
+  - arquitectura-sostenible
   - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -22,9 +22,9 @@ description: "Objetivos generales: Formar a egresados de distintas disciplinas s
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
-  - estudios latinoamericanos
-  - estudios culturales
+  - ciencias-sociales
+  - estudios-latinoamericanos
+  - estudios-culturales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

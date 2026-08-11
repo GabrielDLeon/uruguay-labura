@@ -18,9 +18,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - matematica
-  - ciencias exactas
+  - ciencias-exactas
   - algebra
-  - analisis matematico
+  - analisis-matematico
 similar:
   - matematica-maestria-udelar
   - ciclo-de-matematica-udelar

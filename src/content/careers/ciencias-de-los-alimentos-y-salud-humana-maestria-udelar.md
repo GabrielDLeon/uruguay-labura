@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - alimentos
-  - ciencia y tecnologia de alimentos
+  - ciencia-y-tecnologia-de-alimentos
   - nutricion
   - salud
 draft: true

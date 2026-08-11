@@ -22,10 +22,10 @@ location: "Campus Virtual"
 description: "Carrera técnica virtual que brinda formación teórico-práctica en ciberseguridad, con especialización en pentesting, IoT, criptografía y gestión de la seguridad de la información."
 tags:
   - ciberseguridad
-  - seguridad informatica
+  - seguridad-informatica
   - informatica
   - pentesting
-  - internet de las cosas
+  - internet-de-las-cosas
   - criptografia
 draft: true
 createdAt: "2026-08-09 15:12:26"

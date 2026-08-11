@@ -22,9 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Mecánica de la UCU. Forma profesionales capaces de diseñar y evaluar sistemas mecánicos y eléctricos en diversos sectores, persiguiendo la optimización e innovación de los sistemas."
 tags:
-  - ingenieria mecanica
-  - sistemas mecanicos
-  - diseno mecanico
+  - ingenieria-mecanica
+  - sistemas-mecanicos
+  - diseno-mecanico
   - mecanica
   - innovacion
 draft: true

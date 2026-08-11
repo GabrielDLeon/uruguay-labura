@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: "Página web de la Facultad de Psicología"
 tags:
   - psicologia
-  - psicologia clinica
-  - evaluacion psicologica
+  - psicologia-clinica
+  - evaluacion-psicologica
   - psicodiagnostico
 draft: true
 createdAt: "2026-07-31 16:58:06"

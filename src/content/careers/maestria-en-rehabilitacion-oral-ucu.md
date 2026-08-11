@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Rehabilitación Oral de la UCU. Forma en prostodoncia, implantología y odontología digital para rehabilitar la salud oral de pacientes adultos según las prácticas y evidencias científicas más recientes."
 tags:
   - odontologia
-  - rehabilitacion oral
+  - rehabilitacion-oral
   - prostodoncia
   - implantologia
 draft: true

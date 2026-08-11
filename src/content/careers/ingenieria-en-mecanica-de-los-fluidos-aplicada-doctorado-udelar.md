@@ -22,8 +22,8 @@ description: "El objetivo general de la carrera de Doctorado es aumentar la gene
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - mecanica de fluidos
-  - ingenieria mecanica
+  - mecanica-de-fluidos
+  - ingenieria-mecanica
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

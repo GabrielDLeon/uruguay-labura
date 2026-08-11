@@ -23,8 +23,8 @@ description: "Maestría en Terapias Contextuales y Contemporáneas – opción a
 tags:
   - psicologia
   - psicoterapia
-  - psicologia clinica
-  - terapias contextuales
+  - psicologia-clinica
+  - terapias-contextuales
   - adultos
 draft: true
 createdAt: "2026-08-10 16:53:42"

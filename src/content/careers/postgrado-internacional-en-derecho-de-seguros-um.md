@@ -23,7 +23,7 @@ location: "Montevideo"
 description: "Postgrado Internacional en Derecho de Seguros de la Universidad de Montevideo. Formación internacional y práctica en seguros y reaseguros, con participación de profesores locales y extranjeros."
 tags:
   - derecho
-  - derecho de seguros
+  - derecho-de-seguros
   - seguros
   - reaseguros
 draft: true

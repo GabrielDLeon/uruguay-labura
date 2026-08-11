@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
-  - medicina nuclear
-  - diagnostico por imagenes
+  - medicina-nuclear
+  - diagnostico-por-imagenes
   - radioisotopos
 draft: true
 createdAt: "2026-07-31 16:58:06"

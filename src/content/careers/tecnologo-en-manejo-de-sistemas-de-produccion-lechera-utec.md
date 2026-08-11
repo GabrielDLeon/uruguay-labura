@@ -29,9 +29,9 @@ updatedAt: "2026-08-07 12:21:06"
 tags:
   - agronomia
   - lecheria
-  - produccion animal
+  - produccion-animal
   - agropecuario
-  - gestion de operaciones
+  - gestion-de-operaciones
 ---
 
 ## Resumen

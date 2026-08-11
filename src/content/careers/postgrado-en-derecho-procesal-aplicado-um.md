@@ -23,7 +23,7 @@ location: "Montevideo"
 description: "Postgrado en Derecho Procesal Aplicado de la Universidad de Montevideo. Formación práctica en derecho procesal y litigación para abogados, jueces, fiscales y demás operadores del sistema judicial."
 tags:
   - derecho
-  - derecho procesal
+  - derecho-procesal
   - litigacion
   - justicia
 draft: true

@@ -22,10 +22,10 @@ location: "Montevideo"
 description: "MBA del IEEM, Escuela de Negocios de la Universidad de Montevideo. Máster en Dirección y Administración de Empresas con método del caso extendido, coaching y semanas internacionales, con acreditaciones AMBA y EFMD EMBA."
 tags:
   - mba
-  - direccion de empresas
+  - direccion-de-empresas
   - administracion
   - liderazgo
-  - gestion empresarial
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -22,8 +22,8 @@ location: "Montevideo, Punta del Este y Colonia"
 description: "Abogacía de la Universidad de la Empresa (UDE). Forma profesionales universitarios con un criterio jurídico global, formación práctica y énfasis en el asesoramiento empresarial, en Montevideo, Punta del Este y Colonia."
 tags:
   - derecho
-  - ciencias juridicas
-  - asesoramiento empresarial
+  - ciencias-juridicas
+  - asesoramiento-empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -22,9 +22,9 @@ description: "A través de este proyecto de Maestría en Salud Mental nos propon
 startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Jaime Cibils 2810"
 tags:
-  - salud mental
+  - salud-mental
   - psicologia
-  - salud publica
+  - salud-publica
   - psiquiatria
   - medicina
 draft: true

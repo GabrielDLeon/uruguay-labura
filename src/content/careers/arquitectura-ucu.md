@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Arquitectura de la UCU. Forma profesionales para desarrollar proyectos de arquitectura, diseño y territorio con enfoque tecnológico, ambiental y práctico desde el primer semestre."
 tags:
   - arquitectura
-  - diseno arquitectonico
+  - diseno-arquitectonico
   - urbanismo
   - sostenibilidad
 draft: true

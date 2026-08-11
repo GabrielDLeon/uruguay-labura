@@ -23,9 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - paisajismo
-  - arquitectura del paisaje
+  - arquitectura-del-paisaje
   - diseno
-  - diseno de espacios
+  - diseno-de-espacios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

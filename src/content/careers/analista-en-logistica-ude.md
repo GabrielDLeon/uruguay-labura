@@ -20,8 +20,8 @@ location: "Montevideo"
 description: "Carrera técnica virtual con instancias presenciales de evaluación que forma profesionales para la gestión logística y las cadenas de suministro."
 tags:
   - logistica
-  - cadena de suministros
-  - gestion de operaciones
+  - cadena-de-suministros
+  - gestion-de-operaciones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

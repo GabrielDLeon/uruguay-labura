@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Una visión amplia de las relaciones internacionales globales en materia de diplomacia, comercio, política exterior, organismos internacionales, etc."
 tags:
-  - relaciones internacionales
+  - relaciones-internacionales
   - diplomacia
-  - comercio internacional
-  - ciencia politica
+  - comercio-internacional
+  - ciencia-politica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

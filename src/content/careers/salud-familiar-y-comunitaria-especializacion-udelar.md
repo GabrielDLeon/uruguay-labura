@@ -22,11 +22,11 @@ description: "Formar Enfermeros Especialistas en Salud Familiar y Comunitaria qu
 startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
-  - salud publica
+  - salud-publica
   - enfermeria
-  - medicina familiar
-  - atencion primaria
-  - atencion comunitaria
+  - medicina-familiar
+  - atencion-primaria
+  - atencion-comunitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

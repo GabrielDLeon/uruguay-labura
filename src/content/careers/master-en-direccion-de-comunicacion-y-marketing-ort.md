@@ -24,9 +24,9 @@ description: "Master en Dirección de Comunicación y Marketing de ORT Uruguay. 
 tags:
   - comunicacion
   - marketing
-  - comunicacion estrategica
-  - marketing digital
-  - direccion de comunicacion
+  - comunicacion-estrategica
+  - marketing-digital
+  - direccion-de-comunicacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

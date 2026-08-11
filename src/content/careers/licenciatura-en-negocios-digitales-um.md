@@ -22,11 +22,11 @@ location: "Montevideo"
 description: "Licenciatura en Negocios Digitales de la Universidad de Montevideo. Forma para emprender modelos de negocio en el terreno digital o liderar la transformación tecnológica de organizaciones existentes."
 tags:
   - negocios
-  - negocios digitales
-  - transformacion digital
+  - negocios-digitales
+  - transformacion-digital
   - emprendimiento
-  - comercio electronico
-  - modelo de negocios
+  - comercio-electronico
+  - modelo-de-negocios
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

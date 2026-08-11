@@ -22,8 +22,8 @@ accreditation: "UTEC"
 description: "Especialización en Ciberseguridad de UTEC, en colaboración con la Universitat Oberta de Catalunya (UOC) y AGESIC. Formación de posgrado en modalidad online para proteger sistemas, redes y datos frente a amenazas cibernéticas."
 tags:
   - ciberseguridad
-  - seguridad informatica
-  - seguridad de la informacion
+  - seguridad-informatica
+  - seguridad-de-la-informacion
   - informatica
   - redes
 draft: true

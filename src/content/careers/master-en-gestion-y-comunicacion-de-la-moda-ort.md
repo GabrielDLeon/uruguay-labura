@@ -24,7 +24,7 @@ description: "Esta maestría especializada tiene como objetivo formar profesiona
 tags:
   - negocios
   - moda
-  - gestion empresarial
+  - gestion-empresarial
   - emprendimiento
   - comunicacion
 draft: true

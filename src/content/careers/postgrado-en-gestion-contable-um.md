@@ -22,8 +22,8 @@ location: "Campus Virtual"
 description: "Postgrado en Gestión Contable de la Universidad de Montevideo (UMPE). Profundiza la normativa contable y el análisis de la información contable para la toma de decisiones, en modalidad online."
 tags:
   - contabilidad
-  - gestion contable
-  - toma de decisiones
+  - gestion-contable
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

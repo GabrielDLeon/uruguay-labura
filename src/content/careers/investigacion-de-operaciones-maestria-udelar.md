@@ -22,7 +22,7 @@ description: "La Maestría en Investigación de Operaciones se dirige a egresado
 startDate: ""
 applicationDeadline: ""
 tags:
-  - investigacion de operaciones
+  - investigacion-de-operaciones
   - matematica
   - estadistica
   - optimizacion

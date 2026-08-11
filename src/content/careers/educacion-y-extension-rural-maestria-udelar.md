@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
   - educacion
-  - desarrollo rural
-  - extension rural
+  - desarrollo-rural
+  - extension-rural
   - agronomia
 draft: true
 createdAt: "2026-07-31 16:58:06"

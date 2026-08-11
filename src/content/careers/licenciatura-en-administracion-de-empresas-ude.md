@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Administración de Empresas de la Universidad de la Empresa. Forma profesionales universitarios con un amplio conocimiento de las técnicas de gestión más modernas, preparados para actuar a nivel ejecutivo y de dirección, con posibilidad de doble titulación internacional con la Universidad de Trento."
 tags:
   - administracion
-  - administracion de empresas
-  - direccion de empresas
-  - gestion empresarial
+  - administracion-de-empresas
+  - direccion-de-empresas
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

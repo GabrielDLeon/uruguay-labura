@@ -24,7 +24,7 @@ applicationDeadline: ""
 tags:
   - tributacion
   - impuestos
-  - derecho tributario
+  - derecho-tributario
   - contabilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"

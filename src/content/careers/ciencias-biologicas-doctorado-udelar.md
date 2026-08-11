@@ -23,8 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - biologia
-  - ciencias naturales
-  - biologia molecular
+  - ciencias-naturales
+  - biologia-molecular
   - genetica
 draft: true
 createdAt: "2026-07-31 16:58:06"

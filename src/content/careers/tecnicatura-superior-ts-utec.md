@@ -34,7 +34,7 @@ tags:
   - informatica
   - programacion
   - testing
-  - calidad de software
+  - calidad-de-software
   - infraestructura
 ---
 

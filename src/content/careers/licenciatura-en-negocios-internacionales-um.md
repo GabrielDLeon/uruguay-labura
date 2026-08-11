@@ -21,11 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/of
 location: "Montevideo"
 description: "Licenciatura en Negocios Internacionales de la Universidad de Montevideo. Forma profesionales multidisciplinarios con visión global y formación en lenguas, con un semestre de estudios en el exterior y otro con cursos en inglés."
 tags:
-  - negocios internacionales
-  - comercio exterior
-  - comercio internacional
-  - logistica internacional
-  - lenguas extranjeras
+  - negocios-internacionales
+  - comercio-exterior
+  - comercio-internacional
+  - logistica-internacional
+  - lenguas-extranjeras
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

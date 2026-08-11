@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño Industrial de la UDE. Forma profesionales universitarios capaces de actuar en la gestión estratégica, táctica y operativa del diseño y en la elaboración de proyectos, con innovación y aptitud analítica."
 tags:
   - diseno
-  - diseno industrial
-  - diseno de productos
+  - diseno-industrial
+  - diseno-de-productos
   - innovacion
 draft: true
 createdAt: "2026-08-09 15:12:26"

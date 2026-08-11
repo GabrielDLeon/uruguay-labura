@@ -25,9 +25,9 @@ applicationDeadline: ""
 credits: 320
 tags:
   - quimica
-  - ciencias exactas
-  - quimica organica
-  - quimica analitica
+  - ciencias-exactas
+  - quimica-organica
+  - quimica-analitica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

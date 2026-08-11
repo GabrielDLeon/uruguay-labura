@@ -24,8 +24,8 @@ tags:
   - telematica
   - telecomunicaciones
   - redes
-  - comunicaciones inalambricas
-  - redes de datos
+  - comunicaciones-inalambricas
+  - redes-de-datos
   - programacion
 draft: true
 createdAt: "2026-08-10 16:53:42"

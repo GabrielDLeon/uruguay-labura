@@ -24,7 +24,7 @@ description: "Maestría en Neuropsicología del Desarrollo y Aprendizaje de la U
 tags:
   - neuropsicologia
   - neurodesarrollo
-  - dificultades de aprendizaje
+  - dificultades-de-aprendizaje
   - aprendizaje
   - salud
 draft: true

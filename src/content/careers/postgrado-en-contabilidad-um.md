@@ -24,7 +24,7 @@ tags:
   - contabilidad
   - tributacion
   - impuestos
-  - gestion contable
+  - gestion-contable
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

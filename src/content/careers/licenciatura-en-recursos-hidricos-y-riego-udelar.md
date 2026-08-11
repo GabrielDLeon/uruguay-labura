@@ -23,11 +23,11 @@ description: "Ofrecer al país la formación de profesionales especialistas en a
 startDate: ""
 applicationDeadline: ""
 tags:
-  - recursos hidricos
+  - recursos-hidricos
   - agua
   - riego
   - hidrologia
-  - programa roberto rocca
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

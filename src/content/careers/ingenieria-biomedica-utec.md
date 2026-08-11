@@ -23,11 +23,11 @@ location: "Fray Bentos (ITR Suroeste)"
 accreditation: "UTEC"
 description: "Ingeniería gratuita en Biomédica de UTEC, presencial en Fray Bentos. Formación en mantenimiento, adquisición y gestión de equipos biomédicos y tecnología para el sector salud. Título intermedio de Tecnólogo."
 tags:
-  - ingenieria biomedica
+  - ingenieria-biomedica
   - salud
-  - tecnologia medica
-  - dispositivos medicos
-  - equipos biomedicos
+  - tecnologia-medica
+  - dispositivos-medicos
+  - equipos-biomedicos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

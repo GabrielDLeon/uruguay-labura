@@ -23,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Productor Musical de ORT Uruguay. El Productor Musical es el profesional capacitado para la creación y producción de música desde un punto de vista artístico y técnico simultáneamente."
 tags:
   - musica
-  - produccion musical
-  - arte sonoro
+  - produccion-musical
+  - arte-sonoro
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -22,9 +22,9 @@ description: "El Programa de Doctorado es un programa estratégico de la Faculta
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - demografia
-  - analisis sociodemografico
+  - analisis-sociodemografico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

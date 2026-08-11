@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Dirección de Empresas de la UCU. Forma profesionales capaces de liderar y gestionar organizaciones, tomar decisiones estratégicas sostenibles e impulsar la innovación, con un plan de estudios actualizado."
 tags:
   - administracion
-  - direccion de empresas
+  - direccion-de-empresas
   - liderazgo
-  - estrategia de negocios
+  - estrategia-de-negocios
   - innovacion
   - sostenibilidad
 draft: true

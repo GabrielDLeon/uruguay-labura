@@ -23,9 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicoterapia Cognitiva de Adultos y Familias - Modalidad First Experience de la UCU. Forma para evaluar, intervenir y asesorar en los diversos cuadros psicopatológicos vinculados a la salud mental de las personas adultas."
 tags:
   - psicologia
-  - psicologia clinica
+  - psicologia-clinica
   - psicoterapia
-  - psicoterapia cognitiva
+  - psicoterapia-cognitiva
   - adultos
   - familias
 draft: true

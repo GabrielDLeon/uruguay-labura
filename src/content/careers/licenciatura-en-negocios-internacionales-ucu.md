@@ -22,11 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Negocios Internacionales de la UCU. Forma profesionales para desempeñarse en un entorno global, con herramientas de comercio exterior, logística e integración económica, y dominio del inglés, portugués y chino mandarín."
 tags:
-  - negocios internacionales
-  - comercio exterior
-  - logistica internacional
-  - integracion regional
-  - lenguas extranjeras
+  - negocios-internacionales
+  - comercio-exterior
+  - logistica-internacional
+  - integracion-regional
+  - lenguas-extranjeras
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

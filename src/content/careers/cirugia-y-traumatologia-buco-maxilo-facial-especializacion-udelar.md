@@ -23,7 +23,7 @@ startDate: ""
 applicationDeadline: "www.odon.edu.uy"
 tags:
   - odontologia
-  - cirugia maxilofacial
+  - cirugia-maxilofacial
   - cirugia
   - medicina
 draft: true

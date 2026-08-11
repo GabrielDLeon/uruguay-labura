@@ -23,11 +23,11 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Edificaciones en Madera de ORT Uruguay. Formate como profesional en construcción en madera. Dominá el diseño, la evaluación de impactos ambientales, el uso de energías renovables y más."
 tags:
   - construccion
-  - construccion en madera
-  - arquitectura de madera
+  - construccion-en-madera
+  - arquitectura-de-madera
   - diseno
-  - energias renovables
-  - evaluacion de impacto ambiental
+  - energias-renovables
+  - evaluacion-de-impacto-ambiental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

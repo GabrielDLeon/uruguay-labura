@@ -22,9 +22,9 @@ contactEmail: "datascience@utec.edu.uy"
 accreditation: "UTEC"
 description: "Especialización en Ciencia de Datos e Inteligencia Artificial de UTEC en colaboración con el MIT. Posgrado semipresencial orientado al análisis de datos, machine learning e IA con abordaje aplicado."
 tags:
-  - ciencia de datos
-  - inteligencia artificial
-  - machine learning
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - machine-learning
   - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"
