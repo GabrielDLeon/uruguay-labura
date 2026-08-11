@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Medicina del Deporte"
 similar:
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - hemoterapia-y-medicina-transfucional-especializacion-udelar
   - medicina-familiar-y-comunitaria-especializacion-udelar
   - medicina-intensiva-especializacion-udelar
   - medicina-interna-especializacion-udelar
-  - medicina-legal-especializacion-udelar
-  - medicina-nuclear-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

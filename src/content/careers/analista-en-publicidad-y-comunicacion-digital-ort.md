@@ -5,8 +5,8 @@ similar:
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
   - analista-en-marketing-digital-y-comercio-electronico-ort
   - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - licenciatura-en-comunicacion-udelar
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - master-en-direccion-de-comunicacion-y-marketing-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

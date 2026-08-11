@@ -1,6 +1,8 @@
 ---
 title: "Licenciatura en Imagenología"
-similar: []
+similar:
+  - diplomado-de-especialista-en-resonancia-magnetica-ude
+  - diplomado-tomografia-computada-multicorte-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

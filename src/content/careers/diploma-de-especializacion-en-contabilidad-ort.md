@@ -2,11 +2,11 @@
 title: "Diploma de Especialización en Contabilidad"
 similar:
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - postgrado-en-contabilidad-um
   - master-en-contabilidad-y-finanzas-ort
   - contabilidad-y-auditoria-maestria-udelar
   - tecnologo-en-administracion-y-contabilidad-udelar
-  - contabilidad-especializacion-udelar
-  - contador-publico-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

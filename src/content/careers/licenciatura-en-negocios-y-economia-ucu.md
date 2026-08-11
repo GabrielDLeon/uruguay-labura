@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Negocios y Economía"
+similar:
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciatura-en-economia-um
+  - licenciatura-en-economia-y-finanzas-ude
+  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-economia-ucu
+  - licenciatura-en-datos-y-negocios-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

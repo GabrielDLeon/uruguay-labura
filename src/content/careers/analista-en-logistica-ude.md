@@ -1,6 +1,11 @@
 ---
 title: "Analista en Logística"
-similar: []
+similar:
+  - licenciatura-en-logistica-ude
+  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
+  - ingenieria-en-logistica-utec
+  - tecnologo-en-logistica-utec
+  - analista-en-comercio-exterior-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

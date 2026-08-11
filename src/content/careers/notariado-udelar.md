@@ -1,12 +1,12 @@
 ---
 title: "Notariado"
 similar:
+  - notariado-um
   - derecho-orientancion-derecho-comercial-maestria-udelar
   - derecho-comercial-especializacion-udelar
+  - notariado-ucu
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - derecho-doctorado-udelar
-  - derecho-internacional-publico-especializacion-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"

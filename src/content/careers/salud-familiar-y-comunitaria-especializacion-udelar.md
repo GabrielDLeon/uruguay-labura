@@ -3,8 +3,8 @@ title: "Especialización en Salud Familiar y Comunitaria"
 similar:
   - medicina-familiar-y-comunitaria-especializacion-udelar
   - salud-mental-y-psiquiatria-especializacion-udelar
-  - salud-mental-maestria-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - salud-mental-maestria-udelar
   - tecnicatura-en-salud-ocupacional-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

@@ -1,5 +1,12 @@
 ---
 title: "Ingeniería Ambiental"
+similar:
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
+  - maestria-en-gestion-ambiental-ude
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-ambiental-doctorado-udelar
+  - ingenieria-ambiental-especializacion-udelar
+  - ingenieria-ambiental-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

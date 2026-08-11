@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Psicología de la Salud y Deporte"
+similar:
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - medicina-del-deporte-especializacion-udelar
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

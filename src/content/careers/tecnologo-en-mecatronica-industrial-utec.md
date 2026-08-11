@@ -3,11 +3,11 @@ title: "Tecnólogo en Mecatrónica Industrial"
 short: "Tecnólogo en Mecatrónica Industrial"
 similar:
   - tecnologo-en-mecatronica-utec
-  - ingenieria-en-control-y-automatica-utec
   - tecnologo-industrial-mecanico-utec
   - ingenieria-en-mecatronica-utec
   - tecnologo-industrial-mecanico-udelar
   - ingenieria-industrial-mecanica-udelar
+  - ingenieria-industrial-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"

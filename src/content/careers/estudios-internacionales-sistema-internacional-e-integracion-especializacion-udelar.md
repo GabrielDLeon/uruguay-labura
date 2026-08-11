@@ -3,10 +3,9 @@ title: "Especialización en Estudios Internacionales -sistema Internacional e In
 similar:
   - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
   - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
-  - sociologia-maestria-udelar
-  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
-  - licenciatura-en-relaciones-internacionales-udelar
   - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
+  - demografia-y-estudios-de-poblacion-maestria-udelar
+  - licenciatura-en-relaciones-internacionales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

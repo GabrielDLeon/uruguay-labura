@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Marketing y Estrategia Comercial"
+similar:
+  - maestria-en-marketing-y-direccion-comercial-ude
+  - licenciatura-en-marketing-y-direccion-comercial-ort
+  - master-en-direccion-comercial-y-marketing-ort
+  - analista-en-marketing-ude
+  - licenciatura-en-marketing-um
+  - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

@@ -2,12 +2,12 @@
 title: "Tecnólogo en Control Ambiental"
 short: "Tecnólogo en Control Ambiental"
 similar:
+  - maestria-en-gestion-ambiental-ude
   - educacion-ambiental-especializacion-udelar
   - educacion-ambiental-maestria-udelar
   - ingenieria-ambiental-doctorado-udelar
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-ambiental-maestria-udelar
-  - licenciatura-en-gestion-ambiental-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"

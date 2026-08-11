@@ -2,11 +2,6 @@
 title: "Licenciatura en Geografía"
 similar:
   - geografia-especializacion-udelar
-  - licenciatura-en-trabajo-social-udelar
-  - analisis-sociodemografico-especializacion-udelar
-  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

@@ -3,10 +3,6 @@ title: "Bioquímico Clínico"
 similar:
   - quimica-farmaceutica-udelar
   - quimico-udelar
-  - bachiller-en-ciencias-quimicas-udelar
-  - licenciatura-en-bioquimica-udelar
-  - licenciatura-en-quimica-udelar
-  - ingenieria-quimica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"

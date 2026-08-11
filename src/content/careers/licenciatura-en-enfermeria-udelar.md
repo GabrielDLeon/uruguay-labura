@@ -2,11 +2,11 @@
 title: "Licenciatura en Enfermería"
 similar:
   - enfermeria-medico-quirurgica-especializacion-udelar
+  - licenciatura-en-enfermeria-ude
   - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
   - enfermeria-en-nefrologia-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
-  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
-  - enfermeria-oncologica-especializacion-udelar
+  - licenciatura-en-enfermeria-profesionalizacion-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

@@ -4,9 +4,9 @@ similar:
   - gerencia-y-administracion-mba-maestria-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
   - tecnico-en-administracion-udelar
-  - licenciatura-en-administracion-udelar
   - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
   - contabilidad-y-auditoria-maestria-udelar
+  - diploma-de-especializacion-en-contabilidad-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"

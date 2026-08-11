@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Finanzas"
+similar:
+  - licenciatura-en-finanzas-um
+  - master-en-contabilidad-y-finanzas-ort
+  - licenciatura-en-economia-y-finanzas-ude
+  - postgrado-de-especializacion-en-gestion-de-portafolios-um
+  - postgrado-en-finanzas-corporativas-um
+  - diploma-de-especializacion-en-impuestos-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

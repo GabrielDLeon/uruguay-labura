@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Computación"
 similar:
-  - estudios-avanzados-de-computacion-especializacion-udelar
   - ingenieria-en-computacion-udelar
+  - estudios-avanzados-de-computacion-especializacion-udelar
   - ingenieria-en-sistemas-de-comunicacion-udelar
-  - tecnologo-en-telecomunicaciones-udelar
   - ingenieria-en-computacion-maestria-udelar
-  - tecnologo-en-analisis-y-gestion-de-datos-utec
+  - licenciatura-en-administracion-udelar
+  - ingenieria-en-sistemas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

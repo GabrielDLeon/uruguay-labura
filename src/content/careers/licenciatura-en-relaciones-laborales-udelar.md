@@ -1,12 +1,7 @@
 ---
 title: "Licenciatura en Relaciones Laborales"
 similar:
-  - licenciatura-en-ciencia-politica-udelar
   - licenciatura-en-relaciones-internacionales-udelar
-  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
-  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

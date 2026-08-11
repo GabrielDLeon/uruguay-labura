@@ -2,11 +2,11 @@
 title: "Licenciatura en Economía"
 similar:
   - licenciatura-en-economia-udelar
-  - contador-publico-ort
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
-  - economia-fcs-especializacion-udelar
-  - economia-maestria-fcs-udelar
+  - maestria-en-economia-um
+  - licenciatura-en-economia-ucu
+  - licenciatura-en-economia-um
+  - licenciatura-en-economia-y-finanzas-ude
+  - licenciatura-en-negocios-y-economia-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

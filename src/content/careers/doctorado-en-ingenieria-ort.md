@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Ingeniería"
 similar:
+  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
   - ingenieria-ambiental-doctorado-udelar
+  - doctorado-en-ingenieria-ucu
+  - ingenieria-en-informatica-ucu
   - ingenieria-en-computacion-maestria-udelar
   - ingenieria-fisica-maestria-udelar
-  - ingenieria-mecanica-doctorado-udelar
-  - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-estructural-doctorado-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "doctorado"

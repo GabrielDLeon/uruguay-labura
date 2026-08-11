@@ -5,8 +5,8 @@ similar:
   - ingenieria-ambiental-maestria-udelar
   - ingenieria-de-la-energia-doctorado-udelar
   - ingenieria-de-la-energia-especializacion-udelar
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
   - ingenieria-electrica-ort
-  - ingenieria-en-energias-renovables-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

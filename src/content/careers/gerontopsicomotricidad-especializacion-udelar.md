@@ -1,12 +1,6 @@
 ---
 title: "Especialización en Gerontopsicomotricidad"
-similar:
-  - enfermedades-infecciosas-especializacion-udelar
-  - hepatologia-del-adulto-especializacion-udelar
-  - laboratorio-de-patologia-clinica-especializacion-udelar
-  - neonatologia-especializacion-udelar
-  - todas-las-areas-del-conocimiento-biomedico-maestria-udelar
-  - obstetra-partera-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -1,6 +1,7 @@
 ---
 title: "Producción Animal"
-similar: []
+similar:
+  - tecnico-en-ciencias-veterinarias-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

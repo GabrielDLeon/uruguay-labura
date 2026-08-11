@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Negocios Internacionales"
+similar:
+  - licenciatura-en-negocios-internacionales-um
+  - analista-en-comercio-exterior-ude
+  - licenciatura-en-negocios-y-economia-ucu
+  - licenciatura-en-estudios-internacionales-ort
+  - licenciatura-en-datos-y-negocios-ucu
+  - postgrado-en-negocios-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

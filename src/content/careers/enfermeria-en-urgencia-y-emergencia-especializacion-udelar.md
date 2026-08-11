@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Enfermería en Urgencia y Emergencia"
 similar:
-  - cuidado-intensivo-de-infancia-y-adolescencia-especializacion-udelar
   - enfermeria-oncologica-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
-  - ciudados-intensivos-especializacion-udelar
   - enfermeria-en-nefrologia-especializacion-udelar
   - enfermeria-medico-quirurgica-especializacion-udelar
+  - licenciatura-en-enfermeria-udelar
+  - licenciatura-en-enfermeria-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

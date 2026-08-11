@@ -1,6 +1,12 @@
 ---
 title: "Diplomado en Fisioterapia en el Deporte"
-similar: []
+similar:
+  - licenciatura-en-fisioterapia-ucu
+  - licenciatura-en-fisioterapia-ude
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - licenciatura-en-fisioterapia-udelar
+  - diplomado-de-especialista-en-resonancia-magnetica-ude
+  - diplomado-tomografia-computada-multicorte-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

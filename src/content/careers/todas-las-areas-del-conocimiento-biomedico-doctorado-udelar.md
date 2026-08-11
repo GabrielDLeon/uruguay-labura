@@ -2,11 +2,6 @@
 title: "Doctorado en Todas las Áreas del Conocimiento Biomédico"
 similar:
   - todas-las-areas-del-conocimiento-biomedico-maestria-udelar
-  - enfermedades-infecciosas-especializacion-udelar
-  - gerontopsicomotricidad-especializacion-udelar
-  - hepatologia-del-adulto-especializacion-udelar
-  - laboratorio-de-patologia-clinica-especializacion-udelar
-  - neonatologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Matemática Mención Enseñanza y Mención Tecnología"
 similar:
+  - profesorado-de-matematica-um
   - licenciatura-en-matematica-udelar
   - ingenieria-matematica-maestria-udelar
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
-  - ensenanza-de-lenguas-extranjeras-maestria-udelar
   - matematica-maestria-udelar
+  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

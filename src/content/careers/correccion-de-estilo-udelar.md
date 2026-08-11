@@ -1,12 +1,12 @@
 ---
 title: "Corrección de Estilo"
 similar:
-  - interpretacion-lsu-espanol-lsu-udelar
   - traductorado-publico-aleman-udelar
   - traductorado-publico-frances-udelar
   - traductorado-publico-ingles-udelar
   - traductorado-publico-italiano-udelar
   - traductorado-publico-portugues-udelar
+  - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

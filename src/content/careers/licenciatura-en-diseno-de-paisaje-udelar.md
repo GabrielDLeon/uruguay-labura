@@ -4,9 +4,9 @@ similar:
   - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
   - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - proyecto-de-paisaje-especializacion-udelar
-  - diseno-y-produccion-de-videojuegos-ort
-  - tecnico-en-paisajismo-ort
   - habitat-y-vivienda-especializacion-udelar
+  - diseno-y-produccion-de-videojuegos-ort
+  - licenciatura-en-diseno-integrado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

@@ -1,6 +1,12 @@
 ---
 title: "Técnico en Ciencias Veterinarias"
-similar: []
+similar:
+  - tecnico-asistente-veterinario-ude
+  - doctor-en-ciencias-veterinarias-udelar
+  - produccion-animal-ude
+  - tecnologo-en-produccion-equina-udelar
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - nutricion-de-rumiantes-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

@@ -1,5 +1,12 @@
 ---
 title: "Ingeniería en Telecomunicaciones"
+similar:
+  - ingenieria-telematica-um
+  - ingenieria-en-telecomunicaciones-ort
+  - ingenieria-en-informatica-ucu
+  - ingenieria-en-informatica-ude
+  - ingenieria-ambiental-ucu
+  - ingenieria-en-electronica-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

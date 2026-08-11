@@ -3,10 +3,10 @@ title: "Maestría en Derecho del Trabajo y de la Seguridad Social"
 similar:
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - fundamentos-de-trabajo-social-especializacion-udelar
+  - licenciatura-en-trabajo-social-ucu
   - licenciatura-en-trabajo-social-udelar
-  - trabajo-social-maestria-udelar
   - derecho-procesal-especializacion-udelar
-  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - trabajo-social-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

@@ -1,12 +1,12 @@
 ---
 title: "Carrera de Arquitectura"
 similar:
+  - arquitectura-ucu
   - diploma-de-especializacion-en-arquitectura-sostenible-ort
   - arquitectura-udelar
   - arquitectura-doctorado-udelar
   - arquitectura-en-madera-especializacion-udelar
   - arquitectura-maestria-udelar
-  - construccion-de-obras-de-arquitectura-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "carrera"

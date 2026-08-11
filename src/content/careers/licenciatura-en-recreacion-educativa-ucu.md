@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Recreación Educativa"
+similar:
+  - tecnicatura-en-educacion-y-recreacion-ucu
+  - maestria-en-liderazgo-y-gestion-educativa-ucu
+  - licenciatura-en-educacion-ucu
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - diploma-en-innovacion-educativa-ucu
+  - master-en-gestion-educativa-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

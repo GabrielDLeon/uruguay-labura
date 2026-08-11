@@ -18,13 +18,7 @@ applicationDeadline: ""
 credits: 360
 tags:
   - salud
-similar:
-  - licenciatura-en-registros-medicos-udelar
-  - tecnicatura-en-radioisotopos-udelar
-  - licenciatura-en-laboratorio-clinico-udelar
-  - licenciatura-en-neumocardiologia-udelar
-  - enfermedades-infecciosas-especializacion-udelar
-  - gerodontologia-especializacion-udelar
+similar: []
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

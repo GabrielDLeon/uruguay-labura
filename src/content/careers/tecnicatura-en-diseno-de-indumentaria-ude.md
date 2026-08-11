@@ -1,5 +1,12 @@
 ---
 title: "Tecnicatura en Diseño de Indumentaria"
+similar:
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - tecnico-en-diseno-de-interiores-ude
+  - tecnico-en-diseno-grafico-ude
+  - disenador-de-moda-ude
+  - licenciatura-en-diseno-grafico-ude
+  - licenciatura-en-diseno-industrial-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

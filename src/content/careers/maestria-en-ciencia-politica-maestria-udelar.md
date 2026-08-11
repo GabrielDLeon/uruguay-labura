@@ -2,11 +2,8 @@
 title: "Maestría en Maestria en Ciencia Política"
 similar:
   - licenciatura-en-ciencia-politica-udelar
-  - sociologia-maestria-udelar
+  - licenciatura-en-ciencia-politica-ucu
   - ciencia-politica-doctorado-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
-  - investigacion-social-aplicada-especializacion-udelar
-  - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

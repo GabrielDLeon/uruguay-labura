@@ -4,9 +4,9 @@ similar:
   - agronomia-especializacion-udelar
   - desarrollo-rural-sustentable-maestria-udelar
   - desarrollo-rural-sustentable-especializacion-udelar
+  - agronomia-ucu
   - ciencias-agrarias-doctorado-udelar
   - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
-  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

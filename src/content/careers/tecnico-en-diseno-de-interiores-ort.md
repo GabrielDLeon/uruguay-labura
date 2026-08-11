@@ -2,8 +2,8 @@
 title: "Técnico en Diseño de Interiores"
 similar:
   - licenciatura-en-diseno-de-interiores-ort
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - licenciatura-en-diseno-grafico-ort
+  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - master-en-diseno-estrategico-e-innovacion-ort
   - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
   - diseno-y-produccion-de-videojuegos-ort

@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Gestión Contable"
-similar: []
+similar:
+  - contador-publico-ude
+  - postgrado-en-contabilidad-um
+  - postgrado-en-tributacion-aplicada-um
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
+  - contador-publico-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

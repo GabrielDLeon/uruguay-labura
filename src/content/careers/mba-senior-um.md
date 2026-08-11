@@ -1,6 +1,12 @@
 ---
 title: "MBA Senior — Máster en Dirección y Administración de Empresas"
-similar: []
+similar:
+  - mba-um
+  - maestria-en-direccion-de-empresas-de-salud-um
+  - maestria-en-direccion-y-administracion-de-empresas-ude
+  - licenciatura-en-administracion-de-empresas-ude
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - gerencia-y-administracion-mba-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

@@ -2,11 +2,6 @@
 title: "Maestría en Todas las Áreas del Conocimiento Biomédico"
 similar:
   - todas-las-areas-del-conocimiento-biomedico-doctorado-udelar
-  - gerodontologia-especializacion-udelar
-  - enfermedades-infecciosas-especializacion-udelar
-  - gerontopsicomotricidad-especializacion-udelar
-  - hepatologia-del-adulto-especializacion-udelar
-  - laboratorio-de-patologia-clinica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

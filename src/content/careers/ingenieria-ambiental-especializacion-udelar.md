@@ -5,8 +5,8 @@ similar:
   - ingenieria-de-minas-maestria-udelar
   - ingenieria-de-la-energia-especializacion-udelar
   - hidrologia-subterranea-especializacion-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
   - ingenieria-ambiental-doctorado-udelar
+  - ingenieria-ambiental-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

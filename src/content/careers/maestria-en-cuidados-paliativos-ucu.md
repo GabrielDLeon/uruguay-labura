@@ -1,5 +1,7 @@
 ---
 title: "Maestría en Cuidados Paliativos"
+similar:
+  - maestria-en-cuidados-paliativos-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

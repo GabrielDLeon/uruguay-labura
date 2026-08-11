@@ -6,7 +6,7 @@ similar:
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - ciencias-odontologicas-doctorado-udelar
   - odontologia-udelar
-  - asistente-en-odontologia-udelar
+  - maestria-en-periodoncia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

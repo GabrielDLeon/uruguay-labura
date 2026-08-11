@@ -1,8 +1,12 @@
 ---
 title: "Licenciatura en Diseño Gráfico"
 similar:
-  - licenciatura-en-diseno-de-comunicacion-visual-udelar
+  - disenador-grafico-ude
+  - tecnico-en-diseno-grafico-ude
+  - tecnico-en-diseno-de-interiores-ude
+  - licenciatura-en-diseno-de-indumentaria-ude
   - licenciatura-en-diseno-industrial-ude
+  - tecnicatura-en-diseno-de-indumentaria-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

@@ -1,12 +1,10 @@
 ---
 title: "Técnico en Paisajismo"
 similar:
-  - licenciatura-en-diseno-de-paisaje-udelar
   - carrera-de-arquitectura-ort
-  - construccion-en-obras-de-arquitectura-maestria-udelar
   - diploma-de-especializacion-en-arquitectura-sostenible-ort
-  - arquitectura-en-madera-especializacion-udelar
-  - habitat-y-vivienda-especializacion-udelar
+  - arquitectura-ucu
+  - master-en-edificaciones-en-madera-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

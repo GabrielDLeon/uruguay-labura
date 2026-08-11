@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Especialización en Negocios Inmobiliarios"
 similar:
+  - postgrado-en-negocios-ude
+  - licenciatura-en-datos-y-negocios-ucu
   - licenciatura-en-negocios-digitales-ort
-  - diploma-de-especializacion-en-analitica-de-negocios-ort
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
-  - master-en-business-analytics-ort
-  - diploma-de-especializacion-en-fiscalidad-internacional-ort
-  - licenciatura-en-gerencia-y-administracion-ort
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciatura-en-negocios-y-economia-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

@@ -1,5 +1,10 @@
 ---
 title: "Licenciatura en Sociología"
+similar:
+  - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
+  - sociologia-maestria-udelar
+  - sociologia-doctorado-udelar
+  - licenciatura-en-sociologia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

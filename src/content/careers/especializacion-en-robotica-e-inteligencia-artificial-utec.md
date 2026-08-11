@@ -5,8 +5,8 @@ similar:
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - diploma-de-especializacion-en-inteligencia-artificial-ort
   - master-en-inteligencia-artificial-ort
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
-  - ciencia-de-datos-especializacion-udelar
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - diploma-en-inteligencia-artificial-aplicada-ude
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"

@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Analítica de Negocios"
-similar: []
+similar:
+  - licenciatura-en-negocios-digitales-um
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
+  - postgrado-en-transformacion-digital-y-derecho-um
+  - licenciatura-en-datos-y-negocios-ucu
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

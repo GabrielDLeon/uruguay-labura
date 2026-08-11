@@ -1,5 +1,12 @@
 ---
 title: "Inteligencia Artificial y Ciencia de Datos"
+similar:
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - diploma-en-inteligencia-artificial-aplicada-ude
+  - licenciatura-en-datos-y-negocios-ucu
+  - agronomia-ucu
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
+  - postgrado-en-analitica-de-negocios-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

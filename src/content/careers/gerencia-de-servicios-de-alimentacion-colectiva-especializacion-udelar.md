@@ -3,10 +3,10 @@ title: "Especialización en Gerencia de Servicios de Alimentación Colectiva"
 similar:
   - gerencia-y-administracion-mba-maestria-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
-  - master-en-gestion-educativa-ort
   - gestion-de-servicios-de-salud-maestria-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
   - licenciatura-en-gerencia-y-administracion-ort
+  - licenciatura-en-direccion-de-empresas-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

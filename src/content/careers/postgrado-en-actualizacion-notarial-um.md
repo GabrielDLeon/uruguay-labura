@@ -1,6 +1,9 @@
 ---
 title: "Postgrado en Actualización Notarial"
-similar: []
+similar:
+  - escribania-ude
+  - notariado-ucu
+  - notariado-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

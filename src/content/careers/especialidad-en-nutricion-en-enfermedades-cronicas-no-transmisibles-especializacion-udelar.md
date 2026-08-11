@@ -2,8 +2,9 @@
 title: "Especialización en Especialidad en Nutrición en Enfermedades Crónicas No Transmisibles"
 similar:
   - licenciatura-en-nutricion-udelar
+  - licenciatura-en-nutricion-ucu
+  - maestria-en-nutricion-ucu
   - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
-  - ciencias-nutricionales-maestria-udelar
   - nutricion-de-rumiantes-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

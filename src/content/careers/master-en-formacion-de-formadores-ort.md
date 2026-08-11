@@ -2,11 +2,6 @@
 title: "Master en Formación de Formadores"
 similar:
   - diploma-en-formacion-de-formadores-ort
-  - master-en-gestion-educativa-ort
-  - diploma-en-planificacion-y-gestion-educativa-ort
-  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
-  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
-  - diploma-en-educacion-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

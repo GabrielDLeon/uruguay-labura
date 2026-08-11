@@ -5,8 +5,8 @@ similar:
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - ciencias-odontologicas-doctorado-udelar
   - ciencias-odontologicas-mencion-funcion-craneo-mandibular-y-dolor-orofacial-maestria-udelar
+  - odontologia-ucu
   - odontopediatria-especializacion-udelar
-  - prostodoncia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

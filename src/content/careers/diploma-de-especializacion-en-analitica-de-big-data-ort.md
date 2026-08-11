@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-comunicacion-y-analitica-de-datos-ort
   - diploma-de-especializacion-en-analitica-de-negocios-ort
   - tecnologo-en-analisis-y-gestion-de-datos-utec
-  - licenciatura-en-bioinformatica-ort
-  - master-en-inteligencia-artificial-ort
+  - ciencia-de-datos-especializacion-udelar
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

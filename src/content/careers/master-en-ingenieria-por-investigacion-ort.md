@@ -1,12 +1,12 @@
 ---
 title: "Master en Ingeniería (por Investigación)"
 similar:
+  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
+  - maestria-en-ciencias-de-la-ingenieria-ucu
   - ingenieria-mecanica-doctorado-udelar
+  - doctorado-en-ingenieria-ucu
   - ingenieria-electrica-maestria-udelar
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
-  - ingenieria-ambiental-doctorado-udelar
-  - ingenieria-electrica-udelar
-  - ingenieria-fisica-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

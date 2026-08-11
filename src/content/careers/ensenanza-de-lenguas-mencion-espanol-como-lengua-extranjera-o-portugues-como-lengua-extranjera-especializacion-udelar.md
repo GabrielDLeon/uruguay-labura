@@ -5,7 +5,7 @@ similar:
   - ensenanza-de-lenguas-extranjeras-especializacion-udelar
   - ensenanza-de-lenguas-extranjeras-maestria-udelar
   - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
-  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - traductorado-publico-portugues-udelar
   - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

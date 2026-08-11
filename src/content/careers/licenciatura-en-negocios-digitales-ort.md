@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Negocios Digitales"
 similar:
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - licenciatura-en-datos-y-negocios-ucu
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciatura-en-negocios-y-economia-ucu
+  - postgrado-en-negocios-ude
   - diploma-de-especializacion-en-negocios-inmobiliarios-ort
-  - master-en-business-analytics-ort
-  - diploma-de-especializacion-en-analitica-de-negocios-ort
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
-  - diploma-de-especializacion-en-fiscalidad-internacional-ort
-  - master-en-direccion-comercial-y-marketing-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

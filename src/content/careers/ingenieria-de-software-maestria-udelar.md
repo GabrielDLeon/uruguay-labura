@@ -2,11 +2,11 @@
 title: "Maestría en Ingeniería de Software"
 similar:
   - ingenieria-de-software-especializacion-udelar
-  - seguridad-informatica-maestria-udelar
   - ingenieria-en-computacion-maestria-udelar
-  - ciencia-de-datos-especializacion-udelar
-  - seguridad-informatica-especializacion-udelar
-  - ingenieria-fisico-matematica-udelar
+  - doctorado-en-ingenieria-ucu
+  - tecnicatura-en-desarrollador-de-software-ucu
+  - ingenieria-en-informatica-ucu
+  - ingenieria-en-sistemas-de-comunicacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

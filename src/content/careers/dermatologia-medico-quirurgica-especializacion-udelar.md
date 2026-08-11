@@ -4,9 +4,6 @@ similar:
   - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
   - enfermeria-medico-quirurgica-especializacion-udelar
   - licenciatura-en-instrumentacion-quirurgica-udelar
-  - alergologia-especializacion-udelar
-  - anatomia-patologica-especializacion-udelar
-  - anatomia-patologica-pediatrica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

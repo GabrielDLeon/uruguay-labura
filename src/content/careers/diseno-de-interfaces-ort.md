@@ -3,10 +3,10 @@ title: "Diseño de Interfaces"
 similar:
   - diseno-grafico-ort
   - licenciatura-en-diseno-grafico-ort
-  - diseno-y-produccion-de-videojuegos-ort
   - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - diseno-y-produccion-de-videojuegos-ort
   - tecnico-en-diseno-de-sonido-ort
-  - licenciatura-en-diseno-de-modas-ort
+  - diseno-digital-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

@@ -1,6 +1,8 @@
 ---
 title: "Máster en Derecho Procesal y Litigación"
-similar: []
+similar:
+  - postgrado-en-derecho-procesal-aplicado-um
+  - maestria-en-psicologia-forense-y-penitenciaria-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

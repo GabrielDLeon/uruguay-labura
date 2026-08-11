@@ -1,5 +1,8 @@
 ---
 title: "Licenciatura en Gestión Humana y Relaciones Laborales"
+similar:
+  - analista-en-recursos-humanos-ude
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

@@ -4,10 +4,10 @@ short: "Ing. en Energías Renovables"
 similar:
   - tecnologo-en-energias-renovables-utec
   - ingenieria-en-agua-y-desarrollo-sostenible-utec
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
   - ingenieria-agroambiental-utec
   - ingenieria-de-la-energia-doctorado-udelar
   - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-de-la-energia-maestria-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"

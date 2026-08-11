@@ -5,8 +5,8 @@ similar:
   - notariado-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - derecho-financiero-con-enfasis-en-derecho-tributario-especializacion-udelar
-  - tecnico-en-gestion-comercial-y-ventas-ort
   - derecho-internacional-publico-especializacion-udelar
+  - tecnico-en-gestion-comercial-y-ventas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

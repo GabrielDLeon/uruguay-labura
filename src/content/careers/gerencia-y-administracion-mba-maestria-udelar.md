@@ -2,11 +2,11 @@
 title: "Maestría en Gerencia y Administración (mba)"
 similar:
   - licenciatura-en-gerencia-y-administracion-ort
-  - tecnologo-en-administracion-y-contabilidad-udelar
+  - mba-senior-um
   - licenciatura-en-administracion-udelar
+  - tecnologo-en-administracion-y-contabilidad-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
-  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
-  - master-en-administracion-de-empresas-mba-ort
+  - mba-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

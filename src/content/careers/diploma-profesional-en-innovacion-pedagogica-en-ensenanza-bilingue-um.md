@@ -1,6 +1,12 @@
 ---
 title: "Diploma Profesional en Innovación Pedagógica en Enseñanza Bilingüe e Internacional (DIPIEBI)"
-similar: []
+similar:
+  - diploma-en-innovacion-educativa-ucu
+  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - ensenanza-universitaria-maestria-udelar
+  - ensenanza-universitaria-especializacion-udelar
+  - maestria-en-metodologias-activas-de-ensenanza-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

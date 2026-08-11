@@ -1,6 +1,12 @@
 ---
 title: "Diploma en Inteligencia Artificial Aplicada"
-similar: []
+similar:
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - master-en-inteligencia-artificial-ort
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - maestria-en-robotica-e-inteligencia-artificial-utec
+  - diploma-de-especializacion-en-inteligencia-artificial-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

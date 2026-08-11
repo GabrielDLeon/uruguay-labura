@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Finanzas Corporativas"
-similar: []
+similar:
+  - maestria-en-finanzas-um
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - licenciatura-en-finanzas-ucu
+  - master-en-contabilidad-y-finanzas-ort
+  - licenciatura-en-finanzas-um
+  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

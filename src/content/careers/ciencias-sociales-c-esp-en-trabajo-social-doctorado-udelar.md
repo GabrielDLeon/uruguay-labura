@@ -3,10 +3,10 @@ title: "Doctorado en Ciencias Sociales C/esp. en Trabajo Social"
 similar:
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
   - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
-  - ciencia-politica-doctorado-udelar
-  - sociologia-doctorado-udelar
+  - licenciatura-en-trabajo-social-ucu
   - licenciatura-en-trabajo-social-udelar
-  - licenciatura-en-ciencias-sociales-udelar
+  - fundamentos-de-trabajo-social-especializacion-udelar
+  - trabajo-social-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

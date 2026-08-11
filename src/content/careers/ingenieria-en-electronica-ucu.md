@@ -1,5 +1,12 @@
 ---
 title: "Ingeniería en Electrónica"
+similar:
+  - ingenieria-en-electronica-ort
+  - ingenieria-en-informatica-ucu
+  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-ambiental-ucu
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-en-telecomunicaciones-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación Publicitaria y Marketing"
 similar:
+  - licenciatura-en-comunicacion-y-marketing-ucu
   - master-en-direccion-de-comunicacion-y-marketing-ort
+  - licenciatura-en-marketing-ude
   - analista-en-publicidad-y-comunicacion-digital-ort
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
-  - analista-en-marketing-digital-y-comercio-electronico-ort
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - licenciatura-en-comunicacion-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

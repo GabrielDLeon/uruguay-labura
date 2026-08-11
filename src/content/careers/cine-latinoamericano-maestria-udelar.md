@@ -1,12 +1,9 @@
 ---
 title: "Maestría en Cine Latinoamericano"
 similar:
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
-  - tecnico-en-realizacion-audiovisual-ort
+  - licenciatura-en-cine-ucu
+  - postgrado-en-traduccion-um
   - licenciatura-en-artes-fotografia-udelar
-  - diseno-y-produccion-de-videojuegos-ort
-  - licenciatura-en-animacion-y-videojuegos-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

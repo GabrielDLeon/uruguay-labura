@@ -1,6 +1,11 @@
 ---
 title: "Magisterio"
-similar: []
+similar:
+  - profesorado-de-matematica-um
+  - maestria-en-educacion-ude
+  - doctorado-en-educacion-ude
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - diploma-de-postgrado-en-educacion-emocional-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"

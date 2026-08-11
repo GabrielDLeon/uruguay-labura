@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Datos, Economía del Desarrollo y Evaluación de Políticas"
-similar: []
+similar:
+  - postgrado-en-analitica-de-negocios-um
+  - licenciatura-en-economia-ucu
+  - maestria-en-economia-um
+  - licenciatura-en-economia-y-finanzas-ude
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

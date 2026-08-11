@@ -3,10 +3,10 @@ title: "Ingeniería en Sistemas"
 similar:
   - ingenieria-en-electronica-ort
   - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-en-informatica-ude
   - ingenieria-electrica-ort
   - ingenieria-electrica-udelar
-  - ingenieria-en-computacion-udelar
-  - ingenieria-en-telecomunicaciones-ort
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"

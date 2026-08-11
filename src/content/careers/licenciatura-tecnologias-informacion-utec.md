@@ -6,8 +6,8 @@ similar:
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
   - analista-en-tecnologias-de-la-informacion-ort
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
   - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
+  - master-en-gestion-de-sistemas-de-informacion-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"

@@ -1,5 +1,9 @@
 ---
 title: "Licenciatura en Artes Visuales"
+similar:
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-diseno-industrial-ude
+  - licenciatura-en-diseno-grafico-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

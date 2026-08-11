@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Finanzas"
 similar:
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
   - master-en-contabilidad-y-finanzas-ort
+  - licenciatura-en-economia-y-finanzas-ude
+  - maestria-en-finanzas-um
+  - postgrado-en-finanzas-corporativas-um
   - finanzas-especializacion-udelar
-  - diploma-de-especializacion-en-finanzas-ort
-  - finanzas-maestria-udelar
-  - diploma-de-especializacion-en-impuestos-ort
-  - master-en-direccion-financiera-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

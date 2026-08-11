@@ -1,6 +1,8 @@
 ---
 title: "Maestría Profesional en Altas Habilidades/Superdotación"
-similar: []
+similar:
+  - maestria-academica-en-altas-habilidades-superdotacion-ude
+  - especializacion-en-altas-habilidades-superdotacion-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

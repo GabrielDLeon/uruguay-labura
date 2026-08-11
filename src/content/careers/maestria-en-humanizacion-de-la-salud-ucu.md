@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Humanización de la Salud"
+similar:
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
+  - maestria-en-salud-publica-ude
+  - maestria-en-direccion-de-empresas-de-salud-um
+  - licenciatura-en-fonoaudiologia-ucu
+  - diploma-en-derecho-de-salud-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

@@ -1,6 +1,10 @@
 ---
 title: "Postgrado en Data Science & Big Data"
-similar: []
+similar:
+  - maestria-en-ciencia-de-datos-um
+  - postgrado-en-business-intelligence-y-data-science-um
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

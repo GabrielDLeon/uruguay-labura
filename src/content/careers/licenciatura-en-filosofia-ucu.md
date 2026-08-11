@@ -1,5 +1,10 @@
 ---
 title: "Licenciatura en Filosofía"
+similar:
+  - licenciatura-en-humanidades-um
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
+  - filosofia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

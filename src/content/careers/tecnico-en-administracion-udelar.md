@@ -2,11 +2,11 @@
 title: "Técnico en Administración"
 similar:
   - administracion-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - tecnologo-en-administracion-y-contabilidad-udelar
   - licenciatura-en-administracion-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
   - tecnico-en-gestion-y-administracion-de-empresas-ort
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

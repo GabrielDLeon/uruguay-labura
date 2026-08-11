@@ -5,7 +5,6 @@ similar:
   - contabilidad-especializacion-udelar
   - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
   - contador-publico-udelar
-  - tecnologo-en-administracion-y-contabilidad-udelar
   - diploma-de-especializacion-en-contabilidad-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

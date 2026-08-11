@@ -1,5 +1,12 @@
 ---
 title: "Tecnicatura en Educación y Recreación"
+similar:
+  - licenciatura-en-educacion-ucu
+  - licenciatura-en-recreacion-educativa-ucu
+  - licenciatura-en-educacion-fisica-rivera-udelar
+  - licenciatura-en-educacion-fisica-udelar
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-inicial-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "tecnicatura"

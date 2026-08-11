@@ -1,5 +1,12 @@
 ---
 title: "Tecnicatura en Desarrollador de Software"
+similar:
+  - analista-en-informatica-ucu
+  - analista-en-tecnologia-informatica-ude
+  - tecnico-en-informatica-ude
+  - analista-en-ingenieria-informatica-ude
+  - ingenieria-en-informatica-ucu
+  - ingenieria-en-informatica-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "tecnicatura"

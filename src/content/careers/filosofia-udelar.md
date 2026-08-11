@@ -1,7 +1,10 @@
 ---
 title: "Filosofía"
 similar:
+  - licenciatura-en-filosofia-ucu
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
+  - licenciatura-en-humanidades-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

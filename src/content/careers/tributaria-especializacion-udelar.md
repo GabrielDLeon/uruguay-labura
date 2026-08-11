@@ -3,10 +3,10 @@ title: "Especialización en Tributaria"
 similar:
   - tributaria-maestria-udelar
   - economia-y-gestion-bancaria-especializacion-udelar
-  - master-en-impuestos-y-normas-de-contabilidad-niif-ort
-  - licenciatura-en-finanzas-ort
+  - postgrado-de-especializacion-en-gestion-de-portafolios-um
   - derecho-financiero-con-enfasis-en-derecho-tributario-especializacion-udelar
   - finanzas-especializacion-udelar
+  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

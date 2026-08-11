@@ -6,7 +6,7 @@ similar:
   - agronomia-especializacion-udelar
   - tecnicatura-en-desarrollo-regional-sustentable-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
+  - ciencias-agrarias-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Gestión Cultural"
 similar:
-  - administracion-y-economia-del-turismo-maestria-udelar
   - economia-y-gestion-para-la-inclusion-especializacion-udelar
-  - tecnologo-en-gestion-universitaria-udelar
   - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
-  - master-en-gestion-educativa-ort
+  - tecnologo-en-gestion-universitaria-udelar
   - licenciatura-en-danza-contemporanea-udelar
+  - master-en-gestion-educativa-ort
+  - tecnicatura-en-artes-plasticas-y-visuales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

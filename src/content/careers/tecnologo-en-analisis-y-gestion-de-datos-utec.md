@@ -7,7 +7,7 @@ similar:
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
   - ciencia-de-datos-especializacion-udelar
-  - ciencia-de-datos-aplicada-maestria-udelar
+  - maestria-en-ciencia-de-datos-um
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"

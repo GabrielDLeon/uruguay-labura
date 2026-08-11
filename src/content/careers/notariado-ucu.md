@@ -1,5 +1,12 @@
 ---
 title: "Notariado"
+similar:
+  - notariado-um
+  - escribania-ude
+  - notariado-udelar
+  - postgrado-en-actualizacion-notarial-um
+  - abogacia-ucu
+  - abogacia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

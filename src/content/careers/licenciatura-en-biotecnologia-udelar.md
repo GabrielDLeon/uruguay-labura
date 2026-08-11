@@ -5,7 +5,7 @@ similar:
   - biotecnologia-doctorado-udelar
   - biotecnologia-maestria-udelar
   - ingenieria-en-biotecnologia-ort
-  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
+  - ciencias-biologicas-maestria-udelar
   - licenciatura-en-ciencias-biologicas-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

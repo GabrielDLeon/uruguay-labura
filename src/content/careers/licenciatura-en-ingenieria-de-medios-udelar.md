@@ -2,11 +2,11 @@
 title: "Licenciatura en Ingeniería de Medios"
 similar:
   - licenciatura-en-ingenieria-biologica-udelar
+  - doctorado-en-ingenieria-ucu
+  - ingenieria-ambiental-ucu
   - ingenieria-quimica-udelar
-  - ingenieria-estructural-maestria-udelar
-  - ingenieria-forestal-udelar
-  - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
-  - ingenieria-fisica-maestria-udelar
+  - ingenieria-en-informatica-ucu
+  - ingenieria-en-telecomunicaciones-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

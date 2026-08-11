@@ -4,9 +4,6 @@ similar:
   - dermatologia-medico-quirurgica-especializacion-udelar
   - enfermeria-medico-quirurgica-especializacion-udelar
   - licenciatura-en-instrumentacion-quirurgica-udelar
-  - doctor-en-medicina-udelar
-  - enfermeria-en-nefrologia-especializacion-udelar
-  - licenciatura-en-neurofisiologia-clinica-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

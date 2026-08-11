@@ -5,8 +5,8 @@ similar:
   - reproduccion-animal-maestria-udelar
   - nutricion-de-rumiantes-maestria-udelar
   - salud-animal-doctorado-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - produccion-animal-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

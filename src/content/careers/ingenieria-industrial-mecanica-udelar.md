@@ -5,8 +5,8 @@ similar:
   - ingenieria-en-sistemas-de-comunicacion-udelar
   - ingenieria-mecanica-doctorado-udelar
   - ingenieria-mecanica-maestria-udelar
-  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
-  - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
+  - ingenieria-naval-udelar
+  - ingenieria-de-produccion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

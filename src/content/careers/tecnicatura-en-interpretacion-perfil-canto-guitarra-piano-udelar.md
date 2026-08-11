@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-interpretacion-musical-udelar
   - ciclo-de-introduccion-la-musica-udelar
   - productor-musical-ort
-  - licenciatura-en-jazz-y-musica-creativa-utec
-  - tecnologo-en-jazz-y-musica-creativa-utec
+  - arte-sonoro-maestria-udelar
+  - licenciatura-en-composicion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

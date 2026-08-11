@@ -4,7 +4,7 @@ similar:
   - licenciatura-en-trabajo-social-udelar
   - psicologia-social-maestria-udelar
   - investigacion-social-aplicada-especializacion-udelar
-  - genero-y-politicas-publicas-especializacion-udelar
+  - licenciatura-en-trabajo-social-ucu
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - fundamentos-de-trabajo-social-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

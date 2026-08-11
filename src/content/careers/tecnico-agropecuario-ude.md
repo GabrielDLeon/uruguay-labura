@@ -1,6 +1,9 @@
 ---
 title: "Técnico Agropecuario"
-similar: []
+similar:
+  - ingeniero-agronomo-ude
+  - licenciatura-en-gestion-agropecuaria-ude
+  - ingenieria-industrial-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

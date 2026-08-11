@@ -3,10 +3,10 @@ title: "Licenciatura en Economía"
 similar:
   - economia-maestria-fcs-udelar
   - licenciatura-en-economia-ort
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - licenciatura-en-economia-ucu
   - economia-y-gestion-bancaria-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

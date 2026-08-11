@@ -3,11 +3,6 @@ title: "Tecnólogo en Manejo de Sistemas de Producción Lechera"
 short: "Tecnólogo en Producción Lechera"
 similar:
   - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
-  - ingeniero-agronomo-udelar
-  - licenciatura-en-recursos-naturales-udelar
-  - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - agronomia-especializacion-udelar
-  - agronomia-maestria-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"

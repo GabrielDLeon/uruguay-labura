@@ -1,5 +1,11 @@
 ---
 title: "Licenciatura en Nutrición"
+similar:
+  - maestria-en-nutricion-ucu
+  - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
+  - licenciatura-en-nutricion-udelar
+  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
+  - nutricion-de-rumiantes-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

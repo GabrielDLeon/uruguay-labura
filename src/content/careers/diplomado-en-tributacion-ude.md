@@ -1,5 +1,12 @@
 ---
 title: "Diplomado en Tributación"
+similar:
+  - postgrado-en-tributacion-aplicada-um
+  - postgrado-en-tributacion-nacional-um
+  - master-en-tributacion-um
+  - postgrado-en-tributacion-internacional-um
+  - postgrado-en-tecnica-tributaria-um
+  - postgrado-en-contabilidad-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

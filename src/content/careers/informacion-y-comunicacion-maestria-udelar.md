@@ -5,8 +5,8 @@ similar:
   - ingenieria-en-sistemas-de-comunicacion-udelar
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
   - licenciatura-en-comunicacion-udelar
+  - maestria-en-comunicacion-organizacional-ucu
   - master-en-creatividad-innovacion-y-comunicacion-ort
-  - master-en-direccion-de-comunicacion-y-marketing-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

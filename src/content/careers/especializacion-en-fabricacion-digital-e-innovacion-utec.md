@@ -1,6 +1,7 @@
 ---
 title: "Especialización en Fabricación Digital e Innovación"
-similar: []
+similar:
+  - maestria-en-ciencias-de-la-ingenieria-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"

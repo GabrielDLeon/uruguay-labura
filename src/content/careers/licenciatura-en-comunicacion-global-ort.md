@@ -2,11 +2,11 @@
 title: "Licenciatura en Comunicación Global"
 similar:
   - licenciatura-en-comunicacion-udelar
+  - maestria-en-comunicacion-organizacional-ucu
+  - licenciatura-en-comunicacion-y-marketing-ucu
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
   - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - licenciatura-en-comunicacion-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - doctorado-en-comunicacion-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

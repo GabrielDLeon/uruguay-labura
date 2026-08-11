@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Políticas de Drogas, Regulación y Control"
 similar:
-  - penalidad-juvenil-especializacion-udelar
   - maestria-y-en-politicas-publicas-maestria-udelar
   - estrategias-de-intervencion-en-usos-problematicos-de-drogas-especializacion-udelar
-  - licenciatura-en-desarrollo-udelar
-  - licenciatura-en-relaciones-laborales-udelar
   - afrodescendencia-y-politicas-publicas-especializacion-udelar
+  - genero-y-politicas-publicas-especializacion-udelar
+  - jovenes-juventud-y-politicas-publicas-especializacion-udelar
+  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

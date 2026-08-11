@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Derecho Administrativo Económico"
-similar: []
+similar:
+  - master-en-derecho-administrativo-economico-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

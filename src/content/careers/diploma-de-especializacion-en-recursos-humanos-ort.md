@@ -2,11 +2,9 @@
 title: "Diploma de Especialización en Recursos Humanos"
 similar:
   - master-en-direccion-de-recursos-humanos-ort
+  - licenciatura-en-recursos-humanos-ude
   - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - licenciatura-en-administracion-udelar
-  - tecnologo-en-analisis-y-gestion-de-datos-utec
-  - master-en-administracion-de-empresas-mba-ort
-  - tecnico-en-administracion-udelar
+  - licenciatura-en-gestion-de-talento-humano-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

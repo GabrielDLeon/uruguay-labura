@@ -3,10 +3,10 @@ title: "Maestría en Administración y Economía del Turismo"
 similar:
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gerencia-y-administracion-mba-maestria-udelar
   - economia-y-gestion-para-la-inclusion-especializacion-udelar
   - economia-maestria-fcs-udelar
-  - tecnologo-en-administracion-y-contabilidad-udelar
+  - gerencia-y-administracion-mba-maestria-udelar
+  - licenciatura-en-economia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

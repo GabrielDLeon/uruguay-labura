@@ -1,5 +1,12 @@
 ---
 title: "Técnico en Diseño de Interiores"
+similar:
+  - disenador-de-interiores-ude
+  - tecnico-en-diseno-grafico-ude
+  - tecnicatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-diseno-grafico-ude
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-diseno-industrial-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

@@ -2,11 +2,11 @@
 title: "Especialización en Didáctica para Enseñanza Media"
 similar:
   - didactica-para-ensenanza-primaria-especializacion-udelar
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
   - ensenanza-de-lenguas-extranjeras-especializacion-udelar
   - ensenanza-universitaria-maestria-udelar
   - ensenanza-de-lenguas-extranjeras-maestria-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
-  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

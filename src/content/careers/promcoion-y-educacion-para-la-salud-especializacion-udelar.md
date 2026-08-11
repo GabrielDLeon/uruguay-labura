@@ -2,11 +2,11 @@
 title: "Especialización en Promcoión y Educación para la Salud"
 similar:
   - salud-mental-y-psiquiatria-especializacion-udelar
-  - licenciatura-en-educacion-fisica-rivera-udelar
-  - licenciatura-en-educacion-fisica-udelar
-  - psicologia-y-educacion-maestria-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
+  - tecnicatura-en-salud-ocupacional-udelar
+  - licenciatura-en-educacion-fisica-rivera-udelar
+  - licenciatura-en-educacion-fisica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

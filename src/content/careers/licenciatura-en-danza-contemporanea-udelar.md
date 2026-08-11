@@ -6,7 +6,7 @@ similar:
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
   - licenciatura-en-artes-fotografia-udelar
   - politicas-culturales-maestria-udelar
-  - tecnicatura-universitaria-en-bienes-culturales-udelar
+  - carnaval-y-patrimonio-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Transformación Digital y Derecho"
-similar: []
+similar:
+  - postgrado-en-analitica-de-negocios-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

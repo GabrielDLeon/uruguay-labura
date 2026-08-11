@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Marketing"
-similar: []
+similar:
+  - analista-en-marketing-ude
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - licenciatura-en-marketing-ude
+  - licenciatura-en-marketing-y-direccion-comercial-ort
+  - maestria-en-marketing-y-direccion-comercial-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

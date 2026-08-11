@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Dirección de Empresas"
+similar:
+  - mba-um
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - licenciatura-en-gestion-de-talento-humano-um
+  - licenciatura-en-administracion-de-empresas-ude
+  - licenciatura-en-negocios-y-economia-ucu
+  - licenciatura-en-business-analytics-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

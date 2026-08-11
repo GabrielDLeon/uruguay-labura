@@ -5,7 +5,7 @@ similar:
   - traductorado-publico-ingles-udelar
   - ensenanza-de-lenguas-extranjeras-especializacion-udelar
   - ensenanza-de-lenguas-extranjeras-maestria-udelar
-  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
   - didactica-para-ensenanza-media-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"

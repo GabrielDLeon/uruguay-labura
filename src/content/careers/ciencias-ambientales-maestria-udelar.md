@@ -4,9 +4,9 @@ similar:
   - ciencias-ambientales-especializacion-udelar
   - ciencias-ambientales-doctorado-udelar
   - licenciatura-en-gestion-ambiental-udelar
-  - ingenieria-agroambiental-utec
-  - tecnologo-agroambiental-utec
+  - maestria-en-gestion-ambiental-ude
   - ingenieria-ambiental-doctorado-udelar
+  - manejo-costero-integrado-del-cono-sur-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

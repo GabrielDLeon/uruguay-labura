@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-musica-udelar
   - licenciatura-en-jazz-y-musica-creativa-utec
   - tecnologo-en-jazz-y-musica-creativa-utec
-  - productor-musical-ort
-  - tecnicatura-en-direccion-de-coros-udelar
   - licenciatura-en-composicion-udelar
+  - licenciatura-en-direccion-coral-udelar
+  - licenciatura-en-direccion-orquestal-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"

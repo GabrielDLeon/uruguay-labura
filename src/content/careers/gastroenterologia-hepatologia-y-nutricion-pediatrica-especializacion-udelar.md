@@ -2,11 +2,11 @@
 title: "Especialización en Gastroenterología, Hepatología y Nutrición Pediátrica"
 similar:
   - gastroenterologia-especializacion-udelar
-  - cirugia-plastica-reparadora-y-estetica-especializacion-udelar
   - anatomia-patologica-pediatrica-especializacion-udelar
   - cardiologia-pediatrica-especializacion-udelar
   - cirugia-pediatrica-especializacion-udelar
   - emergentologia-pediatrica-especializacion-udelar
+  - hemato-oncologia-pediatrica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

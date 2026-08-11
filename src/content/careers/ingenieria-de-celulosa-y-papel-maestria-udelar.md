@@ -6,7 +6,7 @@ similar:
   - ingenieria-de-minas-maestria-udelar
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-de-minas-especializacion-udelar
-  - licenciatura-en-ingenieria-de-medios-udelar
+  - ingenieria-industrial-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

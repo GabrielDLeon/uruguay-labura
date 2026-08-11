@@ -5,8 +5,8 @@ similar:
   - arquitectura-en-madera-especializacion-udelar
   - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
   - arquitectura-maestria-udelar
+  - arquitectura-ucu
   - arquitectura-doctorado-udelar
-  - arquitectura-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

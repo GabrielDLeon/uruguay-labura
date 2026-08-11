@@ -1,12 +1,9 @@
 ---
 title: "Especialización en Estrategias de Intervención en Usos Problemáticos de Drogas"
 similar:
-  - licenciatura-en-sociologia-udelar
   - intervencion-en-el-patrimonio-arquitectonico-especializacion-udelar
-  - psicologia-social-maestria-udelar
-  - discapacidad-en-lo-social-especializacion-udelar
-  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
   - politicas-de-drogas-regulacion-y-control-especializacion-udelar
+  - intervencion-familiar-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

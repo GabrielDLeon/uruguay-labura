@@ -1,6 +1,11 @@
 ---
 title: "Diploma en Derecho de Salud"
-similar: []
+similar:
+  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
+  - maestria-en-humanizacion-de-la-salud-ucu
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - maestria-en-salud-publica-ude
+  - maestria-en-direccion-de-empresas-de-salud-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

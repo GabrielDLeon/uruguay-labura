@@ -1,5 +1,10 @@
 ---
 title: "Licenciatura en Fisioterapia"
+similar:
+  - licenciatura-en-fisioterapia-ude
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - licenciatura-en-fisioterapia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

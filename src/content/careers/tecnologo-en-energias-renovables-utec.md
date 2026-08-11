@@ -3,11 +3,11 @@ title: "Tecnólogo en Energías Renovables"
 short: "Tecnólogo en Energías Renovables"
 similar:
   - ingenieria-en-energias-renovables-utec
-  - ingenieria-electrica-ort
-  - tecnologo-agroambiental-utec
   - ingenieria-de-la-energia-especializacion-udelar
   - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-agroambiental-utec
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - tecnologo-agroambiental-utec
+  - ingenieria-de-la-energia-doctorado-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"

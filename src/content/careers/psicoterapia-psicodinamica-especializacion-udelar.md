@@ -4,9 +4,9 @@ similar:
   - evaluacion-psicologica-especializacion-udelar
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
-  - licenciatura-en-psicologia-udelar
-  - psicologia-clinica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

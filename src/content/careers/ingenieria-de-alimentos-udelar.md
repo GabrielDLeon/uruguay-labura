@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería de Alimentos"
 similar:
+  - ingenieria-en-alimentos-ucu
   - ingenieria-fisico-matematica-udelar
   - ingenieria-de-produccion-udelar
-  - ingenieria-naval-udelar
   - tecnico-operador-de-alimentos-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-naval-udelar
+  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

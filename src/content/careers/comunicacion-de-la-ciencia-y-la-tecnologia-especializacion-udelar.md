@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-comunicacion-udelar
   - diploma-de-especializacion-en-direccion-de-comunicacion-ort
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - licenciatura-en-comunicacion-global-ort
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - doctorado-en-comunicacion-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

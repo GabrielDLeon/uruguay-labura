@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería Eléctrica"
 similar:
-  - tecnologo-en-madera-udelar
   - ingenieria-electrica-maestria-udelar
   - ingenieria-electrica-ort
   - ingenieria-electrica-doctorado-udelar
   - ingenieria-civil-udelar
   - ingenieria-en-sistemas-ort
+  - ingenieria-quimica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

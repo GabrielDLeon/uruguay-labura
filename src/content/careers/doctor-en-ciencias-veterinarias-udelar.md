@@ -1,12 +1,12 @@
 ---
 title: "Doctor en Ciencias Veterinarias"
 similar:
+  - tecnico-en-ciencias-veterinarias-ude
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - tecnico-asistente-veterinario-ude
   - tecnologo-en-produccion-equina-udelar
   - nutricion-de-rumiantes-maestria-udelar
   - produccion-animal-doctorado-udelar
-  - produccion-animal-maestria-udelar
-  - reproduccion-animal-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"

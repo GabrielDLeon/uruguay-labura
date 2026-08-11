@@ -2,11 +2,11 @@
 title: "Maestría en Salud Mental"
 similar:
   - salud-mental-y-psiquiatria-especializacion-udelar
+  - maestria-en-salud-publica-ude
   - tecnicatura-en-salud-ocupacional-udelar
   - salud-familiar-y-comunitaria-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
-  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
-  - gestion-de-servicios-de-salud-maestria-udelar
+  - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

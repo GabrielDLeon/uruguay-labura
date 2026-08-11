@@ -5,8 +5,8 @@ similar:
   - gestion-de-servicios-de-salud-especializacion-udelar
   - administracion-de-servicios-de-salud-especializacion-udelar
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - licenciatura-en-enfermeria-profesionalizacion-ucu
   - enfermeria-en-neonatologia-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

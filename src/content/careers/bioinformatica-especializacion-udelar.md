@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-bioinformatica-ort
   - bioinformatica-maestria-udelar
   - licenciatura-en-ingenieria-biologica-udelar
-  - ingenieria-de-software-especializacion-udelar
-  - ingenieria-de-software-maestria-udelar
-  - seguridad-informatica-especializacion-udelar
+  - ciencias-biologicas-doctorado-udelar
+  - licenciatura-en-biotecnologia-udelar
+  - biotecnologia-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

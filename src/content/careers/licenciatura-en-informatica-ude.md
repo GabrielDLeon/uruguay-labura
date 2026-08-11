@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Informática"
-similar: []
+similar:
+  - ingenieria-en-informatica-ude
+  - analista-en-tecnologia-informatica-ude
+  - analista-en-ingenieria-informatica-ude
+  - analista-en-informatica-ucu
+  - licenciatura-en-informatica-ucu
+  - tecnico-en-informatica-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

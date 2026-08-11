@@ -1,5 +1,12 @@
 ---
 title: "Diploma en Innovación Educativa"
+similar:
+  - maestria-en-liderazgo-y-gestion-educativa-ucu
+  - licenciatura-en-recreacion-educativa-ucu
+  - maestria-en-metodologias-activas-de-ensenanza-ucu
+  - master-en-gestion-educativa-ort
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - especializacion-en-tecnologia-educativa-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"

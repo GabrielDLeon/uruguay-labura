@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-artes-diseno-grafico-udelar
   - diseno-de-interfaces-ort
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
-  - diseno-y-produccion-de-videojuegos-ort
   - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - diseno-y-produccion-de-videojuegos-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

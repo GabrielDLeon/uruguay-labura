@@ -1,6 +1,12 @@
 ---
 title: "MDES — Máster en Dirección de Empresas de Salud"
-similar: []
+similar:
+  - mba-um
+  - mba-senior-um
+  - maestria-en-direccion-y-administracion-de-empresas-ude
+  - licenciatura-en-administracion-de-empresas-ude
+  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

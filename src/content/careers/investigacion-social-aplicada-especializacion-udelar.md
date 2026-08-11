@@ -2,11 +2,11 @@
 title: "Especialización en Investigación Social Aplicada"
 similar:
   - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - discapacidad-en-lo-social-especializacion-udelar
   - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - licenciatura-en-trabajo-social-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Economía"
-similar: []
+similar:
+  - licenciatura-en-politica-filosofia-y-economia-um
+  - licenciatura-en-economia-ucu
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
+  - licenciatura-en-economia-y-finanzas-ude
+  - economia-y-gestion-bancaria-especializacion-udelar
+  - licenciatura-en-economia-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

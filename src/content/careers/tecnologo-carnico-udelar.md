@@ -5,7 +5,6 @@ similar:
   - ingenieria-de-alimentos-udelar
   - industria-carnica-especializacion-udelar
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - licenciatura-en-analisis-alimentario-utec
   - ciencia-y-tecnologia-de-alimentos-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

@@ -1,10 +1,8 @@
 ---
 title: "Maestría en Ciencias Cognitivas"
 similar:
-  - evaluacion-psicologica-especializacion-udelar
+  - licenciatura-en-ciencias-del-comportamiento-ucu
   - psicologia-social-maestria-udelar
-  - licenciatura-en-psicologia-udelar
-  - psicologia-doctorado-udelar
   - psicologia-clinica-maestria-udelar
   - psicologia-y-educacion-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"

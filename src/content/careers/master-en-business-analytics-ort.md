@@ -1,12 +1,12 @@
 ---
 title: "Master en Business Analytics"
 similar:
+  - licenciatura-en-business-analytics-ucu
   - diploma-de-especializacion-en-fiscalidad-internacional-ort
   - licenciatura-en-negocios-digitales-ort
-  - licenciatura-en-estudios-internacionales-ort
-  - licenciatura-en-gerencia-y-administracion-ort
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
+  - mba-senior-um
+  - mba-um
+  - licenciatura-en-datos-y-negocios-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

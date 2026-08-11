@@ -1,12 +1,6 @@
 ---
 title: "Licenciatura en Registros Médicos"
-similar:
-  - tecnicatura-en-radioisotopos-udelar
-  - tecnologo-en-cosmetologia-medica-udelar
-  - tecnicatura-en-podologia-udelar
-  - licenciatura-en-neumocardiologia-udelar
-  - licenciatura-biologia-humana-udelar
-  - tecnicatura-en-radioterapia-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

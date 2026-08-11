@@ -1,12 +1,9 @@
 ---
 title: "Especialización en Sistemas Eléctricos de Potencia"
 similar:
-  - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-de-minas-especializacion-udelar
-  - ingenieria-de-minas-maestria-udelar
-  - ingenieria-ambiental-especializacion-udelar
-  - ingenieria-electrica-doctorado-udelar
-  - ingenieria-electrica-ort
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-en-sistemas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

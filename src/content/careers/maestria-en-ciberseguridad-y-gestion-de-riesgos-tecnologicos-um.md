@@ -1,6 +1,9 @@
 ---
 title: "Maestría en Ciberseguridad y Gestión de Riesgos Tecnológicos"
-similar: []
+similar:
+  - analista-en-ciberseguridad-ude
+  - especializacion-en-ciberseguridad-utec
+  - seguridad-informatica-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

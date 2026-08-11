@@ -1,6 +1,8 @@
 ---
 title: "Diploma Avanzado en Comunicación, Ambiente y Sostenibilidad"
-similar: []
+similar:
+  - ingenieria-ambiental-ucu
+  - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

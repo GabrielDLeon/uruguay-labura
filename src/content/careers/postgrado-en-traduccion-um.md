@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Traducción"
-similar: []
+similar:
+  - licenciatura-en-traduccion-um
+  - traductorado-publico-aleman-udelar
+  - traductorado-publico-frances-udelar
+  - traductorado-publico-ingles-udelar
+  - traductorado-publico-italiano-udelar
+  - traductorado-publico-portugues-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

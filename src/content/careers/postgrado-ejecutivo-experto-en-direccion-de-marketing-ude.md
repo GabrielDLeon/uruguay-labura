@@ -1,5 +1,12 @@
 ---
 title: "Postgrado Ejecutivo Experto en Dirección de Marketing"
+similar:
+  - licenciatura-en-marketing-y-direccion-comercial-ort
+  - master-en-direccion-comercial-y-marketing-ort
+  - maestria-en-marketing-y-direccion-comercial-ude
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - master-en-direccion-de-comunicacion-y-marketing-ort
+  - licenciatura-en-marketing-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

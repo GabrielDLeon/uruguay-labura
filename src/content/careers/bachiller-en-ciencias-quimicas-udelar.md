@@ -4,9 +4,9 @@ similar:
   - quimico-udelar
   - licenciatura-en-quimica-udelar
   - tecnologo-quimico-udelar
-  - bioquimico-clinico-udelar
   - quimica-farmaceutica-udelar
   - licenciatura-en-tecnologias-de-la-quimica-udelar
+  - tecnico-en-procesos-y-analisis-quimico-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

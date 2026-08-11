@@ -1,5 +1,12 @@
 ---
 title: "Contador Público"
+similar:
+  - contador-publico-ucu
+  - contador-publico-um
+  - contador-publico-ort
+  - postgrado-en-gestion-contable-um
+  - contador-publico-udelar
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "carrera"

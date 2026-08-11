@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Derecho Procesal Aplicado"
-similar: []
+similar:
+  - master-en-derecho-procesal-y-litigacion-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

@@ -1,6 +1,9 @@
 ---
 title: "Diploma en Gestión y Comercialización de Granos"
-similar: []
+similar:
+  - gestion-y-comercializacion-de-commodities-ude
+  - administracion-de-agronegocios-ude
+  - licenciatura-en-gestion-agropecuaria-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

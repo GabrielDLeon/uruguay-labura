@@ -1,6 +1,12 @@
 ---
 title: "Ingeniería en Informática"
-similar: []
+similar:
+  - analista-en-ingenieria-informatica-ude
+  - ingenieria-en-informatica-ucu
+  - licenciatura-en-informatica-ude
+  - ingenieria-en-informatica-um
+  - analista-en-informatica-ucu
+  - analista-en-tecnologia-informatica-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "ingenieria"

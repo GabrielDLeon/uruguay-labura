@@ -4,9 +4,9 @@ similar:
   - marketing-especializacion-udelar
   - analista-en-marketing-digital-y-comercio-electronico-ort
   - diploma-de-especializacion-en-marketing-ort
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - maestria-en-marketing-y-direccion-comercial-ude
   - master-en-direccion-comercial-y-marketing-ort
-  - master-en-direccion-de-comunicacion-y-marketing-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

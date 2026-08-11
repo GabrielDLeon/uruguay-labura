@@ -1,6 +1,12 @@
 ---
 title: "Administración de Agronegocios"
-similar: []
+similar:
+  - gestion-y-comercializacion-de-commodities-ude
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - licenciatura-en-gestion-agropecuaria-ude
+  - diploma-en-gestion-y-comercializacion-de-granos-ude
+  - tecnologo-en-administracion-y-contabilidad-udelar
+  - administracion-y-economia-del-turismo-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

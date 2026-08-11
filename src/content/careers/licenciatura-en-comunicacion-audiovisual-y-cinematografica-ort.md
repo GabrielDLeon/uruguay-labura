@@ -3,10 +3,10 @@ title: "Licenciatura en Comunicación Audiovisual y Cinematográfica"
 similar:
   - tecnico-en-realizacion-audiovisual-ort
   - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-um
+  - licenciatura-en-comunicacion-ucu
+  - licenciatura-en-cine-ucu
   - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
-  - licenciatura-en-comunicacion-udelar
-  - analista-en-publicidad-y-comunicacion-digital-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

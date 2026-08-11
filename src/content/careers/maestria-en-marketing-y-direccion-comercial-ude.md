@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Marketing y Dirección Comercial"
+similar:
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - master-en-direccion-comercial-y-marketing-ort
+  - licenciatura-en-marketing-y-direccion-comercial-ort
+  - master-en-direccion-de-comunicacion-y-marketing-ort
+  - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
+  - licenciatura-en-marketing-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

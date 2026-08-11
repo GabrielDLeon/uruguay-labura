@@ -3,10 +3,10 @@ title: "Licenciatura en Recursos Naturales"
 similar:
   - tecnicatura-en-gestion-de-recursos-naturales-udelar
   - ingenieria-forestal-udelar
+  - ingeniero-agronomo-ude
   - ciencias-agrarias-maestria-udelar
   - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
   - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
-  - ingeniero-agronomo-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

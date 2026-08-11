@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Ciencia de Datos"
-similar: []
+similar:
+  - postgrado-en-data-science-y-big-data-um
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - ciencia-de-datos-aplicada-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

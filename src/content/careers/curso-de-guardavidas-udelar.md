@@ -2,11 +2,11 @@
 title: "Curso de Guardavidas"
 similar:
   - tecnicatura-en-deportes-udelar
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - educacion-fisica-maestria-udelar
   - licenciatura-en-educacion-fisica-rivera-udelar
-  - licenciatura-en-educacion-fisica-udelar
-  - medicina-del-deporte-especializacion-udelar
-  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

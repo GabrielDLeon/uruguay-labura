@@ -3,10 +3,10 @@ title: "Técnico en Gestión Turística y Hotelera"
 similar:
   - tecnico-en-gestion-y-administracion-de-empresas-ort
   - tecnico-en-gestion-comercial-y-ventas-ort
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - master-en-gestion-y-comunicacion-de-la-moda-ort
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
+  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - tecnicatura-en-gestion-de-recursos-naturales-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

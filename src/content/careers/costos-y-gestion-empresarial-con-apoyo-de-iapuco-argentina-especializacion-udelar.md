@@ -2,11 +2,11 @@
 title: "Especialización en Costos y Gestión Empresarial (con Apoyo de Iapuco, Argentina)"
 similar:
   - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - politicas-y-gestion-publica-maestria-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
   - tecnologo-en-administracion-y-contabilidad-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - economia-y-gestion-bancaria-especializacion-udelar
+  - gestion-de-servicios-de-salud-especializacion-udelar
+  - politicas-y-gestion-publica-maestria-udelar
+  - auditoria-especializacion-udelar
+  - contabilidad-y-auditoria-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

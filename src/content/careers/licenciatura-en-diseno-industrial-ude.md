@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Diseño Industrial"
+similar:
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-diseno-grafico-ude
+  - tecnicatura-en-diseno-de-indumentaria-ude
+  - tecnico-en-diseno-de-interiores-ude
+  - tecnico-en-diseno-grafico-ude
+  - disenador-de-interiores-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

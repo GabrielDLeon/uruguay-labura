@@ -2,11 +2,11 @@
 title: "Doctorado en Arquitectura"
 similar:
   - arquitectura-maestria-udelar
+  - arquitectura-ucu
   - arquitectura-en-madera-especializacion-udelar
   - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - arquitectura-udelar
   - construccion-de-obras-de-arquitectura-especializacion-udelar
-  - construccion-en-obras-de-arquitectura-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

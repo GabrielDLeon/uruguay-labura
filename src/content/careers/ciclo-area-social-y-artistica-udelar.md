@@ -1,12 +1,12 @@
 ---
 title: "CIO Área Social y Artística"
 similar:
+  - licenciatura-en-trabajo-social-ucu
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - discapacidad-en-lo-social-especializacion-udelar
   - fundamentos-de-trabajo-social-especializacion-udelar
   - investigacion-social-aplicada-especializacion-udelar
-  - licenciatura-en-trabajo-social-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"

@@ -1,6 +1,12 @@
 ---
 title: "Escribanía (Notariado)"
-similar: []
+similar:
+  - escribania-ude
+  - notariado-ucu
+  - notariado-udelar
+  - abogacia-ude
+  - postgrado-en-actualizacion-notarial-um
+  - derecho-procesal-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"

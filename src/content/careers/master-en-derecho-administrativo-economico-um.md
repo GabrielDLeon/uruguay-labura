@@ -1,6 +1,8 @@
 ---
 title: "Máster en Derecho Administrativo Económico"
-similar: []
+similar:
+  - postgrado-en-derecho-administrativo-economico-um
+  - maestria-en-administracion-publica-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

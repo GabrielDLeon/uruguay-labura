@@ -5,8 +5,8 @@ similar:
   - master-en-creatividad-innovacion-y-comunicacion-ort
   - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
   - analista-en-publicidad-y-comunicacion-digital-ort
+  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

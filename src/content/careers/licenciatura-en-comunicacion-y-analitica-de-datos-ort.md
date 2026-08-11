@@ -3,7 +3,7 @@ title: "Licenciatura en Comunicación y Analítica de Datos"
 similar:
   - ciencia-de-datos-aplicada-maestria-udelar
   - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
-  - diploma-de-especializacion-en-analitica-de-negocios-ort
+  - licenciatura-en-comunicacion-y-marketing-ucu
   - diploma-de-especializacion-en-analitica-de-big-data-ort
   - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
   - ciencia-de-datos-especializacion-udelar

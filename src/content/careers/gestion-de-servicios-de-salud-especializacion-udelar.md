@@ -6,7 +6,7 @@ similar:
   - administracion-de-servicios-de-salud-especializacion-udelar
   - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - administracion-especializacion-udelar
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

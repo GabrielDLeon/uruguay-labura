@@ -5,9 +5,9 @@ similar:
   - ingenieria-en-sistemas-ort
   - tecnologo-en-analisis-y-gestion-de-datos-utec
   - ingenieria-en-sistemas-de-comunicacion-udelar
-  - tecnologo-en-informatica-udelar
   - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
   - licenciatura-en-sistemas-ort
+  - master-en-gestion-de-sistemas-de-informacion-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"

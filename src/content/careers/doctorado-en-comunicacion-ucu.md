@@ -1,5 +1,12 @@
 ---
 title: "Doctorado en Comunicación"
+similar:
+  - doctorado-en-psicologia-ucu
+  - doctorado-en-ingenieria-ucu
+  - doctorado-en-educacion-ude
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - licenciatura-en-comunicacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "doctorado"

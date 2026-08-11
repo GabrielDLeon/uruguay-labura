@@ -6,7 +6,7 @@ similar:
   - salud-familiar-y-comunitaria-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
   - salud-mental-y-psiquiatria-especializacion-udelar
-  - promcoion-y-educacion-para-la-salud-especializacion-udelar
+  - maestria-en-salud-publica-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

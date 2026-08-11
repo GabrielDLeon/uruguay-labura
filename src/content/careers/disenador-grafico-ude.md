@@ -1,5 +1,12 @@
 ---
 title: "Diseñador Gráfico"
+similar:
+  - disenador-de-moda-ude
+  - licenciatura-en-diseno-grafico-ude
+  - disenador-de-interiores-ude
+  - tecnico-en-diseno-grafico-ude
+  - tecnico-en-diseno-de-interiores-ude
+  - licenciatura-en-diseno-de-indumentaria-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

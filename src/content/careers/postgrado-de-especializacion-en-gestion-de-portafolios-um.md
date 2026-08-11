@@ -1,6 +1,12 @@
 ---
 title: "Postgrado de Especialización en Gestión de Portafolios"
-similar: []
+similar:
+  - licenciatura-en-finanzas-ucu
+  - licenciatura-en-finanzas-um
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - postgrado-en-finanzas-corporativas-um
+  - economia-y-gestion-bancaria-especializacion-udelar
+  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "especializacion"

@@ -5,8 +5,8 @@ similar:
   - arquitectura-doctorado-udelar
   - diseno-de-interfaces-ort
   - tecnico-en-diseno-de-interiores-ort
-  - licenciatura-en-diseno-integrado-udelar
   - proyecto-de-paisaje-especializacion-udelar
+  - licenciatura-en-diseno-integrado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

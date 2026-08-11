@@ -1,12 +1,6 @@
 ---
 title: "Tecnólogo en Cosmetología Médica"
-similar:
-  - tecnicatura-en-podologia-udelar
-  - tecnicatura-en-radioisotopos-udelar
-  - obstetra-partera-udelar
-  - licenciatura-en-registros-medicos-udelar
-  - licenciatura-en-neumocardiologia-udelar
-  - licenciatura-en-laboratorio-clinico-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"

@@ -1,6 +1,9 @@
 ---
 title: "Licenciatura en Negocios Digitales"
-similar: []
+similar:
+  - postgrado-en-analitica-de-negocios-um
+  - maestria-en-cambio-organizacional-en-entornos-digitales-ucu
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

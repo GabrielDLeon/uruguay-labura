@@ -1,12 +1,12 @@
 ---
 title: "Tecnólogo en Producción Equina"
 similar:
+  - tecnico-asistente-veterinario-ude
   - doctor-en-ciencias-veterinarias-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
   - produccion-animal-doctorado-udelar
   - produccion-animal-maestria-udelar
-  - nutricion-de-rumiantes-maestria-udelar
-  - reproduccion-animal-maestria-udelar
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - tecnico-en-ciencias-veterinarias-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"

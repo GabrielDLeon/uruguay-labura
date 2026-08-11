@@ -1,5 +1,12 @@
 ---
 title: "Postgrado en Negocios"
+similar:
+  - diploma-de-especializacion-en-negocios-inmobiliarios-ort
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciatura-en-datos-y-negocios-ucu
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - licenciatura-en-negocios-digitales-ort
+  - licenciatura-en-negocios-y-economia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

@@ -3,10 +3,10 @@ title: "Especialización en Enfermería Médico Quirúrgica"
 similar:
   - enfermeria-oncologica-especializacion-udelar
   - enfermeria-en-nefrologia-especializacion-udelar
-  - ciudados-intensivos-especializacion-udelar
   - dermatologia-medico-quirurgica-especializacion-udelar
   - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
   - enfermeria-en-neonatologia-especializacion-udelar
+  - licenciatura-en-enfermeria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

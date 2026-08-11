@@ -4,8 +4,8 @@ similar:
   - ingenieria-electrica-maestria-udelar
   - ingenieria-mecanica-doctorado-udelar
   - licenciatura-en-ingenieria-biologica-udelar
+  - ingenieria-industrial-ucu
   - ingenieria-de-produccion-udelar
-  - ingenieria-mecanica-maestria-udelar
   - ingenieria-de-la-energia-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

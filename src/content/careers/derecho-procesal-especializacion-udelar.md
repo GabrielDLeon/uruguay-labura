@@ -6,7 +6,7 @@ similar:
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
   - derecho-opcion-administrativo-y-gestion-publica-especializacion-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - notariado-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

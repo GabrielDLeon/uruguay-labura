@@ -1,5 +1,7 @@
 ---
 title: "Maestría en Epidemiología y Salud Digital"
+similar:
+  - maestria-en-salud-publica-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

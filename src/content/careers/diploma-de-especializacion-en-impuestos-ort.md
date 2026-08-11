@@ -2,11 +2,11 @@
 title: "Diploma de Especialización en Impuestos"
 similar:
   - master-en-contabilidad-y-finanzas-ort
+  - licenciatura-en-finanzas-ucu
+  - licenciatura-en-finanzas-um
   - master-en-impuestos-y-fiscalidad-internacional-ort
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
-  - licenciatura-en-finanzas-ort
-  - diploma-de-especializacion-en-finanzas-ort
-  - master-en-direccion-financiera-ort
+  - maestria-en-finanzas-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

@@ -1,6 +1,12 @@
 ---
 title: "LL.M. Máster en Derecho"
-similar: []
+similar:
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - derecho-doctorado-udelar
+  - derecho-procesal-especializacion-udelar
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - derecho-de-danos-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

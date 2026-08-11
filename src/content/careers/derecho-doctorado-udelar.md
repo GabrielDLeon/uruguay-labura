@@ -2,11 +2,11 @@
 title: "Doctorado en Derecho"
 similar:
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - llm-master-en-derecho-um
   - derecho-orientancion-derecho-comercial-maestria-udelar
   - derecho-procesal-especializacion-udelar
-  - derecho-internacional-publico-especializacion-udelar
-  - derecho-internacional-publico-maestria-udelar
   - notariado-udelar
+  - derecho-internacional-publico-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

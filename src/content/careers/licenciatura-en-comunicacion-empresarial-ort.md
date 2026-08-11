@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación Empresarial"
 similar:
+  - licenciatura-en-comunicacion-ucu
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - licenciatura-en-comunicacion-y-marketing-ucu
   - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
-  - licenciatura-en-comunicacion-udelar
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - licenciatura-en-comunicacion-global-ort
-  - licenciatura-en-comunicacion-ort
+  - doctorado-en-comunicacion-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

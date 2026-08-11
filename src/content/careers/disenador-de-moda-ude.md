@@ -1,5 +1,12 @@
 ---
 title: "Diseñador de Moda"
+similar:
+  - disenador-grafico-ude
+  - disenador-de-interiores-ude
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - tecnicatura-en-diseno-de-indumentaria-ude
+  - tecnico-en-diseno-de-interiores-ude
+  - licenciatura-en-diseno-grafico-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

@@ -1,5 +1,12 @@
 ---
 title: "Contador Público"
+similar:
+  - contador-publico-um
+  - contador-publico-ude
+  - contador-publico-ort
+  - contador-publico-udelar
+  - master-en-contabilidad-y-finanzas-ort
+  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

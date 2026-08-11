@@ -3,11 +3,11 @@ title: "Licenciatura en Ingeniería de Datos e Inteligencia Artificial"
 short: "Lic. en Ingeniería de Datos e IA"
 similar:
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - ingenieria-de-datos-e-inteligencia-artificial-um
   - tecnologo-en-analisis-y-gestion-de-datos-utec
   - maestria-en-robotica-e-inteligencia-artificial-utec
-  - diploma-de-especializacion-en-inteligencia-artificial-ort
-  - master-en-inteligencia-artificial-ort
   - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
+  - diploma-de-especializacion-en-inteligencia-artificial-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"

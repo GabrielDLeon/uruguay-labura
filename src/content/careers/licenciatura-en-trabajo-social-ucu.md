@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Trabajo Social"
+similar:
+  - licenciatura-en-trabajo-social-udelar
+  - fundamentos-de-trabajo-social-especializacion-udelar
+  - trabajo-social-maestria-udelar
+  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

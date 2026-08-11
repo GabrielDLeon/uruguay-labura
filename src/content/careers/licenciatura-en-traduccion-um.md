@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Traducción Inglés–Español"
-similar: []
+similar:
+  - traductorado-publico-ingles-udelar
+  - interpretacion-lsu-espanol-lsu-udelar
+  - postgrado-en-traduccion-um
+  - licenciatura-en-negocios-internacionales-um
+  - traductorado-publico-aleman-udelar
+  - traductorado-publico-frances-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

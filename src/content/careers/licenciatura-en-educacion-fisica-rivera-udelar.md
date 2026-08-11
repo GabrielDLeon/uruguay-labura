@@ -3,10 +3,10 @@ title: "Licenciatura en Educación Física"
 similar:
   - licenciatura-en-educacion-fisica-udelar
   - educacion-fisica-maestria-udelar
-  - doctorado-en-educacion-ort
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - tecnicatura-en-educacion-y-recreacion-ucu
+  - licenciatura-en-educacion-inicial-ucu
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
-  - promcoion-y-educacion-para-la-salud-especializacion-udelar
-  - diploma-en-educacion-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

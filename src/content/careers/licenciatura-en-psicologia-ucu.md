@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Psicología"
+similar:
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - tecnicatura-en-acompanamiento-terapeutico-ucu
+  - psicologia-social-maestria-udelar
+  - licenciatura-en-psicologia-udelar
+  - doctorado-en-psicologia-ucu
+  - psicologia-doctorado-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

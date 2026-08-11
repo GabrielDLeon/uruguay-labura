@@ -2,11 +2,9 @@
 title: "Tecnicatura en Dirección de Coros"
 similar:
   - tecnicatura-en-interpretacion-perfil-canto-guitarra-piano-udelar
-  - tecnologo-en-jazz-y-musica-creativa-utec
   - productor-musical-ort
   - licenciatura-en-direccion-coral-udelar
   - licenciatura-en-direccion-orquestal-udelar
-  - licenciatura-en-jazz-y-musica-creativa-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

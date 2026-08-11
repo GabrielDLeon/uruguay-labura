@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Finanzas"
-similar: []
+similar:
+  - postgrado-en-finanzas-corporativas-um
+  - master-en-contabilidad-y-finanzas-ort
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - finanzas-especializacion-udelar
+  - licenciatura-en-finanzas-ort
+  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

@@ -2,11 +2,11 @@
 title: "Licenciatura en Gerencia y Administración"
 similar:
   - gerencia-y-administracion-mba-maestria-udelar
-  - administracion-especializacion-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - mba-um
   - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
-  - administracion-de-servicios-de-salud-especializacion-udelar
-  - tecnico-en-administracion-udelar
+  - licenciatura-en-direccion-de-empresas-ucu
+  - administracion-y-economia-del-turismo-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

@@ -3,10 +3,10 @@ title: "Laboratorista en Odontología"
 similar:
   - asistente-en-odontologia-udelar
   - higienista-en-odontologia-udelar
+  - odontologia-ucu
+  - maestria-en-rehabilitacion-oral-ucu
   - odontologia-udelar
-  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - odontologia-restauradora-integral-especializacion-udelar
-  - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

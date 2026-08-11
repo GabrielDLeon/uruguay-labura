@@ -1,5 +1,12 @@
 ---
 title: "Postgrado Ejecutivo Experto en Dirección de Personas"
+similar:
+  - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
+  - postgrado-liderazgo-y-toma-de-decisiones-ude
+  - analista-en-recursos-humanos-ude
+  - licenciatura-en-gestion-de-talento-humano-um
+  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

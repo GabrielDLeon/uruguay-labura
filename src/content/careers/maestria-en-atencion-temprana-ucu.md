@@ -1,5 +1,7 @@
 ---
 title: "Maestría en Atención Temprana"
+similar:
+  - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

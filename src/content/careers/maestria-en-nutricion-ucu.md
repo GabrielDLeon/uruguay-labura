@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Nutrición"
+similar:
+  - licenciatura-en-nutricion-ucu
+  - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
+  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
+  - licenciatura-en-nutricion-udelar
+  - nutricion-de-rumiantes-maestria-udelar
+  - ciencias-nutricionales-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

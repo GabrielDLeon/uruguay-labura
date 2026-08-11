@@ -1,6 +1,12 @@
 ---
 title: "Ingeniero Agrónomo"
-similar: []
+similar:
+  - ingeniero-agronomo-udelar
+  - licenciatura-en-recursos-naturales-udelar
+  - tecnico-agropecuario-ude
+  - ingenieria-forestal-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - licenciatura-en-gestion-agropecuaria-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "ingenieria"

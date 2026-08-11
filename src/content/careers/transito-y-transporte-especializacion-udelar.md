@@ -1,9 +1,6 @@
 ---
 title: "Especialización en Tránsito y Transporte"
-similar:
-  - ingenieria-en-logistica-utec
-  - tecnologo-en-logistica-utec
-  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

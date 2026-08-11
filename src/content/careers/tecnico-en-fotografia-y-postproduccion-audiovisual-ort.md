@@ -4,7 +4,7 @@ similar:
   - tecnico-en-realizacion-audiovisual-ort
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
   - licenciatura-en-artes-fotografia-udelar
-  - cine-latinoamericano-maestria-udelar
+  - licenciatura-en-cine-ucu
   - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
   - tecnico-en-diseno-de-sonido-ort
 institutionName: "Universidad ORT Uruguay"

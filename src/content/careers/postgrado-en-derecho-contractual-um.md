@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Derecho Contractual"
-similar: []
+similar:
+  - postgrado-en-asesoramiento-corporativo-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Educación Inicial"
+similar:
+  - tecnicatura-en-educacion-y-recreacion-ucu
+  - licenciatura-en-educacion-ucu
+  - diploma-en-educacion-ort
+  - doctorado-en-educacion-ude
+  - licenciatura-en-educacion-fisica-rivera-udelar
+  - licenciatura-en-educacion-fisica-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

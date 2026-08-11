@@ -1,11 +1,11 @@
 ---
 title: "Especialización en Industria Cárnica"
 similar:
-  - ciencias-agrarias-maestria-udelar
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - ciencias-agrarias-maestria-udelar
   - ciencia-y-tecnologia-de-alimentos-maestria-udelar
-  - ingenieria-forestal-udelar
   - ciencias-agrarias-doctorado-udelar
+  - ingenieria-forestal-udelar
   - ingenieria-de-alimentos-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

@@ -6,7 +6,7 @@ similar:
   - traductorado-publico-ingles-udelar
   - traductorado-publico-italiano-udelar
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
-  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
+  - interpretacion-lsu-espanol-lsu-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

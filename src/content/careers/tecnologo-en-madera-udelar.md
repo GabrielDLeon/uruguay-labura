@@ -1,12 +1,9 @@
 ---
 title: "Tecnólogo en Madera"
 similar:
-  - ingenieria-electrica-udelar
   - arquitectura-en-madera-especializacion-udelar
-  - tecnologo-industrial-mecanico-udelar
   - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - tecnologo-en-mecatronica-industrial-utec
-  - ingenieria-fisica-maestria-udelar
+  - master-en-edificaciones-en-madera-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"

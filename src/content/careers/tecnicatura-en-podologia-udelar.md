@@ -1,12 +1,6 @@
 ---
 title: "Tecnicatura en Podología"
-similar:
-  - tecnicatura-en-radioisotopos-udelar
-  - tecnologo-en-cosmetologia-medica-udelar
-  - licenciatura-en-laboratorio-clinico-udelar
-  - licenciatura-en-neumocardiologia-udelar
-  - obstetra-partera-udelar
-  - licenciatura-en-registros-medicos-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

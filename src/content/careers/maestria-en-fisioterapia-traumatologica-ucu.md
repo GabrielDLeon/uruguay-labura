@@ -1,5 +1,11 @@
 ---
 title: "Maestría en Fisioterapia Traumatológica"
+similar:
+  - licenciatura-en-fisioterapia-ude
+  - licenciatura-en-fisioterapia-ucu
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - especializacion-en-traumatologia-y-ortopedia-um
+  - licenciatura-en-fisioterapia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

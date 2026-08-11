@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación Periodística y Creación de Contenidos"
 similar:
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - licenciatura-en-comunicacion-empresarial-ort
-  - licenciatura-en-comunicacion-global-ort
-  - licenciatura-en-comunicacion-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
+  - licenciatura-en-comunicacion-um
+  - licenciatura-en-comunicacion-ucu
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - doctorado-en-comunicacion-ucu
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - maestria-en-comunicacion-organizacional-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

@@ -1,5 +1,8 @@
 ---
 title: "Maestría en Psicoterapia Cognitiva de Adultos y Familias - Modalidad First Experience"
+similar:
+  - maestria-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
+  - especialista-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

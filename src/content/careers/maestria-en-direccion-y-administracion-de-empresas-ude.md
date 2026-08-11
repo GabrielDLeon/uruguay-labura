@@ -1,5 +1,10 @@
 ---
 title: "Maestría en Dirección y Administración de Empresas"
+similar:
+  - licenciatura-en-administracion-de-empresas-ude
+  - mba-um
+  - maestria-en-direccion-de-empresas-de-salud-um
+  - mba-senior-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

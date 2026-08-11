@@ -4,9 +4,6 @@ similar:
   - ingenieria-en-computacion-maestria-udelar
   - licenciatura-en-computacion-udelar
   - ingenieria-en-computacion-udelar
-  - ciencia-de-datos-especializacion-udelar
-  - ingenieria-de-software-maestria-udelar
-  - seguridad-informatica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Educación y Desarrollo Profesional Docente"
-similar: []
+similar:
+  - doctorado-en-educacion-ude
+  - maestria-en-educacion-ude
+  - educacion-y-desarrollo-especializacion-udelar
+  - especializacion-en-educacion-superior-tecnologica-profesional-utec
+  - psicologia-y-educacion-maestria-udelar
+  - educacion-ambiental-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

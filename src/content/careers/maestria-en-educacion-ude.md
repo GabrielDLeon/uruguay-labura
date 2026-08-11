@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Educación"
-similar: []
+similar:
+  - doctorado-en-educacion-ude
+  - maestria-en-liderazgo-y-gestion-educativa-ucu
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - educacion-y-extension-rural-maestria-udelar
+  - diploma-de-postgrado-en-educacion-emocional-um
+  - educacion-fisica-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

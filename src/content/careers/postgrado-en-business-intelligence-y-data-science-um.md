@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Business Intelligence & Data Science"
-similar: []
+similar:
+  - postgrado-en-data-science-y-big-data-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

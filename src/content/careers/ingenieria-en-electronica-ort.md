@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería en Electrónica"
 similar:
+  - ingenieria-en-electronica-ucu
   - ingenieria-en-sistemas-ort
   - ingenieria-electrica-ort
   - ingenieria-en-telecomunicaciones-ort
-  - ingenieria-en-control-y-automatica-utec
-  - ingenieria-en-mecatronica-utec
   - ingenieria-de-produccion-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"

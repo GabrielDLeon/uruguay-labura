@@ -1,5 +1,10 @@
 ---
 title: "Diploma en Diseño y Desarrollo Curricular"
+similar:
+  - maestria-en-curriculum-y-aprendizaje-ucu
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - educacion-y-desarrollo-especializacion-udelar
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"

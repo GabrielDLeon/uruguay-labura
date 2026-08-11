@@ -6,7 +6,7 @@ similar:
   - manejo-costero-integrado-especializacion-udelar
   - manejo-costero-integrado-del-cono-sur-maestria-udelar
   - licenciatura-en-gestion-ambiental-udelar
-  - maestria-profesional-en-evaluacion-transformadora-para-la-sostenibilidad-utec
+  - ingenieria-ambiental-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

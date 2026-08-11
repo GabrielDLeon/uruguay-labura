@@ -2,11 +2,11 @@
 title: "Master en Gestión y Comunicación de la Moda"
 similar:
   - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
-  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
-  - diploma-en-planificacion-y-gestion-educativa-ort
+  - maestria-en-comunicacion-organizacional-ucu
+  - licenciatura-en-diseno-de-comunicacion-visual-udelar
   - master-en-creatividad-innovacion-y-comunicacion-ort
+  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
   - tecnico-en-gestion-comercial-y-ventas-ort
-  - tecnico-en-gestion-turistica-y-hotelera-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Enfermería"
-similar: []
+similar:
+  - licenciatura-en-enfermeria-ucu
+  - enfermeria-en-nefrologia-especializacion-udelar
+  - enfermeria-en-neonatologia-especializacion-udelar
+  - licenciatura-en-enfermeria-profesionalizacion-ucu
+  - licenciatura-en-enfermeria-udelar
+  - enfermeria-medico-quirurgica-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

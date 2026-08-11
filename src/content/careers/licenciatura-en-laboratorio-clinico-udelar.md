@@ -2,11 +2,6 @@
 title: "Licenciatura en Laboratorio Clínico"
 similar:
   - laboratorio-de-patologia-clinica-especializacion-udelar
-  - tecnicatura-en-podologia-udelar
-  - licenciatura-en-neumocardiologia-udelar
-  - tecnicatura-en-radioisotopos-udelar
-  - tecnicatura-en-radioterapia-udelar
-  - enfermedades-infecciosas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

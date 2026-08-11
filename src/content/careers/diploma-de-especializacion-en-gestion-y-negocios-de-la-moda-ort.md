@@ -3,10 +3,10 @@ title: "Diploma de Especialización en Gestión y Negocios de la Moda"
 similar:
   - master-en-gestion-y-comunicacion-de-la-moda-ort
   - gestion-de-tecnologias-especializacion-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - master-en-diseno-estrategico-e-innovacion-ort
-  - patrimonio-documental-historia-y-gestion-especializacion-udelar
   - tecnico-en-gestion-comercial-y-ventas-ort
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - patrimonio-documental-historia-y-gestion-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

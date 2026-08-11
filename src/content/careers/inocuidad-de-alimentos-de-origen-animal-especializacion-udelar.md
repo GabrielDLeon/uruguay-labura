@@ -2,11 +2,11 @@
 title: "Especialización en Inocuidad de Alimentos de Origen Animal"
 similar:
   - tecnico-operador-de-alimentos-udelar
+  - ingenieria-en-alimentos-ucu
   - ingenieria-forestal-udelar
   - doctor-en-ciencias-veterinarias-udelar
   - ciencia-y-tecnologia-de-alimentos-maestria-udelar
   - ingenieria-de-alimentos-udelar
-  - licenciatura-en-analisis-alimentario-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

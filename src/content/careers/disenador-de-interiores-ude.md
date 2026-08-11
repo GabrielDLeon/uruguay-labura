@@ -1,5 +1,12 @@
 ---
 title: "Diseñador de Interiores"
+similar:
+  - disenador-de-moda-ude
+  - disenador-grafico-ude
+  - tecnico-en-diseno-de-interiores-ude
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-diseno-grafico-ude
+  - licenciatura-en-diseno-industrial-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

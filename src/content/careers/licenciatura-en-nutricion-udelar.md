@@ -2,8 +2,9 @@
 title: "Licenciatura en Nutrición"
 similar:
   - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
+  - licenciatura-en-nutricion-ucu
+  - maestria-en-nutricion-ucu
   - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
-  - ciencias-nutricionales-maestria-udelar
   - nutricion-de-rumiantes-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

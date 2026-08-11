@@ -2,11 +2,11 @@
 title: "Doctorado en Economía"
 similar:
   - economia-fcs-especializacion-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
   - economia-y-gestion-para-la-inclusion-especializacion-udelar
   - economia-maestria-udelar
   - economia-para-no-economistas-especializacion-udelar
   - economia-y-gestion-bancaria-especializacion-udelar
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

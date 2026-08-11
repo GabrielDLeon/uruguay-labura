@@ -3,10 +3,10 @@ title: "Maestría en Bioinformática"
 similar:
   - bioinformatica-especializacion-udelar
   - licenciatura-en-bioinformatica-ort
-  - informatica-pedeciba-doctorado-udelar
   - ciencias-biologicas-doctorado-udelar
   - ciencias-biologicas-maestria-udelar
-  - informatica-maestria-udelar
+  - licenciatura-en-biotecnologia-udelar
+  - licenciatura-en-ingenieria-biologica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

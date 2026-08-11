@@ -1,12 +1,12 @@
 ---
 title: "Abogacía"
 similar:
+  - abogacia-ucu
+  - abogacia-ude
+  - abogacia-um
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
-  - notariado-udelar
-  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
-  - derecho-comercial-especializacion-udelar
-  - derecho-orientancion-derecho-comercial-maestria-udelar
+  - notariado-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"

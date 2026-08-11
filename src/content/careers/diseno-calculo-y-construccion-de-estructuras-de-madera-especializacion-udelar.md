@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Diseño, Cálculo y Construcción de Estructuras de Madera"
 similar:
-  - ingenieria-de-minas-maestria-udelar
-  - ingenieria-de-minas-especializacion-udelar
-  - ingenieria-ambiental-especializacion-udelar
   - arquitectura-en-madera-especializacion-udelar
   - master-en-edificaciones-en-madera-ort
+  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - construccion-de-obras-de-arquitectura-especializacion-udelar
+  - construccion-en-obras-de-arquitectura-maestria-udelar
+  - licenciatura-en-diseno-integrado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

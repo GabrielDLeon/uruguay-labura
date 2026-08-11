@@ -6,7 +6,7 @@ similar:
   - derecho-comercial-especializacion-udelar
   - derecho-orientancion-derecho-comercial-maestria-udelar
   - licenciatura-en-marketing-y-direccion-comercial-ort
-  - master-en-direccion-comercial-y-marketing-ort
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

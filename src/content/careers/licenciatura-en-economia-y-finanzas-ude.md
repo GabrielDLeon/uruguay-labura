@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Economía y Finanzas"
+similar:
+  - licenciatura-en-finanzas-ucu
+  - licenciatura-en-negocios-y-economia-ucu
+  - economia-y-gestion-bancaria-especializacion-udelar
+  - licenciatura-en-economia-ucu
+  - licenciatura-en-economia-um
+  - maestria-en-economia-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

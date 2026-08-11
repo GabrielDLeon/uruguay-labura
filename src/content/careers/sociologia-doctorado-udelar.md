@@ -1,12 +1,10 @@
 ---
 title: "Doctorado en Sociología"
 similar:
-  - ciencia-politica-doctorado-udelar
-  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
-  - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
-  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
   - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
   - licenciatura-en-sociologia-udelar
+  - sociologia-maestria-udelar
+  - licenciatura-en-sociologia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

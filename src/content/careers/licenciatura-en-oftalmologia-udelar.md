@@ -2,11 +2,6 @@
 title: "Licenciatura en Oftalmología"
 similar:
   - oftalmologia-especializacion-udelar
-  - enfermeria-en-nefrologia-especializacion-udelar
-  - ciudados-intensivos-especializacion-udelar
-  - enfermeria-oncologica-especializacion-udelar
-  - licenciatura-en-neurofisiologia-clinica-udelar
-  - tecnicatura-en-hemoterapia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

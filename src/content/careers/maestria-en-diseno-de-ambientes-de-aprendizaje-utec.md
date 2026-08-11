@@ -2,12 +2,12 @@
 title: "Maestría en Diseño de Ambientes de Aprendizaje"
 short: "Maestría en Diseño de Ambientes de Aprendizaje"
 similar:
-  - dificultades-de-aprendizaje-especializacion-udelar
   - master-en-diseno-estrategico-e-innovacion-ort
-  - maestria-en-tecnologia-educativa-utec
-  - especializacion-en-tecnologia-educativa-utec
+  - maestria-en-curriculum-y-aprendizaje-ucu
+  - dificultades-de-aprendizaje-especializacion-udelar
   - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
   - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
+  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "maestria"

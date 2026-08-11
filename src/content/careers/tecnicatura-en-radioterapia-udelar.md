@@ -1,12 +1,6 @@
 ---
 title: "Tecnicatura en Radioterapia"
-similar:
-  - tecnicatura-en-radioisotopos-udelar
-  - licenciatura-en-laboratorio-clinico-udelar
-  - tecnicatura-en-podologia-udelar
-  - licenciatura-en-neumocardiologia-udelar
-  - licenciatura-en-registros-medicos-udelar
-  - obstetra-partera-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

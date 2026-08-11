@@ -1,12 +1,10 @@
 ---
 title: "Licenciatura en Lenguajes y Medios Audiovisuales"
 similar:
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
+  - licenciatura-en-cine-ucu
   - licenciatura-en-animacion-y-videojuegos-ort
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - diseno-y-produccion-de-videojuegos-ort
-  - tecnico-en-diseno-de-sonido-ort
-  - tecnico-en-realizacion-audiovisual-ort
+  - licenciatura-en-artes-fotografia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

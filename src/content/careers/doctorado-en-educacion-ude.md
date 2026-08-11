@@ -1,6 +1,12 @@
 ---
 title: "Doctorado en Educación"
-similar: []
+similar:
+  - maestria-en-educacion-ude
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - diploma-en-educacion-ort
+  - educacion-udelar
+  - educacion-y-extension-rural-maestria-udelar
+  - doctorado-en-comunicacion-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "doctorado"

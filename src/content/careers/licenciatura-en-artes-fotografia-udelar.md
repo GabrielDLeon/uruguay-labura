@@ -3,8 +3,8 @@ title: "Licenciatura en Artes - Fotografía"
 similar:
   - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
   - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
+  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
   - licenciatura-en-artes-ceramica-udelar
   - licenciatura-en-artes-dibujo-y-pintura-udelar
 institutionName: "Universidad de la República (UDELAR)"

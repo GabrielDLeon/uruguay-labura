@@ -2,11 +2,11 @@
 title: "Técnico en Gestión y Administración de Empresas"
 similar:
   - tecnico-en-gestion-turistica-y-hotelera-ort
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - tecnico-en-gestion-comercial-y-ventas-ort
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
-  - tecnico-en-gestion-comercial-y-ventas-ort
   - licenciatura-en-administracion-udelar
-  - master-en-administracion-de-empresas-mba-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

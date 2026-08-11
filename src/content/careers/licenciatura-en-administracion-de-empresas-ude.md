@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Administración de Empresas"
+similar:
+  - maestria-en-direccion-y-administracion-de-empresas-ude
+  - mba-um
+  - mba-senior-um
+  - maestria-en-direccion-de-empresas-de-salud-um
+  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-negocios-y-economia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

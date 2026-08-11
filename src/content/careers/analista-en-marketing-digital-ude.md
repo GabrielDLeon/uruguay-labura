@@ -1,5 +1,6 @@
 ---
 title: "Analista en Marketing Digital"
+similar: []
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Cirugía Plástica, Reparadora y Estética"
 similar:
-  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
   - angiologia-y-cirugia-vascular-especializacion-udelar
   - cirugia-cardiaca-especializacion-udelar
   - cirugia-general-especializacion-udelar
   - cirugia-pediatrica-especializacion-udelar
   - cirugia-toracica-especializacion-udelar
+  - cirugia-vascular-periferica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

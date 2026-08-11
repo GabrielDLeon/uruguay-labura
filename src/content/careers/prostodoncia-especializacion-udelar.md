@@ -5,8 +5,8 @@ similar:
   - ciencias-odontologicas-doctorado-udelar
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
-  - asistente-en-odontologia-udelar
-  - higienista-en-odontologia-udelar
+  - maestria-en-rehabilitacion-oral-ucu
+  - odontologia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

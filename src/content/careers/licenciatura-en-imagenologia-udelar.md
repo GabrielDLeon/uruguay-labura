@@ -2,11 +2,6 @@
 title: "Licenciatura en Imagenología"
 similar:
   - imagenologia-especializacion-udelar
-  - licenciatura-en-instrumentacion-quirurgica-udelar
-  - tecnicatura-en-hemoterapia-udelar
-  - licenciatura-en-neurofisiologia-clinica-udelar
-  - tecnicatura-en-anatomia-patologica-udelar
-  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

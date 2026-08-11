@@ -1,12 +1,6 @@
 ---
 title: "Especialización en Radiofarmacia"
-similar:
-  - enfermeria-oncologica-especializacion-udelar
-  - doctor-en-medicina-udelar
-  - cuidado-intensivo-de-infancia-y-adolescencia-especializacion-udelar
-  - tecnicatura-en-anatomia-patologica-udelar
-  - enfermeria-medico-quirurgica-especializacion-udelar
-  - licenciatura-en-imagenologia-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

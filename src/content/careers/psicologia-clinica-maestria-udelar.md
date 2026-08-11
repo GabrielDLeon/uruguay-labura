@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Psicología Clínica"
 similar:
+  - doctorado-en-psicologia-ucu
   - psicologia-social-maestria-udelar
   - licenciatura-en-psicologia-udelar
   - psicologia-doctorado-udelar
   - psicologia-y-educacion-maestria-udelar
-  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - licenciatura-en-psicologia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

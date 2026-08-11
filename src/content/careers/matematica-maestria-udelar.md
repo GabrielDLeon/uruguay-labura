@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-matematica-udelar
   - ingenieria-matematica-maestria-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - profesorado-de-matematica-um
   - ciclo-de-matematica-udelar
   - ingenieria-fisico-matematica-udelar
-  - matematica-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

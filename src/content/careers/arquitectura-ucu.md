@@ -1,5 +1,12 @@
 ---
 title: "Arquitectura"
+similar:
+  - arquitectura-doctorado-udelar
+  - diploma-de-especializacion-en-arquitectura-sostenible-ort
+  - construccion-de-obras-de-arquitectura-especializacion-udelar
+  - arquitectura-maestria-udelar
+  - carrera-de-arquitectura-ort
+  - arquitectura-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

@@ -2,11 +2,6 @@
 title: "Especialización en Laboratorio de Patología Clínica"
 similar:
   - licenciatura-en-laboratorio-clinico-udelar
-  - enfermedades-infecciosas-especializacion-udelar
-  - gerontopsicomotricidad-especializacion-udelar
-  - hepatologia-del-adulto-especializacion-udelar
-  - neonatologia-especializacion-udelar
-  - todas-las-areas-del-conocimiento-biomedico-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

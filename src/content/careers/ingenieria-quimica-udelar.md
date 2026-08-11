@@ -6,7 +6,7 @@ similar:
   - ingenieria-de-la-energia-doctorado-udelar
   - ingenieria-electrica-udelar
   - ingenieria-electrica-ort
-  - ingenieria-electrica-maestria-udelar
+  - licenciatura-en-tecnologias-de-la-quimica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

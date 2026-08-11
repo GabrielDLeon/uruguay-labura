@@ -2,11 +2,8 @@
 title: "Licenciatura en Ciencia Política"
 similar:
   - maestria-en-ciencia-politica-maestria-udelar
+  - licenciatura-en-ciencia-politica-ucu
   - ciencia-politica-doctorado-udelar
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
-  - sociologia-maestria-udelar
-  - licenciatura-en-relaciones-laborales-udelar
-  - licenciatura-en-desarrollo-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

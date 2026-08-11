@@ -3,10 +3,10 @@ title: "Doctorado en Ciencias Sociales C/esp. en Población"
 similar:
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
   - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
-  - ciencia-politica-doctorado-udelar
-  - sociologia-doctorado-udelar
   - licenciatura-en-ciencias-sociales-udelar
   - ciencias-humanas-maestria-udelar
+  - demografia-y-estudios-de-poblacion-maestria-udelar
+  - politicas-sociales-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

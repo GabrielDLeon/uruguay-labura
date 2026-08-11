@@ -1,12 +1,12 @@
 ---
 title: "Ingeniero Agrónomo"
 similar:
-  - ingenieria-en-computacion-udelar
-  - ingenieria-de-produccion-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - ingenieria-industrial-mecanica-udelar
+  - ingeniero-agronomo-ude
   - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
-  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
+  - licenciatura-en-recursos-naturales-udelar
+  - ingenieria-en-agrimensura-udelar
+  - ingenieria-forestal-udelar
+  - agronomia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

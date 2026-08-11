@@ -1,6 +1,7 @@
 ---
 title: "Ingeniería Civil"
-similar: []
+similar:
+  - ingenieria-civil-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"

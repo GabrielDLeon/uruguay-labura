@@ -6,7 +6,7 @@ similar:
   - oncologia-medica-especializacion-udelar
   - parasitologia-y-micologia-medica-especializacion-udelar
   - microbiologia-especializacion-udelar
-  - alergologia-especializacion-udelar
+  - bioinformatica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

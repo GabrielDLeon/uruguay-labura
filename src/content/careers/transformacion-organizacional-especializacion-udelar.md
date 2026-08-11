@@ -1,12 +1,6 @@
 ---
 title: "Especialización en Transformación Organizacional"
-similar:
-  - politicas-y-gestion-publica-maestria-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
-  - licenciatura-en-gestion-ambiental-udelar
-  - master-en-gestion-educativa-ort
-  - gerencia-y-administracion-mba-maestria-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -7,7 +7,7 @@ similar:
   - ingenieria-en-energias-renovables-utec
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-en-mecatronica-utec
-  - ingenieria-de-la-energia-doctorado-udelar
+  - tecnologo-en-agua-y-desarrollo-sostenible-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"

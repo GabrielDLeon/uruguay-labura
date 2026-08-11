@@ -5,8 +5,8 @@ similar:
   - derecho-comercial-especializacion-udelar
   - derecho-orientancion-derecho-comercial-maestria-udelar
   - derecho-doctorado-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - derecho-procesal-especializacion-udelar
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

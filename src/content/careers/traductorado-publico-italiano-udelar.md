@@ -5,8 +5,8 @@ similar:
   - traductorado-publico-frances-udelar
   - traductorado-publico-ingles-udelar
   - traductorado-publico-portugues-udelar
-  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
   - interpretacion-lsu-espanol-lsu-udelar
+  - licenciatura-en-traduccion-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

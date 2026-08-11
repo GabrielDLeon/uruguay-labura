@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Enfermería en Nefrología"
 similar:
-  - ciudados-intensivos-especializacion-udelar
   - enfermeria-medico-quirurgica-especializacion-udelar
   - enfermeria-oncologica-especializacion-udelar
-  - cuidado-intensivo-de-infancia-y-adolescencia-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
   - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
+  - licenciatura-en-enfermeria-ude
+  - licenciatura-en-enfermeria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

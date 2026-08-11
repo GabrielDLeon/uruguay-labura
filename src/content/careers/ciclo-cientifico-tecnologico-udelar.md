@@ -1,12 +1,6 @@
 ---
 title: "CIO Científico Tecnológico"
-similar:
-  - sistemas-electricos-de-potencia-especializacion-udelar
-  - ingenieria-ambiental-especializacion-udelar
-  - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-de-minas-especializacion-udelar
-  - ingenieria-de-minas-maestria-udelar
-  - licenciatura-en-ingenieria-biologica-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"

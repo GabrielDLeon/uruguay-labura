@@ -1,5 +1,12 @@
 ---
 title: "Ingeniería en Alimentos"
+similar:
+  - ingenieria-de-alimentos-udelar
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - tecnico-operador-de-alimentos-udelar
+  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
+  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
+  - ingenieria-industrial-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

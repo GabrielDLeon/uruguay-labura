@@ -1,6 +1,9 @@
 ---
 title: "Ingeniería Industrial"
-similar: []
+similar:
+  - ingenieria-industrial-ucu
+  - ingenieria-quimica-um
+  - tecnico-agropecuario-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"

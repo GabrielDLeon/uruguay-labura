@@ -3,10 +3,10 @@ title: "Maestría en Historia Económica"
 similar:
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - maestria-en-historia-um
   - historia-udelar
   - historia-politica-maestria-udelar
   - patrimonio-documental-historia-y-gestion-maestria-udelar
-  - patrimonio-documental-historia-y-gestion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

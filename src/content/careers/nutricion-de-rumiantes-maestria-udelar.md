@@ -4,9 +4,9 @@ similar:
   - produccion-animal-maestria-udelar
   - reproduccion-animal-maestria-udelar
   - salud-animal-maestria-udelar
+  - maestria-en-nutricion-ucu
+  - licenciatura-en-nutricion-ucu
   - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
-  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
-  - licenciatura-en-nutricion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

@@ -6,7 +6,7 @@ similar:
   - administracion-de-servicios-de-salud-especializacion-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
-  - politicas-y-gestion-publica-maestria-udelar
+  - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

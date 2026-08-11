@@ -6,7 +6,7 @@ similar:
   - ingenieria-electrica-maestria-udelar
   - ingenieria-estructural-doctorado-udelar
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
-  - ingenieria-ambiental-doctorado-udelar
+  - doctorado-en-ingenieria-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

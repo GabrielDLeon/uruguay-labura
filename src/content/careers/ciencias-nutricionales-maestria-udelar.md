@@ -1,9 +1,7 @@
 ---
 title: "Maestría en Ciencias Nutricionales"
 similar:
-  - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
-  - licenciatura-en-nutricion-udelar
-  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
+  - maestria-en-nutricion-ucu
   - nutricion-de-rumiantes-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

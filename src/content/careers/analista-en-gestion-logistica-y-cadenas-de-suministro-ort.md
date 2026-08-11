@@ -1,12 +1,12 @@
 ---
 title: "Analista en Gestión Logística y Cadenas de Suministro"
 similar:
+  - analista-en-logistica-ude
   - ingenieria-en-logistica-utec
+  - licenciatura-en-logistica-ude
   - tecnologo-en-logistica-utec
+  - analista-en-comercio-exterior-ude
   - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
-  - tecnologo-en-gestion-universitaria-udelar
-  - licenciatura-en-gestion-ambiental-udelar
-  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

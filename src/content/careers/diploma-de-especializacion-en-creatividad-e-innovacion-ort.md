@@ -4,9 +4,6 @@ similar:
   - master-en-creatividad-innovacion-y-comunicacion-ort
   - gestion-de-innovacion-maestria-udelar
   - master-en-diseno-estrategico-e-innovacion-ort
-  - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - gestion-cultural-especializacion-udelar
-  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

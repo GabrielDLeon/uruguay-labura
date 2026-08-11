@@ -3,10 +3,10 @@ title: "Licenciatura en Bioquímica"
 similar:
   - ciclo-en-biologia-bioquimica-udelar
   - quimico-udelar
-  - bioquimico-clinico-udelar
   - tecnologo-quimico-udelar
   - licenciatura-en-tecnologias-de-la-quimica-udelar
   - licenciatura-en-quimica-udelar
+  - bachiller-en-ciencias-quimicas-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

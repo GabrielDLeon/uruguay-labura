@@ -4,9 +4,9 @@ similar:
   - psicologia-social-maestria-udelar
   - licenciatura-en-psicologia-udelar
   - psicologia-clinica-maestria-udelar
+  - licenciatura-en-psicologia-ucu
+  - doctorado-en-psicologia-ucu
   - psicologia-y-educacion-maestria-udelar
-  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

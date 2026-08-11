@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Finanzas"
 similar:
+  - licenciatura-en-economia-y-finanzas-ude
+  - maestria-en-finanzas-um
+  - postgrado-en-finanzas-corporativas-um
   - licenciatura-en-finanzas-ort
   - finanzas-maestria-udelar
   - diploma-de-especializacion-en-finanzas-ort
-  - master-en-contabilidad-y-finanzas-ort
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -3,11 +3,11 @@ title: "Maestría en Tecnología Educativa"
 short: "Maestría en Tecnología Educativa"
 similar:
   - especializacion-en-tecnologia-educativa-utec
+  - maestria-en-liderazgo-y-gestion-educativa-ucu
   - master-en-gestion-educativa-ort
-  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - diploma-en-innovacion-educativa-ucu
   - diploma-en-planificacion-y-gestion-educativa-ort
-  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
-  - ensenanza-universitaria-especializacion-udelar
+  - licenciatura-en-recreacion-educativa-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "maestria"

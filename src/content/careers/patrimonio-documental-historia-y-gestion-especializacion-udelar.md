@@ -2,11 +2,11 @@
 title: "Especialización en Patrimonio Documental: Historia y Gestión"
 similar:
   - patrimonio-documental-historia-y-gestion-maestria-udelar
+  - maestria-en-historia-um
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
   - master-en-gestion-educativa-ort
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
+  - historia-politica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

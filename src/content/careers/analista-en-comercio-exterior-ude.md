@@ -1,5 +1,12 @@
 ---
 title: "Analista en Comercio Exterior"
+similar:
+  - analista-en-comercio-exterior-ort
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciado-en-comercio-exterior-ude
+  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
+  - analista-en-logistica-ude
+  - licenciatura-en-negocios-y-economia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

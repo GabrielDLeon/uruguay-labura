@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Ciencia Política"
+similar:
+  - licenciatura-en-ciencia-politica-udelar
+  - maestria-en-ciencia-politica-maestria-udelar
+  - postgrado-en-comunicacion-politica-um
+  - licenciatura-en-politica-filosofia-y-economia-um
+  - ciencia-politica-doctorado-udelar
+  - maestria-en-politicas-publicas-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Currículum y Aprendizaje"
+similar:
+  - diploma-en-diseno-y-desarrollo-curricular-ucu
+  - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
+  - licenciatura-en-psicopedagogia-semipresencial-ucu
+  - licenciatura-en-psicopedagogia-ucu
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - dificultades-de-aprendizaje-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

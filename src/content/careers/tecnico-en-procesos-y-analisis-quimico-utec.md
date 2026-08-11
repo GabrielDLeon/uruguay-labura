@@ -6,8 +6,6 @@ similar:
   - tecnologo-quimico-udelar
   - tecnologo-quimico-utec
   - bachiller-en-ciencias-quimicas-udelar
-  - ingenieria-quimica-udelar
-  - licenciatura-en-bioquimica-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnicatura"

@@ -3,10 +3,10 @@ title: "Maestría en Educación Ambiental"
 similar:
   - educacion-ambiental-especializacion-udelar
   - educacion-y-desarrollo-especializacion-udelar
-  - didactica-para-ensenanza-primaria-especializacion-udelar
-  - gestion-de-instituciones-educativas-especializacion-udelar
   - ingenieria-ambiental-maestria-udelar
   - ingenieria-ambiental-doctorado-udelar
+  - ingenieria-ambiental-especializacion-udelar
+  - maestria-en-gestion-ambiental-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

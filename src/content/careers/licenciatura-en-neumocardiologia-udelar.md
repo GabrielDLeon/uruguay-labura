@@ -1,12 +1,6 @@
 ---
 title: "Licenciatura en Neumocardiología"
-similar:
-  - tecnicatura-en-podologia-udelar
-  - licenciatura-en-laboratorio-clinico-udelar
-  - tecnologo-en-cosmetologia-medica-udelar
-  - licenciatura-en-registros-medicos-udelar
-  - tecnicatura-en-radioterapia-udelar
-  - todas-las-areas-del-conocimiento-biomedico-doctorado-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

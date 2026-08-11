@@ -1,6 +1,8 @@
 ---
 title: "Técnico en Gestión de Equinos"
-similar: []
+similar:
+  - licenciatura-en-gestion-agropecuaria-ude
+  - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

@@ -3,7 +3,7 @@ title: "Doctorado en Salud Animal"
 similar:
   - produccion-animal-doctorado-udelar
   - salud-animal-maestria-udelar
-  - ciclo-area-salud-udelar
+  - maestria-en-salud-publica-ude
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
   - produccion-animal-maestria-udelar
   - reproduccion-animal-maestria-udelar

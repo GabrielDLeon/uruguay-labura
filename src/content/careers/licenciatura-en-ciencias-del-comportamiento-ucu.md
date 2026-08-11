@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Ciencias del Comportamiento"
+similar:
+  - licenciatura-en-psicologia-um
+  - ciencias-cognitivas-maestria-udelar
+  - licenciatura-en-psicologia-ucu
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicomotricidad-udelar
+  - licenciatura-en-psicologia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

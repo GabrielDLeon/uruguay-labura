@@ -4,8 +4,8 @@ similar:
   - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - economia-y-gestion-para-la-inclusion-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
+  - licenciatura-en-economia-y-finanzas-ude
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
   - gestion-financiera-en-instituciones-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

@@ -4,8 +4,8 @@ similar:
   - habitat-y-vivienda-maestria-udelar
   - licenciatura-en-diseno-de-paisaje-udelar
   - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
-  - arquitectura-doctorado-udelar
   - arquitectura-en-madera-especializacion-udelar
+  - arquitectura-doctorado-udelar
   - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

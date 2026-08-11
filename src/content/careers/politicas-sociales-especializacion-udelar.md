@@ -5,8 +5,8 @@ similar:
   - genero-y-politicas-publicas-especializacion-udelar
   - afrodescendencia-y-politicas-publicas-especializacion-udelar
   - jovenes-juventud-y-politicas-publicas-especializacion-udelar
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
+  - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

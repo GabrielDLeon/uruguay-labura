@@ -4,9 +4,9 @@ similar:
   - ingenieria-en-agua-y-desarrollo-sostenible-utec
   - tecnologo-en-agua-y-desarrollo-sostenible-utec
   - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
-  - licenciatura-en-recursos-hidricos-y-riego-udelar
   - tecnicatura-en-desarrollo-regional-sustentable-udelar
   - ingenieria-agroambiental-utec
+  - tecnologo-agroambiental-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "otro"

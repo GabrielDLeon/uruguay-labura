@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Comunicación Política"
-similar: []
+similar:
+  - licenciatura-en-ciencia-politica-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

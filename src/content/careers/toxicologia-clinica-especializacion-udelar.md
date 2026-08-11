@@ -3,10 +3,6 @@ title: "Especialización en Toxicología Clínica"
 similar:
   - neurofisiologia-clinica-especializacion-udelar
   - licenciatura-en-neurofisiologia-clinica-udelar
-  - alergologia-especializacion-udelar
-  - anatomia-patologica-especializacion-udelar
-  - anatomia-patologica-pediatrica-especializacion-udelar
-  - anestesiologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

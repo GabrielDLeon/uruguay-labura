@@ -1,12 +1,12 @@
 ---
 title: "Educación"
 similar:
+  - doctorado-en-educacion-ude
   - educacion-fisica-maestria-udelar
+  - licenciatura-en-educacion-ucu
+  - maestria-en-educacion-ude
   - diploma-en-educacion-ort
   - educacion-y-extension-rural-maestria-udelar
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - psicologia-y-educacion-maestria-udelar
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

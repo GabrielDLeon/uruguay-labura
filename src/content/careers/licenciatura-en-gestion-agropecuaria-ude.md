@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Gestión Agropecuaria"
-similar: []
+similar:
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - licenciatura-en-direccion-de-empresas-ucu
+  - tecnicatura-en-gestion-de-recursos-naturales-udelar
+  - economia-y-gestion-bancaria-especializacion-udelar
+  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
+  - tecnico-en-gestion-de-equinos-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

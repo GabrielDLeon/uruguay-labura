@@ -1,6 +1,10 @@
 ---
 title: "Licenciatura en Fisioterapia"
-similar: []
+similar:
+  - licenciatura-en-fisioterapia-ude
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - licenciatura-en-fisioterapia-ucu
+  - diplomado-en-fisioterapia-en-el-deporte-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

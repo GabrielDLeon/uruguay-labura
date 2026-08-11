@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Gestión Ambiental"
+similar:
+  - ingenieria-ambiental-ucu
+  - licenciatura-en-gestion-ambiental-udelar
+  - tecnologo-en-control-ambiental-utec
+  - educacion-ambiental-maestria-udelar
+  - ingenieria-ambiental-maestria-udelar
+  - educacion-ambiental-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

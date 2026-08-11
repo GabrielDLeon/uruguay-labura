@@ -1,6 +1,12 @@
 ---
 title: "Ingeniería de Datos e Inteligencia Artificial"
-similar: []
+similar:
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - maestria-en-ciencia-de-datos-um
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - diploma-en-inteligencia-artificial-aplicada-ude
+  - postgrado-en-data-science-y-big-data-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"

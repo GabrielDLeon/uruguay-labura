@@ -4,9 +4,7 @@ similar:
   - sociologia-doctorado-udelar
   - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
   - sociologia-maestria-udelar
-  - estrategias-de-intervencion-en-usos-problematicos-de-drogas-especializacion-udelar
-  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
+  - licenciatura-en-sociologia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

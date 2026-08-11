@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Investigación Aplicada a la Ingeniería"
-similar: []
+similar:
+  - doctorado-en-ingenieria-ucu
+  - doctorado-en-ingenieria-ort
+  - master-en-ingenieria-por-investigacion-ort
+  - maestria-en-ciencias-de-la-ingenieria-ucu
+  - diploma-en-metodos-de-investigacion-y-analisis-de-datos-ucu
+  - ingenieria-fisica-doctorado-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

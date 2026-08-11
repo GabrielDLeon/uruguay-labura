@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Ortodoncia"
+similar:
+  - maestria-en-periodoncia-ucu
+  - odontologia-ucu
+  - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
+  - maestria-en-rehabilitacion-oral-ucu
+  - laboratorista-en-odontologia-udelar
+  - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

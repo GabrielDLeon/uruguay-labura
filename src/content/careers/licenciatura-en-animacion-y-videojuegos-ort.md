@@ -3,9 +3,8 @@ title: "Licenciatura en Animación y Videojuegos"
 similar:
   - diseno-y-produccion-de-videojuegos-ort
   - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
+  - licenciatura-en-cine-ucu
   - licenciatura-en-artes-fotografia-udelar
-  - cine-latinoamericano-maestria-udelar
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"

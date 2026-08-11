@@ -1,6 +1,12 @@
 ---
 title: "Abogacía"
-similar: []
+similar:
+  - abogacia-ucu
+  - abogacia-ude
+  - abogacia-udelar
+  - escribania-ude
+  - notariado-udelar
+  - licenciatura-en-relaciones-internacionales-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"

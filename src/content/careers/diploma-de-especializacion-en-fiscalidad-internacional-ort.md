@@ -3,10 +3,10 @@ title: "Diploma de Especialización en Fiscalidad Internacional"
 similar:
   - master-en-business-analytics-ort
   - licenciatura-en-estudios-internacionales-ort
-  - licenciatura-en-negocios-digitales-ort
-  - licenciatura-en-gerencia-y-administracion-ort
-  - tecnico-en-gestion-comercial-y-ventas-ort
-  - transformacion-organizacional-especializacion-udelar
+  - mba-senior-um
+  - mba-um
+  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Historia"
-similar: []
+similar:
+  - historia-udelar
+  - patrimonio-documental-historia-y-gestion-maestria-udelar
+  - patrimonio-documental-historia-y-gestion-especializacion-udelar
+  - historia-economica-maestria-udelar
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - licenciatura-en-humanidades-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

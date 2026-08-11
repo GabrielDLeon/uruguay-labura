@@ -1,12 +1,12 @@
 ---
 title: "Contador Público"
 similar:
+  - contador-publico-ude
+  - contador-publico-ucu
+  - contador-publico-um
   - contador-publico-udelar
   - licenciatura-en-economia-ort
-  - ingenieria-electrica-udelar
-  - ingenieria-industrial-mecanica-udelar
-  - licenciatura-en-administracion-udelar
-  - licenciatura-en-economia-udelar
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "carrera"

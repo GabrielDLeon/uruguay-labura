@@ -1,5 +1,8 @@
 ---
 title: "Maestría en Ciencias Criminológico-Forenses"
+similar:
+  - diploma-en-psicologia-forense-y-criminologica-um
+  - postgrado-en-derecho-penal-economico-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

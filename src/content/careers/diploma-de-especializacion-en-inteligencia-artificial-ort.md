@@ -5,8 +5,8 @@ similar:
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - especializacion-en-robotica-e-inteligencia-artificial-utec
   - maestria-en-robotica-e-inteligencia-artificial-utec
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
-  - analista-en-tecnologias-de-la-informacion-ort
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - diploma-en-inteligencia-artificial-aplicada-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

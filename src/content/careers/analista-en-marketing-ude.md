@@ -1,5 +1,12 @@
 ---
 title: "Analista en Marketing"
+similar:
+  - analista-en-marketing-digital-y-comercio-electronico-ort
+  - licenciatura-en-marketing-ude
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - licenciatura-en-marketing-um
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-marketing-y-direccion-comercial-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

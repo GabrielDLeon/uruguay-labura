@@ -3,7 +3,6 @@ title: "Auxiliar de Farmacia Hospitalaria"
 similar:
   - farmacia-hospitalaria-especializacion-udelar
   - farmacia-industrial-especializacion-udelar
-  - quimica-farmaceutica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

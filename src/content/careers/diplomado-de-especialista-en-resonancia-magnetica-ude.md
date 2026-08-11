@@ -1,6 +1,9 @@
 ---
 title: "Diplomado de Especialista en Resonancia Magnética"
-similar: []
+similar:
+  - diplomado-tomografia-computada-multicorte-ude
+  - licenciatura-en-imagenologia-ude
+  - diplomado-en-fisioterapia-en-el-deporte-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

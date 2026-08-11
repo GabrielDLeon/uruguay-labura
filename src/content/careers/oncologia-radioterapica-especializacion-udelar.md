@@ -3,10 +3,6 @@ title: "Especialización en Oncología Radioterápica"
 similar:
   - hemato-oncologia-pediatrica-especializacion-udelar
   - oncologia-medica-especializacion-udelar
-  - alergologia-especializacion-udelar
-  - anatomia-patologica-especializacion-udelar
-  - anatomia-patologica-pediatrica-especializacion-udelar
-  - anestesiologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

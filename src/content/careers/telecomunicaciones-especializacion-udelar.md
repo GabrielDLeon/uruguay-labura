@@ -2,11 +2,7 @@
 title: "Especialización en Telecomunicaciones"
 similar:
   - ingenieria-en-telecomunicaciones-ort
-  - informatica-maestria-udelar
   - tecnologo-en-telecomunicaciones-udelar
-  - licenciatura-en-computacion-udelar
-  - ingenieria-en-computacion-maestria-udelar
-  - estudios-avanzados-de-computacion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

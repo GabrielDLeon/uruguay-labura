@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Educación Física, Deporte y Recreación"
-similar: []
+similar:
+  - licenciatura-en-educacion-fisica-rivera-udelar
+  - licenciatura-en-educacion-fisica-udelar
+  - educacion-fisica-maestria-udelar
+  - tecnicatura-en-educacion-y-recreacion-ucu
+  - licenciatura-en-recreacion-educativa-ucu
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

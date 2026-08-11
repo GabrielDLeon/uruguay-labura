@@ -1,12 +1,10 @@
 ---
 title: "Operador Inmobiliario"
 similar:
-  - derecho-comercial-especializacion-udelar
-  - derecho-orientancion-derecho-comercial-maestria-udelar
-  - gerencia-y-administracion-mba-maestria-udelar
-  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
-  - diploma-de-especializacion-en-analitica-de-negocios-ort
   - diploma-de-especializacion-en-negocios-inmobiliarios-ort
+  - analista-en-comercio-exterior-ude
+  - analista-en-comercio-exterior-ort
+  - tecnico-en-gestion-comercial-y-ventas-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

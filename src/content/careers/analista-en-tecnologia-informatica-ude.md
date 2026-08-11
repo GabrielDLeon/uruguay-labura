@@ -1,6 +1,12 @@
 ---
 title: "Analista en Tecnología Informática"
-similar: []
+similar:
+  - tecnico-en-informatica-ude
+  - analista-en-informatica-ucu
+  - analista-en-ingenieria-informatica-ude
+  - licenciatura-en-informatica-ude
+  - ingenieria-en-informatica-ucu
+  - analista-en-tecnologias-de-la-informacion-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

@@ -1,6 +1,8 @@
 ---
 title: "Ingeniería Telemática"
-similar: []
+similar:
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-en-informatica-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"

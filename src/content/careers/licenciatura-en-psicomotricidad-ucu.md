@@ -1,5 +1,7 @@
 ---
 title: "Licenciatura en Psicomotricidad"
+similar:
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

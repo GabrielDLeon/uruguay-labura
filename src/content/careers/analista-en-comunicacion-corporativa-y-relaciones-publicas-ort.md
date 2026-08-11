@@ -2,11 +2,11 @@
 title: "Analista en Comunicación Corporativa y Relaciones Públicas"
 similar:
   - tecnico-en-relaciones-publicas-y-organizacion-de-eventos-ort
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
   - analista-en-publicidad-y-comunicacion-digital-ort
-  - master-en-creatividad-innovacion-y-comunicacion-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
-  - licenciatura-en-comunicacion-global-ort
-  - licenciatura-en-comunicacion-udelar
+  - licenciatura-en-comunicacion-um
+  - licenciatura-en-comunicacion-y-marketing-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

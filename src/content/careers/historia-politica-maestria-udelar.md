@@ -5,8 +5,8 @@ similar:
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
   - patrimonio-documental-historia-y-gestion-maestria-udelar
   - patrimonio-documental-historia-y-gestion-especializacion-udelar
+  - maestria-en-historia-um
   - historia-economica-maestria-udelar
-  - historia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

@@ -1,12 +1,12 @@
 ---
 title: "Diploma en Educación"
 similar:
+  - doctorado-en-educacion-ude
+  - maestria-en-educacion-ude
   - master-en-educacion-ort
-  - educacion-udelar
-  - educacion-y-extension-rural-maestria-udelar
-  - educacion-ambiental-especializacion-udelar
-  - diploma-en-formacion-de-formadores-ort
-  - licenciatura-en-educacion-fisica-rivera-udelar
+  - licenciatura-en-educacion-inicial-ucu
+  - licenciatura-en-educacion-ucu
+  - tecnicatura-en-educacion-y-recreacion-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "diplomado"

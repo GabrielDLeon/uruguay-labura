@@ -1,5 +1,12 @@
 ---
 title: "Agronomía"
+similar:
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - agronomia-especializacion-udelar
+  - agronomia-maestria-udelar
+  - ingenieria-en-agrimensura-udelar
+  - desarrollo-rural-sustentable-especializacion-udelar
+  - desarrollo-rural-sustentable-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

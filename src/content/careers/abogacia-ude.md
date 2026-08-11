@@ -1,5 +1,12 @@
 ---
 title: "Abogacía"
+similar:
+  - escribania-ude
+  - abogacia-ucu
+  - abogacia-um
+  - abogacia-udelar
+  - notariado-um
+  - licenciatura-en-relaciones-internacionales-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "carrera"

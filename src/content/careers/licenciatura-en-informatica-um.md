@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Informática"
-similar: []
+similar:
+  - analista-en-informatica-ucu
+  - tecnologo-en-informatica-udelar
+  - ingenieria-en-informatica-um
+  - analista-en-tecnologia-informatica-ude
+  - tecnico-en-informatica-ude
+  - analista-en-ingenieria-informatica-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

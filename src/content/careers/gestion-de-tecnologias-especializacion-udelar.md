@@ -5,8 +5,8 @@ similar:
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
   - gestion-de-servicios-de-salud-especializacion-udelar
+  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -5,8 +5,7 @@ similar:
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
   - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
   - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
-  - psicologia-social-maestria-udelar
-  - fundamentos-de-trabajo-social-especializacion-udelar
+  - licenciatura-en-ciencias-sociales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

@@ -1,6 +1,11 @@
 ---
 title: "Postgrado en Tributación Internacional"
-similar: []
+similar:
+  - postgrado-en-tributacion-nacional-um
+  - master-en-tributacion-um
+  - diplomado-en-tributacion-ude
+  - postgrado-en-tributacion-aplicada-um
+  - postgrado-en-tecnica-tributaria-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

@@ -2,11 +2,11 @@
 title: "Maestría en Enseñanza de Lenguas Extranjeras"
 similar:
   - ensenanza-de-lenguas-extranjeras-especializacion-udelar
-  - educacion-ambiental-especializacion-udelar
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
-  - educacion-y-extension-rural-maestria-udelar
   - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

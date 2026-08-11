@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Gestión de Talento Humano"
-similar: []
+similar:
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - licenciatura-en-direccion-de-empresas-ucu
+  - postgrado-liderazgo-y-toma-de-decisiones-ude
+  - licenciatura-en-recursos-humanos-ude
+  - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
+  - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

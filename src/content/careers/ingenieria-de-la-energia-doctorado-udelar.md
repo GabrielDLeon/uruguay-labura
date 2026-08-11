@@ -4,9 +4,9 @@ similar:
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
   - ingenieria-estructural-doctorado-udelar
   - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-fisica-doctorado-udelar
   - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-fisica-doctorado-udelar
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

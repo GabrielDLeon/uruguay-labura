@@ -5,8 +5,8 @@ similar:
   - afrodescendencia-y-politicas-publicas-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
   - jovenes-juventud-y-politicas-publicas-especializacion-udelar
-  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
   - maestria-y-en-politicas-publicas-maestria-udelar
+  - politicas-sociales-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

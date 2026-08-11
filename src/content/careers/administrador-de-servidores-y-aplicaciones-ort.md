@@ -1,12 +1,6 @@
 ---
 title: "Administrador de Servidores y Aplicaciones"
-similar:
-  - analista-en-infraestructura-informatica-ort
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - ciencia-de-datos-especializacion-udelar
-  - analista-programador-ort
-  - master-en-gestion-de-sistemas-de-informacion-ort
-  - master-en-inteligencia-artificial-ort
+similar: []
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

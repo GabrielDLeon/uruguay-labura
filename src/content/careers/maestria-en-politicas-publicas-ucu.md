@@ -1,5 +1,9 @@
 ---
 title: "Maestría en Políticas Públicas"
+similar:
+  - maestria-en-administracion-publica-ucu
+  - licenciatura-en-ciencia-politica-ucu
+  - licenciatura-en-politica-filosofia-y-economia-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

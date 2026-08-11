@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Ciencia de Datos para Finanzas"
-similar: []
+similar:
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
+  - maestria-en-ciencia-de-datos-um
+  - ciencia-de-datos-especializacion-udelar
+  - postgrado-en-finanzas-corporativas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

@@ -1,12 +1,6 @@
 ---
 title: "Especialización en Gerodontología"
-similar:
-  - todas-las-areas-del-conocimiento-biomedico-maestria-udelar
-  - obstetra-partera-udelar
-  - enfermedades-infecciosas-especializacion-udelar
-  - gerontopsicomotricidad-especializacion-udelar
-  - hepatologia-del-adulto-especializacion-udelar
-  - laboratorio-de-patologia-clinica-especializacion-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

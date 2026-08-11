@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Cine"
+similar:
+  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-um
+  - cine-latinoamericano-maestria-udelar
+  - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
+  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
+  - tecnico-en-diseno-de-sonido-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

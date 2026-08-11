@@ -1,6 +1,12 @@
 ---
 title: "Diploma de Postgrado en Educación Emocional"
-similar: []
+similar:
+  - doctorado-en-educacion-ude
+  - maestria-en-educacion-ude
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - magisterio-um
+  - maestria-en-cambio-organizacional-en-entornos-digitales-ucu
+  - profesorado-de-matematica-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

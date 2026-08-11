@@ -4,9 +4,9 @@ similar:
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-ambiental-maestria-udelar
   - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-ambiental-ucu
   - ingenieria-estructural-doctorado-udelar
   - ingenieria-fisica-doctorado-udelar
-  - ingenieria-de-la-energia-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

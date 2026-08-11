@@ -3,10 +3,10 @@ title: "Doctorado en Educación"
 similar:
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
+  - doctorado-en-educacion-ude
   - psicologia-y-educacion-maestria-udelar
-  - diploma-en-educacion-ort
-  - master-en-educacion-ort
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - licenciatura-en-educacion-inicial-ucu
+  - licenciatura-en-educacion-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "doctorado"

@@ -1,6 +1,12 @@
 ---
 title: "Ingeniería Química"
-similar: []
+similar:
+  - ingenieria-industrial-um
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-en-energias-renovables-utec
+  - ingenieria-de-la-energia-especializacion-udelar
+  - ingenieria-de-la-energia-maestria-udelar
+  - ingenieria-de-la-energia-doctorado-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"

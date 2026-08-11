@@ -3,10 +3,10 @@ title: "Maestría en Educación Física"
 similar:
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
   - educacion-y-extension-rural-maestria-udelar
-  - educacion-udelar
-  - ensenanza-de-lenguas-extranjeras-maestria-udelar
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
+  - maestria-en-educacion-ude
+  - doctorado-en-educacion-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Especialización en Arquitectura Sostenible"
 similar:
+  - arquitectura-ucu
   - carrera-de-arquitectura-ort
   - arquitectura-en-madera-especializacion-udelar
   - construccion-de-obras-de-arquitectura-especializacion-udelar
   - arquitectura-doctorado-udelar
   - arquitectura-maestria-udelar
-  - arquitectura-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

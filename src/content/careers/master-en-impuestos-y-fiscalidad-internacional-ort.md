@@ -3,10 +3,10 @@ title: "Master en Impuestos y Fiscalidad Internacional"
 similar:
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
   - diploma-de-especializacion-en-impuestos-ort
-  - derecho-financiero-con-enfasis-en-derecho-tributario-especializacion-udelar
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - master-en-contabilidad-y-finanzas-ort
-  - master-en-direccion-financiera-ort
+  - contador-publico-um
+  - maestria-en-finanzas-um
+  - contador-publico-ucu
+  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

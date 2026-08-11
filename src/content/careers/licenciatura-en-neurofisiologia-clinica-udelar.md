@@ -3,10 +3,6 @@ title: "Licenciatura en Neurofisiología Clínica"
 similar:
   - neurofisiologia-clinica-especializacion-udelar
   - toxicologia-clinica-especializacion-udelar
-  - tecnicatura-en-hemoterapia-udelar
-  - licenciatura-en-imagenologia-udelar
-  - licenciatura-en-oftalmologia-udelar
-  - licenciatura-en-instrumentacion-quirurgica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

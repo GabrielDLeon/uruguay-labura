@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Periodoncia"
+similar:
+  - maestria-en-ortodoncia-ucu
+  - maestria-en-rehabilitacion-oral-ucu
+  - odontologia-ucu
+  - periodoncia-especializacion-udelar
+  - laboratorista-en-odontologia-udelar
+  - asistente-en-odontologia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

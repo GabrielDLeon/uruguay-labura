@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Relaciones Internacionales"
+similar:
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - licenciatura-en-negocios-internacionales-um
+  - abogacia-ude
+  - escribania-ude
+  - licenciado-en-comercio-exterior-ude
+  - abogacia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

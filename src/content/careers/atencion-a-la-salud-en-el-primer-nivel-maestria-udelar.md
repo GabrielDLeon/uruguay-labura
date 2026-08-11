@@ -5,8 +5,8 @@ similar:
   - salud-mental-y-psiquiatria-especializacion-udelar
   - salud-familiar-y-comunitaria-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
+  - maestria-en-gestion-y-salud-publica-ucu
   - salud-mental-maestria-udelar
-  - seguridad-y-salud-en-el-trabajo-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

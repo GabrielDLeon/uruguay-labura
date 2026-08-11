@@ -4,9 +4,9 @@ similar:
   - enfermeria-medico-quirurgica-especializacion-udelar
   - enfermeria-en-nefrologia-especializacion-udelar
   - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
-  - ciudados-intensivos-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
+  - licenciatura-en-enfermeria-profesionalizacion-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

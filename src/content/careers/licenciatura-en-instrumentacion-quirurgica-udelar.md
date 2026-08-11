@@ -4,9 +4,6 @@ similar:
   - enfermeria-medico-quirurgica-especializacion-udelar
   - dermatologia-medico-quirurgica-especializacion-udelar
   - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
-  - licenciatura-en-imagenologia-udelar
-  - enfermeria-en-nefrologia-especializacion-udelar
-  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

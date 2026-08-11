@@ -1,5 +1,12 @@
 ---
 title: "Diploma en Comunicación de las Organizaciones Públicas"
+similar:
+  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - master-en-direccion-de-comunicacion-y-marketing-ort
+  - tecnico-en-relaciones-publicas-y-organizacion-de-eventos-ort
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - doctorado-en-comunicacion-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"

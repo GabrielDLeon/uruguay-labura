@@ -1,65 +1,67 @@
 #!/usr/bin/env node
 /**
- * Generación automática de carreras similares (campo `similar`) para
- * src/content/careers.
+ * Auto-generates the `similar` field for src/content/careers.
  *
- * Objetivo: que TODAS las carreras apunten a otras realmente relacionadas,
- * sin mantenimiento manual. Estrategia híbrida:
+ * Hybrid strategy: shared tags weighted by IDF (rare tags like "telematica"
+ * weigh far more than generic ones like "salud"), refined by title and
+ * description tokens with IDF weighting, plus tiebreakers (same area, same
+ * degreeType, cross-institution diversity).
  *
- *  1. SEÑAL PRIMARIA → tags: se exige al menos un tag compartido (piso de
- *     relación real). Los tags ya son un vocabulario curado y confiable.
- *  2. REFINAMIENTO → tokens del título y de la descripción con ponderación
- *     IDF: los tokens raros compartidos (p. ej. "cardiologia", "robotica")
- *     pesan mucho más que los comunes. Discrimina dentro de disciplinas
- *     amplias: "cardiología" se vincula a "cardiología pediátrica" y no a
- *     "dermatología".
- *  3. TIEBREAKERS → misma `area` (contexto), mismo `degreeType` y un bonus
- *     leve de diversidad cross-institución.
+ * Usage:
+ *   node scripts/compute-similar-careers.mjs           # dry-run
+ *   node scripts/compute-similar-careers.mjs --apply   # write changes
  *
- * Para cada carrera se eligen las N (por defecto 3) más similares con un
- * score mínimo. La relación es direccional top-N (consistente con la
- * convención actual).
- *
- * Modo dry-run (default): imprime reporte y NO escribe nada.
- * Modo apply: `node scripts/compute-similar-careers.mjs --apply`
- *
- * Escribe SOLO el bloque `similar:` (sustituyéndolo si existe o insertándolo
- * después de `short:`/`title:` si no). El resto del frontmatter queda
- * byte-idéntico.
+ * Only the `similar:` block is written (replaced if present, or inserted
+ * after `short:`/`title:`); the rest of the frontmatter stays untouched.
  */
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import { createRequire } from "node:module";
 
 const require = createRequire(import.meta.url);
-let YAML;
-try {
-  YAML = require("yaml");
-} catch {
-  YAML = require(
-    "/home/gabriel/dev/uruguay-labura/node_modules/.pnpm/yaml@2.8.3/node_modules/yaml",
-  );
+
+// yaml is not a direct dependency, so fall back to the highest version in the pnpm store.
+function loadYaml() {
+  try {
+    return require("yaml");
+  } catch {
+    const store = join(ROOT, "node_modules", ".pnpm");
+    const best = readdirSync(store)
+      .filter((d) => d.startsWith("yaml@"))
+      .map((d) => ({ dir: d, ver: d.split("@")[1].split(".").map(Number) }))
+      .sort((a, b) => {
+        for (let i = 0; i < 3; i++) {
+          const d = (a.ver[i] ?? 0) - (b.ver[i] ?? 0);
+          if (d !== 0) return d;
+        }
+        return 0;
+      })
+      .at(-1);
+    if (!best) throw new Error("yaml not found in node_modules");
+    return require(join(store, best.dir, "node_modules", "yaml"));
+  }
 }
 
-const DIR = join(process.cwd(), "src/content/careers");
+const ROOT = new URL("..", import.meta.url).pathname;
+const DIR = join(ROOT, "src", "content", "careers");
+const YAML = loadYaml();
 const APPLY = process.argv.includes("--apply");
 
-// ── Parámetros (ajustables) ────────────────────────────────────────────────
-const TOP_N = 6; // máx. de similares por carrera (no fuerza a llenar; toma hasta N que pasen el filtro)
-const MIN_THRESHOLD = 2.4; // score mínimo para sugerir (≈ un tag compartido)
+const TOP_N = 6;
+const MIN_THRESHOLD = 2.4;
+const TAG_STRONG = 5.5; // a shared specific tag alone is enough
+const TAG_WEAK = 3.0; // weaker tags need same area/degreeType as confirmation
+const TOKEN_TAG_MIN = 2.0; // a shared title token requires at least some tag signal
 
-// ── Normalización ──────────────────────────────────────────────────────────
 const norm = (s) =>
   (s || "")
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
 
-// Palabras "de relleno" del título: sin señal disciplinar útil.
 const STOPWORDS = new Set([
   "de", "la", "el", "en", "los", "las", "del", "al", "y", "o", "a", "con",
   "por", "para", "su", "e", "un", "una", "de-la", "de-el",
-  // nivel / tipo de grado (no discrimina disciplina)
   "especializacion", "maestria", "licenciatura", "tecnicatura", "tecnologo",
   "carrera", "diploma", "doctorado", "ciclo", "curso", "posgrado", "master",
   "universitario", "universitaria", "superior", "tecnico", "grado", "area",
@@ -67,7 +69,6 @@ const STOPWORDS = new Set([
   "taller", "taller-de", "nuevo",
 ]);
 
-// Palabras de relleno para `description` (texto libre más ruidoso).
 const DESC_STOPWORDS = new Set([
   ...STOPWORDS, "titulo", "titulos", "formacion", "formar", "formando", "carrera",
   "universidad", "universitaria", "estudiantes", "estudiante", "modalidad",
@@ -85,7 +86,6 @@ const DESC_STOPWORDS = new Set([
   "también", "tambien", "así", "asi", "como", "tanto", "este", "esta",
   "podrá", "podran", "podrá", "incluye", "incluyen", "incluso", "además",
   "ademas", "requiere", "requieren", "se", "al", "lo", "le", "les", "sus",
-  // instituciones / geografía (no discriminan disciplina)
   "udelar", "ort", "utec", "uruguay", "republica", "montevideo", "universidad-de-la-republica",
 ]);
 
@@ -97,7 +97,6 @@ function significantTokens(title) {
   return tokens;
 }
 
-// Tokens significativos de la descripción (texto libre, se filtra más).
 function descriptionTokens(desc) {
   const tokens = new Set();
   for (const w of norm(desc).split(/[^a-z0-9]+/)) {
@@ -106,8 +105,7 @@ function descriptionTokens(desc) {
   return tokens;
 }
 
-// ── Carga ──────────────────────────────────────────────────────────────────
-const files = readdirSync(DIR).filter((f) => f.endsWith(".mdx")).sort();
+const files = readdirSync(DIR).filter((f) => f.endsWith(".md")).sort();
 const careers = [];
 for (const file of files) {
   const path = join(DIR, file);
@@ -121,7 +119,7 @@ for (const file of files) {
     continue;
   }
   if (!doc || typeof doc.title !== "string") continue;
-  const slug = file.replace(/\.mdx$/, "");
+  const slug = file.replace(/\.md$/, "");
   careers.push({
     slug,
     file,
@@ -139,12 +137,9 @@ for (const file of files) {
   });
 }
 
-// Se procesan TODAS las carreras (draft o no): el campo `similar` es dato
-// puro del frontmatter y debe quedar listo aunque el flag `draft` cambie
-// luego. El render ya filtra drafts en [slug].astro.
+// All careers are processed (draft or not) so `similar` is ready regardless of the draft flag.
 const N = careers.length;
 
-// ── IDF por token (título y descripción por separado) ─────────────────────
 const df = new Map();
 const dfDesc = new Map();
 for (const c of careers) {
@@ -154,45 +149,57 @@ for (const c of careers) {
 const idf = (t) => Math.log((N + 1) / ((df.get(t) || 0) + 1));
 const idfDesc = (t) => Math.log((N + 1) / ((dfDesc.get(t) || 0) + 1));
 
-// ── Similitud entre dos carreras ───────────────────────────────────────────
+const dfTag = new Map();
+for (const c of careers) for (const t of c.tags) dfTag.set(t, (dfTag.get(t) || 0) + 1);
+const idfTag = (t) => Math.log((N + 1) / ((dfTag.get(t) || 0) + 1));
+
 function similarity(a, b) {
   if (a.slug === b.slug) return -1;
   let score = 0;
 
-  // señal primaria
   let shared = 0;
-  for (const t of a.tags) if (b.tags.has(t)) shared++;
-  score += 2.5 * shared;
+  let tagScore = 0;
+  for (const t of a.tags) {
+    if (b.tags.has(t)) {
+      shared++;
+      tagScore += idfTag(t);
+    }
+  }
+  score += tagScore;
 
-  // tiebreakers
-  if (a.area && a.area === b.area) score += 0.7;
-  if (a.degreeType && a.degreeType === b.degreeType) score += 0.2;
-  // diversidad: bonus leve si son de instituciones distintas
+  const sameArea = a.area && a.area === b.area;
+  const sameDegree = a.degreeType && a.degreeType === b.degreeType;
+  if (sameArea) score += 0.7;
+  if (sameDegree) score += 0.2;
   if (a.institution && b.institution && a.institution !== b.institution) score += 0.3;
 
-  // refinamiento por token del título
   let tokenScore = 0;
-  for (const t of a.tokens) if (b.tokens.has(t)) tokenScore += idf(t);
+  let sharedTitleToken = false;
+  for (const t of a.tokens) if (b.tokens.has(t)) { tokenScore += idf(t); sharedTitleToken = true; }
   score += tokenScore;
 
-  // refinamiento por descripción (peso menor: texto libre, más ruido)
   let descScore = 0;
   for (const t of a.descTokens) if (b.descTokens.has(t)) descScore += idfDesc(t);
   score += descScore * 0.6;
 
-  return { score, shared };
+  return { score, shared, tagScore, sharedTitleToken, sameArea, sameDegree };
 }
 
-// ── Cálculo de sugerencias ─────────────────────────────────────────────────
-const plan = new Map(); // slug -> [ {slug, score} ]
+const plan = new Map();
 for (const a of careers) {
   let candidates = [];
   for (const b of careers) {
     if (a.slug === b.slug) continue;
-    const { score, shared } = similarity(a, b);
-    // piso: relación real exige ≥1 tag compartido, salvo que la carrera no
-    // tenga tags (entonces se admite por similitud de título/descripción).
-    const floor = shared >= 1 || a.tags.size === 0;
+    const { score, shared, tagScore, sharedTitleToken, sameArea, sameDegree } = similarity(a, b);
+    // A shared generic tag ("salud", "medicina") is not enough on its own: require
+    // evidence proportional to tag rarity (specific tag alone, weak tag + same
+    // area/degreeType, or shared title token + some tag signal). Careers without
+    // tags are admitted on title/description similarity alone.
+    const strongTag = tagScore >= TAG_STRONG;
+    const weakTagConfirmed = tagScore >= TAG_WEAK && (sameArea || sameDegree);
+    const tokenEvidence = sharedTitleToken && tagScore >= TOKEN_TAG_MIN;
+    const floor =
+      a.tags.size === 0 ? true : shared >= 1 && (strongTag || weakTagConfirmed || tokenEvidence);
     if (!floor) continue;
     if (score < MIN_THRESHOLD) continue;
     candidates.push({ slug: b.slug, score });
@@ -201,7 +208,6 @@ for (const a of careers) {
   plan.set(a.slug, candidates.slice(0, TOP_N));
 }
 
-// ── Reporte ────────────────────────────────────────────────────────────────
 let changed = 0;
 const report = [];
 for (const c of careers) {
@@ -242,7 +248,6 @@ if (!APPLY) {
   console.log("\n⚠️  Modo dry-run: no se escribió nada. Usá --apply para aplicar.");
 }
 
-// ── Aplicar ────────────────────────────────────────────────────────────────
 if (APPLY) {
   let written = 0;
   for (const c of careers) {
@@ -252,10 +257,8 @@ if (APPLY) {
     let updated;
     const re = /similar:[\s\S]*?(?=\n[a-zA-Z][\w-]*:|(?![\s\S]))/;
     if (re.test(c.fm)) {
-      // el campo ya existe → sustituir el bloque
       updated = c.fm.replace(re, block);
     } else {
-      // no existía → insertar después de `short:` (o `title:`)
       const anchorLine =
         (c.fm.match(/^short:.*$/m) ?? c.fm.match(/^title:.*$/m))?.[0] ?? "";
       if (!anchorLine) {

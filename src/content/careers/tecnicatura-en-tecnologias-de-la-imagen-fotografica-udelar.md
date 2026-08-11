@@ -1,12 +1,6 @@
 ---
 title: "Tecnicatura en Tecnologías de la Imagen Fotográfica"
-similar:
-  - licenciatura-en-ciencias-sociales-udelar
-  - licenciatura-en-trabajo-social-udelar
-  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - demografia-y-estudios-de-poblacion-maestria-udelar
-  - analisis-sociodemografico-especializacion-udelar
-  - licenciatura-en-desarrollo-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

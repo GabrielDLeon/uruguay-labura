@@ -1,6 +1,8 @@
 ---
 title: "Diploma en Psicología Forense y Criminológica"
-similar: []
+similar:
+  - maestria-en-psicologia-forense-y-penitenciaria-ucu
+  - maestria-en-ciencias-criminologico-forenses-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

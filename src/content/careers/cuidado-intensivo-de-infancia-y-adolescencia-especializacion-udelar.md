@@ -1,12 +1,6 @@
 ---
 title: "Especialización en Cuidado Intensivo de Infancia y Adolescencia"
-similar:
-  - ciudados-intensivos-especializacion-udelar
-  - enfermeria-en-nefrologia-especializacion-udelar
-  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
-  - enfermeria-medico-quirurgica-especializacion-udelar
-  - enfermeria-oncologica-especializacion-udelar
-  - estabilizacion-y-traslado-pediatrico-y-neonatal-especializacion-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

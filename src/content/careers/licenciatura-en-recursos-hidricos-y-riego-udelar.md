@@ -2,11 +2,11 @@
 title: "Licenciatura en Recursos Hídricos y Riego"
 similar:
   - ingenieria-ambiental-maestria-udelar
-  - ingenieria-en-agua-y-desarrollo-sostenible-utec
-  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
   - ingenieria-industrial-mecanica-udelar
   - hidrologia-subterranea-especializacion-udelar
   - ingenieria-ambiental-doctorado-udelar
+  - ingenieria-civil-udelar
+  - ingenieria-de-produccion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

@@ -2,11 +2,11 @@
 title: "Ingeniería en Telecomunicaciones"
 similar:
   - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-en-informatica-ucu
   - tecnologo-en-telecomunicaciones-udelar
   - telecomunicaciones-especializacion-udelar
   - ingenieria-en-electronica-ort
-  - ingenieria-en-sistemas-ort
-  - ingenieria-electrica-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"

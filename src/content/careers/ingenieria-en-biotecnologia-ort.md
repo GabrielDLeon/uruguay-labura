@@ -2,11 +2,11 @@
 title: "Ingeniería en Biotecnología"
 similar:
   - licenciatura-en-biotecnologia-ort
-  - ingenieria-electrica-ort
-  - ingenieria-en-telecomunicaciones-ort
   - biotecnologia-doctorado-udelar
   - biotecnologia-maestria-udelar
   - licenciatura-en-biotecnologia-udelar
+  - licenciatura-en-ingenieria-biologica-udelar
+  - ingenieria-electrica-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"

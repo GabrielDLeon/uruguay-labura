@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Dirección y Administración de Empresas"
-similar: []
+similar:
+  - mba-um
+  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-gerencia-y-administracion-ort
+  - mba-senior-um
+  - tecnico-en-gestion-y-administracion-de-empresas-ort
+  - gerencia-y-administracion-mba-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Datos y Negocios"
+similar:
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - licenciatura-en-business-analytics-ucu
+  - postgrado-en-analitica-de-negocios-um
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciatura-en-negocios-y-economia-ucu
+  - licenciatura-en-negocios-digitales-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

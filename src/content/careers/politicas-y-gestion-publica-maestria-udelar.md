@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Políticas y Gestión Pública"
 similar:
-  - transformacion-organizacional-especializacion-udelar
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - derecho-opcion-administrativo-y-gestion-publica-especializacion-udelar
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - gestion-de-servicios-de-salud-maestria-udelar
   - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
+  - gestion-de-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

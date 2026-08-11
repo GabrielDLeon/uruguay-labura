@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Negocios Internacionales"
-similar: []
+similar:
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciado-en-comercio-exterior-ude
+  - licenciatura-en-relaciones-internacionales-ude
+  - licenciatura-en-traduccion-um
+  - analista-en-comercio-exterior-ude
+  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

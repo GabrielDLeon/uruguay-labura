@@ -1,6 +1,12 @@
 ---
 title: "Contador Público"
-similar: []
+similar:
+  - contador-publico-ucu
+  - contador-publico-ude
+  - contador-publico-ort
+  - master-en-impuestos-y-normas-de-contabilidad-niif-ort
+  - contador-publico-udelar
+  - master-en-contabilidad-y-finanzas-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"

@@ -1,12 +1,6 @@
 ---
 title: "Especialización en Ciudados Intensivos"
-similar:
-  - enfermeria-en-nefrologia-especializacion-udelar
-  - cuidado-intensivo-de-infancia-y-adolescencia-especializacion-udelar
-  - enfermeria-medico-quirurgica-especializacion-udelar
-  - enfermeria-oncologica-especializacion-udelar
-  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
-  - salud-mental-maestria-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

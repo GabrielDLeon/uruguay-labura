@@ -6,7 +6,6 @@ similar:
   - genetica-medica-adultos-especializacion-udelar
   - genetica-medica-pediatria-especializacion-udelar
   - parasitologia-y-micologia-medica-especializacion-udelar
-  - alergologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -1,5 +1,12 @@
 ---
 title: "Diploma en Reputación Corporativa y Sostenibilidad"
+similar:
+  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
+  - licenciatura-en-comunicacion-um
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - licenciatura-en-cine-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"

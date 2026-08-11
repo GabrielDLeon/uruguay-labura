@@ -2,11 +2,11 @@
 title: "Especialización en Economía, Derecho y Gestión del Deporte"
 similar:
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
   - economia-y-gestion-bancaria-especializacion-udelar
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
-  - politicas-y-gestion-publica-maestria-udelar
+  - gestion-de-servicios-de-salud-especializacion-udelar
   - economia-y-gestion-para-la-inclusion-especializacion-udelar
+  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - politicas-y-gestion-publica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

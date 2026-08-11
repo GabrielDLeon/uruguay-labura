@@ -19,7 +19,7 @@ credits: 741
 tags:
   - medicina
 similar:
-  - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
+  - medicina-ucu
   - hemoterapia-y-medicina-transfucional-especializacion-udelar
   - medicina-del-deporte-especializacion-udelar
   - medicina-familiar-y-comunitaria-especializacion-udelar

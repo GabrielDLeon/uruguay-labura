@@ -2,11 +2,6 @@
 title: "Especialización en Gastroenterología"
 similar:
   - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
-  - alergologia-especializacion-udelar
-  - anatomia-patologica-especializacion-udelar
-  - anatomia-patologica-pediatrica-especializacion-udelar
-  - anestesiologia-especializacion-udelar
-  - angiologia-y-cirugia-vascular-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

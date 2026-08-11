@@ -4,10 +4,8 @@ short: "Lic. en Ciencia y Tecnología de Lácteos"
 similar:
   - ciencia-y-tecnologia-de-alimentos-maestria-udelar
   - licenciatura-en-analisis-alimentario-utec
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - tecnico-operador-de-alimentos-udelar
+  - ingenieria-en-alimentos-ucu
   - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
-  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"

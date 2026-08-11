@@ -6,7 +6,6 @@ similar:
   - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
   - ingenieria-en-sistemas-ort
   - tecnologo-en-analisis-y-desarrollo-de-sistemas-utec
-  - tecnologo-en-informatica-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

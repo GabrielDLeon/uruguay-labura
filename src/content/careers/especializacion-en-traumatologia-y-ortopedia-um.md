@@ -1,6 +1,7 @@
 ---
 title: "Especialización en Traumatología y Ortopedia"
-similar: []
+similar:
+  - maestria-en-fisioterapia-traumatologica-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "especializacion"

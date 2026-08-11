@@ -1,5 +1,12 @@
 ---
 title: "Abogacía"
+similar:
+  - abogacia-um
+  - abogacia-ude
+  - abogacia-udelar
+  - notariado-ucu
+  - escribania-ude
+  - notariado-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

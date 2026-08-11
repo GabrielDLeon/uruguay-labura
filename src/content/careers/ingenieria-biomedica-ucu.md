@@ -1,5 +1,6 @@
 ---
 title: "Ingeniería Biomédica"
+similar: []
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

@@ -3,10 +3,6 @@ title: "Especialización en Traumatología y Ortopedia"
 similar:
   - cirugia-y-traumatologia-buco-maxilo-facial-especializacion-udelar
   - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
-  - alergologia-especializacion-udelar
-  - anatomia-patologica-especializacion-udelar
-  - anatomia-patologica-pediatrica-especializacion-udelar
-  - anestesiologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

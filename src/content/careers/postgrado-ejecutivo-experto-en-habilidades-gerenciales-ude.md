@@ -1,5 +1,11 @@
 ---
 title: "Postgrado Ejecutivo Experto en Habilidades Gerenciales"
+similar:
+  - postgrado-liderazgo-y-toma-de-decisiones-ude
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-gestion-de-talento-humano-um
+  - mba-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

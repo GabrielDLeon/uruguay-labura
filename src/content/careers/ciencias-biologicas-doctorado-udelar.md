@@ -6,7 +6,7 @@ similar:
   - bioinformatica-maestria-udelar
   - biotecnologia-doctorado-udelar
   - biotecnologia-maestria-udelar
-  - licenciatura-en-biotecnologia-ort
+  - bioinformatica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

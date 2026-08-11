@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Finanzas"
-similar: []
+similar:
+  - licenciatura-en-finanzas-ucu
+  - master-en-contabilidad-y-finanzas-ort
+  - postgrado-en-finanzas-corporativas-um
+  - postgrado-de-especializacion-en-gestion-de-portafolios-um
+  - diploma-de-especializacion-en-impuestos-ort
+  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

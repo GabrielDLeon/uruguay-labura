@@ -1,6 +1,9 @@
 ---
 title: "Gestión y Comercialización de Commodities"
-similar: []
+similar:
+  - diploma-en-gestion-y-comercializacion-de-granos-ude
+  - administracion-de-agronegocios-ude
+  - licenciatura-en-gestion-agropecuaria-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

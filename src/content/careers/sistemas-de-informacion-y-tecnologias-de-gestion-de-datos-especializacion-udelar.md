@@ -4,8 +4,8 @@ similar:
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
-  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
   - ciencia-de-datos-especializacion-udelar
+  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
   - sistemas-de-informacion-de-las-organizaciones-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

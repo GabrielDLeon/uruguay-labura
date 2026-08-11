@@ -2,11 +2,11 @@
 title: "Especialización en Proyecto de Mobiliario"
 similar:
   - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
   - investigacion-proyectual-especializacion-udelar
   - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
   - licenciatura-en-artes-diseno-grafico-udelar
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
+  - licenciatura-en-diseno-industrial-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

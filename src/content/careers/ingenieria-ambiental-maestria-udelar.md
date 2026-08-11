@@ -5,8 +5,8 @@ similar:
   - ingenieria-de-celulosa-y-papel-maestria-udelar
   - ingenieria-ambiental-doctorado-udelar
   - ingenieria-ambiental-especializacion-udelar
+  - ingenieria-ambiental-ucu
   - ingenieria-electrica-maestria-udelar
-  - ingenieria-estructural-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

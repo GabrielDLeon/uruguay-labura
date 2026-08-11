@@ -2,12 +2,9 @@
 title: "Licenciatura en Análisis Alimentario"
 short: "Lic. en Análisis Alimentario"
 similar:
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - ingenieria-de-alimentos-udelar
+  - ingenieria-en-alimentos-ucu
   - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
-  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
-  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
-  - tecnico-operador-de-alimentos-udelar
+  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"

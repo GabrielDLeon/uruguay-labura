@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Educación Superior Tecnológica Profesional"
 similar:
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - doctorado-en-educacion-ude
+  - maestria-en-educacion-ude
   - master-en-educacion-ort
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
   - educacion-ambiental-especializacion-udelar
-  - educacion-y-desarrollo-especializacion-udelar
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - diploma-en-educacion-ort
-  - doctorado-en-educacion-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"

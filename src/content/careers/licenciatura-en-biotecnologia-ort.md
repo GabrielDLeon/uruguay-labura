@@ -5,8 +5,8 @@ similar:
   - biotecnologia-doctorado-udelar
   - biotecnologia-maestria-udelar
   - ingenieria-en-biotecnologia-ort
-  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
   - licenciatura-en-ciencias-biologicas-udelar
+  - licenciatura-en-ingenieria-biologica-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

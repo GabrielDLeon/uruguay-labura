@@ -1,12 +1,6 @@
 ---
 title: "Licenciatura Binacional en Obstetricia"
-similar:
-  - salud-familiar-y-comunitaria-especializacion-udelar
-  - salud-mental-maestria-udelar
-  - salud-mental-y-psiquiatria-especializacion-udelar
-  - tecnicatura-en-hemoterapia-udelar
-  - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
-  - alergologia-especializacion-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

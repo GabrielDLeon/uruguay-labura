@@ -2,11 +2,11 @@
 title: "Master en Gestión Educativa"
 similar:
   - diploma-en-planificacion-y-gestion-educativa-ort
+  - maestria-en-liderazgo-y-gestion-educativa-ucu
+  - diploma-en-innovacion-educativa-ucu
+  - licenciatura-en-recreacion-educativa-ucu
   - master-en-gestion-de-sistemas-de-informacion-ort
-  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
   - patrimonio-documental-historia-y-gestion-maestria-udelar
-  - patrimonio-documental-historia-y-gestion-especializacion-udelar
-  - maestria-en-tecnologia-educativa-utec
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

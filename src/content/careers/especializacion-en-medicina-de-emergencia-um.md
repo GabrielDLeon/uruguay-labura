@@ -1,6 +1,7 @@
 ---
 title: "Especialización en Medicina de Emergencia"
-similar: []
+similar:
+  - medicina-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "especializacion"

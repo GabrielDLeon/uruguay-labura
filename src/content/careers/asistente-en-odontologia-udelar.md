@@ -4,9 +4,9 @@ similar:
   - higienista-en-odontologia-udelar
   - laboratorista-en-odontologia-udelar
   - odontologia-udelar
+  - odontologia-ucu
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
-  - odontologia-restauradora-integral-especializacion-udelar
-  - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
+  - maestria-en-periodoncia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

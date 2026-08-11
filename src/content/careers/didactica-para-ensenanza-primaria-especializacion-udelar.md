@@ -2,11 +2,11 @@
 title: "Especialización en Didáctica para Enseñanza Primaria"
 similar:
   - didactica-para-ensenanza-media-especializacion-udelar
-  - educacion-y-desarrollo-especializacion-udelar
-  - gestion-de-instituciones-educativas-especializacion-udelar
-  - educacion-ambiental-maestria-udelar
   - ensenanza-universitaria-especializacion-udelar
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - maestria-en-metodologias-activas-de-ensenanza-ucu
   - ensenanza-universitaria-maestria-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

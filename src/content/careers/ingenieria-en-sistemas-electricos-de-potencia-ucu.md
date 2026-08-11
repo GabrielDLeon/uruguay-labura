@@ -1,5 +1,12 @@
 ---
 title: "Ingeniería en Sistemas Eléctricos de Potencia"
+similar:
+  - sistemas-electricos-de-potencia-especializacion-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-electrica-ort
+  - ingenieria-de-la-energia-maestria-udelar
+  - ingenieria-de-la-energia-doctorado-udelar
+  - ingenieria-en-energias-renovables-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

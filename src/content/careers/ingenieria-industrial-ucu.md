@@ -1,5 +1,12 @@
 ---
 title: "Ingeniería Industrial"
+similar:
+  - ingenieria-industrial-um
+  - ingenieria-mecanica-doctorado-udelar
+  - licenciatura-en-diseno-industrial-ort
+  - doctorado-en-ingenieria-ucu
+  - ingenieria-mecanica-maestria-udelar
+  - ingenieria-industrial-mecanica-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

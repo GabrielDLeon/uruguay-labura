@@ -1,12 +1,6 @@
 ---
 title: "Obstetra Partera"
-similar:
-  - tecnicatura-en-podologia-udelar
-  - tecnologo-en-cosmetologia-medica-udelar
-  - gerodontologia-especializacion-udelar
-  - tecnicatura-en-radioisotopos-udelar
-  - enfermedades-infecciosas-especializacion-udelar
-  - gerontopsicomotricidad-especializacion-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"

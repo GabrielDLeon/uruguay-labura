@@ -5,8 +5,8 @@ similar:
   - ciencia-de-datos-especializacion-udelar
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - licenciatura-en-comunicacion-y-analitica-de-datos-ort
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
-  - tecnologo-en-analisis-y-gestion-de-datos-utec
+  - maestria-en-ciencia-de-datos-um
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

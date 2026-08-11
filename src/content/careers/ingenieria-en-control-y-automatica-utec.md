@@ -4,10 +4,10 @@ short: "Ing. en Control y Automática"
 similar:
   - ingenieria-en-mecatronica-utec
   - ingenieria-en-logistica-utec
-  - tecnologo-en-mecatronica-industrial-utec
   - ingenieria-mecanica-doctorado-udelar
   - ingenieria-mecanica-maestria-udelar
   - ingenieria-en-electronica-ort
+  - ingenieria-en-electronica-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"

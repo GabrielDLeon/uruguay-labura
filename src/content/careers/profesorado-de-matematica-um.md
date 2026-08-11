@@ -1,6 +1,12 @@
 ---
 title: "Profesorado de Matemática"
-similar: []
+similar:
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - magisterio-um
+  - ingenieria-matematica-maestria-udelar
+  - licenciatura-en-matematica-udelar
+  - matematica-maestria-udelar
+  - ciclo-de-matematica-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"

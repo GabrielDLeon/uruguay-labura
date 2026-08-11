@@ -1,5 +1,6 @@
 ---
 title: "Maestría en Psicoterapia - Psicología Analítica Junguiana"
+similar: []
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

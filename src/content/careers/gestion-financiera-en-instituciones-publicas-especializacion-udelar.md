@@ -6,7 +6,7 @@ similar:
   - gestion-de-servicios-de-salud-especializacion-udelar
   - gestion-de-instituciones-educativas-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - economia-y-gestion-para-la-inclusion-especializacion-udelar
+  - finanzas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

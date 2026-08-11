@@ -1,5 +1,8 @@
 ---
 title: "Maestría en Administración Pública"
+similar:
+  - maestria-en-politicas-publicas-ucu
+  - master-en-derecho-administrativo-economico-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

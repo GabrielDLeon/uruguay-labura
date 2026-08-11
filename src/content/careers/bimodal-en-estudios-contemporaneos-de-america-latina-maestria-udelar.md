@@ -2,11 +2,9 @@
 title: "Maestría en Bimodal en Estudios Contemporáneos de América Latina"
 similar:
   - demografia-y-estudios-de-poblacion-maestria-udelar
-  - psicologia-social-maestria-udelar
   - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
   - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
-  - antropologia-udelar
-  - genero-y-politicas-publicas-especializacion-udelar
+  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

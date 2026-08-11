@@ -2,11 +2,10 @@
 title: "Licenciatura en Desarrollo"
 similar:
   - tecnicatura-en-desarrollo-regional-sustentable-udelar
-  - sociologia-maestria-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
-  - analisis-sociodemografico-especializacion-udelar
-  - psicologia-social-maestria-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
+  - educacion-y-desarrollo-especializacion-udelar
+  - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
+  - desarrollo-rural-sustentable-especializacion-udelar
+  - desarrollo-rural-sustentable-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

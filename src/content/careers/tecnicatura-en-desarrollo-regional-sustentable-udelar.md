@@ -5,8 +5,8 @@ similar:
   - desarrollo-rural-sustentable-especializacion-udelar
   - desarrollo-rural-sustentable-maestria-udelar
   - educacion-y-desarrollo-especializacion-udelar
-  - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
+  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

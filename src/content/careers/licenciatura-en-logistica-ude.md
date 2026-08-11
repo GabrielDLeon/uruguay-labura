@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Logística"
-similar: []
+similar:
+  - analista-en-logistica-ude
+  - ingenieria-en-logistica-utec
+  - tecnologo-en-logistica-utec
+  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
+  - licenciatura-en-negocios-internacionales-ucu
+  - licenciatura-en-negocios-internacionales-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

@@ -2,11 +2,11 @@
 title: "Tecnicatura en Comunicación Creativa y Entretenimiento Digital"
 short: "Tecnicatura en Comunicación Creativa"
 similar:
-  - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-y-marketing-ucu
   - licenciatura-en-comunicacion-udelar
   - analista-en-publicidad-y-comunicacion-digital-ort
-  - licenciatura-en-comunicacion-ort
+  - licenciatura-en-comunicacion-ucu
   - licenciatura-en-comunicacion-global-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"

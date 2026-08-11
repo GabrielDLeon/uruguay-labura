@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Enfermería"
+similar:
+  - licenciatura-en-enfermeria-ude
+  - licenciatura-en-enfermeria-profesionalizacion-ucu
+  - enfermeria-en-nefrologia-especializacion-udelar
+  - enfermeria-en-neonatologia-especializacion-udelar
+  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
+  - licenciatura-en-enfermeria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

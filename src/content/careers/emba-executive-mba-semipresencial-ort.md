@@ -3,10 +3,6 @@ title: "EMBA, Executive MBA semipresencial"
 similar:
   - master-en-administracion-de-empresas-mba-ort
   - gerencia-y-administracion-mba-maestria-udelar
-  - gestion-de-servicios-de-salud-maestria-udelar
-  - patrimonio-documental-historia-y-gestion-maestria-udelar
-  - patrimonio-documental-historia-y-gestion-especializacion-udelar
-  - economia-y-gestion-para-la-inclusion-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

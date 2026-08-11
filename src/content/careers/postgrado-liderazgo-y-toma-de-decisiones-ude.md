@@ -1,5 +1,11 @@
 ---
 title: "Postgrado Ejecutivo Experto en Liderazgo y Toma de Decisiones"
+similar:
+  - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - licenciatura-en-gestion-de-talento-humano-um
+  - licenciatura-en-direccion-de-empresas-ucu
+  - mba-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

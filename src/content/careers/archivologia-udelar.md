@@ -2,11 +2,11 @@
 title: "Archivología"
 similar:
   - historia-udelar
+  - licenciatura-en-humanidades-um
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
   - historia-economica-maestria-udelar
+  - maestria-en-historia-um
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - historia-politica-maestria-udelar
-  - patrimonio-documental-historia-y-gestion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

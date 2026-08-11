@@ -4,9 +4,9 @@ similar:
   - ingenieria-de-minas-maestria-udelar
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-de-la-energia-especializacion-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - sistemas-electricos-de-potencia-especializacion-udelar
   - ingenieria-electrica-doctorado-udelar
+  - ingenieria-en-agrimensura-udelar
+  - ingenieria-de-celulosa-y-papel-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

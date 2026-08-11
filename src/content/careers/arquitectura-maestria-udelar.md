@@ -5,8 +5,8 @@ similar:
   - construccion-en-obras-de-arquitectura-maestria-udelar
   - arquitectura-en-madera-especializacion-udelar
   - construccion-de-obras-de-arquitectura-especializacion-udelar
+  - arquitectura-ucu
   - arquitectura-udelar
-  - carrera-de-arquitectura-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

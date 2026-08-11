@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Comunicación Organizacional"
+similar:
+  - licenciatura-en-comunicacion-global-ort
+  - master-en-direccion-de-comunicacion-y-marketing-ort
+  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
+  - licenciatura-en-comunicacion-ucu
+  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

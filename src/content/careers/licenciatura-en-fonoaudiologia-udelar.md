@@ -1,6 +1,7 @@
 ---
 title: "Licenciatura en Fonoaudiología"
-similar: []
+similar:
+  - licenciatura-en-fonoaudiologia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

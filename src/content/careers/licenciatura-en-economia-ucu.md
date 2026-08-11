@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Economía"
+similar:
+  - licenciatura-en-economia-um
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
+  - maestria-en-economia-um
+  - licenciatura-en-economia-udelar
+  - licenciatura-en-negocios-y-economia-ucu
+  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

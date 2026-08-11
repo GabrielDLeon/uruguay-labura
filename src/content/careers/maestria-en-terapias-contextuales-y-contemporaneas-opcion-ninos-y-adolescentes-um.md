@@ -1,6 +1,10 @@
 ---
 title: "Maestría en Terapias Contextuales y Contemporáneas – opción niños y adolescentes"
-similar: []
+similar:
+  - especialista-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
+  - maestria-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
+  - especialista-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
+  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

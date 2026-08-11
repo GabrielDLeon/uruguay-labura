@@ -1,10 +1,10 @@
 ---
 title: "Técnico en Diseño de Sonido"
 similar:
+  - diseno-y-produccion-de-videojuegos-ort
   - licenciatura-en-diseno-de-modas-ort
   - licenciatura-en-diseno-de-interiores-ort
   - diseno-de-interfaces-ort
-  - diseno-y-produccion-de-videojuegos-ort
   - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
   - licenciatura-en-diseno-integrado-udelar
 institutionName: "Universidad ORT Uruguay"

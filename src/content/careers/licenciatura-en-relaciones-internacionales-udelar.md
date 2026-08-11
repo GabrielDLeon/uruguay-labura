@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Relaciones Internacionales"
 similar:
-  - antropologia-udelar
-  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
   - licenciatura-en-relaciones-laborales-udelar
   - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
   - licenciatura-en-administracion-udelar
-  - maestria-en-ciencia-politica-maestria-udelar
+  - licenciatura-en-economia-udelar
+  - contador-publico-udelar
+  - licenciatura-en-economia-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

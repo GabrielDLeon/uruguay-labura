@@ -2,11 +2,11 @@
 title: "Especialización en Evaluación Psicológica"
 similar:
   - psicoterapia-psicodinamica-especializacion-udelar
+  - doctorado-en-psicologia-ucu
   - psicologia-clinica-maestria-udelar
-  - ciencias-cognitivas-maestria-udelar
-  - psicogerontologia-especializacion-udelar
-  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
+  - licenciatura-en-psicologia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

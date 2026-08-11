@@ -1,6 +1,12 @@
 ---
 title: "Ingeniería en Informática"
-similar: []
+similar:
+  - analista-en-informatica-ucu
+  - ingenieria-en-informatica-ude
+  - licenciatura-en-informatica-um
+  - analista-en-ingenieria-informatica-ude
+  - ingenieria-en-informatica-ucu
+  - tecnologo-en-informatica-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"

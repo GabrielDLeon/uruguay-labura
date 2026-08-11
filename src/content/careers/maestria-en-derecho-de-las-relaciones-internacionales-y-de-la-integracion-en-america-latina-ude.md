@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Derecho de las Relaciones Internacionales y de la Integración en América Latina"
+similar:
+  - licenciatura-en-relaciones-internacionales-ude
+  - master-en-integracion-y-comercio-internacional-um
+  - maestria-en-economia-um
+  - llm-master-en-derecho-um
+  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
+  - maestria-en-ciencia-de-datos-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

@@ -1,6 +1,10 @@
 ---
 title: "Licenciatura en Fisioterapia"
-similar: []
+similar:
+  - licenciatura-en-fisioterapia-ucu
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - licenciatura-en-fisioterapia-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

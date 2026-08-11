@@ -4,8 +4,8 @@ short: "Tecnólogo en Ingeniería Biomédica"
 similar:
   - ingenieria-biomedica-utec
   - ingenieria-en-mecatronica-utec
+  - ingenieria-en-electronica-ucu
   - ingenieria-electrica-ort
-  - tecnologo-en-mecatronica-industrial-utec
   - ingenieria-electrica-udelar
   - ingenieria-estructural-doctorado-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"

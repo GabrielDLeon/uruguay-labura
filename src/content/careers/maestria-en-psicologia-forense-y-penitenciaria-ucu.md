@@ -1,5 +1,8 @@
 ---
 title: "Maestría en Psicología Forense y Penitenciaria"
+similar:
+  - diploma-en-psicologia-forense-y-criminologica-um
+  - master-en-derecho-procesal-y-litigacion-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

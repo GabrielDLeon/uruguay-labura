@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Derecho Penal Económico"
-similar: []
+similar:
+  - maestria-en-ciencias-criminologico-forenses-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

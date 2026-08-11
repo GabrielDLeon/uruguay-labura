@@ -5,8 +5,8 @@ similar:
   - diseno-grafico-ort
   - licenciatura-en-comunicacion-ort
   - master-en-direccion-de-comunicacion-y-marketing-ort
-  - ingenieria-en-sistemas-de-comunicacion-udelar
   - diseno-de-interfaces-ort
+  - ingenieria-en-sistemas-de-comunicacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

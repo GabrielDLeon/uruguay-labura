@@ -3,10 +3,10 @@ title: "Ingenieria Forestal"
 similar:
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
   - ingenieria-en-mecatronica-utec
-  - licenciatura-en-ingenieria-de-medios-udelar
   - licenciatura-en-recursos-naturales-udelar
   - ingenieria-en-agrimensura-udelar
-  - ingenieria-estructural-maestria-udelar
+  - ingenieria-industrial-ucu
+  - ingenieria-en-alimentos-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

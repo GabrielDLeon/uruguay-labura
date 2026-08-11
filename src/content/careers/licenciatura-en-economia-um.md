@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Economía"
-similar: []
+similar:
+  - licenciatura-en-economia-ucu
+  - licenciatura-en-negocios-y-economia-ucu
+  - economia-maestria-fcs-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
+  - licenciatura-en-economia-y-finanzas-ude
+  - maestria-en-economia-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

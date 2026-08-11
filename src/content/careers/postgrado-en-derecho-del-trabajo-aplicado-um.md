@@ -1,6 +1,7 @@
 ---
 title: "Postgrado en Derecho del Trabajo Aplicado"
-similar: []
+similar:
+  - licenciatura-en-recursos-humanos-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

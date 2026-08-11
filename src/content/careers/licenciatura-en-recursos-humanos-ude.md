@@ -1,5 +1,10 @@
 ---
 title: "Licenciatura en Recursos Humanos"
+similar:
+  - diploma-de-especializacion-en-recursos-humanos-ort
+  - master-en-direccion-de-recursos-humanos-ort
+  - licenciatura-en-gestion-de-talento-humano-um
+  - postgrado-en-derecho-del-trabajo-aplicado-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

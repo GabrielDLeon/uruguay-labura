@@ -2,8 +2,8 @@
 title: "Maestría en Políticas Culturales"
 similar:
   - tecnicatura-universitaria-en-bienes-culturales-udelar
-  - arte-y-cultura-visual-maestria-udelar
   - gestion-cultural-especializacion-udelar
+  - arte-y-cultura-visual-maestria-udelar
   - licenciatura-en-danza-contemporanea-udelar
   - dramaturgia-udelar
   - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar

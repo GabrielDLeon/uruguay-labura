@@ -1,6 +1,9 @@
 ---
 title: "Maestría en Cuidados Paliativos"
-similar: []
+similar:
+  - maestria-en-cuidados-paliativos-ucu
+  - cuidados-paliativos-del-adulto-especializacion-udelar
+  - medicina-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

@@ -1,6 +1,12 @@
 ---
 title: "Máster en Tributación"
-similar: []
+similar:
+  - postgrado-en-tributacion-nacional-um
+  - diplomado-en-tributacion-ude
+  - postgrado-en-tributacion-aplicada-um
+  - postgrado-en-tributacion-internacional-um
+  - postgrado-en-tecnica-tributaria-um
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

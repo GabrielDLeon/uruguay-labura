@@ -1,5 +1,12 @@
 ---
 title: "Ingeniería en Informática"
+similar:
+  - licenciatura-en-informatica-ucu
+  - analista-en-informatica-ucu
+  - ingenieria-en-informatica-ude
+  - analista-en-ingenieria-informatica-ude
+  - analista-en-tecnologia-informatica-ude
+  - ingenieria-en-telecomunicaciones-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

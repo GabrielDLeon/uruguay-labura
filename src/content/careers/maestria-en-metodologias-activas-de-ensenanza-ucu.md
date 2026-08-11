@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Metodologías Activas de Enseñanza"
+similar:
+  - diploma-en-innovacion-educativa-ucu
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - ensenanza-universitaria-maestria-udelar
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - ensenanza-de-lenguas-extranjeras-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

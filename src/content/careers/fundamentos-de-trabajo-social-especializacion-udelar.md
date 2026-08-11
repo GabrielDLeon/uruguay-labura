@@ -2,11 +2,11 @@
 title: "Especialización en Fundamentos de Trabajo Social"
 similar:
   - licenciatura-en-trabajo-social-udelar
+  - licenciatura-en-trabajo-social-ucu
+  - trabajo-social-maestria-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
-  - trabajo-social-maestria-udelar
   - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
-  - ciencias-humanas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

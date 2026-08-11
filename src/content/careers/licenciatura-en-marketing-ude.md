@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Marketing"
+similar:
+  - analista-en-marketing-ude
+  - maestria-en-marketing-y-direccion-comercial-ude
+  - licenciatura-en-marketing-um
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

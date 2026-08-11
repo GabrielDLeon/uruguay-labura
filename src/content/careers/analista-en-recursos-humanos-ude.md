@@ -1,5 +1,8 @@
 ---
 title: "Analista en Recursos Humanos"
+similar:
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

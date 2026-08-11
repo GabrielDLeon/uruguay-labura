@@ -3,10 +3,10 @@ title: "Licenciatura en Administración"
 similar:
   - gerencia-y-administracion-mba-maestria-udelar
   - tecnico-en-gestion-y-administracion-de-empresas-ort
+  - contador-publico-udelar
   - tecnologo-en-administracion-y-contabilidad-udelar
   - tecnico-en-administracion-udelar
   - administracion-especializacion-udelar
-  - contador-publico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

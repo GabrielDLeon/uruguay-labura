@@ -3,10 +3,10 @@ title: "Especialización en Economía (fcs)"
 similar:
   - economia-maestria-fcs-udelar
   - economia-doctorado-udelar
+  - licenciatura-en-economia-um
   - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
   - economia-para-no-economistas-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

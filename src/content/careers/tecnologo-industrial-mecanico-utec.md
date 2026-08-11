@@ -5,9 +5,9 @@ similar:
   - tecnologo-industrial-mecanico-udelar
   - tecnologo-en-mecatronica-industrial-utec
   - ingenieria-industrial-mecanica-udelar
-  - ingenieria-mecanica-doctorado-udelar
-  - ingenieria-mecanica-maestria-udelar
+  - ingenieria-industrial-ucu
   - licenciatura-en-diseno-industrial-ort
+  - licenciatura-en-diseno-industrial-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"

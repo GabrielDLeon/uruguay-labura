@@ -1,12 +1,12 @@
 ---
 title: "Analista Programador"
 similar:
+  - analista-en-informatica-ucu
   - analista-en-tecnologias-de-la-informacion-ort
+  - analista-en-ingenieria-informatica-ude
+  - analista-en-tecnologia-informatica-ude
   - analista-en-infraestructura-informatica-ort
-  - licenciatura-en-computacion-udelar
-  - tecnologo-en-informatica-utec
-  - tecnologo-en-telecomunicaciones-udelar
-  - tecnologo-en-informatica-udelar
+  - analista-en-ciberseguridad-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

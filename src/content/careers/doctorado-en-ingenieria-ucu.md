@@ -1,5 +1,12 @@
 ---
 title: "Doctorado en Ingeniería"
+similar:
+  - doctorado-en-comunicacion-ucu
+  - ingenieria-mecanica-doctorado-udelar
+  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
+  - maestria-en-ciencias-de-la-ingenieria-ucu
+  - doctorado-en-psicologia-ucu
+  - ingenieria-fisica-doctorado-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "doctorado"

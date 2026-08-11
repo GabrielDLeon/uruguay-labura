@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Psicología"
-similar: []
+similar:
+  - licenciatura-en-ciencias-del-comportamiento-ucu
+  - psicologia-clinica-maestria-udelar
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
+  - licenciatura-en-psicologia-udelar
+  - doctorado-en-psicologia-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

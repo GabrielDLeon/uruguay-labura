@@ -3,10 +3,6 @@ title: "Especialización en Psiquiatría"
 similar:
   - psiquiatria-pediatrica-especializacion-udelar
   - salud-mental-y-psiquiatria-especializacion-udelar
-  - alergologia-especializacion-udelar
-  - anatomia-patologica-especializacion-udelar
-  - anatomia-patologica-pediatrica-especializacion-udelar
-  - anestesiologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

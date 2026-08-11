@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Ciencia de Datos para Negocios"
-similar: []
+similar:
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - maestria-en-ciencia-de-datos-um
+  - licenciatura-en-datos-y-negocios-ucu
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - ciencia-de-datos-aplicada-maestria-udelar
+  - ciencia-de-datos-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"

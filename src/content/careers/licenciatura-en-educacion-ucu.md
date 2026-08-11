@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Educación"
+similar:
+  - tecnicatura-en-educacion-y-recreacion-ucu
+  - licenciatura-en-recreacion-educativa-ucu
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-inicial-ucu
+  - diploma-en-educacion-ort
+  - doctorado-en-educacion-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

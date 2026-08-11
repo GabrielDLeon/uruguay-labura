@@ -2,11 +2,11 @@
 title: "Contador Público"
 similar:
   - contador-publico-ort
+  - contador-publico-ude
+  - contador-publico-ucu
+  - contador-publico-um
   - licenciatura-en-administracion-udelar
   - licenciatura-en-economia-udelar
-  - licenciatura-en-computacion-udelar
-  - ingenieria-quimica-udelar
-  - ingenieria-en-electronica-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"

@@ -3,10 +3,10 @@ title: "Licenciatura en Ingeniería Biológica"
 similar:
   - ingenieria-en-agrimensura-udelar
   - bioinformatica-especializacion-udelar
-  - licenciatura-en-ingenieria-de-medios-udelar
   - ingenieria-quimica-doctorado-udelar
   - ingenieria-quimica-maestria-udelar
   - ingenieria-quimica-udelar
+  - licenciatura-en-ingenieria-de-medios-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

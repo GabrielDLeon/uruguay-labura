@@ -1,5 +1,12 @@
 ---
 title: "Maestría en Rehabilitación Oral"
+similar:
+  - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
+  - maestria-en-periodoncia-ucu
+  - laboratorista-en-odontologia-udelar
+  - implantologia-oral-especializacion-udelar
+  - maestria-en-ortodoncia-ucu
+  - odontologia-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

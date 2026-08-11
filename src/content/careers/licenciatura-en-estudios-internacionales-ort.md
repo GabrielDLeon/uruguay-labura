@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Estudios Internacionales"
 similar:
+  - licenciatura-en-negocios-internacionales-ucu
   - analista-en-comercio-exterior-ort
+  - analista-en-comercio-exterior-ude
   - diploma-de-especializacion-en-fiscalidad-internacional-ort
   - master-en-business-analytics-ort
   - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
-  - licenciatura-en-gerencia-y-administracion-ort
-  - tecnico-en-gestion-comercial-y-ventas-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

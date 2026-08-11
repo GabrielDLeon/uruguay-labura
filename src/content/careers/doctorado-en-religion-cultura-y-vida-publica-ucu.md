@@ -1,5 +1,10 @@
 ---
 title: "Doctorado en Religión, Cultura y Vida Pública"
+similar:
+  - doctorado-en-psicologia-ucu
+  - doctorado-en-educacion-ude
+  - doctorado-en-comunicacion-ucu
+  - doctorado-en-ingenieria-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "doctorado"

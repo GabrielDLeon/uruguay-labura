@@ -3,10 +3,10 @@ title: "Ingeniería de Producción"
 similar:
   - ingenieria-civil-udelar
   - ingenieria-fisico-matematica-udelar
-  - tecnologo-industrial-mecanico-udelar
-  - ingenieria-fisica-doctorado-udelar
   - ingenieria-de-alimentos-udelar
   - ingenieria-naval-udelar
+  - ingenieria-fisica-doctorado-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

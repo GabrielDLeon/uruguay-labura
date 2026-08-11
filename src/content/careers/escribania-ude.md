@@ -1,5 +1,12 @@
 ---
 title: "Escribanía"
+similar:
+  - notariado-um
+  - abogacia-ude
+  - notariado-ucu
+  - postgrado-en-actualizacion-notarial-um
+  - licenciatura-en-relaciones-internacionales-ude
+  - abogacia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "carrera"

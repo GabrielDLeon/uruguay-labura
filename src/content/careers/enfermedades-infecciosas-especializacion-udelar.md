@@ -1,12 +1,6 @@
 ---
 title: "Especialización en Enfermedades Infecciosas"
-similar:
-  - gerontopsicomotricidad-especializacion-udelar
-  - hepatologia-del-adulto-especializacion-udelar
-  - laboratorio-de-patologia-clinica-especializacion-udelar
-  - neonatologia-especializacion-udelar
-  - todas-las-areas-del-conocimiento-biomedico-maestria-udelar
-  - licenciatura-en-laboratorio-clinico-udelar
+similar: []
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

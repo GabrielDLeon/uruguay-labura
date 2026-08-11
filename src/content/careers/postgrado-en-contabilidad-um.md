@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Contabilidad"
-similar: []
+similar:
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - postgrado-en-tributacion-aplicada-um
+  - postgrado-en-tecnica-tributaria-um
+  - postgrado-en-gestion-contable-um
+  - diploma-de-especializacion-en-contabilidad-ort
+  - master-en-impuestos-y-normas-de-contabilidad-niif-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

@@ -2,11 +2,11 @@
 title: "Ingeniería Eléctrica"
 similar:
   - ingenieria-electrica-udelar
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
   - ingenieria-de-la-energia-maestria-udelar
   - ingenieria-electrica-doctorado-udelar
   - ingenieria-electrica-maestria-udelar
   - ingenieria-en-electronica-ort
-  - ingenieria-en-sistemas-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"

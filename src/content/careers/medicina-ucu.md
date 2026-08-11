@@ -1,5 +1,12 @@
 ---
 title: "Medicina"
+similar:
+  - odontologia-ucu
+  - especializacion-en-medicina-de-emergencia-um
+  - doctor-en-medicina-udelar
+  - hemoterapia-y-medicina-transfucional-especializacion-udelar
+  - medicina-del-deporte-especializacion-udelar
+  - medicina-familiar-y-comunitaria-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

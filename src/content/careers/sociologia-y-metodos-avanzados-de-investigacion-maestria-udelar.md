@@ -2,11 +2,10 @@
 title: "Maestría en Sociología y Métodos Avanzados de Investigación"
 similar:
   - investigacion-social-aplicada-especializacion-udelar
-  - sociologia-maestria-udelar
+  - licenciatura-en-sociologia-ucu
   - sociologia-doctorado-udelar
+  - sociologia-maestria-udelar
   - licenciatura-en-sociologia-udelar
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
-  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

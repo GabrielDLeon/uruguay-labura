@@ -2,11 +2,11 @@
 title: "Master en Contabilidad y Finanzas"
 similar:
   - diploma-de-especializacion-en-impuestos-ort
-  - licenciatura-en-finanzas-ort
+  - licenciatura-en-finanzas-ucu
+  - licenciatura-en-finanzas-um
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
-  - diploma-de-especializacion-en-finanzas-ort
-  - diploma-de-especializacion-en-contabilidad-ort
-  - finanzas-maestria-udelar
+  - maestria-en-finanzas-um
+  - postgrado-en-finanzas-corporativas-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

@@ -3,10 +3,10 @@ title: "Especialización en Contabilidad"
 similar:
   - contabilidad-y-auditoria-maestria-udelar
   - auditoria-especializacion-udelar
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - postgrado-en-contabilidad-um
   - tecnologo-en-administracion-y-contabilidad-udelar
   - diploma-de-especializacion-en-contabilidad-ort
-  - master-en-contabilidad-y-finanzas-ort
-  - master-en-impuestos-y-normas-de-contabilidad-niif-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

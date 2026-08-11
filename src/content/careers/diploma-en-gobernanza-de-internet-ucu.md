@@ -1,5 +1,6 @@
 ---
 title: "Diploma en Gobernanza de Internet"
+similar: []
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"

@@ -5,8 +5,8 @@ similar:
   - maestria-en-robotica-e-inteligencia-artificial-utec
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - especializacion-en-robotica-e-inteligencia-artificial-utec
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
-  - diploma-de-especializacion-en-analitica-de-big-data-ort
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - diploma-en-inteligencia-artificial-aplicada-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

@@ -2,11 +2,11 @@
 title: "Diseño y Producción de Videojuegos"
 similar:
   - licenciatura-en-animacion-y-videojuegos-ort
+  - tecnico-en-diseno-de-sonido-ort
   - diseno-de-interfaces-ort
   - master-en-diseno-estrategico-e-innovacion-ort
-  - tecnico-en-diseno-de-sonido-ort
-  - diseno-grafico-ort
   - tecnico-en-diseno-de-interiores-ort
+  - diseno-grafico-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"

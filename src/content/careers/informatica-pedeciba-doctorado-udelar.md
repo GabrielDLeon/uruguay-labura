@@ -3,10 +3,10 @@ title: "Doctorado en Informática (pedeciba)"
 similar:
   - informatica-maestria-udelar
   - seguridad-informatica-especializacion-udelar
+  - licenciatura-en-informatica-ucu
   - tecnologo-en-informatica-udelar
   - seguridad-informatica-maestria-udelar
-  - analista-en-infraestructura-informatica-ort
-  - tecnologo-en-informatica-utec
+  - analista-en-informatica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

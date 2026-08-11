@@ -1,12 +1,12 @@
 ---
 title: "Odontología"
 similar:
+  - odontologia-ucu
   - asistente-en-odontologia-udelar
   - laboratorista-en-odontologia-udelar
   - higienista-en-odontologia-udelar
   - odontologia-restauradora-integral-especializacion-udelar
   - ciencias-odontologicas-mencion-funcion-craneo-mandibular-y-dolor-orofacial-maestria-udelar
-  - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"

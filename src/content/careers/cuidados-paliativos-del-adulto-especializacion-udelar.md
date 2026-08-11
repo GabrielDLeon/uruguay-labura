@@ -1,12 +1,7 @@
 ---
 title: "Especialización en Cuidados Paliativos del Adulto"
 similar:
-  - alergologia-especializacion-udelar
-  - anatomia-patologica-especializacion-udelar
-  - anatomia-patologica-pediatrica-especializacion-udelar
-  - anestesiologia-especializacion-udelar
-  - angiologia-y-cirugia-vascular-especializacion-udelar
-  - banco-de-tejidos-para-trasplantes-especializacion-udelar
+  - maestria-en-cuidados-paliativos-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

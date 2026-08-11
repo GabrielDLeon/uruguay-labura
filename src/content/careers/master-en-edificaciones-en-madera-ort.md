@@ -3,10 +3,10 @@ title: "Master en Edificaciones en Madera"
 similar:
   - arquitectura-en-madera-especializacion-udelar
   - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - ingenieria-en-energias-renovables-utec
-  - tecnologo-en-energias-renovables-utec
   - tecnologo-en-madera-udelar
-  - ingenieria-naval-udelar
+  - construccion-en-obras-de-arquitectura-maestria-udelar
+  - arquitectura-ucu
+  - carrera-de-arquitectura-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

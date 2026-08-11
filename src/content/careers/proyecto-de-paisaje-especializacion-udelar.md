@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-diseno-de-paisaje-udelar
   - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
   - arquitectura-doctorado-udelar
-  - master-en-edificaciones-en-madera-ort
   - arquitectura-en-madera-especializacion-udelar
+  - construccion-de-obras-de-arquitectura-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

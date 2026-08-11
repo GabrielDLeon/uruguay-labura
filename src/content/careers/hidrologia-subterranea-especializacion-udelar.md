@@ -6,7 +6,7 @@ similar:
   - licenciatura-en-recursos-hidricos-y-riego-udelar
   - ciencias-ambientales-doctorado-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - desarrollo-rural-sustentable-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

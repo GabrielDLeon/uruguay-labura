@@ -2,11 +2,11 @@
 title: "Maestría en Seguridad Informática"
 similar:
   - seguridad-informatica-especializacion-udelar
-  - ingenieria-de-software-maestria-udelar
-  - ingenieria-en-computacion-maestria-udelar
-  - ingenieria-de-software-especializacion-udelar
-  - ciencia-de-datos-especializacion-udelar
   - informatica-pedeciba-doctorado-udelar
+  - especializacion-en-ciberseguridad-utec
+  - ingenieria-en-informatica-ucu
+  - licenciatura-en-informatica-ucu
+  - analista-en-ciberseguridad-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

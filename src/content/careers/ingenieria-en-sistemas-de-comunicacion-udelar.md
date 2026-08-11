@@ -2,11 +2,11 @@
 title: "Ingeniería en Sistemas de Comunicación"
 similar:
   - ingenieria-en-telecomunicaciones-ort
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
   - ingenieria-en-sistemas-ort
   - ingenieria-fisico-matematica-udelar
   - ingenieria-industrial-mecanica-udelar
   - ingenieria-naval-udelar
-  - ingenieria-de-produccion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

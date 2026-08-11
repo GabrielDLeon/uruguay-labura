@@ -1,5 +1,7 @@
 ---
 title: "Diploma en Métodos de Investigación y Análisis de Datos"
+similar:
+  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"

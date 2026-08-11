@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Psicología Social"
 similar:
+  - doctorado-en-psicologia-ucu
   - psicologia-doctorado-udelar
+  - licenciatura-en-psicologia-ucu
   - psicologia-clinica-maestria-udelar
-  - discapacidad-en-lo-social-especializacion-udelar
-  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - licenciatura-en-psicologia-udelar
   - psicogerontologia-especializacion-udelar
+  - discapacidad-en-lo-social-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

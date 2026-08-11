@@ -1,5 +1,8 @@
 ---
 title: "Ingeniería Civil"
+similar:
+  - ingenieria-civil-um
+  - ingenieria-ambiental-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

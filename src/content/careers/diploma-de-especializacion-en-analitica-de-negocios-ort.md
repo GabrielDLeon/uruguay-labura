@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Especialización en Analítica de Negocios"
 similar:
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
   - licenciatura-en-comunicacion-y-analitica-de-datos-ort
   - diploma-de-especializacion-en-analitica-de-big-data-ort
-  - licenciatura-en-negocios-digitales-ort
-  - seguridad-informatica-maestria-udelar
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
-  - diploma-de-especializacion-en-negocios-inmobiliarios-ort
+  - licenciatura-en-datos-y-negocios-ucu
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - postgrado-en-negocios-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"

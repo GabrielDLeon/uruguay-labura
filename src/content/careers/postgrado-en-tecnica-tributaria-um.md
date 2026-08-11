@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Técnica Tributaria"
-similar: []
+similar:
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - postgrado-en-tributacion-aplicada-um
+  - postgrado-en-contabilidad-um
+  - postgrado-en-tributacion-nacional-um
+  - diplomado-en-tributacion-ude
+  - postgrado-en-tributacion-internacional-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

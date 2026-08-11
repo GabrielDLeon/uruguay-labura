@@ -1,5 +1,12 @@
 ---
 title: "Licenciatura en Fonoaudiología"
+similar:
+  - licenciatura-en-fonoaudiologia-udelar
+  - maestria-en-humanizacion-de-la-salud-ucu
+  - licenciatura-en-cine-ucu
+  - licenciatura-en-comunicacion-um
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

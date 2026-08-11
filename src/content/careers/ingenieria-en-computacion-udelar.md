@@ -4,9 +4,9 @@ similar:
   - ingenieria-en-computacion-maestria-udelar
   - licenciatura-en-computacion-udelar
   - ingenieria-en-sistemas-ort
-  - ingeniero-agronomo-udelar
-  - estudios-avanzados-de-computacion-especializacion-udelar
   - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-en-informatica-ude
+  - estudios-avanzados-de-computacion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"

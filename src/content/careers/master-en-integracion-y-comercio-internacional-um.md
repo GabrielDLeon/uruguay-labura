@@ -1,6 +1,12 @@
 ---
 title: "Máster en Integración y Comercio Internacional"
-similar: []
+similar:
+  - postgrado-en-comercio-internacional-um
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
+  - licenciado-en-comercio-exterior-ude
+  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

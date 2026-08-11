@@ -2,11 +2,11 @@
 title: "Tecnólogo Industrial Mecánico"
 similar:
   - tecnologo-industrial-mecanico-utec
-  - ingenieria-de-produccion-udelar
   - tecnologo-en-mecatronica-industrial-utec
-  - ingenieria-electrica-udelar
-  - tecnologo-en-madera-udelar
-  - ingenieria-fisico-matematica-udelar
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-industrial-ucu
+  - licenciatura-en-diseno-industrial-udelar
+  - licenciatura-en-diseno-industrial-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"

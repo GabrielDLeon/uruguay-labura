@@ -1,6 +1,8 @@
 ---
 title: "Postgrado en Comercio Internacional"
-similar: []
+similar:
+  - master-en-integracion-y-comercio-internacional-um
+  - licenciado-en-comercio-exterior-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

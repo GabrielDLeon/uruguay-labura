@@ -1,12 +1,8 @@
 ---
 title: "Tecnólogo en Telecomunicaciones"
 similar:
-  - tecnologo-en-informatica-udelar
   - ingenieria-en-telecomunicaciones-ort
-  - licenciatura-en-computacion-udelar
   - telecomunicaciones-especializacion-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - tecnologo-en-informatica-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
