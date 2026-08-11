@@ -1,12 +1,12 @@
 ---
 title: "Arquitectura"
 similar:
-  - arquitectura-doctorado-udelar
   - arquitectura-en-madera-especializacion-udelar
+  - carrera-de-arquitectura-ort
+  - arquitectura-doctorado-udelar
   - arquitectura-maestria-udelar
-  - construccion-de-obras-de-arquitectura-especializacion-udelar
-  - construccion-en-obras-de-arquitectura-maestria-udelar
   - arquitectura-ucu
+  - construccion-de-obras-de-arquitectura-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
@@ -25,6 +25,8 @@ applicationDeadline: ""
 credits: 450
 tags:
   - arquitectura
+  - diseno-arquitectonico
+  - construccion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,11 @@
 title: "Especialización en Tecnología Educativa"
 similar:
   - maestria-en-tecnologia-educativa-utec
-  - diploma-en-planificacion-y-gestion-educativa-ort
   - diploma-en-innovacion-educativa-ucu
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - diploma-en-planificacion-y-gestion-educativa-ort
   - licenciatura-en-recreacion-educativa-ucu
   - maestria-en-liderazgo-y-gestion-educativa-ucu
-  - master-en-gestion-educativa-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ accreditation: "UTEC"
 description: "Especialización en Tecnología Educativa de UTEC. Formación online de un año para integrar tecnologías digitales en las prácticas didácticas y pedagógicas con sentido crítico."
 tags:
   - educacion
+  - tecnologia-educativa
+  - educacion-virtual
+  - innovacion-educativa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

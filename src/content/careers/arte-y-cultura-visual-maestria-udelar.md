@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Arte y Cultura Visual"
 similar:
-  - licenciatura-en-arte-digital-y-electronico-udelar
   - arte-sonoro-maestria-udelar
-  - politicas-culturales-maestria-udelar
-  - dramaturgia-udelar
+  - licenciatura-en-arte-digital-y-electronico-udelar
+  - licenciatura-en-artes-digitales-ort
   - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
   - licenciatura-en-artes-fotografia-udelar
+  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Unidad de Apoyo Académico de Grado, Posgrado y Educación Permanente"
 tags:
   - arte
+  - artes-visuales
+  - arte-y-cultura-visual
+  - estetica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

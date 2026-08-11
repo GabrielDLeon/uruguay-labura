@@ -2,11 +2,11 @@
 title: "Notariado"
 similar:
   - notariado-um
-  - derecho-orientancion-derecho-comercial-maestria-udelar
-  - derecho-comercial-especializacion-udelar
   - notariado-ucu
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
-  - derecho-doctorado-udelar
+  - postgrado-en-actualizacion-notarial-um
+  - escribania-ude
+  - postgrado-en-derecho-contractual-um
+  - postgrado-en-derecho-de-familia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
@@ -25,6 +25,10 @@ applicationDeadline: ""
 credits: 450
 tags:
   - derecho
+  - notariado
+  - escribania
+  - derecho-notarial
+  - derecho-civil
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

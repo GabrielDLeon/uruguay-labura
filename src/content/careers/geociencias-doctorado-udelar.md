@@ -2,9 +2,9 @@
 title: "Doctorado en Geociencias"
 similar:
   - geociencias-maestria-udelar
+  - licenciatura-en-geologia-udelar
   - ingenieria-de-minas-especializacion-udelar
   - ingenieria-de-minas-maestria-udelar
-  - licenciatura-en-geologia-udelar
   - tecnologo-minero-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -22,6 +22,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - geologia
+  - ciencias-de-la-tierra
+  - geofisica
+  - geoquimica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

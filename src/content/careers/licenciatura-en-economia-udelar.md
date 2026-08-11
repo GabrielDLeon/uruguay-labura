@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Economía"
 similar:
-  - economia-maestria-fcs-udelar
-  - licenciatura-en-economia-ort
-  - administracion-y-economia-del-turismo-maestria-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - licenciatura-en-economia-ucu
-  - economia-y-gestion-bancaria-especializacion-udelar
+  - economia-maestria-fcs-udelar
+  - maestria-en-economia-um
+  - licenciatura-en-economia-ort
+  - economia-fcs-especializacion-udelar
+  - economia-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - programa-roberto-rocca
   - economia
+  - analisis-economico
+  - econometria
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

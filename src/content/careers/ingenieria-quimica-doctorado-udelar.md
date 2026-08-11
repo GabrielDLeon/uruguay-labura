@@ -4,9 +4,9 @@ similar:
   - ingenieria-quimica-maestria-udelar
   - quimica-doctorado-udelar
   - quimica-maestria-udelar
-  - ingenieria-electrica-maestria-udelar
+  - ingenieria-quimica-udelar
+  - ingenieria-quimica-um
   - ingenieria-fisica-maestria-udelar
-  - ingenieria-matematica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,8 +22,11 @@ description: "Los estudios de posgrado de Doctorado en Ingeniería Química debe
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria
+  - ingenieria-quimica
   - quimica
+  - ingenieria
+  - quimica-industrial
+  - procesos-industriales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

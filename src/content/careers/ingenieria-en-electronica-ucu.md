@@ -2,10 +2,10 @@
 title: "Ingeniería en Electrónica"
 similar:
   - ingenieria-en-electronica-ort
+  - ingenieria-en-control-y-automatica-utec
+  - ingenieria-en-mecatronica-utec
+  - ingenieria-mecanica-doctorado-udelar
   - ingenieria-en-informatica-ucu
-  - ingenieria-estructural-doctorado-udelar
-  - ingenieria-ambiental-ucu
-  - ingenieria-en-sistemas-electricos-de-potencia-ucu
   - ingenieria-en-telecomunicaciones-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
@@ -22,9 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería en Electrónica de la UCU. Forma profesionales capaces de crear dispositivos electrónicos con impacto en la vida cotidiana y participar en todo su ciclo de desarrollo, desde el diseño hasta la implementación."
 tags:
+  - ingenieria-electronica
   - electronica
   - ingenieria
-  - automatizacion
+  - dispositivos-electronicos
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

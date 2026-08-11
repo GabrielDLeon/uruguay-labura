@@ -1,6 +1,7 @@
 ---
 title: "Tecnólogo en Cartografía"
-similar: []
+similar:
+  - ingenieria-en-agrimensura-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -18,7 +19,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 180
 tags:
-  - ciencias sociales
+  - cartografia
+  - topografia
+  - sistemas-de-informacion-geografica
+  - sig
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

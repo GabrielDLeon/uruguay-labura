@@ -2,7 +2,11 @@
 title: "Postgrado en Comercio Internacional"
 similar:
   - master-en-integracion-y-comercio-internacional-um
+  - licenciatura-en-negocios-internacionales-ucu
   - licenciado-en-comercio-exterior-ude
+  - postgrado-en-tributacion-internacional-um
+  - licenciatura-en-negocios-internacionales-um
+  - analista-en-comercio-exterior-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +21,10 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Comercio Internacional de la Universidad de Montevideo. Forma asesores y ejecutivos en comercio internacional, con foco en el Derecho del Comercio Internacional y la integración regional y global."
 tags:
-  - comercio internacional
-  - derecho comercial
-  - integracion
+  - comercio-internacional
+  - derecho-comercial
+  - integracion-regional
+  - negocios-internacionales
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

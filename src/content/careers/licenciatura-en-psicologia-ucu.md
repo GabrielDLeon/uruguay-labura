@@ -2,11 +2,11 @@
 title: "Licenciatura en Psicología"
 similar:
   - licenciatura-en-psicologia-semipresencial-ucu
-  - tecnicatura-en-acompanamiento-terapeutico-ucu
-  - psicologia-social-maestria-udelar
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
+  - psicologia-clinica-maestria-udelar
   - licenciatura-en-psicologia-udelar
-  - doctorado-en-psicologia-ucu
-  - psicologia-doctorado-udelar
+  - licenciatura-en-psicologia-um
+  - tecnicatura-en-acompanamiento-terapeutico-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -23,8 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Psicología de la UCU. Forma profesionales capaces de evaluar e intervenir en diversas áreas de la Psicología para promover la salud mental y el bienestar de las personas en su expresión individual, interpersonal y social."
 tags:
   - psicologia
-  - salud
   - salud-mental
+  - psicologia-clinica
+  - salud
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

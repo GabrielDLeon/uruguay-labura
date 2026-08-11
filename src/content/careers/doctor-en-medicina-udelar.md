@@ -18,13 +18,15 @@ applicationDeadline: ""
 credits: 741
 tags:
   - medicina
+  - salud
+  - clinica
 similar:
   - medicina-ucu
-  - hemoterapia-y-medicina-transfucional-especializacion-udelar
-  - medicina-del-deporte-especializacion-udelar
-  - medicina-familiar-y-comunitaria-especializacion-udelar
-  - medicina-intensiva-especializacion-udelar
+  - odontologia-udelar
   - medicina-interna-especializacion-udelar
+  - especializacion-en-medicina-de-emergencia-um
+  - odontologia-ucu
+  - hemoterapia-y-medicina-transfucional-especializacion-udelar
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

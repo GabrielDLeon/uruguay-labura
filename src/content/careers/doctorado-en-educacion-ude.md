@@ -2,11 +2,11 @@
 title: "Doctorado en Educación"
 similar:
   - maestria-en-educacion-ude
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
   - diploma-en-educacion-ort
   - educacion-udelar
-  - educacion-y-extension-rural-maestria-udelar
-  - doctorado-en-comunicacion-ucu
+  - doctorado-en-educacion-ort
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - licenciatura-en-educacion-inicial-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "doctorado"
@@ -24,9 +24,9 @@ applicationDeadline: ""
 description: "Doctorado en Educación de la UDE, un postgrado académico de naturaleza internacional con énfasis en la investigación, que forma investigadores de nivel avanzado capaces de producir estudios originales y relevantes para los sistemas educativos del país y la región."
 tags:
   - educacion
-  - investigacion educativa
-  - doctorado
-  - formacion docente
+  - investigacion-educativa
+  - formacion-docente
+  - pedagogia
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

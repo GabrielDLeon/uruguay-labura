@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
-  - educacion-y-extension-rural-maestria-udelar
-  - maestria-en-educacion-ude
-  - doctorado-en-educacion-ude
+  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - medicina-del-deporte-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ description: "Objetivos • Formar investigadores en el campo de la educación f
 startDate: ""
 applicationDeadline: ""
 tags:
+  - educacion-fisica
   - deporte
+  - actividad-fisica
   - educacion
+  - recreacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

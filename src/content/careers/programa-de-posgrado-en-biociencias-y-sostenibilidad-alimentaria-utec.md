@@ -2,10 +2,11 @@
 title: "Programa de Posgrado en Biociencias y Sostenibilidad Alimentaria"
 similar:
   - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - tecnico-operador-de-alimentos-udelar
+  - licenciatura-en-bioquimica-udelar
   - maestria-profesional-en-evaluacion-transformadora-para-la-sostenibilidad-utec
-  - ingenieria-en-alimentos-ucu
-  - licenciatura-en-analisis-alimentario-utec
-  - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
+  - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "otro"
@@ -24,7 +25,9 @@ description: "Programa de posgrado en Biociencias y Sostenibilidad Alimentaria d
 tags:
   - alimentos
   - biologia
-  - medio ambiente
+  - biotecnologia
+  - nutricion
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

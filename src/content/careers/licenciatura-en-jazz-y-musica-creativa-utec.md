@@ -3,11 +3,11 @@ title: "Licenciatura en Jazz y Música Creativa"
 short: "Lic. en Jazz y Música Creativa"
 similar:
   - tecnologo-en-jazz-y-musica-creativa-utec
-  - ciclo-de-introduccion-la-musica-udelar
+  - productor-musical-ort
+  - tecnicatura-en-direccion-de-coros-udelar
   - licenciatura-en-musica-udelar
+  - ciclo-de-introduccion-la-musica-udelar
   - licenciatura-en-interpretacion-musical-udelar
-  - licenciatura-en-composicion-udelar
-  - licenciatura-en-direccion-coral-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ accreditation: "UTEC"
 description: "Licenciatura gratuita en Jazz y Música Creativa de UTEC, semipresencial en Mercedes. Formación en improvisación, composición, arreglos y producción musical. Título intermedio de Tecnólogo en Jazz y Música Creativa."
 tags:
   - musica
+  - interpretacion-musical
+  - composicion
+  - produccion-musical
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

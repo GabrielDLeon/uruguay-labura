@@ -2,11 +2,11 @@
 title: "Doctorado en Química, Orientación Educación en Química"
 similar:
   - quimica-orientacion-educacion-en-quimica-maestria-udelar
-  - educacion-ambiental-maestria-udelar
-  - educacion-y-desarrollo-especializacion-udelar
-  - ingenieria-quimica-doctorado-udelar
-  - quimica-doctorado-udelar
-  - ingenieria-quimica-maestria-udelar
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - licenciatura-en-educacion-ucu
+  - doctorado-en-educacion-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,8 +22,11 @@ description: "Maestrías y Doctorados: No se dispone de planes de estudio aproba
 startDate: ""
 applicationDeadline: ""
 tags:
-  - educacion
   - quimica
+  - educacion
+  - ensenanza-de-ciencias
+  - didactica
+  - formacion-docente
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

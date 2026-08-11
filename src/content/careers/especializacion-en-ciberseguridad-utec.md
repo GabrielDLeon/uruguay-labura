@@ -1,10 +1,12 @@
 ---
 title: "Especialización en Ciberseguridad"
 similar:
-  - analista-en-ciberseguridad-ude
   - maestria-en-ciberseguridad-y-gestion-de-riesgos-tecnologicos-um
+  - analista-en-ciberseguridad-ude
   - seguridad-informatica-maestria-udelar
   - seguridad-informatica-especializacion-udelar
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - ingenieria-telematica-um
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"
@@ -20,7 +22,10 @@ accreditation: "UTEC"
 description: "Especialización en Ciberseguridad de UTEC, en colaboración con la Universitat Oberta de Catalunya (UOC) y AGESIC. Formación de posgrado en modalidad online para proteger sistemas, redes y datos frente a amenazas cibernéticas."
 tags:
   - ciberseguridad
+  - seguridad-informatica
+  - seguridad-de-la-informacion
   - informatica
+  - redes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

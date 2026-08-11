@@ -3,6 +3,10 @@ title: "Especialización en Nefrología"
 similar:
   - nefrologia-pediatrica-especializacion-udelar
   - enfermeria-en-nefrologia-especializacion-udelar
+  - cardiologia-especializacion-udelar
+  - medicina-interna-especializacion-udelar
+  - neumologia-especializacion-udelar
+  - reumatologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -19,6 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - nefrologia
+  - medicina-interna
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

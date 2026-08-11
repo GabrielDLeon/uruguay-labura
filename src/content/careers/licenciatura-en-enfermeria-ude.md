@@ -25,6 +25,7 @@ tags:
   - enfermeria
   - salud
   - cuidados
+  - atencion-comunitaria
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

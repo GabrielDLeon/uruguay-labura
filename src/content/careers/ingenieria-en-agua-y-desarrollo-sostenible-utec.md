@@ -5,9 +5,9 @@ similar:
   - tecnologo-en-agua-y-desarrollo-sostenible-utec
   - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
   - ingenieria-agroambiental-utec
-  - ingenieria-en-energias-renovables-utec
-  - tecnologo-agroambiental-utec
-  - ingenieria-ambiental-doctorado-udelar
+  - licenciatura-en-recursos-hidricos-y-riego-udelar
+  - ingenieria-civil-ucu
+  - ingenieria-civil-um
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"
@@ -25,7 +25,9 @@ description: "Ingeniería gratuita en Agua y Desarrollo Sostenible de UTEC. Uso 
 tags:
   - ingenieria
   - agua
-  - medio ambiente
+  - recursos-hidricos
+  - ingenieria-hidraulica
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

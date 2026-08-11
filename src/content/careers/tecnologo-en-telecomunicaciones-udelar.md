@@ -1,8 +1,11 @@
 ---
 title: "Tecnólogo en Telecomunicaciones"
 similar:
-  - ingenieria-en-telecomunicaciones-ort
   - telecomunicaciones-especializacion-udelar
+  - ingenieria-telematica-um
+  - ingenieria-en-telecomunicaciones-ort
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-en-sistemas-de-comunicacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -20,7 +23,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 200
 tags:
-  - informatica
+  - telecomunicaciones
+  - redes
+  - telematica
+  - comunicaciones-inalambricas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

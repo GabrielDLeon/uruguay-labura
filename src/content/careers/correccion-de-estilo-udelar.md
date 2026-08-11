@@ -6,7 +6,7 @@ similar:
   - traductorado-publico-ingles-udelar
   - traductorado-publico-italiano-udelar
   - traductorado-publico-portugues-udelar
-  - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
+  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 180
 tags:
   - letras
+  - correccion-de-estilo
+  - redaccion
+  - edicion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

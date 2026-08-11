@@ -2,10 +2,10 @@
 title: "Químico"
 similar:
   - bachiller-en-ciencias-quimicas-udelar
-  - tecnico-en-procesos-y-analisis-quimico-utec
   - licenciatura-en-quimica-udelar
+  - licenciatura-en-tecnologias-de-la-quimica-udelar
   - tecnologo-quimico-utec
-  - quimica-farmaceutica-udelar
+  - tecnico-en-procesos-y-analisis-quimico-utec
   - tecnologo-quimico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 450
 tags:
   - quimica
+  - quimica-industrial
+  - quimica-analitica
+  - quimica-organica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

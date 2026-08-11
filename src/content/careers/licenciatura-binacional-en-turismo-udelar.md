@@ -6,6 +6,7 @@ similar:
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - especializacion-en-turismo-sostenible-utec
+  - tecnico-en-gestion-turistica-y-hotelera-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -23,6 +24,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - turismo
+  - gestion-de-destinos
+  - administracion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

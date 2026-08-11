@@ -4,9 +4,9 @@ similar:
   - traductorado-publico-ingles-udelar
   - interpretacion-lsu-espanol-lsu-udelar
   - postgrado-en-traduccion-um
-  - licenciatura-en-negocios-internacionales-um
   - traductorado-publico-aleman-udelar
   - traductorado-publico-frances-udelar
+  - traductorado-publico-italiano-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -22,8 +22,10 @@ location: "Montevideo"
 description: "Licenciatura en Traducción Inglés–Español de la Universidad de Montevideo. Cuatro años con ciclo básico común y especialización en traductor público, científico-técnico o literario, con opción de semestre en el extranjero."
 tags:
   - traduccion
-  - idiomas
   - interpretacion
+  - idiomas
+  - lengua-inglesa
+  - lengua-espanola
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

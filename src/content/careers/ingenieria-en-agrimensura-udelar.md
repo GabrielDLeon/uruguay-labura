@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería en Agrimensura"
 similar:
+  - tecnologo-en-cartografia-udelar
   - ingenieria-electrica-maestria-udelar
-  - ingenieria-mecanica-doctorado-udelar
-  - licenciatura-en-ingenieria-biologica-udelar
-  - ingenieria-industrial-ucu
-  - ingenieria-de-produccion-udelar
-  - ingenieria-de-la-energia-maestria-udelar
+  - ingenieria-ambiental-especializacion-udelar
+  - ingenieria-de-la-energia-especializacion-udelar
+  - ingenieria-de-minas-especializacion-udelar
+  - ingenieria-de-minas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,7 +24,9 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
-  - agronomia
+  - agrimensura
+  - topografia
+  - cartografia
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

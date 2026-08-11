@@ -1,12 +1,12 @@
 ---
 title: "Administración de Agronegocios"
 similar:
-  - gestion-y-comercializacion-de-commodities-ude
   - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - gestion-y-comercializacion-de-commodities-ude
   - licenciatura-en-gestion-agropecuaria-ude
-  - diploma-en-gestion-y-comercializacion-de-granos-ude
   - tecnologo-en-administracion-y-contabilidad-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
+  - diploma-en-gestion-y-comercializacion-de-granos-ude
+  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -22,9 +22,10 @@ location: "Campus Virtual"
 description: "Posgrado 100% virtual que estudia los agronegocios como sistema a lo largo de la cadena agroindustrial, con reconocidos docentes nacionales e internacionales."
 tags:
   - agronegocios
-  - posgrado
   - administracion
+  - administracion-de-agronegocios
   - commodities
+  - cadena-de-suministros
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

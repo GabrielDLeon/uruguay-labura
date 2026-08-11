@@ -4,9 +4,9 @@ similar:
   - arquitectura-maestria-udelar
   - arquitectura-ucu
   - arquitectura-en-madera-especializacion-udelar
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - arquitectura-udelar
-  - construccion-de-obras-de-arquitectura-especializacion-udelar
+  - carrera-de-arquitectura-ort
+  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arquitectura
+  - diseno-arquitectonico
+  - diseno
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

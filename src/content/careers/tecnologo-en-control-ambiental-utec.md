@@ -3,8 +3,8 @@ title: "Tecnólogo en Control Ambiental"
 short: "Tecnólogo en Control Ambiental"
 similar:
   - maestria-en-gestion-ambiental-ude
-  - educacion-ambiental-especializacion-udelar
-  - educacion-ambiental-maestria-udelar
+  - ingenieria-ambiental-ucu
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
   - ingenieria-ambiental-doctorado-udelar
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-ambiental-maestria-udelar
@@ -24,7 +24,10 @@ draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
-  - medio ambiente
+  - medio-ambiente
+  - gestion-ambiental
+  - sostenibilidad
+  - normativa-ambiental
 ---
 
 ## Resumen

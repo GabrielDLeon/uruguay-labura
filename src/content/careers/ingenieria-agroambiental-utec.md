@@ -4,10 +4,10 @@ short: "Ing. Agroambiental"
 similar:
   - tecnologo-agroambiental-utec
   - ingenieria-en-agua-y-desarrollo-sostenible-utec
+  - licenciatura-en-recursos-naturales-udelar
+  - ingenieria-ambiental-ucu
   - ingenieria-en-energias-renovables-utec
-  - ingenieria-ambiental-especializacion-udelar
-  - ingenieria-en-mecatronica-utec
-  - tecnologo-en-agua-y-desarrollo-sostenible-utec
+  - ingeniero-agronomo-ude
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"
@@ -25,7 +25,10 @@ accreditation: "UTEC"
 description: "Ingeniería gratuita en Agroambiental de UTEC, semipresencial en Durazno. Manejo sostenible de la tierra y los recursos naturales. Título intermedio de Tecnólogo Agroambiental."
 tags:
   - ingenieria
-  - medio ambiente
+  - agronomia
+  - medio-ambiente
+  - recursos-naturales
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

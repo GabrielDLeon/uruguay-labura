@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-comunicacion-ucu
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
   - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
-  - licenciatura-en-cine-ucu
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
-  - licenciatura-en-marketing-ude
+  - analista-en-publicidad-y-comunicacion-digital-ort
+  - licenciatura-en-comunicacion-periodistica-y-creacion-de-contenidos-ort
+  - licenciatura-en-comunicacion-y-marketing-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -24,7 +24,9 @@ tags:
   - comunicacion
   - periodismo
   - publicidad
+  - marketing
   - cine
+  - opinion-publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

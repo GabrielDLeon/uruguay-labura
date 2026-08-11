@@ -4,10 +4,10 @@ short: "Tecnólogo en Informática"
 similar:
   - tecnologo-en-informatica-udelar
   - analista-en-informatica-ucu
-  - ingenieria-en-informatica-ucu
   - analista-en-tecnologia-informatica-ude
   - tecnico-en-informatica-ude
-  - ingenieria-en-informatica-um
+  - licenciatura-en-informatica-um
+  - informatica-maestria-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -26,6 +26,10 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - informatica
+  - software
+  - programacion
+  - administracion-de-sistemas
+  - soporte-tecnico
 ---
 
 ## Resumen

@@ -1,12 +1,12 @@
 ---
 title: "Tecnólogo en Informática"
 similar:
-  - licenciatura-en-informatica-um
-  - ingenieria-en-informatica-ude
-  - ingenieria-en-informatica-um
   - tecnologo-en-informatica-utec
+  - licenciatura-en-informatica-um
+  - analista-en-infraestructura-informatica-ort
+  - ingenieria-en-informatica-ude
   - analista-en-ingenieria-informatica-ude
-  - seguridad-informatica-especializacion-udelar
+  - analista-en-informatica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 252
 tags:
   - informatica
+  - software
+  - administracion-de-sistemas
+  - soporte-tecnico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

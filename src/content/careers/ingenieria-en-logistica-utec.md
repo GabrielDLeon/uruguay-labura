@@ -2,12 +2,12 @@
 title: "Ingeniería en Logística"
 short: "Ing. en Logística"
 similar:
-  - tecnologo-en-logistica-utec
   - licenciatura-en-logistica-ude
+  - tecnologo-en-logistica-utec
   - analista-en-logistica-ude
   - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
-  - ingenieria-en-control-y-automatica-utec
-  - ingenieria-biomedica-utec
+  - ingenieria-en-mecatronica-utec
+  - transito-y-transporte-especializacion-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"
@@ -28,6 +28,8 @@ description: "Ingeniería gratuita en Logística de UTEC, presencial en turno no
 tags:
   - ingenieria
   - logistica
+  - cadena-de-suministros
+  - transporte
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

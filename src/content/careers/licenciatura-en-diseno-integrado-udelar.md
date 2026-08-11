@@ -1,11 +1,11 @@
 ---
 title: "Licenciatura en Diseño Integrado"
 similar:
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - licenciatura-en-diseno-industrial-udelar
+  - ingeniero-agronomo-ude
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - licenciatura-en-diseno-grafico-ude
   - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
-  - tecnico-en-diseno-de-sonido-ort
+  - tecnico-en-diseno-de-interiores-ude
   - licenciatura-en-artes-diseno-grafico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -25,6 +25,8 @@ applicationDeadline: ""
 credits: 360
 tags:
   - diseno
+  - sostenibilidad
+  - desarrollo-sostenible
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

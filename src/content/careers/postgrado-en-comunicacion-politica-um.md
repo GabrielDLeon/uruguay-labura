@@ -2,6 +2,11 @@
 title: "Postgrado en Comunicación Política"
 similar:
   - licenciatura-en-ciencia-politica-ucu
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - ciencia-politica-doctorado-udelar
+  - maestria-en-ciencia-politica-maestria-udelar
+  - licenciatura-en-comunicacion-um
+  - licenciatura-en-ciencia-politica-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -16,9 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-comunicacion/oferta-academica/postgr
 location: "Montevideo"
 description: "Postgrado en Comunicación Política de la Universidad de Montevideo. Forma profesionales capaces de analizar, diseñar y gestionar estrategias de comunicación que incidan en la agenda pública; modalidad semipresencial en un año lectivo."
 tags:
-  - comunicacion politica
-  - opinion publica
+  - comunicacion
+  - comunicacion-politica
+  - opinion-publica
   - gobierno
+  - ciencia-politica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -3,6 +3,10 @@ title: "Diploma en Psicología Forense y Criminológica"
 similar:
   - maestria-en-psicologia-forense-y-penitenciaria-ucu
   - maestria-en-ciencias-criminologico-forenses-ude
+  - doctorado-en-psicologia-ucu
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
+  - licenciatura-en-psicologia-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +21,11 @@ website: "https://fcom.um.edu.uy/facultad-de-psicologia/oferta-academica/postgra
 location: "Montevideo"
 description: "Diploma en Psicología Forense y Criminológica de la Universidad de Montevideo. Formación en la intersección entre psicología, derecho y criminología: peritajes, psicología del testimonio, perfilamiento criminal y autopsia psicológica."
 tags:
-  - psicologia forense
+  - psicologia
+  - psicologia-forense
   - criminologia
   - peritaje
+  - derecho
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

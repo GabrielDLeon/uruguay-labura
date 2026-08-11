@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Psicoterapia Psicodinámica"
 similar:
+  - maestria-en-psicoterapia-cognitiva-de-adultos-y-familias-modalidad-first-experience-ucu
   - evaluacion-psicologica-especializacion-udelar
-  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
-  - licenciatura-en-psicologia-semipresencial-ucu
-  - licenciatura-en-psicologia-ucu
-  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
+  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
+  - especialista-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
+  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Página web de Facultad de Psicología"
 tags:
   - psicologia
+  - psicoterapia
+  - psicoterapia-psicodinamica
+  - salud-mental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Diseño de Paisaje"
 similar:
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - proyecto-de-paisaje-especializacion-udelar
-  - habitat-y-vivienda-especializacion-udelar
-  - diseno-y-produccion-de-videojuegos-ort
-  - licenciatura-en-diseno-integrado-udelar
+  - tecnico-en-paisajismo-ort
+  - tecnico-en-diseno-de-interiores-ude
+  - licenciatura-en-diseno-de-interiores-ort
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - tecnico-en-diseno-de-interiores-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - arquitectura
+  - paisajismo
   - diseno
+  - arquitectura-del-paisaje
+  - diseno-de-espacios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

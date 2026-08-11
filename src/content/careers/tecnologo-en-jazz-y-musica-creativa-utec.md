@@ -3,8 +3,11 @@ title: "Tecnólogo en Jazz y Música Creativa"
 short: "Tecnólogo en Jazz y Música Creativa"
 similar:
   - licenciatura-en-jazz-y-musica-creativa-utec
-  - ciclo-de-introduccion-la-musica-udelar
+  - tecnicatura-en-direccion-de-coros-udelar
+  - productor-musical-ort
   - licenciatura-en-musica-udelar
+  - ciclo-de-introduccion-la-musica-udelar
+  - licenciatura-en-interpretacion-musical-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -24,6 +27,9 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - musica
+  - interpretacion-musical
+  - composicion
+  - produccion-musical
 ---
 
 ## Resumen

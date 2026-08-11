@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Dirección de Empresas"
 similar:
+  - maestria-en-direccion-y-administracion-de-empresas-ude
   - mba-um
   - licenciatura-en-direccion-y-administracion-de-empresas-um
-  - licenciatura-en-gestion-de-talento-humano-um
-  - licenciatura-en-administracion-de-empresas-ude
-  - licenciatura-en-negocios-y-economia-ucu
-  - licenciatura-en-business-analytics-ucu
+  - mba-senior-um
+  - master-en-administracion-de-empresas-mba-ort
+  - maestria-en-direccion-de-empresas-de-salud-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -23,9 +23,11 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Dirección de Empresas de la UCU. Forma profesionales capaces de liderar y gestionar organizaciones, tomar decisiones estratégicas sostenibles e impulsar la innovación, con un plan de estudios actualizado."
 tags:
   - administracion
-  - negocios
+  - direccion-de-empresas
   - liderazgo
-  - gestion
+  - estrategia-de-negocios
+  - innovacion
+  - sostenibilidad
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

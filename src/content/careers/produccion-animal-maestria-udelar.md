@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Producción Animal"
 similar:
+  - nutricion-de-rumiantes-maestria-udelar
   - reproduccion-animal-maestria-udelar
   - salud-animal-maestria-udelar
-  - nutricion-de-rumiantes-maestria-udelar
   - produccion-animal-doctorado-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - salud-animal-doctorado-udelar
+  - produccion-animal-ude
+  - tecnologo-en-produccion-equina-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,10 @@ description: "Normal 0 21 false false false MicrosoftInternetExplorer4 DISPOSICI
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
+  - produccion-animal
   - veterinaria
+  - ganaderia
+  - nutricion-animal
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

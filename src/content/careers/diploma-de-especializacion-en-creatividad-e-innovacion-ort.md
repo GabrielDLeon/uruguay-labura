@@ -2,8 +2,11 @@
 title: "Diploma de Especialización en Creatividad e Innovación"
 similar:
   - master-en-creatividad-innovacion-y-comunicacion-ort
-  - gestion-de-innovacion-maestria-udelar
   - master-en-diseno-estrategico-e-innovacion-ort
+  - gestion-de-innovacion-maestria-udelar
+  - especializacion-en-fabricacion-digital-e-innovacion-utec
+  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
+  - master-en-gestion-y-comunicacion-de-la-moda-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -19,7 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "La creatividad como proceso mental y la innovación como proceso productivo se potencian estrechando relaciones y desarrollos desde sus protagonistas."
 tags:
-  - administracion
+  - innovacion
+  - creatividad
+  - gestion-de-la-innovacion
+  - negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

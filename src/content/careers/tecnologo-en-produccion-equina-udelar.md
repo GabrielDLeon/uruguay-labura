@@ -1,12 +1,12 @@
 ---
 title: "Tecnólogo en Producción Equina"
 similar:
+  - tecnico-en-gestion-de-equinos-ude
   - tecnico-asistente-veterinario-ude
   - doctor-en-ciencias-veterinarias-udelar
   - produccion-animal-doctorado-udelar
   - produccion-animal-maestria-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - tecnico-en-ciencias-veterinarias-ude
+  - produccion-animal-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -24,7 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 225
 tags:
+  - produccion-equina
+  - equinos
   - veterinaria
+  - bienestar-animal
+  - nutricion-animal
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

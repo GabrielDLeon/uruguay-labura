@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Farmacología y Terapéutica"
-similar: []
+similar:
+  - toxicologia-clinica-especializacion-udelar
+  - farmacia-hospitalaria-especializacion-udelar
+  - farmacia-industrial-especializacion-udelar
+  - quimica-farmaceutica-udelar
+  - auxiliar-de-farmacia-hospitalaria-udelar
+  - radiofarmacia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +23,9 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - farmacologia
+  - farmacia
+  - terapeutica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

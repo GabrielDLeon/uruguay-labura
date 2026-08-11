@@ -1,6 +1,7 @@
 ---
 title: "Especialización en Alergología"
-similar: []
+similar:
+  - bases-inmunogeneticas-de-los-transplantes-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +18,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados de Facultad de Medicina"
 tags:
   - medicina
+  - alergologia
+  - inmunologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

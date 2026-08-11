@@ -2,11 +2,11 @@
 title: "Licenciatura en Artes - Cerámica"
 similar:
   - licenciatura-en-artes-dibujo-y-pintura-udelar
-  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-artes-visuales-ucu
   - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
   - licenciatura-en-artes-digitales-ort
+  - licenciatura-en-artes-diseno-grafico-udelar
   - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
-  - licenciatura-en-artes-fotografia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,6 +24,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arte
+  - ceramica
+  - artes-visuales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

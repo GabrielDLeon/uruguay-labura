@@ -2,11 +2,11 @@
 title: "Analista en Comercio Exterior"
 similar:
   - analista-en-comercio-exterior-ude
+  - licenciado-en-comercio-exterior-ude
+  - master-en-integracion-y-comercio-internacional-um
+  - postgrado-en-comercio-internacional-um
+  - licenciatura-en-negocios-internacionales-um
   - licenciatura-en-negocios-internacionales-ucu
-  - licenciatura-en-estudios-internacionales-ort
-  - mba-um
-  - licenciatura-en-marketing-y-estrategia-comercial-ucu
-  - contador-publico-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "La carrera de Analista en Comercio Exterior brinda una excelente formación sobre diseño e implementación de estrategias de acceso a mercados internacionales."
 tags:
   - negocios
+  - comercio-exterior
+  - comercio-internacional
+  - estrategia-comercial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

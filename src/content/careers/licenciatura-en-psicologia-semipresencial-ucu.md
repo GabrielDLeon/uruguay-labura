@@ -2,11 +2,11 @@
 title: "Licenciatura en Psicología (Semipresencial)"
 similar:
   - licenciatura-en-psicologia-ucu
-  - tecnicatura-en-acompanamiento-terapeutico-ucu
-  - doctorado-en-psicologia-ucu
-  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - psicologia-clinica-maestria-udelar
-  - psicologia-social-maestria-udelar
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
+  - licenciatura-en-psicologia-udelar
+  - licenciatura-en-psicologia-um
+  - tecnicatura-en-acompanamiento-terapeutico-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -23,8 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Psicología de la UCU en modalidad semipresencial en el Campus Salto. Forma profesionales capaces de evaluar e intervenir en diversas áreas de la Psicología para promover la salud mental y el bienestar."
 tags:
   - psicologia
-  - salud
   - salud-mental
+  - psicologia-clinica
+  - salud
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

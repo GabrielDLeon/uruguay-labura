@@ -2,10 +2,11 @@
 title: "Especialización en Auditoría"
 similar:
   - contabilidad-y-auditoria-maestria-udelar
+  - contador-publico-ude
+  - contador-publico-ucu
+  - postgrado-en-gestion-contable-um
+  - contador-publico-um
   - contabilidad-especializacion-udelar
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
-  - contador-publico-udelar
-  - diploma-de-especializacion-en-contabilidad-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - contabilidad
+  - auditoria
+  - auditoria-de-estados-financieros
+  - gestion-contable
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

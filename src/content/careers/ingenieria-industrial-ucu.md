@@ -2,11 +2,11 @@
 title: "Ingeniería Industrial"
 similar:
   - ingenieria-industrial-um
-  - ingenieria-mecanica-doctorado-udelar
-  - licenciatura-en-diseno-industrial-ort
-  - doctorado-en-ingenieria-ucu
-  - ingenieria-mecanica-maestria-udelar
+  - ingenieria-de-produccion-udelar
   - ingenieria-industrial-mecanica-udelar
+  - licenciatura-en-diseno-industrial-ort
+  - tecnologo-industrial-mecanico-udelar
+  - licenciatura-en-diseno-industrial-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -22,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Industrial de la UCU. Forma profesionales capaces de optimizar procesos y resolver problemas que afectan a diversas industrias con solvencia técnica y una mirada innovadora de la gestión empresarial."
 tags:
-  - ingenieria
-  - procesos
-  - gestion
+  - ingenieria-industrial
+  - gestion-empresarial
+  - procesos-industriales
+  - gestion-de-operaciones
+  - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

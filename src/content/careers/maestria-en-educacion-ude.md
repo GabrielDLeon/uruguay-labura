@@ -2,11 +2,11 @@
 title: "Maestría en Educación"
 similar:
   - doctorado-en-educacion-ude
-  - maestria-en-liderazgo-y-gestion-educativa-ucu
   - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - educacion-y-extension-rural-maestria-udelar
-  - diploma-de-postgrado-en-educacion-emocional-um
-  - educacion-fisica-maestria-udelar
+  - educacion-udelar
+  - diploma-en-educacion-ort
+  - master-en-gestion-educativa-ort
+  - doctorado-en-educacion-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
@@ -25,9 +25,9 @@ applicationDeadline: ""
 description: "Maestría en Educación de la UDE, un postgrado académico de naturaleza internacional con énfasis en la investigación, orientado a fortalecer las competencias de docentes y gestores educativos frente a las nuevas demandas de los sistemas educativos regionales."
 tags:
   - educacion
-  - investigacion educativa
-  - gestion educativa
-  - formacion docente
+  - investigacion-educativa
+  - gestion-educativa
+  - formacion-docente
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -2,11 +2,11 @@
 title: "Maestría en Políticas Culturales"
 similar:
   - tecnicatura-universitaria-en-bienes-culturales-udelar
-  - gestion-cultural-especializacion-udelar
-  - arte-y-cultura-visual-maestria-udelar
-  - licenciatura-en-danza-contemporanea-udelar
-  - dramaturgia-udelar
-  - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
+  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
+  - maestria-en-politicas-publicas-ucu
+  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
+  - afrodescendencia-y-politicas-publicas-especializacion-udelar
+  - genero-y-politicas-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Cure Maldonado"
 tags:
   - arte
+  - politicas-publicas
+  - gestion-cultural
+  - politicas-culturales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Terapia Ocupacional"
-similar: []
+similar:
+  - licenciatura-en-fisioterapia-ude
+  - licenciatura-en-psicomotricidad-ucu
+  - licenciatura-en-fisioterapia-ucu
+  - licenciatura-en-enfermeria-ude
+  - tecnicatura-en-acompanamiento-terapeutico-ucu
+  - tecnicatura-en-podologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -17,7 +23,10 @@ description: "El terapeuta ocupacional es miembro activo del equipo de rehabilit
 startDate: ""
 applicationDeadline: ""
 tags:
-  - terapia ocupacional
+  - terapia-ocupacional
+  - rehabilitacion
+  - salud
+  - cuidados
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

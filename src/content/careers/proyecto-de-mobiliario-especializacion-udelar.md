@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Proyecto de Mobiliario"
 similar:
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - investigacion-proyectual-especializacion-udelar
-  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
-  - licenciatura-en-artes-diseno-grafico-udelar
-  - licenciatura-en-diseno-de-comunicacion-visual-udelar
+  - proyecto-de-paisaje-especializacion-udelar
   - licenciatura-en-diseno-industrial-udelar
+  - licenciatura-en-diseno-industrial-ort
+  - licenciatura-en-diseno-industrial-ude
+  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
+  - arquitectura-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - diseno
+  - diseno-de-productos
+  - diseno-de-mobiliario
+  - diseno-industrial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

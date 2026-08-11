@@ -14,9 +14,9 @@ website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-gobernanza-de-int
 location: "Montevideo"
 description: "Diploma en Gobernanza de Internet de la UCU. Forma para comprender los procesos, políticas y acuerdos que guían la gestión de Internet, de la mano de docentes y expertos reconocidos a nivel internacional."
 tags:
-  - gobernanza de internet
+  - gobernanza-de-internet
+  - politicas-digitales
   - internet
-  - politicas digitales
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

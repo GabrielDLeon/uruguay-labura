@@ -2,11 +2,11 @@
 title: "Licenciatura en Diseño Gráfico"
 similar:
   - diseno-grafico-ort
-  - diseno-de-interfaces-ort
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
+  - licenciatura-en-diseno-grafico-ude
+  - tecnico-en-diseno-grafico-ude
   - licenciatura-en-artes-diseno-grafico-udelar
-  - tecnico-en-diseno-de-interiores-ort
-  - diseno-y-produccion-de-videojuegos-ort
+  - disenador-grafico-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "La carrera te prepara para crear soluciones visuales con creatividad, dominio tecnológico y un enfoque práctico en editorial, web y proyectos corporativos."
 tags:
   - diseno
+  - diseno-grafico
+  - comunicacion-visual
+  - diseno-editorial
+  - diseno-web
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería en Telecomunicaciones"
 similar:
-  - ingenieria-en-sistemas-de-comunicacion-udelar
   - ingenieria-en-telecomunicaciones-ucu
-  - ingenieria-en-informatica-ucu
-  - tecnologo-en-telecomunicaciones-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-telematica-um
   - telecomunicaciones-especializacion-udelar
-  - ingenieria-en-electronica-ort
+  - tecnologo-en-telecomunicaciones-udelar
+  - ingenieria-en-biotecnologia-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"
@@ -22,7 +22,8 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería en Telecomunicaciones de ORT Uruguay. Los ingenieros en Telecomunicaciones gerencian tanto la puesta en servicio como la operación de todo tipo de sistemas de comunicaciones electrónicas."
 tags:
-  - informatica
+  - telecomunicaciones
+  - redes
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

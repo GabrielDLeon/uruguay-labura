@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería Civil"
 similar:
+  - ingenieria-civil-um
+  - ingenieria-civil-ucu
   - ingenieria-de-produccion-udelar
   - ingenieria-electrica-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - ingenieria-naval-udelar
-  - ingenieria-quimica-udelar
-  - ingenieria-de-alimentos-udelar
+  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-estructural-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
+  - ingenieria-civil
   - ingenieria
+  - infraestructura
+  - construccion
   - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -1,11 +1,11 @@
 ---
 title: "Especialización en Investigación Proyectual"
 similar:
-  - proyecto-de-mobiliario-especializacion-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - licenciatura-en-diseno-industrial-udelar
-  - licenciatura-en-diseno-integrado-udelar
+  - arquitectura-maestria-udelar
+  - arquitectura-doctorado-udelar
+  - arquitectura-en-madera-especializacion-udelar
   - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - arquitectura-udelar
   - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - diseno
+  - investigacion-proyectual
+  - diseno-arquitectonico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

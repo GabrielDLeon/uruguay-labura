@@ -2,11 +2,11 @@
 title: "Especialización en Gramática del Español. Se Dicta en Convenio Anep - Udelar"
 similar:
   - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
+  - licenciatura-en-traduccion-um
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
   - interpretacion-lsu-espanol-lsu-udelar
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - bibliotecologia-udelar
+  - linguistica-udelar
+  - maestria-en-lengua-inglesa-y-educacion-intercultural-bilingue-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - letras
+  - linguistica
+  - gramatica-del-espanol
+  - lengua-espanola
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

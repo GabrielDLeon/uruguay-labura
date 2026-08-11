@@ -1,9 +1,12 @@
 ---
 title: "Tecnólogo en Madera"
 similar:
-  - arquitectura-en-madera-especializacion-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - master-en-edificaciones-en-madera-ort
+  - ingenieria-industrial-um
+  - ingenieria-industrial-ucu
+  - tecnologo-industrial-mecanico-udelar
+  - ingenieria-forestal-udelar
+  - ingenieria-industrial-mecanica-udelar
+  - tecnico-forestal-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -21,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 270
 tags:
-  - ingenieria
+  - tecnologia-de-la-madera
+  - ingenieria-industrial
+  - forestal
+  - procesos-industriales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

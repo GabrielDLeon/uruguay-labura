@@ -1,11 +1,12 @@
 ---
 title: "Tecnólogo Cárnico"
 similar:
-  - tecnico-operador-de-alimentos-udelar
-  - ingenieria-de-alimentos-udelar
   - industria-carnica-especializacion-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - ingenieria-de-alimentos-udelar
+  - tecnico-en-procesos-y-analisis-quimico-utec
   - ciencia-y-tecnologia-de-alimentos-maestria-udelar
+  - tecnologo-industrial-mecanico-udelar
+  - ingenieria-de-produccion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -23,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 262
 tags:
-  - alimentos
+  - carnes
+  - industria-alimentaria
+  - tecnologia-de-alimentos
+  - procesos-industriales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

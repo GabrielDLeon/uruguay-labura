@@ -1,9 +1,12 @@
 ---
 title: "Doctorado en Ciencia Política"
 similar:
-  - licenciatura-en-ciencia-politica-udelar
   - licenciatura-en-ciencia-politica-ucu
+  - licenciatura-en-ciencia-politica-udelar
   - maestria-en-ciencia-politica-maestria-udelar
+  - postgrado-en-comunicacion-politica-um
+  - historia-politica-maestria-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -19,7 +22,9 @@ description: "El Programa de Doctorado es un programa estratégico de la Faculta
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencia-politica
+  - ciencias-sociales
+  - gobierno
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

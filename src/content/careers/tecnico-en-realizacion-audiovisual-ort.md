@@ -2,11 +2,11 @@
 title: "Técnico en Realización Audiovisual"
 similar:
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
   - licenciatura-en-cine-ucu
-  - tecnico-en-diseno-de-sonido-ort
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - diseno-y-produccion-de-videojuegos-ort
+  - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
+  - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
+  - licenciatura-en-comunicacion-um
+  - licenciatura-en-comunicacion-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Técnico en Realización Audiovisual de ORT Uruguay. El profesional en Realización Audiovisual conoce los distintos lenguajes expresivos como el cine, la televisión y la publicidad."
 tags:
   - audiovisual
+  - cine
+  - television
+  - produccion-audiovisual
+  - comunicacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

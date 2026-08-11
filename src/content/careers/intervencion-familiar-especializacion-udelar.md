@@ -1,8 +1,12 @@
 ---
 title: "Especialización en Intervención Familiar"
 similar:
-  - estrategias-de-intervencion-en-usos-problematicos-de-drogas-especializacion-udelar
-  - intervencion-en-el-patrimonio-arquitectonico-especializacion-udelar
+  - licenciatura-en-trabajo-social-udelar
+  - fundamentos-de-trabajo-social-especializacion-udelar
+  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - licenciatura-en-trabajo-social-ucu
+  - trabajo-social-maestria-udelar
+  - discapacidad-en-lo-social-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,7 +22,10 @@ description: "Se espera contar, a la hora del egreso, con un cuerpo profesional 
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
+  - familia
+  - intervencion-social
+  - trabajo-social
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,11 @@
 title: "Licenciatura en Administración"
 similar:
   - gerencia-y-administracion-mba-maestria-udelar
-  - tecnico-en-gestion-y-administracion-de-empresas-ort
-  - contador-publico-udelar
-  - tecnologo-en-administracion-y-contabilidad-udelar
-  - tecnico-en-administracion-udelar
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - licenciatura-en-gerencia-y-administracion-ort
   - administracion-especializacion-udelar
+  - licenciatura-en-administracion-de-empresas-ude
+  - maestria-en-direccion-y-administracion-de-empresas-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,12 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - programa-roberto-rocca
   - administracion
+  - direccion-de-empresas
+  - gestion-empresarial
+  - consultoria
+  - recursos-humanos
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

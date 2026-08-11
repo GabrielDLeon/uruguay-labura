@@ -1,12 +1,12 @@
 ---
 title: "Contador Público"
 similar:
-  - contador-publico-ude
-  - contador-publico-ucu
   - contador-publico-um
-  - contador-publico-udelar
+  - contador-publico-ude
+  - postgrado-en-data-science-y-big-data-um
   - licenciatura-en-economia-ort
-  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - contador-publico-ucu
+  - contador-publico-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "carrera"
@@ -24,6 +24,9 @@ description: "Contador Público de ORT Uruguay. La carrera de Contador Público 
 tags:
   - programa-roberto-rocca
   - contabilidad
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - big-data
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

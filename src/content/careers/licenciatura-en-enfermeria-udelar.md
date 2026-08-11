@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Enfermería"
 similar:
-  - enfermeria-medico-quirurgica-especializacion-udelar
+  - licenciatura-en-enfermeria-profesionalizacion-ucu
   - licenciatura-en-enfermeria-ude
-  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
   - enfermeria-en-nefrologia-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
-  - licenciatura-en-enfermeria-profesionalizacion-ucu
+  - enfermeria-medico-quirurgica-especializacion-udelar
+  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - enfermeria
+  - cuidados
+  - gestion-sanitaria
+  - educacion-para-la-salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

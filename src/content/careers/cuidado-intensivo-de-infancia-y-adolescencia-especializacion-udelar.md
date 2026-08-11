@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Cuidado Intensivo de Infancia y Adolescencia"
-similar: []
+similar:
+  - ciudados-intensivos-especializacion-udelar
+  - enfermeria-en-nefrologia-especializacion-udelar
+  - enfermeria-en-neonatologia-especializacion-udelar
+  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
+  - enfermeria-oncologica-especializacion-udelar
+  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -16,7 +22,10 @@ description: "Especializar a Licenciados en Enfermería en los conocimientos cie
 startDate: ""
 applicationDeadline: ""
 tags:
-  - medicina
+  - enfermeria
+  - cuidados-intensivos
+  - pediatria
+  - ninos-y-adolescentes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

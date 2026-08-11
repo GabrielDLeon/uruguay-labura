@@ -2,11 +2,11 @@
 title: "Licenciatura en Business Analytics"
 similar:
   - master-en-business-analytics-ort
+  - postgrado-en-business-intelligence-y-data-science-um
+  - postgrado-en-analitica-de-negocios-um
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
   - licenciatura-en-datos-y-negocios-ucu
-  - licenciatura-en-direccion-de-empresas-ucu
-  - licenciatura-en-negocios-y-economia-ucu
   - licenciatura-en-ciencia-de-datos-para-negocios-um
-  - licenciatura-en-negocios-internacionales-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -22,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Business Analytics de la UCU. Forma profesionales capaces de analizar datos para la toma de decisiones estratégicas, integrando negocios, tecnología y analítica."
 tags:
-  - analytics
-  - datos
   - negocios
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - business-intelligence
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

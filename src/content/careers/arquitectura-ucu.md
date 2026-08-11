@@ -2,11 +2,11 @@
 title: "Arquitectura"
 similar:
   - arquitectura-doctorado-udelar
-  - diploma-de-especializacion-en-arquitectura-sostenible-ort
-  - construccion-de-obras-de-arquitectura-especializacion-udelar
-  - arquitectura-maestria-udelar
   - carrera-de-arquitectura-ort
   - arquitectura-udelar
+  - arquitectura-en-madera-especializacion-udelar
+  - arquitectura-maestria-udelar
+  - diploma-de-especializacion-en-arquitectura-sostenible-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -23,8 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Arquitectura de la UCU. Forma profesionales para desarrollar proyectos de arquitectura, diseño y territorio con enfoque tecnológico, ambiental y práctico desde el primer semestre."
 tags:
   - arquitectura
-  - diseño
+  - diseno-arquitectonico
   - urbanismo
+  - sostenibilidad
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

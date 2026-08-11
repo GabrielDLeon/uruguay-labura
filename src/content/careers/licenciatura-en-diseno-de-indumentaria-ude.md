@@ -2,11 +2,11 @@
 title: "Licenciatura en Diseño de Indumentaria"
 similar:
   - tecnicatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-diseno-de-modas-ort
   - disenador-de-moda-ude
-  - licenciatura-en-diseno-grafico-ude
-  - licenciatura-en-diseno-industrial-ude
-  - tecnico-en-diseno-de-interiores-ude
-  - tecnico-en-diseno-grafico-ude
+  - licenciatura-en-diseno-industrial-udelar
+  - licenciatura-en-artes-visuales-ucu
+  - licenciatura-en-diseno-industrial-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -22,7 +22,8 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño de Indumentaria de la UDE. Forma profesionales de la moda con formación creativa, socio-antropológica, cultural, artística y tecnológica, con título de grado con reconocimiento académico internacional."
 tags:
-  - diseño
+  - diseno
+  - diseno-de-moda
   - indumentaria
   - moda
 draft: true

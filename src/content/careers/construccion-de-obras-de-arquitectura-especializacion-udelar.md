@@ -3,10 +3,10 @@ title: "Especialización en Construcción de Obras de Arquitectura"
 similar:
   - construccion-en-obras-de-arquitectura-maestria-udelar
   - arquitectura-en-madera-especializacion-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
   - arquitectura-maestria-udelar
-  - arquitectura-ucu
-  - arquitectura-doctorado-udelar
+  - arquitectura-udelar
+  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
+  - carrera-de-arquitectura-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arquitectura
+  - construccion
+  - gestion-de-la-construccion
+  - direccion-de-obras
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

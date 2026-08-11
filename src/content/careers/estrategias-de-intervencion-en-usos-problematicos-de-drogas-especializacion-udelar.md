@@ -1,9 +1,12 @@
 ---
 title: "Especialización en Estrategias de Intervención en Usos Problemáticos de Drogas"
 similar:
-  - intervencion-en-el-patrimonio-arquitectonico-especializacion-udelar
+  - psicogerontologia-especializacion-udelar
   - politicas-de-drogas-regulacion-y-control-especializacion-udelar
+  - salud-mental-y-psiquiatria-especializacion-udelar
   - intervencion-familiar-especializacion-udelar
+  - salud-mental-maestria-udelar
+  - licenciatura-en-psicologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -19,7 +22,10 @@ description: "Objetivo general Contribuir al diseño e implementación de estrat
 startDate: ""
 applicationDeadline: "Página web de Facultad de Psicología"
 tags:
-  - ciencias sociales
+  - salud-mental
+  - adicciones
+  - salud-publica
+  - ciencias-sociales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

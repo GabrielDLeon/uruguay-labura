@@ -1,7 +1,12 @@
 ---
 title: "Producción Animal"
 similar:
-  - tecnico-en-ciencias-veterinarias-ude
+  - produccion-animal-doctorado-udelar
+  - produccion-animal-maestria-udelar
+  - nutricion-de-rumiantes-maestria-udelar
+  - tecnologo-en-produccion-equina-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -16,10 +21,11 @@ website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/produccion-animal/"
 location: "Campus Virtual"
 description: "Posgrado 100% virtual, dictado con la Universidad Nacional de Mar del Plata y el INTA Balcarce, que profundiza en nutrición aplicada, pasturas, calidad de carne y sistemas de producción ganadera."
 tags:
-  - produccion animal
-  - nutricion animal
+  - produccion-animal
+  - nutricion-animal
   - pasturas
   - ganaderia
+  - carnes
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

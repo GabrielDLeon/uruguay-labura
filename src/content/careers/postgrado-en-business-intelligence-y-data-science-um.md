@@ -2,6 +2,11 @@
 title: "Postgrado en Business Intelligence & Data Science"
 similar:
   - postgrado-en-data-science-y-big-data-um
+  - licenciatura-en-business-analytics-ucu
+  - postgrado-en-analitica-de-negocios-um
+  - maestria-en-finanzas-um
+  - master-en-business-analytics-ort
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -16,9 +21,9 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-business-intel
 location: "Campus Virtual"
 description: "Postgrado en Business Intelligence & Data Science de la Universidad de Montevideo (UMPE). Forma en herramientas y metodologías de analítica de datos aplicada al ámbito empresarial, en modalidad online."
 tags:
-  - business intelligence
-  - data science
-  - analitica de datos
+  - business-intelligence
+  - ciencia-de-datos
+  - analitica-de-negocios
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

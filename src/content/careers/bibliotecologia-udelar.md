@@ -1,12 +1,12 @@
 ---
 title: "Bibliotecología"
 similar:
+  - doctorado-en-religion-cultura-y-vida-publica-ucu
+  - historia-udelar
+  - informacion-y-comunicacion-maestria-udelar
+  - licenciatura-en-humanidades-um
+  - archivologia-udelar
   - linguistica-udelar
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
-  - ensenanza-de-lenguas-extranjeras-maestria-udelar
-  - traductorado-publico-aleman-udelar
-  - traductorado-publico-frances-udelar
-  - traductorado-publico-ingles-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,7 +24,9 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - letras
+  - humanidades
+  - bibliotecologia
+  - gestion-de-informacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

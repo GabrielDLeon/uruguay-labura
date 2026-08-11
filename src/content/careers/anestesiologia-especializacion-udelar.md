@@ -1,6 +1,11 @@
 ---
 title: "Especialización en Anestesiología"
-similar: []
+similar:
+  - medicina-intensiva-especializacion-udelar
+  - terapia-intensiva-pediatrica-especializacion-udelar
+  - ciudados-intensivos-especializacion-udelar
+  - cuidado-intensivo-de-infancia-y-adolescencia-especializacion-udelar
+  - licenciatura-en-neumocardiologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +22,8 @@ startDate: ""
 applicationDeadline: "Facultad de Medicina"
 tags:
   - medicina
+  - anestesiologia
+  - cuidados-intensivos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

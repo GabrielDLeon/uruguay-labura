@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Historia Política"
 similar:
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - licenciatura-en-ciencia-politica-udelar
+  - ciencia-politica-doctorado-udelar
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
   - patrimonio-documental-historia-y-gestion-maestria-udelar
-  - patrimonio-documental-historia-y-gestion-especializacion-udelar
-  - maestria-en-historia-um
-  - historia-economica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - historia
+  - historia-politica
+  - ciencia-politica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

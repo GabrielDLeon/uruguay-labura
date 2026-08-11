@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Diseño Industrial"
 similar:
+  - licenciatura-en-diseno-industrial-ude
   - licenciatura-en-diseno-industrial-ort
-  - licenciatura-en-diseno-integrado-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - licenciatura-en-artes-diseno-grafico-udelar
-  - licenciatura-en-diseno-de-comunicacion-visual-udelar
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - proyecto-de-mobiliario-especializacion-udelar
+  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
+  - tecnico-en-diseno-grafico-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
+  - diseno-industrial
   - diseno
-  - ingenieria
+  - diseno-de-productos
+  - manufactura
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

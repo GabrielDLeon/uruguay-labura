@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Gestión de Instituciones Educativas"
 similar:
-  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
-  - tecnologo-en-gestion-universitaria-udelar
-  - diploma-en-planificacion-y-gestion-educativa-ort
   - master-en-gestion-educativa-ort
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
+  - diploma-en-planificacion-y-gestion-educativa-ort
+  - maestria-en-liderazgo-y-gestion-educativa-ucu
+  - tecnologo-en-gestion-universitaria-udelar
+  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
+  - gestion-de-innovacion-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ description: "Especialización en Gestión de Instituciones Educativas, dictada 
 startDate: ""
 applicationDeadline: ""
 tags:
-  - administracion
   - educacion
+  - gestion-educativa
+  - direccion-de-centros
+  - liderazgo-educativo
+  - administracion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,11 @@
 title: "Postgrado en Contabilidad"
 similar:
   - maestria-en-contabilidad-y-tecnica-tributaria-um
-  - postgrado-en-tributacion-aplicada-um
-  - postgrado-en-tecnica-tributaria-um
-  - postgrado-en-gestion-contable-um
   - diploma-de-especializacion-en-contabilidad-ort
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
+  - postgrado-en-gestion-contable-um
+  - contabilidad-y-auditoria-maestria-udelar
+  - postgrado-en-tecnica-tributaria-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -23,7 +23,8 @@ description: "Postgrado en Contabilidad de la Universidad de Montevideo (UMPE). 
 tags:
   - contabilidad
   - tributacion
-  - sistemas de informacion
+  - impuestos
+  - gestion-contable
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

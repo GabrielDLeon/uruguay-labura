@@ -6,7 +6,7 @@ similar:
   - ingenieria-matematica-maestria-udelar
   - licenciatura-en-matematica-udelar
   - matematica-maestria-udelar
-  - ciclo-de-matematica-udelar
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"
@@ -21,9 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-acade
 location: "Montevideo"
 description: "Profesorado de Matemática de la Universidad de Montevideo. Forma profesores con sólida formación matemática y pedagógica, habilitada por ANEP dentro del Plan Nacional de Formación Docente, con prácticas docentes desde la carrera."
 tags:
-  - profesorado
+  - educacion
   - matematica
-  - formacion docente
+  - formacion-docente
+  - profesorado
+  - matematica-educativa
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

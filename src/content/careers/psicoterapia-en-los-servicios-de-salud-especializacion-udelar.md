@@ -1,11 +1,11 @@
 ---
 title: "Especialización en Psicoterapia en los Servicios de Salud"
 similar:
-  - administracion-de-servicios-de-salud-especializacion-udelar
-  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
+  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
   - psicologia-en-servicios-de-salud-especializacion-udelar
-  - gestion-de-servicios-de-salud-maestria-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
+  - administracion-de-servicios-de-salud-especializacion-udelar
+  - maestria-en-psicoterapia-cognitiva-de-adultos-y-familias-modalidad-first-experience-ucu
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
   - psicoterapia-psicodinamica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - psicologia
-  - salud publica
+  - psicoterapia
+  - salud-publica
+  - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

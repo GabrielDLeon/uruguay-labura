@@ -2,7 +2,10 @@
 title: "Maestría en Cine Latinoamericano"
 similar:
   - licenciatura-en-cine-ucu
-  - postgrado-en-traduccion-um
+  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
+  - tecnico-en-realizacion-audiovisual-ort
+  - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
   - licenciatura-en-artes-fotografia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -19,7 +22,10 @@ description: "Maestría en Cine Latinoamericano, dictada por la Facultad de Arte
 startDate: ""
 applicationDeadline: ""
 tags:
+  - arte
+  - cine
   - audiovisual
+  - estudios-latinoamericanos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

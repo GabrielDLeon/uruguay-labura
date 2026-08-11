@@ -4,9 +4,9 @@ similar:
   - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
-  - ciencias-odontologicas-mencion-funcion-craneo-mandibular-y-dolor-orofacial-maestria-udelar
   - odontologia-ucu
-  - prostodoncia-especializacion-udelar
+  - ciencias-odontologicas-mencion-funcion-craneo-mandibular-y-dolor-orofacial-maestria-udelar
+  - odontologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - odontologia
+  - salud-bucal
+  - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

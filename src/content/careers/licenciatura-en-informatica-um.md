@@ -3,10 +3,10 @@ title: "Licenciatura en Informática"
 similar:
   - analista-en-informatica-ucu
   - tecnologo-en-informatica-udelar
-  - ingenieria-en-informatica-um
-  - analista-en-tecnologia-informatica-ude
-  - tecnico-en-informatica-ude
   - analista-en-ingenieria-informatica-ude
+  - analista-en-tecnologia-informatica-ude
+  - ingenieria-en-informatica-um
+  - tecnologo-en-analisis-y-desarrollo-de-sistemas-utec
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -23,7 +23,8 @@ description: "Licenciatura en Informática de la Universidad de Montevideo. Form
 tags:
   - informatica
   - programacion
-  - desarrollo de software
+  - software
+  - sistemas-de-informacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

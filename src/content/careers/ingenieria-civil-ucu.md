@@ -2,7 +2,11 @@
 title: "Ingeniería Civil"
 similar:
   - ingenieria-civil-um
-  - ingenieria-ambiental-ucu
+  - ingenieria-civil-udelar
+  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-estructural-maestria-udelar
+  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -18,10 +22,12 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Civil de la UCU. Forma profesionales capaces de proyectar, planificar, dirigir y supervisar obras de infraestructura vial, hidráulica, estructural y sanitaria, con una sólida formación técnica y sostenible."
 tags:
-  - ingenieria civil
+  - ingenieria-civil
   - infraestructura
   - construccion
-  - sostenibilidad
+  - ingenieria-estructural
+  - ingenieria-hidraulica
+  - ingenieria-sanitaria
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

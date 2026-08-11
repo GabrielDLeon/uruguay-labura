@@ -1,9 +1,12 @@
 ---
 title: "Técnico Agropecuario"
 similar:
-  - ingeniero-agronomo-ude
   - licenciatura-en-gestion-agropecuaria-ude
-  - ingenieria-industrial-um
+  - agronomia-especializacion-udelar
+  - agronomia-maestria-udelar
+  - ciencias-agrarias-maestria-udelar
+  - ingeniero-agronomo-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -19,8 +22,10 @@ location: "Montevideo"
 description: "Carrera técnica semipresencial orientada a formar técnicos capaces de trabajar en actividades productivas y de contribuir a la gestión de las empresas agropecuarias."
 tags:
   - agropecuario
-  - produccion
-  - tecnicatura
+  - produccion-animal
+  - produccion-vegetal
+  - agronegocios
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

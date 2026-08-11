@@ -1,10 +1,12 @@
 ---
 title: "Maestría en Dirección y Administración de Empresas"
 similar:
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
   - licenciatura-en-administracion-de-empresas-ude
   - mba-um
-  - maestria-en-direccion-de-empresas-de-salud-um
+  - licenciatura-en-direccion-de-empresas-ucu
   - mba-senior-um
+  - tecnico-en-gestion-y-administracion-de-empresas-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
@@ -19,10 +21,12 @@ website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-di
 location: "Montevideo"
 description: "Maestría en Dirección y Administración de Empresas de la Universidad de la Empresa. Proporciona una visión global de todos los departamentos de una empresa y desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de gestión en las organizaciones."
 tags:
-  - administracion de empresas
-  - direccion de empresas
-  - management
-  - toma de decisiones
+  - administracion
+  - administracion-de-empresas
+  - direccion-de-empresas
+  - estrategia-de-negocios
+  - toma-de-decisiones
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

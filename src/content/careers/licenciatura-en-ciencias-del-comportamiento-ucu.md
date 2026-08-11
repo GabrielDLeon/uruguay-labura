@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Ciencias del Comportamiento"
 similar:
+  - postgrado-en-analitica-de-negocios-um
   - licenciatura-en-psicologia-um
+  - licenciatura-en-business-analytics-ucu
+  - diploma-en-metodos-de-investigacion-y-analisis-de-datos-ucu
   - ciencias-cognitivas-maestria-udelar
-  - licenciatura-en-psicologia-ucu
-  - licenciatura-en-psicologia-semipresencial-ucu
-  - licenciatura-en-psicomotricidad-udelar
-  - licenciatura-en-psicologia-udelar
+  - licenciatura-en-datos-y-negocios-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -22,10 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Ciencias del Comportamiento de la UCU. Forma para comprender las decisiones de las personas, analizar datos y diseñar estrategias basadas en evidencia, con un enfoque multidisciplinario e innovador."
 tags:
-  - ciencias del comportamiento
-  - analisis de datos
   - psicologia
+  - ciencias-del-comportamiento
   - neurociencias
+  - ciencia-de-datos
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

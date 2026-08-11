@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Ingeniería Estructural"
 similar:
-  - ingenieria-de-la-energia-doctorado-udelar
-  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
-  - ingenieria-fisica-doctorado-udelar
   - ingenieria-estructural-maestria-udelar
-  - ingenieria-mecanica-doctorado-udelar
-  - ingenieria-electrica-maestria-udelar
+  - ingenieria-civil-ucu
+  - ingenieria-civil-um
+  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - ingenieria-civil-udelar
+  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,7 +22,10 @@ description: "El objetivo general de la carrera de Doctorado es aumentar la gene
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria
+  - ingenieria-estructural
+  - ingenieria-civil
+  - construccion
+  - diseno-estructural
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

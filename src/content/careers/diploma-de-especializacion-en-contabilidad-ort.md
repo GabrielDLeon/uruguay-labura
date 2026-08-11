@@ -4,9 +4,9 @@ similar:
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
   - maestria-en-contabilidad-y-tecnica-tributaria-um
   - postgrado-en-contabilidad-um
-  - master-en-contabilidad-y-finanzas-ort
-  - contabilidad-y-auditoria-maestria-udelar
-  - tecnologo-en-administracion-y-contabilidad-udelar
+  - contador-publico-ude
+  - tributaria-maestria-udelar
+  - contador-publico-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Posgrado dirigido a interesados en especializarse en contabilidad e impuestos, orientados a funciones gerenciales o de consultoría tributaria."
 tags:
   - contabilidad
+  - impuestos
+  - tributacion
+  - consultoria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

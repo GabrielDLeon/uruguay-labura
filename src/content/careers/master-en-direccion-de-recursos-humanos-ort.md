@@ -2,11 +2,11 @@
 title: "Master en Dirección de Recursos Humanos"
 similar:
   - diploma-de-especializacion-en-recursos-humanos-ort
+  - analista-en-recursos-humanos-ude
   - licenciatura-en-recursos-humanos-ude
-  - licenciatura-en-direccion-y-administracion-de-empresas-um
-  - tecnicatura-en-gestion-de-recursos-naturales-udelar
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
   - licenciatura-en-gestion-de-talento-humano-um
-  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Promueve el enfoque estratégico de la gestión de recursos humanos a partir del análisis del entorno y del entendimiento de los objetivos organizacionales."
 tags:
-  - administracion
-  - recursos humanos
+  - recursos-humanos
+  - gestion-de-personas
+  - cultura-organizacional
+  - estrategia-de-negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

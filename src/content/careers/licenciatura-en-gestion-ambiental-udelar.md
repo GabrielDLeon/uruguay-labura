@@ -2,11 +2,11 @@
 title: "Licenciatura en Gestión Ambiental"
 similar:
   - maestria-en-gestion-ambiental-ude
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
   - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - ingenieria-ambiental-ucu
+  - tecnologo-en-control-ambiental-utec
+  - ingenieria-ambiental-doctorado-udelar
+  - ingenieria-ambiental-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -23,8 +23,10 @@ description: "El egresado será capaz de comprender, analizar, investigar y gest
 startDate: ""
 applicationDeadline: ""
 tags:
-  - administracion
-  - medio ambiente
+  - gestion-ambiental
+  - medio-ambiente
+  - evaluacion-de-impacto-ambiental
+  - ordenamiento-territorial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

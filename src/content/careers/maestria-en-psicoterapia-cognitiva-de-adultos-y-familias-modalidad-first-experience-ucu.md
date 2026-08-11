@@ -3,6 +3,10 @@ title: "Maestría en Psicoterapia Cognitiva de Adultos y Familias - Modalidad Fi
 similar:
   - maestria-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
   - especialista-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
+  - psicoterapia-psicodinamica-especializacion-udelar
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - licenciatura-en-psicologia-semipresencial-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -18,7 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicoterapia Cognitiva de Adultos y Familias - Modalidad First Experience de la UCU. Forma para evaluar, intervenir y asesorar en los diversos cuadros psicopatológicos vinculados a la salud mental de las personas adultas."
 tags:
-  - psicoterapia cognitiva
+  - psicologia
+  - psicologia-clinica
+  - psicoterapia
+  - psicoterapia-cognitiva
   - adultos
   - familias
 draft: true

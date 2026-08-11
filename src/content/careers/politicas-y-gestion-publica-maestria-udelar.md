@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Políticas y Gestión Pública"
 similar:
+  - maestria-en-administracion-publica-ucu
+  - maestria-en-politicas-publicas-ucu
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
   - derecho-opcion-administrativo-y-gestion-publica-especializacion-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - gestion-de-servicios-de-salud-maestria-udelar
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
+  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
+  - maestria-en-ciencia-politica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,11 @@ description: "OBJETIVOS La presente propuesta destaca la idea de crear capacidad
 startDate: ""
 applicationDeadline: ""
 tags:
-  - administracion
+  - gestion-publica
+  - administracion-publica
+  - politicas-publicas
+  - gobierno
+  - sector-publico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

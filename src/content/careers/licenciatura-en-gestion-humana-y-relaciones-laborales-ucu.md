@@ -1,8 +1,12 @@
 ---
 title: "Licenciatura en Gestión Humana y Relaciones Laborales"
 similar:
-  - analista-en-recursos-humanos-ude
+  - licenciatura-en-gestion-de-talento-humano-um
+  - licenciatura-en-relaciones-laborales-udelar
   - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - licenciatura-en-recursos-humanos-ude
+  - diploma-de-especializacion-en-recursos-humanos-ort
+  - master-en-direccion-de-recursos-humanos-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -19,8 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Gestión Humana y Relaciones Laborales de la UCU. Forma en gestión de la cultura organizacional, atracción y desarrollo del talento y relaciones laborales, con fuerte articulación entre academia y empresas."
 tags:
   - recursos-humanos
+  - gestion-de-personas
   - relaciones-laborales
-  - talento
   - cultura-organizacional
 draft: true
 createdAt: "2026-08-07 19:13:13"

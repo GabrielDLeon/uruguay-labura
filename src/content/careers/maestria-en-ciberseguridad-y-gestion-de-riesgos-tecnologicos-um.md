@@ -1,9 +1,12 @@
 ---
 title: "Maestría en Ciberseguridad y Gestión de Riesgos Tecnológicos"
 similar:
-  - analista-en-ciberseguridad-ude
   - especializacion-en-ciberseguridad-utec
+  - analista-en-ciberseguridad-ude
   - seguridad-informatica-maestria-udelar
+  - seguridad-informatica-especializacion-udelar
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - tecnologo-en-analisis-y-gestion-de-datos-utec
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -19,8 +22,10 @@ location: "Campus Virtual"
 description: "Maestría en Ciberseguridad y Gestión de Riesgos Tecnológicos del Centro de Postgrados de Ingeniería de la Universidad de Montevideo. Formación virtual sincrónica de dos años para prevenir, detectar y mitigar riesgos cibernéticos y liderar la innovación tecnológica."
 tags:
   - ciberseguridad
-  - gestion de riesgos
-  - seguridad de la informacion
+  - gestion-de-riesgos
+  - seguridad-de-la-informacion
+  - seguridad-informatica
+  - informatica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

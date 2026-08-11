@@ -1,12 +1,12 @@
 ---
 title: "Analista en Comercio Exterior"
 similar:
+  - licenciado-en-comercio-exterior-ude
   - analista-en-comercio-exterior-ort
   - licenciatura-en-negocios-internacionales-ucu
-  - licenciado-en-comercio-exterior-ude
-  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
-  - analista-en-logistica-ude
-  - licenciatura-en-negocios-y-economia-ucu
+  - licenciatura-en-negocios-internacionales-um
+  - master-en-integracion-y-comercio-internacional-um
+  - postgrado-en-negocios-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -21,9 +21,10 @@ website: "https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-comercio
 location: "Montevideo"
 description: "La carrera de Analista en Comercio Exterior forma en un año graduados capacitados para desempeñarse en el nivel operativo de la normativa y operaciones aduaneras, la logística internacional y la gestión de operaciones de comercio exterior."
 tags:
-  - comercio-exterior
-  - logistica
   - negocios
+  - comercio-exterior
+  - aduanas
+  - logistica-internacional
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

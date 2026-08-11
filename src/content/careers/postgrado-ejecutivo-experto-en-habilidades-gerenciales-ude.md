@@ -3,9 +3,10 @@ title: "Postgrado Ejecutivo Experto en Habilidades Gerenciales"
 similar:
   - postgrado-liderazgo-y-toma-de-decisiones-ude
   - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
-  - licenciatura-en-direccion-de-empresas-ucu
-  - licenciatura-en-gestion-de-talento-humano-um
-  - mba-um
+  - transformacion-organizacional-especializacion-udelar
+  - diploma-de-postgrado-en-educacion-emocional-um
+  - mba-senior-um
+  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -23,6 +24,8 @@ tags:
   - liderazgo
   - habilidades-gerenciales
   - gestion-del-cambio
+  - inteligencia-emocional
+  - gestion-de-personas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Economía para No Economistas"
 similar:
-  - economia-maestria-udelar
   - licenciatura-en-economia-ucu
-  - administracion-y-economia-del-turismo-maestria-udelar
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
-  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
   - economia-fcs-especializacion-udelar
+  - economia-maestria-udelar
+  - licenciatura-en-economia-udelar
+  - licenciatura-en-economia-ort
+  - licenciatura-en-economia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: "cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
 tags:
   - economia
+  - analisis-economico
+  - economia-aplicada
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

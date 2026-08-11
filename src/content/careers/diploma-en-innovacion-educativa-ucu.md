@@ -2,11 +2,11 @@
 title: "Diploma en Innovación Educativa"
 similar:
   - maestria-en-liderazgo-y-gestion-educativa-ucu
-  - licenciatura-en-recreacion-educativa-ucu
-  - maestria-en-metodologias-activas-de-ensenanza-ucu
   - master-en-gestion-educativa-ort
-  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - diploma-en-planificacion-y-gestion-educativa-ort
   - especializacion-en-tecnologia-educativa-utec
+  - maestria-en-tecnologia-educativa-utec
+  - maestria-en-metodologias-activas-de-ensenanza-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"
@@ -20,9 +20,10 @@ website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-innovacion-educat
 location: "Montevideo"
 description: "Diploma en Innovación Educativa de la UCU. Forma docentes y líderes educativos para incorporar estrategias, metodologías, tendencias y buenas prácticas que favorezcan la calidad educativa."
 tags:
-  - innovacion educativa
   - educacion
-  - tecnologia educativa
+  - innovacion-educativa
+  - metodologias-activas
+  - liderazgo-educativo
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

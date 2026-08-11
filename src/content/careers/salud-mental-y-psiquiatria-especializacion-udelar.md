@@ -2,11 +2,11 @@
 title: "Especialización en Salud Mental y Psiquiatría"
 similar:
   - salud-mental-maestria-udelar
+  - psiquiatria-especializacion-udelar
+  - psiquiatria-pediatrica-especializacion-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - salud-familiar-y-comunitaria-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
-  - promcoion-y-educacion-para-la-salud-especializacion-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
+  - tecnicatura-en-acompanamiento-terapeutico-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
   - medicina
-  - salud publica
+  - salud-mental
+  - psiquiatria
+  - salud-publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

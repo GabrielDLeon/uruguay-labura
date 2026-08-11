@@ -1,10 +1,11 @@
 ---
 title: "Licenciatura en Geología"
 similar:
-  - ingenieria-de-minas-especializacion-udelar
-  - ingenieria-de-minas-maestria-udelar
   - geociencias-doctorado-udelar
   - geociencias-maestria-udelar
+  - hidrologia-subterranea-especializacion-udelar
+  - ingenieria-de-minas-especializacion-udelar
+  - ingenieria-de-minas-maestria-udelar
   - tecnologo-minero-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -24,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - geologia
+  - ciencias-de-la-tierra
+  - mineralogia
+  - hidrogeologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Evaluación Psicológica"
 similar:
+  - especialista-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
   - psicoterapia-psicodinamica-especializacion-udelar
-  - doctorado-en-psicologia-ucu
-  - psicologia-clinica-maestria-udelar
-  - licenciatura-en-psicologia-semipresencial-ucu
-  - licenciatura-en-psicologia-ucu
-  - licenciatura-en-psicologia-um
+  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
+  - maestria-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
+  - especialista-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
+  - maestria-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Página web de la Facultad de Psicología"
 tags:
   - psicologia
+  - psicologia-clinica
+  - evaluacion-psicologica
+  - psicodiagnostico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

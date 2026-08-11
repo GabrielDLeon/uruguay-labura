@@ -1,10 +1,12 @@
 ---
 title: "Doctorado en Sociología"
 similar:
-  - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
+  - economia-doctorado-udelar
   - licenciatura-en-sociologia-udelar
   - sociologia-maestria-udelar
+  - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
   - licenciatura-en-sociologia-ucu
+  - ciencias-humanas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -20,7 +22,9 @@ description: "El Programa de Doctorado es un programa estratégico de la Faculta
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - sociologia
+  - ciencias-sociales
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Ingeniería Biológica"
 similar:
-  - ingenieria-en-agrimensura-udelar
-  - bioinformatica-especializacion-udelar
-  - ingenieria-quimica-doctorado-udelar
-  - ingenieria-quimica-maestria-udelar
-  - ingenieria-quimica-udelar
-  - licenciatura-en-ingenieria-de-medios-udelar
+  - licenciatura-biologia-humana-udelar
+  - licenciatura-en-biotecnologia-udelar
+  - biotecnologia-doctorado-udelar
+  - biotecnologia-maestria-udelar
+  - ingenieria-en-biotecnologia-ort
+  - licenciatura-en-biotecnologia-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,10 @@ description: "La Licenciatura en Ingeniería Biológica es una nueva carrera ori
 startDate: ""
 applicationDeadline: ""
 tags:
+  - ingenieria-biologica
   - biologia
-  - ingenieria
+  - biotecnologia
+  - biologia-molecular
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

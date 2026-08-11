@@ -2,11 +2,11 @@
 title: "Maestría en Tributaria"
 similar:
   - tributaria-especializacion-udelar
-  - derecho-financiero-con-enfasis-en-derecho-tributario-especializacion-udelar
-  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
-  - master-en-impuestos-y-normas-de-contabilidad-niif-ort
-  - finanzas-especializacion-udelar
-  - finanzas-maestria-udelar
+  - postgrado-en-tecnica-tributaria-um
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - diplomado-en-tributacion-ude
+  - master-en-tributacion-um
+  - postgrado-en-tributacion-internacional-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,10 @@ description: "Las actuales asignaturas vinculadas al área Tributaria en las Car
 startDate: ""
 applicationDeadline: ""
 tags:
-  - finanzas
+  - tributacion
+  - impuestos
+  - derecho-tributario
+  - contabilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

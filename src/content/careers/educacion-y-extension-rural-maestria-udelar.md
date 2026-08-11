@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Educación y Extensión Rural"
 similar:
+  - desarrollo-rural-sustentable-maestria-udelar
+  - desarrollo-rural-sustentable-especializacion-udelar
   - educacion-ambiental-especializacion-udelar
-  - educacion-fisica-maestria-udelar
   - doctorado-en-educacion-ude
   - maestria-en-educacion-ude
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - diploma-en-educacion-ort
+  - ciencias-agrarias-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
   - educacion
+  - desarrollo-rural
+  - extension-rural
+  - agronomia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

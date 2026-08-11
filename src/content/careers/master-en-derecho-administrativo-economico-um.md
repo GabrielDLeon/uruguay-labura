@@ -2,7 +2,11 @@
 title: "Máster en Derecho Administrativo Económico"
 similar:
   - postgrado-en-derecho-administrativo-economico-um
-  - maestria-en-administracion-publica-ucu
+  - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
+  - derecho-opcion-administrativo-y-gestion-publica-especializacion-udelar
+  - postgrado-en-derecho-penal-economico-um
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - derecho-orientancion-derecho-comercial-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -18,9 +22,11 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/mast
 location: "Montevideo"
 description: "Máster en Derecho Administrativo Económico de la Universidad de Montevideo. Forma profesionales para asesorar a empresas en sus relaciones con la Administración Pública y para desempeñarse en la función pública."
 tags:
-  - derecho administrativo
-  - derecho economico
-  - administracion publica
+  - derecho
+  - derecho-administrativo
+  - derecho-economico
+  - administracion-publica
+  - funcion-publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

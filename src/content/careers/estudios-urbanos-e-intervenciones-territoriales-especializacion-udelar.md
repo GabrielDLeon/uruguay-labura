@@ -1,11 +1,12 @@
 ---
 title: "Especialización en Estudios Urbanos e Intervenciones Territoriales"
 similar:
+  - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
+  - habitat-y-vivienda-especializacion-udelar
+  - licenciatura-en-geografia-udelar
+  - habitat-y-vivienda-maestria-udelar
+  - geografia-especializacion-udelar
   - demografia-y-estudios-de-poblacion-maestria-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
-  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - intervenciones-comunitarias-especializacion-udelar
-  - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -21,7 +22,11 @@ description: "Ofrecer un espacio para la actualización y renovación de conocim
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
+  - urbanismo
+  - territorio
+  - vivienda
+  - ordenamiento-territorial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

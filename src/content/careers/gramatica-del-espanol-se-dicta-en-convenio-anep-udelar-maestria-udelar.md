@@ -3,10 +3,10 @@ title: "Maestría en Gramática del Español. Se Dicta en Convenio Anep - Udelar
 similar:
   - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-especializacion-udelar
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
-  - interpretacion-lsu-espanol-lsu-udelar
-  - ensenanza-de-lenguas-extranjeras-maestria-udelar
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
+  - licenciatura-en-traduccion-um
   - linguistica-udelar
+  - maestria-en-lengua-inglesa-y-educacion-intercultural-bilingue-um
+  - interpretacion-lsu-espanol-lsu-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - letras
+  - linguistica
+  - gramatica-del-espanol
+  - lengua-espanola
+  - ensenanza-de-lenguas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

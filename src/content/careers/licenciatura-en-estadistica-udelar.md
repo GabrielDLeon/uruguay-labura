@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Estadística"
-similar: []
+similar:
+  - matematica-doctorado-udelar
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - licenciatura-en-matematica-udelar
+  - maestria-en-ciencia-de-datos-um
+  - investigacion-de-operaciones-maestria-udelar
+  - matematica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -19,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - estadistica
+  - probabilidad
+  - matematica
+  - ciencia-de-datos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

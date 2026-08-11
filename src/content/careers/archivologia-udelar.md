@@ -1,10 +1,10 @@
 ---
 title: "Archivología"
 similar:
-  - historia-udelar
+  - patrimonio-documental-historia-y-gestion-especializacion-udelar
+  - patrimonio-documental-historia-y-gestion-maestria-udelar
   - licenciatura-en-humanidades-um
-  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
-  - historia-economica-maestria-udelar
+  - historia-udelar
   - maestria-en-historia-um
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -24,6 +24,9 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
+  - humanidades
+  - archivologia
+  - gestion-documental
   - historia
 draft: true
 createdAt: "2026-07-31 16:58:06"

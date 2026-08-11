@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería Físico-matemática"
 similar:
-  - ingenieria-industrial-mecanica-udelar
-  - ingenieria-de-alimentos-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - ingenieria-de-produccion-udelar
   - ingenieria-matematica-maestria-udelar
-  - investigacion-de-operaciones-maestria-udelar
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-de-produccion-udelar
+  - ingenieria-naval-udelar
+  - licenciatura-en-matematica-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -25,8 +25,9 @@ applicationDeadline: ""
 credits: 450
 tags:
   - fisica
-  - ingenieria
   - matematica
+  - ingenieria
+  - computacion-cientifica
   - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"

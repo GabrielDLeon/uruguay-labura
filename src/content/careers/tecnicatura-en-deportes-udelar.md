@@ -1,12 +1,12 @@
 ---
 title: "Tecnicatura en Deportes"
 similar:
-  - diplomado-en-fisioterapia-en-el-deporte-ude
-  - curso-de-guardavidas-udelar
-  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
+  - diplomado-en-fisioterapia-en-el-deporte-ude
   - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 160
 tags:
   - deporte
+  - entrenamiento-deportivo
+  - actividad-fisica
+  - rendimiento-deportivo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

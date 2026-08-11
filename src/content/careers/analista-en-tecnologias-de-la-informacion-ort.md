@@ -1,12 +1,12 @@
 ---
 title: "Analista en Tecnologías de la Información"
 similar:
-  - analista-en-tecnologia-informatica-ude
-  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
-  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
-  - analista-programador-ort
   - analista-en-informatica-ucu
+  - analista-en-tecnologia-informatica-ude
+  - analista-programador-ort
   - analista-en-ingenieria-informatica-ude
+  - licenciatura-en-informatica-um
+  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Analista en Tecnologías de la Información de ORT Uruguay. Analista en Tecnologías de la Información es una tecnicatura orientada al desarrollo e integración de sistemas de software."
 tags:
   - informatica
+  - software
+  - programacion
+  - sistemas-de-informacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

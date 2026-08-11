@@ -3,11 +3,11 @@ title: "Tecnólogo Agroambiental"
 short: "Tecnólogo Agroambiental"
 similar:
   - ingenieria-agroambiental-utec
-  - ingenieria-en-agua-y-desarrollo-sostenible-utec
-  - tecnologo-en-agua-y-desarrollo-sostenible-utec
-  - tecnologo-en-energias-renovables-utec
-  - ingenieria-en-energias-renovables-utec
-  - ingenieria-ambiental-especializacion-udelar
+  - licenciatura-en-recursos-naturales-udelar
+  - tecnicatura-en-gestion-de-recursos-naturales-udelar
+  - ingenieria-ambiental-ucu
+  - maestria-en-gestion-ambiental-ude
+  - tecnologo-en-control-ambiental-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -26,8 +26,11 @@ draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
-  - ingenieria
-  - medio ambiente
+  - agronomia
+  - medio-ambiente
+  - recursos-naturales
+  - gestion-ambiental
+  - sostenibilidad
 ---
 
 ## Resumen

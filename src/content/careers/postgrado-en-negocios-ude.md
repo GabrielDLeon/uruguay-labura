@@ -1,12 +1,12 @@
 ---
 title: "Postgrado en Negocios"
 similar:
-  - diploma-de-especializacion-en-negocios-inmobiliarios-ort
-  - licenciatura-en-negocios-internacionales-ucu
+  - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
   - licenciatura-en-datos-y-negocios-ucu
-  - licenciatura-en-ciencia-de-datos-para-negocios-um
-  - licenciatura-en-negocios-digitales-ort
+  - master-en-direccion-comercial-y-marketing-ort
+  - diploma-de-especializacion-en-marketing-ort
   - licenciatura-en-negocios-y-economia-ucu
+  - diploma-de-especializacion-en-negocios-inmobiliarios-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -22,9 +22,10 @@ location: "Montevideo"
 description: "Postgrado en Negocios de la Universidad de la Empresa. Brinda herramientas para la gestión de negocios y de marketing con un enfoque aplicado e interdisciplinario, y permite continuar al segundo año en las maestrías de la Facultad de Ciencias Empresariales."
 tags:
   - negocios
-  - gestion de marketing
-  - estrategia de negocios
-  - especializacion
+  - marketing
+  - estrategia-de-negocios
+  - gestion-empresarial
+  - gestion-comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

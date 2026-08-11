@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Transplante de Progenitores Hematopéyicos"
-similar: []
+similar:
+  - hemato-oncologia-pediatrica-especializacion-udelar
+  - hematologia-especializacion-udelar
+  - banco-de-tejidos-para-trasplantes-especializacion-udelar
+  - bases-inmunogeneticas-de-los-transplantes-especializacion-udelar
+  - coordinacion-de-transplantes-especializacion-udelar
+  - hemoterapia-y-medicina-transfucional-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - hematologia
+  - oncologia
+  - transplantes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

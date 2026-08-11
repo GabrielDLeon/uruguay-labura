@@ -1,6 +1,9 @@
 ---
 title: "Especialización en Análisis Sociodemográfico"
-similar: []
+similar:
+  - demografia-y-estudios-de-poblacion-maestria-udelar
+  - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
+  - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -16,7 +19,10 @@ description: "Formar profesionales y académicos capacitados en el conocimiento 
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
+  - demografia
+  - analisis-sociodemografico
+  - estadistica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

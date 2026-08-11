@@ -1,8 +1,12 @@
 ---
 title: "Especialización en Telecomunicaciones"
 similar:
-  - ingenieria-en-telecomunicaciones-ort
   - tecnologo-en-telecomunicaciones-udelar
+  - ingenieria-telematica-um
+  - ingenieria-en-telecomunicaciones-ort
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - especializacion-en-ciberseguridad-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,7 +22,10 @@ description: "Brindar una formación más especializada que la correspondiente a
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - informatica
+  - telecomunicaciones
+  - redes
+  - telematica
+  - comunicaciones-inalambricas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

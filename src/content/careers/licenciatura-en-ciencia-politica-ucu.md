@@ -3,9 +3,9 @@ title: "Licenciatura en Ciencia Política"
 similar:
   - licenciatura-en-ciencia-politica-udelar
   - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-doctorado-udelar
   - postgrado-en-comunicacion-politica-um
   - licenciatura-en-politica-filosofia-y-economia-um
-  - ciencia-politica-doctorado-udelar
   - maestria-en-politicas-publicas-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
@@ -22,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera de Ciencia Política de la Universidad Católica del Uruguay. Forma profesionales para analizar sistemas políticos, investigar problemas sociales y aportar a la toma de decisiones públicas."
 tags:
-  - ciencia politica
-  - ciencias sociales
+  - ciencia-politica
+  - ciencias-sociales
   - gobierno
+  - politicas-publicas
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

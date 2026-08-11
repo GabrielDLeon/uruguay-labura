@@ -2,11 +2,11 @@
 title: "Técnico en Diseño de Interiores"
 similar:
   - licenciatura-en-diseno-de-interiores-ort
-  - licenciatura-en-diseno-grafico-ort
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - master-en-diseno-estrategico-e-innovacion-ort
+  - tecnico-en-diseno-de-interiores-ude
+  - disenador-de-interiores-ude
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - licenciatura-en-diseno-de-paisaje-udelar
   - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
-  - diseno-y-produccion-de-videojuegos-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Si estás interesado en realizar un curso de diseño interior, la carrera Técnico en Diseño de Interiores te permite desarrollar tus ideas y tu creatividad."
 tags:
   - diseno
+  - diseno-de-interiores
+  - interiorismo
+  - diseno-de-espacios
+  - creatividad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

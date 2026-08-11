@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Optimización"
 similar:
-  - ciclo-de-matematica-udelar
   - investigacion-de-operaciones-maestria-udelar
-  - licenciatura-en-matematica-udelar
-  - matematica-maestria-udelar
-  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
   - ingenieria-fisico-matematica-udelar
+  - ingenieria-matematica-maestria-udelar
+  - bioinformatica-especializacion-udelar
+  - ciclo-de-matematica-udelar
+  - licenciatura-en-estadistica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +22,10 @@ description: "La Especialización en Optimización, de acuerdo con el artículo 
 startDate: ""
 applicationDeadline: "Facultad de ingeniería"
 tags:
+  - optimizacion
   - matematica
+  - investigacion-de-operaciones
+  - computacion-cientifica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

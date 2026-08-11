@@ -1,12 +1,8 @@
 ---
 title: "Especialización en Seguridad y Salud en el Trabajo"
 similar:
-  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - tecnicatura-en-salud-ocupacional-udelar
-  - maestria-en-gestion-y-salud-publica-ucu
-  - salud-familiar-y-comunitaria-especializacion-udelar
-  - gestion-de-servicios-de-salud-maestria-udelar
-  - salud-mental-maestria-udelar
+  - salud-ocupacional-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +18,11 @@ description: "Al culminar los cursos de la Especialización, el egresado del pro
 startDate: ""
 applicationDeadline: ""
 tags:
-  - salud publica
+  - seguridad-y-salud-en-el-trabajo
+  - salud-ocupacional
+  - medicina-del-trabajo
+  - seguridad-industrial
+  - higiene-industrial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -4,8 +4,9 @@ similar:
   - maestria-en-nutricion-ucu
   - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
   - licenciatura-en-nutricion-udelar
+  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
+  - tecnico-operador-de-alimentos-udelar
   - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
-  - nutricion-de-rumiantes-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -24,6 +25,8 @@ tags:
   - nutricion
   - salud
   - alimentacion
+  - nutricion-clinica
+  - alimentos
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

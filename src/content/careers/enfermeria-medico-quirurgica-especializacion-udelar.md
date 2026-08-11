@@ -5,8 +5,8 @@ similar:
   - enfermeria-en-nefrologia-especializacion-udelar
   - dermatologia-medico-quirurgica-especializacion-udelar
   - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
+  - ciudados-intensivos-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
-  - licenciatura-en-enfermeria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - enfermeria
+  - cirugia
+  - cuidados
   - medicina
 draft: true
 createdAt: "2026-07-31 16:58:06"

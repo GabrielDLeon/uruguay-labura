@@ -1,10 +1,10 @@
 ---
 title: "Especialización en Promcoión y Educación para la Salud"
 similar:
-  - salud-mental-y-psiquiatria-especializacion-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
-  - tecnicatura-en-salud-ocupacional-udelar
+  - salud-familiar-y-comunitaria-especializacion-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - gestion-de-servicios-de-salud-especializacion-udelar
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -22,8 +22,11 @@ description: "Generar un espacio de formación semi presencial de recursos human
 startDate: ""
 applicationDeadline: ""
 tags:
+  - salud-publica
+  - educacion-para-la-salud
+  - promocion-de-la-salud
   - educacion
-  - salud publica
+  - atencion-comunitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

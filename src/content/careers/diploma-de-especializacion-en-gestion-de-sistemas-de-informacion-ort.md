@@ -3,10 +3,10 @@ title: "Diploma de Especialización en Gestión de Sistemas de Información"
 similar:
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
-  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
-  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - master-en-gestion-de-sistemas-de-informacion-ort
   - sistemas-de-informacion-de-las-organizaciones-maestria-udelar
+  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
+  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma de Especialización en Gestión de Sistemas de Información formar a los estudiantes en la implementación de una arquitectura empresarial consistente"
 tags:
-  - administracion
   - informatica
+  - sistemas-de-informacion
+  - arquitectura-empresarial
+  - gestion-de-proyectos-it
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

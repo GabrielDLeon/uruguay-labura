@@ -1,7 +1,12 @@
 ---
 title: "Postgrado en Transformación Digital y Derecho"
 similar:
-  - postgrado-en-analitica-de-negocios-um
+  - postgrado-en-derecho-administrativo-economico-um
+  - postgrado-en-derecho-contractual-um
+  - postgrado-en-derecho-de-familia-um
+  - postgrado-en-derecho-del-trabajo-aplicado-um
+  - postgrado-en-derecho-penal-economico-um
+  - postgrado-en-derecho-procesal-aplicado-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +22,11 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Transformación Digital y Derecho de la Universidad de Montevideo. Formación sobre el impacto de las nuevas tecnologías y las plataformas digitales en el ejercicio del derecho."
 tags:
-  - transformacion digital
-  - derecho y tecnologia
+  - derecho
+  - derecho-y-tecnologia
   - legaltech
+  - transformacion-digital
+  - derecho-digital
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

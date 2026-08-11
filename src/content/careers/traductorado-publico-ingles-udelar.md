@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 320
 tags:
-  - letras
   - traduccion
+  - idiomas
+  - letras
+  - lengua-inglesa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,6 +2,10 @@
 title: "Maestría en Atención Temprana"
 similar:
   - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - licenciatura-en-psicomotricidad-ucu
+  - neurodesarrollo-especializacion-udelar
+  - pediatria-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -17,10 +21,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Atención Temprana de la UCU. Forma para detectar, prevenir e intervenir en situaciones de riesgo para el desarrollo de niños y niñas de 0 a 6 años, desde el neurodesarrollo, el sistema familiar y el trabajo interdisciplinario."
 tags:
-  - atencion temprana
+  - atencion-temprana
+  - primera-infancia
   - neurodesarrollo
-  - infancia
   - salud
+  - familia
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

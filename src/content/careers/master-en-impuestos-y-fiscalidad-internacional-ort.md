@@ -1,12 +1,12 @@
 ---
 title: "Master en Impuestos y Fiscalidad Internacional"
 similar:
+  - diploma-de-especializacion-en-fiscalidad-internacional-ort
+  - postgrado-en-tributacion-internacional-um
+  - postgrado-en-tributacion-nacional-um
+  - tributaria-especializacion-udelar
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
   - diploma-de-especializacion-en-impuestos-ort
-  - contador-publico-um
-  - maestria-en-finanzas-um
-  - contador-publico-ucu
-  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -22,7 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Impuestos y Fiscalidad Internacional de ORT Uruguay. El Master en Impuestos y Fiscalidad Internacional de ORT brinda una comprensión integral del sistema tributario uruguayo e internacional."
 tags:
-  - finanzas
+  - impuestos
+  - tributacion
+  - tributacion-internacional
+  - derecho-tributario
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

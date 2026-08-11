@@ -2,11 +2,11 @@
 title: "Maestría en Seguridad Informática"
 similar:
   - seguridad-informatica-especializacion-udelar
-  - informatica-pedeciba-doctorado-udelar
   - especializacion-en-ciberseguridad-utec
-  - ingenieria-en-informatica-ucu
-  - licenciatura-en-informatica-ucu
+  - maestria-en-ciberseguridad-y-gestion-de-riesgos-tecnologicos-um
   - analista-en-ciberseguridad-ude
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - analista-en-ingenieria-informatica-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "La Maestría en Investigación de Operaciones se dirige a egresado
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - seguridad-informatica
   - ciberseguridad
   - informatica
+  - seguridad-de-la-informacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

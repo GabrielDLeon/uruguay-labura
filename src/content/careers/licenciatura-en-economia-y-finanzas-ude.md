@@ -3,10 +3,10 @@ title: "Licenciatura en Economía y Finanzas"
 similar:
   - licenciatura-en-finanzas-ucu
   - licenciatura-en-negocios-y-economia-ucu
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - licenciatura-en-economia-ucu
+  - finanzas-especializacion-udelar
   - licenciatura-en-economia-um
-  - maestria-en-economia-um
+  - maestria-en-finanzas-um
+  - licenciatura-en-finanzas-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -24,8 +24,9 @@ description: "Licenciatura en Economía y Finanzas de la Universidad de la Empre
 tags:
   - economia
   - finanzas
-  - evaluacion de proyectos
-  - mercados de capitales
+  - evaluacion-de-proyectos
+  - gestion-de-riesgos
+  - finanzas-corporativas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

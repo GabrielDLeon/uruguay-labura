@@ -3,10 +3,10 @@ title: "Doctorado en Salud Animal"
 similar:
   - produccion-animal-doctorado-udelar
   - salud-animal-maestria-udelar
+  - tecnico-en-ciencias-veterinarias-ude
   - maestria-en-salud-publica-ude
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - produccion-animal-maestria-udelar
-  - reproduccion-animal-maestria-udelar
+  - tecnico-asistente-veterinario-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,8 +22,10 @@ description: "Los Estudios de Doctorado constituyen el nivel superior de formaci
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
-  - salud publica
+  - salud-animal
   - veterinaria
+  - medicina-veterinaria-preventiva
+  - epidemiologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

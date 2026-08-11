@@ -2,11 +2,11 @@
 title: "Master en Educación"
 similar:
   - diploma-en-educacion-ort
-  - maestria-en-educacion-ude
   - doctorado-en-educacion-ude
-  - especializacion-en-educacion-superior-tecnologica-profesional-utec
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - psicologia-y-educacion-maestria-udelar
+  - licenciatura-en-educacion-inicial-ucu
+  - licenciatura-en-educacion-ucu
+  - tecnicatura-en-educacion-y-recreacion-ucu
+  - doctorado-en-educacion-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -23,6 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Educación de ORT Uruguay. El Master en Educación brinda una formación actualizada, con las últimas tendencias de la agenda educativa regional e internacional."
 tags:
   - educacion
+  - pedagogia
+  - politicas-educativas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

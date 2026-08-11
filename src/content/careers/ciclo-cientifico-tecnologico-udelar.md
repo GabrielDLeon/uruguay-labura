@@ -1,6 +1,12 @@
 ---
 title: "CIO Científico Tecnológico"
-similar: []
+similar:
+  - ciclo-de-matematica-udelar
+  - licenciatura-en-quimica-udelar
+  - ingenieria-fisica-doctorado-udelar
+  - ingenieria-fisica-maestria-udelar
+  - ciencias-biologicas-doctorado-udelar
+  - ciencias-biologicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"
@@ -17,7 +23,8 @@ description: "El Ciclo Inicial Optativo (CIO) es una nueva propuesta que permite
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias exactas
+  - ciencias-exactas
+  - ciencias-naturales
   - ingenieria
 listable: false
 searchable: true

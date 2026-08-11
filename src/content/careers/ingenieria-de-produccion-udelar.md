@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería de Producción"
 similar:
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-industrial-ucu
+  - ingenieria-industrial-um
   - ingenieria-civil-udelar
+  - tecnologo-industrial-mecanico-udelar
   - ingenieria-fisico-matematica-udelar
-  - ingenieria-de-alimentos-udelar
-  - ingenieria-naval-udelar
-  - ingenieria-fisica-doctorado-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
+  - ingenieria-industrial
   - ingenieria
+  - procesos-industriales
+  - gestion-de-operaciones
   - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"

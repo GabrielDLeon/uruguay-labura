@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Economía"
 similar:
+  - economia-fcs-especializacion-udelar
+  - licenciatura-en-economia-um
   - economia-para-no-economistas-especializacion-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
-  - economia-maestria-fcs-udelar
+  - licenciatura-en-economia-udelar
+  - maestria-en-economia-um
+  - licenciatura-en-economia-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - economia
+  - analisis-economico
+  - politica-economica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

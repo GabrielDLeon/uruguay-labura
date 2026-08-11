@@ -6,7 +6,7 @@ similar:
   - odontologia-udelar
   - odontologia-ucu
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
-  - maestria-en-periodoncia-ucu
+  - odontologia-restauradora-integral-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -25,6 +25,8 @@ applicationDeadline: ""
 credits: 160
 tags:
   - odontologia
+  - asistente-dental
+  - higiene-dental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

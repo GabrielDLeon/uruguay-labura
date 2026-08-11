@@ -4,9 +4,9 @@ similar:
   - ingenieria-electrica-maestria-udelar
   - ingenieria-electrica-ort
   - ingenieria-electrica-doctorado-udelar
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
   - ingenieria-civil-udelar
   - ingenieria-en-sistemas-ort
-  - ingenieria-quimica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,7 +24,9 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
+  - ingenieria-electrica
   - ingenieria
+  - electricidad
   - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"

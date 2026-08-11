@@ -2,11 +2,11 @@
 title: "Técnico en Informática"
 similar:
   - analista-en-tecnologia-informatica-ude
-  - analista-en-informatica-ucu
   - analista-en-ingenieria-informatica-ude
   - licenciatura-en-informatica-um
-  - ingenieria-en-informatica-ude
-  - licenciatura-en-informatica-ude
+  - analista-en-informatica-ucu
+  - tecnologo-en-informatica-utec
+  - informatica-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"

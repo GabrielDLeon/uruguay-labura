@@ -2,11 +2,11 @@
 title: "Diploma de Especialización en Finanzas"
 similar:
   - master-en-direccion-financiera-ort
-  - licenciatura-en-economia-y-finanzas-ude
   - licenciatura-en-finanzas-ucu
   - licenciatura-en-finanzas-um
-  - maestria-en-finanzas-um
-  - postgrado-en-finanzas-corporativas-um
+  - licenciatura-en-finanzas-ort
+  - finanzas-maestria-udelar
+  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Diploma de Especialización en Finanzas de ORT Uruguay. Combina la especialización y actualización en las distintas áreas de las finanzas con la capacidad de desarrollo de habilidades gerenciales."
 tags:
   - finanzas
+  - finanzas-corporativas
+  - inversiones
+  - habilidades-gerenciales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

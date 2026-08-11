@@ -2,11 +2,11 @@
 title: "Especialización en Derecho de Daños"
 similar:
   - derecho-de-danos-maestria-udelar
+  - postgrado-en-derecho-contractual-um
+  - postgrado-en-derecho-de-familia-um
+  - notariado-udelar
   - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - derecho-comercial-especializacion-udelar
-  - derecho-opcion-administrativo-y-gestion-publica-especializacion-udelar
-  - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
-  - derecho-internacional-publico-especializacion-udelar
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
+  - derecho-civil
+  - derecho-de-danos
+  - responsabilidad-civil
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

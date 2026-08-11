@@ -2,11 +2,11 @@
 title: "Master en Gestión de Sistemas de Información"
 similar:
   - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
-  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
-  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
+  - sistemas-de-informacion-de-las-organizaciones-maestria-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
-  - sistemas-de-informacion-de-las-organizaciones-maestria-udelar
+  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
+  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "El Master forma profesionales especializados en liderar procesos de transformación organizacional a través de la incorporación de la tecnología."
 tags:
-  - administracion
   - informatica
+  - sistemas-de-informacion
+  - transformacion-digital
+  - gestion-del-cambio
+  - administracion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

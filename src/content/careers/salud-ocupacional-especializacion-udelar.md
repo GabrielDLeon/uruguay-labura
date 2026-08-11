@@ -2,11 +2,11 @@
 title: "Especialización en Salud Ocupacional"
 similar:
   - tecnicatura-en-salud-ocupacional-udelar
+  - seguridad-y-salud-en-el-trabajo-especializacion-udelar
   - administracion-de-servicios-de-salud-especializacion-udelar
   - investigacion-de-la-salud-con-enfasis-en-perinatologia-especializacion-udelar
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
   - salud-publica-especializacion-udelar
-  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +22,10 @@ description: "Especialización en Salud Ocupacional, dictada por la Facultad de 
 startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
-  - salud publica
+  - salud-publica
+  - salud-ocupacional
+  - medicina-del-trabajo
+  - prevencion-de-riesgos-laborales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

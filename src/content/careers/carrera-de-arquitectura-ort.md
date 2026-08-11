@@ -1,12 +1,12 @@
 ---
 title: "Carrera de Arquitectura"
 similar:
-  - arquitectura-ucu
-  - diploma-de-especializacion-en-arquitectura-sostenible-ort
   - arquitectura-udelar
-  - arquitectura-doctorado-udelar
   - arquitectura-en-madera-especializacion-udelar
+  - arquitectura-ucu
+  - arquitectura-doctorado-udelar
   - arquitectura-maestria-udelar
+  - construccion-de-obras-de-arquitectura-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "carrera"
@@ -22,7 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera de Arquitectura de ORT Uruguay. Estudiar la carrera de Arquitectura en la Universidad ORT Uruguay te aporta una verdadera formación integral, garantizando una inserción laboral exitosa."
 tags:
-  - "arquitectura"
+  - arquitectura
+  - diseno-arquitectonico
+  - construccion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

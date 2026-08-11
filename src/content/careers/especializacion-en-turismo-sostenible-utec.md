@@ -2,10 +2,11 @@
 title: "Especialización en Turismo Sostenible"
 similar:
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - licenciatura-binacional-en-turismo-udelar
   - licenciatura-en-turismo-udelar
+  - administracion-y-economia-del-turismo-maestria-udelar
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - licenciatura-binacional-en-turismo-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"
@@ -23,6 +24,9 @@ location: "Minas - Lavalleja"
 description: "Especialización en Turismo Sostenible de UTEC, en colaboración con la Cátedra UNESCO de Turismo y Desarrollo Económico Sostenible de la ULPGC (España). Formación online para la gestión sostenible de destinos turísticos."
 tags:
   - turismo
+  - gestion-de-destinos
+  - turismo-sostenible
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

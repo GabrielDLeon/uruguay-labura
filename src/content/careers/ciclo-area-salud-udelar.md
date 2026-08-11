@@ -1,12 +1,12 @@
 ---
 title: "CIO Área Salud"
 similar:
-  - salud-animal-doctorado-udelar
-  - maestria-en-gestion-y-salud-publica-ucu
   - maestria-en-salud-publica-ude
-  - administracion-de-servicios-de-salud-especializacion-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
-  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - diploma-en-derecho-de-salud-um
+  - maestria-en-epidemiologia-y-salud-digital-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"
@@ -24,7 +24,9 @@ startDate: ""
 applicationDeadline: ""
 credits: 90
 tags:
-  - salud publica
+  - salud
+  - salud-publica
+  - biologia
 listable: false
 searchable: true
 draft: true

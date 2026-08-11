@@ -2,9 +2,11 @@
 title: "Diploma de Especialización en Recursos Humanos"
 similar:
   - master-en-direccion-de-recursos-humanos-ort
+  - analista-en-recursos-humanos-ude
   - licenciatura-en-recursos-humanos-ude
-  - tecnicatura-en-gestion-de-recursos-naturales-udelar
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
   - licenciatura-en-gestion-de-talento-humano-um
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -20,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Promueve el enfoque estratégico de la gestión de recursos humanos a partir del análisis del entorno y del entendimiento de los objetivos organizacionales."
 tags:
-  - administracion
-  - recursos humanos
+  - recursos-humanos
+  - gestion-de-personas
+  - cultura-organizacional
+  - planificacion-estrategica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

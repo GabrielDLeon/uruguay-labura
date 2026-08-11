@@ -3,10 +3,10 @@ title: "Programa de Posgrado en Agua y Desarrollo Sostenible"
 similar:
   - ingenieria-en-agua-y-desarrollo-sostenible-utec
   - tecnologo-en-agua-y-desarrollo-sostenible-utec
+  - especializacion-en-turismo-sostenible-utec
+  - licenciatura-en-recursos-hidricos-y-riego-udelar
   - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
-  - tecnicatura-en-desarrollo-regional-sustentable-udelar
-  - ingenieria-agroambiental-utec
-  - tecnologo-agroambiental-utec
+  - ingenieria-civil-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "otro"
@@ -23,7 +23,11 @@ accreditation: "UTEC"
 location: "Durazno"
 description: "Programa de Posgrado en Agua y Desarrollo Sostenible de UTEC, en colaboración con IHE Delft Institute for Water Education (bajo auspicio de UNESCO). Comprende cursos individuales, una Especialización en Ingeniería Sanitaria y dos Maestrías."
 tags:
-  - medio ambiente
+  - agua
+  - recursos-hidricos
+  - ingenieria-sanitaria
+  - desarrollo-sostenible
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

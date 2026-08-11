@@ -2,8 +2,8 @@
 title: "Maestría en Historia Económica"
 similar:
   - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
   - maestria-en-historia-um
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
   - historia-udelar
   - historia-politica-maestria-udelar
   - patrimonio-documental-historia-y-gestion-maestria-udelar
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - historia
+  - historia-economica
+  - historia-social
+  - economia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

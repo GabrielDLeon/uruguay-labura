@@ -1,12 +1,12 @@
 ---
 title: "Diploma en Planificación y Gestión Educativa"
 similar:
-  - master-en-gestion-educativa-ort
   - maestria-en-liderazgo-y-gestion-educativa-ucu
+  - master-en-gestion-educativa-ort
+  - gestion-de-instituciones-educativas-especializacion-udelar
+  - diploma-en-innovacion-educativa-ucu
   - licenciatura-en-recreacion-educativa-ucu
   - especializacion-en-tecnologia-educativa-utec
-  - diploma-en-innovacion-educativa-ucu
-  - maestria-en-tecnologia-educativa-utec
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "diplomado"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Diploma en Planificación y Gestión Educativa de ORT Uruguay. Postgrado de un año de duración, que prepara a los egresados para diseñar e instrumentar procesos de planificación y liderazgo."
 tags:
-  - administracion
   - educacion
+  - gestion-educativa
+  - planificacion-estrategica
+  - liderazgo-educativo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

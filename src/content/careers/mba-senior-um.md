@@ -2,11 +2,11 @@
 title: "MBA Senior — Máster en Dirección y Administración de Empresas"
 similar:
   - mba-um
-  - maestria-en-direccion-de-empresas-de-salud-um
-  - maestria-en-direccion-y-administracion-de-empresas-ude
-  - licenciatura-en-administracion-de-empresas-ude
-  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - master-en-administracion-de-empresas-mba-ort
+  - emba-executive-mba-semipresencial-ort
   - gerencia-y-administracion-mba-maestria-udelar
+  - maestria-en-direccion-y-administracion-de-empresas-ude
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -21,9 +21,11 @@ website: "https://www.ieem.edu.uy/mba-senior"
 location: "Montevideo"
 description: "MBA Senior del IEEM, Escuela de Negocios de la Universidad de Montevideo. Versión del MBA Ejecutivo para mayores de 40 años con más de 12 años de experiencia laboral y destacada trayectoria gerencial."
 tags:
-  - mba senior
-  - direccion de empresas
-  - negocios
+  - mba
+  - direccion-de-empresas
+  - administracion-de-empresas
+  - liderazgo
+  - habilidades-gerenciales
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -1,10 +1,10 @@
 ---
 title: "Licenciatura en Comunicación Global"
 similar:
-  - licenciatura-en-comunicacion-udelar
   - maestria-en-comunicacion-organizacional-ucu
-  - licenciatura-en-comunicacion-y-marketing-ucu
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - maestria-en-direccion-de-comunicacion-um
+  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
+  - master-en-direccion-de-comunicacion-y-marketing-ort
   - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
   - doctorado-en-comunicacion-ucu
 institutionName: "Universidad ORT Uruguay"
@@ -24,6 +24,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Los comunicadores globales son ciudadanos del mundo capaces de desarrollar planes estratégicos de comunicación adaptados a diferentes entornos culturales."
 tags:
   - comunicacion
+  - comunicacion-estrategica
+  - relaciones-internacionales
+  - interculturalidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

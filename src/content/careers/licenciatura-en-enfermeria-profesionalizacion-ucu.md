@@ -1,11 +1,11 @@
 ---
 title: "Licenciatura en Enfermería (Profesionalización)"
 similar:
-  - licenciatura-en-enfermeria-ucu
+  - licenciatura-en-enfermeria-udelar
   - licenciatura-en-enfermeria-ude
+  - licenciatura-en-enfermeria-ucu
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
-  - licenciatura-en-enfermeria-udelar
   - enfermeria-en-nefrologia-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
@@ -24,7 +24,8 @@ description: "Licenciatura en Enfermería (Profesionalización) de la UCU, dirig
 tags:
   - enfermeria
   - salud
-  - profesionalizacion
+  - gestion-sanitaria
+  - cuidados
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -2,11 +2,11 @@
 title: "Analista en Publicidad y Comunicación Digital"
 similar:
   - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - analista-en-marketing-ude
+  - licenciatura-en-marketing-ude
+  - licenciatura-en-comunicacion-um
+  - analista-en-marketing-digital-ude
   - analista-en-marketing-digital-y-comercio-electronico-ort
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - licenciatura-en-comunicacion-y-marketing-ucu
-  - master-en-direccion-de-comunicacion-y-marketing-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -24,6 +24,9 @@ description: "Estudiar publicidad en la Universidad ORT Uruguay te brindará una
 tags:
   - comunicacion
   - marketing
+  - publicidad
+  - comunicacion-digital
+  - marketing-digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

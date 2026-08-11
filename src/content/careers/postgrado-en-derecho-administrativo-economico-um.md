@@ -2,6 +2,11 @@
 title: "Postgrado en Derecho Administrativo Económico"
 similar:
   - master-en-derecho-administrativo-economico-um
+  - derecho-opcion-administrativo-y-gestion-publica-especializacion-udelar
+  - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
+  - postgrado-en-derecho-penal-economico-um
+  - postgrado-en-derecho-contractual-um
+  - postgrado-en-derecho-de-familia-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +22,11 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Derecho Administrativo Económico de la Universidad de Montevideo. Formación práctica en normativa, jurisprudencia y doctrina del derecho administrativo económico, para la actividad privada y la función pública."
 tags:
-  - derecho administrativo
-  - derecho economico
-  - funcion publica
+  - derecho
+  - derecho-administrativo
+  - derecho-economico
+  - administracion-publica
+  - funcion-publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

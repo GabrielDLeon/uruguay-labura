@@ -3,11 +3,11 @@ title: "Maestría en Tecnología Educativa"
 short: "Maestría en Tecnología Educativa"
 similar:
   - especializacion-en-tecnologia-educativa-utec
+  - diploma-en-innovacion-educativa-ucu
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - doctorado-en-educacion-ude
   - maestria-en-liderazgo-y-gestion-educativa-ucu
   - master-en-gestion-educativa-ort
-  - diploma-en-innovacion-educativa-ucu
-  - diploma-en-planificacion-y-gestion-educativa-ort
-  - licenciatura-en-recreacion-educativa-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "maestria"
@@ -24,6 +24,10 @@ accreditation: "UTEC"
 description: "Maestría gratuita en Tecnología Educativa de UTEC, en modalidad virtual. Formación para producir conocimiento en tecnología educativa basado en investigación didáctica y pedagógica. Título intermedio de Especialista en Tecnología Educativa."
 tags:
   - educacion
+  - tecnologia-educativa
+  - educacion-virtual
+  - innovacion-educativa
+  - investigacion-educativa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

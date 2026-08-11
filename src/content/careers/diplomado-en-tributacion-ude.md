@@ -2,11 +2,11 @@
 title: "Diplomado en Tributación"
 similar:
   - postgrado-en-tributacion-aplicada-um
+  - postgrado-en-tributacion-internacional-um
   - postgrado-en-tributacion-nacional-um
   - master-en-tributacion-um
-  - postgrado-en-tributacion-internacional-um
-  - postgrado-en-tecnica-tributaria-um
-  - postgrado-en-contabilidad-um
+  - tributaria-especializacion-udelar
+  - tributaria-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -22,9 +22,8 @@ location: "Montevideo, Colonia y Punta del Este"
 description: "Diplomado en Tributación de la Universidad de la Empresa. Plan de actualización tributaria de 64 horas, con enfoque teórico-práctico y análisis de casos reales, en modalidad virtual o presencial."
 tags:
   - tributacion
-  - derecho tributario
+  - derecho-tributario
   - impuestos
-  - actualizacion profesional
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

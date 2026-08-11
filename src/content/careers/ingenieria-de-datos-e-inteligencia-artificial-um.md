@@ -5,8 +5,8 @@ similar:
   - inteligencia-artificial-y-ciencia-de-datos-ucu
   - maestria-en-ciencia-de-datos-um
   - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - master-en-inteligencia-artificial-ort
   - diploma-en-inteligencia-artificial-aplicada-ude
-  - postgrado-en-data-science-y-big-data-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"
@@ -21,10 +21,12 @@ website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/in
 location: "Montevideo"
 description: "Ingeniería de Datos e Inteligencia Artificial de la Universidad de Montevideo. Forma profesionales para diseñar arquitecturas de datos a gran escala, aplicar técnicas de machine learning y protagonizar la transformación digital de las organizaciones."
 tags:
-  - datos
-  - inteligencia artificial
-  - big data
-  - machine learning
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - big-data
+  - machine-learning
+  - transformacion-digital
+  - informatica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

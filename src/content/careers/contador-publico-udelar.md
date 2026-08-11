@@ -1,12 +1,12 @@
 ---
 title: "Contador Público"
 similar:
-  - contador-publico-ort
   - contador-publico-ude
-  - contador-publico-ucu
   - contador-publico-um
-  - licenciatura-en-administracion-udelar
-  - licenciatura-en-economia-udelar
+  - contador-publico-ort
+  - contador-publico-ucu
+  - postgrado-en-tecnica-tributaria-um
+  - tributaria-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
@@ -24,8 +24,12 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - programa-roberto-rocca
   - contabilidad
+  - tributacion
+  - impuestos
+  - asesoramiento-empresarial
+  - peritaje
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

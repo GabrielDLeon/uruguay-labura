@@ -3,10 +3,10 @@ title: "Especialización en Diseño, Cálculo y Construcción de Estructuras de 
 similar:
   - arquitectura-en-madera-especializacion-udelar
   - master-en-edificaciones-en-madera-ort
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
   - construccion-de-obras-de-arquitectura-especializacion-udelar
+  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - ingenieria-civil-ucu
   - construccion-en-obras-de-arquitectura-maestria-udelar
-  - licenciatura-en-diseno-integrado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,9 +22,10 @@ description: "Ofrecer a los alumnos graduados la formación de especialista en e
 startDate: ""
 applicationDeadline: "dgodoy@fing.edu.uy"
 tags:
-  - arquitectura
-  - diseno
-  - ingenieria
+  - estructuras-de-madera
+  - construccion-en-madera
+  - ingenieria-estructural
+  - construccion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

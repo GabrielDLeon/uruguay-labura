@@ -4,6 +4,9 @@ similar:
   - diploma-en-gestion-y-comercializacion-de-granos-ude
   - administracion-de-agronegocios-ude
   - licenciatura-en-gestion-agropecuaria-ude
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - tecnico-en-gestion-comercial-y-ventas-ort
+  - agronomia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -18,10 +21,11 @@ website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/gestion-y-comercializ
 location: "Campus Virtual"
 description: "Posgrado 100% virtual, dictado en convenio con AZ Group, orientado a productores, técnicos y comerciales para profesionalizar la comercialización de granos y demás commodities."
 tags:
-  - commodities
   - agronegocios
-  - comercializacion
+  - commodities
   - granos
+  - comercializacion
+  - gestion-comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

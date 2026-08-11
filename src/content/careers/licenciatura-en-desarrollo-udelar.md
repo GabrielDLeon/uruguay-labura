@@ -4,6 +4,7 @@ similar:
   - tecnicatura-en-desarrollo-regional-sustentable-udelar
   - educacion-y-desarrollo-especializacion-udelar
   - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
+  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
   - desarrollo-rural-sustentable-especializacion-udelar
   - desarrollo-rural-sustentable-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -22,7 +23,10 @@ description: "Esta propuesta tiene por cometido la formación de científicos so
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
+  - desarrollo
+  - desarrollo-territorial
+  - desarrollo-local
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

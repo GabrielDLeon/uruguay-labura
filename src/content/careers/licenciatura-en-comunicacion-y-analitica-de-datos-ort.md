@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación y Analítica de Datos"
 similar:
-  - ciencia-de-datos-aplicada-maestria-udelar
-  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
+  - postgrado-en-analitica-de-negocios-um
   - licenciatura-en-comunicacion-y-marketing-ucu
-  - diploma-de-especializacion-en-analitica-de-big-data-ort
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
-  - ciencia-de-datos-especializacion-udelar
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
+  - licenciatura-en-comunicacion-ort
+  - licenciatura-en-comunicacion-udelar
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,9 +23,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Comunicación y Analítica de Datos de ORT Uruguay. Trabajar en el campo de la comunicación supone creatividad, aprendizaje continuo, profesionalismo y actualización permanente."
 tags:
-  - ciencia de datos
   - comunicacion
-  - informatica
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - comunicacion-de-datos
+  - comunicacion-digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

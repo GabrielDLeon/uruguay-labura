@@ -2,11 +2,11 @@
 title: "Postgrado en Finanzas Corporativas"
 similar:
   - maestria-en-finanzas-um
-  - postgrado-en-ciencia-de-datos-para-finanzas-um
   - licenciatura-en-finanzas-ucu
   - master-en-contabilidad-y-finanzas-ort
   - licenciatura-en-finanzas-um
-  - licenciatura-en-economia-y-finanzas-ude
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - finanzas-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -22,7 +22,9 @@ location: "Montevideo"
 description: "Postgrado en Finanzas Corporativas de la Universidad de Montevideo (UMPE). Brinda nuevas herramientas para el análisis y la planificación económico-financiera de la empresa."
 tags:
   - finanzas
-  - finanzas corporativas
+  - finanzas-corporativas
+  - planificacion-financiera
+  - analisis-financiero
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

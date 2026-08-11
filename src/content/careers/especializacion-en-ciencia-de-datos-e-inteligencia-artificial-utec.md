@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Ciencia de Datos e Inteligencia Artificial"
 similar:
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - ingenieria-de-datos-e-inteligencia-artificial-um
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
-  - maestria-en-robotica-e-inteligencia-artificial-utec
-  - postgrado-en-ciencia-de-datos-para-finanzas-um
   - maestria-en-ciencia-de-datos-um
-  - especializacion-en-robotica-e-inteligencia-artificial-utec
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - ciencia-de-datos-especializacion-udelar
+  - diploma-de-especializacion-en-inteligencia-artificial-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"
@@ -22,9 +22,10 @@ contactEmail: "datascience@utec.edu.uy"
 accreditation: "UTEC"
 description: "Especialización en Ciencia de Datos e Inteligencia Artificial de UTEC en colaboración con el MIT. Posgrado semipresencial orientado al análisis de datos, machine learning e IA con abordaje aplicado."
 tags:
-  - ciencia de datos
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - machine-learning
   - informatica
-  - inteligencia artificial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

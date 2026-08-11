@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería en Informática"
 similar:
-  - analista-en-ingenieria-informatica-ude
   - ingenieria-en-informatica-ucu
-  - licenciatura-en-informatica-ude
   - ingenieria-en-informatica-um
-  - analista-en-informatica-ucu
-  - analista-en-tecnologia-informatica-ude
+  - ingenieria-en-computacion-udelar
+  - licenciatura-en-informatica-um
+  - analista-en-ingenieria-informatica-ude
+  - licenciatura-en-informatica-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "ingenieria"
@@ -23,9 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera de grado de 5 años que forma profesionales con fuerte base teórica y científica para el desarrollo y la gestión de proyectos informáticos de mediano y gran porte."
 tags:
   - informatica
-  - ingenieria
   - software
   - programacion
+  - ingenieria
+  - gestion-de-proyectos-it
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

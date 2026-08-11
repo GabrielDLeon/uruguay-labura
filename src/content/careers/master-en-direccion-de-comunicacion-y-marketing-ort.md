@@ -1,12 +1,12 @@
 ---
 title: "Master en Dirección de Comunicación y Marketing"
 similar:
+  - maestria-en-direccion-de-comunicacion-um
   - licenciatura-en-comunicacion-y-marketing-ucu
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
   - maestria-en-marketing-y-direccion-comercial-ude
+  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
-  - master-en-direccion-comercial-y-marketing-ort
-  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -24,6 +24,9 @@ description: "Master en Dirección de Comunicación y Marketing de ORT Uruguay. 
 tags:
   - comunicacion
   - marketing
+  - comunicacion-estrategica
+  - marketing-digital
+  - direccion-de-comunicacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

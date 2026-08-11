@@ -2,7 +2,11 @@
 title: "Maestría en Psicología Forense y Penitenciaria"
 similar:
   - diploma-en-psicologia-forense-y-criminologica-um
-  - master-en-derecho-procesal-y-litigacion-um
+  - maestria-en-ciencias-criminologico-forenses-ude
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
+  - doctorado-en-psicologia-ucu
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -18,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicología Forense y Penitenciaria de la UCU. Forma profesionales del campo jurídico para generar impacto en el asesoramiento, la evaluación y la intervención en el sistema penal juvenil, los juzgados y las prisiones."
 tags:
-  - psicologia forense
-  - psicologia penitenciaria
+  - psicologia
+  - psicologia-forense
+  - psicologia-penitenciaria
+  - criminologia
   - justicia
 draft: true
 createdAt: "2026-08-07 19:13:13"

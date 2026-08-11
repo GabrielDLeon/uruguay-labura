@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Marketing y Dirección Comercial"
 similar:
-  - licenciatura-en-marketing-y-estrategia-comercial-ucu
   - master-en-direccion-comercial-y-marketing-ort
-  - licenciatura-en-marketing-y-direccion-comercial-ort
-  - master-en-direccion-de-comunicacion-y-marketing-ort
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
-  - licenciatura-en-marketing-ude
+  - licenciatura-en-marketing-y-direccion-comercial-ort
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - diploma-de-especializacion-en-marketing-ort
+  - marketing-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
@@ -22,9 +22,10 @@ location: "Montevideo"
 description: "Maestría en Marketing y Dirección Comercial de la Universidad de la Empresa. Desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de marketing integral y la búsqueda de ventajas competitivas desde la dirección comercial."
 tags:
   - marketing
-  - direccion comercial
-  - estrategia comercial
-  - marketing digital
+  - direccion-comercial
+  - estrategia-comercial
+  - marketing-digital
+  - gestion-comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -2,6 +2,11 @@
 title: "Ingeniería Civil"
 similar:
   - ingenieria-civil-ucu
+  - ingenieria-civil-udelar
+  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-estructural-maestria-udelar
+  - ingenieria-en-agua-y-desarrollo-sostenible-utec
+  - analista-en-infraestructura-informatica-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"
@@ -16,10 +21,12 @@ website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/in
 location: "Montevideo"
 description: "Ingeniería Civil de la Universidad de Montevideo. Forma profesionales capaces de diseñar y construir edificios, puentes, obras hidráulicas, vías ferroviarias, aeropuertos y sistemas de tratamiento ambiental, y de dirigir obras y gestionar proyectos."
 tags:
-  - ingenieria civil
+  - ingenieria-civil
   - construccion
   - infraestructura
   - obras
+  - ingenieria-hidraulica
+  - puentes
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

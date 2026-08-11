@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Especialización en Negocios Inmobiliarios"
 similar:
+  - operador-inmobiliario-ort
   - postgrado-en-negocios-ude
   - licenciatura-en-datos-y-negocios-ucu
   - licenciatura-en-negocios-digitales-ort
   - licenciatura-en-ciencia-de-datos-para-negocios-um
-  - licenciatura-en-negocios-internacionales-ucu
-  - licenciatura-en-negocios-y-economia-ucu
+  - licenciatura-en-negocios-digitales-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Postgrado de un año de duración que capacita a profesionales de varias áreas en el análisis, asesoramiento y ejecución de negocios inmobiliarios."
 tags:
   - negocios
+  - negocios-inmobiliarios
+  - inmobiliario
+  - asesoramiento-empresarial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

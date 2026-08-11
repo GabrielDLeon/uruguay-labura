@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Psicología del Deporte y la Actividad Física"
 similar:
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - medicina-del-deporte-especializacion-udelar
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - educacion-fisica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,10 @@ description: "Desarrollar el conocimiento en el área y brindar una formación u
 startDate: ""
 applicationDeadline: "Página web Facultad de Psicología"
 tags:
-  - deporte
   - psicologia
+  - psicologia-del-deporte
+  - deporte
+  - actividad-fisica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

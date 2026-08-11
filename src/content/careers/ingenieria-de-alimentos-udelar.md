@@ -2,11 +2,11 @@
 title: "Ingeniería de Alimentos"
 similar:
   - ingenieria-en-alimentos-ucu
+  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
+  - industria-carnica-especializacion-udelar
+  - tecnico-operador-de-alimentos-udelar
   - ingenieria-fisico-matematica-udelar
   - ingenieria-de-produccion-udelar
-  - tecnico-operador-de-alimentos-udelar
-  - ingenieria-naval-udelar
-  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
+  - ingenieria-en-alimentos
   - alimentos
-  - ingenieria
+  - industria-alimentaria
+  - tecnologia-de-alimentos
   - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"

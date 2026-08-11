@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Rehabilitación Oral"
 similar:
+  - implantologia-oral-especializacion-udelar
+  - prostodoncia-especializacion-udelar
+  - laboratorista-en-odontologia-udelar
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
   - maestria-en-periodoncia-ucu
-  - laboratorista-en-odontologia-udelar
-  - implantologia-oral-especializacion-udelar
-  - maestria-en-ortodoncia-ucu
-  - odontologia-ucu
+  - ciencias-odontologicas-mencion-funcion-craneo-mandibular-y-dolor-orofacial-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,9 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Rehabilitación Oral de la UCU. Forma en prostodoncia, implantología y odontología digital para rehabilitar la salud oral de pacientes adultos según las prácticas y evidencias científicas más recientes."
 tags:
-  - rehabilitacion oral
   - odontologia
+  - rehabilitacion-oral
   - prostodoncia
+  - implantologia
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

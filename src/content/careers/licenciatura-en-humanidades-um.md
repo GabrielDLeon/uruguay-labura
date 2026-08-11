@@ -2,11 +2,11 @@
 title: "Licenciatura en Humanidades"
 similar:
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - dramaturgia-udelar
   - licenciatura-en-filosofia-ucu
-  - licenciatura-en-politica-filosofia-y-economia-um
   - maestria-en-historia-um
   - historia-udelar
-  - historia-economica-maestria-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -24,6 +24,8 @@ tags:
   - humanidades
   - filosofia
   - historia
+  - arte
+  - literatura
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

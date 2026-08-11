@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Trabajo Social"
 similar:
-  - licenciatura-en-trabajo-social-ucu
   - fundamentos-de-trabajo-social-especializacion-udelar
-  - licenciatura-en-trabajo-social-udelar
+  - licenciatura-en-trabajo-social-ucu
   - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - licenciatura-en-trabajo-social-udelar
+  - intervencion-familiar-especializacion-udelar
+  - psicologia-social-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "La Maestría en Trabajo Social se inscribe en el proceso universit
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
-  - trabajo social
+  - trabajo-social
+  - ciencias-sociales
+  - intervencion-social
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

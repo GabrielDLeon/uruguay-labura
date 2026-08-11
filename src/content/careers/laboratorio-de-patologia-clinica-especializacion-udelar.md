@@ -2,6 +2,11 @@
 title: "Especialización en Laboratorio de Patología Clínica"
 similar:
   - licenciatura-en-laboratorio-clinico-udelar
+  - tecnicatura-en-anatomia-patologica-udelar
+  - neurofisiologia-clinica-especializacion-udelar
+  - toxicologia-clinica-especializacion-udelar
+  - anatomia-patologica-especializacion-udelar
+  - anatomia-patologica-pediatrica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,7 +22,10 @@ description: "Especialización en Laboratorio de Patología Clínica, dictada po
 startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
-  - salud
+  - medicina
+  - laboratorio-clinico
+  - patologia
+  - bioquimica-clinica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

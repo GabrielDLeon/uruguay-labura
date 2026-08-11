@@ -3,8 +3,8 @@ title: "Master en Impuestos y Normas de Contabilidad - NIIF"
 similar:
   - diploma-de-especializacion-en-contabilidad-ort
   - maestria-en-contabilidad-y-tecnica-tributaria-um
-  - master-en-contabilidad-y-finanzas-ort
   - postgrado-en-contabilidad-um
+  - diploma-de-especializacion-en-impuestos-ort
   - contador-publico-um
   - master-en-impuestos-y-fiscalidad-internacional-ort
 institutionName: "Universidad ORT Uruguay"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Dirigido a Contadores Públicos interesados en especializarse en contabilidad e impuestos, orientados a funciones gerenciales o de consultoría tributaria."
 tags:
   - contabilidad
+  - impuestos
+  - tributacion
+  - consultoria
   - finanzas
 draft: true
 createdAt: "2026-07-31 16:58:06"

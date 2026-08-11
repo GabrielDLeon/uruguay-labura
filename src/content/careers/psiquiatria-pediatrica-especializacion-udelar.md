@@ -2,11 +2,11 @@
 title: "Especialización en Psiquiatría Pediátrica"
 similar:
   - psiquiatria-especializacion-udelar
+  - salud-mental-y-psiquiatria-especializacion-udelar
   - anatomia-patologica-pediatrica-especializacion-udelar
   - cardiologia-pediatrica-especializacion-udelar
   - cirugia-pediatrica-especializacion-udelar
   - emergentologia-pediatrica-especializacion-udelar
-  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,10 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - psiquiatria
+  - pediatria
+  - salud-mental
+  - ninos-y-adolescentes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

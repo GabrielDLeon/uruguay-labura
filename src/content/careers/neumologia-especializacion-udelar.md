@@ -2,6 +2,11 @@
 title: "Especialización en Neumología"
 similar:
   - neumologia-pediatrica-especializacion-udelar
+  - cirugia-toracica-especializacion-udelar
+  - cardiologia-especializacion-udelar
+  - medicina-interna-especializacion-udelar
+  - nefrologia-especializacion-udelar
+  - reumatologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - neumologia
+  - medicina-interna
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

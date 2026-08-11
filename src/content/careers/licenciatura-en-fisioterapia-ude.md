@@ -2,9 +2,11 @@
 title: "Licenciatura en Fisioterapia"
 similar:
   - licenciatura-en-fisioterapia-ucu
+  - licenciatura-en-fisioterapia-udelar
   - diplomado-en-fisioterapia-en-el-deporte-ude
   - maestria-en-fisioterapia-traumatologica-ucu
-  - licenciatura-en-fisioterapia-udelar
+  - licenciatura-en-psicomotricidad-ucu
+  - licenciatura-en-terapia-ocupacional-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -22,6 +24,7 @@ description: "Licenciatura en Fisioterapia de la UDE. Forma profesionales univer
 tags:
   - fisioterapia
   - rehabilitacion
+  - kinesiologia
   - salud
 draft: true
 createdAt: "2026-08-09 15:12:26"

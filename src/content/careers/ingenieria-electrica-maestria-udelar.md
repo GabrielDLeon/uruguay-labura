@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ingeniería Eléctrica"
 similar:
-  - ingenieria-quimica-maestria-udelar
-  - ingenieria-fisica-maestria-udelar
-  - ingenieria-quimica-doctorado-udelar
   - ingenieria-electrica-udelar
-  - ingenieria-matematica-maestria-udelar
-  - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-electrica-doctorado-udelar
+  - ingenieria-electrica-ort
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-fisica-maestria-udelar
+  - ingenieria-quimica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,9 @@ description: "Son objetivos de esta Maestría promover la profundización y la a
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - ingenieria-electrica
   - ingenieria
+  - electricidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

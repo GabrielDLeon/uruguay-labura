@@ -1,12 +1,12 @@
 ---
 title: "Postgrado en Ciencia de Datos para Finanzas"
 similar:
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - licenciatura-en-ciencia-de-datos-para-negocios-um
-  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - maestria-en-ciencia-de-datos-um
-  - ciencia-de-datos-especializacion-udelar
-  - postgrado-en-finanzas-corporativas-um
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - maestria-en-finanzas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -21,9 +21,11 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-cincia-datos-fina
 location: "Campus Virtual"
 description: "Postgrado en Ciencia de Datos para Finanzas de la Universidad de Montevideo (UMPE). Forma para extraer y analizar grandes volúmenes de datos en el ámbito financiero, con dashboards e inteligencia artificial."
 tags:
-  - ciencia de datos
+  - ciencia-de-datos
   - finanzas
-  - inteligencia artificial
+  - inteligencia-artificial
+  - business-intelligence
+  - big-data
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

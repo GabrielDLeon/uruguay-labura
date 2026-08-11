@@ -3,10 +3,10 @@ title: "Tecnólogo en Sistemas Integrados de Producción Agropecuaria"
 similar:
   - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
   - ciencias-agrarias-maestria-udelar
-  - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - licenciatura-en-recursos-naturales-udelar
   - ingeniero-agronomo-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - agronomia-especializacion-udelar
+  - agronomia-maestria-udelar
+  - tecnico-agropecuario-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -25,6 +25,10 @@ applicationDeadline: ""
 credits: 270
 tags:
   - agronomia
+  - agropecuario
+  - produccion-animal
+  - produccion-vegetal
+  - silvicultura
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

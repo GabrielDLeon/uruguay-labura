@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería Naval"
 similar:
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - ingenieria-de-alimentos-udelar
   - ingenieria-de-produccion-udelar
   - ingenieria-fisico-matematica-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
   - ingenieria-industrial-mecanica-udelar
   - ingenieria-civil-udelar
+  - ingenieria-de-alimentos-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,6 +24,8 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
+  - ingenieria-naval
+  - industria-naval
   - ingenieria
   - programa-roberto-rocca
 draft: true

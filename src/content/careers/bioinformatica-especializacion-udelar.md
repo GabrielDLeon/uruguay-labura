@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Bioinformática"
 similar:
-  - licenciatura-en-bioinformatica-ort
   - bioinformatica-maestria-udelar
+  - licenciatura-en-bioinformatica-ort
+  - ingenieria-matematica-maestria-udelar
+  - ciclo-en-biologia-bioquimica-udelar
   - licenciatura-en-ingenieria-biologica-udelar
-  - ciencias-biologicas-doctorado-udelar
-  - licenciatura-en-biotecnologia-udelar
-  - biotecnologia-doctorado-udelar
+  - optimizacion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,10 @@ description: "La Bioinformática es una aproximación científica netamente mult
 startDate: ""
 applicationDeadline: "Facultad de Ciencias inicia expediente y Facultad de Ingeniería contin"
 tags:
+  - bioinformatica
   - biologia
   - informatica
+  - computacion-cientifica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Química"
 similar:
+  - quimico-udelar
+  - quimica-doctorado-udelar
+  - quimica-maestria-udelar
   - bachiller-en-ciencias-quimicas-udelar
   - licenciatura-en-tecnologias-de-la-quimica-udelar
-  - quimica-doctorado-udelar
-  - quimico-udelar
-  - quimica-maestria-udelar
-  - ingenieria-quimica-doctorado-udelar
+  - ingenieria-quimica-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 320
 tags:
   - quimica
+  - ciencias-exactas
+  - quimica-organica
+  - quimica-analitica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

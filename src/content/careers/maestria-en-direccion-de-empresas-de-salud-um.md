@@ -3,10 +3,10 @@ title: "MDES — Máster en Dirección de Empresas de Salud"
 similar:
   - mba-um
   - mba-senior-um
+  - licenciatura-en-direccion-de-empresas-ucu
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
   - maestria-en-direccion-y-administracion-de-empresas-ude
-  - licenciatura-en-administracion-de-empresas-ude
-  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
-  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - gestion-de-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -22,9 +22,9 @@ location: "Montevideo"
 description: "MDES — Máster en Dirección de Empresas de Salud — del IEEM, Escuela de Negocios de la Universidad de Montevideo. Forma en dirección general y planificación sanitaria para profesionales del sector salud con vocación directiva."
 tags:
   - salud
-  - direccion de empresas
-  - gestion sanitaria
-  - posgrado
+  - direccion-de-empresas
+  - gestion-sanitaria
+  - administracion-de-servicios-de-salud
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

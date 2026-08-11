@@ -2,6 +2,11 @@
 title: "Postgrado en Derecho Procesal Aplicado"
 similar:
   - master-en-derecho-procesal-y-litigacion-um
+  - derecho-procesal-especializacion-udelar
+  - postgrado-en-derecho-penal-economico-um
+  - postgrado-en-derecho-de-familia-um
+  - postgrado-en-derecho-del-trabajo-aplicado-um
+  - postgrado-en-derecho-administrativo-economico-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,7 +22,8 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Derecho Procesal Aplicado de la Universidad de Montevideo. Formación práctica en derecho procesal y litigación para abogados, jueces, fiscales y demás operadores del sistema judicial."
 tags:
-  - derecho procesal
+  - derecho
+  - derecho-procesal
   - litigacion
   - justicia
 draft: true

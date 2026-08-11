@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Finanzas"
 similar:
-  - postgrado-en-finanzas-corporativas-um
   - master-en-contabilidad-y-finanzas-ort
-  - postgrado-en-ciencia-de-datos-para-finanzas-um
-  - finanzas-especializacion-udelar
   - licenciatura-en-finanzas-ort
-  - licenciatura-en-economia-y-finanzas-ude
+  - postgrado-en-business-intelligence-y-data-science-um
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - licenciatura-en-finanzas-ucu
+  - postgrado-en-finanzas-corporativas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -23,8 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Finanzas de la Universidad de Montevideo (UMPE). Forma para posiciones de liderazgo en el área financiera, corporativa y de mercado de capitales, con herramientas de Business Intelligence & Data Science."
 tags:
   - finanzas
-  - posgrado
-  - mercado de capitales
+  - mercado-de-capitales
+  - finanzas-corporativas
+  - ciencia-de-datos
+  - business-intelligence
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

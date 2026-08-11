@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación Empresarial"
 similar:
-  - licenciatura-en-comunicacion-ucu
-  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - licenciatura-en-comunicacion-y-marketing-ucu
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
-  - doctorado-en-comunicacion-ucu
+  - licenciatura-en-comunicacion-ucu
+  - maestria-en-comunicacion-organizacional-ucu
+  - maestria-en-direccion-de-comunicacion-um
+  - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
+  - tecnico-en-relaciones-publicas-y-organizacion-de-eventos-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -24,6 +24,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El comunicador empresarial posee habilidades gerenciales que le permiten planificar e implementar estrategias alineadas a los objetivos de negocio."
 tags:
   - comunicacion
+  - comunicacion-organizacional
+  - comunicacion-corporativa
+  - habilidades-gerenciales
+  - estrategia-de-negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

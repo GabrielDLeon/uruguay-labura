@@ -2,11 +2,11 @@
 title: "Maestría en Manejo Costero Integrado del Cono Sur"
 similar:
   - manejo-costero-integrado-especializacion-udelar
-  - ciencias-ambientales-especializacion-udelar
-  - ingenieria-ambiental-especializacion-udelar
+  - ingenieria-ambiental-maestria-udelar
   - licenciatura-en-gestion-ambiental-udelar
-  - ciencias-ambientales-maestria-udelar
-  - ciencias-ambientales-doctorado-udelar
+  - ingenieria-ambiental-doctorado-udelar
+  - ingenieria-ambiental-especializacion-udelar
+  - ingenieria-ambiental-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,11 @@ description: "El Programa de Posgrado en Manejo Costero Integrado del Cono Sur (
 startDate: ""
 applicationDeadline: ""
 tags:
-  - medio ambiente
+  - manejo-costero
+  - medio-ambiente
+  - ciencias-del-mar
+  - gestion-ambiental
+  - ciencias-sociales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

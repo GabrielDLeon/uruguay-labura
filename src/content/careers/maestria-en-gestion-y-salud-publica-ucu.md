@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Gestión y Salud Pública"
 similar:
-  - maestria-en-salud-publica-ude
   - salud-publica-especializacion-udelar
+  - maestria-en-salud-publica-ude
   - gestion-de-servicios-de-salud-maestria-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
-  - licenciatura-en-direccion-de-empresas-ucu
+  - administracion-de-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,9 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Gestión y Salud Pública de la UCU. Forma para diseñar, ejecutar y evaluar planes que impulsen mejoras en los distintos ámbitos de la salud a nivel local y regional."
 tags:
-  - salud publica
+  - salud-publica
   - gestion
-  - politicas de salud
+  - gestion-sanitaria
+  - politicas-de-salud
   - liderazgo
 draft: true
 createdAt: "2026-08-07 19:13:13"

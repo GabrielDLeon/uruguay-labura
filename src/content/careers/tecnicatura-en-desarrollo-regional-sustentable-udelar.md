@@ -2,11 +2,11 @@
 title: "Tecnicatura en Desarrollo Regional Sustentable"
 similar:
   - licenciatura-en-desarrollo-udelar
+  - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
   - desarrollo-rural-sustentable-especializacion-udelar
   - desarrollo-rural-sustentable-maestria-udelar
-  - educacion-y-desarrollo-especializacion-udelar
+  - maestria-en-gestion-ambiental-ude
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -24,8 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 270
 tags:
-  - ciencias sociales
-  - medio ambiente
+  - ciencias-sociales
+  - desarrollo-local
+  - desarrollo-territorial
+  - sostenibilidad
+  - medio-ambiente
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

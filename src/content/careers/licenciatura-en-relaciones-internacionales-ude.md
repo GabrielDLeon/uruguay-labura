@@ -2,11 +2,11 @@
 title: "Licenciatura en Relaciones Internacionales"
 similar:
   - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
-  - licenciatura-en-negocios-internacionales-um
-  - abogacia-ude
-  - escribania-ude
-  - licenciado-en-comercio-exterior-ude
-  - abogacia-ucu
+  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
+  - licenciatura-en-estudios-internacionales-ort
+  - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
+  - licenciatura-en-relaciones-internacionales-udelar
+  - licenciatura-en-negocios-internacionales-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -22,10 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Relaciones Internacionales de la Universidad de la Empresa (UDE). Forma profesionales para desempeñarse en el ámbito público nacional e internacional, en organismos internacionales y en el sector privado."
 tags:
-  - relaciones internacionales
+  - relaciones-internacionales
   - diplomacia
-  - comercio exterior
-  - ciencias juridicas
+  - comercio-exterior
+  - derecho-internacional
+  - ciencias-juridicas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

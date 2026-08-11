@@ -2,11 +2,11 @@
 title: "Maestría en Derecho Internacional Público"
 similar:
   - derecho-internacional-publico-especializacion-udelar
-  - derecho-comercial-especializacion-udelar
-  - derecho-orientancion-derecho-comercial-maestria-udelar
-  - derecho-doctorado-udelar
-  - derecho-procesal-especializacion-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - postgrado-internacional-en-derecho-de-seguros-um
+  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
+  - derecho-internacional
+  - derecho-internacional-publico
+  - derechos-humanos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

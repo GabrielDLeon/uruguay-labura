@@ -3,10 +3,10 @@ title: "Técnico en Relaciones Públicas y Organización de Eventos"
 similar:
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - licenciatura-en-comunicacion-global-ort
-  - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
-  - licenciatura-en-comunicacion-y-marketing-ucu
-  - master-en-creatividad-innovacion-y-comunicacion-ort
+  - licenciatura-en-comunicacion-ucu
+  - maestria-en-comunicacion-organizacional-ucu
+  - maestria-en-direccion-de-comunicacion-um
+  - licenciatura-en-comunicacion-empresarial-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Las Relaciones Públicas y la producción de eventos cobran cada vez más peso en las estrategias globales de las empresas, fundaciones, ONG y emprendimientos."
 tags:
   - comunicacion
+  - relaciones-publicas
+  - eventos
+  - comunicacion-organizacional
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

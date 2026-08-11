@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Epidemiologia"
 similar:
+  - maestria-en-epidemiologia-y-salud-digital-ucu
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
+  - salud-publica-especializacion-udelar
+  - maestria-en-salud-publica-ude
   - administracion-de-servicios-de-salud-especializacion-udelar
   - investigacion-de-la-salud-con-enfasis-en-perinatologia-especializacion-udelar
-  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
-  - salud-ocupacional-especializacion-udelar
-  - salud-publica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +22,9 @@ description: "Especialización en Epidemiologia, dictada por la Facultad de Medi
 startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
-  - salud publica
+  - salud-publica
+  - epidemiologia
+  - bioestadistica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

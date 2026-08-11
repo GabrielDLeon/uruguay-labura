@@ -1,10 +1,10 @@
 ---
 title: "Odontología"
 similar:
-  - medicina-ucu
-  - maestria-en-ortodoncia-ucu
   - odontologia-udelar
   - laboratorista-en-odontologia-udelar
+  - maestria-en-ortodoncia-ucu
+  - ciencias-odontologicas-doctorado-udelar
   - asistente-en-odontologia-udelar
   - higienista-en-odontologia-udelar
 institutionName: "Universidad Católica del Uruguay"

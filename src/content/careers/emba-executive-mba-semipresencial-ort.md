@@ -2,7 +2,11 @@
 title: "EMBA, Executive MBA semipresencial"
 similar:
   - master-en-administracion-de-empresas-mba-ort
+  - mba-um
+  - mba-senior-um
   - gerencia-y-administracion-mba-maestria-udelar
+  - transformacion-organizacional-especializacion-udelar
+  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -19,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "EMBA, Executive MBA semipresencial de ORT Uruguay. El MBA semipresencial de Uruguay que se adapta a tus necesidades horarias, laborales, geográficas, de tiempo y de desarrollo profesional."
 tags:
   - administracion
+  - mba
+  - direccion-de-empresas
+  - habilidades-gerenciales
+  - liderazgo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

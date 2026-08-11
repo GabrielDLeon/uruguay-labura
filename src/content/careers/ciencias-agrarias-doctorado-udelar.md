@@ -4,9 +4,9 @@ similar:
   - ciencias-agrarias-maestria-udelar
   - agronomia-especializacion-udelar
   - agronomia-maestria-udelar
-  - desarrollo-rural-sustentable-especializacion-udelar
-  - desarrollo-rural-sustentable-maestria-udelar
-  - industria-carnica-especializacion-udelar
+  - ingeniero-agronomo-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - tecnico-en-ciencias-veterinarias-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Unidad de Posgrados y Educación Permanente - Facultad de Agronomía"
 tags:
   - agronomia
+  - produccion-animal
+  - produccion-vegetal
+  - medio-ambiente
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

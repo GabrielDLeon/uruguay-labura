@@ -1,6 +1,9 @@
 ---
 title: "Instructor de Equitación Terapéutica"
-similar: []
+similar:
+  - tecnologo-en-produccion-equina-udelar
+  - tecnico-asistente-veterinario-ude
+  - tecnico-en-gestion-de-equinos-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -15,9 +18,10 @@ website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/instructor-de-equitac
 location: "Montevideo"
 description: "Formación técnica presencial que capacita profesionales en el uso del caballo como herramienta terapéutica y educativa, y en el desarrollo y gestión de centros de terapia ecuestre."
 tags:
-  - equitacion
   - equinoterapia
-  - bienestar y salud
+  - equitacion
+  - equinos
+  - salud
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

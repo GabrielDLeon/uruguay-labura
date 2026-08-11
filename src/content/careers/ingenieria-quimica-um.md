@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería Química"
 similar:
+  - ingenieria-quimica-doctorado-udelar
+  - ingenieria-quimica-maestria-udelar
+  - ingenieria-quimica-udelar
   - ingenieria-industrial-um
-  - ingenieria-en-sistemas-electricos-de-potencia-ucu
-  - ingenieria-en-energias-renovables-utec
-  - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-de-la-energia-doctorado-udelar
+  - ingenieria-industrial-ucu
+  - ingenieria-de-celulosa-y-papel-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"
@@ -21,8 +21,9 @@ website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/in
 location: "Montevideo"
 description: "Ingeniería Química de la Universidad de Montevideo. Nueva carrera de FIUM que comienza en marzo de 2027 y forma profesionales para diseñar, transformar y optimizar los procesos industriales de los sectores estratégicos de Uruguay."
 tags:
-  - ingenieria quimica
-  - procesos industriales
+  - ingenieria-quimica
+  - quimica
+  - procesos-industriales
   - agroindustria
   - energia
 draft: true

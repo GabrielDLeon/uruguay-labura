@@ -2,9 +2,11 @@
 title: "Maestría en Neuropsicología del Desarrollo y Aprendizaje"
 similar:
   - maestria-en-atencion-temprana-ucu
-  - maestria-en-curriculum-y-aprendizaje-ucu
+  - dificultades-de-aprendizaje-especializacion-udelar
   - licenciatura-en-psicopedagogia-semipresencial-ucu
   - licenciatura-en-psicopedagogia-ucu
+  - licenciatura-en-psicomotricidad-ucu
+  - maestria-en-curriculum-y-aprendizaje-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,6 +24,7 @@ description: "Maestría en Neuropsicología del Desarrollo y Aprendizaje de la U
 tags:
   - neuropsicologia
   - neurodesarrollo
+  - dificultades-de-aprendizaje
   - aprendizaje
   - salud
 draft: true

@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Penalidad Juvenil"
 similar:
+  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
-  - abogacia-ude
-  - escribania-ude
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
-  - derecho-internacional-publico-especializacion-udelar
+  - postgrado-en-derecho-penal-economico-um
+  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
+  - maestria-en-ciencias-criminologico-forenses-ude
+  - abogacia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ description: "Contribuir al tratamiento académico de la penalidad juvenil y a l
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
   - derecho
+  - derecho-penal
+  - ninos-y-adolescentes
+  - justicia-juvenil
+  - ciencias-sociales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

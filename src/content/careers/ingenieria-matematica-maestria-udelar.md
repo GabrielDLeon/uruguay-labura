@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ingeniería Matemática"
 similar:
-  - ingenieria-electrica-maestria-udelar
-  - ingenieria-fisica-maestria-udelar
-  - ingenieria-quimica-maestria-udelar
-  - ingenieria-quimica-doctorado-udelar
   - ingenieria-fisico-matematica-udelar
   - licenciatura-en-matematica-udelar
+  - ingenieria-fisica-maestria-udelar
+  - matematica-maestria-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - ingenieria-quimica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,9 @@ description: "Son objetivos de esta Maestría promover la profundización y la a
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - ingenieria
   - matematica
+  - ingenieria
+  - computacion-cientifica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

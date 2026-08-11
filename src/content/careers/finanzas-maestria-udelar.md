@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Finanzas"
 similar:
-  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
-  - finanzas-especializacion-udelar
+  - licenciatura-en-finanzas-ort
+  - licenciatura-en-finanzas-ucu
   - maestria-en-finanzas-um
   - master-en-contabilidad-y-finanzas-ort
   - diploma-de-especializacion-en-finanzas-ort
-  - licenciatura-en-economia-y-finanzas-ude
+  - licenciatura-en-finanzas-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - finanzas
+  - finanzas-corporativas
+  - inversiones
+  - mercado-de-capitales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

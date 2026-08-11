@@ -3,8 +3,10 @@ title: "Maestría en Psicología Clínica - Opción Niños y Adolescentes"
 similar:
   - maestria-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
   - especialista-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
+  - psicologia-clinica-maestria-udelar
   - maestria-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
   - especialista-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -20,9 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicología Clínica - Opción Niños y Adolescentes de la UCU. Capacita en habilidades clínicas para la atención de niños y adolescentes en centros de salud, ONG o atención privada, con entrevistas filmadas y supervisadas."
 tags:
-  - psicologia clinica
-  - ninos
-  - adolescentes
+  - psicologia
+  - psicologia-clinica
+  - psicoterapia
+  - ninos-y-adolescentes
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

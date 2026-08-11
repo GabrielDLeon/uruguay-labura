@@ -1,7 +1,12 @@
 ---
 title: "Licenciatura en Relaciones Laborales"
 similar:
+  - postgrado-en-derecho-del-trabajo-aplicado-um
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
+  - licenciatura-en-recursos-humanos-ude
   - licenciatura-en-relaciones-internacionales-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -19,7 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 320
 tags:
-  - ciencias sociales
+  - relaciones-laborales
+  - derecho-laboral
+  - recursos-humanos
+  - sindicatos
+  - ciencias-sociales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

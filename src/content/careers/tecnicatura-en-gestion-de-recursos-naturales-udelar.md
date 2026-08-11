@@ -2,11 +2,11 @@
 title: "Tecnicatura en Gestión de Recursos Naturales"
 similar:
   - licenciatura-en-recursos-naturales-udelar
-  - licenciatura-en-gestion-agropecuaria-ude
   - licenciatura-en-gestion-ambiental-udelar
-  - ciencias-agrarias-maestria-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
+  - tecnologo-agroambiental-utec
+  - maestria-en-gestion-ambiental-ude
+  - tecnicatura-en-desarrollo-regional-sustentable-udelar
+  - ingenieria-agroambiental-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 195
 tags:
-  - administracion
-  - agronomia
+  - recursos-naturales
+  - gestion-ambiental
+  - medio-ambiente
+  - desarrollo-local
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

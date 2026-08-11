@@ -1,12 +1,12 @@
 ---
 title: "Contador Público"
 similar:
+  - licenciatura-en-recursos-humanos-ude
   - contador-publico-ucu
   - contador-publico-um
-  - contador-publico-ort
-  - postgrado-en-gestion-contable-um
   - contador-publico-udelar
-  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - postgrado-en-gestion-contable-um
+  - contador-publico-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "carrera"
@@ -22,10 +22,11 @@ location: "Montevideo, Punta del Este y Colonia"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Contador Público de la Universidad de la Empresa. Forma profesionales con dominio teórico-práctico de la normativa, la gestión y la planificación de los recursos económicos de la empresa, capaces de apoyar la toma de decisiones y de ejecutar, supervisar y controlar las áreas contable, tributaria y de sistemas de información."
 tags:
-  - contaduria
   - contabilidad
-  - tributaria
+  - tributacion
   - auditoria
+  - impuestos
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

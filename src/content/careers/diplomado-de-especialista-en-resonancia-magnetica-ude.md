@@ -2,8 +2,11 @@
 title: "Diplomado de Especialista en Resonancia Magnética"
 similar:
   - diplomado-tomografia-computada-multicorte-ude
+  - licenciatura-en-imagenologia-udelar
   - licenciatura-en-imagenologia-ude
-  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - imagenologia-especializacion-udelar
+  - ecografia-gineco-obstetrica-especializacion-udelar
+  - medicina-nuclear-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -18,9 +21,9 @@ website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-de-espec
 location: "Montevideo"
 description: "Diplomado virtual de la UDE que forma especialistas en Resonancia Magnética (MRI), desarrollando la capacidad del Licenciado en Imagenología para aplicar las técnicas, protocolos y procesamiento de la imagen por resonancia."
 tags:
-  - resonancia magnetica
   - imagenologia
-  - diagnostico por imagenes
+  - resonancia-magnetica
+  - diagnostico-por-imagenes
   - salud
 draft: true
 createdAt: "2026-08-09 15:12:26"

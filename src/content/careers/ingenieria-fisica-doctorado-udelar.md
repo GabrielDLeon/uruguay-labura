@@ -3,9 +3,9 @@ title: "Doctorado en Ingeniería Física"
 similar:
   - ingenieria-fisica-maestria-udelar
   - fisica-doctorado-udelar
-  - ingenieria-de-la-energia-doctorado-udelar
-  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
-  - ingenieria-estructural-doctorado-udelar
+  - licenciatura-en-fisica-udelar
+  - fisica-maestria-udelar
+  - fisica-especializacion-udelar
   - ingenieria-electrica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -24,6 +24,7 @@ applicationDeadline: "Facultad de Ingeniería"
 tags:
   - fisica
   - ingenieria
+  - ciencias-exactas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

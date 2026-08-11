@@ -5,8 +5,8 @@ similar:
   - quimico-udelar
   - ingenieria-quimica-udelar
   - licenciatura-en-tecnologias-de-la-quimica-udelar
-  - bachiller-en-ciencias-quimicas-udelar
   - licenciatura-en-quimica-udelar
+  - farmacia-hospitalaria-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
+  - quimica-farmaceutica
   - farmacia
   - quimica
+  - farmacologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,7 +1,12 @@
 ---
 title: "Licenciatura en Psicomotricidad"
 similar:
-  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
+  - licenciatura-en-psicomotricidad-udelar
+  - licenciatura-en-fisioterapia-ude
+  - licenciatura-en-terapia-ocupacional-udelar
+  - licenciatura-en-fisioterapia-ucu
+  - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
+  - maestria-en-atencion-temprana-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -19,7 +24,8 @@ description: "Licenciatura en Psicomotricidad de la UCU. Forma profesionales cap
 tags:
   - psicomotricidad
   - salud
-  - desarrollo
+  - neurodesarrollo
+  - rehabilitacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

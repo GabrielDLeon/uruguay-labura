@@ -2,11 +2,11 @@
 title: "Maestría en Sistemas de Información y Tecnologías de Gestión de Datos"
 similar:
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
+  - tecnologo-en-analisis-y-gestion-de-datos-utec
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
-  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
   - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
-  - ciencia-de-datos-especializacion-udelar
-  - sistemas-de-informacion-de-las-organizaciones-maestria-udelar
+  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
+  - master-en-gestion-de-sistemas-de-informacion-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "La Maestría en Sistemas de Información y Tecnologías de Gestió
 startDate: ""
 applicationDeadline: ""
 tags:
-  - administracion
-  - ciencia de datos
+  - sistemas-de-informacion
+  - informatica
+  - ciencia-de-datos
+  - gestion-de-datos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

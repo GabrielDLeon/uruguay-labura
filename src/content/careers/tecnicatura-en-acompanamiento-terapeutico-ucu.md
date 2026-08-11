@@ -1,8 +1,12 @@
 ---
 title: "Tecnicatura en Acompañamiento Terapéutico"
 similar:
-  - licenciatura-en-psicologia-ucu
   - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
+  - licenciatura-en-enfermeria-ude
+  - salud-mental-y-psiquiatria-especializacion-udelar
+  - licenciatura-en-enfermeria-ucu
+  - licenciatura-en-terapia-ocupacional-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "tecnicatura"
@@ -21,6 +25,7 @@ tags:
   - salud-mental
   - acompanamiento-terapeutico
   - salud
+  - cuidados
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

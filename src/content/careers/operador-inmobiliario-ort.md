@@ -2,9 +2,11 @@
 title: "Operador Inmobiliario"
 similar:
   - diploma-de-especializacion-en-negocios-inmobiliarios-ort
+  - tecnico-en-gestion-comercial-y-ventas-ort
+  - analista-en-marketing-ude
   - analista-en-comercio-exterior-ude
   - analista-en-comercio-exterior-ort
-  - tecnico-en-gestion-comercial-y-ventas-ort
+  - tecnico-en-gestion-y-administracion-de-empresas-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -21,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Operador Inmobiliario de ORT Uruguay. Una carrera corta en la que podrás adquirir herramientas teóricas y prácticas para poder desarrollar la actividad inmobiliaria."
 tags:
   - negocios
+  - negocios-inmobiliarios
+  - inmobiliario
+  - ventas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

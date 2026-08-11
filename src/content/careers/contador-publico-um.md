@@ -6,7 +6,7 @@ similar:
   - contador-publico-ort
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
   - contador-publico-udelar
-  - master-en-contabilidad-y-finanzas-ort
+  - contabilidad-y-auditoria-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"
@@ -23,8 +23,9 @@ description: "Contador Público de la Universidad de Montevideo. Forma en contab
 tags:
   - contabilidad
   - auditoria
-  - finanzas
   - impuestos
+  - finanzas
+  - ciencia-de-datos
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

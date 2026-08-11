@@ -1,12 +1,12 @@
 ---
 title: "Analista en Ciberseguridad"
 similar:
-  - especializacion-en-ciberseguridad-utec
-  - analista-en-tecnologia-informatica-ude
   - maestria-en-ciberseguridad-y-gestion-de-riesgos-tecnologicos-um
+  - especializacion-en-ciberseguridad-utec
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
   - seguridad-informatica-especializacion-udelar
-  - analista-en-ingenieria-informatica-ude
-  - analista-en-tecnologias-de-la-informacion-ort
+  - seguridad-informatica-maestria-udelar
+  - analista-en-tecnologia-informatica-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -24,6 +24,9 @@ tags:
   - ciberseguridad
   - seguridad-informatica
   - informatica
+  - pentesting
+  - internet-de-las-cosas
+  - criptografia
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

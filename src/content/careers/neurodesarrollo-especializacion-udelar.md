@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Neurodesarrollo"
-similar: []
+similar:
+  - neuropediatria-especializacion-udelar
+  - neurocirugia-especializacion-udelar
+  - neurofisiologia-clinica-especializacion-udelar
+  - neurologia-especializacion-udelar
+  - anatomia-patologica-pediatrica-especializacion-udelar
+  - cardiologia-pediatrica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - neurodesarrollo
+  - neurologia
+  - pediatria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Ciencia de Datos para Negocios"
 similar:
-  - postgrado-en-ciencia-de-datos-para-finanzas-um
   - maestria-en-ciencia-de-datos-um
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
   - licenciatura-en-datos-y-negocios-ucu
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - ciencia-de-datos-aplicada-maestria-udelar
-  - ciencia-de-datos-especializacion-udelar
+  - postgrado-en-data-science-y-big-data-um
+  - postgrado-en-analitica-de-negocios-um
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -21,10 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/of
 location: "Montevideo"
 description: "Licenciatura en Ciencia de Datos para Negocios de la Universidad de Montevideo, dictada por FCEE y Facultad de Ingeniería. Forma profesionales para analizar grandes volúmenes de datos con base matemática, estadística, tecnológica y gerencial."
 tags:
-  - ciencia de datos
-  - analitica
-  - big data
+  - ciencia-de-datos
+  - big-data
   - negocios
+  - estadistica
+  - analitica-de-negocios
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

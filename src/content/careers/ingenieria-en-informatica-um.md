@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería en Informática"
 similar:
+  - ingenieria-en-informatica-ucu
   - analista-en-informatica-ucu
   - ingenieria-en-informatica-ude
   - licenciatura-en-informatica-um
   - analista-en-ingenieria-informatica-ude
-  - ingenieria-en-informatica-ucu
-  - tecnologo-en-informatica-udelar
+  - ingenieria-de-software-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"
@@ -23,8 +23,9 @@ description: "Ingeniería en Informática de la Universidad de Montevideo. Forma
 tags:
   - informatica
   - programacion
-  - ingenieria de software
-  - tic
+  - ingenieria-de-software
+  - sistemas-de-informacion
+  - gestion-de-proyectos-it
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

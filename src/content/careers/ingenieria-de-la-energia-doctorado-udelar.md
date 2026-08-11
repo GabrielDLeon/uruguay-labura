@@ -2,11 +2,11 @@
 title: "Doctorado en Ingeniería de la Energía"
 similar:
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
-  - ingenieria-estructural-doctorado-udelar
   - ingenieria-de-la-energia-maestria-udelar
   - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-fisica-doctorado-udelar
   - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-en-energias-renovables-utec
+  - ingenieria-electrica-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -24,6 +24,9 @@ applicationDeadline: "Facultad de ingeniería"
 tags:
   - energia
   - ingenieria
+  - generacion-de-energia
+  - energias-renovables
+  - eficiencia-energetica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

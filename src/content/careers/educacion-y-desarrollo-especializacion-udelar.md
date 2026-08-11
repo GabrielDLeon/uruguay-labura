@@ -2,11 +2,11 @@
 title: "Especialización en Educación y Desarrollo"
 similar:
   - educacion-ambiental-maestria-udelar
+  - licenciatura-en-desarrollo-udelar
   - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - tecnicatura-en-desarrollo-regional-sustentable-udelar
-  - tecnicatura-en-educacion-y-recreacion-ucu
   - quimica-orientacion-educacion-en-quimica-doctorado-udelar
+  - quimica-orientacion-educacion-en-quimica-maestria-udelar
+  - desarrollo-rural-sustentable-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,9 @@ description: "Especialización en Educación y Desarrollo, dictada por la Univer
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
   - educacion
+  - desarrollo
+  - ciencias-sociales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

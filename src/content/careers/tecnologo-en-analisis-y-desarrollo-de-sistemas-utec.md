@@ -2,12 +2,12 @@
 title: "Tecnólogo en Análisis y Desarrollo de Sistemas"
 short: "Tecnólogo en Análisis y Desarrollo de Sistemas"
 similar:
+  - licenciatura-en-informatica-um
   - ingenieria-en-sistemas-ort
-  - tecnologo-en-analisis-y-gestion-de-datos-utec
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
-  - licenciatura-en-sistemas-ort
-  - master-en-gestion-de-sistemas-de-informacion-ort
+  - analista-en-informatica-ucu
+  - analista-en-ingenieria-informatica-ude
+  - analista-en-tecnologia-informatica-ude
+  - licenciatura-en-informatica-ude
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -25,6 +25,10 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - informatica
+  - software
+  - programacion
+  - sistemas-de-informacion
+  - analista-funcional
 ---
 
 ## Resumen

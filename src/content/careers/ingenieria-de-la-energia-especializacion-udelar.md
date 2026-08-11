@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Ingeniería de la Energía"
 similar:
+  - ingenieria-de-la-energia-maestria-udelar
+  - ingenieria-de-la-energia-doctorado-udelar
   - ingenieria-de-minas-maestria-udelar
   - ingenieria-de-minas-especializacion-udelar
   - ingenieria-ambiental-especializacion-udelar
-  - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-de-la-energia-doctorado-udelar
-  - ingenieria-electrica-doctorado-udelar
+  - sistemas-electricos-de-potencia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -24,6 +24,9 @@ applicationDeadline: "Facultad de ingeniería"
 tags:
   - energia
   - ingenieria
+  - generacion-de-energia
+  - energias-renovables
+  - eficiencia-energetica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

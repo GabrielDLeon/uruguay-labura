@@ -2,11 +2,11 @@
 title: "Licenciatura en Comunicación Audiovisual y Cinematográfica"
 similar:
   - tecnico-en-realizacion-audiovisual-ort
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
   - licenciatura-en-comunicacion-um
   - licenciatura-en-comunicacion-ucu
   - licenciatura-en-cine-ucu
   - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,8 +23,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "La carrera de Comunicación Audiovisual permite dominar los lenguajes de la producción audiovisual en cine, televisión, documental y publicidad."
 tags:
-  - audiovisual
   - comunicacion
+  - audiovisual
+  - cine
+  - television
+  - publicidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

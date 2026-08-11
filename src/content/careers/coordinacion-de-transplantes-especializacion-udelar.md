@@ -2,6 +2,11 @@
 title: "Especialización en Coordinación de Transplantes"
 similar:
   - bases-inmunogeneticas-de-los-transplantes-especializacion-udelar
+  - banco-de-tejidos-para-trasplantes-especializacion-udelar
+  - transplante-de-progenitores-hematopeyicos-especializacion-udelar
+  - administracion-de-servicios-de-salud-especializacion-udelar
+  - salud-publica-especializacion-udelar
+  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - transplantes
+  - gestion-sanitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

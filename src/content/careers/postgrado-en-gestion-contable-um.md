@@ -3,10 +3,10 @@ title: "Postgrado en Gestión Contable"
 similar:
   - contador-publico-ude
   - postgrado-en-contabilidad-um
-  - postgrado-en-tributacion-aplicada-um
   - maestria-en-contabilidad-y-tecnica-tributaria-um
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
-  - contador-publico-ucu
+  - postgrado-liderazgo-y-toma-de-decisiones-ude
+  - auditoria-especializacion-udelar
+  - contabilidad-y-auditoria-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -22,7 +22,8 @@ location: "Campus Virtual"
 description: "Postgrado en Gestión Contable de la Universidad de Montevideo (UMPE). Profundiza la normativa contable y el análisis de la información contable para la toma de decisiones, en modalidad online."
 tags:
   - contabilidad
-  - gestion contable
+  - gestion-contable
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

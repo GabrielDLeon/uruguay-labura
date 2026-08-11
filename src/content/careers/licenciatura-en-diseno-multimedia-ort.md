@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Diseño Multimedia"
 similar:
-  - licenciatura-en-diseno-de-comunicacion-visual-udelar
-  - licenciatura-en-diseno-de-modas-ort
-  - licenciatura-en-diseno-grafico-ort
-  - licenciatura-en-diseno-industrial-ort
   - diseno-de-interfaces-ort
   - diseno-digital-ort
+  - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
+  - licenciatura-en-diseno-de-comunicacion-visual-udelar
+  - licenciatura-en-artes-digitales-ort
+  - licenciatura-en-animacion-y-videojuegos-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,6 +23,11 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Apps, webs, animaciones, motion graphics, efectos especiales, instalaciones, videomaping, internet de las cosas (IoT), realidad aumentada, realidad virtual."
 tags:
   - diseno
+  - diseno-digital
+  - multimedia
+  - animacion
+  - realidad-aumentada
+  - realidad-virtual
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

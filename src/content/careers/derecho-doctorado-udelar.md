@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Derecho"
 similar:
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - llm-master-en-derecho-um
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - derecho-orientancion-derecho-comercial-maestria-udelar
-  - derecho-procesal-especializacion-udelar
-  - notariado-udelar
   - derecho-internacional-publico-especializacion-udelar
+  - derecho-internacional-publico-maestria-udelar
+  - abogacia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: "posgrado@fder.edu.uy"
 tags:
   - derecho
+  - ciencias-juridicas
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

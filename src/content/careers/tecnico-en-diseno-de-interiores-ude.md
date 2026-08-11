@@ -1,12 +1,12 @@
 ---
 title: "Técnico en Diseño de Interiores"
 similar:
+  - tecnico-en-diseno-de-interiores-ort
+  - licenciatura-en-diseno-de-interiores-ort
   - disenador-de-interiores-ude
-  - tecnico-en-diseno-grafico-ude
   - tecnicatura-en-diseno-de-indumentaria-ude
-  - licenciatura-en-diseno-grafico-ude
-  - licenciatura-en-diseno-de-indumentaria-ude
-  - licenciatura-en-diseno-industrial-ude
+  - tecnico-en-diseno-grafico-ude
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -21,9 +21,10 @@ website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/tecnico-en-diseno
 location: "Montevideo, Punta del Este"
 description: "Técnico en Diseño de Interiores de la UDE. Formación técnica de 2 años que combina las técnicas tradicionales del interiorismo con las tecnologías de la comunicación, con rápida inserción laboral."
 tags:
-  - diseño
-  - interiores
+  - diseno
   - interiorismo
+  - diseno-de-interiores
+  - diseno-de-espacios
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

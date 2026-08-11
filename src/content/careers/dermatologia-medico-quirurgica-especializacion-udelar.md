@@ -4,6 +4,9 @@ similar:
   - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
   - enfermeria-medico-quirurgica-especializacion-udelar
   - licenciatura-en-instrumentacion-quirurgica-udelar
+  - angiologia-y-cirugia-vascular-especializacion-udelar
+  - cirugia-cardiaca-especializacion-udelar
+  - cirugia-general-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -20,6 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - dermatologia
+  - cirugia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

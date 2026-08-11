@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Derechos de la Infancia y Políticas Públicas"
 similar:
-  - genero-y-politicas-publicas-especializacion-udelar
   - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - afrodescendencia-y-politicas-publicas-especializacion-udelar
+  - genero-y-politicas-publicas-especializacion-udelar
   - jovenes-juventud-y-politicas-publicas-especializacion-udelar
+  - maestria-en-politicas-publicas-ucu
   - maestria-y-en-politicas-publicas-maestria-udelar
-  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ description: "OBJETIVO GENERAL Contribuir desde el ámbito académico a la forma
 startDate: ""
 applicationDeadline: "Formulario web de Facultad de Psicología."
 tags:
-  - ciencias sociales
+  - ciencias-sociales
   - derecho
+  - politicas-publicas
+  - derechos-humanos
+  - ninos-y-adolescentes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

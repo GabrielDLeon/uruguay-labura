@@ -2,11 +2,11 @@
 title: "Especialización en Administración de Servicios de Salud"
 similar:
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
-  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
   - gestion-de-servicios-de-salud-maestria-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - salud-publica-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
-  - investigacion-de-la-salud-con-enfasis-en-perinatologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - administracion
-  - salud publica
+  - salud-publica
+  - gestion-sanitaria
+  - gestion-de-salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

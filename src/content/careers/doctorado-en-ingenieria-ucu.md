@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Ingeniería"
 similar:
-  - doctorado-en-comunicacion-ucu
-  - ingenieria-mecanica-doctorado-udelar
+  - master-en-ingenieria-por-investigacion-ort
+  - doctorado-en-ingenieria-ort
   - maestria-en-investigacion-aplicada-a-la-ingenieria-um
   - maestria-en-ciencias-de-la-ingenieria-ucu
-  - doctorado-en-psicologia-ucu
-  - ingenieria-fisica-doctorado-udelar
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-industrial-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "doctorado"
@@ -23,9 +23,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Doctorado en Ingeniería de la UCU. Forma investigadores capaces de afrontar problemas de investigación complejos y generar y desarrollar líneas de investigación propias que contribuyan a solucionar los problemas del entorno."
 tags:
-  - doctorado
   - ingenieria
   - investigacion
+  - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

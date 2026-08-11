@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Artes Escénicas"
-similar: []
+similar:
+  - licenciatura-en-danza-contemporanea-udelar
+  - licenciatura-en-artes-digitales-ort
+  - dramaturgia-udelar
+  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-artes-ceramica-udelar
+  - licenciatura-en-artes-dibujo-y-pintura-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -16,6 +22,7 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Artes Escénicas de la UCU. Forma profesionales en actuación, danza y canto con experiencias prácticas, formación interdisciplinaria y oportunidades internacionales, en el Campus Montevideo."
 tags:
+  - arte
   - artes-escenicas
   - actuacion
   - danza

@@ -1,11 +1,12 @@
 ---
 title: "Magisterio"
 similar:
+  - maestria-en-lengua-inglesa-y-educacion-intercultural-bilingue-um
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
   - profesorado-de-matematica-um
-  - maestria-en-educacion-ude
-  - doctorado-en-educacion-ude
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - diploma-de-postgrado-en-educacion-emocional-um
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
+  - diploma-en-formacion-de-formadores-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "carrera"
@@ -21,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Magisterio de la Universidad de Montevideo. Forma maestros a nivel universitario con prácticas docentes destacadas, habilitada por ANEP y con reconocimiento MEC; opción de especializarse en Lengua Inglesa y Educación Intercultural Bilingüe."
 tags:
-  - magisterio
   - educacion
-  - formacion docente
+  - magisterio
+  - formacion-docente
+  - educacion-primaria
+  - educacion-bilingue
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

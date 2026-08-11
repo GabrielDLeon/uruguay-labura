@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Ciudados Intensivos"
-similar: []
+similar:
+  - enfermeria-en-nefrologia-especializacion-udelar
+  - cuidado-intensivo-de-infancia-y-adolescencia-especializacion-udelar
+  - enfermeria-medico-quirurgica-especializacion-udelar
+  - enfermeria-en-neonatologia-especializacion-udelar
+  - enfermeria-oncologica-especializacion-udelar
+  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -16,7 +22,10 @@ description: "OBJETIVOS GENERALES. • Especializar a Licenciados en Enfermería
 startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
-  - medicina
+  - enfermeria
+  - cuidados-intensivos
+  - medicina-intensiva
+  - cuidados
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

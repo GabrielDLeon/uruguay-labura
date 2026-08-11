@@ -2,7 +2,11 @@
 title: "Maestría en Ciencias Criminológico-Forenses"
 similar:
   - diploma-en-psicologia-forense-y-criminologica-um
-  - postgrado-en-derecho-penal-economico-um
+  - maestria-en-psicologia-forense-y-penitenciaria-ucu
+  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
+  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
+  - psicologia-clinica-maestria-udelar
+  - penalidad-juvenil-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
@@ -18,9 +22,11 @@ location: "Montevideo"
 description: "Maestría en Ciencias Criminológico-Forenses de la Universidad de la Empresa (UDE). Forma especialistas en la comprensión, evaluación y abordaje de la realidad delictiva uruguaya desde una perspectiva criminológica, clínica y forense."
 tags:
   - criminologia
-  - medicina legal
-  - ciencias forenses
-  - derecho penal
+  - ciencias-forenses
+  - psicologia-clinica
+  - psicologia-forense
+  - medicina-legal
+  - derecho-penal
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

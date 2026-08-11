@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Administración"
 similar:
-  - tecnico-en-administracion-udelar
-  - gerencia-y-administracion-mba-maestria-udelar
+  - licenciatura-en-administracion-de-empresas-ude
   - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - maestria-en-direccion-y-administracion-de-empresas-ude
+  - mba-um
+  - tecnico-en-administracion-udelar
   - licenciatura-en-gerencia-y-administracion-ort
-  - licenciatura-en-administracion-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - administracion
+  - direccion-de-empresas
+  - gestion-empresarial
+  - gestion-organizacional
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

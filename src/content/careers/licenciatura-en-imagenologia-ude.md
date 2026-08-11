@@ -1,8 +1,12 @@
 ---
 title: "Licenciatura en Imagenología"
 similar:
+  - licenciatura-en-imagenologia-udelar
+  - imagenologia-especializacion-udelar
   - diplomado-de-especialista-en-resonancia-magnetica-ude
   - diplomado-tomografia-computada-multicorte-ude
+  - licenciatura-en-fisica-medica-udelar
+  - ecografia-gineco-obstetrica-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -19,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Imagenología de la UDE. Forma al profesional universitario responsable de la obtención de las imágenes médicas diagnósticas y de las que guían procedimientos terapéuticos, operando equipamiento especializado con mínima irradiación del paciente."
 tags:
   - imagenologia
-  - diagnostico por imagenes
+  - diagnostico-por-imagenes
   - radiologia
   - salud
 draft: true

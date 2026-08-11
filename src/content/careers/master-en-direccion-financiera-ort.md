@@ -2,11 +2,11 @@
 title: "Master en Dirección Financiera"
 similar:
   - diploma-de-especializacion-en-finanzas-ort
+  - licenciatura-en-finanzas-ucu
+  - licenciatura-en-finanzas-um
+  - licenciatura-en-finanzas-ort
+  - finanzas-maestria-udelar
   - gestion-financiera-en-instituciones-publicas-especializacion-udelar
-  - maestria-en-finanzas-um
-  - postgrado-en-finanzas-corporativas-um
-  - master-en-impuestos-y-normas-de-contabilidad-niif-ort
-  - contador-publico-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Dirección Financiera de ORT Uruguay. La Maestría en Finanzas combina la especialización en las distintas áreas de las finanzas con la capacidad de desarrollo de habilidades gerenciales."
 tags:
   - finanzas
+  - finanzas-corporativas
+  - inversiones
+  - habilidades-gerenciales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

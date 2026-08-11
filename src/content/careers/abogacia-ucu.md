@@ -2,11 +2,11 @@
 title: "Abogacía"
 similar:
   - abogacia-um
-  - abogacia-ude
   - abogacia-udelar
-  - notariado-ucu
-  - escribania-ude
-  - notariado-udelar
+  - abogacia-ude
+  - postgrado-en-transformacion-digital-y-derecho-um
+  - derecho-procesal-especializacion-udelar
+  - master-en-derecho-procesal-y-litigacion-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -23,8 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Abogacía de la Universidad Católica del Uruguay. Forma profesionales capaces de asesorar, prevenir conflictos, mediar, resolver casos, litigar e investigar, con clínicas jurídicas y cursos de derecho y tecnología."
 tags:
   - derecho
-  - abogacia
-  - ciencias juridicas
+  - ciencias-juridicas
+  - litigacion
+  - mediacion
+  - derecho-y-tecnologia
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

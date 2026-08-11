@@ -1,12 +1,12 @@
 ---
 title: "Diploma en Inteligencia Artificial Aplicada"
 similar:
-  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
   - ingenieria-de-datos-e-inteligencia-artificial-um
-  - master-en-inteligencia-artificial-ort
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - master-en-inteligencia-artificial-ort
   - maestria-en-robotica-e-inteligencia-artificial-utec
-  - diploma-de-especializacion-en-inteligencia-artificial-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -21,9 +21,12 @@ website: "https://ude.edu.uy/facultad-de-ingenieria/diploma-en-inteligencia-arti
 location: "Campus Virtual"
 description: "Diplomado virtual de actualización profesional que forma en Data Science, Inteligencia Artificial, Python, DevOps, Cloud Computing y metodologías ágiles."
 tags:
-  - inteligencia-artificial
-  - datos
   - informatica
+  - inteligencia-artificial
+  - ciencia-de-datos
+  - computacion-en-la-nube
+  - devops
+  - metodologias-agiles
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

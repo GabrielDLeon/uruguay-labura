@@ -1,8 +1,12 @@
 ---
 title: "Maestría en Administración Pública"
 similar:
+  - politicas-y-gestion-publica-maestria-udelar
   - maestria-en-politicas-publicas-ucu
-  - master-en-derecho-administrativo-economico-um
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - maestria-en-ciencia-politica-maestria-udelar
+  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
+  - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -18,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Administración Pública de la UCU. Forma para resolver problemas complejos en agencias de gobierno, think tanks, firmas consultoras, organizaciones sociales y empresas, a nivel nacional e internacional."
 tags:
-  - administracion publica
+  - administracion-publica
+  - gestion-publica
   - gobierno
-  - gestion publica
+  - politicas-publicas
+  - sector-publico
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

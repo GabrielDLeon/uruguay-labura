@@ -2,6 +2,9 @@
 title: "Especialización en Geografía"
 similar:
   - licenciatura-en-geografia-udelar
+  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
+  - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
+  - licenciatura-en-gestion-ambiental-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,7 +20,10 @@ description: "Especialización en Geografía, dictada por la Universidad de la R
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - geografia
+  - ciencias-sociales
+  - territorio
+  - ordenamiento-territorial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

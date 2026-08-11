@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Psicología Clínica"
 similar:
-  - doctorado-en-psicologia-ucu
+  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
   - psicologia-social-maestria-udelar
-  - licenciatura-en-psicologia-udelar
   - psicologia-doctorado-udelar
-  - psicologia-y-educacion-maestria-udelar
-  - licenciatura-en-psicologia-um
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Formulario web de Facultad de Psicología."
 tags:
   - psicologia
+  - psicologia-clinica
+  - psicoterapia
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

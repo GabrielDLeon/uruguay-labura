@@ -1,12 +1,12 @@
 ---
 title: "Inteligencia Artificial y Ciencia de Datos"
 similar:
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - ingenieria-de-datos-e-inteligencia-artificial-um
-  - diploma-en-inteligencia-artificial-aplicada-ude
-  - licenciatura-en-datos-y-negocios-ucu
-  - agronomia-ucu
-  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
-  - postgrado-en-analitica-de-negocios-um
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - diploma-de-especializacion-en-inteligencia-artificial-ort
+  - ciencia-de-datos-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -23,8 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Inteligencia Artificial y Ciencia de Datos de la UCU. Forma profesionales capaces de extraer, visualizar, manipular y procesar datos para evaluar, diseñar e implementar soluciones basadas en IA y ciencia de datos."
 tags:
   - inteligencia-artificial
-  - datos
   - ciencia-de-datos
+  - machine-learning
+  - informatica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

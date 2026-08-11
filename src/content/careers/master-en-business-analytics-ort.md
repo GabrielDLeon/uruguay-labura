@@ -2,11 +2,11 @@
 title: "Master en Business Analytics"
 similar:
   - licenciatura-en-business-analytics-ucu
-  - diploma-de-especializacion-en-fiscalidad-internacional-ort
-  - licenciatura-en-negocios-digitales-ort
-  - mba-senior-um
-  - mba-um
+  - postgrado-en-business-intelligence-y-data-science-um
+  - postgrado-en-analitica-de-negocios-um
   - licenciatura-en-datos-y-negocios-ucu
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Business Analytics de ORT Uruguay. En la Escuela de Negocios formamos líderes de datos: profesionales que conectan el rigor analítico con la visión estratégica del negocio."
 tags:
-  - administracion
   - negocios
+  - ciencia-de-datos
+  - analitica-de-negocios
+  - business-intelligence
+  - toma-de-decisiones
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

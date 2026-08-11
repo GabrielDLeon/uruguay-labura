@@ -2,11 +2,11 @@
 title: "Maestría en Biotecnología"
 similar:
   - biotecnologia-doctorado-udelar
-  - licenciatura-en-biotecnologia-ort
   - licenciatura-en-biotecnologia-udelar
+  - licenciatura-en-biotecnologia-ort
   - ingenieria-en-biotecnologia-ort
-  - ciencias-biologicas-doctorado-udelar
-  - bioinformatica-maestria-udelar
+  - licenciatura-en-ingenieria-biologica-udelar
+  - licenciatura-en-bioquimica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,9 @@ description: "El Posgrado de Biotecnología tiene como objetivo la formación de
 startDate: ""
 applicationDeadline: ""
 tags:
+  - biotecnologia
   - biologia
+  - biologia-molecular
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

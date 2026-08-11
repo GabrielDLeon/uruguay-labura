@@ -1,8 +1,12 @@
 ---
 title: "Maestría en Ciencias Nutricionales"
 similar:
-  - maestria-en-nutricion-ucu
-  - nutricion-de-rumiantes-maestria-udelar
+  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
+  - tecnico-operador-de-alimentos-udelar
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - ingenieria-en-alimentos-ucu
+  - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
+  - licenciatura-en-nutricion-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -19,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - nutricion
+  - nutricion-animal
+  - alimentos
+  - ciencia-y-tecnologia-de-alimentos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

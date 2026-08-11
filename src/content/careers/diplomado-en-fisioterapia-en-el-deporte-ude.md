@@ -3,10 +3,10 @@ title: "Diplomado en Fisioterapia en el Deporte"
 similar:
   - licenciatura-en-fisioterapia-ucu
   - licenciatura-en-fisioterapia-ude
-  - maestria-en-fisioterapia-traumatologica-ucu
   - licenciatura-en-fisioterapia-udelar
-  - diplomado-de-especialista-en-resonancia-magnetica-ude
-  - diplomado-tomografia-computada-multicorte-ude
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - medicina-del-deporte-especializacion-udelar
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -23,8 +23,8 @@ description: "Diplomado híbrido de la UDE dirigido a Licenciados en Fisioterapi
 tags:
   - fisioterapia
   - deporte
-  - salud
   - rehabilitacion
+  - medicina-deportiva
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

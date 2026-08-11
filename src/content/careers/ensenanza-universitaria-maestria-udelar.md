@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Enseñanza Universitaria"
 similar:
-  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - ensenanza-universitaria-especializacion-udelar
+  - especializacion-en-educacion-superior-tecnologica-profesional-utec
+  - licenciatura-en-educacion-ucu
   - didactica-para-ensenanza-media-especializacion-udelar
-  - ensenanza-de-lenguas-extranjeras-maestria-udelar
-  - maestria-en-metodologias-activas-de-ensenanza-ucu
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
   - didactica-para-ensenanza-primaria-especializacion-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Facultad de Humanidades"
 tags:
   - educacion
+  - educacion-superior
+  - pedagogia
+  - didactica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -4,10 +4,10 @@ short: "Tecnólogo en Agua y Desarrollo Sostenible"
 similar:
   - ingenieria-en-agua-y-desarrollo-sostenible-utec
   - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
-  - tecnologo-agroambiental-utec
-  - ingenieria-agroambiental-utec
-  - tecnicatura-en-desarrollo-regional-sustentable-udelar
-  - desarrollo-rural-sustentable-especializacion-udelar
+  - licenciatura-en-recursos-hidricos-y-riego-udelar
+  - especializacion-en-turismo-sostenible-utec
+  - hidrologia-subterranea-especializacion-udelar
+  - diploma-de-especializacion-en-arquitectura-sostenible-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -26,7 +26,11 @@ draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
-  - medio ambiente
+  - agua
+  - recursos-hidricos
+  - riego
+  - saneamiento
+  - sostenibilidad
 ---
 
 ## Resumen

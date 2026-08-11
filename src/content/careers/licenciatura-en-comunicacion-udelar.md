@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación"
 similar:
-  - licenciatura-en-comunicacion-global-ort
+  - licenciatura-en-comunicacion-ort
+  - licenciatura-en-ingenieria-de-medios-udelar
+  - informacion-y-comunicacion-maestria-udelar
+  - licenciatura-en-arte-digital-y-electronico-udelar
+  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
   - master-en-creatividad-innovacion-y-comunicacion-ort
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - analista-en-publicidad-y-comunicacion-digital-ort
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - comunicacion
+  - medios
+  - comunicacion-digital
+  - multimedia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

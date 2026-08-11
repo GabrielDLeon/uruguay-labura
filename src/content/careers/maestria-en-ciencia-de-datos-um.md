@@ -3,10 +3,10 @@ title: "Maestría en Ciencia de Datos"
 similar:
   - postgrado-en-data-science-y-big-data-um
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - licenciatura-en-ciencia-de-datos-para-negocios-um
   - ingenieria-de-datos-e-inteligencia-artificial-um
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - postgrado-en-ciencia-de-datos-para-finanzas-um
-  - ciencia-de-datos-aplicada-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -22,10 +22,12 @@ location: "Campus Virtual"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Ciencia de Datos de la Universidad de Montevideo (UMPE), 100% online. Forma en estadística, programación para ciencia de datos, machine learning, big data, deep learning e IA generativa para liderar proyectos de analítica."
 tags:
-  - ciencia de datos
-  - big data
-  - machine learning
-  - posgrado
+  - ciencia-de-datos
+  - machine-learning
+  - big-data
+  - estadistica
+  - inteligencia-artificial
+  - programacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

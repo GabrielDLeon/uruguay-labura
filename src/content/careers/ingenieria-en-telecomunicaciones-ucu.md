@@ -3,10 +3,10 @@ title: "Ingeniería en Telecomunicaciones"
 similar:
   - ingenieria-telematica-um
   - ingenieria-en-telecomunicaciones-ort
-  - ingenieria-en-informatica-ucu
+  - telecomunicaciones-especializacion-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - tecnologo-en-telecomunicaciones-udelar
   - ingenieria-en-informatica-ude
-  - ingenieria-ambiental-ucu
-  - ingenieria-en-electronica-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -25,6 +25,8 @@ tags:
   - telecomunicaciones
   - redes
   - ingenieria
+  - redes-de-datos
+  - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

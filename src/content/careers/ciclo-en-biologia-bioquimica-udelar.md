@@ -2,11 +2,11 @@
 title: "Ciclo en Biología - Bioquímica"
 similar:
   - licenciatura-en-bioquimica-udelar
-  - bachiller-en-ciencias-quimicas-udelar
-  - ingenieria-quimica-udelar
-  - licenciatura-en-tecnologias-de-la-quimica-udelar
-  - licenciatura-en-quimica-udelar
-  - tecnologo-quimico-udelar
+  - licenciatura-biologia-humana-udelar
+  - bioquimico-clinico-udelar
+  - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
+  - bioinformatica-especializacion-udelar
+  - licenciatura-en-ingenieria-biologica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"
@@ -24,6 +24,8 @@ startDate: ""
 applicationDeadline: ""
 credits: 90
 tags:
+  - biologia
+  - bioquimica
   - quimica
 listable: false
 searchable: true

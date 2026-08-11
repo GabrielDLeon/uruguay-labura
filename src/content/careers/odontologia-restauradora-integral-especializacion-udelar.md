@@ -1,9 +1,9 @@
 ---
 title: "Especialización en Odontología Restauradora Integral"
 similar:
-  - cirugia-y-traumatologia-buco-maxilo-facial-especializacion-udelar
   - endodoncia-especializacion-udelar
   - implantologia-oral-especializacion-udelar
+  - cirugia-y-traumatologia-buco-maxilo-facial-especializacion-udelar
   - odontopediatria-especializacion-udelar
   - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
   - periodoncia-especializacion-udelar
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "www.odon.edu.uy"
 tags:
   - odontologia
+  - odontologia-restauradora
+  - rehabilitacion-oral
+  - endodoncia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,7 +1,12 @@
 ---
 title: "Postgrado en Derecho Penal Económico"
 similar:
-  - maestria-en-ciencias-criminologico-forenses-ude
+  - postgrado-en-derecho-administrativo-economico-um
+  - postgrado-en-derecho-procesal-aplicado-um
+  - master-en-derecho-administrativo-economico-um
+  - master-en-derecho-procesal-y-litigacion-um
+  - postgrado-en-derecho-de-familia-um
+  - postgrado-en-derecho-del-trabajo-aplicado-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +22,11 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Derecho Penal Económico de la Universidad de Montevideo. Formación práctica sobre la problemática penal de la actividad económica y empresarial, para abogados, jueces y fiscales."
 tags:
-  - derecho penal
-  - derecho penal economico
+  - derecho
+  - derecho-penal
+  - derecho-penal-economico
   - compliance
+  - derecho-economico
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

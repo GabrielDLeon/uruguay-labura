@@ -1,8 +1,12 @@
 ---
 title: "Especialización en Dificultades de Aprendizaje"
 similar:
-  - maestria-en-curriculum-y-aprendizaje-ucu
-  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - licenciatura-en-psicopedagogia-semipresencial-ucu
+  - licenciatura-en-psicopedagogia-ucu
+  - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
+  - especializacion-en-altas-habilidades-superdotacion-ude
+  - maestria-academica-en-altas-habilidades-superdotacion-ude
+  - maestria-profesional-en-altas-habilidades-superdotacion-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -19,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - educacion
+  - dificultades-de-aprendizaje
+  - psicopedagogia
+  - educacion-especial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

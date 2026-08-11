@@ -3,10 +3,10 @@ title: "Licenciatura en Política, Filosofía y Economía"
 similar:
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
   - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
-  - licenciatura-en-filosofia-ucu
-  - maestria-en-economia-um
   - licenciatura-en-ciencia-politica-ucu
-  - licenciatura-en-economia-um
+  - licenciatura-en-filosofia-ucu
+  - licenciatura-en-economia-ucu
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -21,10 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/of
 location: "Montevideo"
 description: "Licenciatura en Política, Filosofía y Economía de la Universidad de Montevideo, con dirección académica de la FCEE y la Facultad de Humanidades y Educación. Forma para la gestión pública, organismos internacionales y asesoría estratégica."
 tags:
-  - ciencia politica
+  - ciencia-politica
   - filosofia
   - economia
-  - politicas publicas
+  - politicas-publicas
+  - gestion-publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

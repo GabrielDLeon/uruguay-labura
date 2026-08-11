@@ -2,6 +2,8 @@
 title: "Maestría en Cuidados Paliativos"
 similar:
   - maestria-en-cuidados-paliativos-um
+  - cuidados-paliativos-del-adulto-especializacion-udelar
+  - maestria-en-humanizacion-de-la-salud-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -17,10 +19,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Cuidados Paliativos de la UCU. Forma especialistas con enfoque integral, interdisciplinario y centrado en el paciente, combinando teoría y práctica para responder a los desafíos clínicos, éticos y sociales del final de la vida."
 tags:
-  - cuidados paliativos
+  - cuidados-paliativos
   - salud
   - bioetica
-  - final de la vida
+  - final-de-la-vida
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

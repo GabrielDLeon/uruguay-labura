@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ingeniería de Celulosa y Papel"
 similar:
+  - ingenieria-quimica-maestria-udelar
+  - ingenieria-quimica-doctorado-udelar
+  - ingenieria-quimica-udelar
   - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-ambiental-maestria-udelar
-  - ingenieria-de-minas-maestria-udelar
-  - ingenieria-ambiental-especializacion-udelar
-  - ingenieria-de-minas-especializacion-udelar
-  - ingenieria-industrial-ucu
+  - ingenieria-quimica-um
+  - ingenieria-de-produccion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
   - ingenieria
+  - ingenieria-quimica
+  - procesos-industriales
+  - celulosa-y-papel
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

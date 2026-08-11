@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Psicología y Educación"
 similar:
-  - psicologia-clinica-maestria-udelar
-  - doctorado-en-psicologia-ucu
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
   - psicologia-doctorado-udelar
   - psicologia-social-maestria-udelar
+  - psicologia-clinica-maestria-udelar
+  - doctorado-en-psicologia-ucu
   - licenciatura-en-psicologia-um
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ description: "Formar investigadores y especialistas de alto nivel en las líneas
 startDate: ""
 applicationDeadline: "Formulario web de Facultad de Psicología."
 tags:
-  - educacion
   - psicologia
+  - educacion
+  - psicologia-educacional
+  - orientacion-educativa
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

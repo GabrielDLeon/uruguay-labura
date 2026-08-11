@@ -1,7 +1,12 @@
 ---
 title: "Licenciatura en Imagenología"
 similar:
+  - licenciatura-en-imagenologia-ude
+  - licenciatura-en-fisica-medica-udelar
   - imagenologia-especializacion-udelar
+  - diplomado-de-especialista-en-resonancia-magnetica-ude
+  - tecnicatura-en-radioterapia-udelar
+  - diplomado-tomografia-computada-multicorte-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -18,7 +23,11 @@ description: "El licenciado en Imagenología es el profesional universitario cap
 startDate: ""
 applicationDeadline: ""
 tags:
-  - medicina
+  - imagenologia
+  - diagnostico-por-imagenes
+  - radiologia
+  - tecnologia-medica
+  - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -3,10 +3,10 @@ title: "Doctorado en Producción Animal"
 similar:
   - salud-animal-doctorado-udelar
   - produccion-animal-maestria-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - reproduccion-animal-maestria-udelar
-  - salud-animal-maestria-udelar
+  - produccion-animal-ude
+  - nutricion-de-rumiantes-maestria-udelar
   - tecnologo-en-produccion-equina-udelar
+  - reproduccion-animal-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,7 +22,10 @@ description: "Los Estudios de Doctorado constituyen el nivel superior de formaci
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
+  - produccion-animal
   - veterinaria
+  - ganaderia
+  - nutricion-animal
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

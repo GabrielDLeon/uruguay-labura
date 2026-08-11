@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Psicología"
 similar:
-  - licenciatura-en-ciencias-del-comportamiento-ucu
-  - psicologia-clinica-maestria-udelar
+  - psicologia-doctorado-udelar
   - licenciatura-en-psicologia-semipresencial-ucu
   - licenciatura-en-psicologia-ucu
   - licenciatura-en-psicologia-udelar
   - doctorado-en-psicologia-ucu
+  - psicologia-clinica-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -23,8 +23,9 @@ location: "Montevideo"
 description: "Licenciatura en Psicología de la Universidad de Montevideo. Cuatro años, 315 créditos, con psicología basada en evidencia, neurociencias, investigación y datos, y prácticas profesionales supervisadas en cuatro años más uno de posgrado."
 tags:
   - psicologia
-  - salud mental
+  - salud-mental
   - neurociencias
+  - investigacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

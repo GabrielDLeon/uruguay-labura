@@ -4,9 +4,9 @@ similar:
   - gestion-de-servicios-de-salud-maestria-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
   - administracion-de-servicios-de-salud-especializacion-udelar
-  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
   - licenciatura-en-enfermeria-profesionalizacion-ucu
-  - enfermeria-en-neonatologia-especializacion-udelar
+  - maestria-en-gestion-y-salud-publica-ucu
+  - licenciatura-en-enfermeria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -24,7 +24,9 @@ applicationDeadline: ""
 tags:
   - administracion
   - enfermeria
-  - salud publica
+  - gestion-sanitaria
+  - gestion-de-salud
+  - salud-publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

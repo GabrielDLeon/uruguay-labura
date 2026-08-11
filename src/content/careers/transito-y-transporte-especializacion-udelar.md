@@ -1,6 +1,11 @@
 ---
 title: "Especialización en Tránsito y Transporte"
-similar: []
+similar:
+  - ingenieria-estructural-maestria-udelar
+  - ingenieria-en-logistica-utec
+  - licenciatura-en-logistica-ude
+  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-civil-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -16,6 +21,10 @@ description: "El objetivo del Diploma de Especialización en Tránsito y Transpo
 startDate: ""
 applicationDeadline: "Facultad de ingeniería"
 tags:
+  - transporte
+  - transito
+  - ingenieria-civil
+  - vialidad
   - logistica
 draft: true
 createdAt: "2026-07-31 16:58:06"

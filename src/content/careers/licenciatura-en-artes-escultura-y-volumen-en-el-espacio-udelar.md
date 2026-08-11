@@ -1,10 +1,10 @@
 ---
 title: "Licenciatura en Artes - Escultura y Volumen en el Espacio"
 similar:
+  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
   - licenciatura-en-artes-fotografia-udelar
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
-  - licenciatura-en-arte-digital-y-electronico-udelar
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-artes-visuales-ucu
   - licenciatura-en-artes-ceramica-udelar
   - licenciatura-en-artes-dibujo-y-pintura-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -24,6 +24,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arte
+  - escultura
+  - artes-visuales
+  - arte-contemporaneo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

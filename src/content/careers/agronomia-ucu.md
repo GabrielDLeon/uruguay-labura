@@ -1,12 +1,12 @@
 ---
 title: "Agronomía"
 similar:
-  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - agronomia-especializacion-udelar
   - agronomia-maestria-udelar
-  - ingenieria-en-agrimensura-udelar
-  - desarrollo-rural-sustentable-especializacion-udelar
-  - desarrollo-rural-sustentable-maestria-udelar
+  - licenciatura-en-gestion-agropecuaria-ude
+  - tecnico-agropecuario-ude
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - ciencias-agrarias-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -23,9 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Agronomía de la UCU. Forma en ciencias agronómicas, ciencia de datos, negocio y ambiente, con prácticas en estaciones experimentales desde el inicio y un modelo centrado en el estudiante."
 tags:
   - agronomia
-  - agro
-  - ambiente
+  - agropecuario
+  - agronegocios
   - ciencia-de-datos
+  - medio-ambiente
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

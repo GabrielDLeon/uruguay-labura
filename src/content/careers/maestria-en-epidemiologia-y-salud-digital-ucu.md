@@ -1,7 +1,12 @@
 ---
 title: "Maestría en Epidemiología y Salud Digital"
 similar:
+  - epidemiologia-especializacion-udelar
+  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - maestria-en-salud-publica-ude
+  - salud-publica-especializacion-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - salud-mental-y-psiquiatria-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -18,9 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Epidemiología y Salud Digital de la UCU. Capacita en el análisis de datos epidemiológicos con herramientas estadísticas para describir problemas de salud poblacional y generar intervenciones en salud basadas en resultados."
 tags:
   - epidemiologia
-  - salud digital
+  - salud-digital
   - bioestadistica
-  - datos
+  - ciencia-de-datos
+  - salud-publica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

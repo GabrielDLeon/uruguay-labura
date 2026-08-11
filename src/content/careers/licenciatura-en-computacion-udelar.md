@@ -3,10 +3,10 @@ title: "Licenciatura en Computación"
 similar:
   - ingenieria-en-computacion-udelar
   - estudios-avanzados-de-computacion-especializacion-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - tecnicatura-en-desarrollador-de-software-ucu
   - ingenieria-en-computacion-maestria-udelar
-  - licenciatura-en-administracion-udelar
-  - ingenieria-en-sistemas-ort
+  - tecnologo-en-analisis-y-gestion-de-datos-utec
+  - licenciatura-tecnologias-informacion-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - programa-roberto-rocca
   - informatica
+  - programacion
+  - base-de-datos
+  - arquitectura-de-software
+  - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,11 @@
 title: "Licenciatura en Recreación Educativa"
 similar:
   - tecnicatura-en-educacion-y-recreacion-ucu
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
   - maestria-en-liderazgo-y-gestion-educativa-ucu
   - licenciatura-en-educacion-ucu
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
-  - diploma-en-innovacion-educativa-ucu
-  - master-en-gestion-educativa-ort
+  - licenciatura-en-educacion-fisica-rivera-udelar
+  - licenciatura-en-educacion-fisica-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -22,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Recreación Educativa de la UCU. Forma profesionales capaces de diseñar y desarrollar entornos de aprendizaje innovadores a través de experiencias lúdico-recreativas en ámbitos educativos, sociales, comunitarios, culturales y organizacionales."
 tags:
-  - recreacion
   - educacion
+  - recreacion
   - juego
+  - ludica
+  - educacion-comunitaria
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

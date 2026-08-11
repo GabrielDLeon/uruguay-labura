@@ -3,10 +3,10 @@ title: "Maestría en Gestión y Economía del Turismo Sustentable"
 similar:
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - especializacion-en-turismo-sostenible-utec
+  - licenciatura-en-turismo-udelar
+  - licenciatura-binacional-en-turismo-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
-  - economia-y-gestion-bancaria-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,10 +22,12 @@ description: "OBJETIVO La Maestría en Economía y Gestión del Turismo Sustenta
 startDate: ""
 applicationDeadline: ""
 tags:
+  - turismo
   - administracion
   - economia
-  - medio ambiente
-  - turismo
+  - turismo-sostenible
+  - gestion-de-destinos
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

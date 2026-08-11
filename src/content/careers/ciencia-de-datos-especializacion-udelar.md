@@ -2,11 +2,11 @@
 title: "Especialización en Ciencia de Datos"
 similar:
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - ciencia-de-datos-aplicada-maestria-udelar
   - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
-  - postgrado-en-ciencia-de-datos-para-finanzas-um
-  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - maestria-en-ciencia-de-datos-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +22,9 @@ description: "El diploma de Especialización en Ciencia de Datos se dirige a pro
 startDate: ""
 applicationDeadline: "Facultad de Ingenieria"
 tags:
-  - ciencia de datos
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - machine-learning
   - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -2,11 +2,11 @@
 title: "Diseño Gráfico"
 similar:
   - licenciatura-en-diseno-grafico-ort
-  - licenciatura-en-artes-diseno-grafico-udelar
-  - diseno-de-interfaces-ort
+  - tecnico-en-diseno-grafico-ude
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - diseno-y-produccion-de-videojuegos-ort
+  - licenciatura-en-diseno-grafico-ude
+  - licenciatura-en-artes-diseno-grafico-udelar
+  - disenador-grafico-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Diseño Gráfico de ORT Uruguay. Estos profesionales capaces de ofrecer soluciones visuales a problemas específicos en diversos campos como el diseño editorial o el publicitario."
 tags:
   - diseno
+  - diseno-grafico
+  - comunicacion-visual
+  - diseno-editorial
+  - publicidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

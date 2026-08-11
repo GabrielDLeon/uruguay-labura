@@ -3,10 +3,10 @@ title: "Licenciatura en Ciencias Biológicas"
 similar:
   - ciencias-biologicas-doctorado-udelar
   - ciencias-biologicas-maestria-udelar
-  - licenciatura-en-biotecnologia-udelar
-  - licenciatura-en-biotecnologia-ort
-  - licenciatura-en-ingenieria-biologica-udelar
-  - bioinformatica-especializacion-udelar
+  - ciencias-cognitivas-maestria-udelar
+  - licenciatura-en-ciencias-del-comportamiento-ucu
+  - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
+  - ciclo-cientifico-tecnologico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - biologia
+  - ciencias-naturales
+  - biofisica
+  - neurociencias
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

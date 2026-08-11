@@ -3,10 +3,10 @@ title: "Licenciatura en Informática"
 similar:
   - ingenieria-en-informatica-ucu
   - analista-en-informatica-ucu
-  - licenciatura-en-informatica-ude
-  - analista-en-tecnologia-informatica-ude
+  - licenciatura-en-informatica-um
+  - ingenieria-en-informatica-um
   - analista-en-ingenieria-informatica-ude
-  - seguridad-informatica-especializacion-udelar
+  - licenciatura-en-informatica-ude
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -24,6 +24,7 @@ description: "Licenciatura en Informática de la UCU. Forma profesionales capace
 tags:
   - informatica
   - software
+  - sistemas-de-informacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

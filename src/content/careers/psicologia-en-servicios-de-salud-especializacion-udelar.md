@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Psicología en Servicios de Salud"
 similar:
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - salud-familiar-y-comunitaria-especializacion-udelar
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - diploma-en-derecho-de-salud-um
   - administracion-de-servicios-de-salud-especializacion-udelar
-  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
-  - salud-mental-y-psiquiatria-especializacion-udelar
-  - gestion-de-servicios-de-salud-maestria-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,7 +23,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - psicologia
-  - salud publica
+  - salud-publica
+  - atencion-primaria
+  - salud
+  - atencion-comunitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

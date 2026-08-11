@@ -3,7 +3,9 @@ title: "Diplomado Tomografía Computada Multicorte"
 similar:
   - diplomado-de-especialista-en-resonancia-magnetica-ude
   - licenciatura-en-imagenologia-ude
-  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - licenciatura-en-imagenologia-udelar
+  - imagenologia-especializacion-udelar
+  - licenciatura-en-fisica-medica-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -18,7 +20,7 @@ website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-tomograf
 location: "Montevideo"
 description: "Diplomado virtual de Tomografía Computada Multicorte (TCMC) de la UDE, que forma especialistas capaces de comprender las bases físicas del método, reconocer la imagen normal y patológica y obtener estudios complejos."
 tags:
-  - tomografia computada
+  - tomografia-computada
   - imagenologia
   - radiologia
   - salud

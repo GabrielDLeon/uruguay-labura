@@ -4,9 +4,9 @@ similar:
   - tecnico-en-procesos-y-analisis-quimico-utec
   - quimico-udelar
   - bachiller-en-ciencias-quimicas-udelar
-  - tecnologo-quimico-utec
   - licenciatura-en-quimica-udelar
-  - licenciatura-en-bioquimica-udelar
+  - licenciatura-en-tecnologias-de-la-quimica-udelar
+  - tecnologo-quimico-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 270
 tags:
   - quimica
+  - quimica-analitica
+  - microbiologia
+  - control-de-calidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

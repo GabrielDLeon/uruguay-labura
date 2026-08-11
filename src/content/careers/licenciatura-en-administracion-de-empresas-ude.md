@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Administración de Empresas"
 similar:
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
   - maestria-en-direccion-y-administracion-de-empresas-ude
   - mba-um
+  - tecnico-en-gestion-y-administracion-de-empresas-ort
+  - licenciatura-en-gerencia-y-administracion-ort
   - mba-senior-um
-  - maestria-en-direccion-de-empresas-de-salud-um
-  - licenciatura-en-direccion-de-empresas-ucu
-  - licenciatura-en-negocios-y-economia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -22,10 +22,10 @@ location: "Montevideo, Punta del Este y Colonia"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Administración de Empresas de la Universidad de la Empresa. Forma profesionales universitarios con un amplio conocimiento de las técnicas de gestión más modernas, preparados para actuar a nivel ejecutivo y de dirección, con posibilidad de doble titulación internacional con la Universidad de Trento."
 tags:
-  - administracion de empresas
-  - gestion
-  - direccion de empresas
-  - emprendedurismo
+  - administracion
+  - administracion-de-empresas
+  - direccion-de-empresas
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

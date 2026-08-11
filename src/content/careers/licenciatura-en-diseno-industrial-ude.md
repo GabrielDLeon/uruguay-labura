@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Diseño Industrial"
 similar:
-  - licenciatura-en-diseno-de-indumentaria-ude
-  - licenciatura-en-diseno-grafico-ude
-  - tecnicatura-en-diseno-de-indumentaria-ude
-  - tecnico-en-diseno-de-interiores-ude
-  - tecnico-en-diseno-grafico-ude
-  - disenador-de-interiores-ude
+  - licenciatura-en-diseno-industrial-ort
+  - licenciatura-en-diseno-industrial-udelar
+  - proyecto-de-mobiliario-especializacion-udelar
+  - ingenieria-industrial-ucu
+  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
+  - master-en-diseno-estrategico-e-innovacion-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -22,9 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño Industrial de la UDE. Forma profesionales universitarios capaces de actuar en la gestión estratégica, táctica y operativa del diseño y en la elaboración de proyectos, con innovación y aptitud analítica."
 tags:
-  - diseño
-  - diseño industrial
-  - producto
+  - diseno
+  - diseno-industrial
+  - diseno-de-productos
+  - innovacion
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

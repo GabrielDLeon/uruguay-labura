@@ -2,10 +2,10 @@
 title: "MBA — Máster en Dirección y Administración de Empresas"
 similar:
   - mba-senior-um
-  - maestria-en-direccion-de-empresas-de-salud-um
+  - master-en-administracion-de-empresas-mba-ort
+  - emba-executive-mba-semipresencial-ort
   - maestria-en-direccion-y-administracion-de-empresas-ude
   - licenciatura-en-direccion-y-administracion-de-empresas-um
-  - licenciatura-en-direccion-de-empresas-ucu
   - licenciatura-en-administracion-de-empresas-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
@@ -22,9 +22,10 @@ location: "Montevideo"
 description: "MBA del IEEM, Escuela de Negocios de la Universidad de Montevideo. Máster en Dirección y Administración de Empresas con método del caso extendido, coaching y semanas internacionales, con acreditaciones AMBA y EFMD EMBA."
 tags:
   - mba
-  - direccion de empresas
-  - negocios
+  - direccion-de-empresas
+  - administracion
   - liderazgo
+  - gestion-empresarial
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

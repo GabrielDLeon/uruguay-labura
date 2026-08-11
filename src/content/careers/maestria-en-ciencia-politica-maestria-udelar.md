@@ -4,6 +4,9 @@ similar:
   - licenciatura-en-ciencia-politica-udelar
   - licenciatura-en-ciencia-politica-ucu
   - ciencia-politica-doctorado-udelar
+  - politicas-y-gestion-publica-maestria-udelar
+  - postgrado-en-comunicacion-politica-um
+  - maestria-en-administracion-publica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -19,7 +22,11 @@ description: "Están dirigidos a formar profesionales de segundo nivel universit
 startDate: ""
 applicationDeadline: "cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
 tags:
-  - ciencias sociales
+  - ciencia-politica
+  - ciencias-sociales
+  - gobierno
+  - sector-publico
+  - administracion-publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -23,8 +23,9 @@ location: "Montevideo"
 description: "Postgrado en Traducción de la Universidad de Montevideo. 160 horas en un año académico, con materias troncales y orientaciones en traducción audiovisual y jurídico-empresarial, con un enfoque práctico."
 tags:
   - traduccion
+  - idiomas
+  - traduccion-juridica
   - audiovisual
-  - traduccion juridica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -3,10 +3,10 @@ title: "Especialización en Ciencias Humanas: Opción Estudios Agrarios Latinoam
 similar:
   - ciencias-humanas-maestria-udelar
   - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
+  - licenciatura-en-desarrollo-udelar
   - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
   - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
-  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
-  - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
+  - demografia-y-estudios-de-poblacion-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +22,11 @@ description: "Contribuir a la actualización y formación en investigación de p
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - ciencias-sociales
+  - humanidades
+  - agropecuario
+  - estudios-latinoamericanos
+  - desarrollo-territorial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

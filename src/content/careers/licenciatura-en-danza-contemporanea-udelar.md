@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Danza Contemporánea"
 similar:
+  - licenciatura-en-artes-escenicas-ucu
+  - dramaturgia-udelar
+  - licenciatura-en-artes-visuales-ucu
   - gestion-cultural-especializacion-udelar
-  - licenciatura-en-arte-digital-y-electronico-udelar
+  - ciclo-area-social-y-artistica-udelar
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
-  - licenciatura-en-artes-fotografia-udelar
-  - politicas-culturales-maestria-udelar
-  - carnaval-y-patrimonio-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - arte
+  - danza
+  - artes-escenicas
+  - coreografia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

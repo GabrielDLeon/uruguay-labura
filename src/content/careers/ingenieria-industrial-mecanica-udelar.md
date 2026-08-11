@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería Industrial Mecánica"
 similar:
-  - ingenieria-fisico-matematica-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
   - ingenieria-mecanica-doctorado-udelar
   - ingenieria-mecanica-maestria-udelar
-  - ingenieria-naval-udelar
   - ingenieria-de-produccion-udelar
+  - ingenieria-industrial-um
+  - tecnologo-industrial-mecanico-udelar
+  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
+  - ingenieria-industrial
+  - ingenieria-mecanica
   - ingenieria
+  - procesos-industriales
   - programa-roberto-rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"

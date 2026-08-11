@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Salud Pública"
 similar:
+  - salud-publica-especializacion-udelar
   - maestria-en-gestion-y-salud-publica-ucu
   - maestria-en-epidemiologia-y-salud-digital-ucu
-  - salud-publica-especializacion-udelar
-  - salud-mental-maestria-udelar
-  - tecnicatura-en-salud-ocupacional-udelar
+  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - salud-animal-doctorado-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
@@ -22,9 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Salud Pública de la UDE, de naturaleza internacional, orientada al análisis crítico, el entendimiento y la generación de conocimiento original sobre los procesos de salud poblacional."
 tags:
-  - salud publica
+  - salud-publica
   - epidemiologia
-  - politicas de salud
+  - politicas-de-salud
   - salud
 draft: true
 createdAt: "2026-08-09 15:12:26"

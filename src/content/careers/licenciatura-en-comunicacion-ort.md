@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación"
 similar:
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - licenciatura-en-diseno-de-comunicacion-visual-udelar
+  - licenciatura-en-comunicacion-udelar
+  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
+  - informacion-y-comunicacion-maestria-udelar
+  - licenciatura-en-comunicacion-periodistica-y-creacion-de-contenidos-ort
+  - analista-en-publicidad-y-comunicacion-digital-ort
   - licenciatura-en-comunicacion-um
-  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - doctorado-en-comunicacion-ucu
-  - licenciatura-en-comunicacion-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Comunicación de ORT Uruguay. Licenciatura en Comunicación en ORT: 4 años, formación práctica y digital, docentes referentes y proyectos aplicados con foco profesional."
 tags:
   - comunicacion
+  - comunicacion-digital
+  - medios
+  - produccion-de-contenidos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

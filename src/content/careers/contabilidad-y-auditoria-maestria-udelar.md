@@ -2,11 +2,11 @@
 title: "Maestría en Contabilidad y Auditoría"
 similar:
   - auditoria-especializacion-udelar
-  - contabilidad-especializacion-udelar
   - maestria-en-contabilidad-y-tecnica-tributaria-um
   - postgrado-en-contabilidad-um
+  - contador-publico-ucu
+  - contabilidad-especializacion-udelar
   - tecnologo-en-administracion-y-contabilidad-udelar
-  - master-en-contabilidad-y-finanzas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - contabilidad
+  - auditoria
+  - auditoria-de-estados-financieros
+  - gestion-contable
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

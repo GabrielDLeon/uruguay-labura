@@ -2,8 +2,8 @@
 title: "Especialización en Cirugía y Traumatología Buco Maxilo Facial"
 similar:
   - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
-  - endodoncia-especializacion-udelar
   - implantologia-oral-especializacion-udelar
+  - endodoncia-especializacion-udelar
   - odontologia-restauradora-integral-especializacion-udelar
   - odontopediatria-especializacion-udelar
   - periodoncia-especializacion-udelar
@@ -22,8 +22,10 @@ description: "perfeccionar al graduado oposgraduado en el dominio de un tema o �
 startDate: ""
 applicationDeadline: "www.odon.edu.uy"
 tags:
-  - medicina
   - odontologia
+  - cirugia-maxilofacial
+  - cirugia
+  - medicina
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
