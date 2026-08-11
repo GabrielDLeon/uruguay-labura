@@ -2,11 +2,11 @@
 title: "Licenciatura en Marketing"
 similar:
   - analista-en-marketing-ude
-  - maestria-en-marketing-y-direccion-comercial-ude
-  - licenciatura-en-marketing-um
   - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - analista-en-publicidad-y-comunicacion-digital-ort
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
-  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - licenciatura-en-marketing-um
+  - analista-en-marketing-digital-y-comercio-electronico-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -23,9 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Marketing de la Universidad de la Empresa. Forma profesionales universitarios especialistas en marketing con un amplio conocimiento de las técnicas más modernas, preparados para actuar a nivel ejecutivo, en investigación de mercados, consultoría, agencias de publicidad y medios."
 tags:
   - marketing
-  - investigacion de mercados
   - marketing digital
+  - investigacion de mercados
   - publicidad
+  - consultoria
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

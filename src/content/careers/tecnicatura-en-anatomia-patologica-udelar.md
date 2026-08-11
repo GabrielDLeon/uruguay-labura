@@ -3,6 +3,10 @@ title: "Tecnicatura en Anatomía Patológica"
 similar:
   - anatomia-patologica-especializacion-udelar
   - anatomia-patologica-pediatrica-especializacion-udelar
+  - laboratorio-de-patologia-clinica-especializacion-udelar
+  - licenciatura-en-laboratorio-clinico-udelar
+  - tecnicatura-en-hemoterapia-udelar
+  - bioquimico-clinico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -20,6 +24,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - anatomia patologica
+  - patologia
+  - laboratorio clinico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

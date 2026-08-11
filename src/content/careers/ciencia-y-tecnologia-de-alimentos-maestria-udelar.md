@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ciencia y Tecnología de Alimentos"
 similar:
-  - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
   - ingenieria-en-alimentos-ucu
+  - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
   - ingenieria-de-alimentos-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - tecnico-operador-de-alimentos-udelar
   - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
+  - industria-carnica-especializacion-udelar
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "mcta@fing.edu.uy"
 tags:
   - alimentos
+  - ciencia y tecnologia de alimentos
+  - tecnologia de alimentos
+  - industria alimentaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

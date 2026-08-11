@@ -1,11 +1,11 @@
 ---
 title: "Licenciatura en Física"
 similar:
-  - ingenieria-fisica-doctorado-udelar
-  - licenciatura-en-ciencias-de-la-atmosfera-udelar
   - fisica-doctorado-udelar
   - fisica-maestria-udelar
+  - ingenieria-fisica-doctorado-udelar
   - fisica-especializacion-udelar
+  - licenciatura-en-astronomia-udelar
   - ingenieria-fisica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - fisica
+  - ciencias exactas
+  - astrofisica
+  - fisica nuclear
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ordenamiento Territorial y Desarrollo Urbano"
 similar:
+  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
   - tecnicatura-en-desarrollo-regional-sustentable-udelar
-  - educacion-y-desarrollo-especializacion-udelar
-  - licenciatura-en-desarrollo-udelar
   - habitat-y-vivienda-especializacion-udelar
-  - desarrollo-rural-sustentable-maestria-udelar
-  - desarrollo-rural-sustentable-especializacion-udelar
+  - habitat-y-vivienda-maestria-udelar
+  - licenciatura-en-desarrollo-udelar
+  - arquitectura-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,6 +22,9 @@ description: "Normal 0 21 false false false ES-UY X-NONE X-NONE MicrosoftInterne
 startDate: ""
 applicationDeadline: ""
 tags:
+  - ordenamiento territorial
+  - urbanismo
+  - desarrollo territorial
   - arquitectura
   - ciencias sociales
 draft: true

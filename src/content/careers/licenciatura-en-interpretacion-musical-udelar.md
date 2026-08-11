@@ -18,13 +18,15 @@ applicationDeadline: ""
 credits: 360
 tags:
   - musica
+  - interpretacion musical
+  - teoria musical
 similar:
+  - licenciatura-en-musica-udelar
   - licenciatura-en-composicion-udelar
   - licenciatura-en-direccion-coral-udelar
   - licenciatura-en-direccion-orquestal-udelar
-  - licenciatura-en-musica-udelar
   - licenciatura-en-musicologia-udelar
-  - productor-musical-ort
+  - tecnicatura-en-interpretacion-perfil-canto-guitarra-piano-udelar
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

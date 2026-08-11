@@ -2,11 +2,11 @@
 title: "Doctorado en Ingeniería Mecánica"
 similar:
   - ingenieria-mecanica-maestria-udelar
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-mecanica-ucu
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
-  - ingenieria-electrica-maestria-udelar
-  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-en-mecatronica-utec
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
-  - doctorado-en-ingenieria-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,7 +22,11 @@ description: "El doctorado tiene como objetivo brindar la formación a nivel sup
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - ingenieria mecanica
   - ingenieria
+  - mecatronica
+  - procesos industriales
+  - diseno mecanico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Dirección y Administración de Empresas"
 similar:
+  - maestria-en-direccion-y-administracion-de-empresas-ude
+  - licenciatura-en-administracion-de-empresas-ude
   - mba-um
-  - licenciatura-en-direccion-de-empresas-ucu
   - licenciatura-en-gerencia-y-administracion-ort
-  - mba-senior-um
   - tecnico-en-gestion-y-administracion-de-empresas-ort
-  - gerencia-y-administracion-mba-maestria-udelar
+  - mba-senior-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -22,7 +22,8 @@ location: "Montevideo"
 description: "Licenciatura en Dirección y Administración de Empresas de la Universidad de Montevideo. Forma profesionales con espíritu emprendedor para la gestión integral y coordinada de las distintas áreas de una empresa."
 tags:
   - administracion
-  - negocios
+  - administracion de empresas
+  - direccion de empresas
   - gestion empresarial
   - emprendimiento
 draft: true

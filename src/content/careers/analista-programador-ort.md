@@ -3,10 +3,10 @@ title: "Analista Programador"
 similar:
   - analista-en-informatica-ucu
   - analista-en-tecnologias-de-la-informacion-ort
-  - analista-en-ingenieria-informatica-ude
   - analista-en-tecnologia-informatica-ude
-  - analista-en-infraestructura-informatica-ort
-  - analista-en-ciberseguridad-ude
+  - tecnicatura-en-desarrollador-de-software-ucu
+  - analista-en-ingenieria-informatica-ude
+  - licenciatura-en-informatica-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Analista Programador de ORT Uruguay. La tecnicatura Analista Programador forma en programación, desarrollo de software full stack e IA generativa, con proyectos prácticos y cliente real."
 tags:
   - informatica
+  - software
+  - programacion
+  - full stack
+  - inteligencia artificial generativa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

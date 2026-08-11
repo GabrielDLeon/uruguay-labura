@@ -2,10 +2,11 @@
 title: "Postgrado en Tributación Internacional"
 similar:
   - postgrado-en-tributacion-nacional-um
-  - master-en-tributacion-um
-  - diplomado-en-tributacion-ude
+  - diploma-de-especializacion-en-fiscalidad-internacional-ort
+  - master-en-impuestos-y-fiscalidad-internacional-ort
   - postgrado-en-tributacion-aplicada-um
-  - postgrado-en-tecnica-tributaria-um
+  - tributaria-especializacion-udelar
+  - master-en-tributacion-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -22,8 +23,10 @@ location: "Montevideo"
 description: "Postgrado en Tributación Internacional de la Universidad de Montevideo. Formación práctica sobre fiscalidad internacional, precios de transferencia y convenios para evitar la doble imposición."
 tags:
   - tributacion internacional
+  - tributacion
   - impuestos
   - derecho tributario
+  - comercio internacional
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

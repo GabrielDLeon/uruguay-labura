@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Física Médica"
 similar:
+  - licenciatura-en-imagenologia-udelar
+  - tecnicatura-en-radioterapia-udelar
+  - tecnicatura-en-radioisotopos-udelar
+  - licenciatura-en-fisica-udelar
   - fisica-especializacion-udelar
   - fisica-doctorado-udelar
-  - licenciatura-en-fisica-udelar
-  - fisica-maestria-udelar
-  - ingenieria-fisica-doctorado-udelar
-  - ingenieria-fisica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,10 @@ applicationDeadline: ""
 credits: 360
 tags:
   - fisica
+  - fisica medica
+  - medicina nuclear
+  - radiologia
+  - tecnologia medica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,9 @@
 title: "Notariado"
 similar:
   - notariado-um
-  - escribania-ude
   - notariado-udelar
+  - escribania-ude
   - postgrado-en-actualizacion-notarial-um
-  - abogacia-ucu
-  - abogacia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -22,9 +20,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera de Notariado de la Universidad Católica del Uruguay. Forma escribanos públicos con visión internacional, sólida formación ética y práctica profesional, capaces de asesorar a sus clientes y brindar seguridad jurídica."
 tags:
-  - notariado
   - derecho
+  - notariado
   - escribania
+  - derecho notarial
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

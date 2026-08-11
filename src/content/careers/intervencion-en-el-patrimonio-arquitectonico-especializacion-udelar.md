@@ -1,8 +1,12 @@
 ---
 title: "Especialización en Intervención en el Patrimonio Arquitectónico"
 similar:
-  - estrategias-de-intervencion-en-usos-problematicos-de-drogas-especializacion-udelar
-  - intervencion-familiar-especializacion-udelar
+  - carnaval-y-patrimonio-especializacion-udelar
+  - arquitectura-doctorado-udelar
+  - arquitectura-en-madera-especializacion-udelar
+  - construccion-de-obras-de-arquitectura-especializacion-udelar
+  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - habitat-y-vivienda-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,7 +22,10 @@ description: "OBJETIVOS – El Diploma de “Especialista en Intervención en el
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - patrimonio arquitectonico
+  - arquitectura
+  - restauracion
+  - patrimonio cultural
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

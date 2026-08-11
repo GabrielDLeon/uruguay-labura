@@ -2,9 +2,11 @@
 title: "Licenciatura en Fisioterapia"
 similar:
   - licenciatura-en-fisioterapia-ude
+  - licenciatura-en-fisioterapia-udelar
   - diplomado-en-fisioterapia-en-el-deporte-ude
   - maestria-en-fisioterapia-traumatologica-ucu
-  - licenciatura-en-fisioterapia-udelar
+  - licenciatura-en-psicomotricidad-ucu
+  - licenciatura-en-terapia-ocupacional-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -21,8 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Fisioterapia de la UCU. Forma profesionales orientados a la prevención y tratamiento de lesiones y disfunciones del movimiento humano, con prácticas durante la carrera y formación en clínica universitaria."
 tags:
   - fisioterapia
-  - salud
   - rehabilitacion
+  - kinesiologia
+  - salud
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

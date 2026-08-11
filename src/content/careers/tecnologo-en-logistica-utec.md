@@ -2,10 +2,11 @@
 title: "Tecnólogo en Logística"
 short: "Tecnólogo en Logística"
 similar:
-  - ingenieria-en-logistica-utec
-  - licenciatura-en-logistica-ude
   - analista-en-logistica-ude
   - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
+  - ingenieria-en-logistica-utec
+  - licenciatura-en-logistica-ude
+  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -25,6 +26,8 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - logistica
+  - cadena de suministros
+  - gestion de operaciones
 ---
 
 ## Resumen

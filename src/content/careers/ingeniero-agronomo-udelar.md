@@ -3,10 +3,10 @@ title: "Ingeniero Agrónomo"
 similar:
   - ingeniero-agronomo-ude
   - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
-  - licenciatura-en-recursos-naturales-udelar
-  - ingenieria-en-agrimensura-udelar
-  - ingenieria-forestal-udelar
-  - agronomia-ucu
+  - agronomia-especializacion-udelar
+  - agronomia-maestria-udelar
+  - ciencias-agrarias-maestria-udelar
+  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -25,7 +25,10 @@ applicationDeadline: ""
 credits: 450
 tags:
   - agronomia
-  - ingenieria
+  - agropecuario
+  - produccion animal
+  - produccion vegetal
+  - ingenieria agronomica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

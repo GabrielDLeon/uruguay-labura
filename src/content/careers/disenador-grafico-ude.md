@@ -4,9 +4,9 @@ similar:
   - disenador-de-moda-ude
   - licenciatura-en-diseno-grafico-ude
   - disenador-de-interiores-ude
+  - diseno-grafico-ort
   - tecnico-en-diseno-grafico-ude
-  - tecnico-en-diseno-de-interiores-ude
-  - licenciatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-artes-diseno-grafico-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -21,8 +21,8 @@ website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/disenador-grafico
 location: "Campus Virtual"
 description: "Diplomado en Diseñador Gráfico de la UDE (1 año, Campus Virtual). Formación práctica en comunicación visual, con unidades de diseño en formato taller y módulos de apoyo, con dictado 100% en vivo."
 tags:
-  - diseño
-  - diseño grafico
+  - diseno
+  - diseno grafico
   - comunicacion visual
 draft: true
 createdAt: "2026-08-09 15:12:26"

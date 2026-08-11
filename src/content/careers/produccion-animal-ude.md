@@ -1,7 +1,12 @@
 ---
 title: "Producción Animal"
 similar:
-  - tecnico-en-ciencias-veterinarias-ude
+  - produccion-animal-doctorado-udelar
+  - produccion-animal-maestria-udelar
+  - nutricion-de-rumiantes-maestria-udelar
+  - tecnologo-en-produccion-equina-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -20,6 +25,7 @@ tags:
   - nutricion animal
   - pasturas
   - ganaderia
+  - carnes
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

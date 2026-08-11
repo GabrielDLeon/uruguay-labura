@@ -1,12 +1,12 @@
 ---
 title: "Analista en Marketing"
 similar:
-  - analista-en-marketing-digital-y-comercio-electronico-ort
   - licenciatura-en-marketing-ude
+  - analista-en-marketing-digital-y-comercio-electronico-ort
+  - analista-en-marketing-digital-ude
+  - analista-en-publicidad-y-comunicacion-digital-ort
   - licenciatura-en-marketing-y-estrategia-comercial-ucu
   - licenciatura-en-marketing-um
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
-  - licenciatura-en-marketing-y-direccion-comercial-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -22,8 +22,10 @@ location: "Montevideo"
 description: "La carrera de Analista en Marketing forma en un año graduados capacitados para desempeñarse en el nivel operativo del área comercial de las organizaciones: publicidad, ventas, distribución, investigación de mercado y marketing digital."
 tags:
   - marketing
-  - ventas
   - publicidad
+  - ventas
+  - investigacion de mercados
+  - marketing digital
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

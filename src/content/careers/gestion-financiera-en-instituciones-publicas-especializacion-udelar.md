@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Gestión Financiera en Instituciones Públicas"
 similar:
+  - politicas-y-gestion-publica-maestria-udelar
+  - maestria-en-politicas-publicas-ucu
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
   - master-en-direccion-financiera-ort
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
-  - gestion-de-instituciones-educativas-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - finanzas-maestria-udelar
+  - maestria-en-administracion-publica-ucu
+  - maestria-en-ciencia-politica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ description: "La Especialización comprende los aspectos relevantes de la gesti�
 startDate: ""
 applicationDeadline: ""
 tags:
-  - administracion
   - finanzas
+  - gestion financiera
+  - sector publico
+  - administracion publica
+  - gestion publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,11 @@
 title: "Master en Diseño Estratégico e Innovación"
 similar:
   - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
-  - tecnico-en-diseno-de-interiores-ort
-  - diseno-y-produccion-de-videojuegos-ort
-  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
   - master-en-creatividad-innovacion-y-comunicacion-ort
   - diploma-de-especializacion-en-creatividad-e-innovacion-ort
+  - gestion-de-innovacion-maestria-udelar
+  - diseno-de-interfaces-ort
+  - diseno-digital-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Diseño Estratégico e Innovación de ORT Uruguay. Es el primer postgrado de estas características del Uruguay, combina el diseño de experiencias (UX) con el diseño estratégico de futuros."
 tags:
-  - administracion
   - diseno
+  - experiencia de usuario
+  - innovacion
+  - gestion de la innovacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

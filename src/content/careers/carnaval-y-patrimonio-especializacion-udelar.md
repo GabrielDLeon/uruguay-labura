@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Carnaval y Patrimonio"
 similar:
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - maestria-en-historia-um
+  - tecnicatura-universitaria-en-bienes-culturales-udelar
+  - intervencion-en-el-patrimonio-arquitectonico-especializacion-udelar
   - gestion-cultural-especializacion-udelar
-  - dramaturgia-udelar
-  - arte-sonoro-maestria-udelar
-  - licenciatura-en-arte-digital-y-electronico-udelar
-  - licenciatura-en-danza-contemporanea-udelar
+  - politicas-culturales-maestria-udelar
+  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,10 @@ startDate: ""
 applicationDeadline: "No vigente"
 tags:
   - arte
+  - patrimonio cultural
+  - patrimonio
+  - gestion cultural
+  - carnaval
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

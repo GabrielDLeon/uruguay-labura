@@ -1,8 +1,12 @@
 ---
 title: "Licenciatura en Imagenología"
 similar:
+  - licenciatura-en-imagenologia-udelar
+  - imagenologia-especializacion-udelar
   - diplomado-de-especialista-en-resonancia-magnetica-ude
   - diplomado-tomografia-computada-multicorte-ude
+  - licenciatura-en-fisica-medica-udelar
+  - ecografia-gineco-obstetrica-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"

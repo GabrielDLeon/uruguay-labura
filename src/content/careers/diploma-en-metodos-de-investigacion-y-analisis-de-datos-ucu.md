@@ -1,7 +1,12 @@
 ---
 title: "Diploma en Métodos de Investigación y Análisis de Datos"
 similar:
-  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
+  - tecnologo-en-analisis-y-gestion-de-datos-utec
+  - licenciatura-en-business-analytics-ucu
+  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
+  - licenciatura-en-datos-y-negocios-ucu
+  - postgrado-en-analitica-de-negocios-um
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"
@@ -16,8 +21,9 @@ location: "Montevideo"
 description: "Diploma en Métodos de Investigación y Análisis de Datos de la UCU. Forma en herramientas de investigación, procesamiento e interpretación de datos para contribuir a la toma de decisiones en el ámbito académico, público o privado."
 tags:
   - investigacion
-  - analisis de datos
-  - metodos
+  - ciencia de datos
+  - toma de decisiones
+  - metodos de investigacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -1,6 +1,11 @@
 ---
 title: "Ingeniería Biomédica"
-similar: []
+similar:
+  - ingenieria-biomedica-utec
+  - tecnologo-en-ingenieria-biomedica-utec
+  - licenciatura-en-imagenologia-udelar
+  - tecnicatura-en-radioisotopos-udelar
+  - tecnicatura-en-radioterapia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"

@@ -4,9 +4,9 @@ similar:
   - bioinformatica-especializacion-udelar
   - bioinformatica-maestria-udelar
   - licenciatura-en-ingenieria-biologica-udelar
-  - licenciatura-en-biotecnologia-ort
-  - ingenieria-en-biotecnologia-ort
-  - licenciatura-en-biotecnologia-udelar
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - licenciatura-en-estadistica-udelar
+  - licenciatura-biologia-humana-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Bioinformática de ORT Uruguay. Diseñada para formar profesionales capaces de integrar conocimientos de biología, informática y estadística para resolver problemas complejos."
 tags:
+  - bioinformatica
   - biologia
   - informatica
+  - estadistica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

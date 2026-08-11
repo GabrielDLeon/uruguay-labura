@@ -1,12 +1,12 @@
 ---
 title: "Laboratorista en Odontología"
 similar:
-  - asistente-en-odontologia-udelar
   - higienista-en-odontologia-udelar
-  - odontologia-ucu
-  - maestria-en-rehabilitacion-oral-ucu
   - odontologia-udelar
-  - odontologia-restauradora-integral-especializacion-udelar
+  - maestria-en-rehabilitacion-oral-ucu
+  - asistente-en-odontologia-udelar
+  - odontologia-ucu
+  - prostodoncia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 240
 tags:
   - odontologia
+  - laboratorio dental
+  - prostodoncia
+  - salud bucal
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

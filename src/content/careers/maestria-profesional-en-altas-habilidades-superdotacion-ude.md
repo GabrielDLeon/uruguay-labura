@@ -3,6 +3,10 @@ title: "Maestría Profesional en Altas Habilidades/Superdotación"
 similar:
   - maestria-academica-en-altas-habilidades-superdotacion-ude
   - especializacion-en-altas-habilidades-superdotacion-ude
+  - diploma-en-diseno-y-desarrollo-curricular-ucu
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - dificultades-de-aprendizaje-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
@@ -19,10 +23,11 @@ startDate: ""
 applicationDeadline: ""
 description: "Maestría stricto sensu con perfil profesional que forma multiplicadores capaces de identificar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), con campos de actuación en instituciones educativas, públicas y privadas."
 tags:
+  - educacion
   - altas habilidades
-  - superdotacion
   - educacion inclusiva
-  - atencion educativa
+  - educacion especial
+  - atencion a la diversidad
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

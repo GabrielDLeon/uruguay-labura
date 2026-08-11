@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Arte Digital y Electrónico"
 similar:
-  - arte-y-cultura-visual-maestria-udelar
+  - licenciatura-en-comunicacion-udelar
+  - licenciatura-en-artes-digitales-ort
   - arte-sonoro-maestria-udelar
+  - arte-y-cultura-visual-maestria-udelar
   - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
-  - tecnicatura-en-artes-plasticas-y-visuales-udelar
   - licenciatura-en-artes-fotografia-udelar
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,6 +24,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arte
+  - arte digital
+  - multimedia
+  - arte electronico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

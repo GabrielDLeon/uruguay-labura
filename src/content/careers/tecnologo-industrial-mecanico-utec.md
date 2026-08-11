@@ -3,10 +3,10 @@ title: "Tecnólogo Industrial Mecánico"
 short: "Tecnólogo Industrial Mecánico"
 similar:
   - tecnologo-industrial-mecanico-udelar
-  - tecnologo-en-mecatronica-industrial-utec
   - ingenieria-industrial-mecanica-udelar
+  - ingenieria-industrial-um
+  - farmacia-industrial-especializacion-udelar
   - ingenieria-industrial-ucu
-  - licenciatura-en-diseno-industrial-ort
   - licenciatura-en-diseno-industrial-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
@@ -24,7 +24,10 @@ draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
-  - ingenieria
+  - mecanica
+  - manufactura
+  - procesos industriales
+  - mantenimiento industrial
 ---
 
 ## Resumen

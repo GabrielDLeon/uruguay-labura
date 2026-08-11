@@ -2,7 +2,11 @@
 title: "Máster en Derecho Procesal y Litigación"
 similar:
   - postgrado-en-derecho-procesal-aplicado-um
-  - maestria-en-psicologia-forense-y-penitenciaria-ucu
+  - derecho-procesal-especializacion-udelar
+  - postgrado-en-derecho-penal-economico-um
+  - llm-master-en-derecho-um
+  - postgrado-en-derecho-de-familia-um
+  - postgrado-en-derecho-del-trabajo-aplicado-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -18,6 +22,7 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/mast
 location: "Montevideo"
 description: "Máster en Derecho Procesal y Litigación de la Universidad de Montevideo. Formación práctica en procesos judiciales y litigación, dirigida a abogados, jueces y fiscales."
 tags:
+  - derecho
   - derecho procesal
   - litigacion
   - justicia

@@ -3,10 +3,10 @@ title: "Doctorado en Ciencias Sociales C/esp. en Historia Económica"
 similar:
   - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
   - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - economia-doctorado-udelar
   - historia-economica-maestria-udelar
+  - historia-politica-maestria-udelar
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - licenciatura-en-ciencias-sociales-udelar
-  - ciencias-humanas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -24,6 +24,8 @@ applicationDeadline: ""
 tags:
   - ciencias sociales
   - historia
+  - historia economica
+  - economia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

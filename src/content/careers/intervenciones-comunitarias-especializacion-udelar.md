@@ -1,7 +1,12 @@
 ---
 title: "Especialización en Intervenciones Comunitarias"
 similar:
+  - licenciatura-en-trabajo-social-ucu
   - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
+  - fundamentos-de-trabajo-social-especializacion-udelar
+  - intervencion-familiar-especializacion-udelar
+  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - licenciatura-en-trabajo-social-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - ciencias sociales
+  - trabajo social
+  - participacion ciudadana
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

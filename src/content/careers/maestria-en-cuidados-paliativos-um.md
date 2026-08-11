@@ -3,6 +3,9 @@ title: "Maestría en Cuidados Paliativos"
 similar:
   - maestria-en-cuidados-paliativos-ucu
   - cuidados-paliativos-del-adulto-especializacion-udelar
+  - especializacion-en-medicina-de-emergencia-um
+  - doctor-en-medicina-udelar
+  - licenciatura-binacional-en-obstetricia-udelar
   - medicina-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"
@@ -21,6 +24,7 @@ tags:
   - cuidados paliativos
   - medicina
   - salud
+  - final de la vida
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

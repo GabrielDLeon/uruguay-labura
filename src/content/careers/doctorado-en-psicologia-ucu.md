@@ -2,11 +2,11 @@
 title: "Doctorado en Psicología"
 similar:
   - psicologia-social-maestria-udelar
-  - doctorado-en-comunicacion-ucu
+  - psicologia-doctorado-udelar
   - psicologia-clinica-maestria-udelar
-  - doctorado-en-ingenieria-ucu
+  - licenciatura-en-psicologia-um
+  - licenciatura-en-psicologia-udelar
   - psicologia-y-educacion-maestria-udelar
-  - licenciatura-en-psicologia-semipresencial-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "doctorado"
@@ -22,9 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Doctorado en Psicología de la UCU. Forma investigadores para contribuir al desarrollo del conocimiento psicológico en el país con excelencia académica y calidad ética, a partir de investigaciones a nivel nacional e internacional."
 tags:
-  - doctorado
   - psicologia
   - investigacion
+  - ciencias sociales
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

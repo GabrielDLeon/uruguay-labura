@@ -3,10 +3,10 @@ title: "Maestría en Sistemas de Información de las Organizaciones"
 similar:
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
+  - master-en-gestion-de-sistemas-de-informacion-ort
+  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
-  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
-  - master-en-gestion-de-sistemas-de-informacion-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html"
 tags:
   - administracion
+  - gestion empresarial
+  - informatica
+  - sistemas de informacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

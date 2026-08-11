@@ -2,11 +2,11 @@
 title: "Maestría en Currículum y Aprendizaje"
 similar:
   - diploma-en-diseno-y-desarrollo-curricular-ucu
+  - maestria-en-metodologias-activas-de-ensenanza-ucu
   - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
   - licenciatura-en-psicopedagogia-semipresencial-ucu
   - licenciatura-en-psicopedagogia-ucu
   - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
-  - dificultades-de-aprendizaje-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,10 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Currículum y Aprendizaje de la UCU. Forma para evaluar, diseñar y desarrollar propuestas curriculares que contribuyan a mejorar las experiencias de aprendizaje en los distintos niveles del sistema educativo."
 tags:
-  - curriculum
   - educacion
-  - aprendizaje
+  - curriculum
   - diseno curricular
+  - evaluacion educativa
+  - aprendizaje
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

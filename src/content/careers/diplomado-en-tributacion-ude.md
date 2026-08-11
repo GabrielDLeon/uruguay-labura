@@ -2,11 +2,11 @@
 title: "Diplomado en Tributación"
 similar:
   - postgrado-en-tributacion-aplicada-um
+  - postgrado-en-tributacion-internacional-um
   - postgrado-en-tributacion-nacional-um
   - master-en-tributacion-um
-  - postgrado-en-tributacion-internacional-um
-  - postgrado-en-tecnica-tributaria-um
-  - postgrado-en-contabilidad-um
+  - tributaria-especializacion-udelar
+  - tributaria-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -24,7 +24,6 @@ tags:
   - tributacion
   - derecho tributario
   - impuestos
-  - actualizacion profesional
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

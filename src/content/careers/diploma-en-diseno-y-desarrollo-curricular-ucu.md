@@ -2,9 +2,11 @@
 title: "Diploma en Diseño y Desarrollo Curricular"
 similar:
   - maestria-en-curriculum-y-aprendizaje-ucu
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - educacion-y-desarrollo-especializacion-udelar
+  - especializacion-en-altas-habilidades-superdotacion-ude
+  - maestria-academica-en-altas-habilidades-superdotacion-ude
+  - maestria-profesional-en-altas-habilidades-superdotacion-ude
   - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - maestria-en-educacion-y-desarrollo-profesional-docente-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"
@@ -18,9 +20,10 @@ website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-diseno-y-desarrol
 location: "Montevideo"
 description: "Diploma en Diseño y Desarrollo Curricular de la UCU. Forma para diseñar currículos educativos enfocados en habilidades y competencias, desde una perspectiva sistémica, contextualizada, inclusiva y participativa."
 tags:
-  - diseno curricular
-  - curriculum
   - educacion
+  - curriculum
+  - diseno curricular
+  - educacion inclusiva
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

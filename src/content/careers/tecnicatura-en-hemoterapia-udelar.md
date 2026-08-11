@@ -2,6 +2,11 @@
 title: "Tecnicatura en Hemoterapia"
 similar:
   - hemoterapia-y-medicina-transfucional-especializacion-udelar
+  - licenciatura-en-laboratorio-clinico-udelar
+  - tecnicatura-en-anatomia-patologica-udelar
+  - hemato-oncologia-pediatrica-especializacion-udelar
+  - hematologia-especializacion-udelar
+  - transplante-de-progenitores-hematopeyicos-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -19,6 +24,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - hemoterapia
+  - hematologia
+  - transfusion
+  - laboratorio clinico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

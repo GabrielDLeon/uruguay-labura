@@ -2,11 +2,11 @@
 title: "Maestría en Informática"
 similar:
   - informatica-pedeciba-doctorado-udelar
-  - seguridad-informatica-especializacion-udelar
-  - tecnologo-en-informatica-udelar
   - tecnico-en-informatica-ude
   - analista-en-informatica-ucu
-  - analista-en-infraestructura-informatica-ort
+  - licenciatura-en-informatica-um
+  - tecnologo-en-informatica-utec
+  - ingenieria-en-computacion-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
   - informatica
+  - software
+  - programacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

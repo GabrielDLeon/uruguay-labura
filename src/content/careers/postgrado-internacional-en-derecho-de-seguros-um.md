@@ -1,6 +1,12 @@
 ---
 title: "Postgrado Internacional en Derecho de Seguros"
-similar: []
+similar:
+  - postgrado-en-derecho-administrativo-economico-um
+  - postgrado-en-derecho-contractual-um
+  - postgrado-en-derecho-de-familia-um
+  - postgrado-en-derecho-del-trabajo-aplicado-um
+  - postgrado-en-derecho-penal-economico-um
+  - postgrado-en-derecho-procesal-aplicado-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -16,6 +22,7 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado Internacional en Derecho de Seguros de la Universidad de Montevideo. Formación internacional y práctica en seguros y reaseguros, con participación de profesores locales y extranjeros."
 tags:
+  - derecho
   - derecho de seguros
   - seguros
   - reaseguros

@@ -1,7 +1,10 @@
 ---
 title: "Especialización en Fabricación Digital e Innovación"
 similar:
-  - maestria-en-ciencias-de-la-ingenieria-ucu
+  - diploma-de-especializacion-en-creatividad-e-innovacion-ort
+  - gestion-de-innovacion-maestria-udelar
+  - master-en-creatividad-innovacion-y-comunicacion-ort
+  - master-en-diseno-estrategico-e-innovacion-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"
@@ -21,6 +24,8 @@ description: "Especialización en Fabricación Digital e Innovación de UTEC, en
 tags:
   - innovacion
   - fabricacion digital
+  - manufactura
+  - impresion 3d
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

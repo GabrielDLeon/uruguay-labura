@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Comunicación Organizacional"
 similar:
+  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
+  - maestria-en-direccion-de-comunicacion-um
   - licenciatura-en-comunicacion-global-ort
   - master-en-direccion-de-comunicacion-y-marketing-ort
-  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
   - licenciatura-en-comunicacion-ucu
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,10 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Comunicación Organizacional de la UCU. Desarrolla habilidades estratégicas, liderazgo efectivo y un enfoque interdisciplinario para dirigir y transformar la comunicación en entornos organizacionales dinámicos."
 tags:
+  - comunicacion
   - comunicacion organizacional
+  - comunicacion estrategica
   - liderazgo
   - consultoria
-  - comunicacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

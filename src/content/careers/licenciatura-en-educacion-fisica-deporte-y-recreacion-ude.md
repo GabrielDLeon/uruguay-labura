@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - educacion-fisica-maestria-udelar
-  - tecnicatura-en-educacion-y-recreacion-ucu
-  - licenciatura-en-recreacion-educativa-ucu
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - tecnicatura-en-educacion-y-recreacion-ucu
+  - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -28,6 +28,7 @@ tags:
   - deporte
   - recreacion
   - actividad fisica
+  - educacion
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

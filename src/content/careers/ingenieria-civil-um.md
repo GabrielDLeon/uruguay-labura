@@ -2,6 +2,11 @@
 title: "Ingeniería Civil"
 similar:
   - ingenieria-civil-ucu
+  - ingenieria-civil-udelar
+  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-estructural-maestria-udelar
+  - ingenieria-en-agua-y-desarrollo-sostenible-utec
+  - analista-en-infraestructura-informatica-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "ingenieria"
@@ -20,6 +25,8 @@ tags:
   - construccion
   - infraestructura
   - obras
+  - ingenieria hidraulica
+  - puentes
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -2,11 +2,11 @@
 title: "Master en Creatividad, Innovación y Comunicación"
 similar:
   - diploma-de-especializacion-en-creatividad-e-innovacion-ort
+  - master-en-diseno-estrategico-e-innovacion-ort
   - gestion-de-innovacion-maestria-udelar
   - licenciatura-en-comunicacion-udelar
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
-  - master-en-diseno-estrategico-e-innovacion-ort
+  - maestria-en-comunicacion-organizacional-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "La creatividad como proceso mental y la innovación como proceso productivo se potencian junto a la comunicación, estrechando relaciones con sus protagonistas."
 tags:
-  - administracion
+  - innovacion
+  - creatividad
   - comunicacion
+  - gestion de la innovacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

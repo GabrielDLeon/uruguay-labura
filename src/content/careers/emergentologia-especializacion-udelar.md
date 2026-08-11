@@ -2,6 +2,9 @@
 title: "Especialización en Emergentología"
 similar:
   - emergentologia-pediatrica-especializacion-udelar
+  - especializacion-en-medicina-de-emergencia-um
+  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
+  - estabilizacion-y-traslado-pediatrico-y-neonatal-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +21,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - medicina de emergencia
+  - urgencias
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

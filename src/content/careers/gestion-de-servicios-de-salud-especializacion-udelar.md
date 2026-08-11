@@ -4,8 +4,8 @@ similar:
   - gestion-de-servicios-de-salud-maestria-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
   - administracion-de-servicios-de-salud-especializacion-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - maestria-en-gestion-y-salud-publica-ucu
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -23,7 +23,10 @@ startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Jaime Cibils 2810"
 tags:
   - administracion
+  - gestion de salud
+  - administracion de servicios de salud
   - salud publica
+  - gestion sanitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

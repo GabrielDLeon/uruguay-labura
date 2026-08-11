@@ -1,11 +1,12 @@
 ---
 title: "Licenciatura en Sistemas"
 similar:
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - master-en-gestion-de-sistemas-de-informacion-ort
-  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
   - ingenieria-en-sistemas-ort
   - tecnologo-en-analisis-y-desarrollo-de-sistemas-utec
+  - master-en-gestion-de-sistemas-de-informacion-ort
+  - sistemas-de-informacion-de-las-organizaciones-maestria-udelar
+  - licenciatura-en-informatica-ude
+  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -22,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Sistemas de ORT Uruguay. La Licenciatura en Sistemas es la única carrera en Uruguay que integra tecnología y negocios, brindando una sólida formación en sistemas y administración."
 tags:
   - informatica
+  - sistemas de informacion
+  - administracion
+  - negocios
+  - software
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

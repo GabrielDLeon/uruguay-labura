@@ -5,8 +5,8 @@ similar:
   - maestria-en-marketing-y-direccion-comercial-ude
   - licenciatura-en-marketing-y-estrategia-comercial-ucu
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
-  - master-en-direccion-de-comunicacion-y-marketing-ort
-  - licenciatura-en-marketing-um
+  - marketing-especializacion-udelar
+  - tecnico-en-gestion-comercial-y-ventas-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,7 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "La carrera te prepara para dirigir el departamento comercial del futuro, con una mirada única desde el marketing y la gestión de clientes."
 tags:
   - marketing
-  - negocios
+  - direccion comercial
+  - gestion comercial
+  - estrategia comercial
+  - ventas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

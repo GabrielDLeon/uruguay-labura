@@ -2,11 +2,11 @@
 title: "Abogacía"
 similar:
   - abogacia-ucu
-  - abogacia-ude
   - abogacia-um
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
-  - notariado-ucu
+  - abogacia-ude
+  - llm-master-en-derecho-um
+  - escribania-ude
+  - derecho-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 450
 tags:
   - derecho
+  - ciencias juridicas
+  - ciencias sociales
+  - humanidades
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

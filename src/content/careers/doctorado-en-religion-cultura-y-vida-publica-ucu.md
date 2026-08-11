@@ -1,10 +1,12 @@
 ---
 title: "Doctorado en Religión, Cultura y Vida Pública"
 similar:
-  - doctorado-en-psicologia-ucu
-  - doctorado-en-educacion-ude
-  - doctorado-en-comunicacion-ucu
-  - doctorado-en-ingenieria-ucu
+  - bibliotecologia-udelar
+  - maestria-en-historia-um
+  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
+  - intervenciones-comunitarias-especializacion-udelar
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - abogacia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "doctorado"
@@ -19,9 +21,11 @@ website: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-religion,-cultu
 location: "Montevideo"
 description: "Doctorado en Religión, Cultura y Vida Pública de la UCU. Programa internacional interdisciplinario e innovador sobre la diversidad religiosa, el pluralismo cultural y la construcción de ciudadanía, dictado en inglés."
 tags:
-  - doctorado
+  - humanidades
   - religion
-  - cultura
+  - teologia
+  - estudios culturales
+  - participacion ciudadana
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

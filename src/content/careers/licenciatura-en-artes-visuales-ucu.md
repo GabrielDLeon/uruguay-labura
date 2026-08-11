@@ -1,9 +1,12 @@
 ---
 title: "Licenciatura en Artes Visuales"
 similar:
-  - licenciatura-en-diseno-de-indumentaria-ude
-  - licenciatura-en-diseno-industrial-ude
-  - licenciatura-en-diseno-grafico-ude
+  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-artes-fotografia-udelar
+  - tecnicatura-en-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
+  - licenciatura-en-artes-ceramica-udelar
+  - licenciatura-en-artes-dibujo-y-pintura-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -19,10 +22,12 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Artes Visuales de la UCU. Formación artística con solvencia técnica en diseño, ilustración, fotografía, realización audiovisual, animación, videojuegos y gestión cultural, con práctica desde el inicio."
 tags:
-  - artes-visuales
-  - diseño
-  - fotografia
+  - arte
+  - artes visuales
+  - diseno
   - ilustracion
+  - fotografia
+  - animacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

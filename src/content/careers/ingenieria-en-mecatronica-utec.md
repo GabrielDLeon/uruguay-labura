@@ -3,11 +3,11 @@ title: "Ingeniería en Mecatrónica"
 short: "Ing. en Mecatrónica"
 similar:
   - ingenieria-en-control-y-automatica-utec
-  - ingenieria-biomedica-utec
-  - tecnologo-en-mecatronica-utec
-  - ingenieria-en-logistica-utec
   - tecnologo-en-mecatronica-industrial-utec
+  - tecnologo-en-mecatronica-utec
   - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-mecanica-maestria-udelar
+  - ingenieria-en-electronica-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"
@@ -24,6 +24,11 @@ location: "Fray Bentos (ITR Suroeste)"
 accreditation: "UTEC"
 description: "Ingeniería gratuita en Mecatrónica de UTEC, semipresencial en Fray Bentos. Combina ingeniería mecánica, electrónica e informática para automatizar equipos, procesos y productos. Título intermedio de Tecnólogo en Mecatrónica."
 tags:
+  - mecatronica
+  - ingenieria mecanica
+  - electronica
+  - automatizacion
+  - automatizacion industrial
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

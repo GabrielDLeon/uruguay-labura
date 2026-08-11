@@ -1,6 +1,8 @@
 ---
 title: "Especialización en Otorrinolaringología"
-similar: []
+similar:
+  - licenciatura-en-fonoaudiologia-ucu
+  - licenciatura-en-fonoaudiologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +19,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - otorrinolaringologia
+  - audiologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,9 +2,12 @@
 title: "Licenciatura en Análisis Alimentario"
 short: "Lic. en Análisis Alimentario"
 similar:
+  - tecnico-en-procesos-y-analisis-quimico-utec
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
   - ingenieria-en-alimentos-ucu
+  - tecnologo-quimico-utec
+  - licenciatura-en-nutricion-ucu
   - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
-  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"
@@ -22,6 +25,10 @@ accreditation: "UTEC"
 description: "Licenciatura gratuita en Análisis Alimentario de UTEC, semipresencial en Paysandú. Formación en control de calidad e inocuidad de alimentos. Título intermedio de Técnico en Procesos y Análisis Químico."
 tags:
   - alimentos
+  - quimica
+  - calidad alimentaria
+  - inocuidad alimentaria
+  - bromatologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

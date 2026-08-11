@@ -2,11 +2,11 @@
 title: "Analista en Infraestructura Informática"
 similar:
   - analista-en-informatica-ucu
-  - analista-en-ingenieria-informatica-ude
+  - administrador-de-servidores-y-aplicaciones-ort
+  - tecnologo-en-informatica-udelar
+  - tecnologo-en-informatica-utec
   - ingenieria-en-informatica-ucu
   - licenciatura-en-informatica-um
-  - licenciatura-en-informatica-ucu
-  - ingenieria-en-informatica-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Analista en Infraestructura Informática en la Universidad ORT Uruguay forma técnicos para diseñar, configurar y administrar soluciones de infraestructura."
 tags:
   - informatica
+  - infraestructura
+  - administracion de sistemas
+  - servidores
+  - redes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,11 @@
 title: "Especialización en Didáctica para Enseñanza Media"
 similar:
   - didactica-para-ensenanza-primaria-especializacion-udelar
-  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
-  - ensenanza-universitaria-maestria-udelar
-  - ensenanza-de-lenguas-extranjeras-maestria-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
+  - ensenanza-de-lenguas-extranjeras-maestria-udelar
+  - quimica-orientacion-educacion-en-quimica-doctorado-udelar
+  - quimica-orientacion-educacion-en-quimica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "IPES- Asilo 3255, Montevideo"
 tags:
   - educacion
+  - didactica
+  - educacion media
+  - formacion docente
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

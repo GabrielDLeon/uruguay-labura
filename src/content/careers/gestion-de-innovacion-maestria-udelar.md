@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Gestión de Innovación"
 similar:
-  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
-  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
   - master-en-creatividad-innovacion-y-comunicacion-ort
-  - diploma-de-especializacion-en-creatividad-e-innovacion-ort
   - master-en-diseno-estrategico-e-innovacion-ort
-  - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
+  - diploma-de-especializacion-en-creatividad-e-innovacion-ort
+  - tecnico-en-gestion-de-equinos-ude
+  - gestion-de-tecnologias-especializacion-udelar
+  - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,10 @@ description: "La Maestría en Gestión de la Innovación se dirige a profesional
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - gestion de la innovacion
+  - innovacion
   - administracion
+  - gestion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

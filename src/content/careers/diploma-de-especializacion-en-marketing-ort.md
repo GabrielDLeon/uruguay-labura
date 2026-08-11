@@ -2,11 +2,11 @@
 title: "Diploma de Especialización en Marketing"
 similar:
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
-  - marketing-especializacion-udelar
+  - maestria-en-marketing-y-direccion-comercial-ude
   - licenciatura-en-marketing-y-direccion-comercial-ort
-  - licenciatura-en-comunicacion-y-marketing-ucu
-  - marketing-maestria-udelar
-  - analista-en-marketing-ude
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - master-en-direccion-comercial-y-marketing-ort
+  - marketing-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Postgrado en marketing diseñado para quienes desean desarrollar su carrera en roles de gestión de marketing en un contexto hiperconectado y digitalizado."
 tags:
   - marketing
+  - marketing digital
+  - estrategia comercial
+  - gestion comercial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

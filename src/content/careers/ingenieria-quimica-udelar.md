@@ -3,10 +3,10 @@ title: "Ingeniería Química"
 similar:
   - ingenieria-quimica-doctorado-udelar
   - ingenieria-quimica-maestria-udelar
-  - ingenieria-de-la-energia-doctorado-udelar
-  - ingenieria-electrica-udelar
-  - ingenieria-electrica-ort
+  - ingenieria-quimica-um
+  - ingenieria-de-celulosa-y-papel-maestria-udelar
   - licenciatura-en-tecnologias-de-la-quimica-udelar
+  - ingenieria-industrial-mecanica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,9 +24,12 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
-  - ingenieria
-  - programa-roberto-rocca
+  - ingenieria quimica
   - quimica
+  - ingenieria
+  - quimica industrial
+  - procesos industriales
+  - programa roberto rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

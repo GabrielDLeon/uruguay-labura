@@ -3,9 +3,10 @@ title: "Postgrado Ejecutivo Experto en Liderazgo y Toma de Decisiones"
 similar:
   - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
   - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
-  - licenciatura-en-gestion-de-talento-humano-um
-  - licenciatura-en-direccion-de-empresas-ucu
-  - mba-um
+  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
+  - postgrado-en-gestion-contable-um
+  - licenciatura-en-recursos-humanos-ude
+  - diploma-de-postgrado-en-educacion-emocional-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -21,8 +22,10 @@ location: "Montevideo"
 description: "El Postgrado Ejecutivo Experto en Liderazgo y Toma de Decisiones desarrolla la comunicación efectiva, la inteligencia emocional, la gestión de equipos y estrategias de decisión para líderes en entornos cambiantes."
 tags:
   - liderazgo
-  - toma-de-decisiones
-  - inteligencia-emocional
+  - toma de decisiones
+  - inteligencia emocional
+  - habilidades gerenciales
+  - gestion de personas
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ortodoncia"
 similar:
+  - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
   - maestria-en-periodoncia-ucu
   - odontologia-ucu
-  - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
   - maestria-en-rehabilitacion-oral-ucu
-  - laboratorista-en-odontologia-udelar
-  - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
+  - ciencias-odontologicas-doctorado-udelar
+  - odontologia-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,8 +22,8 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Ortodoncia de la UCU. Forma para contribuir al buen desarrollo buco-maxilo-facial de los pacientes a través del diagnóstico y tratamiento de las eugnacias y disgnacias en todas las etapas de la vida."
 tags:
-  - ortodoncia
   - odontologia
+  - ortodoncia
   - salud
 draft: true
 createdAt: "2026-08-07 19:13:13"

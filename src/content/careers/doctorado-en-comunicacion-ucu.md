@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Comunicación"
 similar:
-  - doctorado-en-psicologia-ucu
-  - doctorado-en-ingenieria-ucu
-  - doctorado-en-educacion-ude
-  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - postgrado-en-comunicacion-politica-um
   - licenciatura-en-comunicacion-y-marketing-ucu
   - licenciatura-en-comunicacion-udelar
+  - licenciatura-en-comunicacion-global-ort
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - maestria-en-direccion-de-comunicacion-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "doctorado"
@@ -22,8 +22,8 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Doctorado en Comunicación de la UCU. Forma investigadores capaces de llevar adelante investigaciones individuales o colectivas que aporten conocimientos actualizados, originales e innovadores en el campo de la comunicación."
 tags:
-  - doctorado
   - comunicacion
+  - ciencias sociales
   - investigacion
 draft: true
 createdAt: "2026-08-07 19:13:13"

@@ -2,11 +2,11 @@
 title: "Licenciatura en Finanzas"
 similar:
   - licenciatura-en-finanzas-um
-  - master-en-contabilidad-y-finanzas-ort
   - licenciatura-en-economia-y-finanzas-ude
+  - master-en-contabilidad-y-finanzas-ort
+  - licenciatura-en-finanzas-ort
+  - finanzas-maestria-udelar
   - postgrado-de-especializacion-en-gestion-de-portafolios-um
-  - postgrado-en-finanzas-corporativas-um
-  - diploma-de-especializacion-en-impuestos-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -23,9 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Finanzas de la UCU. Forma en finanzas corporativas, inversión de patrimonios y gestión de riesgos, con tecnología aplicada a los procesos financieros y acreditaciones internacionales."
 tags:
   - finanzas
-  - inversion
-  - riesgos
-  - mercados
+  - finanzas corporativas
+  - inversiones
+  - gestion de riesgos
+  - mercado de capitales
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -3,11 +3,11 @@ title: "Técnico Superior Universitario en Tecnologías de la Información"
 short: "Técnico Superior Universitario en TI"
 similar:
   - licenciatura-tecnologias-informacion-utec
+  - analista-en-tecnologias-de-la-informacion-ort
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
-  - analista-en-tecnologias-de-la-informacion-ort
-  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
-  - master-en-gestion-de-sistemas-de-informacion-ort
+  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
+  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnicatura"
@@ -32,6 +32,10 @@ createdAt: "2026-05-15 00:00:44"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - informatica
+  - programacion
+  - testing
+  - calidad de software
+  - infraestructura
 ---
 
 ## Resumen

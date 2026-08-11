@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Psicoterapia - Psicología Analítica Junguiana"
-similar: []
+similar:
+  - psicologia-clinica-maestria-udelar
+  - maestria-en-psicoterapia-cognitiva-de-adultos-y-familias-modalidad-first-experience-ucu
+  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
+  - licenciatura-en-psicologia-ucu
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - psicoterapia-psicodinamica-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -16,9 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Psicoterapia - Psicología Analítica Junguiana de la UCU. Forma las competencias para ejercer la psicoterapia individual siguiendo el modelo propuesto por la Psicoterapia Analítica, con práctica clínica supervisada."
 tags:
+  - psicologia
   - psicoterapia
   - psicologia analitica
-  - jung
+  - psicologia clinica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

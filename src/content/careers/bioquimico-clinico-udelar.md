@@ -1,7 +1,11 @@
 ---
 title: "Bioquímico Clínico"
 similar:
+  - licenciatura-en-bioquimica-udelar
+  - licenciatura-en-laboratorio-clinico-udelar
   - quimica-farmaceutica-udelar
+  - ciclo-en-biologia-bioquimica-udelar
+  - laboratorio-de-patologia-clinica-especializacion-udelar
   - quimico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -21,6 +25,9 @@ applicationDeadline: ""
 credits: 450
 tags:
   - quimica
+  - bioquimica
+  - bioquimica clinica
+  - laboratorio clinico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

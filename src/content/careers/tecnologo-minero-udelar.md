@@ -1,10 +1,11 @@
 ---
 title: "Tecnólogo Minero"
 similar:
-  - geociencias-doctorado-udelar
-  - geociencias-maestria-udelar
   - ingenieria-de-minas-especializacion-udelar
   - ingenieria-de-minas-maestria-udelar
+  - licenciatura-en-gestion-ambiental-udelar
+  - geociencias-doctorado-udelar
+  - geociencias-maestria-udelar
   - licenciatura-en-geologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -23,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 272
 tags:
+  - mineria
   - geologia
+  - recursos minerales
+  - evaluacion de impacto ambiental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

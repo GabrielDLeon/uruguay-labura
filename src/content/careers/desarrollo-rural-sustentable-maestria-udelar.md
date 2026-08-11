@@ -4,9 +4,9 @@ similar:
   - desarrollo-rural-sustentable-especializacion-udelar
   - agronomia-maestria-udelar
   - agronomia-especializacion-udelar
+  - educacion-y-extension-rural-maestria-udelar
   - tecnicatura-en-desarrollo-regional-sustentable-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - ciencias-agrarias-doctorado-udelar
+  - licenciatura-en-recursos-naturales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,9 +22,10 @@ description: "Formar graduados con dominio de temas o áreas dentro de una profe
 startDate: ""
 applicationDeadline: "Unidad de Posgrado y Educación Permanente - Facultad de Agronomía"
 tags:
+  - desarrollo rural
   - agronomia
   - ciencias sociales
-  - medio ambiente
+  - desarrollo sostenible
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

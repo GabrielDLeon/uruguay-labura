@@ -3,10 +3,10 @@ title: "Higienista en Odontología"
 similar:
   - asistente-en-odontologia-udelar
   - laboratorista-en-odontologia-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - odontologia-udelar
   - odontologia-ucu
-  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
-  - maestria-en-periodoncia-ucu
-  - odontologia-restauradora-integral-especializacion-udelar
+  - ciencias-odontologicas-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 160
 tags:
   - odontologia
+  - higiene dental
+  - salud bucal
+  - atencion comunitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

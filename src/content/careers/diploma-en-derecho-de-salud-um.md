@@ -1,11 +1,12 @@
 ---
 title: "Diploma en Derecho de Salud"
 similar:
-  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
-  - maestria-en-humanizacion-de-la-salud-ucu
-  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - ciclo-area-salud-udelar
   - maestria-en-salud-publica-ude
-  - maestria-en-direccion-de-empresas-de-salud-um
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - derecho-comercial-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -21,9 +22,10 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/d
 location: "Montevideo"
 description: "Diploma en Derecho de Salud de la Universidad de Montevideo. Formación integral sobre el derecho a la salud, el Sistema Nacional Integrado de Salud y la responsabilidad en el ámbito sanitario."
 tags:
-  - derecho de salud
-  - salud
+  - derecho
   - derecho sanitario
+  - salud
+  - salud publica
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

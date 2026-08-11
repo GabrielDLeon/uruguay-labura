@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Física"
 similar:
-  - ingenieria-fisica-doctorado-udelar
   - fisica-maestria-udelar
   - licenciatura-en-fisica-udelar
-  - ingenieria-fisica-maestria-udelar
+  - ingenieria-fisica-doctorado-udelar
   - fisica-especializacion-udelar
-  - licenciatura-en-fisica-medica-udelar
+  - ingenieria-fisica-maestria-udelar
+  - licenciatura-en-astronomia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Secretaría de Posgrado del IPES"
 tags:
   - fisica
+  - ciencias exactas
+  - astrofisica
+  - fisica nuclear
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

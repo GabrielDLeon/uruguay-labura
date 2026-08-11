@@ -2,11 +2,11 @@
 title: "Máster en Tributación"
 similar:
   - postgrado-en-tributacion-nacional-um
-  - diplomado-en-tributacion-ude
   - postgrado-en-tributacion-aplicada-um
   - postgrado-en-tributacion-internacional-um
-  - postgrado-en-tecnica-tributaria-um
-  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - diplomado-en-tributacion-ude
+  - tributaria-maestria-udelar
+  - tributaria-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -22,6 +22,7 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/mast
 location: "Montevideo"
 description: "Máster en Tributación de la Universidad de Montevideo. Formación profunda del sistema tributario con foco en los tributos y una visión crítica e independiente de la materia."
 tags:
+  - derecho
   - tributacion
   - impuestos
   - derecho tributario

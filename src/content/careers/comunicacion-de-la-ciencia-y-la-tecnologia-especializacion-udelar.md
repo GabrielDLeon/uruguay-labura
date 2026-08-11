@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-comunicacion-udelar
   - diploma-de-especializacion-en-direccion-de-comunicacion-ort
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - doctorado-en-comunicacion-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - comunicacion
+  - comunicacion cientifica
+  - periodismo cientifico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

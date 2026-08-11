@@ -2,11 +2,11 @@
 title: "Especialización en Educación Ambiental"
 similar:
   - educacion-ambiental-maestria-udelar
-  - educacion-y-extension-rural-maestria-udelar
+  - ingenieria-ambiental-ucu
+  - maestria-en-gestion-ambiental-ude
+  - tecnologo-en-control-ambiental-utec
   - ingenieria-ambiental-especializacion-udelar
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - ingenieria-ambiental-doctorado-udelar
-  - ingenieria-ambiental-maestria-udelar
+  - educacion-y-extension-rural-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: "IPES- Asilo 3255, Montevideo"
 tags:
   - educacion
+  - educacion ambiental
   - medio ambiente
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

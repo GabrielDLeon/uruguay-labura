@@ -2,11 +2,11 @@
 title: "Maestría en Ciencia de Datos y Aprendizaje Automático"
 similar:
   - ciencia-de-datos-aplicada-maestria-udelar
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - postgrado-en-ciencia-de-datos-para-finanzas-um
   - ciencia-de-datos-especializacion-udelar
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - maestria-en-ciencia-de-datos-um
+  - ingenieria-de-datos-e-inteligencia-artificial-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,8 +23,9 @@ startDate: ""
 applicationDeadline: "maestriaCDAA@fing.edu.uy"
 tags:
   - ciencia de datos
-  - informatica
+  - machine learning
   - inteligencia artificial
+  - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

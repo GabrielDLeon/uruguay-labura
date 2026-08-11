@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Investigación Aplicada a la Ingeniería"
 similar:
-  - doctorado-en-ingenieria-ucu
   - doctorado-en-ingenieria-ort
   - master-en-ingenieria-por-investigacion-ort
   - maestria-en-ciencias-de-la-ingenieria-ucu
-  - diploma-en-metodos-de-investigacion-y-analisis-de-datos-ucu
-  - ingenieria-fisica-doctorado-udelar
+  - doctorado-en-ingenieria-ucu
+  - ingenieria-en-telecomunicaciones-ucu
+  - licenciatura-en-ingenieria-de-medios-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -21,9 +21,9 @@ website: "https://www.um.edu.uy/centro-de-postgrados-de-ingenieria/oferta-academ
 location: "Montevideo"
 description: "Maestría en Investigación Aplicada a la Ingeniería del Centro de Postgrados de Ingeniería de la Universidad de Montevideo. Cuatro semestres y 150 créditos para desarrollar competencias de investigación y preparar la tesis doctoral."
 tags:
-  - investigacion
   - ingenieria
-  - posgrado
+  - investigacion
+  - innovacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

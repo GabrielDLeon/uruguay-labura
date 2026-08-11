@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Psicomotricidad"
 similar:
+  - licenciatura-en-psicomotricidad-ucu
+  - diplomado-en-fisioterapia-en-el-deporte-ude
   - licenciatura-en-psicologia-udelar
-  - licenciatura-en-psicologia-ucu
-  - psicologia-doctorado-udelar
-  - psicologia-social-maestria-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - licenciatura-en-psicologia-um
   - licenciatura-en-ciencias-del-comportamiento-ucu
+  - ciencias-cognitivas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -23,7 +23,11 @@ description: "Las acciones del Licenciado en Psicomotricidad se llevan a cabo a 
 startDate: ""
 applicationDeadline: ""
 tags:
+  - psicomotricidad
   - psicologia
+  - neurociencias
+  - educacion
+  - rehabilitacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

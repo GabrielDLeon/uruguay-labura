@@ -2,11 +2,11 @@
 title: "Maestría en Contabilidad y Técnica Tributaria"
 similar:
   - postgrado-en-contabilidad-um
-  - postgrado-en-tecnica-tributaria-um
   - master-en-impuestos-y-normas-de-contabilidad-niif-ort
+  - postgrado-en-tecnica-tributaria-um
   - diploma-de-especializacion-en-contabilidad-ort
+  - tributaria-maestria-udelar
   - contabilidad-y-auditoria-maestria-udelar
-  - postgrado-en-gestion-contable-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -24,7 +24,8 @@ description: "Maestría en Contabilidad y Técnica Tributaria de la Universidad 
 tags:
   - contabilidad
   - tributacion
-  - posgrado
+  - impuestos
+  - gestion contable
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

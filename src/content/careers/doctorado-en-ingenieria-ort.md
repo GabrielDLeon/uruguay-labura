@@ -2,10 +2,10 @@
 title: "Doctorado en Ingeniería"
 similar:
   - maestria-en-investigacion-aplicada-a-la-ingenieria-um
-  - ingenieria-ambiental-doctorado-udelar
   - doctorado-en-ingenieria-ucu
-  - ingenieria-en-informatica-ucu
-  - ingenieria-en-computacion-maestria-udelar
+  - maestria-en-ciencias-de-la-ingenieria-ucu
+  - master-en-ingenieria-por-investigacion-ort
+  - ingenieria-en-telecomunicaciones-ucu
   - ingenieria-fisica-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
@@ -23,6 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Doctorado en Ingeniería de ORT Uruguay. Su objetivo principal es la formación de investigadores en ingeniería mediante la realización de una tesis doctoral con aportes originales y significativos."
 tags:
   - ingenieria
+  - investigacion
+  - innovacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

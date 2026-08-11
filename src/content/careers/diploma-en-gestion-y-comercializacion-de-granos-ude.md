@@ -4,6 +4,9 @@ similar:
   - gestion-y-comercializacion-de-commodities-ude
   - administracion-de-agronegocios-ude
   - licenciatura-en-gestion-agropecuaria-ude
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - agronomia-ucu
+  - tecnico-agropecuario-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -17,9 +20,10 @@ website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/diploma-en-gestion-y-
 location: "Montevideo"
 description: "Diplomado orientado a diseñar la estrategia comercial de las empresas agrícolas, formulando y evaluando el planeamiento comercial en relación al mercado granario y su cadena."
 tags:
+  - agronegocios
   - granos
   - comercializacion
-  - agronegocios
+  - estrategia comercial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

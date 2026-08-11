@@ -2,9 +2,11 @@
 title: "Maestría en Ciencias Cognitivas"
 similar:
   - licenciatura-en-ciencias-del-comportamiento-ucu
+  - licenciatura-en-ciencias-biologicas-udelar
+  - licenciatura-en-psicologia-um
+  - licenciatura-en-psicomotricidad-udelar
   - psicologia-social-maestria-udelar
-  - psicologia-clinica-maestria-udelar
-  - psicologia-y-educacion-maestria-udelar
+  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -20,7 +22,9 @@ description: "Título otorgado: “Magíster en Ciencias Cognitivas” Perfil de
 startDate: ""
 applicationDeadline: ""
 tags:
+  - ciencias cognitivas
   - psicologia
+  - neurociencias
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

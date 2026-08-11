@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Artes - Diseño Gráfico"
 similar:
+  - licenciatura-en-diseno-grafico-ude
   - diseno-grafico-ort
-  - licenciatura-en-artes-ceramica-udelar
-  - licenciatura-en-artes-dibujo-y-pintura-udelar
+  - tecnico-en-diseno-grafico-ude
+  - disenador-grafico-ude
   - licenciatura-en-diseno-grafico-ort
-  - licenciatura-en-artes-digitales-ort
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-diseno-de-comunicacion-visual-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -23,8 +23,10 @@ description: "Licenciatura en Artes - Diseño Gráfico, ofrecida por la Universi
 startDate: ""
 applicationDeadline: ""
 tags:
-  - arte
+  - diseno grafico
   - diseno
+  - arte
+  - comunicacion visual
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

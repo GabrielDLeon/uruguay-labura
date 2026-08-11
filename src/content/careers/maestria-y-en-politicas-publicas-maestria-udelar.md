@@ -2,11 +2,11 @@
 title: "Maestría en Maestria y en Politicas Públicas"
 similar:
   - genero-y-politicas-publicas-especializacion-udelar
+  - maestria-en-politicas-publicas-ucu
+  - politicas-y-gestion-publica-maestria-udelar
   - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
   - afrodescendencia-y-politicas-publicas-especializacion-udelar
-  - jovenes-juventud-y-politicas-publicas-especializacion-udelar
-  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,10 @@ description: "*La Maestría consta de un total de 120 créditos, 40 de los cuale
 startDate: ""
 applicationDeadline: ""
 tags:
+  - politicas publicas
   - ciencias sociales
+  - gestion publica
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

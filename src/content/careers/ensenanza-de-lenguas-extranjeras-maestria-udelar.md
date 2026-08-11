@@ -4,9 +4,9 @@ similar:
   - ensenanza-de-lenguas-extranjeras-especializacion-udelar
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
   - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
-  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
   - didactica-para-ensenanza-media-especializacion-udelar
-  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - didactica-para-ensenanza-primaria-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - educacion
-  - letras
+  - formacion docente
+  - lenguas extranjeras
+  - ensenanza de lenguas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

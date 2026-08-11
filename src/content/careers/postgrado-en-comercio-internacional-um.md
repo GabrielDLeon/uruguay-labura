@@ -2,7 +2,11 @@
 title: "Postgrado en Comercio Internacional"
 similar:
   - master-en-integracion-y-comercio-internacional-um
+  - licenciatura-en-negocios-internacionales-ucu
   - licenciado-en-comercio-exterior-ude
+  - postgrado-en-tributacion-internacional-um
+  - licenciatura-en-negocios-internacionales-um
+  - analista-en-comercio-exterior-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -19,7 +23,8 @@ description: "Postgrado en Comercio Internacional de la Universidad de Montevide
 tags:
   - comercio internacional
   - derecho comercial
-  - integracion
+  - integracion regional
+  - negocios internacionales
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

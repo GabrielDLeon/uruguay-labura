@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Economía y Gestión Bancaria"
 similar:
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - economia-y-gestion-para-la-inclusion-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - licenciatura-en-economia-y-finanzas-ude
+  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - economia-y-gestion-para-la-inclusion-especializacion-udelar
+  - licenciatura-en-economia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,9 +22,10 @@ description: "Presentación Diploma en Gestión Bancaria Este Diploma procura co
 startDate: ""
 applicationDeadline: "cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
 tags:
-  - administracion
   - economia
   - finanzas
+  - banca
+  - gestion bancaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

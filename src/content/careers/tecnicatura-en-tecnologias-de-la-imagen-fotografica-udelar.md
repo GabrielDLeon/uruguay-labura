@@ -1,6 +1,12 @@
 ---
 title: "Tecnicatura en Tecnologías de la Imagen Fotográfica"
-similar: []
+similar:
+  - licenciatura-en-artes-fotografia-udelar
+  - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
+  - licenciatura-en-artes-visuales-ucu
+  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - cine-latinoamericano-maestria-udelar
+  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -18,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 240
 tags:
-  - ciencias sociales
+  - fotografia
+  - arte
+  - audiovisual
+  - tecnologia de la imagen
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

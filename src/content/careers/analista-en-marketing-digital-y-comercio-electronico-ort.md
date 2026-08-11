@@ -1,12 +1,12 @@
 ---
 title: "Analista en Marketing Digital y Comercio Electrónico"
 similar:
+  - analista-en-marketing-digital-ude
   - analista-en-marketing-ude
-  - licenciatura-en-marketing-y-estrategia-comercial-ucu
-  - marketing-maestria-udelar
+  - licenciatura-en-negocios-digitales-um
+  - licenciatura-en-negocios-digitales-ort
   - licenciatura-en-comunicacion-y-marketing-ucu
   - analista-en-publicidad-y-comunicacion-digital-ort
-  - licenciatura-en-marketing-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Analista en Marketing Digital y Comercio Electrónico forma personas capaces de implementar y potenciar la transformación digital de las organizaciones."
 tags:
   - marketing
+  - marketing digital
+  - comercio electronico
+  - transformacion digital
+  - negocios digitales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

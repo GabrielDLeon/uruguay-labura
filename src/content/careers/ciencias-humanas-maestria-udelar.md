@@ -2,10 +2,11 @@
 title: "Maestría en Ciencias Humanas"
 similar:
   - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
-  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
-  - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
-  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
-  - licenciatura-en-ciencias-sociales-udelar
+  - fundamentos-de-trabajo-social-especializacion-udelar
+  - psicologia-social-maestria-udelar
+  - antropologia-udelar
+  - trabajo-social-maestria-udelar
+  - sociologia-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -21,7 +22,9 @@ description: "La formación académica de grado de nuestra facultad se complemen
 startDate: ""
 applicationDeadline: "Facultad de Humanidades"
 tags:
+  - humanidades
   - ciencias sociales
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

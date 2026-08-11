@@ -2,11 +2,11 @@
 title: "Maestría en Historia"
 similar:
   - historia-udelar
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - carnaval-y-patrimonio-especializacion-udelar
+  - licenciatura-en-humanidades-um
   - patrimonio-documental-historia-y-gestion-maestria-udelar
   - patrimonio-documental-historia-y-gestion-especializacion-udelar
-  - historia-economica-maestria-udelar
-  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - licenciatura-en-humanidades-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -24,8 +24,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Historia de la Universidad de Montevideo. Dos años de formación semipresencial con opciones en Cultura y Sociedad y en Arte y Patrimonio, reconocida por el MEC y orientada a la investigación y la docencia."
 tags:
   - historia
-  - investigacion
+  - humanidades
   - patrimonio
+  - patrimonio cultural
+  - investigacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Ciencias Ambientales"
 similar:
-  - ciencias-ambientales-maestria-udelar
   - ciencias-ambientales-especializacion-udelar
+  - ciencias-ambientales-maestria-udelar
   - ingenieria-ambiental-doctorado-udelar
-  - hidrologia-subterranea-especializacion-udelar
-  - manejo-costero-integrado-del-cono-sur-maestria-udelar
-  - manejo-costero-integrado-especializacion-udelar
+  - licenciatura-en-recursos-naturales-udelar
+  - licenciatura-en-gestion-ambiental-udelar
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medio ambiente
+  - ciencias ambientales
+  - gestion ambiental
+  - ecologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

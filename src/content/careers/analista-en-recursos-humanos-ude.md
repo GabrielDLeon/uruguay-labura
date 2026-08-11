@@ -1,8 +1,12 @@
 ---
 title: "Analista en Recursos Humanos"
 similar:
-  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - licenciatura-en-recursos-humanos-ude
+  - diploma-de-especializacion-en-recursos-humanos-ort
+  - master-en-direccion-de-recursos-humanos-ort
+  - licenciatura-en-gestion-de-talento-humano-um
   - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -17,9 +21,11 @@ website: "https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-recursos
 location: "Montevideo"
 description: "La carrera de Analista en Recursos Humanos forma en un año graduados capacitados para desempeñarse a nivel operativo en la incorporación de personas, la capacitación, la administración de remuneraciones y la gestión del talento."
 tags:
-  - recursos-humanos
-  - gestion-de-personas
-  - capacitacion
+  - recursos humanos
+  - gestion de personas
+  - seleccion de personal
+  - capacitacion laboral
+  - compensaciones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

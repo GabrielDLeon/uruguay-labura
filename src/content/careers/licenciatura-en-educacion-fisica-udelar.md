@@ -2,11 +2,11 @@
 title: "Licenciatura en Educación Física"
 similar:
   - licenciatura-en-educacion-fisica-rivera-udelar
-  - educacion-fisica-maestria-udelar
   - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - educacion-fisica-maestria-udelar
   - tecnicatura-en-educacion-y-recreacion-ucu
-  - licenciatura-en-educacion-inicial-ucu
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
+  - licenciatura-en-recreacion-educativa-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
+  - educacion fisica
   - deporte
+  - actividad fisica
+  - recreacion
   - educacion
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ingeniería de la Energía"
 similar:
-  - ingenieria-de-celulosa-y-papel-maestria-udelar
-  - ingenieria-ambiental-maestria-udelar
   - ingenieria-de-la-energia-doctorado-udelar
   - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-en-sistemas-electricos-de-potencia-ucu
   - ingenieria-electrica-ort
+  - ingenieria-en-energias-renovables-utec
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-de-celulosa-y-papel-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -24,6 +24,9 @@ applicationDeadline: "Facultad de ingeniería"
 tags:
   - energia
   - ingenieria
+  - generacion de energia
+  - energias renovables
+  - eficiencia energetica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

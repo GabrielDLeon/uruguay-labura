@@ -2,11 +2,11 @@
 title: "Doctorado en Ingeniería en Mecánica de los Fluidos Aplicada"
 similar:
   - ingenieria-de-la-energia-doctorado-udelar
-  - ingenieria-estructural-doctorado-udelar
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
   - ingenieria-mecanica-doctorado-udelar
-  - ingenieria-fisica-doctorado-udelar
   - ingenieria-mecanica-maestria-udelar
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-mecanica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,6 +22,8 @@ description: "El objetivo general de la carrera de Doctorado es aumentar la gene
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - mecanica de fluidos
+  - ingenieria mecanica
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

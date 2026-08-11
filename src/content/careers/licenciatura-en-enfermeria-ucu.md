@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-enfermeria-ude
   - licenciatura-en-enfermeria-profesionalizacion-ucu
   - enfermeria-en-nefrologia-especializacion-udelar
+  - licenciatura-en-enfermeria-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
   - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
-  - licenciatura-en-enfermeria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -25,6 +25,7 @@ tags:
   - enfermeria
   - salud
   - cuidados
+  - atencion comunitaria
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

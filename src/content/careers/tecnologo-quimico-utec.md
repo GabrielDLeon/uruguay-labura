@@ -2,9 +2,12 @@
 title: "Tecnólogo Químico"
 short: "Tecnólogo Químico"
 similar:
-  - quimico-udelar
   - tecnico-en-procesos-y-analisis-quimico-utec
-  - tecnologo-quimico-udelar
+  - quimico-udelar
+  - ingenieria-quimica-udelar
+  - ingenieria-quimica-doctorado-udelar
+  - ingenieria-quimica-maestria-udelar
+  - ingenieria-quimica-um
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -23,6 +26,10 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - quimica
+  - quimica industrial
+  - procesos industriales
+  - industria alimentaria
+  - alimentos
 ---
 
 ## Resumen

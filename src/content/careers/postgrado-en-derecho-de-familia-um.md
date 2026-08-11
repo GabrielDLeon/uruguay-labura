@@ -1,6 +1,12 @@
 ---
 title: "Postgrado en Derecho de Familia"
-similar: []
+similar:
+  - postgrado-en-derecho-procesal-aplicado-um
+  - postgrado-en-derecho-contractual-um
+  - postgrado-en-derecho-del-trabajo-aplicado-um
+  - postgrado-en-derecho-penal-economico-um
+  - llm-master-en-derecho-um
+  - derecho-de-danos-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -16,9 +22,10 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Derecho de Familia de la Universidad de Montevideo. Formación virtual e interdisciplinaria sobre la dinámica del derecho de familia para abogados, escribanos y operadores jurídicos."
 tags:
+  - derecho
   - derecho de familia
-  - familia
   - derecho civil
+  - familia
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

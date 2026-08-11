@@ -2,6 +2,11 @@
 title: "Especialización en Pediatría"
 similar:
   - genetica-medica-pediatria-especializacion-udelar
+  - psiquiatria-pediatrica-especializacion-udelar
+  - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
+  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
+  - anatomia-patologica-pediatrica-especializacion-udelar
+  - cardiologia-pediatrica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +23,9 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - pediatria
+  - ninos y adolescentes
+  - primera infancia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

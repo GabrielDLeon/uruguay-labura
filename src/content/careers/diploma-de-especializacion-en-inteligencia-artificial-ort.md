@@ -1,11 +1,11 @@
 ---
 title: "Diploma de Especialización en Inteligencia Artificial"
 similar:
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - master-en-inteligencia-artificial-ort
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - especializacion-en-robotica-e-inteligencia-artificial-utec
-  - maestria-en-robotica-e-inteligencia-artificial-utec
   - ingenieria-de-datos-e-inteligencia-artificial-um
+  - especializacion-en-robotica-e-inteligencia-artificial-utec
   - diploma-en-inteligencia-artificial-aplicada-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
@@ -24,6 +24,7 @@ description: "El objetivo del Diploma de Especialización en Inteligencia Artifi
 tags:
   - informatica
   - inteligencia artificial
+  - machine learning
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

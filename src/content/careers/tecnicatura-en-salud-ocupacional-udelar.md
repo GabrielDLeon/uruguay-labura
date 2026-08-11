@@ -2,11 +2,11 @@
 title: "Tecnicatura en Salud Ocupacional"
 similar:
   - salud-ocupacional-especializacion-udelar
+  - seguridad-y-salud-en-el-trabajo-especializacion-udelar
   - salud-mental-maestria-udelar
   - salud-familiar-y-comunitaria-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
-  - salud-mental-y-psiquiatria-especializacion-udelar
-  - maestria-en-salud-publica-ude
+  - maestria-en-epidemiologia-y-salud-digital-ucu
+  - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -23,7 +23,11 @@ description: "Es un tecnólogo universitario capacitado para el reconocimiento d
 startDate: ""
 applicationDeadline: ""
 tags:
+  - salud ocupacional
   - salud publica
+  - medicina del trabajo
+  - riesgos laborales
+  - seguridad industrial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

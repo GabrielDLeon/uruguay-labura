@@ -3,10 +3,10 @@ title: "Maestría en Ciencias Ambientales"
 similar:
   - ciencias-ambientales-especializacion-udelar
   - ciencias-ambientales-doctorado-udelar
-  - licenciatura-en-gestion-ambiental-udelar
   - maestria-en-gestion-ambiental-ude
-  - ingenieria-ambiental-doctorado-udelar
-  - manejo-costero-integrado-del-cono-sur-maestria-udelar
+  - ingenieria-ambiental-ucu
+  - licenciatura-en-recursos-naturales-udelar
+  - licenciatura-en-gestion-ambiental-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medio ambiente
+  - ciencias ambientales
+  - gestion ambiental
+  - ecologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

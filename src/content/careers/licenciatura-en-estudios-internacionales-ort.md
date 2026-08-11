@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Estudios Internacionales"
 similar:
-  - licenciatura-en-negocios-internacionales-ucu
-  - analista-en-comercio-exterior-ort
-  - analista-en-comercio-exterior-ude
-  - diploma-de-especializacion-en-fiscalidad-internacional-ort
-  - master-en-business-analytics-ort
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
+  - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
+  - licenciatura-en-relaciones-internacionales-ude
+  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
+  - licenciatura-en-negocios-internacionales-um
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - licenciado-en-comercio-exterior-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Una visión amplia de las relaciones internacionales globales en materia de diplomacia, comercio, política exterior, organismos internacionales, etc."
 tags:
-  - administracion
-  - negocios
+  - relaciones internacionales
+  - diplomacia
+  - comercio internacional
+  - ciencia politica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

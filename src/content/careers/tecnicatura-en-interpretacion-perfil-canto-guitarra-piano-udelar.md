@@ -2,11 +2,11 @@
 title: "Tecnicatura en Interpretación - Perfil Canto- Guitarra- Piano"
 similar:
   - tecnicatura-en-direccion-de-coros-udelar
+  - licenciatura-en-direccion-coral-udelar
   - licenciatura-en-interpretacion-musical-udelar
-  - ciclo-de-introduccion-la-musica-udelar
-  - productor-musical-ort
-  - arte-sonoro-maestria-udelar
-  - licenciatura-en-composicion-udelar
+  - licenciatura-en-jazz-y-musica-creativa-utec
+  - tecnologo-en-jazz-y-musica-creativa-utec
+  - licenciatura-en-artes-escenicas-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -24,6 +24,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - musica
+  - interpretacion musical
+  - canto
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

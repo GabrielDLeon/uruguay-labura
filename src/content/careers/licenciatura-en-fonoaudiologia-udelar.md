@@ -2,6 +2,11 @@
 title: "Licenciatura en Fonoaudiología"
 similar:
   - licenciatura-en-fonoaudiologia-ucu
+  - maestria-en-humanizacion-de-la-salud-ucu
+  - licenciatura-en-comunicacion-udelar
+  - otorrinolaringologia-especializacion-udelar
+  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-global-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -19,6 +24,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - fonoaudiologia
+  - audiologia
+  - comunicacion
+  - lenguaje
+  - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

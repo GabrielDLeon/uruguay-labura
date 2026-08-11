@@ -1,8 +1,12 @@
 ---
 title: "Técnico en Gestión de Equinos"
 similar:
-  - licenciatura-en-gestion-agropecuaria-ude
-  - maestria-en-gestion-y-salud-publica-ucu
+  - tecnologo-en-produccion-equina-udelar
+  - gestion-de-innovacion-maestria-udelar
+  - gestion-de-tecnologias-especializacion-udelar
+  - tecnologo-en-gestion-universitaria-udelar
+  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -20,6 +24,7 @@ tags:
   - equinos
   - produccion equina
   - gestion
+  - administracion
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

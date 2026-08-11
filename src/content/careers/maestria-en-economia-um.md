@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Economía"
 similar:
-  - licenciatura-en-politica-filosofia-y-economia-um
   - licenciatura-en-economia-ucu
+  - licenciatura-en-economia-udelar
+  - licenciatura-en-economia-ort
   - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
-  - licenciatura-en-economia-y-finanzas-ude
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - licenciatura-en-economia-um
+  - economia-doctorado-udelar
+  - economia-maestria-fcs-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -23,8 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Economía de la Universidad de Montevideo (UMPE). Brinda una base sólida en teoría económica, análisis de datos e investigación, preparando para la inserción en organismos internacionales, instituciones financieras, consultoras y empresas."
 tags:
   - economia
-  - posgrado
-  - analisis de datos
+  - ciencia de datos
+  - analisis economico
+  - econometria
+  - investigacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

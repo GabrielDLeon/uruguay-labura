@@ -1,10 +1,12 @@
 ---
 title: "Licenciatura en Recursos Humanos"
 similar:
+  - contador-publico-ude
+  - analista-en-recursos-humanos-ude
   - diploma-de-especializacion-en-recursos-humanos-ort
   - master-en-direccion-de-recursos-humanos-ort
-  - licenciatura-en-gestion-de-talento-humano-um
   - postgrado-en-derecho-del-trabajo-aplicado-um
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -23,7 +25,8 @@ tags:
   - recursos humanos
   - gestion de personas
   - derecho laboral
-  - organizacion
+  - relaciones laborales
+  - toma de decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -3,10 +3,10 @@ title: "Postgrado Ejecutivo Experto en Dirección de Personas"
 similar:
   - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
   - postgrado-liderazgo-y-toma-de-decisiones-ude
-  - analista-en-recursos-humanos-ude
   - licenciatura-en-gestion-de-talento-humano-um
-  - licenciatura-en-direccion-de-empresas-ucu
   - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
+  - master-en-direccion-de-recursos-humanos-ort
+  - diploma-de-especializacion-en-recursos-humanos-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -21,9 +21,11 @@ website: "https://ude.edu.uy/escuela-desarrollo-empresarial/postgrado-ejecutivo-
 location: "Montevideo"
 description: "El Postgrado Ejecutivo Experto en Dirección de Personas forma directivos en la dirección estratégica del talento humano y la gestión de equipos de alto desempeño."
 tags:
-  - recursos-humanos
+  - recursos humanos
+  - gestion de personas
   - liderazgo
-  - gestion-de-personas
+  - cultura organizacional
+  - habilidades gerenciales
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

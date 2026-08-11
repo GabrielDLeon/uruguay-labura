@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Endodoncia"
 similar:
+  - odontologia-restauradora-integral-especializacion-udelar
+  - periodoncia-especializacion-udelar
   - cirugia-y-traumatologia-buco-maxilo-facial-especializacion-udelar
   - implantologia-oral-especializacion-udelar
-  - odontologia-restauradora-integral-especializacion-udelar
   - odontopediatria-especializacion-udelar
   - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
-  - periodoncia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: "www.odon.edu.uy"
 tags:
   - odontologia
+  - endodoncia
+  - salud bucal
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

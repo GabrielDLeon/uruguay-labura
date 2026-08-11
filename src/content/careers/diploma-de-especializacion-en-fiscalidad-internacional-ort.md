@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Especialización en Fiscalidad Internacional"
 similar:
-  - master-en-business-analytics-ort
-  - licenciatura-en-estudios-internacionales-ort
-  - mba-senior-um
-  - mba-um
-  - licenciatura-en-direccion-de-empresas-ucu
-  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - master-en-impuestos-y-fiscalidad-internacional-ort
+  - postgrado-en-tributacion-internacional-um
+  - tributaria-especializacion-udelar
+  - diplomado-en-tributacion-ude
+  - postgrado-en-tecnica-tributaria-um
+  - tributaria-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "El posgrado en Fiscalidad Internacional de la Escuela de Postgrados en Negocios de ORT aborda aspectos complejos de la materia tributaria."
 tags:
-  - administracion
   - negocios
+  - tributacion
+  - tributacion internacional
+  - impuestos
+  - derecho tributario
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

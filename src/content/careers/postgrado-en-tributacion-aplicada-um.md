@@ -3,8 +3,8 @@ title: "Postgrado en Tributación Aplicada"
 similar:
   - postgrado-en-tributacion-nacional-um
   - diplomado-en-tributacion-ude
-  - master-en-tributacion-um
   - postgrado-en-tributacion-internacional-um
+  - master-en-tributacion-um
   - postgrado-en-tecnica-tributaria-um
   - postgrado-en-contabilidad-um
 institutionName: "Universidad de Montevideo"
@@ -23,7 +23,7 @@ description: "Postgrado en Tributación Aplicada de la Universidad de Montevideo
 tags:
   - tributacion
   - impuestos
-  - contabilidad
+  - derecho tributario
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

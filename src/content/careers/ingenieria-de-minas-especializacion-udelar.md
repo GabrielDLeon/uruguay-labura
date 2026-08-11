@@ -5,8 +5,8 @@ similar:
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-de-la-energia-especializacion-udelar
   - ingenieria-electrica-doctorado-udelar
+  - tecnologo-minero-udelar
   - ingenieria-en-agrimensura-udelar
-  - ingenieria-de-celulosa-y-papel-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,9 @@ description: "El Diploma de Especialización en Ingeniería de Minas, de acuerdo
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - geologia
+  - mineria
   - ingenieria
+  - geologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,10 +1,10 @@
 ---
 title: "Licenciatura en Marketing"
 similar:
-  - analista-en-marketing-ude
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
   - licenciatura-en-marketing-y-estrategia-comercial-ucu
   - licenciatura-en-comunicacion-y-marketing-ucu
-  - licenciatura-en-marketing-ude
+  - analista-en-marketing-ude
   - licenciatura-en-marketing-y-direccion-comercial-ort
   - maestria-en-marketing-y-direccion-comercial-ude
 institutionName: "Universidad de Montevideo"
@@ -24,7 +24,8 @@ tags:
   - marketing
   - publicidad
   - comunicacion comercial
-  - analitica
+  - ciencia de datos
+  - direccion comercial
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -2,11 +2,11 @@
 title: "Especialización en Enseñanza de Lenguas – Mención Español Como Lengua Extranjera o Portugués Como Lengua Extranjera"
 similar:
   - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
+  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
   - ensenanza-de-lenguas-extranjeras-especializacion-udelar
   - ensenanza-de-lenguas-extranjeras-maestria-udelar
-  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
   - traductorado-publico-portugues-udelar
-  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-especializacion-udelar
+  - licenciatura-en-traduccion-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - educacion
-  - letras
+  - ensenanza de lenguas
+  - lengua espanola
+  - lengua portuguesa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

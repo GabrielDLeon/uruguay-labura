@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Humanización de la Salud"
 similar:
+  - maestria-en-cuidados-paliativos-ucu
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
-  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
   - maestria-en-salud-publica-ude
-  - maestria-en-direccion-de-empresas-de-salud-um
-  - licenciatura-en-fonoaudiologia-ucu
-  - diploma-en-derecho-de-salud-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -21,10 +21,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Humanización de la Salud de la UCU. Capacita para contribuir a la transformación del modelo de atención en salud a través de equipos sólidos, vínculos terapéuticos empáticos y un ejercicio profesional centrado en las personas."
 tags:
-  - humanizacion
   - salud
+  - humanizacion
+  - atencion centrada en la persona
   - comunicacion
-  - espiritualidad
+  - bioetica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

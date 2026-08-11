@@ -2,11 +2,11 @@
 title: "Diploma de Especialización en Arquitectura Sostenible"
 similar:
   - arquitectura-ucu
+  - especializacion-en-turismo-sostenible-utec
   - carrera-de-arquitectura-ort
-  - arquitectura-en-madera-especializacion-udelar
-  - construccion-de-obras-de-arquitectura-especializacion-udelar
-  - arquitectura-doctorado-udelar
-  - arquitectura-maestria-udelar
+  - ingenieria-en-agua-y-desarrollo-sostenible-utec
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - tecnologo-en-agua-y-desarrollo-sostenible-utec
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma de Especialización en Arquitectura Sostenible brinda las herramientas y la capacitación necesaria para incorporar a los proyectos."
 tags:
   - arquitectura
+  - arquitectura sostenible
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,7 +2,11 @@
 title: "Ingeniería Civil"
 similar:
   - ingenieria-civil-um
-  - ingenieria-ambiental-ucu
+  - ingenieria-civil-udelar
+  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-estructural-maestria-udelar
+  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -21,7 +25,9 @@ tags:
   - ingenieria civil
   - infraestructura
   - construccion
-  - sostenibilidad
+  - ingenieria estructural
+  - ingenieria hidraulica
+  - ingenieria sanitaria
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

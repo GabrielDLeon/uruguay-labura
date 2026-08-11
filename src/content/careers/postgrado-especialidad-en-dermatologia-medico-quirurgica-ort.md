@@ -4,6 +4,9 @@ similar:
   - dermatologia-medico-quirurgica-especializacion-udelar
   - enfermeria-medico-quirurgica-especializacion-udelar
   - licenciatura-en-instrumentacion-quirurgica-udelar
+  - angiologia-y-cirugia-vascular-especializacion-udelar
+  - cirugia-cardiaca-especializacion-udelar
+  - cirugia-general-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -20,6 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Especialidad en Dermatología Médico-Quirúrgica: formación clínica y académica de excelencia para médicos que buscan especializarse en salud cutánea."
 tags:
   - medicina
+  - dermatologia
+  - cirugia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

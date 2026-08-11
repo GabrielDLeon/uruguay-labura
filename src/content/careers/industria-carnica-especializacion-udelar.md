@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Industria Cárnica"
 similar:
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - ciencias-agrarias-maestria-udelar
   - ciencia-y-tecnologia-de-alimentos-maestria-udelar
-  - ciencias-agrarias-doctorado-udelar
-  - ingenieria-forestal-udelar
+  - tecnologo-carnico-udelar
   - ingenieria-de-alimentos-udelar
+  - ingenieria-en-alimentos-ucu
+  - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
+  - tecnico-en-procesos-y-analisis-quimico-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,10 @@ description: "El objetivo general del programa es preparar a profesionales unive
 startDate: ""
 applicationDeadline: "Facultad de Agronomía"
 tags:
-  - agronomia
   - alimentos
+  - carnes
+  - industria alimentaria
+  - tecnologia de alimentos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

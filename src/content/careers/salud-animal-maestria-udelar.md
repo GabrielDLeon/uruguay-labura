@@ -5,8 +5,8 @@ similar:
   - reproduccion-animal-maestria-udelar
   - nutricion-de-rumiantes-maestria-udelar
   - salud-animal-doctorado-udelar
+  - tecnico-en-ciencias-veterinarias-ude
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - produccion-animal-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "Normal 0 21 false false false MicrosoftInternetExplorer4 DISPOSICI
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
 tags:
-  - salud publica
+  - salud animal
   - veterinaria
+  - medicina veterinaria preventiva
+  - epidemiologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

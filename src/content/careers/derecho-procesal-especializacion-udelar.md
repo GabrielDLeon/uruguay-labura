@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Derecho Procesal"
 similar:
-  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
+  - master-en-derecho-procesal-y-litigacion-um
+  - postgrado-en-derecho-procesal-aplicado-um
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - abogacia-ucu
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
-  - derecho-opcion-administrativo-y-gestion-publica-especializacion-udelar
-  - notariado-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
+  - derecho procesal
+  - litigacion
+  - justicia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

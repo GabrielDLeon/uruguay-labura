@@ -1,7 +1,12 @@
 ---
 title: "Especialización en Traumatología y Ortopedia"
 similar:
+  - traumatologia-y-ortopedia-especializacion-udelar
   - maestria-en-fisioterapia-traumatologica-ucu
+  - tecnicatura-en-podologia-udelar
+  - cirugia-y-traumatologia-buco-maxilo-facial-especializacion-udelar
+  - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
+  - rehabilitacion-y-medicina-fisica-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "especializacion"
@@ -16,9 +21,10 @@ website: "https://www.um.edu.uy/ciencias-biomedicas/oferta-academica/especialida
 location: "Montevideo"
 description: "Especialización en Traumatología y Ortopedia del Centro de Ciencias Biomédicas de la Universidad de Montevideo. Programa con perfil único en Uruguay, con formación asistencial en el Hospital Británico y hospitales de ASSE, clases teóricas e investigación."
 tags:
+  - medicina
   - traumatologia
   - ortopedia
-  - salud
+  - rehabilitacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

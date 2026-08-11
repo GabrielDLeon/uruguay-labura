@@ -2,6 +2,11 @@
 title: "Especialización en Bases Inmunogenéticas de los Transplantes"
 similar:
   - coordinacion-de-transplantes-especializacion-udelar
+  - alergologia-especializacion-udelar
+  - banco-de-tejidos-para-trasplantes-especializacion-udelar
+  - transplante-de-progenitores-hematopeyicos-especializacion-udelar
+  - genetica-medica-adultos-especializacion-udelar
+  - genetica-medica-pediatria-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - inmunologia
+  - genetica
+  - transplantes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

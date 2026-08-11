@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería en Alimentos"
 similar:
+  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
   - ingenieria-de-alimentos-udelar
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
   - tecnico-operador-de-alimentos-udelar
-  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
+  - licenciatura-en-ciencia-y-tecnologia-de-lacteos-utec
   - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
-  - ingenieria-industrial-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -22,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería en Alimentos de la UCU. Forma profesionales capaces de desarrollar productos, seleccionar materias primas, definir procesos productivos y verificar la calidad a lo largo de toda la cadena alimentaria."
 tags:
-  - alimentos
-  - industria-alimentaria
   - ingenieria
+  - alimentos
+  - industria alimentaria
+  - ciencia y tecnologia de alimentos
+  - calidad alimentaria
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

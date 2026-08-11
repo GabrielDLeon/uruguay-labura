@@ -3,10 +3,10 @@ title: "Técnico Operador de Alimentos"
 similar:
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
   - ingenieria-en-alimentos-ucu
-  - ingenieria-de-alimentos-udelar
-  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
   - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
-  - tecnologo-carnico-udelar
+  - ingenieria-de-alimentos-udelar
+  - ciencias-nutricionales-maestria-udelar
+  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 160
 tags:
   - alimentos
+  - gastronomia
+  - nutricion
+  - servicio de alimentos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

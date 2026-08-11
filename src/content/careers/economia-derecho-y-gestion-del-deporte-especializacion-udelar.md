@@ -2,11 +2,11 @@
 title: "Especialización en Economía, Derecho y Gestión del Deporte"
 similar:
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - economia-y-gestion-bancaria-especializacion-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
-  - economia-y-gestion-para-la-inclusion-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - politicas-y-gestion-publica-maestria-udelar
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - licenciatura-en-economia-udelar
+  - licenciatura-en-economia-ucu
+  - derecho-de-danos-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,10 +22,11 @@ description: "Contribuir a la formación y perfeccionamiento de profesionales re
 startDate: ""
 applicationDeadline: ""
 tags:
-  - administracion
-  - deporte
-  - derecho
   - economia
+  - derecho
+  - deporte
+  - gestion deportiva
+  - administracion deportiva
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

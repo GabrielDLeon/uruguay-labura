@@ -2,11 +2,11 @@
 title: "Ingeniería en Electrónica"
 similar:
   - ingenieria-en-electronica-ucu
+  - ingenieria-en-control-y-automatica-utec
+  - ingenieria-en-mecatronica-utec
   - ingenieria-en-sistemas-ort
   - ingenieria-electrica-ort
-  - ingenieria-en-telecomunicaciones-ort
-  - ingenieria-de-produccion-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-electrica-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"
@@ -22,8 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería en Electrónica de ORT Uruguay. Los graduados de Ingeniería Electrónica diseñan, ponen en servicio y mantienen sistemas electrónicos en los más variados campos de aplicación."
 tags:
+  - ingenieria electronica
+  - electronica
   - ingenieria
-  - programa-roberto-rocca
+  - programa roberto rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -5,8 +5,8 @@ similar:
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - ciencias-odontologicas-doctorado-udelar
-  - odontologia-udelar
-  - maestria-en-periodoncia-ucu
+  - maestria-en-rehabilitacion-oral-ucu
+  - implantologia-oral-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - odontologia
+  - dolor orofacial
+  - funcion craneo mandibular
+  - rehabilitacion oral
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

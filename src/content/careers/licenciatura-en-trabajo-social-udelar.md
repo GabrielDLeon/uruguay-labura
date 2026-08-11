@@ -3,10 +3,10 @@ title: "Licenciatura en Trabajo Social"
 similar:
   - fundamentos-de-trabajo-social-especializacion-udelar
   - licenciatura-en-trabajo-social-ucu
-  - trabajo-social-maestria-udelar
   - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - trabajo-social-maestria-udelar
+  - discapacidad-en-lo-social-especializacion-udelar
+  - intervencion-familiar-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -23,8 +23,9 @@ description: "El Trabajo Social construye su espacio profesional a partir de una
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
   - trabajo social
+  - ciencias sociales
+  - intervencion social
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

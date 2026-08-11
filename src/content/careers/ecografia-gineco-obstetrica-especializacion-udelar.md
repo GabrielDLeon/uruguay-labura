@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Ecografía Gineco-obstétrica"
-similar: []
+similar:
+  - ginecotocologia-especializacion-udelar
+  - licenciatura-binacional-en-obstetricia-udelar
+  - obstetra-partera-udelar
+  - imagenologia-especializacion-udelar
+  - medicina-nuclear-especializacion-udelar
+  - investigacion-de-la-salud-con-enfasis-en-perinatologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - ginecologia
+  - obstetricia
+  - diagnostico por imagenes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

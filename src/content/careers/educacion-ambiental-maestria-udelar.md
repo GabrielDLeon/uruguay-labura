@@ -3,10 +3,10 @@ title: "Maestría en Educación Ambiental"
 similar:
   - educacion-ambiental-especializacion-udelar
   - educacion-y-desarrollo-especializacion-udelar
-  - ingenieria-ambiental-maestria-udelar
-  - ingenieria-ambiental-doctorado-udelar
-  - ingenieria-ambiental-especializacion-udelar
   - maestria-en-gestion-ambiental-ude
+  - ingenieria-ambiental-ucu
+  - tecnologo-en-control-ambiental-utec
+  - ingenieria-ambiental-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: "IPES- Asilo 3255, Montevideo"
 tags:
   - educacion
+  - educacion ambiental
   - medio ambiente
+  - sostenibilidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

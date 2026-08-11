@@ -1,11 +1,10 @@
 ---
 title: "Analista en Logística"
 similar:
-  - licenciatura-en-logistica-ude
   - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
-  - ingenieria-en-logistica-utec
   - tecnologo-en-logistica-utec
-  - analista-en-comercio-exterior-ude
+  - ingenieria-en-logistica-utec
+  - licenciatura-en-logistica-ude
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -21,7 +20,8 @@ location: "Montevideo"
 description: "Carrera técnica virtual con instancias presenciales de evaluación que forma profesionales para la gestión logística y las cadenas de suministro."
 tags:
   - logistica
-  - cadena-de-suministros
+  - cadena de suministros
+  - gestion de operaciones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

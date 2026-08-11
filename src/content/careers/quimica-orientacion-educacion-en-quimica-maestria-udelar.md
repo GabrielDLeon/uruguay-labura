@@ -2,11 +2,11 @@
 title: "Maestría en Química, Orientación Educación en Química"
 similar:
   - quimica-orientacion-educacion-en-quimica-doctorado-udelar
-  - educacion-ambiental-maestria-udelar
-  - educacion-y-desarrollo-especializacion-udelar
-  - ingenieria-quimica-maestria-udelar
-  - quimica-maestria-udelar
-  - ingenieria-quimica-doctorado-udelar
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - licenciatura-en-educacion-ucu
+  - maestria-en-educacion-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ description: "No se dispone de planes de estudio aprobados para estas titulacion
 startDate: ""
 applicationDeadline: ""
 tags:
-  - educacion
   - quimica
+  - educacion
+  - ensenanza de ciencias
+  - didactica
+  - formacion docente
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

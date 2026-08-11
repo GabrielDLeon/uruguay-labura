@@ -2,11 +2,11 @@
 title: "Diseñador de Moda"
 similar:
   - disenador-grafico-ude
+  - licenciatura-en-diseno-de-modas-ort
   - disenador-de-interiores-ude
   - licenciatura-en-diseno-de-indumentaria-ude
   - tecnicatura-en-diseno-de-indumentaria-ude
-  - tecnico-en-diseno-de-interiores-ude
-  - licenciatura-en-diseno-grafico-ude
+  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -21,9 +21,10 @@ website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/disenador-de-moda
 location: "Campus Virtual"
 description: "Diplomado en Diseñador de Moda de la UDE (1 año, Campus Virtual). Formación práctica en diseño de vestimenta, materiales y técnicas productivas, con dictado 100% en vivo."
 tags:
-  - diseño
+  - diseno
   - moda
   - indumentaria
+  - diseno de moda
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -4,9 +4,9 @@ similar:
   - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
   - ciencia-de-datos-especializacion-udelar
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - maestria-en-ciencia-de-datos-um
-  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - ingenieria-de-datos-e-inteligencia-artificial-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: "cpap@fing.edu.uy"
 tags:
   - ciencia de datos
+  - machine learning
+  - inteligencia artificial
   - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"

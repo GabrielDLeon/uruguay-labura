@@ -2,11 +2,11 @@
 title: "Especialización en Medicina Intensiva"
 similar:
   - terapia-intensiva-pediatrica-especializacion-udelar
+  - ciudados-intensivos-especializacion-udelar
+  - anestesiologia-especializacion-udelar
   - hemoterapia-y-medicina-transfucional-especializacion-udelar
   - medicina-del-deporte-especializacion-udelar
   - medicina-familiar-y-comunitaria-especializacion-udelar
-  - medicina-interna-especializacion-udelar
-  - medicina-legal-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - medicina intensiva
+  - cuidados intensivos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

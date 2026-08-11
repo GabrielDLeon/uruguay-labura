@@ -1,8 +1,11 @@
 ---
 title: "Especialización en Microbiología"
 similar:
-  - genetica-medica-adultos-especializacion-udelar
-  - genetica-medica-pediatria-especializacion-udelar
+  - enfermedades-infecciosas-especializacion-udelar
+  - parasitologia-y-micologia-medica-especializacion-udelar
+  - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
+  - ciclo-area-salud-udelar
+  - licenciatura-biologia-humana-udelar
   - bioinformatica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -19,8 +22,10 @@ description: "Especialización en Microbiología, dictada por la Facultad de Med
 startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
-  - biologia
   - medicina
+  - microbiologia
+  - bacteriologia
+  - biologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

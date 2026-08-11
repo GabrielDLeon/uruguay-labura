@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Relaciones Internacionales"
 similar:
-  - licenciatura-en-relaciones-laborales-udelar
+  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
   - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
-  - licenciatura-en-administracion-udelar
-  - licenciatura-en-economia-udelar
-  - contador-publico-udelar
-  - licenciatura-en-economia-ort
+  - licenciatura-en-relaciones-internacionales-ude
+  - licenciatura-en-estudios-internacionales-ort
+  - licenciatura-en-negocios-internacionales-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 320
 tags:
-  - programa-roberto-rocca
+  - relaciones internacionales
   - ciencias sociales
+  - integracion regional
+  - economia internacional
+  - programa roberto rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

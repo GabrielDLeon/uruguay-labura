@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Ingeniería de Medios"
 similar:
-  - licenciatura-en-ingenieria-biologica-udelar
+  - licenciatura-en-comunicacion-udelar
   - doctorado-en-ingenieria-ucu
-  - ingenieria-ambiental-ucu
   - ingenieria-quimica-udelar
-  - ingenieria-en-informatica-ucu
-  - ingenieria-en-telecomunicaciones-ucu
+  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
+  - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
+  - ingenieria-fisica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - ingenieria
+  - multimedia
+  - tecnologia
+  - comunicacion digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

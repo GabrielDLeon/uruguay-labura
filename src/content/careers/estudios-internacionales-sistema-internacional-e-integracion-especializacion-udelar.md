@@ -1,11 +1,12 @@
 ---
 title: "Especialización en Estudios Internacionales -sistema Internacional e Integración"
 similar:
-  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
-  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
-  - demografia-y-estudios-de-poblacion-maestria-udelar
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
+  - licenciatura-en-estudios-internacionales-ort
+  - licenciatura-en-relaciones-internacionales-ude
   - licenciatura-en-relaciones-internacionales-udelar
+  - master-en-integracion-y-comercio-internacional-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - ciencias sociales
+  - relaciones internacionales
+  - integracion regional
+  - diplomacia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -3,10 +3,10 @@ title: "Licenciatura en Negocios Internacionales"
 similar:
   - licenciatura-en-negocios-internacionales-ucu
   - licenciado-en-comercio-exterior-ude
-  - licenciatura-en-relaciones-internacionales-ude
-  - licenciatura-en-traduccion-um
+  - licenciatura-en-negocios-y-economia-ucu
+  - licenciatura-en-estudios-internacionales-ort
+  - master-en-integracion-y-comercio-internacional-um
   - analista-en-comercio-exterior-ude
-  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -23,8 +23,9 @@ description: "Licenciatura en Negocios Internacionales de la Universidad de Mont
 tags:
   - negocios internacionales
   - comercio exterior
-  - logistica
-  - idiomas
+  - comercio internacional
+  - logistica internacional
+  - lenguas extranjeras
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

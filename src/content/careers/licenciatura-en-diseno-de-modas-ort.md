@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Diseño de Modas"
 similar:
-  - tecnico-en-diseno-de-sonido-ort
-  - diseno-de-interfaces-ort
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - licenciatura-en-diseno-industrial-ort
-  - diseno-digital-ort
+  - licenciatura-en-diseno-de-indumentaria-ude
+  - tecnicatura-en-diseno-de-indumentaria-ude
+  - disenador-de-moda-ude
+  - licenciatura-en-diseno-grafico-ude
+  - licenciatura-en-diseno-industrial-ude
+  - tecnico-en-diseno-de-interiores-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño de Modas de ORT Uruguay. La Licenciatura en Diseño de Modas se dirige a personas con un marcado perfil creativo, con interés en el producto moda y sus estrategias de difusión."
 tags:
   - diseno
+  - diseno de moda
+  - moda
+  - indumentaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

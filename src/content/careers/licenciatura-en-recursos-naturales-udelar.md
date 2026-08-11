@@ -2,11 +2,11 @@
 title: "Licenciatura en Recursos Naturales"
 similar:
   - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - ingenieria-forestal-udelar
+  - tecnologo-agroambiental-utec
+  - ingenieria-agroambiental-utec
+  - licenciatura-en-gestion-ambiental-udelar
   - ingeniero-agronomo-ude
-  - ciencias-agrarias-maestria-udelar
-  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,7 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
+  - recursos naturales
   - agronomia
+  - medio ambiente
+  - gestion ambiental
+  - desarrollo sostenible
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

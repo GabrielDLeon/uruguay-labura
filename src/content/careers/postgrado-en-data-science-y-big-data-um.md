@@ -3,8 +3,10 @@ title: "Postgrado en Data Science & Big Data"
 similar:
   - maestria-en-ciencia-de-datos-um
   - postgrado-en-business-intelligence-y-data-science-um
+  - master-en-big-data-ort
   - ingenieria-de-datos-e-inteligencia-artificial-um
   - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - diploma-de-especializacion-en-analitica-de-big-data-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -19,9 +21,12 @@ website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-data-science-b
 location: "Campus Virtual"
 description: "Postgrado en Data Science & Big Data de la Universidad de Montevideo (UMPE). Forma en ciencia de datos y machine learning, combinando fundamentos estadísticos y de programación con una visión de negocios."
 tags:
-  - data science
+  - ciencia de datos
   - big data
   - machine learning
+  - estadistica
+  - programacion
+  - negocios
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

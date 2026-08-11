@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Logística"
 similar:
-  - analista-en-logistica-ude
   - ingenieria-en-logistica-utec
   - tecnologo-en-logistica-utec
+  - analista-en-logistica-ude
   - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
-  - licenciatura-en-negocios-internacionales-ucu
-  - licenciatura-en-negocios-internacionales-um
+  - transito-y-transporte-especializacion-udelar
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -23,7 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera universitaria con fuerte base teórica y científica orientada a la gestión de cadenas de suministro, con título intermedio de Técnico en Logística."
 tags:
   - logistica
-  - cadena-de-suministros
+  - cadena de suministros
   - transporte
 draft: true
 createdAt: "2026-08-09 15:12:26"

@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería Eléctrica"
 similar:
-  - ingenieria-electrica-udelar
   - ingenieria-en-sistemas-electricos-de-potencia-ucu
-  - ingenieria-de-la-energia-maestria-udelar
+  - ingenieria-electrica-udelar
   - ingenieria-electrica-doctorado-udelar
   - ingenieria-electrica-maestria-udelar
-  - ingenieria-en-electronica-ort
+  - ingenieria-de-la-energia-maestria-udelar
+  - sistemas-electricos-de-potencia-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"
@@ -22,8 +22,12 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Ingeniería Eléctrica de ORT Uruguay. Los ingenieros eléctricos planifican y diseñan instalaciones de cualquier porte para la generación, transporte y utilización de la energía eléctrica."
 tags:
-  - ingenieria
-  - programa-roberto-rocca
+  - ingenieria electrica
+  - energia
+  - electricidad
+  - instalaciones electricas
+  - generacion de energia
+  - programa roberto rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

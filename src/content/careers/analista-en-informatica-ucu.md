@@ -2,11 +2,11 @@
 title: "Analista en Informática"
 similar:
   - analista-en-tecnologia-informatica-ude
-  - analista-en-ingenieria-informatica-ude
-  - tecnicatura-en-desarrollador-de-software-ucu
-  - analista-en-infraestructura-informatica-ort
-  - tecnico-en-informatica-ude
+  - licenciatura-en-informatica-um
+  - ingenieria-en-informatica-um
   - ingenieria-en-informatica-ucu
+  - analista-en-ingenieria-informatica-ude
+  - analista-en-tecnologias-de-la-informacion-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -25,6 +25,7 @@ tags:
   - informatica
   - software
   - programacion
+  - sistemas de informacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

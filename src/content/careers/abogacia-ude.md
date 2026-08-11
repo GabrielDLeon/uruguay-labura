@@ -3,10 +3,10 @@ title: "Abogacía"
 similar:
   - escribania-ude
   - abogacia-ucu
-  - abogacia-um
   - abogacia-udelar
-  - notariado-um
-  - licenciatura-en-relaciones-internacionales-ude
+  - abogacia-um
+  - postgrado-en-asesoramiento-corporativo-um
+  - postgrado-en-derecho-contractual-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "carrera"
@@ -22,8 +22,8 @@ location: "Montevideo, Punta del Este y Colonia"
 description: "Abogacía de la Universidad de la Empresa (UDE). Forma profesionales universitarios con un criterio jurídico global, formación práctica y énfasis en el asesoramiento empresarial, en Montevideo, Punta del Este y Colonia."
 tags:
   - derecho
-  - abogacia
   - ciencias juridicas
+  - asesoramiento empresarial
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

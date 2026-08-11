@@ -2,11 +2,11 @@
 title: "Licenciatura en Educación Inicial"
 similar:
   - tecnicatura-en-educacion-y-recreacion-ucu
-  - licenciatura-en-educacion-ucu
   - diploma-en-educacion-ort
   - doctorado-en-educacion-ude
-  - licenciatura-en-educacion-fisica-rivera-udelar
-  - licenciatura-en-educacion-fisica-udelar
+  - licenciatura-en-educacion-ucu
+  - educacion-udelar
+  - doctorado-en-educacion-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -22,9 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Educación Inicial de la UCU. Forma profesionales capaces de planificar y gestionar acciones educativas para proteger, acompañar y promover el aprendizaje de niños y niñas en su etapa inicial."
 tags:
-  - educacion-inicial
   - educacion
-  - primera-infancia
+  - primera infancia
+  - pedagogia
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

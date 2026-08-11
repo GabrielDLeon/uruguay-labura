@@ -1,12 +1,12 @@
 ---
 title: "LL.M. Máster en Derecho"
 similar:
+  - postgrado-en-derecho-de-familia-um
+  - abogacia-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - master-en-derecho-procesal-y-litigacion-um
   - derecho-doctorado-udelar
-  - derecho-procesal-especializacion-udelar
-  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
-  - derecho-de-danos-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -23,8 +23,8 @@ location: "Montevideo"
 description: "LL.M. Máster en Derecho de la Universidad de Montevideo. Formación de posgrado con currícula abierta y orientaciones en las principales áreas del derecho para abogados y profesionales jurídicos."
 tags:
   - derecho
-  - master en derecho
-  - posgrado
+  - ciencias juridicas
+  - abogacia
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

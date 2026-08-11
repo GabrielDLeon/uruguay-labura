@@ -1,7 +1,12 @@
 ---
 title: "Especialización en Medicina de Emergencia"
 similar:
+  - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
+  - emergentologia-especializacion-udelar
+  - emergentologia-pediatrica-especializacion-udelar
   - medicina-ucu
+  - doctor-en-medicina-udelar
+  - estabilizacion-y-traslado-pediatrico-y-neonatal-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "especializacion"
@@ -16,6 +21,7 @@ website: "https://www.um.edu.uy/ciencias-biomedicas/oferta-academica/especialida
 location: "Montevideo"
 description: "Especialización en Medicina de Emergencia del Centro de Ciencias Biomédicas de la Universidad de Montevideo. Formación presencial de cinco semestres con guardias semanales, orientada a médicos con título de doctor en Medicina."
 tags:
+  - medicina
   - medicina de emergencia
   - urgencias
   - salud

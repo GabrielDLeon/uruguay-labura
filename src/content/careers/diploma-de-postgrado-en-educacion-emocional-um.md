@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Postgrado en Educación Emocional"
 similar:
+  - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
+  - postgrado-liderazgo-y-toma-de-decisiones-ude
+  - diploma-en-educacion-ort
   - doctorado-en-educacion-ude
   - maestria-en-educacion-ude
-  - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - magisterio-um
-  - maestria-en-cambio-organizacional-en-entornos-digitales-ucu
-  - profesorado-de-matematica-um
+  - licenciatura-en-educacion-fisica-rivera-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -22,9 +22,10 @@ website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-acade
 location: "Montevideo"
 description: "Diploma de Postgrado en Educación Emocional de la Universidad de Montevideo. Seis seminarios de cuatro semanas sobre fundamentos, modelos e implementación de la educación emocional, con 12 créditos académicos en modalidad virtual."
 tags:
+  - educacion
   - educacion emocional
+  - inteligencia emocional
   - bienestar
-  - formacion docente
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

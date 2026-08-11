@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
   - licenciatura-en-artes-fotografia-udelar
   - licenciatura-en-cine-ucu
-  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
-  - tecnico-en-diseno-de-sonido-ort
+  - cine-latinoamericano-maestria-udelar
+  - tecnicatura-en-tecnologias-de-la-imagen-fotografica-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El cine y las series dedican cada vez más tiempo y recursos a la postproducción de los contenidos: es donde se termina dando el salto de calidad."
 tags:
   - audiovisual
+  - fotografia
+  - cine
+  - postproduccion audiovisual
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

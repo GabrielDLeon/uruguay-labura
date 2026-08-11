@@ -2,9 +2,9 @@
 title: "Tecnicatura en Artes - Plásticas y Visuales"
 similar:
   - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-artes-visuales-ucu
   - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
   - licenciatura-en-artes-fotografia-udelar
-  - licenciatura-en-arte-digital-y-electronico-udelar
   - licenciatura-en-artes-ceramica-udelar
   - licenciatura-en-artes-dibujo-y-pintura-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -25,6 +25,8 @@ applicationDeadline: ""
 credits: 240
 tags:
   - arte
+  - artes visuales
+  - artes plasticas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

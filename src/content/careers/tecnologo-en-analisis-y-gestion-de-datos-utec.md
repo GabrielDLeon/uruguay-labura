@@ -2,12 +2,12 @@
 title: "Tecnólogo en Análisis y Gestión de Datos"
 short: "Tecnólogo en Análisis y Gestión de Datos"
 similar:
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
   - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
-  - ciencia-de-datos-especializacion-udelar
-  - maestria-en-ciencia-de-datos-um
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - diploma-en-metodos-de-investigacion-y-analisis-de-datos-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -26,8 +26,9 @@ draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
-  - administracion
   - ciencia de datos
+  - base de datos
+  - gestion de datos
   - informatica
 ---
 

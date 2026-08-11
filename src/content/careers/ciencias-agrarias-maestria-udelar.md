@@ -2,11 +2,11 @@
 title: "Maestría en Ciencias Agrarias"
 similar:
   - ciencias-agrarias-doctorado-udelar
-  - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - industria-carnica-especializacion-udelar
   - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
-  - licenciatura-en-recursos-naturales-udelar
-  - ingenieria-forestal-udelar
+  - agronomia-maestria-udelar
+  - agronomia-especializacion-udelar
+  - ingeniero-agronomo-udelar
+  - tecnico-agropecuario-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Unidad de Posgrados y Educación Permanente - Facultad de Agronomía"
 tags:
   - agronomia
+  - agropecuario
+  - produccion animal
+  - produccion vegetal
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

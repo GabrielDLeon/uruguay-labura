@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Diseño Industrial"
 similar:
+  - licenciatura-en-diseno-industrial-ude
   - licenciatura-en-diseno-industrial-udelar
-  - ingenieria-industrial-ucu
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
   - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
-  - licenciatura-en-diseno-de-interiores-ort
-  - diseno-de-interfaces-ort
+  - ingenieria-industrial-ucu
+  - proyecto-de-mobiliario-especializacion-udelar
+  - master-en-diseno-estrategico-e-innovacion-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,7 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño Industrial de ORT Uruguay. Los graduados de Diseño Industrial responden en forma innovadora a las necesidades de nuevos productos en empresas, instituciones y organizaciones."
 tags:
   - diseno
-  - ingenieria
+  - diseno industrial
+  - diseno de productos
+  - innovacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

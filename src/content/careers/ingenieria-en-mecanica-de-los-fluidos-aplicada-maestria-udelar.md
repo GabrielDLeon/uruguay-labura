@@ -3,10 +3,10 @@ title: "Maestría en Ingeniería en Mecánica de los Fluídos Aplicada"
 similar:
   - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
   - ingenieria-mecanica-doctorado-udelar
-  - ingenieria-electrica-maestria-udelar
   - ingenieria-industrial-mecanica-udelar
   - ingenieria-mecanica-maestria-udelar
-  - ingenieria-fisica-maestria-udelar
+  - ingenieria-mecanica-ucu
+  - ingenieria-en-mecatronica-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,6 +22,8 @@ description: "La Maestría en Ingeniería en Mecánica de los Fluidos Aplicada t
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - mecanica de fluidos
+  - ingenieria mecanica
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

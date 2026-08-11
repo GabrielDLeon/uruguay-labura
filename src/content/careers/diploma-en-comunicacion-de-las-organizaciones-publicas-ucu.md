@@ -1,12 +1,12 @@
 ---
 title: "Diploma en Comunicación de las Organizaciones Públicas"
 similar:
+  - maestria-en-politicas-publicas-ucu
+  - postgrado-en-comunicacion-politica-um
   - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
-  - master-en-direccion-de-comunicacion-y-marketing-ort
-  - tecnico-en-relaciones-publicas-y-organizacion-de-eventos-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
-  - licenciatura-en-comunicacion-y-marketing-ucu
-  - doctorado-en-comunicacion-ucu
+  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
+  - maestria-en-administracion-publica-ucu
+  - maestria-en-ciencia-politica-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"
@@ -20,9 +20,11 @@ website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-comunicacion-de-l
 location: "Montevideo"
 description: "Diploma en Comunicación de las Organizaciones Públicas de la UCU. Forma para diseñar estrategias comunicacionales y establecer mejores diálogos con los públicos de las organizaciones públicas, en modalidad virtual."
 tags:
+  - comunicacion
   - comunicacion publica
   - sector publico
-  - comunicacion
+  - administracion publica
+  - gobierno
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

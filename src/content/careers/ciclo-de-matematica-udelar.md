@@ -1,12 +1,12 @@
 ---
 title: "Ciclo Inicial de Matemática"
 similar:
-  - ingenieria-matematica-maestria-udelar
   - licenciatura-en-matematica-udelar
   - matematica-maestria-udelar
-  - ingenieria-fisico-matematica-udelar
   - matematica-doctorado-udelar
-  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - ciclo-cientifico-tecnologico-udelar
+  - ingenieria-matematica-maestria-udelar
+  - ingenieria-fisico-matematica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 160
 tags:
   - matematica
+  - ciencias exactas
+  - algebra
+  - analisis matematico
 listable: false
 searchable: true
 draft: true

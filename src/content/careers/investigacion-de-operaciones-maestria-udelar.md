@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Investigación de Operaciones"
 similar:
+  - optimizacion-especializacion-udelar
   - ingenieria-fisico-matematica-udelar
-  - licenciatura-en-matematica-udelar
-  - ingenieria-matematica-maestria-udelar
-  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - licenciatura-en-estadistica-udelar
+  - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
   - matematica-doctorado-udelar
-  - matematica-maestria-udelar
+  - licenciatura-en-matematica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,10 @@ description: "La Maestría en Investigación de Operaciones se dirige a egresado
 startDate: ""
 applicationDeadline: ""
 tags:
+  - investigacion de operaciones
   - matematica
+  - estadistica
+  - optimizacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -3,7 +3,9 @@ title: "Diplomado Tomografía Computada Multicorte"
 similar:
   - diplomado-de-especialista-en-resonancia-magnetica-ude
   - licenciatura-en-imagenologia-ude
-  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - licenciatura-en-imagenologia-udelar
+  - imagenologia-especializacion-udelar
+  - licenciatura-en-fisica-medica-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

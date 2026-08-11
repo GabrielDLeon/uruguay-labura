@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Especialización en Diseño de Experiencia de Usuario"
 similar:
-  - master-en-diseno-estrategico-e-innovacion-ort
-  - tecnico-en-diseno-de-interiores-ort
+  - diseno-de-interfaces-ort
   - diseno-digital-ort
+  - master-en-diseno-estrategico-e-innovacion-ort
+  - licenciatura-en-diseno-multimedia-ort
+  - tecnico-en-diseno-de-interiores-ort
   - licenciatura-en-diseno-grafico-ort
-  - tecnico-en-diseno-de-sonido-ort
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma de Especialización en Diseño de Experiencia de Usuario (UX) te capacita para anticipar y liderar la transformación digital."
 tags:
   - diseno
+  - experiencia de usuario
+  - transformacion digital
+  - diseno digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

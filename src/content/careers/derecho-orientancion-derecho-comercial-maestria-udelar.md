@@ -2,11 +2,11 @@
 title: "Maestría en Derecho, Orientanción Derecho Comercial"
 similar:
   - derecho-comercial-especializacion-udelar
-  - notariado-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - postgrado-en-derecho-contractual-um
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - postgrado-en-derecho-administrativo-economico-um
   - derecho-financiero-con-enfasis-en-derecho-tributario-especializacion-udelar
-  - derecho-internacional-publico-especializacion-udelar
-  - tecnico-en-gestion-comercial-y-ventas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
+  - derecho comercial
   - negocios
+  - asesoramiento empresarial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

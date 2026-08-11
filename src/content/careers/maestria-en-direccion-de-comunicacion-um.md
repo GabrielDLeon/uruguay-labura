@@ -1,6 +1,12 @@
 ---
 title: "Máster en Dirección de Comunicación (MDC)"
-similar: []
+similar:
+  - master-en-direccion-de-comunicacion-y-marketing-ort
+  - diploma-de-especializacion-en-direccion-de-comunicacion-ort
+  - maestria-en-comunicacion-organizacional-ucu
+  - licenciatura-en-comunicacion-ucu
+  - licenciatura-en-comunicacion-global-ort
+  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -15,9 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-comunicacion/oferta-academica/postgr
 location: "Montevideo"
 description: "Máster en Dirección de Comunicación (MDC) de la Universidad de Montevideo. Forma directores de comunicación (DIRCOM) con visión sistémica de la organización, combinando comunicación estratégica, management e investigación aplicada, con opción de doble titulación."
 tags:
+  - comunicacion
   - direccion de comunicacion
   - comunicacion estrategica
-  - dircom
+  - comunicacion organizacional
+  - direccion de empresas
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

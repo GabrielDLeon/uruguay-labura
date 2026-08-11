@@ -1,6 +1,12 @@
 ---
 title: "Técnico Forestal"
-similar: []
+similar:
+  - ingenieria-forestal-udelar
+  - tecnologo-en-madera-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - educacion-ambiental-especializacion-udelar
+  - educacion-ambiental-maestria-udelar
+  - licenciatura-en-diseno-integrado-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -18,6 +24,7 @@ tags:
   - forestal
   - silvicultura
   - produccion forestal
+  - sostenibilidad
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

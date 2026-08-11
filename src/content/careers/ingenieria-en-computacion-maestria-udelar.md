@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ingeniería en Computación"
 similar:
-  - ingenieria-en-computacion-udelar
-  - estudios-avanzados-de-computacion-especializacion-udelar
   - ingenieria-de-software-maestria-udelar
   - ingenieria-de-software-especializacion-udelar
-  - ingenieria-fisica-maestria-udelar
-  - licenciatura-en-computacion-udelar
+  - estudios-avanzados-de-computacion-especializacion-udelar
+  - ingenieria-en-computacion-udelar
+  - informatica-maestria-udelar
+  - ingenieria-en-informatica-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "La Maestría en Ingeniería en Computación se dirige a profesiona
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
-  - informatica
-  - ingenieria
+  - ingenieria informatica
+  - ingenieria de software
+  - software
+  - programacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

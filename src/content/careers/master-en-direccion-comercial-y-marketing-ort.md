@@ -3,10 +3,10 @@ title: "Master en Dirección Comercial y Marketing"
 similar:
   - licenciatura-en-marketing-y-direccion-comercial-ort
   - maestria-en-marketing-y-direccion-comercial-ude
-  - licenciatura-en-marketing-y-estrategia-comercial-ucu
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
-  - master-en-direccion-de-comunicacion-y-marketing-ort
-  - analista-en-marketing-ude
+  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - marketing-especializacion-udelar
+  - tecnico-en-gestion-comercial-y-ventas-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Dirección Comercial y Marketing de ORT Uruguay. Potenciá tu carrera profesional con la formación que te brinda la maestría en marketing y dirección comercial de la Universidad ORT Uruguay."
 tags:
   - marketing
+  - direccion comercial
+  - gestion comercial
+  - estrategia comercial
   - negocios
 draft: true
 createdAt: "2026-07-31 16:58:06"

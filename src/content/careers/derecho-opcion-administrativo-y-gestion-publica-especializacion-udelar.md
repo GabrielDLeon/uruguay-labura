@@ -2,11 +2,11 @@
 title: "Especialización en Derecho Opción Administrativo y Gestión Pública"
 similar:
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
+  - master-en-derecho-administrativo-economico-um
+  - postgrado-en-derecho-administrativo-economico-um
   - politicas-y-gestion-publica-maestria-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - derecho-procesal-especializacion-udelar
-  - relaciones-internacionales-orientacion-economia-politica-y-derecho-de-la-integracion-maestria-udelar
-  - derecho-de-danos-especializacion-udelar
+  - maestria-en-administracion-publica-ucu
+  - gestion-financiera-en-instituciones-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ description: "1024x768 Los objetivos generales de la presente propuesta se enmar
 startDate: ""
 applicationDeadline: ""
 tags:
-  - administracion
   - derecho
+  - derecho administrativo
+  - gestion publica
+  - administracion publica
+  - funcion publica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

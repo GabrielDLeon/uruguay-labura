@@ -4,9 +4,9 @@ similar:
   - produccion-animal-maestria-udelar
   - reproduccion-animal-maestria-udelar
   - salud-animal-maestria-udelar
-  - maestria-en-nutricion-ucu
-  - licenciatura-en-nutricion-ucu
-  - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
+  - produccion-animal-doctorado-udelar
+  - produccion-animal-ude
+  - tecnologo-en-produccion-equina-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "Normal 0 21 false false false MicrosoftInternetExplorer4 DISPOSICI
 startDate: ""
 applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrados"
 tags:
-  - nutricion
+  - nutricion animal
+  - produccion animal
   - veterinaria
+  - ganaderia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,11 +2,11 @@
 title: "Especialización en Robótica e Inteligencia Artificial"
 similar:
   - maestria-en-robotica-e-inteligencia-artificial-utec
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - diploma-de-especializacion-en-inteligencia-artificial-ort
-  - master-en-inteligencia-artificial-ort
-  - ingenieria-de-datos-e-inteligencia-artificial-um
   - diploma-en-inteligencia-artificial-aplicada-ude
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - master-en-inteligencia-artificial-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "especializacion"

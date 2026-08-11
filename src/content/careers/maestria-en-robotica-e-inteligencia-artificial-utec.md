@@ -3,11 +3,11 @@ title: "Maestría en Robótica e Inteligencia Artificial"
 short: "Maestría en Robótica e IA"
 similar:
   - especializacion-en-robotica-e-inteligencia-artificial-utec
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
   - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - master-en-inteligencia-artificial-ort
-  - diploma-de-especializacion-en-inteligencia-artificial-ort
+  - diploma-en-inteligencia-artificial-aplicada-ude
   - ingenieria-de-datos-e-inteligencia-artificial-um
-  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - master-en-inteligencia-artificial-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "maestria"

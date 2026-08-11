@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Biotecnología"
 similar:
-  - licenciatura-en-biotecnologia-ort
   - biotecnologia-doctorado-udelar
   - biotecnologia-maestria-udelar
+  - licenciatura-en-biotecnologia-ort
   - ingenieria-en-biotecnologia-ort
+  - ciencias-biologicas-doctorado-udelar
   - ciencias-biologicas-maestria-udelar
-  - licenciatura-en-ciencias-biologicas-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,7 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
+  - biotecnologia
   - biologia
+  - biologia molecular
+  - genetica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,6 +1,12 @@
 ---
 title: "Ingeniería Mecánica"
-similar: []
+similar:
+  - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-mecanica-maestria-udelar
+  - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
+  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-en-mecatronica-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "ingenieria"
@@ -18,8 +24,9 @@ description: "Ingeniería Mecánica de la UCU. Forma profesionales capaces de di
 tags:
   - ingenieria mecanica
   - sistemas mecanicos
-  - simulacion
-  - industria
+  - diseno mecanico
+  - mecanica
+  - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

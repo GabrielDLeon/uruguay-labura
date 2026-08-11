@@ -2,11 +2,11 @@
 title: "Ingeniería en Sistemas de Comunicación"
 similar:
   - ingenieria-en-telecomunicaciones-ort
-  - ingenieria-en-sistemas-electricos-de-potencia-ucu
-  - ingenieria-en-sistemas-ort
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-telematica-um
   - ingenieria-fisico-matematica-udelar
   - ingenieria-industrial-mecanica-udelar
-  - ingenieria-naval-udelar
+  - ingenieria-en-sistemas-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -24,10 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 450
 tags:
-  - comunicacion
-  - informatica
+  - telecomunicaciones
   - ingenieria
-  - programa-roberto-rocca
+  - redes
+  - programa roberto rocca
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

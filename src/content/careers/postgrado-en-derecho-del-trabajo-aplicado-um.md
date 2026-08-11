@@ -1,7 +1,12 @@
 ---
 title: "Postgrado en Derecho del Trabajo Aplicado"
 similar:
+  - licenciatura-en-relaciones-laborales-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
   - licenciatura-en-recursos-humanos-ude
+  - postgrado-en-derecho-de-familia-um
+  - postgrado-en-derecho-penal-economico-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +22,11 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Derecho del Trabajo Aplicado de la Universidad de Montevideo. Actualización en derecho laboral y sindical con enfoque práctico, para abogados, magistrados y profesionales de la gestión humana."
 tags:
+  - derecho
   - derecho laboral
-  - trabajo
   - sindicatos
+  - relaciones laborales
+  - recursos humanos
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

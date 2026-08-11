@@ -2,11 +2,11 @@
 title: "Maestría en Economía"
 similar:
   - licenciatura-en-economia-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
-  - licenciatura-en-economia-um
-  - economia-fcs-especializacion-udelar
-  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
   - maestria-en-economia-um
+  - licenciatura-en-economia-ucu
+  - administracion-y-economia-del-turismo-maestria-udelar
+  - economia-maestria-udelar
+  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - economia
+  - microeconomia
+  - macroeconomia
+  - econometria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

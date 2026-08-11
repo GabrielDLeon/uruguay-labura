@@ -1,12 +1,12 @@
 ---
 title: "Master en Administración de Empresas - MBA"
 similar:
+  - mba-senior-um
+  - mba-um
   - emba-executive-mba-semipresencial-ort
   - gerencia-y-administracion-mba-maestria-udelar
-  - licenciatura-en-direccion-y-administracion-de-empresas-um
-  - tecnico-en-gestion-y-administracion-de-empresas-ort
+  - maestria-en-direccion-y-administracion-de-empresas-ude
   - licenciatura-en-direccion-de-empresas-ucu
-  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -23,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Potenciá tu carrera con el MBA de la Universidad ORT Uruguay. Si tus aspiraciones son grandes y te entusiasma cambiar tu entorno, ¡te esperamos!"
 tags:
   - administracion
+  - mba
+  - direccion de empresas
+  - habilidades gerenciales
+  - liderazgo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

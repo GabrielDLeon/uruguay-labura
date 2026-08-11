@@ -3,9 +3,9 @@ title: "T√©cnico en Ciencias Veterinarias"
 similar:
   - tecnico-asistente-veterinario-ude
   - doctor-en-ciencias-veterinarias-udelar
-  - produccion-animal-ude
-  - tecnologo-en-produccion-equina-udelar
-  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - salud-animal-doctorado-udelar
+  - salud-animal-maestria-udelar
+  - ciencias-agrarias-doctorado-udelar
   - nutricion-de-rumiantes-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
@@ -23,6 +23,7 @@ description: "Tecnicatura que forma profesionales capaces de colaborar con el m√
 tags:
   - veterinaria
   - salud animal
+  - medicina veterinaria preventiva
   - produccion animal
 draft: true
 createdAt: "2026-08-09 15:12:26"

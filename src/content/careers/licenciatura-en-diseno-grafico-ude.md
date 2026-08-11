@@ -2,11 +2,11 @@
 title: "Licenciatura en Diseño Gráfico"
 similar:
   - disenador-grafico-ude
+  - diseno-grafico-ort
   - tecnico-en-diseno-grafico-ude
-  - tecnico-en-diseno-de-interiores-ude
-  - licenciatura-en-diseno-de-indumentaria-ude
-  - licenciatura-en-diseno-industrial-ude
-  - tecnicatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-diseno-grafico-ort
+  - licenciatura-en-diseno-de-comunicacion-visual-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -22,8 +22,8 @@ location: "Montevideo, Colonia"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Diseño Gráfico de la UDE. Forma profesionales del diseño y la comunicación visual con juicio crítico, bases culturales sólidas, espíritu creativo y responsabilidad social."
 tags:
-  - diseño
-  - diseño grafico
+  - diseno
+  - diseno grafico
   - comunicacion visual
 draft: true
 createdAt: "2026-08-09 15:12:26"

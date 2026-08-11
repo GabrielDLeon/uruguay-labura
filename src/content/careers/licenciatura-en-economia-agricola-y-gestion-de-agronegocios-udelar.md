@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Economía Agrícola y Gestión de Agronegocios"
 similar:
+  - administracion-de-agronegocios-ude
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - licenciatura-en-gestion-agropecuaria-ude
+  - economia-para-no-economistas-especializacion-udelar
   - economia-y-gestion-bancaria-especializacion-udelar
-  - administracion-y-economia-del-turismo-maestria-udelar
-  - licenciatura-en-gestion-ambiental-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,9 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 360
 tags:
-  - administracion
-  - agronomia
   - economia
+  - agronegocios
+  - agroindustria
+  - agropecuario
+  - cadena de suministros
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

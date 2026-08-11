@@ -2,11 +2,11 @@
 title: "Maestría en Ingeniería Mecánica"
 similar:
   - ingenieria-mecanica-doctorado-udelar
-  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
-  - ingenieria-electrica-maestria-udelar
-  - ingenieria-quimica-maestria-udelar
-  - ingenieria-quimica-doctorado-udelar
   - ingenieria-industrial-mecanica-udelar
+  - ingenieria-mecanica-ucu
+  - ingenieria-en-mecatronica-utec
+  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
+  - ingenieria-en-mecanica-de-los-fluidos-aplicada-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,7 +22,11 @@ description: "La Maestría tiene como objetivo profundizar en las áreas de cono
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - ingenieria mecanica
   - ingenieria
+  - mecatronica
+  - procesos industriales
+  - diseno mecanico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

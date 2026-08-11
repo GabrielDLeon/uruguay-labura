@@ -4,9 +4,9 @@ similar:
   - ingenieria-de-software-maestria-udelar
   - ingenieria-en-computacion-maestria-udelar
   - tecnicatura-en-desarrollador-de-software-ucu
-  - ingenieria-en-agrimensura-udelar
-  - ingenieria-en-informatica-ucu
-  - ingenieria-industrial-ucu
+  - ingenieria-en-informatica-um
+  - analista-en-ingenieria-informatica-ude
+  - ingenieria-en-informatica-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,10 @@ description: "El objetivo fundamental que persigue el presente Plan de Estudio e
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - ingenieria de software
+  - software
   - informatica
-  - ingenieria
+  - programacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

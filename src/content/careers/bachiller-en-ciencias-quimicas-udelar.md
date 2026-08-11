@@ -3,10 +3,10 @@ title: "Bachiller en Ciencias Químicas"
 similar:
   - quimico-udelar
   - licenciatura-en-quimica-udelar
+  - quimica-doctorado-udelar
+  - quimica-maestria-udelar
   - tecnologo-quimico-udelar
-  - quimica-farmaceutica-udelar
   - licenciatura-en-tecnologias-de-la-quimica-udelar
-  - tecnico-en-procesos-y-analisis-quimico-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 230
 tags:
-  - educacion
   - quimica
+  - quimica analitica
+  - quimica organica
+  - fisicoquimica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

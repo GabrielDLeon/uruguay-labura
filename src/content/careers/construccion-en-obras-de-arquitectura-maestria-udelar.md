@@ -2,11 +2,11 @@
 title: "Maestría en Construcción en Obras de Arquitectura"
 similar:
   - construccion-de-obras-de-arquitectura-especializacion-udelar
-  - arquitectura-maestria-udelar
+  - ingenieria-estructural-maestria-udelar
   - arquitectura-en-madera-especializacion-udelar
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - arquitectura-doctorado-udelar
+  - arquitectura-udelar
+  - carrera-de-arquitectura-ort
+  - arquitectura-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arquitectura
+  - construccion
+  - gestion de la construccion
+  - direccion de obras
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Proyecto de Paisaje"
 similar:
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - proyecto-de-mobiliario-especializacion-udelar
   - licenciatura-en-diseno-de-paisaje-udelar
-  - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
-  - arquitectura-doctorado-udelar
-  - arquitectura-en-madera-especializacion-udelar
-  - construccion-de-obras-de-arquitectura-especializacion-udelar
+  - tecnico-en-paisajismo-ort
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - licenciatura-en-diseno-de-interiores-ort
+  - tecnico-en-diseno-de-interiores-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +22,10 @@ description: "OBJETIVOS D E LA PROPUESTA EDUCATIVA 1_ Otorgar formación de posg
 startDate: ""
 applicationDeadline: ""
 tags:
-  - arquitectura
+  - paisajismo
+  - arquitectura del paisaje
+  - diseno
+  - diseno de espacios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

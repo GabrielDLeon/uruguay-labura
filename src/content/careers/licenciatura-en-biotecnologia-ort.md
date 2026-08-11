@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Biotecnología"
 similar:
-  - licenciatura-en-biotecnologia-udelar
   - biotecnologia-doctorado-udelar
   - biotecnologia-maestria-udelar
   - ingenieria-en-biotecnologia-ort
-  - licenciatura-en-ciencias-biologicas-udelar
-  - licenciatura-en-ingenieria-biologica-udelar
+  - licenciatura-en-biotecnologia-udelar
+  - licenciatura-en-bioquimica-udelar
+  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -22,7 +22,9 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Biotecnología de ORT Uruguay. La Licenciatura en Biotecnología forma profesionales que evalúan, desarrollan y mejoran procesos de producción en diferentes industrias."
 tags:
+  - biotecnologia
   - biologia
+  - procesos industriales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

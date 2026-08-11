@@ -3,10 +3,10 @@ title: "Licenciatura en Comunicación Periodística y Creación de Contenidos"
 similar:
   - licenciatura-en-comunicacion-um
   - licenciatura-en-comunicacion-ucu
-  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - doctorado-en-comunicacion-ucu
+  - licenciatura-en-comunicacion-ort
   - licenciatura-en-comunicacion-y-marketing-ucu
-  - maestria-en-comunicacion-organizacional-ucu
+  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -24,6 +24,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Las categorías del periodismo se amplían y la responsabilidad social crece y se torna crítica en tiempos de hipercomunicación."
 tags:
   - comunicacion
+  - periodismo
+  - produccion de contenidos
+  - contenidos digitales
+  - periodismo digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

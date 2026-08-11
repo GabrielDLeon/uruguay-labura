@@ -3,10 +3,10 @@ title: "Historia"
 similar:
   - maestria-en-historia-um
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - historia-economica-maestria-udelar
   - licenciatura-en-humanidades-um
-  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
-  - historia-politica-maestria-udelar
+  - historia-economica-maestria-udelar
+  - filosofia-udelar
+  - archivologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,8 @@ applicationDeadline: ""
 credits: 360
 tags:
   - historia
+  - humanidades
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

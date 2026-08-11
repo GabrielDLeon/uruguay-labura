@@ -2,11 +2,11 @@
 title: "Especialización en Medicina Familiar y Comunitaria"
 similar:
   - salud-familiar-y-comunitaria-especializacion-udelar
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - hemoterapia-y-medicina-transfucional-especializacion-udelar
   - medicina-del-deporte-especializacion-udelar
   - medicina-intensiva-especializacion-udelar
-  - medicina-interna-especializacion-udelar
-  - medicina-legal-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - medicina familiar
+  - atencion primaria
+  - atencion comunitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

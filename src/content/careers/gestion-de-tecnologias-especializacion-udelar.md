@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Gestión de Tecnologías"
 similar:
+  - tecnico-en-gestion-de-equinos-ude
+  - gestion-de-innovacion-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
-  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
-  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
+  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
+  - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
   - administracion
+  - gestion
+  - gestion de proyectos
+  - tecnologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

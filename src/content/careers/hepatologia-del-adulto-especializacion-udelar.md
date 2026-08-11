@@ -1,6 +1,10 @@
 ---
 title: "Especialización en Hepatología del Adulto"
-similar: []
+similar:
+  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
+  - cuidados-paliativos-del-adulto-especializacion-udelar
+  - endoscopia-digestiva-especializacion-udelar
+  - gastroenterologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -16,7 +20,9 @@ description: "Especialización en Hepatología del Adulto, dictada por la Facult
 startDate: ""
 applicationDeadline: ""
 tags:
-  - salud
+  - medicina
+  - hepatologia
+  - gastroenterologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

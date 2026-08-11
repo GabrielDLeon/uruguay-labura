@@ -1,12 +1,11 @@
 ---
 title: "Especialización en Hidrología Subterránea"
 similar:
-  - ingenieria-ambiental-especializacion-udelar
-  - educacion-ambiental-especializacion-udelar
   - licenciatura-en-recursos-hidricos-y-riego-udelar
-  - ciencias-ambientales-doctorado-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - desarrollo-rural-sustentable-especializacion-udelar
+  - ingenieria-en-agua-y-desarrollo-sostenible-utec
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - tecnologo-en-agua-y-desarrollo-sostenible-utec
+  - licenciatura-en-geologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,7 +21,10 @@ description: "De acuerdo con el artículo 2° de la Ordenanza de las Carreras de
 startDate: ""
 applicationDeadline: ""
 tags:
-  - medio ambiente
+  - hidrogeologia
+  - hidrologia
+  - recursos hidricos
+  - agua
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

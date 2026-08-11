@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Transformación Organizacional"
-similar: []
+similar:
+  - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
+  - maestria-en-cambio-organizacional-en-entornos-digitales-ucu
+  - maestria-en-comunicacion-organizacional-ucu
+  - emba-executive-mba-semipresencial-ort
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - master-en-administracion-de-empresas-mba-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +23,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - administracion
+  - cambio organizacional
+  - gestion del cambio
+  - liderazgo
+  - habilidades gerenciales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

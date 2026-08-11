@@ -6,7 +6,7 @@ similar:
   - ciencias-odontologicas-doctorado-udelar
   - maestria-en-rehabilitacion-oral-ucu
   - ciencias-odontologicas-mencion-funcion-craneo-mandibular-y-dolor-orofacial-maestria-udelar
-  - odontologia-ucu
+  - licenciatura-biologia-humana-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - odontologia
+  - biologia oral
+  - biologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

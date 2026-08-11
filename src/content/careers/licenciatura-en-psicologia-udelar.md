@@ -2,11 +2,11 @@
 title: "Licenciatura en Psicología"
 similar:
   - psicologia-doctorado-udelar
-  - psicologia-clinica-maestria-udelar
-  - licenciatura-en-psicologia-ucu
   - psicologia-social-maestria-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
   - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
+  - licenciatura-en-psicologia-um
+  - psicologia-clinica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 320
 tags:
   - psicologia
+  - ciencias sociales
+  - psicologia social
+  - salud mental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

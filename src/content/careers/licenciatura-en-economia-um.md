@@ -3,10 +3,10 @@ title: "Licenciatura en Economía"
 similar:
   - licenciatura-en-economia-ucu
   - licenciatura-en-negocios-y-economia-ucu
-  - economia-maestria-fcs-udelar
-  - licenciatura-en-politica-filosofia-y-economia-um
+  - economia-fcs-especializacion-udelar
+  - economia-maestria-udelar
   - licenciatura-en-economia-y-finanzas-ude
-  - maestria-en-economia-um
+  - licenciatura-en-economia-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -22,9 +22,10 @@ location: "Montevideo"
 description: "Licenciatura en Economía de la Universidad de Montevideo. Forma profesionales capaces de interpretar las tendencias de las finanzas nacionales y del sistema económico global, elaborar proyecciones y recomendar política económica."
 tags:
   - economia
-  - analisis economico
+  - finanzas
   - politica economica
-  - investigacion
+  - analisis economico
+  - economia internacional
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

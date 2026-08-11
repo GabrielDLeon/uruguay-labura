@@ -2,11 +2,11 @@
 title: "Diploma de Especialización en Enseñanza de Inglés como Lengua Extranjera"
 similar:
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
-  - traductorado-publico-ingles-udelar
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
   - ensenanza-de-lenguas-extranjeras-especializacion-udelar
   - ensenanza-de-lenguas-extranjeras-maestria-udelar
-  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
-  - didactica-para-ensenanza-media-especializacion-udelar
+  - traductorado-publico-ingles-udelar
+  - maestria-en-lengua-inglesa-y-educacion-intercultural-bilingue-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,7 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Es un postgrado orientado a actualizar el conocimiento de los docentes de inglés, así como de aquellos docentes que dictan sus cursos en dicha lengua."
 tags:
   - educacion
-  - letras
+  - formacion docente
+  - ensenanza de lenguas
+  - lengua inglesa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

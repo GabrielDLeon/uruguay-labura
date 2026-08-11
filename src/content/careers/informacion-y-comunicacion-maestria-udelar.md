@@ -1,11 +1,11 @@
 ---
 title: "Maestría en Información y Comunicación"
 similar:
-  - comunicacion-de-la-ciencia-y-la-tecnologia-especializacion-udelar
-  - ingenieria-en-sistemas-de-comunicacion-udelar
-  - licenciatura-en-diseno-de-comunicacion-visual-udelar
   - licenciatura-en-comunicacion-udelar
+  - licenciatura-en-comunicacion-ort
+  - comunicacion-de-la-ciencia-y-la-tecnologia-especializacion-udelar
   - maestria-en-comunicacion-organizacional-ucu
+  - maestria-en-direccion-de-comunicacion-um
   - master-en-creatividad-innovacion-y-comunicacion-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - comunicacion
+  - informacion
+  - medios
+  - gestion de informacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

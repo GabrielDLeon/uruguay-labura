@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Arquitectura"
 similar:
-  - arquitectura-doctorado-udelar
-  - construccion-en-obras-de-arquitectura-maestria-udelar
   - arquitectura-en-madera-especializacion-udelar
+  - arquitectura-doctorado-udelar
   - construccion-de-obras-de-arquitectura-especializacion-udelar
-  - arquitectura-ucu
   - arquitectura-udelar
+  - arquitectura-ucu
+  - carrera-de-arquitectura-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arquitectura
+  - diseno arquitectonico
+  - diseno
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

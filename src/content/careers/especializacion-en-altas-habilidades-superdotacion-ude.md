@@ -3,6 +3,8 @@ title: "Especialización en Altas Habilidades/Superdotación"
 similar:
   - maestria-profesional-en-altas-habilidades-superdotacion-ude
   - maestria-academica-en-altas-habilidades-superdotacion-ude
+  - diploma-en-diseno-y-desarrollo-curricular-ucu
+  - dificultades-de-aprendizaje-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"
@@ -19,8 +21,8 @@ startDate: ""
 applicationDeadline: ""
 description: "Especialización pionera en Uruguay que forma profesionales e investigadores capaces de identificar, valorar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), en los ámbitos educativos públicos y privados."
 tags:
+  - educacion
   - altas habilidades
-  - superdotacion
   - educacion inclusiva
   - educacion especial
 draft: true

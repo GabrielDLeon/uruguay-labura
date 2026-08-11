@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ingeniería Ambiental"
 similar:
-  - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-de-celulosa-y-papel-maestria-udelar
   - ingenieria-ambiental-doctorado-udelar
   - ingenieria-ambiental-especializacion-udelar
   - ingenieria-ambiental-ucu
-  - ingenieria-electrica-maestria-udelar
+  - maestria-en-gestion-ambiental-ude
+  - tecnologo-en-control-ambiental-utec
+  - licenciatura-en-gestion-ambiental-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "La Maestría en Ingeniería Ambiental tiene por objetivo atender l
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - ingenieria ambiental
   - ingenieria
   - medio ambiente
+  - gestion ambiental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

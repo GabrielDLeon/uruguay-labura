@@ -2,11 +2,11 @@
 title: "Especialización en Marketing"
 similar:
   - marketing-maestria-udelar
-  - licenciatura-en-comunicacion-y-marketing-ucu
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
-  - licenciatura-en-marketing-y-estrategia-comercial-ucu
+  - licenciatura-en-marketing-y-direccion-comercial-ort
+  - maestria-en-marketing-y-direccion-comercial-ude
+  - master-en-direccion-comercial-y-marketing-ort
   - diploma-de-especializacion-en-marketing-ort
-  - analista-en-marketing-digital-y-comercio-electronico-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - marketing
+  - estrategia comercial
+  - direccion comercial
+  - gestion comercial
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

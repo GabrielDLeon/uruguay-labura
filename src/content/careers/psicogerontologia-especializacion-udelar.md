@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Psicogerontología"
 similar:
-  - psicologia-social-maestria-udelar
-  - doctorado-en-psicologia-ucu
-  - psicologia-clinica-maestria-udelar
-  - licenciatura-en-psicomotricidad-udelar
-  - psicologia-doctorado-udelar
+  - gerontopsicomotricidad-especializacion-udelar
+  - estrategias-de-intervencion-en-usos-problematicos-de-drogas-especializacion-udelar
   - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
+  - licenciatura-en-psicologia-um
+  - psicoterapia-psicodinamica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - psicologia
+  - gerontologia
+  - adultos mayores
+  - envejecimiento
+  - salud mental
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

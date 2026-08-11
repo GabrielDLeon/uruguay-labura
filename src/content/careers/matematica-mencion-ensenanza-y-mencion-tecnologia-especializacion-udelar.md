@@ -2,11 +2,11 @@
 title: "Especialización en Matemática Mención Enseñanza y Mención Tecnología"
 similar:
   - profesorado-de-matematica-um
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - didactica-para-ensenanza-primaria-especializacion-udelar
   - licenciatura-en-matematica-udelar
-  - ingenieria-matematica-maestria-udelar
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
-  - matematica-maestria-udelar
-  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
+  - ingenieria-matematica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ description: "Los egresados de este posgrado serán profesionales con condicione
 startDate: ""
 applicationDeadline: ""
 tags:
-  - educacion
   - matematica
+  - educacion
+  - formacion docente
+  - didactica
+  - matematica educativa
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

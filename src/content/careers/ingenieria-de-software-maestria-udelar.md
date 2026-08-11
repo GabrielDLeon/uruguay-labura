@@ -3,10 +3,10 @@ title: "Maestría en Ingeniería de Software"
 similar:
   - ingenieria-de-software-especializacion-udelar
   - ingenieria-en-computacion-maestria-udelar
-  - doctorado-en-ingenieria-ucu
   - tecnicatura-en-desarrollador-de-software-ucu
-  - ingenieria-en-informatica-ucu
-  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-en-informatica-um
+  - estudios-avanzados-de-computacion-especializacion-udelar
+  - analista-en-ingenieria-informatica-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "El objetivo fundamental que persigue el presente Plan de Estudio e
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - ingenieria de software
+  - software
   - informatica
-  - ingenieria
+  - programacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

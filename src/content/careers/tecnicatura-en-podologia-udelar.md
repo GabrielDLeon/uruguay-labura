@@ -1,6 +1,12 @@
 ---
 title: "Tecnicatura en Podología"
-similar: []
+similar:
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - licenciatura-en-fisioterapia-udelar
+  - especializacion-en-traumatologia-y-ortopedia-um
+  - traumatologia-y-ortopedia-especializacion-udelar
+  - licenciatura-en-terapia-ocupacional-udelar
+  - licenciatura-en-fisioterapia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -18,6 +24,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - salud
+  - podologia
+  - ortopedia
+  - rehabilitacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

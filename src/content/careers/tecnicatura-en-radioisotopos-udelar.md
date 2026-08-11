@@ -1,6 +1,12 @@
 ---
 title: "Tecnicatura en Radioisótopos"
-similar: []
+similar:
+  - tecnicatura-en-radioterapia-udelar
+  - medicina-nuclear-especializacion-udelar
+  - licenciatura-en-fisica-medica-udelar
+  - licenciatura-en-imagenologia-udelar
+  - ingenieria-biomedica-ucu
+  - ingenieria-biomedica-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -18,6 +24,10 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - salud
+  - medicina nuclear
+  - radioisotopos
+  - tecnologia medica
+  - radioterapia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

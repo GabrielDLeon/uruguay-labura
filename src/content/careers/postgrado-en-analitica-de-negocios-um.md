@@ -1,12 +1,12 @@
 ---
 title: "Postgrado en Analítica de Negocios"
 similar:
-  - licenciatura-en-negocios-digitales-um
-  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
-  - postgrado-en-transformacion-digital-y-derecho-um
+  - diploma-de-especializacion-en-analitica-de-negocios-ort
+  - licenciatura-en-business-analytics-ucu
+  - postgrado-en-business-intelligence-y-data-science-um
   - licenciatura-en-datos-y-negocios-ucu
-  - ingenieria-de-datos-e-inteligencia-artificial-um
-  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - master-en-business-analytics-ort
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -22,8 +22,10 @@ location: "Campus Virtual"
 description: "Postgrado en Analítica de Negocios de la Universidad de Montevideo (UMPE). Forma gestores que comprenden modelos y herramientas analíticas para tomar decisiones basadas en datos y liderar la transformación digital."
 tags:
   - analitica de negocios
-  - datos
+  - ciencia de datos
+  - toma de decisiones
   - transformacion digital
+  - business intelligence
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

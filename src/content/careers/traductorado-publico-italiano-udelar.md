@@ -5,8 +5,8 @@ similar:
   - traductorado-publico-frances-udelar
   - traductorado-publico-ingles-udelar
   - traductorado-publico-portugues-udelar
-  - interpretacion-lsu-espanol-lsu-udelar
   - licenciatura-en-traduccion-um
+  - postgrado-en-traduccion-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,10 @@ startDate: ""
 applicationDeadline: ""
 credits: 320
 tags:
-  - letras
   - traduccion
+  - idiomas
+  - letras
+  - lengua italiana
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

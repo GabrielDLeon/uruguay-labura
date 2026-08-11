@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Economía"
 similar:
-  - licenciatura-en-economia-um
-  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
   - maestria-en-economia-um
   - licenciatura-en-economia-udelar
-  - licenciatura-en-negocios-y-economia-ucu
-  - licenciatura-en-economia-y-finanzas-ude
+  - licenciatura-en-economia-um
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
+  - licenciatura-en-economia-ort
+  - economia-para-no-economistas-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
@@ -23,9 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Economía de la UCU. Forma economistas capaces de analizar y modelar relaciones económicas, diseñar y evaluar políticas públicas y elaborar proyecciones, con sólida formación en datos y econometría."
 tags:
   - economia
-  - analisis-de-datos
-  - politicas-publicas
   - econometria
+  - ciencia de datos
+  - politicas publicas
+  - analisis economico
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

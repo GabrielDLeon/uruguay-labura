@@ -2,11 +2,11 @@
 title: "Licenciado en Comercio Exterior"
 similar:
   - analista-en-comercio-exterior-ude
-  - postgrado-en-comercio-internacional-um
+  - analista-en-comercio-exterior-ort
   - licenciatura-en-negocios-internacionales-um
   - master-en-integracion-y-comercio-internacional-um
   - licenciatura-en-negocios-internacionales-ucu
-  - licenciatura-en-relaciones-internacionales-ude
+  - postgrado-en-comercio-internacional-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -25,7 +25,8 @@ tags:
   - comercio exterior
   - comercio internacional
   - aduanas
-  - logistica
+  - logistica internacional
+  - negocios internacionales
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

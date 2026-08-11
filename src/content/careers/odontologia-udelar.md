@@ -2,11 +2,11 @@
 title: "Odontología"
 similar:
   - odontologia-ucu
-  - asistente-en-odontologia-udelar
   - laboratorista-en-odontologia-udelar
+  - doctor-en-medicina-udelar
   - higienista-en-odontologia-udelar
-  - odontologia-restauradora-integral-especializacion-udelar
-  - ciencias-odontologicas-mencion-funcion-craneo-mandibular-y-dolor-orofacial-maestria-udelar
+  - asistente-en-odontologia-udelar
+  - ciencias-odontologicas-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
@@ -25,6 +25,9 @@ applicationDeadline: ""
 credits: 495
 tags:
   - odontologia
+  - salud bucal
+  - salud
+  - clinica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -3,10 +3,10 @@ title: "Analista en Ingeniería Informática"
 similar:
   - analista-en-informatica-ucu
   - analista-en-tecnologia-informatica-ude
-  - ingenieria-en-informatica-ude
-  - tecnico-en-informatica-ude
-  - ingenieria-en-informatica-um
+  - licenciatura-en-informatica-um
   - licenciatura-en-informatica-ude
+  - ingenieria-en-informatica-um
+  - analista-en-tecnologias-de-la-informacion-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -24,6 +24,7 @@ tags:
   - informatica
   - software
   - programacion
+  - sistemas de informacion
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

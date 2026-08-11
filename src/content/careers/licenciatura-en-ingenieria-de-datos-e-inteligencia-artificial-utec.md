@@ -2,12 +2,12 @@
 title: "Licenciatura en Ingeniería de Datos e Inteligencia Artificial"
 short: "Lic. en Ingeniería de Datos e IA"
 similar:
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
   - ingenieria-de-datos-e-inteligencia-artificial-um
-  - tecnologo-en-analisis-y-gestion-de-datos-utec
+  - diploma-en-inteligencia-artificial-aplicada-ude
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - analista-en-ciberseguridad-ude
   - maestria-en-robotica-e-inteligencia-artificial-utec
-  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
-  - diploma-de-especializacion-en-inteligencia-artificial-ort
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"
@@ -25,8 +25,11 @@ accreditation: "UTEC"
 description: "Licenciatura gratuita en Ingeniería de Datos e IA de UTEC (LIDIA), presencial en Rivera. Almacenamiento y procesamiento de datos, cloud, IA, IoT y ciberseguridad. Título intermedio de Tecnólogo en Análisis y Gestión de Datos."
 tags:
   - ciencia de datos
-  - informatica
   - inteligencia artificial
+  - informatica
+  - computacion en la nube
+  - internet de las cosas
+  - ciberseguridad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

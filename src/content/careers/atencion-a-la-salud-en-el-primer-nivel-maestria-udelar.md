@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Atención a la Salud en el Primer Nivel"
 similar:
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - salud-familiar-y-comunitaria-especializacion-udelar
   - gestion-de-servicios-de-salud-maestria-udelar
   - salud-mental-y-psiquiatria-especializacion-udelar
-  - salud-familiar-y-comunitaria-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
-  - maestria-en-gestion-y-salud-publica-ucu
-  - salud-mental-maestria-udelar
+  - higienista-en-odontologia-udelar
+  - licenciatura-en-enfermeria-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
   - salud publica
+  - atencion primaria
+  - atencion comunitaria
+  - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

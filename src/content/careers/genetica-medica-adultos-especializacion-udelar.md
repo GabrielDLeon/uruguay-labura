@@ -4,8 +4,9 @@ similar:
   - genetica-medica-pediatria-especializacion-udelar
   - oncologia-medica-especializacion-udelar
   - parasitologia-y-micologia-medica-especializacion-udelar
-  - microbiologia-especializacion-udelar
-  - bioinformatica-especializacion-udelar
+  - bases-inmunogeneticas-de-los-transplantes-especializacion-udelar
+  - licenciatura-biologia-humana-udelar
+  - ciencias-biologicas-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -21,8 +22,10 @@ description: "Especialización en Genética Médica Adultos, dictada por la Facu
 startDate: ""
 applicationDeadline: ""
 tags:
-  - biologia
   - medicina
+  - genetica
+  - genetica medica
+  - biologia molecular
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

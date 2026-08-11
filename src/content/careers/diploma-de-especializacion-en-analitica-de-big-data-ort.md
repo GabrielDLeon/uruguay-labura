@@ -2,11 +2,11 @@
 title: "Diploma de Especialización en Analítica de Big Data"
 similar:
   - master-en-big-data-ort
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
+  - postgrado-en-data-science-y-big-data-um
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - postgrado-en-ciencia-de-datos-para-finanzas-um
+  - ingenieria-de-datos-e-inteligencia-artificial-um
   - diploma-de-especializacion-en-analitica-de-negocios-ort
-  - tecnologo-en-analisis-y-gestion-de-datos-utec
-  - ciencia-de-datos-especializacion-udelar
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,7 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Diploma busca formar profesionales universitarios con capacidades técnicas para resolver problemas complejos en un mundo de grandes volúmenes de datos."
 tags:
   - ciencia de datos
+  - big data
   - informatica
 draft: true
 createdAt: "2026-07-31 16:58:06"

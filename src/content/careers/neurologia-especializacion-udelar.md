@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Neurología"
-similar: []
+similar:
+  - neurofisiologia-clinica-especializacion-udelar
+  - licenciatura-en-neurofisiologia-clinica-udelar
+  - neurocirugia-especializacion-udelar
+  - neurodesarrollo-especializacion-udelar
+  - neuropediatria-especializacion-udelar
+  - licenciatura-en-psicologia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - neurologia
+  - neurociencias
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

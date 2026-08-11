@@ -2,11 +2,11 @@
 title: "Licenciatura en Bioquímica"
 similar:
   - ciclo-en-biologia-bioquimica-udelar
-  - quimico-udelar
-  - tecnologo-quimico-udelar
+  - bioquimico-clinico-udelar
+  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
+  - licenciatura-en-biotecnologia-udelar
   - licenciatura-en-tecnologias-de-la-quimica-udelar
-  - licenciatura-en-quimica-udelar
-  - bachiller-en-ciencias-quimicas-udelar
+  - biotecnologia-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -23,7 +23,11 @@ description: "Estará preparado, en su egreso, a elegir según el interés del e
 startDate: ""
 applicationDeadline: ""
 tags:
+  - bioquimica
   - quimica
+  - biologia
+  - biotecnologia
+  - laboratorio clinico
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -2,8 +2,11 @@
 title: "Maestría en Cambio Organizacional en Entornos Digitales"
 similar:
   - diploma-en-cambio-cultura-y-comunicacion-interna-de-organizaciones-ucu
+  - transformacion-organizacional-especializacion-udelar
+  - licenciatura-en-negocios-digitales-ort
   - licenciatura-en-negocios-digitales-um
-  - diploma-de-postgrado-en-educacion-emocional-um
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
+  - master-en-gestion-de-sistemas-de-informacion-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,7 +25,8 @@ tags:
   - cambio organizacional
   - transformacion digital
   - comunicacion interna
-  - bienestar
+  - cultura organizacional
+  - bienestar laboral
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

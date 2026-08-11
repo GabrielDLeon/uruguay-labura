@@ -2,8 +2,11 @@
 title: "Especialización en Estudios Avanzados de Computación"
 similar:
   - ingenieria-en-computacion-maestria-udelar
-  - licenciatura-en-computacion-udelar
   - ingenieria-en-computacion-udelar
+  - licenciatura-en-computacion-udelar
+  - ingenieria-de-software-maestria-udelar
+  - ingenieria-de-software-especializacion-udelar
+  - tecnicatura-en-desarrollador-de-software-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -20,6 +23,8 @@ startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
   - informatica
+  - software
+  - programacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

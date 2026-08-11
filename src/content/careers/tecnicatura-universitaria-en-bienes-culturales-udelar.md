@@ -2,7 +2,10 @@
 title: "Tecnicatura Universitaria en Bienes Culturales"
 similar:
   - politicas-culturales-maestria-udelar
+  - carnaval-y-patrimonio-especializacion-udelar
+  - gestion-cultural-especializacion-udelar
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
+  - tecnicatura-en-tecnologias-de-la-imagen-fotografica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -21,6 +24,9 @@ applicationDeadline: ""
 credits: 200
 tags:
   - arte
+  - patrimonio cultural
+  - conservacion
+  - gestion cultural
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

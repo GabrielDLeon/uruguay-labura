@@ -1,11 +1,12 @@
 ---
 title: "Maestría en Salud y PNIE - Énfasis Ciencias de la Salud o Psicoterapia Integrativa"
 similar:
-  - diploma-en-derecho-de-salud-um
-  - maestria-en-humanizacion-de-la-salud-ucu
-  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
-  - maestria-en-direccion-de-empresas-de-salud-um
-  - maestria-en-salud-publica-ude
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - psicoterapia-psicodinamica-especializacion-udelar
+  - maestria-en-psicoterapia-cognitiva-de-adultos-y-familias-modalidad-first-experience-ucu
+  - maestria-en-psicoterapia-psicologia-analitica-junguiana-ucu
+  - salud-mental-maestria-udelar
+  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -21,9 +22,11 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Salud y PNIE de la UCU. Forma en una estrategia terapéutica en Ciencias de la Salud o en Psicoterapia Integrativa, desde la PsicoNeuroInmunoEndocrinología (PNIE), con una visión integral, multidimensional y longitudinal vital."
 tags:
-  - pnie
   - salud
+  - psicoterapia
   - psicoterapia integrativa
+  - psiconeuroinmunoendocrinologia
+  - salud mental
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

@@ -1,12 +1,12 @@
 ---
 title: "Dramaturgia"
 similar:
+  - licenciatura-en-humanidades-um
+  - licenciatura-en-artes-escenicas-ucu
+  - licenciatura-en-danza-contemporanea-udelar
   - arte-sonoro-maestria-udelar
+  - licenciatura-en-artes-visuales-ucu
   - licenciatura-en-arte-digital-y-electronico-udelar
-  - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
-  - licenciatura-en-artes-fotografia-udelar
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
-  - licenciatura-en-artes-ceramica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,10 @@ applicationDeadline: ""
 credits: 180
 tags:
   - arte
+  - artes escenicas
+  - teatro
+  - dramaturgia
+  - literatura
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

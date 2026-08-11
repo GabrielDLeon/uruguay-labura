@@ -3,10 +3,10 @@ title: "Maestría en Arte Sonoro"
 similar:
   - arte-y-cultura-visual-maestria-udelar
   - licenciatura-en-arte-digital-y-electronico-udelar
+  - productor-musical-ort
   - dramaturgia-udelar
-  - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
-  - licenciatura-en-artes-fotografia-udelar
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - cine-latinoamericano-maestria-udelar
+  - licenciatura-en-humanidades-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -24,6 +24,7 @@ applicationDeadline: ""
 tags:
   - arte
   - musica
+  - arte sonoro
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

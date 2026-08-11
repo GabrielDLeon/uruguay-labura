@@ -1,10 +1,12 @@
 ---
 title: "Maestría en Sociología"
 similar:
+  - licenciatura-en-sociologia-udelar
   - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
   - licenciatura-en-sociologia-ucu
-  - licenciatura-en-sociologia-udelar
   - sociologia-doctorado-udelar
+  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
+  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -20,7 +22,10 @@ description: "La Maestría en Sociología tiene como objetivo formar profesional
 startDate: ""
 applicationDeadline: ""
 tags:
+  - sociologia
   - ciencias sociales
+  - investigacion social
+  - politicas publicas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

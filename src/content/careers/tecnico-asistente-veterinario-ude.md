@@ -2,11 +2,11 @@
 title: "Técnico Asistente Veterinario"
 similar:
   - tecnico-en-ciencias-veterinarias-ude
-  - tecnologo-en-produccion-equina-udelar
   - doctor-en-ciencias-veterinarias-udelar
+  - tecnologo-en-produccion-equina-udelar
+  - salud-animal-doctorado-udelar
+  - salud-animal-maestria-udelar
   - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
-  - nutricion-de-rumiantes-maestria-udelar
-  - produccion-animal-doctorado-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -24,6 +24,8 @@ tags:
   - veterinaria
   - salud animal
   - bienestar animal
+  - veterinaria clinica
+  - equinos
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

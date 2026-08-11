@@ -2,6 +2,11 @@
 title: "Postgrado en Asesoramiento Corporativo"
 similar:
   - postgrado-en-derecho-contractual-um
+  - postgrado-en-derecho-penal-economico-um
+  - postgrado-en-actualizacion-notarial-um
+  - abogacia-ude
+  - postgrado-en-tecnica-tributaria-um
+  - postgrado-en-derecho-administrativo-economico-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +22,12 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Asesoramiento Corporativo de la Universidad de Montevideo. Formación para el asesoramiento jurídico integral de empresas, con materias de derecho societario, contratos, compliance y finanzas."
 tags:
+  - derecho
   - derecho corporativo
-  - asesoramiento empresarial
   - derecho societario
+  - asesoramiento empresarial
+  - contratos
+  - compliance
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

@@ -3,10 +3,10 @@ title: "Licenciatura en Finanzas"
 similar:
   - licenciatura-en-finanzas-ucu
   - master-en-contabilidad-y-finanzas-ort
+  - licenciatura-en-finanzas-ort
+  - diploma-de-especializacion-en-finanzas-ort
+  - finanzas-maestria-udelar
   - postgrado-en-finanzas-corporativas-um
-  - postgrado-de-especializacion-en-gestion-de-portafolios-um
-  - diploma-de-especializacion-en-impuestos-ort
-  - licenciatura-en-economia-y-finanzas-ude
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -22,9 +22,11 @@ location: "Montevideo"
 description: "Licenciatura en Finanzas de la Universidad de Montevideo, con foco en la transformación digital de las finanzas corporativas, la industria de servicios financieros, la consultoría y el sector público."
 tags:
   - finanzas
+  - finanzas corporativas
   - banca
-  - inversiones
   - fintech
+  - transformacion digital
+  - inversiones
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

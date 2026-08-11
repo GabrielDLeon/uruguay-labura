@@ -5,8 +5,8 @@ similar:
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
   - salud-ocupacional-especializacion-udelar
   - salud-publica-especializacion-udelar
-  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
+  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - salud publica
+  - perinatologia
+  - obstetricia
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

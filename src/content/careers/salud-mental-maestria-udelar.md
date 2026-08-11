@@ -2,11 +2,11 @@
 title: "Maestría en Salud Mental"
 similar:
   - salud-mental-y-psiquiatria-especializacion-udelar
-  - maestria-en-salud-publica-ude
-  - tecnicatura-en-salud-ocupacional-udelar
-  - salud-familiar-y-comunitaria-especializacion-udelar
-  - psicologia-en-servicios-de-salud-especializacion-udelar
-  - maestria-en-gestion-y-salud-publica-ucu
+  - psiquiatria-especializacion-udelar
+  - psiquiatria-pediatrica-especializacion-udelar
+  - maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa-ucu
+  - licenciatura-en-psicologia-semipresencial-ucu
+  - licenciatura-en-psicologia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ description: "A través de este proyecto de Maestría en Salud Mental nos propon
 startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Jaime Cibils 2810"
 tags:
-  - medicina
+  - salud mental
+  - psicologia
   - salud publica
+  - psiquiatria
+  - medicina
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

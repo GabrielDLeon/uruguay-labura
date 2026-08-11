@@ -1,12 +1,12 @@
 ---
 title: "Técnico en Diseño de Sonido"
 similar:
+  - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
+  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
   - diseno-y-produccion-de-videojuegos-ort
-  - licenciatura-en-diseno-de-modas-ort
-  - licenciatura-en-diseno-de-interiores-ort
-  - diseno-de-interfaces-ort
-  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
-  - licenciatura-en-diseno-integrado-udelar
+  - licenciatura-en-animacion-y-videojuegos-ort
+  - licenciatura-en-cine-ucu
+  - licenciatura-en-comunicacion-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,7 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Técnico en Diseño de Sonido de ORT Uruguay. El profesional que diseña y crea todos los elementos que componen la banda sonora en un producto audiovisual o un videojuego."
 tags:
   - audiovisual
-  - diseno
+  - diseno de sonido
+  - videojuegos
+  - musica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

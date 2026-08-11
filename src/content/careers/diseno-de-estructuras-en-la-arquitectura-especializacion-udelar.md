@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Diseño de Estructuras en la Arquitectura"
 similar:
-  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
+  - ingenieria-estructural-doctorado-udelar
   - arquitectura-doctorado-udelar
-  - diseno-de-interfaces-ort
-  - tecnico-en-diseno-de-interiores-ort
-  - proyecto-de-paisaje-especializacion-udelar
-  - licenciatura-en-diseno-integrado-udelar
+  - diseno-calculo-y-construccion-de-estructuras-de-madera-especializacion-udelar
+  - arquitectura-ucu
+  - ingenieria-estructural-maestria-udelar
+  - arquitectura-en-madera-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - arquitectura
-  - diseno
+  - diseno arquitectonico
+  - ingenieria estructural
+  - diseno estructural
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Doctorado en Antropología, en Educación, en Filosofía, en Historia, en Letras, en Lingüística"
 similar:
-  - licenciatura-en-politica-filosofia-y-economia-um
   - licenciatura-en-humanidades-um
-  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
   - licenciatura-en-filosofia-ucu
+  - licenciatura-en-politica-filosofia-y-economia-um
+  - letras-udelar
+  - antropologia-udelar
   - linguistica-udelar
-  - historia-economica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,7 +22,8 @@ description: "La Facultad de Humanidades y Ciencias de la Educación organiza un
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
+  - humanidades
+  - antropologia
   - educacion
   - filosofia
   - historia

@@ -1,6 +1,12 @@
 ---
 title: "Maestría en Lengua Inglesa y Educación Intercultural Bilingüe (MELBE)"
-similar: []
+similar:
+  - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
+  - magisterio-um
+  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
+  - linguistica-udelar
+  - traductorado-publico-ingles-udelar
+  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"
@@ -16,6 +22,8 @@ website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-acade
 location: "Montevideo"
 description: "Maestría en Lengua Inglesa y Educación Intercultural Bilingüe (MELBE) de la Universidad de Montevideo. Programa único en Uruguay que integra lingüística aplicada, educación bilingüe e investigación situada, con título intermedio de Especialista y título de Magíster."
 tags:
+  - letras
+  - linguistica
   - lengua inglesa
   - educacion bilingue
   - interculturalidad

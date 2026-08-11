@@ -1,9 +1,12 @@
 ---
 title: "Postgrado en Actualización Notarial"
 similar:
+  - notariado-udelar
   - escribania-ude
   - notariado-ucu
   - notariado-um
+  - postgrado-en-asesoramiento-corporativo-um
+  - postgrado-en-derecho-contractual-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -19,9 +22,11 @@ website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/p
 location: "Montevideo"
 description: "Postgrado en Actualización Notarial de la Universidad de Montevideo. Actualización práctica de la actividad notarial, la contratación inmobiliaria y el derecho registral."
 tags:
+  - derecho
   - notariado
   - derecho notarial
   - escribania
+  - contratos
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

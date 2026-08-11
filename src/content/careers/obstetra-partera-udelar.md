@@ -1,6 +1,12 @@
 ---
 title: "Obstetra Partera"
-similar: []
+similar:
+  - licenciatura-binacional-en-obstetricia-udelar
+  - ecografia-gineco-obstetrica-especializacion-udelar
+  - ginecotocologia-especializacion-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - investigacion-de-la-salud-con-enfasis-en-perinatologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
@@ -18,6 +24,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - salud
+  - obstetricia
+  - ginecologia
+  - atencion primaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

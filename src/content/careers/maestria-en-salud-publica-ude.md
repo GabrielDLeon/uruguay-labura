@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Salud Pública"
 similar:
+  - salud-publica-especializacion-udelar
   - maestria-en-gestion-y-salud-publica-ucu
   - maestria-en-epidemiologia-y-salud-digital-ucu
-  - salud-publica-especializacion-udelar
-  - salud-mental-maestria-udelar
-  - tecnicatura-en-salud-ocupacional-udelar
+  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - salud-animal-doctorado-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

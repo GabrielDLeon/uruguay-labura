@@ -2,6 +2,10 @@
 title: "Ingeniería Telemática"
 similar:
   - ingenieria-en-telecomunicaciones-ucu
+  - telecomunicaciones-especializacion-udelar
+  - tecnologo-en-telecomunicaciones-udelar
+  - ingenieria-en-telecomunicaciones-ort
+  - ingenieria-en-sistemas-de-comunicacion-udelar
   - ingenieria-en-informatica-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
@@ -20,7 +24,9 @@ tags:
   - telematica
   - telecomunicaciones
   - redes
-  - tic
+  - comunicaciones inalambricas
+  - redes de datos
+  - programacion
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

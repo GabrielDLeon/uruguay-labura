@@ -1,6 +1,12 @@
 ---
 title: "Administrador de Servidores y Aplicaciones"
-similar: []
+similar:
+  - analista-en-infraestructura-informatica-ort
+  - tecnologo-en-informatica-udelar
+  - tecnologo-en-informatica-utec
+  - especializacion-en-ciberseguridad-utec
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-en-telecomunicaciones-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -17,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Administrador de Servidores y Aplicaciones en la Universidad ORT Uruguay forma técnicos para administrar servidores Windows y Linux y servicios de red."
 tags:
   - informatica
+  - administracion de sistemas
+  - servidores
+  - redes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

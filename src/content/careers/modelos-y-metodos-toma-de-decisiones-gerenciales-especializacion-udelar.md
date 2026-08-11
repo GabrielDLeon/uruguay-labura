@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Modelos y Métodos Toma de Decisiones Gerenciales"
 similar:
+  - postgrado-liderazgo-y-toma-de-decisiones-ude
+  - diploma-en-metodos-de-investigacion-y-analisis-de-datos-ucu
+  - licenciatura-en-gestion-agropecuaria-ude
+  - emba-executive-mba-semipresencial-ort
+  - licenciatura-en-business-analytics-ucu
   - gerencia-y-administracion-mba-maestria-udelar
-  - licenciatura-en-direccion-de-empresas-ucu
-  - master-en-business-analytics-ort
-  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
-  - diploma-de-especializacion-en-fiscalidad-internacional-ort
-  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ description: "El Diploma de Especialización en Modelos y Métodos para Toma de 
 startDate: ""
 applicationDeadline: ""
 tags:
+  - toma de decisiones
   - administracion
   - negocios
+  - habilidades gerenciales
+  - direccion de empresas
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

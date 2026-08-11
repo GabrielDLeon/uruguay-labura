@@ -1,9 +1,10 @@
 ---
 title: "Maestría en Demografía y Estudios de Población"
 similar:
-  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
+  - analisis-sociodemografico-especializacion-udelar
   - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
+  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
+  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
   - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
   - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -22,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - ciencias sociales
+  - demografia
+  - analisis sociodemografico
+  - estadistica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

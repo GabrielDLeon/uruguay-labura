@@ -3,10 +3,10 @@ title: "Maestría en Bioinformática"
 similar:
   - bioinformatica-especializacion-udelar
   - licenciatura-en-bioinformatica-ort
-  - ciencias-biologicas-doctorado-udelar
+  - ciclo-en-biologia-bioquimica-udelar
   - ciencias-biologicas-maestria-udelar
-  - licenciatura-en-biotecnologia-udelar
-  - licenciatura-en-ingenieria-biologica-udelar
+  - ciencias-biologicas-doctorado-udelar
+  - ingenieria-matematica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "La Maestría en Bioinformática es un programa de posgrado del Ped
 startDate: ""
 applicationDeadline: "Facultad de Ciencias inicia expediente y Facultad de Ingeniería contin"
 tags:
+  - bioinformatica
   - biologia
   - informatica
+  - computacion cientifica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,6 +1,10 @@
 ---
 title: "Especialización en Traumatología y Ortopedia"
 similar:
+  - especializacion-en-traumatologia-y-ortopedia-um
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - tecnicatura-en-podologia-udelar
+  - rehabilitacion-y-medicina-fisica-especializacion-udelar
   - cirugia-y-traumatologia-buco-maxilo-facial-especializacion-udelar
   - ortodoncia-y-ortopedia-dento-maxilo-facial-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -19,6 +23,9 @@ startDate: ""
 applicationDeadline: "Facultad de Medicina"
 tags:
   - medicina
+  - traumatologia
+  - ortopedia
+  - rehabilitacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

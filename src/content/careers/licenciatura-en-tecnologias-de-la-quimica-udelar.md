@@ -2,11 +2,11 @@
 title: "Licenciatura en Tecnologías de la Química"
 similar:
   - licenciatura-en-quimica-udelar
-  - ingenieria-quimica-udelar
-  - quimica-farmaceutica-udelar
   - quimico-udelar
   - ingenieria-quimica-doctorado-udelar
   - ingenieria-quimica-maestria-udelar
+  - ingenieria-quimica-udelar
+  - quimica-doctorado-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,10 @@ applicationDeadline: ""
 credits: 360
 tags:
   - quimica
+  - quimica industrial
+  - nanotecnologia
+  - biotecnologia
+  - quimica analitica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

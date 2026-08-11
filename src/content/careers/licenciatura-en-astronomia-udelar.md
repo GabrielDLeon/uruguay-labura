@@ -1,6 +1,12 @@
 ---
 title: "Licenciatura en Astronomía"
-similar: []
+similar:
+  - licenciatura-en-fisica-udelar
+  - fisica-doctorado-udelar
+  - fisica-maestria-udelar
+  - fisica-especializacion-udelar
+  - ingenieria-fisica-doctorado-udelar
+  - ingenieria-fisica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -19,6 +25,9 @@ applicationDeadline: ""
 credits: 360
 tags:
   - astronomia
+  - astrofisica
+  - fisica
+  - cosmologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

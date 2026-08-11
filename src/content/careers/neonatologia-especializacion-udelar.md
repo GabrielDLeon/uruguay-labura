@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Neonatología"
-similar: []
+similar:
+  - enfermeria-en-neonatologia-especializacion-udelar
+  - estabilizacion-y-traslado-pediatrico-y-neonatal-especializacion-udelar
+  - anatomia-patologica-pediatrica-especializacion-udelar
+  - cardiologia-pediatrica-especializacion-udelar
+  - cirugia-pediatrica-especializacion-udelar
+  - emergentologia-pediatrica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -16,7 +22,9 @@ description: "Especialización en Neonatología, dictada por la Facultad de Medi
 startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
-  - salud
+  - medicina
+  - neonatologia
+  - pediatria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

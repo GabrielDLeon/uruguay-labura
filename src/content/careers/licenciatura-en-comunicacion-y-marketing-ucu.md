@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Comunicación y Marketing"
 similar:
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
   - master-en-direccion-de-comunicacion-y-marketing-ort
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
   - licenciatura-en-marketing-um
   - licenciatura-en-marketing-y-estrategia-comercial-ucu
-  - licenciatura-en-comunicacion-ucu
-  - marketing-especializacion-udelar
+  - analista-en-marketing-digital-y-comercio-electronico-ort
+  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"
@@ -24,7 +24,9 @@ description: "Licenciatura en Comunicación y Marketing de la Universidad Catól
 tags:
   - comunicacion
   - marketing
+  - marketing digital
   - contenidos digitales
+  - ciencia de datos
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

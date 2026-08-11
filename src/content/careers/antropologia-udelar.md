@@ -2,6 +2,11 @@
 title: "Antropología"
 similar:
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - ciencias-humanas-maestria-udelar
+  - licenciatura-en-ciencias-sociales-udelar
+  - licenciatura-en-filosofia-ucu
+  - abogacia-udelar
+  - ciclo-area-social-y-artistica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -20,6 +25,8 @@ applicationDeadline: ""
 credits: 360
 tags:
   - ciencias sociales
+  - antropologia
+  - humanidades
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

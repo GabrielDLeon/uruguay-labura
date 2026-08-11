@@ -2,11 +2,11 @@
 title: "Ingeniería en Computación"
 similar:
   - ingenieria-en-computacion-maestria-udelar
-  - licenciatura-en-computacion-udelar
-  - ingenieria-en-sistemas-ort
-  - ingenieria-en-sistemas-de-comunicacion-udelar
   - ingenieria-en-informatica-ude
+  - licenciatura-en-computacion-udelar
   - estudios-avanzados-de-computacion-especializacion-udelar
+  - ingenieria-en-sistemas-ort
+  - ingenieria-en-informatica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
@@ -25,7 +25,9 @@ accreditation: "UDELAR"
 tags:
   - informatica
   - ingenieria
-  - programa-roberto-rocca
+  - software
+  - programacion
+  - programa roberto rocca
 draft: false
 createdAt: "2026-06-01 00:29:35"
 updatedAt: "2026-08-07 12:21:06"

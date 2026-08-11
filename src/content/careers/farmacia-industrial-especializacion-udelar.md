@@ -2,8 +2,11 @@
 title: "Especialización en Farmacia Industrial"
 similar:
   - farmacia-hospitalaria-especializacion-udelar
+  - ingenieria-industrial-um
   - auxiliar-de-farmacia-hospitalaria-udelar
-  - quimica-farmaceutica-udelar
+  - ingenieria-industrial-ucu
+  - tecnologo-en-madera-udelar
+  - ingenieria-industrial-mecanica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -20,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - farmacia
+  - farmacia industrial
+  - farmacologia
+  - procesos industriales
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

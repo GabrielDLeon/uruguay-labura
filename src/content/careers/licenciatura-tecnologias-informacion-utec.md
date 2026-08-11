@@ -3,11 +3,11 @@ title: "Licenciatura en Tecnologías de la Información"
 short: "Licenciatura en TI"
 similar:
   - tecnicatura-superior-ts-utec
+  - analista-en-tecnologias-de-la-informacion-ort
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
-  - analista-en-tecnologias-de-la-informacion-ort
-  - diploma-de-especializacion-en-gestion-de-sistemas-de-informacion-ort
-  - master-en-gestion-de-sistemas-de-informacion-ort
+  - diploma-en-inteligencia-artificial-aplicada-ude
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "licenciatura"
@@ -29,6 +29,11 @@ accreditation: "UTEC"
 description: "Licenciatura gratuita en TI de UTEC con modalidad híbrida. Formación integral en programación, testing, infraestructura y cloud. Incluye título intermedio de Técnico Superior."
 tags:
   - informatica
+  - programacion
+  - testing
+  - calidad de software
+  - infraestructura
+  - computacion en la nube
 draft: false
 createdAt: "2026-05-15 00:00:44"
 updatedAt: "2026-08-07 12:21:06"

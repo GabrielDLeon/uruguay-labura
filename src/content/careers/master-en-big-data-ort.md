@@ -1,12 +1,12 @@
 ---
 title: "Master en Big Data"
 similar:
+  - postgrado-en-data-science-y-big-data-um
   - diploma-de-especializacion-en-analitica-de-big-data-ort
   - maestria-en-ciencia-de-datos-um
-  - ciencia-de-datos-aplicada-maestria-udelar
-  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
-  - ciencia-de-datos-especializacion-udelar
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - contador-publico-ort
+  - postgrado-en-business-intelligence-y-data-science-um
+  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
@@ -23,7 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Master en Big Data de ORT Uruguay. El Master proporciona los conocimientos teóricos y la experiencia práctica en el manejo de la tecnología de big data, con el objetivo de formar profesionales"
 tags:
   - ciencia de datos
+  - big data
   - informatica
+  - gestion de datos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

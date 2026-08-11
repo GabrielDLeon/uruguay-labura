@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ciencias de la Ingeniería"
 similar:
-  - doctorado-en-ingenieria-ucu
-  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
   - master-en-ingenieria-por-investigacion-ort
+  - maestria-en-investigacion-aplicada-a-la-ingenieria-um
+  - doctorado-en-ingenieria-ort
+  - doctorado-en-ingenieria-ucu
+  - ingenieria-en-telecomunicaciones-ucu
   - ingenieria-electrica-maestria-udelar
-  - ingenieria-mecanica-doctorado-udelar
-  - ingenieria-fisica-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

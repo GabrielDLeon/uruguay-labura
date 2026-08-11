@@ -2,12 +2,12 @@
 title: "Maestría Profesional en Evaluación Transformadora para la Sostenibilidad"
 short: "Maestría en Evaluación Transformadora"
 similar:
+  - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
   - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
-  - maestria-en-gestion-ambiental-ude
-  - ciencias-ambientales-maestria-udelar
-  - desarrollo-rural-sustentable-maestria-udelar
-  - educacion-ambiental-maestria-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
+  - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
+  - ingeniero-agronomo-ude
+  - licenciatura-en-diseno-integrado-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "maestria"
@@ -23,7 +23,11 @@ contactEmail: "secretaria.deval@utec.edu.uy"
 accreditation: "UTEC"
 description: "Maestría Profesional en Evaluación Transformadora para la Sostenibilidad de UTEC. Formación semipresencial para diseñar e implementar evaluaciones con enfoque de triple impacto en el marco de la transición hacia la sostenibilidad."
 tags:
-  - medio ambiente
+  - sostenibilidad
+  - desarrollo sostenible
+  - triple impacto
+  - politicas publicas
+  - responsabilidad social
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

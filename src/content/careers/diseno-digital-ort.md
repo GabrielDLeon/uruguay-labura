@@ -3,10 +3,10 @@ title: "Diseño Digital"
 similar:
   - diseno-de-interfaces-ort
   - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
-  - diseno-grafico-ort
-  - diseno-y-produccion-de-videojuegos-ort
-  - licenciatura-en-diseno-de-modas-ort
+  - master-en-diseno-estrategico-e-innovacion-ort
+  - licenciatura-en-diseno-grafico-ort
+  - licenciatura-en-diseno-multimedia-ort
+  - tecnicatura-en-diseno-de-indumentaria-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Diseño Digital de ORT Uruguay. Esta carrera tiene foco en el diseño para los sistemas responsivos, la adaptación y funcionalidad en multipantallas, sin descuidar los mundos físico y digital"
 tags:
   - diseno
+  - diseno digital
+  - diseno web
+  - experiencia de usuario
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

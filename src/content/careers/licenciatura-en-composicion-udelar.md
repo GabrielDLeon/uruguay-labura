@@ -1,11 +1,11 @@
 ---
 title: "Licenciatura en Composición"
 similar:
+  - licenciatura-en-musica-udelar
+  - licenciatura-en-interpretacion-musical-udelar
   - licenciatura-en-direccion-coral-udelar
   - licenciatura-en-direccion-orquestal-udelar
-  - licenciatura-en-musica-udelar
   - licenciatura-en-musicologia-udelar
-  - licenciatura-en-interpretacion-musical-udelar
   - ciclo-de-introduccion-la-musica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -24,6 +24,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - musica
+  - composicion
+  - teoria musical
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

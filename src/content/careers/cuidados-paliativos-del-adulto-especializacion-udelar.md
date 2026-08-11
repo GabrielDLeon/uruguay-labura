@@ -2,6 +2,8 @@
 title: "Especialización en Cuidados Paliativos del Adulto"
 similar:
   - maestria-en-cuidados-paliativos-um
+  - maestria-en-cuidados-paliativos-ucu
+  - hepatologia-del-adulto-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +20,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - cuidados paliativos
+  - final de la vida
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

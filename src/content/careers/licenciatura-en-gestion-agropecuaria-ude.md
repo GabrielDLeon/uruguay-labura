@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Gestión Agropecuaria"
 similar:
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - licenciatura-en-direccion-de-empresas-ucu
-  - tecnicatura-en-gestion-de-recursos-naturales-udelar
-  - economia-y-gestion-bancaria-especializacion-udelar
   - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
-  - tecnico-en-gestion-de-equinos-ude
+  - tecnico-agropecuario-ude
+  - licenciatura-en-business-analytics-ucu
+  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - postgrado-en-gestion-contable-um
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -23,9 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura que forma profesionales capaces de participar y asesorar en la toma de decisiones de la actividad agropecuaria, integrando lo técnico-productivo con lo económico-financiero."
 tags:
   - agropecuario
-  - gestion
-  - administracion
   - agronegocios
+  - gestion empresarial
+  - administracion
+  - toma de decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

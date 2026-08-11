@@ -5,9 +5,8 @@ similar:
   - ingenieria-en-energias-renovables-utec
   - ingenieria-de-la-energia-especializacion-udelar
   - ingenieria-de-la-energia-maestria-udelar
-  - ingenieria-en-sistemas-electricos-de-potencia-ucu
-  - tecnologo-agroambiental-utec
   - ingenieria-de-la-energia-doctorado-udelar
+  - tecnologo-industrial-mecanico-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -27,8 +26,9 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
   - energia
-  - ingenieria
-  - medio ambiente
+  - energias renovables
+  - energia solar
+  - energia eolica
 ---
 
 ## Resumen

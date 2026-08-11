@@ -3,11 +3,10 @@ title: "Ingeniería Biomédica"
 short: "Ing. Biomédica"
 similar:
   - tecnologo-en-ingenieria-biomedica-utec
-  - ingenieria-en-mecatronica-utec
-  - ingenieria-en-logistica-utec
-  - ingenieria-electrica-udelar
-  - ingenieria-en-control-y-automatica-utec
-  - ingenieria-estructural-doctorado-udelar
+  - ingenieria-biomedica-ucu
+  - licenciatura-en-imagenologia-udelar
+  - tecnicatura-en-radioisotopos-udelar
+  - tecnicatura-en-radioterapia-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"
@@ -24,7 +23,11 @@ location: "Fray Bentos (ITR Suroeste)"
 accreditation: "UTEC"
 description: "Ingeniería gratuita en Biomédica de UTEC, presencial en Fray Bentos. Formación en mantenimiento, adquisición y gestión de equipos biomédicos y tecnología para el sector salud. Título intermedio de Tecnólogo."
 tags:
-  - ingenieria
+  - ingenieria biomedica
+  - salud
+  - tecnologia medica
+  - dispositivos medicos
+  - equipos biomedicos
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

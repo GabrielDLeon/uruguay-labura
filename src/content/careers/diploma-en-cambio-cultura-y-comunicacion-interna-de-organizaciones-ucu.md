@@ -2,6 +2,7 @@
 title: "Diploma en Cambio, Cultura y Comunicación Interna de Organizaciones"
 similar:
   - maestria-en-cambio-organizacional-en-entornos-digitales-ucu
+  - transformacion-organizacional-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"
@@ -16,8 +17,9 @@ location: "Montevideo"
 description: "Diploma en Cambio, Cultura y Comunicación Interna de Organizaciones de la UCU. Forma profesionales para liderar transformaciones organizacionales gestionando el cambio y la comunicación interna con efectividad."
 tags:
   - cambio organizacional
-  - comunicacion interna
   - cultura organizacional
+  - comunicacion interna
+  - gestion del cambio
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

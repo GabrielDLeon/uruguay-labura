@@ -2,11 +2,11 @@
 title: "Ciclo de Introducción a la Música"
 similar:
   - licenciatura-en-musica-udelar
+  - licenciatura-en-composicion-udelar
+  - tecnicatura-en-direccion-de-coros-udelar
   - licenciatura-en-jazz-y-musica-creativa-utec
   - tecnologo-en-jazz-y-musica-creativa-utec
-  - licenciatura-en-composicion-udelar
-  - licenciatura-en-direccion-coral-udelar
-  - licenciatura-en-direccion-orquestal-udelar
+  - licenciatura-en-interpretacion-musical-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ciclo"
@@ -24,6 +24,8 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - musica
+  - educacion musical
+  - teoria musical
 listable: false
 searchable: true
 draft: true

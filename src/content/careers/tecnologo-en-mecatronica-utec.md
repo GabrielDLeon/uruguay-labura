@@ -4,6 +4,10 @@ short: "Tecnólogo en Mecatrónica"
 similar:
   - tecnologo-en-mecatronica-industrial-utec
   - ingenieria-en-mecatronica-utec
+  - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-en-control-y-automatica-utec
+  - ingenieria-mecanica-maestria-udelar
+  - tecnologo-quimico-utec
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "tecnologo"
@@ -22,6 +26,10 @@ draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 tags:
+  - mecatronica
+  - automatizacion
+  - sistemas embebidos
+  - procesos industriales
   - ingenieria
 ---
 

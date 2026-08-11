@@ -1,12 +1,12 @@
 ---
 title: "Postgrado en Tributación Nacional"
 similar:
-  - master-en-tributacion-um
   - postgrado-en-tributacion-aplicada-um
+  - master-en-tributacion-um
   - postgrado-en-tributacion-internacional-um
   - diplomado-en-tributacion-ude
+  - master-en-impuestos-y-fiscalidad-internacional-ort
   - postgrado-en-tecnica-tributaria-um
-  - postgrado-en-contabilidad-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

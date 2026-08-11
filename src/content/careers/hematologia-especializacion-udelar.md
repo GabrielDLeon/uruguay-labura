@@ -1,6 +1,12 @@
 ---
 title: "Especialización en Hematología"
-similar: []
+similar:
+  - hemato-oncologia-pediatrica-especializacion-udelar
+  - transplante-de-progenitores-hematopeyicos-especializacion-udelar
+  - hemoterapia-y-medicina-transfucional-especializacion-udelar
+  - oncologia-medica-especializacion-udelar
+  - oncologia-radioterapica-especializacion-udelar
+  - tecnicatura-en-hemoterapia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -17,6 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - hematologia
+  - oncologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

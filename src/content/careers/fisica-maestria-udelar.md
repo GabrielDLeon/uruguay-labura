@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Física"
 similar:
+  - fisica-doctorado-udelar
+  - licenciatura-en-fisica-udelar
   - fisica-especializacion-udelar
   - ingenieria-fisica-maestria-udelar
-  - fisica-doctorado-udelar
   - ingenieria-fisica-doctorado-udelar
-  - licenciatura-en-fisica-udelar
-  - licenciatura-en-fisica-medica-udelar
+  - licenciatura-en-astronomia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: "Secretaría de Posgrado del IPES"
 tags:
   - fisica
+  - ciencias exactas
+  - astrofisica
+  - fisica nuclear
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

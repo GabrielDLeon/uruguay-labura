@@ -3,6 +3,10 @@ title: "Diploma Avanzado en Comunicación, Ambiente y Sostenibilidad"
 similar:
   - ingenieria-ambiental-ucu
   - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
+  - tecnologo-en-control-ambiental-utec
+  - maestria-en-gestion-ambiental-ude
+  - maestria-profesional-en-evaluacion-transformadora-para-la-sostenibilidad-utec
+  - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"
@@ -17,9 +21,11 @@ website: "https://www.um.edu.uy/facultad-de-comunicacion/oferta-academica/postgr
 location: "Campus Virtual"
 description: "Diploma Avanzado en Comunicación, Ambiente y Sostenibilidad de la Universidad de Montevideo (FCOM). 60 horas 100% virtuales, con seis módulos teórico-prácticos y un taller integrador para el análisis y la gestión de proyectos ambientales desde la comunicación."
 tags:
+  - comunicacion
   - comunicacion ambiental
   - sostenibilidad
-  - ambiente
+  - medio ambiente
+  - gestion ambiental
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

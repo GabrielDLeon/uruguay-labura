@@ -18,13 +18,16 @@ applicationDeadline: ""
 credits: 360
 tags:
   - matematica
+  - ciencias exactas
+  - algebra
+  - analisis matematico
 similar:
-  - ingenieria-matematica-maestria-udelar
+  - matematica-maestria-udelar
+  - ciclo-de-matematica-udelar
+  - matematica-doctorado-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
   - ingenieria-fisico-matematica-udelar
-  - matematica-maestria-udelar
-  - profesorado-de-matematica-um
-  - investigacion-de-operaciones-maestria-udelar
+  - ingenieria-matematica-maestria-udelar
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Psicología Social"
 similar:
-  - doctorado-en-psicologia-ucu
   - psicologia-doctorado-udelar
-  - licenciatura-en-psicologia-ucu
+  - doctorado-en-psicologia-ucu
+  - licenciatura-en-psicologia-udelar
   - psicologia-clinica-maestria-udelar
-  - psicogerontologia-especializacion-udelar
-  - discapacidad-en-lo-social-especializacion-udelar
+  - psicologia-y-educacion-maestria-udelar
+  - licenciatura-en-psicologia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,10 @@ description: "Objetivos Generales 1) Formar recursos humanos de excelencia acad�
 startDate: ""
 applicationDeadline: "Formulario web de Facultad de Psicología."
 tags:
-  - ciencias sociales
   - psicologia
+  - psicologia social
+  - ciencias sociales
+  - investigacion
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

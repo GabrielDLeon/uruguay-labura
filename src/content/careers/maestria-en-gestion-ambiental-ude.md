@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Gestión Ambiental"
 similar:
+  - tecnologo-en-control-ambiental-utec
   - ingenieria-ambiental-ucu
   - licenciatura-en-gestion-ambiental-udelar
-  - tecnologo-en-control-ambiental-utec
-  - educacion-ambiental-maestria-udelar
+  - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
   - ingenieria-ambiental-maestria-udelar
-  - educacion-ambiental-especializacion-udelar
+  - ingenieria-ambiental-doctorado-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
@@ -20,10 +20,10 @@ website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-ge
 location: "Montevideo"
 description: "Maestría en Gestión Ambiental de la Universidad de la Empresa, con un enfoque aplicado a la gestión, la toma de decisiones y la solución de problemas ambientales concretos, con perfiles académico y profesional."
 tags:
+  - medio ambiente
   - gestion ambiental
   - sostenibilidad
-  - medio ambiente
-  - evaluacion de impacto ambiental
+  - toma de decisiones
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

@@ -2,11 +2,11 @@
 title: "Ingeniero Agrónomo"
 similar:
   - ingeniero-agronomo-udelar
+  - licenciatura-en-diseno-integrado-udelar
   - licenciatura-en-recursos-naturales-udelar
-  - tecnico-agropecuario-ude
-  - ingenieria-forestal-udelar
-  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
-  - licenciatura-en-gestion-agropecuaria-ude
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - ingenieria-agroambiental-utec
+  - tecnologo-agroambiental-utec
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "ingenieria"
@@ -24,7 +24,8 @@ description: "Carrera de grado orientada a formar un profesional agrónomo gener
 tags:
   - agronomia
   - agropecuario
-  - sustentabilidad
+  - sostenibilidad
+  - desarrollo sostenible
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

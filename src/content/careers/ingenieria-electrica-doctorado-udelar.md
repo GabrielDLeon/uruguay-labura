@@ -4,9 +4,9 @@ similar:
   - ingenieria-electrica-maestria-udelar
   - ingenieria-electrica-udelar
   - ingenieria-electrica-ort
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - sistemas-electricos-de-potencia-especializacion-udelar
   - ingenieria-de-la-energia-especializacion-udelar
-  - ingenieria-de-minas-especializacion-udelar
-  - ingenieria-de-minas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"
@@ -22,7 +22,9 @@ description: "De acuerdo a lo establecido en el Art. 26º de la Ordenanza de las
 startDate: ""
 applicationDeadline: "Facultad de Ingeniería"
 tags:
+  - ingenieria electrica
   - ingenieria
+  - electricidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

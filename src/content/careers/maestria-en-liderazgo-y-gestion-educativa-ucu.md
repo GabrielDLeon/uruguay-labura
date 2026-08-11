@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Liderazgo y Gestión Educativa"
 similar:
+  - diploma-en-planificacion-y-gestion-educativa-ort
   - master-en-gestion-educativa-ort
   - diploma-en-innovacion-educativa-ucu
-  - diploma-en-planificacion-y-gestion-educativa-ort
   - licenciatura-en-recreacion-educativa-ucu
+  - gestion-de-instituciones-educativas-especializacion-udelar
   - maestria-en-educacion-ude
-  - maestria-en-tecnologia-educativa-utec
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,10 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Liderazgo y Gestión Educativa de la UCU. Forma líderes capaces de diseñar estrategias para fortalecer la enseñanza y la gestión en centros educativos, programas y proyectos, en el ámbito público y privado."
 tags:
+  - educacion
   - liderazgo educativo
   - gestion educativa
-  - educacion
-  - enseñanza
+  - planificacion estrategica
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

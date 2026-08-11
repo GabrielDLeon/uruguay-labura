@@ -3,9 +3,9 @@ title: "Postgrado en Técnica Tributaria"
 similar:
   - maestria-en-contabilidad-y-tecnica-tributaria-um
   - postgrado-en-tributacion-aplicada-um
+  - tributaria-especializacion-udelar
+  - tributaria-maestria-udelar
   - postgrado-en-contabilidad-um
-  - postgrado-en-tributacion-nacional-um
-  - diplomado-en-tributacion-ude
   - postgrado-en-tributacion-internacional-um
 institutionName: "Universidad de Montevideo"
 institution: "um"
@@ -23,7 +23,8 @@ description: "Postgrado en Técnica Tributaria de la Universidad de Montevideo (
 tags:
   - tributacion
   - impuestos
-  - asesoramiento
+  - derecho tributario
+  - asesoramiento empresarial
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

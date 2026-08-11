@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Informática"
 similar:
-  - ingenieria-en-informatica-ude
-  - analista-en-tecnologia-informatica-ude
   - analista-en-ingenieria-informatica-ude
+  - licenciatura-en-informatica-um
   - analista-en-informatica-ucu
-  - licenciatura-en-informatica-ucu
-  - tecnico-en-informatica-ude
+  - analista-en-tecnologia-informatica-ude
+  - ingenieria-en-informatica-ude
+  - informatica-pedeciba-doctorado-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "licenciatura"
@@ -25,6 +25,7 @@ tags:
   - informatica
   - software
   - programacion
+  - sistemas de informacion
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

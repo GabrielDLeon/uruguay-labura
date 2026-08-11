@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Ciencias de los Alimentos y Salud Humana"
 similar:
-  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
-  - administracion-de-servicios-de-salud-especializacion-udelar
-  - investigacion-de-la-salud-con-enfasis-en-perinatologia-especializacion-udelar
-  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
-  - salud-ocupacional-especializacion-udelar
-  - salud-publica-especializacion-udelar
+  - ciencias-nutricionales-maestria-udelar
+  - ingenieria-en-alimentos-ucu
+  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
+  - tecnico-operador-de-alimentos-udelar
+  - licenciatura-en-nutricion-ucu
+  - ingenieria-de-alimentos-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -23,7 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - alimentos
-  - salud publica
+  - ciencia y tecnologia de alimentos
+  - nutricion
+  - salud
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

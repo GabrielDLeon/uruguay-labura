@@ -4,8 +4,8 @@ similar:
   - notariado-um
   - abogacia-ude
   - notariado-ucu
+  - notariado-udelar
   - postgrado-en-actualizacion-notarial-um
-  - licenciatura-en-relaciones-internacionales-ude
   - abogacia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
@@ -24,6 +24,7 @@ tags:
   - derecho
   - escribania
   - notariado
+  - derecho notarial
   - ciencias juridicas
 draft: true
 createdAt: "2026-08-09 15:12:26"

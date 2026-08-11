@@ -1,8 +1,11 @@
 ---
 title: "Productor Musical"
 similar:
+  - licenciatura-en-jazz-y-musica-creativa-utec
+  - tecnologo-en-jazz-y-musica-creativa-utec
   - licenciatura-en-interpretacion-musical-udelar
   - tecnicatura-en-direccion-de-coros-udelar
+  - arte-sonoro-maestria-udelar
   - tecnicatura-en-interpretacion-perfil-canto-guitarra-piano-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
@@ -20,6 +23,8 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Productor Musical de ORT Uruguay. El Productor Musical es el profesional capacitado para la creación y producción de música desde un punto de vista artístico y técnico simultáneamente."
 tags:
   - musica
+  - produccion musical
+  - arte sonoro
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

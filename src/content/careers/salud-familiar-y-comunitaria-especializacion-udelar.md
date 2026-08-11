@@ -2,11 +2,11 @@
 title: "Especialización en Salud Familiar y Comunitaria"
 similar:
   - medicina-familiar-y-comunitaria-especializacion-udelar
-  - salud-mental-y-psiquiatria-especializacion-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
-  - salud-mental-maestria-udelar
-  - tecnicatura-en-salud-ocupacional-udelar
-  - gestion-de-servicios-de-salud-especializacion-udelar
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - promcoion-y-educacion-para-la-salud-especializacion-udelar
+  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
+  - higienista-en-odontologia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,11 @@ description: "Formar Enfermeros Especialistas en Salud Familiar y Comunitaria qu
 startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
-  - medicina
   - salud publica
+  - enfermeria
+  - medicina familiar
+  - atencion primaria
+  - atencion comunitaria
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

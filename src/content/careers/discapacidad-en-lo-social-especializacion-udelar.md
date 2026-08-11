@@ -2,11 +2,11 @@
 title: "Especialización en Discapacidad en Lo Social"
 similar:
   - licenciatura-en-trabajo-social-udelar
-  - psicologia-social-maestria-udelar
-  - investigacion-social-aplicada-especializacion-udelar
   - licenciatura-en-trabajo-social-ucu
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
   - fundamentos-de-trabajo-social-especializacion-udelar
+  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - trabajo-social-maestria-udelar
+  - intervencion-familiar-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - ciencias sociales
+  - discapacidad
+  - inclusion social
+  - intervencion social
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

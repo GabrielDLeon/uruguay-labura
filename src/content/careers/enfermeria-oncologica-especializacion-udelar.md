@@ -5,7 +5,7 @@ similar:
   - enfermeria-en-nefrologia-especializacion-udelar
   - enfermeria-en-urgencia-y-emergencia-especializacion-udelar
   - enfermeria-en-neonatologia-especializacion-udelar
-  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
+  - ciudados-intensivos-especializacion-udelar
   - licenciatura-en-enfermeria-profesionalizacion-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -23,7 +23,8 @@ startDate: ""
 applicationDeadline: "Secretaría de Centro de Posgrado Avenidad Ricaldoni S/N"
 tags:
   - enfermeria
-  - medicina
+  - oncologia
+  - cuidados
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

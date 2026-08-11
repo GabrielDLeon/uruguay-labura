@@ -2,11 +2,11 @@
 title: "Tecnicatura en Diseño de Indumentaria"
 similar:
   - licenciatura-en-diseno-de-indumentaria-ude
+  - licenciatura-en-diseno-de-modas-ort
+  - disenador-de-moda-ude
   - tecnico-en-diseno-de-interiores-ude
   - tecnico-en-diseno-grafico-ude
-  - disenador-de-moda-ude
-  - licenciatura-en-diseno-grafico-ude
-  - licenciatura-en-diseno-industrial-ude
+  - diseno-de-interfaces-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -21,7 +21,8 @@ website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/tecnicatura-en-di
 location: "Montevideo, Colonia, Punta del Este, Ciudad de la Costa"
 description: "Tecnicatura en Diseño de Indumentaria de la UDE. Formación creativa de 2 años con rápida inserción laboral y posibilidad de continuar la Licenciatura mediante convalidación de asignaturas."
 tags:
-  - diseño
+  - diseno
+  - diseno de moda
   - indumentaria
   - moda
 draft: true

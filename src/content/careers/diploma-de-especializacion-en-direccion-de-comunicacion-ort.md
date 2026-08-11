@@ -1,12 +1,12 @@
 ---
 title: "Diploma de Especialización en Dirección de Comunicación"
 similar:
+  - maestria-en-direccion-de-comunicacion-um
   - master-en-direccion-de-comunicacion-y-marketing-ort
   - maestria-en-comunicacion-organizacional-ucu
-  - master-en-gestion-y-comunicacion-de-la-moda-ort
-  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - doctorado-en-comunicacion-ucu
-  - licenciatura-en-comunicacion-ucu
+  - licenciatura-en-comunicacion-global-ort
+  - mba-senior-um
+  - mba-um
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Esta formación aúna la función gerencial de la comunicación con la administración y el liderazgo dentro y fuera de la organización."
 tags:
   - comunicacion
+  - direccion de comunicacion
+  - comunicacion estrategica
+  - liderazgo
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

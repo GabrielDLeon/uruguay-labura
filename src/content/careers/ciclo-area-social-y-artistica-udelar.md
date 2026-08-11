@@ -1,9 +1,9 @@
 ---
 title: "CIO Área Social y Artística"
 similar:
+  - licenciatura-en-humanidades-um
   - licenciatura-en-trabajo-social-ucu
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
   - discapacidad-en-lo-social-especializacion-udelar
   - fundamentos-de-trabajo-social-especializacion-udelar
   - investigacion-social-aplicada-especializacion-udelar
@@ -25,6 +25,8 @@ applicationDeadline: ""
 credits: 80
 tags:
   - ciencias sociales
+  - arte
+  - humanidades
 listable: false
 searchable: true
 draft: true

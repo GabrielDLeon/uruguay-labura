@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Diseño de Comunicación Visual"
 similar:
-  - licenciatura-en-diseno-grafico-ort
   - diseno-grafico-ort
-  - licenciatura-en-comunicacion-ort
-  - master-en-direccion-de-comunicacion-y-marketing-ort
-  - diseno-de-interfaces-ort
-  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - licenciatura-en-diseno-grafico-ort
+  - tecnico-en-diseno-grafico-ude
+  - licenciatura-en-diseno-grafico-ude
+  - licenciatura-en-artes-diseno-grafico-udelar
+  - disenador-grafico-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -24,8 +24,11 @@ startDate: ""
 applicationDeadline: ""
 credits: 363
 tags:
-  - comunicacion
+  - diseno grafico
   - diseno
+  - comunicacion visual
+  - diseno editorial
+  - publicidad
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

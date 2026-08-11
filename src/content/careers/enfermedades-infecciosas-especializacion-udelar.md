@@ -1,6 +1,9 @@
 ---
 title: "Especialización en Enfermedades Infecciosas"
-similar: []
+similar:
+  - infectologia-pediatrica-especializacion-udelar
+  - microbiologia-especializacion-udelar
+  - parasitologia-y-micologia-medica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -16,7 +19,9 @@ description: "Especialización en Enfermedades Infecciosas, dictada por la Facul
 startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
-  - salud
+  - medicina
+  - infectologia
+  - microbiologia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

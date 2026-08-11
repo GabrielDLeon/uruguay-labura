@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Diseño en Juguetes y Productos para la Infancia"
 similar:
-  - licenciatura-en-diseno-de-interiores-ort
   - licenciatura-en-diseno-industrial-ort
+  - licenciatura-en-diseno-industrial-udelar
+  - licenciatura-en-diseno-industrial-ude
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
-  - licenciatura-en-diseno-integrado-udelar
-  - tecnico-en-diseno-de-sonido-ort
-  - diseno-de-estructuras-en-la-arquitectura-especializacion-udelar
+  - licenciatura-en-diseno-de-interiores-ort
+  - proyecto-de-mobiliario-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -22,8 +22,10 @@ description: "La Especialización en Diseño de Juguetes y Productos para la Inf
 startDate: ""
 applicationDeadline: ""
 tags:
-  - ciencias sociales
   - diseno
+  - diseno de productos
+  - primera infancia
+  - ninos y adolescentes
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

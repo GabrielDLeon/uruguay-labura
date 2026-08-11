@@ -4,8 +4,9 @@ similar:
   - maestria-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
   - especialista-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
   - maestria-en-terapias-contextuales-y-contemporaneas-opcion-ninos-y-adolescentes-um
-  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
   - maestria-en-psicoterapia-cognitiva-de-adultos-y-familias-modalidad-first-experience-ucu
+  - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
+  - evaluacion-psicologica-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "especializacion"
@@ -20,8 +21,10 @@ website: "https://catalogo.um.edu.uy/"
 location: "Montevideo"
 description: "Especialista en Terapias Contextuales y Contemporáneas – opción adultos de la Universidad de Montevideo. Especialización en terapias basadas en evidencia para la intervención clínica en adultos."
 tags:
-  - terapias contextuales
+  - psicologia
+  - psicoterapia
   - psicologia clinica
+  - terapias contextuales
   - adultos
 draft: true
 createdAt: "2026-08-10 16:53:42"

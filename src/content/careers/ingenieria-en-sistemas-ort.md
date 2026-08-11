@@ -1,12 +1,12 @@
 ---
 title: "Ingeniería en Sistemas"
 similar:
-  - ingenieria-en-electronica-ort
-  - ingenieria-en-sistemas-de-comunicacion-udelar
+  - ingenieria-en-informatica-ucu
+  - tecnologo-en-analisis-y-desarrollo-de-sistemas-utec
+  - ingenieria-en-computacion-udelar
   - ingenieria-en-informatica-ude
-  - ingenieria-electrica-ort
-  - ingenieria-electrica-udelar
-  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - licenciatura-en-sistemas-ort
+  - ingenieria-en-electronica-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "ingenieria"
@@ -24,7 +24,9 @@ description: "Ingeniería en Sistemas de ORT Uruguay. Los graduados en Ingenier�
 tags:
   - informatica
   - ingenieria
-  - programa-roberto-rocca
+  - software
+  - sistemas de informacion
+  - programa roberto rocca
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

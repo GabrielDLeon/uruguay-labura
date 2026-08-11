@@ -2,6 +2,11 @@
 title: "Especialización en Oftalmología"
 similar:
   - licenciatura-en-oftalmologia-udelar
+  - angiologia-y-cirugia-vascular-especializacion-udelar
+  - cirugia-cardiaca-especializacion-udelar
+  - cirugia-general-especializacion-udelar
+  - cirugia-pediatrica-especializacion-udelar
+  - cirugia-plastica-reparadora-y-estetica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -18,6 +23,8 @@ startDate: ""
 applicationDeadline: "Escuela de Graduados Facultad de Medicina"
 tags:
   - medicina
+  - oftalmologia
+  - cirugia
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

@@ -1,6 +1,12 @@
 ---
 title: "Analista en Marketing Digital"
-similar: []
+similar:
+  - analista-en-marketing-digital-y-comercio-electronico-ort
+  - analista-en-marketing-ude
+  - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
+  - master-en-direccion-de-comunicacion-y-marketing-ort
+  - analista-en-publicidad-y-comunicacion-digital-ort
+  - diploma-de-especializacion-en-marketing-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
@@ -15,9 +21,10 @@ website: "https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-marketin
 location: "Montevideo"
 description: "La carrera de Analista en Marketing Digital ofrece una visión práctica de las herramientas digitales para planificar acciones de marketing online enmarcadas en la estrategia global de la empresa."
 tags:
-  - marketing-digital
-  - redes-sociales
-  - ecommerce
+  - marketing
+  - marketing digital
+  - redes sociales
+  - comercio electronico
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

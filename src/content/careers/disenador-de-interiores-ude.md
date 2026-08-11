@@ -1,12 +1,12 @@
 ---
 title: "Diseñador de Interiores"
 similar:
+  - tecnico-en-diseno-de-interiores-ude
   - disenador-de-moda-ude
   - disenador-grafico-ude
-  - tecnico-en-diseno-de-interiores-ude
-  - licenciatura-en-diseno-de-indumentaria-ude
-  - licenciatura-en-diseno-grafico-ude
-  - licenciatura-en-diseno-industrial-ude
+  - licenciatura-en-diseno-de-interiores-ort
+  - tecnico-en-diseno-de-interiores-ort
+  - diseno-de-interfaces-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"
@@ -21,9 +21,9 @@ website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/disenador-de-inte
 location: "Campus Virtual"
 description: "Diplomado en Diseñador de Interiores de la UDE (1 año, Campus Virtual). Formación práctica en el diseño del espacio habitable, con titulación reconocida por ADDIP."
 tags:
-  - diseño
-  - interiores
+  - diseno
   - interiorismo
+  - diseno de interiores
 draft: true
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-08-09 15:12:26"

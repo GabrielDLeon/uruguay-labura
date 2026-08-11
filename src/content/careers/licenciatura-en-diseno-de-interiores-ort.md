@@ -2,11 +2,11 @@
 title: "Licenciatura en Diseño de Interiores"
 similar:
   - tecnico-en-diseno-de-interiores-ort
-  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
-  - tecnico-en-diseno-de-sonido-ort
-  - licenciatura-en-diseno-industrial-ort
-  - licenciatura-en-artes-diseno-grafico-udelar
-  - licenciatura-en-diseno-de-comunicacion-visual-udelar
+  - tecnico-en-diseno-de-interiores-ude
+  - disenador-de-interiores-ude
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - licenciatura-en-diseno-de-paisaje-udelar
+  - tecnico-en-paisajismo-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -23,6 +23,9 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "El Licenciado en Diseño de Interiores diseña y construye espacios y equipamientos, y adapta los existentes a nuevas necesidades funcionales y estéticas."
 tags:
   - diseno
+  - diseno de interiores
+  - interiorismo
+  - diseno de espacios
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

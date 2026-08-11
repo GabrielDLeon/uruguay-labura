@@ -1,12 +1,12 @@
 ---
 title: "Maestría en Relaciones Internacionales Orientación Economía, Política y Derecho de la Integración"
 similar:
-  - derecho-procesal-especializacion-udelar
+  - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
+  - licenciatura-en-relaciones-internacionales-udelar
+  - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
+  - licenciatura-en-relaciones-internacionales-ude
+  - licenciatura-en-estudios-internacionales-ort
   - licenciatura-en-politica-filosofia-y-economia-um
-  - master-en-integracion-y-comercio-internacional-um
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
-  - licenciatura-en-economia-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
@@ -22,8 +22,11 @@ description: "Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetEx
 startDate: ""
 applicationDeadline: ""
 tags:
-  - derecho
-  - economia
+  - relaciones internacionales
+  - integracion regional
+  - economia internacional
+  - derecho internacional
+  - ciencia politica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

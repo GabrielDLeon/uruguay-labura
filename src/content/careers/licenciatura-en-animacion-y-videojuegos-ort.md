@@ -1,11 +1,12 @@
 ---
 title: "Licenciatura en Animación y Videojuegos"
 similar:
-  - diseno-y-produccion-de-videojuegos-ort
   - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
-  - licenciatura-en-cine-ucu
-  - licenciatura-en-artes-fotografia-udelar
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
+  - diseno-y-produccion-de-videojuegos-ort
+  - licenciatura-en-artes-visuales-ucu
+  - tecnico-en-diseno-de-sonido-ort
+  - licenciatura-en-diseno-multimedia-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
@@ -22,6 +23,10 @@ accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Animación y Videojuegos de ORT Uruguay. La pasión por crear historias innovadoras en ámbitos como la animación o el gaming nos impulsa a expresarnos en forma visualmente atractiva."
 tags:
   - audiovisual
+  - animacion
+  - videojuegos
+  - diseno
+  - arte digital
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

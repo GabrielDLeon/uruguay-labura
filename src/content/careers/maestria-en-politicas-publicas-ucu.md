@@ -1,9 +1,12 @@
 ---
 title: "Maestría en Políticas Públicas"
 similar:
+  - politicas-y-gestion-publica-maestria-udelar
   - maestria-en-administracion-publica-ucu
-  - licenciatura-en-ciencia-politica-ucu
-  - licenciatura-en-politica-filosofia-y-economia-um
+  - afrodescendencia-y-politicas-publicas-especializacion-udelar
+  - jovenes-juventud-y-politicas-publicas-especializacion-udelar
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - maestria-y-en-politicas-publicas-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
@@ -22,6 +25,8 @@ tags:
   - politicas publicas
   - gobierno
   - gestion publica
+  - administracion publica
+  - innovacion
 draft: true
 createdAt: "2026-08-07 19:13:13"
 updatedAt: "2026-08-07 19:13:13"

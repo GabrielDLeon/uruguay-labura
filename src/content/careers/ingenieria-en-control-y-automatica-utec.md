@@ -3,11 +3,11 @@ title: "Ingeniería en Control y Automática"
 short: "Ing. en Control y Automática"
 similar:
   - ingenieria-en-mecatronica-utec
-  - ingenieria-en-logistica-utec
+  - tecnologo-en-mecatronica-industrial-utec
+  - tecnologo-en-mecatronica-utec
   - ingenieria-mecanica-doctorado-udelar
   - ingenieria-mecanica-maestria-udelar
   - ingenieria-en-electronica-ort
-  - ingenieria-en-electronica-ucu
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
 degreeType: "ingenieria"
@@ -24,6 +24,11 @@ location: "Rivera (ITR Norte)"
 accreditation: "UTEC"
 description: "Ingeniería gratuita en Control y Automática de UTEC, presencial en turno nocturno en Rivera. Integra mecánica, electrónica, control e informática para la automatización industrial. Título intermedio de Tecnólogo en Mecatrónica Industrial."
 tags:
+  - mecatronica
+  - automatizacion
+  - automatizacion industrial
+  - control de procesos
+  - electronica
   - ingenieria
 draft: true
 createdAt: "2026-07-31 16:58:06"

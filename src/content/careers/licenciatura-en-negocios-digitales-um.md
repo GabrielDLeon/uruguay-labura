@@ -1,9 +1,12 @@
 ---
 title: "Licenciatura en Negocios Digitales"
 similar:
+  - licenciatura-en-negocios-digitales-ort
+  - analista-en-marketing-digital-y-comercio-electronico-ort
   - postgrado-en-analitica-de-negocios-um
   - maestria-en-cambio-organizacional-en-entornos-digitales-ucu
-  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - licenciatura-en-ciencia-de-datos-para-negocios-um
+  - diploma-de-especializacion-en-gestion-y-negocios-de-la-moda-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "licenciatura"
@@ -18,10 +21,12 @@ website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/of
 location: "Montevideo"
 description: "Licenciatura en Negocios Digitales de la Universidad de Montevideo. Forma para emprender modelos de negocio en el terreno digital o liderar la transformación tecnológica de organizaciones existentes."
 tags:
+  - negocios
   - negocios digitales
   - transformacion digital
   - emprendimiento
   - comercio electronico
+  - modelo de negocios
 draft: true
 createdAt: "2026-08-10 16:53:42"
 updatedAt: "2026-08-10 16:53:42"

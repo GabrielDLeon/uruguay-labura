@@ -1,9 +1,12 @@
 ---
 title: "Licenciatura en Instrumentación Quirúrgica"
 similar:
-  - enfermeria-medico-quirurgica-especializacion-udelar
   - dermatologia-medico-quirurgica-especializacion-udelar
+  - enfermeria-medico-quirurgica-especializacion-udelar
   - postgrado-especialidad-en-dermatologia-medico-quirurgica-ort
+  - licenciatura-en-imagenologia-udelar
+  - licenciatura-en-fisica-medica-udelar
+  - tecnicatura-en-radioterapia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -21,6 +24,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - medicina
+  - cirugia
+  - instrumentacion quirurgica
+  - tecnologia medica
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

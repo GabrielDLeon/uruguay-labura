@@ -1,12 +1,12 @@
 ---
 title: "Especialización en Derecho Financiero con Enfásis en Derecho Tributario"
 similar:
+  - master-en-tributacion-um
+  - tributaria-maestria-udelar
   - derecho-comercial-especializacion-udelar
+  - postgrado-en-tributacion-nacional-um
   - derecho-orientancion-derecho-comercial-maestria-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
-  - derecho-procesal-especializacion-udelar
-  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - master-en-impuestos-y-fiscalidad-internacional-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
@@ -23,6 +23,9 @@ startDate: ""
 applicationDeadline: ""
 tags:
   - derecho
+  - derecho financiero
+  - derecho tributario
+  - tributacion
   - finanzas
 draft: true
 createdAt: "2026-07-31 16:58:06"

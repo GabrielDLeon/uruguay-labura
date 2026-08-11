@@ -2,11 +2,11 @@
 title: "Letras"
 similar:
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - correccion-de-estilo-udelar
+  - licenciatura-en-humanidades-um
   - linguistica-udelar
-  - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar
-  - bibliotecologia-udelar
-  - traductorado-publico-aleman-udelar
+  - filosofia-udelar
+  - dramaturgia-udelar
+  - licenciatura-en-filosofia-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -25,6 +25,8 @@ applicationDeadline: ""
 credits: 360
 tags:
   - letras
+  - literatura
+  - humanidades
 draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"

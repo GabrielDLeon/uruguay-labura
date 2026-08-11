@@ -1,10 +1,12 @@
 ---
 title: "Técnico en Paisajismo"
 similar:
-  - carrera-de-arquitectura-ort
-  - diploma-de-especializacion-en-arquitectura-sostenible-ort
-  - arquitectura-ucu
-  - master-en-edificaciones-en-madera-ort
+  - licenciatura-en-diseno-de-paisaje-udelar
+  - proyecto-de-paisaje-especializacion-udelar
+  - licenciatura-en-diseno-de-interiores-ort
+  - tecnico-en-diseno-de-interiores-ort
+  - tecnico-en-diseno-de-interiores-ude
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "tecnicatura"
@@ -20,6 +22,10 @@ location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Técnico en Paisajismo de ORT Uruguay. En esta carrera obtendrás todas las herramientas necesarias para diseñar espacios exteriores y construirlos de manera responsable y exitosa."
 tags:
+  - paisajismo
+  - arquitectura del paisaje
+  - diseno de espacios
+  - diseno
   - arquitectura
 draft: true
 createdAt: "2026-07-31 16:58:06"

@@ -5,6 +5,8 @@ similar:
   - especialista-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
   - maestria-en-terapias-contextuales-y-contemporaneas-opcion-adultos-um
   - maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes-ucu
+  - evaluacion-psicologica-especializacion-udelar
+  - psicoterapia-psicodinamica-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "especializacion"
@@ -19,8 +21,10 @@ website: "https://catalogo.um.edu.uy/"
 location: "Montevideo"
 description: "Especialista en Terapias Contextuales y Contemporáneas – opción niños y adolescentes de la Universidad de Montevideo. Especialización en terapias basadas en evidencia para la intervención clínica en niños y adolescentes."
 tags:
-  - terapias contextuales
+  - psicologia
+  - psicoterapia
   - psicologia clinica
+  - terapias contextuales
   - ninos y adolescentes
 draft: true
 createdAt: "2026-08-10 16:53:42"
