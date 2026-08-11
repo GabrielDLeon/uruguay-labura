@@ -20,8 +20,8 @@ tags:
   - inversiones
   - fintech
 draft: true
-createdAt: "2026-08-21 15:00:00"
-updatedAt: "2026-08-21 15:00:00"
+createdAt: "2026-08-10 16:53:42"
+updatedAt: "2026-08-10 16:53:42"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/finanzas"

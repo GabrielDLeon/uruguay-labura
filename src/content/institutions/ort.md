@@ -29,7 +29,7 @@ campuses:
 description: "Con más de 13.000 estudiantes, ORT es la universidad privada más importante de Uruguay, elegida por quienes desean la mejor opción para estudiar en Uruguay."
 isActive: true
 createdAt: "2026-05-14 20:08:25"
-updatedAt: "2026-08-04 15:30:00"
+updatedAt: "2026-08-07 12:21:06"
 ---
 
 La Universidad ORT Uruguay es una universidad privada fundada en 1943 como instituto técnico y reconocida como universidad en 1996. Forma parte de la red mundial World ORT, una organización educativa global.

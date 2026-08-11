@@ -24,7 +24,7 @@ accreditation: "UTEC"
 description: "Tecnólogo en Mecatrónica Industrial, carrera conjunta de UTEC, DGETP-UTU e IFSUL. Título intermedio de la Ingeniería en Control y Automática. Operación y mantenimiento de sistemas mecatrónicos."
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 tags:
   - ingenieria
 ---

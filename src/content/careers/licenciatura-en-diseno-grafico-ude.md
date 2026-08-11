@@ -22,8 +22,8 @@ tags:
   - diseño grafico
   - comunicacion visual
 draft: true
-createdAt: "2026-08-09 00:00:00"
-updatedAt: "2026-08-09 00:00:00"
+createdAt: "2026-08-09 15:12:26"
+updatedAt: "2026-08-09 15:12:26"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/licenciatura-en-diseno-grafico/"

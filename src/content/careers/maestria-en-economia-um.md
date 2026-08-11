@@ -20,8 +20,8 @@ tags:
   - posgrado
   - analisis de datos
 draft: true
-createdAt: "2026-08-21 15:00:00"
-updatedAt: "2026-08-21 15:00:00"
+createdAt: "2026-08-10 16:53:42"
+updatedAt: "2026-08-10 16:53:42"
 sources:
   - label: "Página oficial de la Maestría en Economía"
     url: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-economia/"

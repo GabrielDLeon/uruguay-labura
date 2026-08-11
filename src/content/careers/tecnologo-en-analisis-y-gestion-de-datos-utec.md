@@ -24,7 +24,7 @@ accreditation: "UTEC"
 description: "Tecnólogo en Análisis y Gestión de Datos, título intermedio de la Licenciatura en Ingeniería de Datos e IA de UTEC. Técnicas de análisis de datos y gestión de bases de datos."
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 tags:
   - administracion
   - ciencia de datos

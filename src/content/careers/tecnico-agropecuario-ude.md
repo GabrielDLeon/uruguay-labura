@@ -19,8 +19,8 @@ tags:
   - produccion
   - tecnicatura
 draft: true
-createdAt: "2026-08-09 00:00:00"
-updatedAt: "2026-08-09 00:00:00"
+createdAt: "2026-08-09 15:12:26"
+updatedAt: "2026-08-09 15:12:26"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/tecnico-agropecuario/"

@@ -19,8 +19,8 @@ tags:
   - psicologia clinica
   - ninos y adolescentes
 draft: true
-createdAt: "2026-08-21 15:00:00"
-updatedAt: "2026-08-21 15:00:00"
+createdAt: "2026-08-10 16:53:42"
+updatedAt: "2026-08-10 16:53:42"
 sources:
   - label: "Catálogo de postgrados UM"
     url: "https://catalogo.um.edu.uy/"

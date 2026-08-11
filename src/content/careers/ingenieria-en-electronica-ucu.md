@@ -19,8 +19,8 @@ tags:
   - ingenieria
   - automatizacion
 draft: true
-createdAt: "2026-08-07 15:00:00"
-updatedAt: "2026-08-07 15:00:00"
+createdAt: "2026-08-07 19:13:13"
+updatedAt: "2026-08-07 19:13:13"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-electronica--mvd--presencial"

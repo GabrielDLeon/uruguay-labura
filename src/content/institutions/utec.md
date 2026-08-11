@@ -63,7 +63,7 @@ campuses:
 description: "Somos una universidad uruguaya, pública, gratuita, de perfil tecnológico, ubicada en el interior del país, orientada a la investigación e innovación."
 isActive: true
 createdAt: "2026-05-15 00:00:44"
-updatedAt: "2026-08-04 15:30:00"
+updatedAt: "2026-08-07 12:21:06"
 ---
 
 UTEC es la Universidad Tecnológica del Uruguay, una propuesta de educación terciaria universitaria pública de perfil tecnológico, orientada a la investigación y la innovación. Fundada en 2012, tiene entre sus objetivos centrales hacer más equitativo el acceso a la oferta educativa en el interior del país.

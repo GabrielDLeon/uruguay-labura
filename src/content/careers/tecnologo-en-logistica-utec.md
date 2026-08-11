@@ -21,7 +21,7 @@ accreditation: "UTEC"
 description: "Tecnólogo en Logística, título intermedio de la Ingeniería en Logística de UTEC. Análisis y gestión de procesos logísticos y cadenas de suministro."
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 tags:
   - logistica
 ---

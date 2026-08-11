@@ -29,7 +29,7 @@ accreditation: "UTEC"
 description: "Título intermedio de Técnico Superior en TI de UTEC, obtenible en dos años. Cubre programación, testing e infraestructura tecnológica con modalidad híbrida."
 draft: false
 createdAt: "2026-05-15 00:00:44"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 tags:
   - informatica
 ---

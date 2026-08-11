@@ -24,7 +24,7 @@ accreditation: "UTEC"
 description: "Tecnólogo en Ingeniería Biomédica, título intermedio de la Ingeniería Biomédica de UTEC. Instalaciones, dispositivos médicos y mantenimiento de equipos biomédicos."
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 tags:
   - ingenieria
 ---

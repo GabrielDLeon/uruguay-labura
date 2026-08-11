@@ -119,7 +119,7 @@ campuses:
 description: "Principal institución pública y gratuita de educación superior e investigación de Uruguay."
 isActive: true
 createdAt: "2026-05-14 20:08:25"
-updatedAt: "2026-08-04 15:30:00"
+updatedAt: "2026-08-07 12:21:06"
 ---
 
 La Universidad de la República (UDELAR) es la universidad más antigua y grande de Uruguay, fundada en 1849. Es una institución pública y gratuita que atiende a la mayoría de los estudiantes de educación superior del país.

@@ -32,7 +32,7 @@ campuses:
 description: "La UDE tiene como misión la formación de profesionales al más alto nivel, con una marcada actitud proactiva e inclinación por la investigación."
 isActive: true
 createdAt: "2026-07-29 23:58:35"
-updatedAt: "2026-07-31 20:44:11"
+updatedAt: "2026-08-07 12:21:06"
 ---
 
 La Universidad de la Empresa (UDE) es una institución privada fundada en 1992 como Escuela de Negocios, con el respaldo de la Asociación de Dirigentes de Marketing (ADM) y las principales cámaras empresariales del país. Fue reconocida oficialmente como universidad en 1998 mediante el Decreto N° 308/995.

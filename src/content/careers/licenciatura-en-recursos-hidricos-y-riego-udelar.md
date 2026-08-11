@@ -27,7 +27,7 @@ tags:
   - medio ambiente
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Página oficial FING'
     url: 'https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto'

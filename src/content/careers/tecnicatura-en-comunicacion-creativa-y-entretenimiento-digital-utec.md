@@ -26,7 +26,7 @@ accreditation: "UTEC"
 description: "Tecnicatura gratuita en Comunicación Creativa y Entretenimiento Digital de UTEC. Contenidos digitales para industrias culturales y creativas. Menciones en videojuegos, audiovisual, animación y comunicación."
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 tags:
   - audiovisual
   - comunicacion

@@ -29,7 +29,7 @@ listable: false
 searchable: true
 draft: true
 createdAt: "2026-08-03 23:01:42"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Página oficial'
     url: 'https://udelar.edu.uy/suroeste'

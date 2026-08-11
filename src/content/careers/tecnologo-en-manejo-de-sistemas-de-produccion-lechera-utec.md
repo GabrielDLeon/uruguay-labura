@@ -25,7 +25,7 @@ accreditation: "UTEC"
 description: "Tecnólogo en Manejo de Sistemas de Producción Lechera de UTEC, carrera conjunta con DGETP-UTU. Formación dual con prácticas remuneradas en empresas. Gestión operativa de sistemas lecheros."
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-04 19:47:33"
+updatedAt: "2026-08-07 12:21:06"
 tags:
   - agronomia
 ---
