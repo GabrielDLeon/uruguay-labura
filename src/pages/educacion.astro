@@ -1,8 +1,8 @@
 ---
 import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
+import { Icon } from "astro-icon/components";
 import PageHeader from "@/components/PageHeader.astro";
-import EducationTable from "@/components/careers/EducationTable";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 ---
 
@@ -22,6 +22,65 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
       description="Recopilación de Postgrados, Maestrías, Especializaciones y otras opciones de formación superior disponibles en el país. Un único lugar para quienes buscan seguir creciendo profesionalmente."
     />
 
-    <EducationTable client:visible />
+    <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <a
+        href="/educacion/carreras"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+      >
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon name="mdi:school-outline" class="size-5" aria-hidden="true" />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Carreras</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Programas de grado, posgrado y formación técnica ofrecidos por
+            universidades e instituciones de educación superior en Uruguay.
+          </p>
+        </div>
+      </a>
+
+      <a
+        href="/educacion/instituciones"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+      >
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon name="mdi:domain" class="size-5" aria-hidden="true" />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Instituciones</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Universidades e instituciones de educación superior en Uruguay.
+            Explorá las instituciones para conocer sus programas, ubicaciones e
+            información de contacto.
+          </p>
+        </div>
+      </a>
+
+      <a
+        href="/educacion/becas"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+      >
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon
+            name="mdi:hand-coin-outline"
+            class="size-5"
+            aria-hidden="true"
+          />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Becas</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Recopilación de las principales becas disponibles en Uruguay para
+            estudiantes de grado, posgrado y educación media.
+          </p>
+        </div>
+      </a>
+    </div>
   </Block>
 </Layout>
