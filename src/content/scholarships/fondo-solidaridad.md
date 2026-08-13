@@ -29,7 +29,7 @@ updatedAt: "2026-08-13 01:24:06"
 
 ## Cobertura
 
-Apoyo económico mensual de **2 BPC** ($13.728 en 2026) para estudiantes de carreras terciarias públicas. **No hay cupos**: todos los que cumplen los criterios reciben la beca.
+Apoyo económico mensual de **2 BPC** para estudiantes de carreras terciarias públicas. **No hay cupos**: todos los que cumplen los criterios reciben la beca.
 
 - Dirigida a hogares de bajos ingresos (1.er y 2.º quintil).
 - El monto se indexa a la Base de Prestaciones y Contribuciones (BPC) y se actualiza anualmente por decreto.
