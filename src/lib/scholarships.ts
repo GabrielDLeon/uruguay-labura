@@ -83,10 +83,11 @@ const becaRules: Record<string, BecaRule> = {
   "becas-butia": {
     degreeLevels: ["educacion-media"],
   },
-  "ort-excelencia-academica": {
+  "universidad-ort-uruguay": {
     institutions: ["ort"],
+    degreeLevels: ["grado"],
   },
-  "ucu-damaso-antonio-larranaga": {
+  "universidad-catolica-del-uruguay": {
     institutions: ["ucu"],
     degreeLevels: ["grado"],
   },
@@ -97,21 +98,12 @@ const becaRules: Record<string, BecaRule> = {
   "programa-roberto-rocca": {
     tags: ["programa-roberto-rocca"],
   },
-  funiber: {
-    degreeLevels: ["posgrado"],
-  },
   anii: {
     degreeLevels: ["posgrado"],
     degreeTypes: ["maestria", "doctorado", "posdoctorado"],
   },
   "erasmus-plus": {
     institutions: ["udelar", "ort", "utec", "ucu", "um"],
-  },
-  "inefop-bachilleres": {
-    degreeLevels: ["educacion-media"],
-  },
-  "smu-congresos-medicos": {
-    titleIncludes: ["medicina"],
   },
 };
 

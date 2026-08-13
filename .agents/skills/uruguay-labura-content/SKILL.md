@@ -51,7 +51,7 @@ Follow this in order. Each step ends on a checkable bound.
 
     _Done when:_ every `##` in the body is a member of that collection's canonical set, and the intro text (if any) precedes the first `##`.
 
-4. **Trace every claim to a source.** Each fact in the body must be backed by a `sources` entry (careers) or a `## Fuentes` tab (scholarships) pointing at the official institution or program page — not scraped aggregators. Facts with no source do not ship.
+4. **Trace every claim to a source.** Each fact in the body must be backed by a `sources` frontmatter entry (careers and scholarships) pointing at the official institution or program page — not scraped aggregators. Facts with no source do not ship.
 
     _Done when:_ every claim and every `description` maps to a source that is present and linkable.
 
@@ -67,7 +67,7 @@ Follow this in order. Each step ends on a checkable bound.
 
 - **Carreras** — `## Resumen` (always present), `## Ingreso`, `## Plan de Estudio`.
 - **Instituciones** — the body is plain introductory prose; **no tabs** (no `##` headings). All structured data lives in the frontmatter.
-- **Becas** — `## Cobertura`, `## Requisitos`, `## Cómo Postular`, `## Fuentes`.
+- **Becas** — `## Cobertura`, `## Requisitos`, `## Cómo Postular`, y opcional `## Fechas y Plazas` (las fuentes viven en el frontmatter, no en el body).
 
 The exact frontmatter schema, the Spanish tab templates, and the H3 subsection conventions for each collection live further in the reference, and are not repeated here.
 
@@ -75,6 +75,6 @@ The exact frontmatter schema, the Spanish tab templates, and the H3 subsection c
 
 - **Carreras** — frontmatter fields, the `Resumen` / `Ingreso` / `Plan de Estudio` structure, H3 conventions, and the `area`, `degreeType`, `selected` values. See [`careers.md`](careers.md).
 - **Instituciones** — frontmatter fields, campus/department structure, and the body-as-prose rule. See [`institutions.md`](institutions.md).
-- **Becas** — frontmatter fields and the `Cobertura` / `Requisitos` / `Cómo Postular` / `Fuentes` tab shape. See [`scholarships.md`](scholarships.md).
+- **Becas** — frontmatter fields (incluye `sources`), la regla BPC (montos en unidades estables, sin pesos) y la forma de los tabs `Cobertura` / `Requisitos` / `Cómo Postular` / `Fechas y Plazas`. See [`scholarships.md`](scholarships.md).
 
 Open the matching reference and produce from it. Do not invent fields, tabs, or controlled values beyond what the schemas and examples hold.

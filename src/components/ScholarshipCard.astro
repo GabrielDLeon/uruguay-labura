@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets'
 import { Icon } from 'astro-icon/components'
 
 interface Props {
@@ -9,9 +10,10 @@ interface Props {
   /** Free-text type (e.g. "Beca privada por mérito académico"), fallback for the description */
   type: string
   tags: string[]
+  image?: any
 }
 
-const { title, short, url, description, type, tags } = Astro.props
+const { title, short, url, description, type, tags, image } = Astro.props
 
 const typeIcons: Record<string, string> = {
   estatal: 'mdi:bank',
@@ -36,9 +38,17 @@ const category = primaryTag ? typeLabels[primaryTag] : undefined
   href={url}
   class="not-prose group flex items-start gap-4 rounded-lg border border-border bg-muted/30 p-4 transition-colors hover:bg-accent/50"
 >
-  <div class="flex size-12 shrink-0 items-center justify-center rounded-md bg-primary/10">
-    <Icon name={icon} class="size-6 text-primary" />
-  </div>
+  {
+    image ? (
+      <div class="flex size-12 shrink-0 items-center justify-center rounded-md overflow-hidden">
+        <Image src={image} alt={short ?? title} class="h-full w-full object-cover" />
+      </div>
+    ) : (
+      <div class="flex size-12 shrink-0 items-center justify-center rounded-md bg-primary/10">
+        <Icon name={icon} class="size-6 text-primary" />
+      </div>
+    )
+  }
   <div class="min-w-0 flex-1">
     <div class="flex items-start justify-between gap-2">
       <h4 class="text-sm font-semibold text-foreground">
