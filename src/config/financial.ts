@@ -1,4 +1,14 @@
-export const BPC = 6864;
+/**
+ * BPC (Base de Prestaciones y Contribuciones), valor vigente por decreto anual.
+ * Es la unidad estable para montos de becas: el contenido escribe "N BPC" y
+ * nunca hardcodea pesos. Al cambiar el decreto, actualizar `value` y `year`
+ * aquí (y revisar src/content/ con el script de verificación anual).
+ */
+export const BPC = {
+  value: 6864,
+  year: 2026,
+  source: "https://www.impo.com.uy/bases/decretos/11-2026",
+} as const;
 
 export const solidarityFundRates = {
   short: {

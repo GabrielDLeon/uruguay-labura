@@ -113,6 +113,27 @@ const scholarshipSchema = z.object({
   institution: z.string().min(1),
   description: z.string().min(1).optional(),
   website: z.url(),
+  sources: z
+    .array(
+      z.object({
+        label: z.string().min(1),
+        url: z.url(),
+      }),
+    )
+    .default([]),
+  /** Vocabulario alineado con `BecaLevel` de src/lib/scholarships.ts. */
+  level: z
+    .array(
+      z.enum(["grado", "posgrado", "tecnico", "diplomado", "educacion-media"]),
+    )
+    .default([]),
+  /** Resumen en una línea; montos anclados a índices se escriben en la unidad estable (ej. "2 BPC mensuales"), sin pesos hardcodeados. */
+  amount: z.string().min(1).optional(),
+  /** Fecha ISO puntual de cierre (YYYY-MM-DD) o "" si solo se conoce la ventana recurrente. */
+  applicationDeadline: z.string().optional(),
+  /** Link directo de postulación, distinto de `website`. */
+  applicationUrl: z.url().optional(),
+  renewable: z.boolean().default(false),
   tags: z.array(z.string()).default([]),
   draft: z.boolean().default(false),
   createdAt: z.string().optional(),

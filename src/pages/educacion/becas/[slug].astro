@@ -6,11 +6,13 @@ import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import KeyValueList from "@/components/KeyValueList.astro";
+import SourcesList from "@/components/SourcesList.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import LastUpdated from "@/components/LastUpdated.astro";
 import TabsContent from "@/components/common/TabsContent.astro";
 import { absUrl, breadcrumbList } from "@/lib/seo";
 import { getBreadcrumbs } from "@/lib/breadcrumbs";
+import { formatDateShort } from "@/lib/dates";
 
 export async function getStaticPaths() {
   const entries = await getCollection(
@@ -35,6 +37,14 @@ const typeLabelMap: Record<string, string> = {
   gremial: "Gremial",
 };
 
+const levelLabelMap: Record<string, string> = {
+  grado: "Grado",
+  posgrado: "Posgrado",
+  tecnico: "Técnico",
+  diplomado: "Diplomado",
+  "educacion-media": "Educación media",
+};
+
 const detailItems = [
   {
     label: "Tipo",
@@ -44,6 +54,30 @@ const detailItems = [
     label: "Institución",
     value: entry.data.institution,
   },
+  ...(entry.data.amount
+    ? [{ label: "Monto", value: entry.data.amount }]
+    : []),
+  ...(entry.data.level.length > 0
+    ? [
+        {
+          label: "Nivel",
+          value: entry.data.level
+            .map((level) => levelLabelMap[level] ?? level)
+            .join(", "),
+        },
+      ]
+    : []),
+  ...(entry.data.applicationDeadline
+    ? [
+        {
+          label: "Cierre de postulación",
+          value: formatDateShort(entry.data.applicationDeadline),
+        },
+      ]
+    : []),
+  ...(entry.data.renewable
+    ? [{ label: "Renovable", value: "Sí" }]
+    : []),
 ];
 
 const pageUrl = absUrl(`/educacion/becas/${entry.id}`);
@@ -132,13 +166,35 @@ const jsonLd = {
             ) : null
           }
 
+          {
+            entry.data.sources.length > 0 ? (
+              <AsideSection title="Fuentes">
+                <SourcesList sources={entry.data.sources} />
+              </AsideSection>
+            ) : null
+          }
+
           <AsideSection title="Enlaces">
             <div class="flex flex-col gap-2">
+              {
+                entry.data.applicationUrl ? (
+                  <a
+                    href={entry.data.applicationUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="btn"
+                    data-size="sm"
+                  >
+                    Postular
+                  </a>
+                ) : null
+              }
               <a
                 href={entry.data.website}
                 target="_blank"
                 rel="noopener noreferrer"
                 class="btn"
+                data-variant="outline"
                 data-size="sm"
               >
                 Sitio web oficial
