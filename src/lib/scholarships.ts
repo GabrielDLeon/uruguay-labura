@@ -97,9 +97,6 @@ const becaRules: Record<string, BecaRule> = {
   "programa-roberto-rocca": {
     tags: ["programa-roberto-rocca"],
   },
-  funiber: {
-    degreeLevels: ["posgrado"],
-  },
   anii: {
     degreeLevels: ["posgrado"],
     degreeTypes: ["maestria", "doctorado", "posdoctorado"],
@@ -109,9 +106,6 @@ const becaRules: Record<string, BecaRule> = {
   },
   "inefop-bachilleres": {
     degreeLevels: ["educacion-media"],
-  },
-  "smu-congresos-medicos": {
-    titleIncludes: ["medicina"],
   },
 };
 
