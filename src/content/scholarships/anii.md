@@ -2,6 +2,7 @@
 title: "Becas ANII"
 type: "Beca estatal para posgrados"
 institution: "Agencia Nacional de Investigación e Innovación (ANII)"
+image: "@/assets/institutions/anii-logo.webp"
 description: "Estipendios mensuales para maestrías, doctorados y posdoctorados en Uruguay y en el exterior. Montos actualizados a valores 2026."
 website: "https://anii.org.uy/"
 applicationUrl: "https://www.anii.org.uy/apoyos/formacion/"

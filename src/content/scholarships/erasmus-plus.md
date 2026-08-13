@@ -2,6 +2,7 @@
 title: "Erasmus+"
 type: "Programa de movilidad internacional"
 institution: "Unión Europea"
+image: "@/assets/institutions/ue-logo.webp"
 description: "Movilidad de estudios en Europa para estudiantes de grado y posgrado de universidades uruguayas con proyectos Erasmus+ KA171 (International Credit Mobility). Incluye estipendio mensual, ayuda de viaje y exoneración de tasas."
 website: "https://erasmus-plus.ec.europa.eu/"
 amount: "800-900 €/mes según país de destino + ayuda de viaje por tramos (1.735 € para Uruguay-España)"

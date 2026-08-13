@@ -13,6 +13,7 @@ description: "Estipendios mensuales para maestrías, doctorados y posdoctorados 
 website: "https://anii.org.uy/"
 applicationUrl: "https://www.anii.org.uy/apoyos/formacion/"
 amount: "Estipendio mensual según modalidad (valores 2026)"
+image: "@/assets/institutions/anii.webp"
 level:
   - "posgrado"
 renewable: false
@@ -29,23 +30,24 @@ updatedAt: "2026-08-12 12:00:00"
 ---
 ```
 
-| Field | Notes / allowed values |
-|---|---|
-| `title` | required; scholarship name. |
-| `short` | optional. |
-| `type` | required; free Spanish label, e.g. `Beca estatal para posgrados`. |
-| `institution` | required; granting body or institution (free display string). |
-| `description` | optional; short Spanish summary. Avoid hardcoding peso amounts (see BPC rule). |
-| `website` | required; official page. |
-| `applicationUrl` | optional; direct application link (often different from `website`). Renders as the "Postular" button. |
-| `amount` | optional; one-line summary in stable units (see BPC rule). |
-| `level` | optional; array of `grado \| posgrado \| tecnico \| diplomado \| educacion-media`. Aligned with `BecaLevel` in `src/lib/scholarships.ts`. |
-| `renewable` | optional; default `false`. `true` = a renewal mechanism exists (conditions go in the body under `### Renovación`). |
-| `applicationDeadline` | optional; ISO `YYYY-MM-DD` for a concrete closing date, or `""` when only the recurring window is known. |
-| `sources` | required for every factual claim; array of `{ label, url }` pointing at official pages. Renders in the aside. |
-| `tags` | optional; Spanish topical tags. |
-| `draft` | default `false`. |
-| `createdAt` / `updatedAt` | optional; `YYYY-MM-DD HH:MM:SS`. |
+| Field                     | Notes / allowed values                                                                                                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `title`                   | required; scholarship name.                                                                                                                                               |
+| `short`                   | optional.                                                                                                                                                                 |
+| `type`                    | required; free Spanish label, e.g. `Beca estatal para posgrados`.                                                                                                         |
+| `institution`             | required; granting body or institution (free display string).                                                                                                             |
+| `description`             | optional; short Spanish summary. Avoid hardcoding peso amounts (see BPC rule).                                                                                            |
+| `website`                 | required; official page.                                                                                                                                                  |
+| `applicationUrl`          | optional; direct application link (often different from `website`). Renders as the "Postular" button.                                                                     |
+| `amount`                  | optional; one-line summary in stable units (see BPC rule).                                                                                                                |
+| `image`                   | optional; path to the scholarship's image (e.g. `@/assets/scholarships/xxx.jpg`), same convention as institution `logo`. Renders in the page header and the listing card. |
+| `level`                   | optional; array of `grado \| posgrado \| tecnico \| diplomado \| educacion-media`. Aligned with `BecaLevel` in `src/lib/scholarships.ts`.                                 |
+| `renewable`               | optional; default `false`. `true` = a renewal mechanism exists (conditions go in the body under `### Renovación`).                                                        |
+| `applicationDeadline`     | optional; ISO `YYYY-MM-DD` for a concrete closing date, or `""` when only the recurring window is known.                                                                  |
+| `sources`                 | required for every factual claim; array of `{ label, url }` pointing at official pages. Renders in the aside.                                                             |
+| `tags`                    | optional; Spanish topical tags.                                                                                                                                           |
+| `draft`                   | default `false`.                                                                                                                                                          |
+| `createdAt` / `updatedAt` | optional; `YYYY-MM-DD HH:MM:SS`.                                                                                                                                          |
 
 ## BPC rule (amounts that track an index)
 

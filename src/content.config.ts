@@ -152,7 +152,10 @@ const scholarshipsCollection = defineCollection({
     base: "./src/content/scholarships",
     pattern: "**/*.md",
   }),
-  schema: scholarshipSchema,
+  schema: ({ image }) =>
+    scholarshipSchema.extend({
+      image: image().optional(),
+    }),
 });
 
 export const collections = {

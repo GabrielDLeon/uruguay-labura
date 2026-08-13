@@ -83,10 +83,11 @@ const becaRules: Record<string, BecaRule> = {
   "becas-butia": {
     degreeLevels: ["educacion-media"],
   },
-  "ort-excelencia-academica": {
+  "universidad-ort-uruguay": {
     institutions: ["ort"],
+    degreeLevels: ["grado"],
   },
-  "ucu-damaso-antonio-larranaga": {
+  "universidad-catolica-del-uruguay": {
     institutions: ["ucu"],
     degreeLevels: ["grado"],
   },
@@ -103,9 +104,6 @@ const becaRules: Record<string, BecaRule> = {
   },
   "erasmus-plus": {
     institutions: ["udelar", "ort", "utec", "ucu", "um"],
-  },
-  "inefop-bachilleres": {
-    degreeLevels: ["educacion-media"],
   },
 };
 

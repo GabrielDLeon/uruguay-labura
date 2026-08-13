@@ -2,6 +2,7 @@
 title: "Becas Universidad de Montevideo (UM)"
 type: "Beca privada por rendimiento académico y necesidad socioeconómica"
 institution: "Universidad de Montevideo (UM)"
+image: "@/assets/institutions/um-logo.webp"
 description: "Tres becas de grado para ingresantes a la UM: Beca UM (70% de la matrícula), Beca a la Excelencia (60%) y Beca Interior (40%)."
 website: "https://www.um.edu.uy/beca-um"
 amount: "40% a 70% de la matrícula según beca"
