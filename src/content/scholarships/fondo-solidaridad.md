@@ -2,7 +2,7 @@
 title: "Fondo de Solidaridad"
 type: "Beca económica estatal nacional"
 institution: "Fondo de Solidaridad"
-image: "@/assets/institutions/fondo-solidaridad-logo.webp"
+image: "../../assets/institutions/fondo-solidaridad-logo.webp"
 description: "Apoyo económico mensual de 2 BPC para estudiantes de UDELAR, UTU y UTEC de hogares de bajos ingresos. Sin cupos."
 website: "https://www.fondodesolidaridad.edu.uy/"
 applicationUrl: "https://becas.fondodesolidaridad.edu.uy/"

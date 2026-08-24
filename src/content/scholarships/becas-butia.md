@@ -2,7 +2,7 @@
 title: "Becas Butiá"
 type: "Programa Nacional de Becas de Educación Media"
 institution: "ANEP, MEC, Ceibal, BROU, BPS, INJU, MIDES"
-image: "@/assets/institutions/butia-logo.webp"
+image: "../../assets/institutions/butia-logo.webp"
 description: "Beca para estudiantes de 11 a 21 años en centros públicos de educación media. Montos anuales de $13.000 a $25.000 (2026) según el nivel."
 website: "https://becas.edu.uy/"
 amount: "$13.000 a $25.000 anuales (2026) según el nivel"

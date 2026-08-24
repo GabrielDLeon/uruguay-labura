@@ -2,7 +2,7 @@
 title: "Becas Universidad ORT Uruguay"
 type: "Becas privadas por mérito académico y necesidad económica"
 institution: "Universidad ORT Uruguay"
-image: "@/assets/institutions/ort-logo.webp"
+image: "../../assets/institutions/ort-logo.webp"
 description: "Fondos de becas para carreras universitarias de grado de ORT: Excelencia Académica (hasta 60%, con becas especiales del 80%), Becas Concursables (hasta 50%), Becas de Reválidas (hasta 35%) y becas completas por olimpíadas y concursos (100%)."
 website: "https://www.ort.edu.uy/becas/becas-para-carreras-universitarias"
 applicationUrl: "https://admisiones.ort.edu.uy/"

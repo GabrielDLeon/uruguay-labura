@@ -1,7 +1,7 @@
 ---
 name: "Universidad de la República"
 short: "Udelar"
-logo: "@/assets/institutions/udelar-logo.webp"
+logo: "../../assets/institutions/udelar-logo.webp"
 color: "#004F92"
 type: "public"
 website: "https://udelar.edu.uy"

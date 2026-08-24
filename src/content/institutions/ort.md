@@ -1,7 +1,7 @@
 ---
 name: "Universidad ORT Uruguay"
 short: "ORT"
-logo: "@/assets/institutions/ort-logo.webp"
+logo: "../../assets/institutions/ort-logo.webp"
 color: "#78071B"
 type: "private"
 website: "https://www.ort.edu.uy"

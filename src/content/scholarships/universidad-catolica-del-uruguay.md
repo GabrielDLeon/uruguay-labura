@@ -2,7 +2,7 @@
 title: "Becas Universidad Católica del Uruguay (UCU)"
 type: "Becas privadas por mérito académico, compromiso pastoral y situación socioeconómica"
 institution: "Universidad Católica del Uruguay (UCU)"
-image: "@/assets/institutions/ucu-logo.webp"
+image: "../../assets/institutions/ucu-logo.webp"
 description: "Cuatro becas de grado para ingresantes a la UCU, dentro del Concurso de Becas: Excelencia Académica y Dámaso Antonio Larrañaga (100% u 80%), Conferencia Episcopal del Uruguay (80% o 50%) y Buen Desempeño (50% o 30%)."
 website: "https://carreras.ucu.edu.uy/categoria/Concurso-de-Becas-357"
 amount: "30% a 100% de la matrícula según beca"

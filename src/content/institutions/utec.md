@@ -1,7 +1,7 @@
 ---
 name: "Universidad Tecnológica del Uruguay"
 short: "UTEC"
-logo: "@/assets/institutions/utec-logo.webp"
+logo: "../../assets/institutions/utec-logo.webp"
 color: "#00AEEE"
 type: "public"
 website: "https://utec.edu.uy"

@@ -1,7 +1,7 @@
 ---
 name: "Universidad Católica del Uruguay"
 short: "UCU"
-logo: "@/assets/institutions/ucu-logo.webp"
+logo: "../../assets/institutions/ucu-logo.webp"
 color: "#042D66"
 type: "private"
 website: "https://www.ucu.edu.uy"

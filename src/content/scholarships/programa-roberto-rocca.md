@@ -2,7 +2,7 @@
 title: "Programa Educativo Roberto Rocca"
 type: "Beca internacional privada para estudiantes de grado y doctorado"
 institution: "Grupo Techint (Tenaris, Ternium, Techint Ingeniería y Construcción)"
-image: "@/assets/institutions/roberto-rocca-logo.webp"
+image: "../../assets/institutions/roberto-rocca-logo.webp"
 description: "Becas de grado de U$S 2.500 anuales para estudiantes de primer o tercer año de UDELAR, UCUDAL, UM, ORT y UDE, y becas de doctorado en el exterior."
 website: "https://www.robertorocca.org/es/becas/universitarias/uruguay/todos-los-departamentos"
 amount: "U$S 2.500 anuales (grado, renovable durante la carrera)"

@@ -1,7 +1,7 @@
 ---
 name: "Universidad de Montevideo"
 short: "UM"
-logo: "@/assets/institutions/um-logo.webp"
+logo: "../../assets/institutions/um-logo.webp"
 type: "private"
 color: "#014FA4"
 website: "https://www.um.edu.uy"
