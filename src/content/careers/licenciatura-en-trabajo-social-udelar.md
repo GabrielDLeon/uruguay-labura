@@ -1,0 +1,49 @@
+---
+title: "Licenciatura en Trabajo Social"
+similar:
+  - fundamentos-de-trabajo-social-especializacion-udelar
+  - licenciatura-en-trabajo-social-ucu
+  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - trabajo-social-maestria-udelar
+  - discapacidad-en-lo-social-especializacion-udelar
+  - intervencion-familiar-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://cienciassociales.edu.uy/ensenanza/licenciatura-en-trabajo-social/"
+location: "Facultad de Ciencias Sociales"
+description: "El Trabajo Social construye su espacio profesional a partir de una problematización de las necesidades humanas, los procesos de colectivización y las formas sociales de satisfacción. Su intervención se concreta entre objetividades y subjetividades. Por un lado, supone una relación intersubjetiva en"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - trabajo-social
+  - ciencias-sociales
+  - intervencion-social
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-trabajo-social/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-trabajo-social'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Trabajo Social construye su espacio profesional a partir de una problematización de las necesidades humanas, los procesos de colectivización y las formas sociales de satisfacción. Su intervención se concreta entre objetividades y subjetividades. Por un lado, supone una relación intersubjetiva en la estructuración y transformación de los procesos que buscan la colectivización de las necesidades y sus variadas formas de satisfacción. Al mismo tiempo, la intervención requiere de objetividades, materializaciones, instituciones y equipamientos de diverso tipo, que habiliten los procesos de realización de las necesidades en una determinada sociedad. Se trata de una disciplina cuyo objetivo es la intervención, dirigida al abordaje de problemas sociales, desde la práctica y con los sujetos involucrados en ella, apuntando a la mejora de su calidad de vida y al desarrollo de sus potencialidades no resueltas. El Trabajo Social interviene en el marco de políticas sociales en instituciones públicas, privadas o mixtas. Como profesión de la participación, actúa en procesos de toma de decisiones, facilitando el involucramiento de los afectados por las problemáticas, propiciando la ampliación de su injerencia en las cuestiones que le atañen y promoviendo acciones tendientes a la visibilidad pública del debate acerca de la "cosa pública". La intervención profesional se construye desde la interacción de tres dimensiones: investigativa, socio-pedagógica y asistencial; transversalizadas por una dimensión ético-política.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU.

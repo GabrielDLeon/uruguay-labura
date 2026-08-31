@@ -1,0 +1,95 @@
+---
+title: "Especialización en Ciencia de Datos e Inteligencia Artificial"
+similar:
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - maestria-en-ciencia-de-datos-um
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - ciencia-de-datos-especializacion-udelar
+  - diploma-de-especializacion-en-inteligencia-artificial-ort
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "especializacion"
+area: "Tecnologías de la Información"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "15 horas semanales"
+duration: "1 año"
+cost: "USD 5200"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-ciencia-de-datos-e-inteligencia-artificial/"
+contactEmail: "datascience@utec.edu.uy"
+accreditation: "UTEC"
+description: "Especialización en Ciencia de Datos e Inteligencia Artificial de UTEC en colaboración con el MIT. Posgrado semipresencial orientado al análisis de datos, machine learning e IA con abordaje aplicado."
+tags:
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - machine-learning
+  - informatica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La Especialización en Ciencia de Datos e Inteligencia Artificial se destaca por su enfoque innovador, ofreciendo una propuesta educativa vanguardista en dos de las áreas más dinámicas y demandadas en el actual escenario tecnológico: **Ciencia de Datos e Inteligencia Artificial**, con abordaje totalmente aplicado.
+
+Esta formación combina la excelencia académica y el enfoque práctico de **UTEC** con la experiencia y el prestigio global del **Massachusetts Institute of Technology (MIT)**, proporcionando a los estudiantes conocimientos profundos y habilidades prácticas en ciencia de datos e inteligencia artificial, en especial, **aprendizaje automático**.
+
+La segunda generación de la Especialización tiene una **dedicación promedio estimada de 15 horas semanales.**
+
+Aquellas personas que alcancen la totalidad de créditos, pero no cuenten con título de grado a la fecha de finalización de las actividades de la Especialización, obtendrán un certificado de *Diploma superior en Ciencia de Datos e Inteligencia Artificial*.
+
+### Modalidad
+
+- Clases sincrónicas dos veces por semana, los días martes y jueves de 19:00 a 22:00 durante los cursos impartidos por UTEC.
+- Una clase de 2 horas en día del fin de semana (sábado o domingo) durante 12 sesiones del curso impartido por MIT (8 de las cuales son obligatorias).
+- Un taller presencial de 2 semanas de duración en enero en horario de 9:00 a 17:00 con instructores de MIT en el LATU, Montevideo, Uruguay.
+
+### Competencias del Egresado
+
+La Especialización está diseñada para que sus egresados adquieran conocimientos y competencias propias del ámbito profesional para:
+
+- Desarrollar la habilidad de integrar el conocimiento en ciencia de datos e inteligencia artificial en diversos ámbitos profesionales.
+- Optimizar procesos, mejorar actividades operativas y tomar decisiones gerenciales basadas en datos.
+- Producir conocimiento creativo y crítico en el campo de la ciencia de datos e inteligencia artificial.
+- Acceder al estado del arte del conocimiento, aplicando las últimas técnicas y metodologías.
+- Participar en instancias académicas y redes de aprendizaje.
+- Involucrarse en proyectos mixtos (público-privado) y postular a subsidios internacionales.
+- Desarrollar, aplicar y evaluar técnicas y tecnologías en ciencia de datos e inteligencia artificial, considerando las dimensiones éticas, el impacto social, la sostenibilidad y la responsabilidad en el uso de la IA.
+
+### Salida Laboral
+
+- Ciencia de datos
+- Inteligencia artificial
+- Analytics
+- Machine learning
+- Toma de decisiones gerenciales basadas en datos
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Contar con conocimientos a nivel terciario de cálculo y álgebra lineal (excluyente).
+- Al menos nivel B2 de inglés (o equivalente) y conocimientos básicos de programación (no excluyente).
+
+### Proceso de Postulación
+
+Las preinscripciones se realizan completando el formulario en la página web.
+
+- Llenar el formulario en la página web.
+- Presentar CV, copia del título de grado o pregrado, copia de la CI vigente y carta de motivación en inglés.
+- Agendar una entrevista con la oficina de coordinación académica, instancia excluyente para el proceso de admisión.
+
+### Costo y Becas
+
+El costo total es de **USD 5200**, con opción de acceder a diversos tipos de descuentos (no acumulables):
+
+- **30%** para funcionarios de la administración pública, mujeres y/o docentes universitarios en Uruguay (por inscripción anticipada).
+- **15%** por inscripción anticipada para el público en general (hasta el 20 de enero).
+- **30%** para docentes, colaboradores y egresados de UTEC durante todo el período de preinscripciones.
+
+Es posible acceder a diferentes **planes de financiación.**

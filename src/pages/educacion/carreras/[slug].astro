@@ -1,0 +1,435 @@
+---
+import { getCollection, render } from "astro:content";
+
+import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import { formatDateShort } from "@/lib/dates";
+import {
+  degreeTypeLabels,
+  modalityLabels,
+  modalityBarFilled,
+  shiftLabels,
+  getDegreeTypeBarInfo,
+  getSolidarityFundInfo,
+  showDrafts,
+} from "@/lib/careers";
+import SimilarCareer from "@/components/SimilarCareer.astro";
+import SolidarityFundInfo from "@/components/SolidarityFundInfo.astro";
+import BarIndicator from "@/components/BarIndicator.astro";
+import AsideSection from "@/components/AsideSection.astro";
+import KeyValueList from "@/components/KeyValueList.astro";
+import SourcesList from "@/components/SourcesList.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
+import { getMatchingBecas } from "@/lib/scholarships";
+import LastUpdated from "@/components/LastUpdated.astro";
+import TabsContent from "@/components/common/TabsContent.astro";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
+import {
+  absUrl,
+  breadcrumbList,
+  educationalProgramMode,
+  durationToIso8601,
+  parseCost,
+} from "@/lib/seo";
+
+export async function getStaticPaths() {
+  const entries = await getCollection(
+    "careers",
+    ({ data }) => showDrafts || !data.draft,
+  );
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+    cacheKey: String(entry.digest ?? entry.data.updatedAt ?? entry.id),
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const hasSections = entry.data.sections.length > 0;
+
+const institutions = await getCollection("institutions");
+const institutionEntry = entry.data.institution
+  ? institutions.find((inst) => inst.id === entry.data.institution)
+  : undefined;
+
+const allEntries = await getCollection(
+  "careers",
+  ({ data }) => showDrafts || !data.draft,
+);
+const similarEntries = entry.data.similar
+  .map((slug) => allEntries.find((e) => e.id === slug))
+  .filter((e): e is NonNullable<typeof e> => e != null);
+
+const becas = await getCollection("scholarships", ({ data }) => !data.draft);
+const careerBecas = getMatchingBecas(entry.data, becas);
+
+const solidarityFund = getSolidarityFundInfo(
+  entry.data.institution,
+  entry.data.duration,
+);
+
+const detailItems = [
+  { label: "Área", value: entry.data.area },
+  { label: "Duración", value: entry.data.duration ?? "-" },
+  {
+    label: "Dedicación semanal",
+    value: entry.data.weeklyHours,
+  },
+  {
+    label: "Turno",
+    value: shiftLabels[entry.data.shift] ?? entry.data.shift,
+  },
+  { label: "Créditos", value: entry.data.credits },
+  { label: "Costo", value: entry.data.cost },
+  { label: "Idioma", value: entry.data.language },
+  { label: "Ubicación", value: entry.data.location },
+  { label: "Acreditación", value: entry.data.accreditation },
+
+  {
+    label: "Inicio",
+    value: entry.data.startDate
+      ? formatDateShort(entry.data.startDate)
+      : undefined,
+  },
+  {
+    label: "Cierre inscripción",
+    value: entry.data.applicationDeadline
+      ? formatDateShort(entry.data.applicationDeadline)
+      : undefined,
+  },
+];
+
+const pageUrl = absUrl(`/educacion/carreras/${entry.id}`);
+const degreeTypeLabel =
+  degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType;
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname, entry.data.title);
+const price = parseCost(entry.data.cost);
+const timeToComplete = durationToIso8601(entry.data.duration);
+const programMode = educationalProgramMode[entry.data.modality];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": `${pageUrl}#webpage`,
+      url: pageUrl,
+      name: entry.data.title,
+      inLanguage: "es",
+      isPartOf: { "@id": `${absUrl("/")}#website` },
+      about: { "@id": `${pageUrl}#program` },
+      breadcrumb: { "@id": `${pageUrl}#breadcrumb` },
+    },
+    {
+      "@type": "EducationalOccupationalProgram",
+      "@id": `${pageUrl}#program`,
+      url: pageUrl,
+      name: entry.data.title,
+      ...(entry.data.description
+        ? { description: entry.data.description }
+        : {}),
+      programType: degreeTypeLabel,
+      ...(programMode ? { educationalProgramMode: programMode } : {}),
+      ...(timeToComplete ? { timeToComplete } : {}),
+      ...(entry.data.credits != null
+        ? { numberOfCredits: entry.data.credits }
+        : {}),
+      ...(entry.data.startDate ? { startDate: entry.data.startDate } : {}),
+      ...(entry.data.applicationDeadline
+        ? { applicationDeadline: entry.data.applicationDeadline }
+        : {}),
+      inLanguage: "es",
+      educationalCredentialAwarded: {
+        "@type": "EducationalOccupationalCredential",
+        credentialCategory: degreeTypeLabel,
+        name: entry.data.title,
+      },
+      provider: {
+        "@type": "CollegeOrUniversity",
+        name: entry.data.institutionName,
+        ...(entry.data.institution
+          ? {
+              url: absUrl(`/educacion/instituciones/${entry.data.institution}`),
+            }
+          : {}),
+        sameAs: entry.data.website,
+      },
+      ...(price != null
+        ? {
+            offers: {
+              "@type": "Offer",
+              priceSpecification: {
+                "@type": "PriceSpecification",
+                price,
+                priceCurrency: "UYU",
+              },
+            },
+          }
+        : {}),
+    },
+    breadcrumbList(breadcrumbs, `${pageUrl}#breadcrumb`),
+  ],
+};
+---
+
+<Layout
+  title={entry.data.title}
+  description={entry.data.description ??
+    `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
+  jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
+>
+  <Block class="border-b">
+    <div class="flex items-center gap-4">
+      {
+        institutionEntry?.data.logo && (
+          <Image
+            src={institutionEntry.data.logo}
+            alt={institutionEntry.data.name}
+            class="h-16 w-auto object-contain shrink-0 mt-1 rounded-lg sm:h-20"
+          />
+        )
+      }
+      <div>
+        <h1 class="text-2xl mb-1 font-semibold text-foreground sm:text-3xl">
+          {entry.data.title}
+        </h1>
+        <p class="text-muted-foreground text-base">
+          {
+            entry.data.institution ? (
+              <a
+                href={`/educacion/instituciones/${entry.data.institution}`}
+                class="hover:underline"
+              >
+                {entry.data.institutionName}
+              </a>
+            ) : (
+              entry.data.institutionName
+            )
+          }
+        </p>
+      </div>
+    </div>
+  </Block>
+
+  {
+    entry.data.searchable ? (
+      <PagefindIndex
+        title={entry.data.title}
+        description={entry.data.description}
+        kind="carrera"
+        meta={{
+          degreeType:
+            degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType,
+          modality: modalityLabels[entry.data.modality] ?? entry.data.modality,
+          description: entry.data.description ?? undefined,
+        }}
+      />
+    ) : null
+  }
+
+  <div data-pagefind-ignore="all">
+    <div class="grid md:grid-cols-3">
+      <aside class="h-full md:order-2 md:border-l mb-8 md:mb-0">
+        <Block class="flex h-full flex-col gap-8">
+          {
+            entry.data.description ? (
+              <AsideSection title="Descripción">
+                <p class="text-sm text-foreground leading-relaxed">
+                  {entry.data.description}
+                </p>
+              </AsideSection>
+            ) : null
+          }
+          <section class="space-y-3">
+            <BarIndicator
+              label="Tipo"
+              value={degreeTypeLabels[entry.data.degreeType] ??
+                entry.data.degreeType}
+              total={4}
+              filled={getDegreeTypeBarInfo(entry.data.degreeType).filled}
+            />
+            <BarIndicator
+              label="Modalidad"
+              value={modalityLabels[entry.data.modality] ?? entry.data.modality}
+              total={3}
+              filled={modalityBarFilled[entry.data.modality] ?? 1}
+            />
+          </section>
+          <AsideSection title="Detalles">
+            <KeyValueList items={detailItems} />
+          </AsideSection>
+
+          {
+            solidarityFund.applies ? (
+              <SolidarityFundInfo
+                tier={solidarityFund.tier}
+                additional={solidarityFund.additional}
+              />
+            ) : null
+          }
+
+          {
+            careerBecas.length > 0 ? (
+              <AsideSection title="Becas">
+                <div class="flex flex-col gap-2">
+                  {careerBecas.map((beca) => (
+                    <a
+                      href={`/educacion/becas/${beca.id}`}
+                      class="rounded-lg border border-border bg-muted/30 p-4 block hover:bg-accent/50 transition-colors"
+                    >
+                      <span class="flex items-center gap-2 text-sm text-foreground font-medium">
+                        <Icon
+                          name="mdi:hand-coin-outline"
+                          class="size-4 shrink-0"
+                        />
+                        <span>{beca.data.title}</span>
+                      </span>
+                      <span class="text-xs text-muted-foreground mt-1 block">
+                        {beca.data.institution}
+                      </span>
+                    </a>
+                  ))}
+                </div>
+              </AsideSection>
+            ) : null
+          }
+
+          <AsideSection title="Contacto">
+            <div class="flex flex-col gap-2">
+              <a
+                href={entry.data.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn"
+                data-size="sm"
+              >
+                Sitio web oficial
+              </a>
+              {
+                entry.data.contactEmail ? (
+                  Array.isArray(entry.data.contactEmail) ? (
+                    entry.data.contactEmail.map((email) => (
+                      <button
+                        type="button"
+                        class="btn"
+                        data-variant="outline"
+                        data-copy={email}
+                      >
+                        {email}
+                      </button>
+                    ))
+                  ) : (
+                    <button
+                      type="button"
+                      class="btn"
+                      data-variant="outline"
+                      data-copy={entry.data.contactEmail}
+                    >
+                      {entry.data.contactEmail}
+                    </button>
+                  )
+                ) : null
+              }
+            </div>
+          </AsideSection>
+
+          {
+            entry.data.sources.length > 0 ? (
+              <AsideSection title="Fuentes">
+                <SourcesList sources={entry.data.sources} />
+              </AsideSection>
+            ) : null
+          }
+
+          <div class="flex flex-col gap-2">
+            <LastUpdated
+              createdAt={entry.data.createdAt}
+              updatedAt={entry.data.updatedAt}
+            />
+
+            <div class="flex justify-start">
+              <a
+                href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/careers/${entry.id}.md`}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <Icon name="mdi:pencil" class="size-4" />
+                Editar contenido
+              </a>
+            </div>
+
+            <div class="flex justify-start">
+              <a
+                href="https://github.com/GabrielDLeon/uruguay-labura/issues"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <Icon name="mdi:git-issue" class="size-4" />
+                Reportar problema
+              </a>
+            </div>
+          </div>
+        </Block>
+      </aside>
+
+      <div class="md:order-1 md:col-span-2 min-w-0">
+        <section id="tabbed-content">
+          {
+            hasSections ? (
+              <TabsContent
+                sections={entry.data.sections}
+                introHtml={entry.data.introHtml}
+              />
+            ) : (
+              <Content />
+            )
+          }
+        </section>
+      </div>
+    </div>
+
+    {
+      similarEntries.length > 0 ? (
+        <Block class="border-t">
+          <h2 class="text-lg font-semibold text-foreground mb-4">
+            Te podría interesar
+          </h2>
+          <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {similarEntries.map((similar) => {
+              const inst = institutions.find(
+                (i) => i.id === similar.data.institution,
+              );
+              return (
+                <SimilarCareer
+                  title={similar.data.short ?? similar.data.title}
+                  institutionName={
+                    inst?.data.short ??
+                    inst?.data.name ??
+                    similar.data.institutionName
+                  }
+                  institutionLogo={inst?.data.logo}
+                  description={similar.data.description}
+                  degreeTypeLabel={
+                    degreeTypeLabels[similar.data.degreeType] ??
+                    similar.data.degreeType
+                  }
+                  modalityLabel={
+                    modalityLabels[similar.data.modality] ??
+                    similar.data.modality
+                  }
+                  url={`/educacion/carreras/${similar.id}`}
+                />
+              );
+            })}
+          </div>
+        </Block>
+      ) : null
+    }
+  </div>
+</Layout>

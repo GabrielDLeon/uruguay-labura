@@ -1,0 +1,50 @@
+---
+title: "Licenciatura en Gestión Ambiental"
+similar:
+  - maestria-en-gestion-ambiental-ude
+  - tecnicatura-en-gestion-de-recursos-naturales-udelar
+  - ingenieria-ambiental-ucu
+  - tecnologo-en-control-ambiental-utec
+  - ingenieria-ambiental-doctorado-udelar
+  - ingenieria-ambiental-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/"
+location: "Maldonado; Rocha; Treinta y Tres"
+description: "El egresado será capaz de comprender, analizar, investigar y gestionar problemáticas ambientales teniendo en cuenta las dimensiones ecológicas, económicas, patrimoniales y sociales y aquellas involucradas en el diseño y gestión de sistemas e producción, políticas y planes de ordenación territorial,"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - gestion-ambiental
+  - medio-ambiente
+  - evaluacion-de-impacto-ambiental
+  - ordenamiento-territorial
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-gestion-ambiental'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El egresado será capaz de comprender, analizar, investigar y gestionar problemáticas ambientales teniendo en cuenta las dimensiones ecológicas, económicas, patrimoniales y sociales y aquellas involucradas en el diseño y gestión de sistemas e producción, políticas y planes de ordenación territorial, proyectos de infraestructura, de turismo, desarrollo y áreas protegidas entre otros ejemplos.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Egresados de Magisterio, INET, IPA o Udelar. La carrera competa se dicta en las sedes de Maldonado y Rocha en cualquiera de sus ciclos de profundización. Mientras, en la sede Treinta y Tres se puede cursar completa con el perfil de profundización en Gestión Sostenible de Sistemas Agrarios.

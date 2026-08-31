@@ -1,86 +1,109 @@
 ---
 import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
 import { Icon } from "astro-icon/components";
 import PageHeader from "@/components/PageHeader.astro";
+import HomeStats from "@/components/HomeStats.astro";
+import ClosingSoon from "@/components/ClosingSoon.astro";
+import DashboardSection from "@/components/dashboard/DashboardSection.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
+import type { JobsDataset } from "@/types/jobs";
+import jobsData from "@/data/jobs.generated.json";
+
+const dataset = jobsData as unknown as JobsDataset;
+const dashboard = dataset.dashboard;
 ---
 
 <Layout
   title="Empleos y educación en Uruguay"
   description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay."
 >
-  <PageHeader
-    title="Uruguay Labura"
-    description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay. Seleccioná una sección para empezar."
+  <PagefindIndex
+    title="Uruguay Labura — Empleos y educación en Uruguay"
+    description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay."
+    kind="pagina"
   />
 
-  <div class="mt-8 grid gap-6 sm:grid-cols-2">
-    <a
-      href="/empleos"
-      class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
-    >
-      <span
-        class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
-      >
-        <Icon name="mdi:briefcase-outline" class="size-5" aria-hidden="true" />
-      </span>
-      <div>
-        <h2 class="text-lg font-semibold text-foreground">Empleos</h2>
-        <p class="mt-1 text-sm text-muted-foreground">
-          Llamados laborales de Uruguay Concursa con filtros y vista
-          centralizada.
-        </p>
-      </div>
-    </a>
+  <Block>
+    <PageHeader
+      title="Uruguay Labura"
+      description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay. Seleccioná una sección para empezar."
+    />
 
-    <a
-      href="/educacion"
-      class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
-    >
-      <span
-        class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+    <div class="mt-8 grid gap-6 sm:grid-cols-2">
+      <a
+        href="/empleos"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
       >
-        <Icon name="mdi:school-outline" class="size-5" aria-hidden="true" />
-      </span>
-      <div>
-        <h2 class="text-lg font-semibold text-foreground">Educación</h2>
-        <p class="mt-1 text-sm text-muted-foreground">
-          Postgrados, maestrías, especializaciones y otras opciones de formación
-          superior en Uruguay.
-        </p>
-      </div>
-    </a>
-  </div>
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon
+            name="mdi:briefcase-outline"
+            class="size-5"
+            aria-hidden="true"
+          />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Empleos</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Llamados laborales de Uruguay Concursa con filtros y vista
+            centralizada.
+          </p>
+        </div>
+      </a>
 
-  <section class="my-12">
-    <h2 class="text-xl font-bold text-foreground mb-4">Sobre el Proyecto</h2>
-    <div
-      class="prose prose-base max-w-2xl text-foreground prose-strong:text-foreground"
-    >
-      <p>
-        Uruguay Labura nace de una necesidad personal: hacer más accesible la
-        búsqueda de oportunidades laborales y educativas en Uruguay. La página
-        de <strong>Uruguay Concursa</strong>, si bien es una herramienta
-        valiosa, presenta una interfaz que dificulta la navegación y la
-        comparación rápida de llamados. Este proyecto busca simplificar esa
-        experiencia, ofreciendo una vista centralizada, filtros intuitivos y un
-        diseño moderno que priorice al usuario.
-      </p>
-      <p>
-        Con el tiempo, el proyecto se expandió al ámbito de la
-        <strong>educación</strong>. La información sobre postgrados, maestrías,
-        especializaciones y otras instancias de formación superior se encuentra
-        dispersa en decenas de sitios institucionales, lo que hace difícil tener
-        un panorama completo. La idea es construir un punto de encuentro donde
-        cualquier persona pueda descubrir, comparar y acceder a estas
-        oportunidades sin tener que recorrer la web institucional una por una.
-      </p>
-      <p>
-        Este es un proyecto <strong>en evolución constante</strong>. Voy
-        incorporando mejoras de forma progresiva y estoy abierto a sugerencias y
-        contribuciones. Si alguien quiere sumarse, puede abrir un
-        <strong>PR en GitHub</strong> — lo voy a recibir con gusto y lo voy a revisar
-        con atención. Todo sea por mejorar el acceso a la información en Uruguay.
-      </p>
+      <a
+        href="/educacion"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+      >
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon name="mdi:school-outline" class="size-5" aria-hidden="true" />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Educación</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Postgrados, maestrías, especializaciones y otras opciones de
+            formación superior en Uruguay.
+          </p>
+        </div>
+      </a>
     </div>
-  </section>
+
+    <HomeStats />
+
+    <ClosingSoon />
+
+    {dashboard && <DashboardSection dashboard={dashboard} />}
+
+    <section class="my-12">
+      <a
+        href="/acerca"
+        class="group flex flex-col gap-3 rounded-lg border border-border bg-card p-6 transition-colors hover:border-accent sm:flex-row sm:items-center sm:justify-between"
+      >
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">
+            Sobre el Proyecto
+          </h2>
+          <p class="mt-1 max-w-2xl text-sm text-muted-foreground">
+            La historia, la motivación y las metas de Uruguay Labura: por qué
+            nace y hacia dónde apunta.
+          </p>
+        </div>
+        <span
+          class="inline-flex shrink-0 items-center gap-2 rounded-lg border border-border bg-card px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-foreground hover:text-background"
+          aria-hidden="true"
+        >
+          Conocer más
+          <Icon
+            name="mdi:arrow-right"
+            class="size-4 transition-transform group-hover:translate-x-0.5"
+            aria-hidden="true"
+          />
+        </span>
+      </a>
+    </section>
+  </Block>
 </Layout>

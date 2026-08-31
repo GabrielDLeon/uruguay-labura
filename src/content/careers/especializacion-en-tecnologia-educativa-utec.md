@@ -1,0 +1,82 @@
+---
+title: "Especialización en Tecnología Educativa"
+similar:
+  - maestria-en-tecnologia-educativa-utec
+  - diploma-en-innovacion-educativa-ucu
+  - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
+  - diploma-en-planificacion-y-gestion-educativa-ort
+  - licenciatura-en-recreacion-educativa-ucu
+  - maestria-en-liderazgo-y-gestion-educativa-ucu
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "especializacion"
+area: "Educación, innovación y tecnología"
+modality: "virtual"
+shift: "both"
+weeklyHours: "12 horas semanales"
+duration: "1 año"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-tecnologia-educativa/"
+contactEmail: "secretaria.ted@utec.edu.uy"
+accreditation: "UTEC"
+description: "Especialización en Tecnología Educativa de UTEC. Formación online de un año para integrar tecnologías digitales en las prácticas didácticas y pedagógicas con sentido crítico."
+tags:
+  - educacion
+  - tecnologia-educativa
+  - educacion-virtual
+  - innovacion-educativa
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La Especialización en Tecnología Educativa es una propuesta de formación de un año dirigida a profesionales de la educación que deseen integrar tecnologías digitales en sus prácticas didácticas o pedagógicas de manera contextualizada y con sentido crítico. Su propósito es desarrollar capacidades para diseñar, implementar y acompañar propuestas educativas mediadas por tecnología, con sentido didáctico y pedagógico, que respondan a las particularidades de los territorios y comunidades.
+
+El **Programa de Posgrados en Tecnología e Innovación Educativa para la Sostenibilidad** ofrece dos titulaciones:
+
+- Especialización en Tecnología Educativa (duración: 1 año)
+- [Maestría en Tecnología Educativa](https://utec.edu.uy/es/educacion/posgrado/maestria-en-tecnologia-educativa/) (duración: 2 años)
+
+Está dirigido a profesionales de la educación que se desempeñen en instituciones educativas formales: maestros, docentes de educación media, terciaria y universitaria. La dedicación requerida es de **12 horas semanales**, incluyendo encuentros virtuales en tiempo real de aproximadamente 3 horas semanales.
+
+### Competencias del Egresado
+
+Los participantes que finalicen la especialización serán capaces de:
+
+- Analizar y gestionar el uso de herramientas digitales de manera reflexiva para decidir cómo, cuándo y para qué usarlas en la realidad de cada contexto.
+- Transformar medios y herramientas digitales en recursos educativos con fines didácticos.
+- Identificar y reflexionar sobre el potencial pedagógico y didáctico de las tecnologías educativas consolidadas y emergentes.
+- Diseñar experiencias de aprendizaje digitales alineadas con los objetivos educativos y realidades de cada contexto.
+
+### Salida Laboral
+
+- Integración de tecnología en educación
+- Gestión de entornos virtuales
+- Innovación pedagógica
+- Docencia educativa mediada por tecnología
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Ser profesional de la educación: graduados de carreras terciarias en el área de la educación y docentes universitarios con al menos 3 años de experiencia docente.
+- El título debe ser mínimo de cuatro años o 2700 horas de duración.
+
+### Proceso de Postulación
+
+Completar el formulario de preinscripción adjuntando la siguiente información requerida:
+
+1. Carta personal del/la aspirante (en español y no más de dos carillas), solicitando la admisión, explicando motivos y temáticas de interés, y explicitando la disponibilidad de 12 horas semanales de dedicación.
+2. Título de grado con su correspondiente escolaridad.
+3. Curriculum Vitae.
+4. Cédula de identidad escaneada.
+5. Constancia laboral que certifique el desarrollo de funciones en alguna institución educativa.
+
+De ser seleccionada su preinscripción, se le solicitará constancia de domicilio. La coordinación del programa podrá solicitar información complementaria y realizar una entrevista con el candidato si lo considera necesario.
+
+La especialización **no tiene costo** y los **cupos son limitados**. Se requiere que el estudiante firme un consentimiento en el que declare disponer del tiempo necesario para cursarla, además de presentar una carta de motivación.

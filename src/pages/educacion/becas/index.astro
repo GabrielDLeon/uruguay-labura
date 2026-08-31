@@ -1,0 +1,63 @@
+---
+import { getCollection } from "astro:content";
+
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import PageHeader from "@/components/PageHeader.astro";
+import ScholarshipCard from "@/components/ScholarshipCard.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
+import { absUrl, breadcrumbList } from "@/lib/seo";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
+
+const entries = await getCollection(
+  "scholarships",
+  ({ data }) => import.meta.env.DEV || !data.draft,
+);
+
+entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
+
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname);
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    breadcrumbList(breadcrumbs, `${absUrl("/educacion/becas")}#breadcrumb`),
+  ],
+};
+---
+
+<Layout
+  title="Becas en Uruguay"
+  description="Guía de becas disponibles en Uruguay para estudiantes nacionales y extranjeros. Becas estatales, privadas e internacionales."
+  jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
+>
+  <PagefindIndex
+    title="Becas en Uruguay"
+    description="Guía de becas disponibles en Uruguay para estudiantes nacionales y extranjeros. Becas estatales, privadas e internacionales."
+    kind="pagina"
+  />
+
+  <Block>
+    <PageHeader
+      title="Becas en Uruguay"
+      description="Recopilación de las principales becas disponibles en Uruguay para estudiantes de grado, posgrado y educación media. Encontrá oportunidades de financiamiento estatal, privado e internacional."
+    />
+
+    <section class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        entries.map((entry) => (
+          <ScholarshipCard
+            title={entry.data.title}
+            short={entry.data.short}
+            url={`/educacion/becas/${entry.id}`}
+            description={entry.data.description}
+            type={entry.data.type}
+            tags={entry.data.tags}
+            image={entry.data.image}
+          />
+        ))
+      }
+    </section>
+  </Block>
+</Layout>

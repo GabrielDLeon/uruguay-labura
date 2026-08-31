@@ -2,145 +2,321 @@
 import { getCollection, render } from "astro:content";
 
 import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
 import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
 import { institutionTypeLabels } from "@/lib/institution";
+import { showDrafts } from "@/lib/careers";
 import UruguayMap from "@/components/UruguayMap.astro";
 import AsideSection from "@/components/AsideSection.astro";
 import { locationsToIds } from "@/lib/departments";
+import InstitutionCard from "@/components/InstitutionCard.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
+import LastUpdated from "@/components/LastUpdated.astro";
+import CampusesTable from "@/components/careers/CampusesTable";
+import CareersTable from "@/components/careers/CareersTable";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
+import { absUrl, breadcrumbList } from "@/lib/seo";
 
 export async function getStaticPaths() {
   const entries = await getCollection("institutions");
   return entries.map((entry) => ({
     params: { slug: entry.id },
-    props: { entry },
+    props: {
+      entry,
+      otherInstitutions: entries.filter(
+        (inst) => inst.id !== entry.id && inst.data.isActive,
+      ),
+    },
+    cacheKey: String(entry.digest ?? entry.data.updatedAt ?? entry.id),
   }));
 }
 
-const { entry } = Astro.props;
+const { entry, otherInstitutions } = Astro.props;
 const { Content } = await render(entry);
+
+const programs = await getCollection(
+  "careers",
+  ({ data }) =>
+    data.institution === entry.id &&
+    (showDrafts || !data.draft) &&
+    data.listable,
+);
+const hasCareers = programs.length > 0;
+
+const pageUrl = new URL(
+  `/educacion/instituciones/${entry.id}`,
+  import.meta.env.SITE as string,
+).toString();
+const name = entry.data.name;
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname, name);
+
+const contactPoint =
+  entry.data.contactEmail || entry.data.phone
+    ? {
+        "@type": "ContactPoint",
+        ...(entry.data.phone ? { telephone: entry.data.phone } : {}),
+        ...(entry.data.contactEmail ? { email: entry.data.contactEmail } : {}),
+      }
+    : undefined;
+
+const organization = {
+  "@type": "CollegeOrUniversity",
+  "@id": `${pageUrl}#org`,
+  name: name,
+  ...(entry.data.short ? { alternateName: entry.data.short } : {}),
+  url: pageUrl,
+  ...(entry.data.logo
+    ? {
+        logo: new URL(
+          entry.data.logo.src,
+          import.meta.env.SITE as string,
+        ).toString(),
+      }
+    : {}),
+  ...(entry.data.description ? { description: entry.data.description } : {}),
+  ...(entry.data.contactEmail ? { email: entry.data.contactEmail } : {}),
+  ...(entry.data.phone ? { telephone: entry.data.phone } : {}),
+  sameAs: entry.data.website,
+  ...(entry.data.location
+    ? {
+        address: {
+          "@type": "PostalAddress",
+          addressCountry: "UY",
+          addressLocality: entry.data.location,
+        },
+      }
+    : {}),
+  ...(contactPoint ? { contactPoint } : {}),
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": `${pageUrl}#webpage`,
+      url: pageUrl,
+      name: name,
+      inLanguage: "es",
+      isPartOf: { "@id": `${absUrl("/")}#website` },
+      about: { "@id": `${pageUrl}#org` },
+      breadcrumb: { "@id": `${pageUrl}#breadcrumb` },
+    },
+    organization,
+    breadcrumbList(breadcrumbs, `${pageUrl}#breadcrumb`),
+  ],
+};
 ---
 
 <Layout
   title={entry.data.short ?? entry.data.name}
   description={`${entry.data.name} — ${institutionTypeLabels[entry.data.type]} university in Uruguay.`}
+  jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
 >
-  <div class="mt-6 mb-4">
-    <a
-      href="/educacion/instituciones"
-      class="text-sm text-muted-foreground hover:text-foreground"
-    >
-      ← Volver a Instituciones
-    </a>
-    </div>
+  <Block class="border-b">
+    <div class="flex items-start gap-6">
+      {
+        entry.data.logo && (
+          <Image
+            src={entry.data.logo}
+            alt={entry.data.name}
+            class="h-32 w-auto object-contain shrink-0 mt-1 rounded-lg"
+          />
+        )
+      }
+      <div class="min-w-0">
+        <div class="flex flex-wrap items-center gap-x-2 gap-y-1 mb-3">
+          <span
+            class="badge"
+            data-variant={entry.data.type === "public"
+              ? "success"
+              : "secondary"}
+          >
+            {institutionTypeLabels[entry.data.type]}
+          </span>
+          {
+            entry.data.location ? (
+              <span class="text-xs text-muted-foreground">
+                {entry.data.location}
+              </span>
+            ) : null
+          }
+        </div>
 
-  <div class="flex items-start gap-6 mb-8">
-    {
-      entry.data.logo && (
-        <Image
-          src={entry.data.logo}
-          alt={entry.data.name}
-          class="h-32 w-auto object-contain shrink-0 mt-1 rounded-lg"
-        />
-      )
-    }
-    <div class="min-w-0">
-      <div class="flex flex-wrap items-center gap-x-2 gap-y-1 mb-3">
-        <span
-          class={`badge ${
-            entry.data.type === "public" ? "badge-success" : "badge-secondary"
-          }`}
-        >
-          {institutionTypeLabels[entry.data.type]}
-        </span>
+        <h1 class="text-2xl mb-1 font-semibold text-foreground sm:text-3xl">
+          {
+            entry.data.short
+              ? `${entry.data.name} (${entry.data.short})`
+              : entry.data.name
+          }
+        </h1>
         {
-          entry.data.location ? (
-            <span class="text-xs text-muted-foreground">
-              {entry.data.location}
-            </span>
+          entry.data.description ? (
+            <p class="text-muted-foreground text-xs leading-relaxed max-w-xl">
+              {entry.data.description}
+            </p>
           ) : null
         }
       </div>
-
-      <h1 class="text-2xl mb-1 font-bold text-foreground sm:text-3xl">
-        {
-          entry.data.short
-            ? `${entry.data.name} (${entry.data.short})`
-            : entry.data.name
-        }
-      </h1>
-      {
-        entry.data.description ? (
-          <p class="text-muted-foreground text-xs leading-relaxed max-w-xl">
-            {entry.data.description}
-          </p>
-        ) : null
-      }
     </div>
-  </div>
+  </Block>
 
-  <div class="grid gap-8 md:grid-cols-3 mb-8">
-    <div class="md:col-span-2 min-w-0">
-      <div class="rounded-xl bg-[var(--muted)] p-6">
-        <div class="prose prose-sm dark:prose-invert max-w-none">
-          <Content />
-        </div>
+  <PagefindIndex
+    title={entry.data.name}
+    description={entry.data.description}
+    kind="institucion"
+    meta={{
+      description: entry.data.description ?? undefined,
+    }}
+  />
+
+  <div data-pagefind-ignore="all">
+    <div class="grid md:grid-cols-3">
+      <aside class="h-full md:order-2 md:border-l mb-8 md:mb-0">
+        <Block class="flex h-full flex-col gap-8">
+          <AsideSection title="Contacto">
+            <div class="flex flex-col gap-2">
+              <a
+                href={entry.data.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn"
+                data-size="sm"
+              >
+                Sitio oficial
+              </a>
+              {
+                entry.data.contactEmail ? (
+                  <a
+                    href={`mailto:${entry.data.contactEmail}`}
+                    class="btn"
+                    data-variant="outline"
+                    data-size="sm"
+                  >
+                    {entry.data.contactEmail}
+                  </a>
+                ) : null
+              }
+              {
+                entry.data.phone ? (
+                  <a
+                    href={`tel:${entry.data.phone}`}
+                    class="btn"
+                    data-variant="outline"
+                    data-size="sm"
+                  >
+                    {entry.data.phone}
+                  </a>
+                ) : null
+              }
+            </div>
+          </AsideSection>
+
+          <AsideSection
+            title="Presencia"
+            style={entry.data.color
+              ? `--map-highlight: ${entry.data.color}`
+              : undefined}
+          >
+            <UruguayMap highlighted={locationsToIds(entry.data.departments)} />
+          </AsideSection>
+
+          {
+            entry.data.tags.length > 0 ? (
+              <AsideSection title="Tags">
+                <div class="flex flex-wrap gap-1">
+                  {entry.data.tags.map((tag) => (
+                    <span class="badge text-xs" data-variant="outline">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              </AsideSection>
+            ) : null
+          }
+
+          <div class="flex flex-col gap-2">
+            <LastUpdated
+              createdAt={entry.data.createdAt}
+              updatedAt={entry.data.updatedAt}
+            />
+
+            <div class="flex justify-start">
+              <a
+                href={`https://github.com/GabrielDLeon/uruguay-laburos/edit/main/src/content/institutions/${entry.id}.md`}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <Icon name="mdi:pencil" class="size-4" />
+                Editar contenido
+              </a>
+            </div>
+
+            <div class="flex justify-start">
+              <a
+                href="https://github.com/GabrielDLeon/uruguay-labura/issues"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <Icon name="mdi:git-issue" class="size-4" />
+                Reportar problema
+              </a>
+            </div>
+          </div>
+        </Block>
+      </aside>
+
+      <div class="md:order-1 md:col-span-2 min-w-0">
+        <Block>
+          <div class="prose prose-sm dark:prose-invert max-w-none">
+            <Content />
+          </div>
+        </Block>
+
+        {
+          hasCareers && (
+            <Block class="border-t border-border">
+              <h2 class="text-lg font-semibold text-foreground mb-4">Carreras</h2>
+              <CareersTable institution={entry.id} client:visible />
+            </Block>
+          )
+        }
+
+        {
+          entry.data.campuses.length > 0 && (
+            <Block class="border-t border-border">
+              <h2 class="text-lg font-semibold text-foreground mb-4">Sedes</h2>
+              <CampusesTable campuses={entry.data.campuses} client:visible />
+            </Block>
+          )
+        }
       </div>
     </div>
 
-    <aside class="flex flex-col gap-8">
-      <AsideSection title="Contacto">
-        <div class="flex flex-col gap-2">
-          <a
-            href={entry.data.website}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="btn btn-sm inline-flex items-center justify-center gap-1"
-          >
-            Sitio oficial
-          </a>
-          {
-            entry.data.contactEmail ? (
-              <a
-                href={`mailto:${entry.data.contactEmail}`}
-                class="btn-sm-outline inline-flex items-center justify-center gap-1"
-              >
-                {entry.data.contactEmail}
-              </a>
-            ) : null
-          }
-          {
-            entry.data.phone ? (
-              <a
-                href={`tel:${entry.data.phone}`}
-                class="btn-sm-outline inline-flex items-center justify-center gap-1"
-              >
-                {entry.data.phone}
-              </a>
-            ) : null
-          }
-        </div>
-      </AsideSection>
-
-      <AsideSection
-        title="Presencia"
-        style={entry.data.color ? `--map-highlight: ${entry.data.color}` : undefined}
-      >
-        <UruguayMap
-          highlighted={locationsToIds(entry.data.departments)}
-        />
-      </AsideSection>
-
-      {
-        entry.data.tags.length > 0 ? (
-          <AsideSection title="Tags">
-            <div class="flex flex-wrap gap-1">
-              {entry.data.tags.map((tag) => (
-                <span class="badge-outline text-xs">{tag}</span>
-              ))}
-            </div>
-          </AsideSection>
-        ) : null
-      }
-    </aside>
+    {
+      otherInstitutions.length > 0 ? (
+        <Block class="border-t">
+          <h2 class="text-lg font-semibold text-foreground mb-4">
+            Otras instituciones
+          </h2>
+          <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {otherInstitutions.map((inst) => (
+              <InstitutionCard
+                href={`/educacion/instituciones/${inst.id}`}
+                name={inst.data.name}
+                short={inst.data.short}
+                description={inst.data.description}
+                type={inst.data.type}
+                logo={inst.data.logo}
+              />
+            ))}
+          </div>
+        </Block>
+      ) : null
+    }
   </div>
 </Layout>

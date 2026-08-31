@@ -1,0 +1,56 @@
+---
+title: "Especialización en Hidrología Subterránea"
+similar:
+  - licenciatura-en-recursos-hidricos-y-riego-udelar
+  - ingenieria-en-agua-y-desarrollo-sostenible-utec
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - tecnologo-en-agua-y-desarrollo-sostenible-utec
+  - licenciatura-en-geologia-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=1"
+location: "Facultad de Ingeniería, Montevideo"
+description: "De acuerdo con el artículo 2° de la Ordenanza de las Carreras de Posgrado(Resolución No.9 del Consejo Directivo Central de la Universidad de la República deldía 25 de septiembre de 2001), las actividades del Diploma de Especialización enHidrología Subterránea (en adelante DEHS) se orientarán con los siguientes ObjetivosGenerales:a) Brindar una formación más especializada que la correspondiente a los cursos degrado en las áreas de Ingeniería o"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - hidrogeologia
+  - hidrologia
+  - recursos-hidricos
+  - agua
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=1'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=1'
+---
+
+## Resumen
+
+### Objetivo
+
+De acuerdo con el artículo 2° de la Ordenanza de las Carreras de Posgrado (Resolución No.9 del Consejo Directivo Central de la Universidad de la República del día 25 de septiembre de 2001), las actividades del Diploma de Especialización en Hidrología Subterránea (en adelante DEHS) se orientarán con los siguientes Objetivos Generales: a) Brindar una formación más especializada que la correspondiente a los cursos de grado en las áreas de Ingeniería o Licenciaturas afines. b) Profundizar la formación del graduado en el manejo activo y creativo del conocimiento.
+
+### Perfil de egreso
+
+Al culminar los cursos del DEHS, el egresado del programa será capaz de: a) Exponer con solvencia los principios básicos y fundamentos teóricos de la Hidrología Subterránea. b) Aplicar los fundamentos teóricos de la Hidrología Subterránea al estudio de casos prácticos. c) Seleccionar, para cada situación de aplicación, la tecnología o combinación de tecnologías más adecuadas para las consignas de optimización fijadas.
+
+### Docentes
+
+Jorge de los Santos Marcos Musso Rodolfo Pienika Agustín Menta Manuel Giménez
+
+## Plan de Estudio
+
+### Programa
+
+https://www.fing.edu.uy/sites/default/files/Dip_Esp_Hidrolog%C3%ADa_Subterranea.pdf

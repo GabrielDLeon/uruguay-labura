@@ -1,0 +1,51 @@
+---
+title: "Tecnólogo Químico"
+similar:
+  - tecnico-en-procesos-y-analisis-quimico-utec
+  - quimico-udelar
+  - bachiller-en-ciencias-quimicas-udelar
+  - licenciatura-en-quimica-udelar
+  - licenciatura-en-tecnologias-de-la-quimica-udelar
+  - tecnologo-quimico-utec
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnologo"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fq.edu.uy/?q=es/node/22"
+location: "Facultad de Química; Paysandú"
+description: "El egresado de esta carrera adquiere una formación que le permite conocer los fundamentos de las técnicas usuales en un laboratorio de control industrial y emplear criterios adecuados para: 1) Verificar y calibrar instrumentos de análisis 2) Realizar análisis físicos, químicos y microbióticos, empel"
+startDate: ""
+applicationDeadline: ""
+credits: 270
+tags:
+  - quimica
+  - quimica-analitica
+  - microbiologia
+  - control-de-calidad
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fq.edu.uy/?q=es/node/22'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnologo-quimico'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El egresado de esta carrera adquiere una formación que le permite conocer los fundamentos de las técnicas usuales en un laboratorio de control industrial y emplear criterios adecuados para: 1) Verificar y calibrar instrumentos de análisis 2) Realizar análisis físicos, químicos y microbióticos, empelando instrumental y materiales usuales, realizando las adaptaciones que sean necesarias 3) Realizar validación de Técnicas Analíticas 4) Evaluar críticamente los resultados de sus trabajos 5) Aplicar procedimientos de Aseguramiento y Control de Calidad en procesos de manufactura 6) Colaborar en la implementación de nuevas metodologías de análisis instrumental 7) Participar y promover tareas vinculadas con la gestión ambiental.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Egresado de Bachillerato de Química Básica e Industrial de la DGETP-UTU. Estudiantes que hayan aprobado el curso de Articulación. Estudiantes de Facultad de Química que hayan aprobado Química General I, Química Analítica I y Prevención de Riesgos en el Laboratorio. Egresados de las carreras de Facultad de Química, de la Licenciatura en Bioquímica de la Facultad de Ciencias, de la Tecnicatura en Control Ambiental, Docentes de Química egresados de Formación Docente. Estudiantes con formación terciaria en áreas químicas que sean autorizados por la Comisión Nacional de Carrera del Tecnólogo Químico. Carrera compartida con DGETP-UTU y UTEC. Preinscripciones en UTEC.

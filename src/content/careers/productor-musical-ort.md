@@ -1,0 +1,176 @@
+---
+title: "Productor Musical"
+similar:
+  - licenciatura-en-jazz-y-musica-creativa-utec
+  - tecnologo-en-jazz-y-musica-creativa-utec
+  - licenciatura-en-interpretacion-musical-udelar
+  - tecnicatura-en-direccion-de-coros-udelar
+  - arte-sonoro-maestria-udelar
+  - tecnicatura-en-interpretacion-perfil-canto-guitarra-piano-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Comunicación"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "30 meses"
+cost: "Arancelado"
+language: "Español"
+website: "https://fc.ort.edu.uy/productor-musical"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Productor Musical de ORT Uruguay. El Productor Musical es el profesional capacitado para la creación y producción de música desde un punto de vista artístico y técnico simultáneamente."
+tags:
+  - musica
+  - produccion-musical
+  - arte-sonoro
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fc.ort.edu.uy/productor-musical'
+  - label: 'Plan de estudios'
+    url: 'https://fc.ort.edu.uy/productor-musical/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Productor Musical es el profesional capacitado para la creación y producción de música desde un punto de vista artístico y técnico simultáneamente.
+
+- Enfoque en la producción musical desde una perspectiva artística y técnica
+- Especialización en el manejo efectivo de elementos musicales y sonoros
+- Cuerpo docente con profesionales premiados y reconocidos en la industria
+
+Productor Musical es una carrera artística de dos años y medio de duración, cuyo objetivo es la creación musical.
+
+Basándose en el manejo experto del software Ableton Live, el estudiante adquiere estas herramientas artísticas y técnicas necesarias en este proceso.
+
+La carrera apunta a aquellos estudiantes con perfiles creativos, independientes, automotivados que deseen enriquecer su formación musical o potenciar una carrera en música, enfocándose en los aspectos creativos y de producción técnico-musical, viéndose a sí mismos como potenciales artistas musicales.
+
+### Títulos y Reconocimientos
+
+Los estudiantes que aprueben las 17 materias obligatorias obtienen el título de Productor/a Musical.
+
+### Modalidad
+
+Presencial. Adicionalmente, muchas asignaturas complementan sus dictados a través de la modalidad de "aula expandida"; es decir, un entorno virtual complementario del espacio presencial, que se articula con la propuesta de enseñanza y de aprendizaje, y tiene como objetivo acompañar y potenciar estos dos procesos.
+
+### Duración y Horarios
+
+Duración Dos años y medio. Horarios de clase Las materias se dictan dentro del rango horario correspondiente al turno matutino (lunes a viernes de 8:00 a 13:00 horas). Los semestres 1 a 4 constan de cuatro materias y el semestre 5 consta de una materia. La carga horaria varía entre ocho y nueve horas presenciales por semana. Adicionalmente a las clases presenciales, los estudiantes deberán realizar tareas extra facultad y prácticas en los estudios de grabación, con reserva de horario. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+2.° año de Educación Media Superior (EMS) completo. Los estudiantes de la carrera Productor Musical deberán cumplir con ciertos requerimientos técnicos para la práctica domiciliaria: Computadora con el software Ableton Live instalado. Controlador MIDI. Interfaz de audio. Auriculares, tanto para la asistencia a clases prácticas como para la práctica domiciliaria.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Tecnología del home studio 1**
+
+Describe los principios y las herramientas tecnológicas utilizadas en el entorno de la producción musical, desde un punto de vista funcional.
+
+**Audioperceptiva**
+
+Introduce a la escucha crítica y analiza los fenómenos de captación sonora.
+
+**Síntesis y MIDI**
+
+Profundiza en el campo de la generación de sonido por medios electrónicos a través de diferentes tecnologías de síntesis y su control mediante la Interfaz Digital de Instrumentos Musicales (MIDI).
+
+**Producción musical 1**
+
+Brinda herramientas y técnicas avanzadas para la creación musical, mediante el software Ableton Live®.
+
+#### 2.º semestre
+
+**Tecnología del home studio 2**
+
+Describe los principios y las herramientas tecnológicas utilizadas en el entorno de la producción musical, desde un punto de vista funcional.
+
+**Nivelación musical**
+
+Proporciona las herramientas teóricas musicales básicas para el entendimiento de conceptos de composición avanzados.
+
+**Técnicas de grabación**
+
+Entrena en técnicas de grabación, con énfasis en la producción de voz y registro de instrumentos acústicos. Propone criterios de uso y selección de micrófonos, preamplificadores, ruteo y monitoreo.
+
+**Producción musical 2**
+
+Brinda herramientas y técnicas avanzadas para la creación musical, mediante el software Ableton Live®.
+
+### 2.º año
+
+#### 3.er semestre
+
+**Acústica del home studio**
+
+Estudia la propagación del sonido y brinda nociones de acondicionamiento acústico orientadas al entorno de trabajo habitual de los productores musicales: el home studio.
+
+**Música popular contemporánea**
+
+Introduce a la estética de la música popular occidental. Brinda criterios de análisis para el reconocimiento de géneros, estilos y corrientes musicales contemporáneas.
+
+**Técnicas de mezcla**
+
+Pone en práctica el proceso de mezcla musical. Proporciona técnicas para que el estudiante descubra y desarrolle su propio estilo, fomentando su sensibilidad y creatividad.
+
+**Songwriting 1**
+
+Proporciona las herramientas musicales que constituyen la base para la composición de canciones, mediante la creación de estructuras rítmicas, progresiones armónicas y desarrollo de melodías. Estimula el proceso creativo musical mediante la práctica intensiva, con el objetivo de lograr piezas musicales expresivas e impactantes.
+
+#### 4.º semestre
+
+**Arreglo musical**
+
+Entrena en la adaptación de los diferentes parámetros musicales de una canción tales como el largo y reordenamiento de secciones, la selección del tempo y tonalidad, la función y el rango de cada instrumento, así como la relación entre el género musical y la paleta instrumental.
+
+**Taller de escritura creativa**
+
+Entrena en el análisis y escritura de textos líricos para su aplicación en el contexto de la canción.
+
+**Masterización y distribución**
+
+Aborda de manera teórico-práctica los distintos aspectos del proceso de masterización de productos musicales, así como de su distribución a través de las distintas plataformas de streaming.
+
+**Songwriting 2**
+
+Proporciona las herramientas musicales que constituyen la base para la composición de canciones, mediante la creación de estructuras rítmicas, progresiones armónicas y desarrollo de melodías. Estimula el proceso creativo musical mediante la práctica intensiva, con el objetivo de lograr piezas musicales expresivas e impactantes.
+
+### 3.er año
+
+#### 5.º semestre
+
+**Proyecto de producción musical**
+
+Integra los conocimientos y la práctica adquirida a lo largo de la carrera, a través de la producción integral de un EP de autoría propia.

@@ -1,92 +1,69 @@
 ---
-import { getCollection } from "astro:content"
+import { getCollection } from "astro:content";
 
-import Layout from "@/layouts/Layout.astro"
-import { institutionTypeLabels } from "@/lib/institution"
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import PageHeader from "@/components/PageHeader.astro";
+import InstitutionCard from "@/components/InstitutionCard.astro";
+import PagefindIndex from "@/components/PagefindIndex.astro";
+import { absUrl, breadcrumbList } from "@/lib/seo";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
 
-const entries = await getCollection("institutions")
+const entries = await getCollection("institutions");
 
-entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"))
+entries.sort((a, b) => a.data.name.localeCompare(b.data.name, "es"));
+
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname);
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    breadcrumbList(
+      breadcrumbs,
+      `${absUrl("/educacion/instituciones")}#breadcrumb`,
+    ),
+  ],
+};
 ---
 
 <Layout
-  title="Institutions"
-  description="Directory of universities and higher education institutions in Uruguay."
+  title="Instituciones"
+  description="Directorio de universidades e instituciones de educación superior en Uruguay."
+  jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
 >
-  <section class="mb-8 pt-6 sm:pt-8">
-    <h1 class="text-2xl mb-2 font-bold text-foreground sm:text-3xl">
-      Institutions
-    </h1>
-    <p class="max-w-3xl text-sm sm:text-base text-muted-foreground">
-      Universities and higher education institutions in Uruguay. Browse
-      institutions to explore their programs, locations, and contact
-      information.
-    </p>
-  </section>
+  <PagefindIndex
+    title="Instituciones en Uruguay"
+    description="Universidades e instituciones de educación superior en Uruguay. Explora las instituciones para conocer sus programas, ubicaciones e información de contacto."
+    kind="pagina"
+  />
 
-  <section class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+  <Block>
+    <PageHeader
+      title="Instituciones"
+      description="Universidades e instituciones de educación superior en Uruguay. Explora las instituciones para conocer sus programas, ubicaciones e información de contacto."
+    />
+
+    <section class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {
+        entries.map((entry) => (
+          <InstitutionCard
+            href={`/educacion/instituciones/${entry.id}`}
+            name={entry.data.name}
+            short={entry.data.short}
+            description={entry.data.description}
+            type={entry.data.type}
+            logo={entry.data.logo}
+          />
+        ))
+      }
+    </section>
+
     {
-      entries.map((entry) => (
-        <a
-          href={`/educacion/instituciones/${entry.id}`}
-          class="card border border-[var(--border)] bg-[var(--card)] p-6 hover:shadow-md transition-shadow"
-        >
-          <div class="flex items-start justify-between mb-3">
-            <div>
-              <h2 class="text-lg font-bold text-foreground">
-                {entry.data.short ?? entry.data.name}
-              </h2>
-              <p class="text-sm text-muted-foreground truncate">
-                {entry.data.name}
-              </p>
-            </div>
-            <span
-              class={`badge text-xs ${
-                entry.data.type === "public"
-                  ? "badge-success"
-                  : "badge-secondary"
-              }`}
-            >
-              {institutionTypeLabels[entry.data.type]}
-            </span>
-          </div>
-
-          <div class="flex flex-col gap-1 text-xs text-muted-foreground mb-4">
-            {
-              entry.data.location ? (
-                <span>
-                  {entry.data.departments.length > 1
-                    ? `${entry.data.departments.length} departments in ${entry.data.location} + ${entry.data.departments.length - 1} more`
-                    : entry.data.location}
-                </span>
-              ) : null
-            }
-          </div>
-
-          {
-            entry.data.tags.length > 0 ? (
-              <div class="flex flex-wrap gap-1 mt-auto">
-                {entry.data.tags.slice(0, 4).map((tag) => (
-                  <span class="badge-outline text-xs">{tag}</span>
-                ))}
-                {entry.data.tags.length > 4 ? (
-                  <span class="text-xs text-muted-foreground">
-                    +{entry.data.tags.length - 4}
-                  </span>
-                ) : null}
-              </div>
-            ) : null
-          }
-        </a>
-      ))
+      entries.length === 0 ? (
+        <p class="text-muted-foreground mt-4 text-sm">
+          No hay instituciones registradas por el momento.
+        </p>
+      ) : null
     }
-  </section>
-
-  {
-    entries.length === 0 ? (
-      <p class="text-muted-foreground mt-4 text-sm">
-        No institutions registered at the moment.
-      </p>
-    ) : null
-  }
+  </Block>
 </Layout>

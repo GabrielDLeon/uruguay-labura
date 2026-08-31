@@ -1,0 +1,59 @@
+---
+title: "Licenciatura Binacional en Obstetricia"
+similar:
+  - obstetra-partera-udelar
+  - ecografia-gineco-obstetrica-especializacion-udelar
+  - ginecotocologia-especializacion-udelar
+  - especializacion-en-medicina-de-emergencia-um
+  - maestria-en-cuidados-paliativos-um
+  - medicina-ucu
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia"
+location: "Paysandú; Concepción del Uruguay (Argentina)"
+description: "La Licenciatura Binacional de Obstetricia habilita a ejercer en todo el territorio uruguayo y argentino luego de realizados los trámites correspondientes ante las exigencias de ambos países. Se imparte junto a la Universidad de Entre Ríos (UNER), Facultad de Ciencias de la Salud."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - medicina
+  - obstetricia
+  - ginecologia
+  - salud
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial (CENUR Litoral Norte)'
+    url: 'https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La Licenciatura Binacional de Obstetricia se imparte por la Universidad de la República - Facultad de Medicina - Escuela de Parteras junto con la Universidad de Entre Ríos - Facultad de Ciencias de la Salud (UNER). El título habilita a ejercer en todo el territorio uruguayo y argentino luego de realizados los trámites correspondientes ante las exigencias de ambos países.
+
+### Perfil de egreso
+
+El título de Licenciatura en Obstetricia habilita para desempeñarse como integrante de equipos interdisciplinarios de salud en: diagnóstico, control y atención del embarazo, parto y puerperio normal; atención del recién nacido normal; docencia en su especialidad (salud sexual y procreación responsable, puericultura, etc.); investigación de temas relevantes para su profesión; uso de tecnología adecuada al proceso de gestación normal; dictado de cursos de Psicoprofilaxis; y organización y gestión de los Servicios de Obstetricia. Los egresados pueden desempeñar su profesión en la República Argentina y/o la República Oriental del Uruguay, en instituciones asistenciales estatales o privadas habilitadas, en el domicilio del paciente o en su consultorio privado en condiciones reglamentadas.
+
+## Ingreso
+
+### Información adicional
+
+Duración de la carrera: 4 años.
+
+- El 1er año se dicta todo en Concepción del Uruguay (Argentina).
+- El 2do año se dicta el primer semestre en Paysandú y el segundo semestre en Concepción del Uruguay.
+- El 3er año se dicta el primer semestre en Concepción del Uruguay y el segundo semestre en Paysandú.
+- El 4to año se realizan clases teóricas en Concepción del Uruguay y Práctica de Residencia en Uruguay y/o Argentina.
+
+Requisitos de inscripción: Bachillerato opción Medicina aprobado o CIO Salud aprobado, entre otra documentación. Sin examen de ingreso. El proceso de inscripción se lleva adelante por parte de la Facultad de Ciencias de la Salud de la Universidad Nacional de Entre Ríos.

@@ -1,0 +1,180 @@
+---
+title: "Diploma de Especialización en Fiscalidad Internacional"
+similar:
+  - master-en-impuestos-y-fiscalidad-internacional-ort
+  - postgrado-en-tributacion-internacional-um
+  - tributaria-especializacion-udelar
+  - diplomado-en-tributacion-ude
+  - postgrado-en-tecnica-tributaria-um
+  - tributaria-maestria-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "especializacion"
+area: "Administración y Negocios"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "18 meses"
+cost: "Arancelado"
+language: "Español"
+website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "El posgrado en Fiscalidad Internacional de la Escuela de Postgrados en Negocios de ORT aborda aspectos complejos de la materia tributaria."
+tags:
+  - negocios
+  - tributacion
+  - tributacion-internacional
+  - impuestos
+  - derecho-tributario
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional'
+  - label: 'Plan de estudios'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados/facs'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El posgrado en Fiscalidad Internacional de la Escuela de Postgrados en Negocios de ORT aborda aspectos complejos de la materia tributaria.
+
+- Comprensión de las normativas y prácticas tributarias globales
+- Orientado a profesionales de diversas áreas que interactúan con impuestos
+- Cuerpo docente con experiencia académica y gerencial internacional
+
+El postgrado aborda aspectos complejos de la materia tributaria y desarrolla habilidades profesionales avanzadas en la aplicación práctica del conocimiento sobre fiscalidad internacional.
+
+Su objetivo general es constituir un canal válido de adquisición de los conocimientos que forman el núcleo de la gestión impositiva y su gerenciamiento efectivo en una empresa.
+
+Asimismo, posibilita la especialización y la actualización en los aspectos más específicos de la gestión funcional en el área en que se desempeñan los participantes.
+
+El diploma presenta un enfoque que abarca tanto lo internacional como lo local, respaldado por docentes altamente calificados de alcance global, y se distingue por la pertinencia y actualidad de sus contenidos prácticos.
+
+Su carga horaria part-time permite compatibilizar las obligaciones familiares y laborales con las académicas.
+
+Además, cuenta con materias electivas y numerosas experiencias internacionales cortas.
+
+El postgrado cuenta con un sólido cuerpo docente integrado por destacados profesionales con experiencia académica y gerencial, tanto a nivel nacional como internacional, con el apoyo de profesores invitados y especializados del exterior.
+
+Se trata de un diploma que expone a sus participantes a contenidos actualizados y los enfrenta a situaciones prácticas de la actuación profesional, convirtiéndolos en asesores tributarios de empresas y personas físicas en materia de fiscalidad internacional.
+
+Todas las materias presenciales se pueden cursar en modalidad HyFlex®. Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas.
+
+Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes.
+
+HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales.
+
+Las evaluaciones principales se realizan en forma presencial.
+
+### Títulos y Reconocimientos
+
+El Diploma de Especialización en Fiscalidad Internacional fue reconocido por resolución del Ministerio de Educación y Cultura el 11 de noviembre de 2022. Los postgrados en Impuestos de la Universidad ORT Uruguay son los únicos de Uruguay en su área considerados entre los 10 mejores de América Latina por Eduniversal Ranking.
+
+### Modalidad
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 18 meses. Horarios de clase 2 veces por semana de 19:00 a 21:30 h. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Requisitos Los requisitos de ingreso son: Ser un profesional universitario que se desempeñe en el área fiscal. Demostrar experiencia profesional relevante. Ser recomendado por el Tribunal Académico luego de una o más entrevistas.
+
+### Proceso de Selección
+
+Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### Julio - Setiembre
+
+**Derecho tributario aplicado**
+
+Breve síntesis de la composición de los ingresos del Estado. Efectos económicos de los tributos y principios deseables de un sistema tributario. Marco normativo de la tributación en Uruguay (jurisdicciones). Hecho generador. Diferencia entre tributos y tasas y efectos prácticos. Obligación tributaria (nacimiento, sujetos, extinción, naturaleza jurídica de la exoneración y efectos prácticos). Interpretación e integración de la norma tributaria. Impacto de las normas contables en el terreno tributario. Responsabilidad tributaria. Consulta vinculante.
+
+**Tributación a rentas empresariales: fundamentos**
+
+Identifica y desarrolla habilidades prácticas en relación con los aspectos constitutivos del hecho generador del Impuesto a las Rentas de las Actividades Económicas (IRAE) como instrumento básico de la imposición a las ganancias de las empresas en el Uruguay y del sistema tributario en general.
+
+#### Octubre - Diciembre
+
+**Fiscalidad internacional**
+
+La materia busca la comprensión de los conceptos involucrados en materia de fiscalidad internacional, desde el punto de vista teórico y práctico, brindando al estudiante la visión de la imposición internacional necesaria en la planificación estratégica tributaria. Luego de presentaciones introductorias de los temas se aplicará una metodología basada en el análisis de casos por parte de los estudiantes.
+
+**Electiva 1**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Tributación a rentas empresariales: análisis avanzado Identificar y desarrolla habilidades prácticas en relación con determinados aspectos específicos y liquidación del Impuesto a las Rentas de las Actividades Económicas (IRAE) e Impuesto a la Enajenación de Bienes Agropecuarios (IMEBA) como instrumentos básicos de la imposición a las ganancias de las empresas en el Uruguay y del sistema tributario en general. Contabilidad y finanzas para el desarrollo sostenible Aborda el impacto del Global Reporting Information en la contabilidad y su vinculación con el Balance Social y con la Responsabilidad Social. Analiza la medición y exposición de los impactos provocados por la gestión medioambiental en la contabilidad. El curso está a cargo de un profesor extranjero especialista en el tema. Tributación en el sector agropecuario El objetivo general del curso es sintetizar la normativa tributaria más relevante vinculada a la tributación en el sector agropecuario. Se estudian las principales características del Impuesto a la Renta de las Actividades Económicas, del Impuesto al Valor Agregado y del Impuesto al Patrimonio y demás tributos de imposición al capital.
+
+#### Diciembre (semana intensiva)
+
+**Taller de ética**
+
+Presenta casos del entorno internacional que llevarán a la reflexión sobre la práctica de los profesionales que se desempeñan en el área de contabilidad, impuestos o finanzas, dado que la convergencia internacional y la transparencia en los negocios requieren una actuación ética constante. El abordaje es desarrollado por un profesor extranjero invitado a tales efectos.
+
+#### Febrero - Marzo
+
+**Régimen fiscal de precios de transferencia**
+
+El curso busca suministrar conocimientos especializados sobre el Tema de Precios de Transferencia a través la transmisión de conceptos fundamentales y estratégicos en un ámbito académico y de intercambio de experiencias prácticas a nivel local, regional e internacional.
+
+**Tributación a la renta de personas físicas y no residentes**
+
+Impuesto a la Renta de las personas físicas (IRPF). Impuesto a la renta de los no residentes (IRNR). Sintetiza la normativa tributaria más relevante vinculada a la tributación de las rentas en el Uruguay. Estudia las principales características de los impuestos a la Renta de los No Residentes y de las Personas Físicas. Con un enfoque pragmático el estudiante conoce las principales características de la tributación sobre las rentas de los no residentes y de las personas físicas.
+
+### 2.do año
+
+#### Julio - Setiembre
+
+**Tendencias globales en tributación (materia intensiva)**
+
+Los temas que se discuten son los que están actualmente en la agenda de organismos internacionales como la OCDE, el G20 y la UE. Con un enfoque comparativo con lo que ocurre en los gobiernos de todo el mundo, se busca analizar las tendencias generales en las reformas tributarias el entorno fiscal competitivo y cómo los países están tratando de lograr dicho entorno, tanto desde una perspectiva política como administrativa. Asimismo, se tratarán temas como la transparencia fiscal y la globalización de los impuestos.
+
+**Análisis de convenios para evitar doble imposición**
+
+El modelo de convenio fiscal de la OCDE ha servido de base para la negociación de la mayoría de los convenios existentes para evitar la doble imposición en transacciones internacionales. Tomando esto como punto de partida, el curso tiene como objetivo proporcionar los conocimientos necesarios para adquirir un enfoque sistemático del funcionamiento de dichos convenios fiscales en general. Durante el curso se analizarán el alcance de los convenios, sus reglas de distribución de impuestos, los métodos disponibles para evitar la doble tributación y otras normas relevantes, como el intercambio de información fiscal entre autoridades tributarias de diferentes países
+
+#### Octubre - Diciembre
+
+**Gestión del riesgo fiscal internacional**
+
+El propósito del curso es proporcionar un marco para la aplicación de principios de gestión de riesgos de cumplimiento tributario. Se identificarán y discutirán los principios generales que se encuentran tanto en la identificación como en el tratamiento de los riesgos de cumplimiento dentro de una amplia variedad de jurisdicciones tributarias. Se busca proporcionar información sobre la forma en que las estrategias de gestión influyen en el comportamiento de las empresas en relación con sus obligaciones fiscales.
+
+#### Febrero – Marzo
+
+**Medidas anti-abuso y convenios para evitar doble imposición**
+
+El objetivo de esta materia es entregar una visión global del problema de abuso de convenios de doble imposición, considerando el trabajo de OCDE, la política de distintos gobiernos y jurisprudencia relevante en la materia. Asimismo, además del análisis técnico de normas específicas, el curso busca proporcionar un entendimiento con respecto a la discusión política y técnica a nivel internacional que se vislumbra capaz de generar un cambio profundo en la tributación internacional en el corto plazo sobre la base de la iniciativa OCDE/G-20 Base Erosion and Profit Shifting (BEPS).
+
+**Planificación fiscal internacional**
+
+El curso trata las consideraciones fiscales y no fiscales importantes en la planificación fiscal internacional. Se buscará identificar y definir los requisitos formales y sustantivos de las estructuras de planificación tributaria internacional, tomando en cuenta las normas tributarias legales, comerciales, regulatorias, así como nacionales e internacionales. Se analizarán las estructuras impositivas comunes utilizadas en las actividades de tenencia y financiación. Asimismo, se estudiarán las diversas formas de desarrollar y explotar la propiedad intangible, incluido el uso de contratos de I + D, el capital de la propiedad intangible y los acuerdos de contribución de costos.
+
+#### Abril - Junio
+
+**Proyecto integrador**
+
+El objetivo del curso es apoyar al estudiante en la elaboración de un Proyecto Integrador, uno de los requisitos curriculares necesarios para la obtención del título. Las actividades buscan desarrollar capacidades metodológicas de identificación de un problema, selección del método y las técnicas de análisis correctas, recopilación de la información relevante para resolverlo, procesamiento, análisis, crítica y presentación de resultados. El curso tiene una parte general metodológica que aplica a todos los casos y luego consultas específicas a especialistas sectoriales o disciplinarios para resolver el problema planteado. En general se tratará de un Estudio de Caso sobre una situación y cómo resolverla con las técnicas aprendidas en el Diploma.

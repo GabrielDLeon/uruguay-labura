@@ -1,0 +1,71 @@
+---
+title: "Maestría en Psicología Social"
+similar:
+  - psicologia-doctorado-udelar
+  - doctorado-en-psicologia-ucu
+  - licenciatura-en-psicologia-udelar
+  - psicologia-clinica-maestria-udelar
+  - psicologia-y-educacion-maestria-udelar
+  - licenciatura-en-psicologia-um
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=52"
+location: "Facultad de Psicología, Montevideo"
+description: "Objetivos Generales 1) Formar recursos humanos de excelencia académica, en un nivel de pos grado, capaces de producir conocimientos pertinentes para la comprensión y el abordaje de los fenómenos inherentes a la Psicología Social. 2) Contribuir al desarrollo de una Psicología Social de alto nivel académico acorde a los requerimientos de las realidades nacional, regional y latinoamericana. Objetivos Específicos 1) Profundi"
+startDate: ""
+applicationDeadline: "Formulario web de Facultad de Psicología."
+tags:
+  - psicologia
+  - psicologia-social
+  - ciencias-sociales
+  - investigacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=52'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=52'
+---
+
+## Resumen
+
+### Objetivo
+
+Objetivos Generales 1) Formar recursos humanos de excelencia académica, en un nivel de pos grado, capaces de producir conocimientos pertinentes para la comprensión y el abordaje de los fenómenos inherentes a la Psicología Social. 2) Contribuir al desarrollo de una Psicología Social de alto nivel académico acorde a los requerimientos de las realidades nacional, regional y latinoamericana. Objetivos Específicos 1) Profundizar en la formación de los graduados universitarios, en el campo de la Psicología Social, desde una amplitud epistemológica, teórica y metodológica. 2) Formar investigadores en el campo de la Psicología Social capaces de abordar críticamente los problemas propios del mismo, los recursos conceptuales y metodológicos disponibles, y de crear conocimientos socialmente pertinentes. 3) Contribuir a la calidad académica de la formación de graduados en Psicología incorporando conocimientos actualizados. 4) Contribuir al desarrollo de una Psicología Social con perfil nacional, regional y latinoamericano, partiendo del conocimiento existente y favoreciendo nuevos desarrollos.
+
+### Perfil de egreso
+
+La Maestría en Psicología Social se propone formar investigadores al más alto nivel académico en el país en relación a este campo de conocimientos. Por tanto, capaces de producir conocimientos de excelencia académica en relación a las más diversas problemáticas, de promover la innovación y de incidir en los cambios necesarios en beneficio de la sociedad uruguaya, regional y latinoamericana. Los egresados quedarán habilitados para desempeñarse en la formulación, diseño, gestión y ejecución de programas de extensión, investigación y enseñanza a nivel terciario y cuaternario, en las áreas competentes a la materia, en correspondencia con las líneas de investigación emergentes de la maestría.
+
+### Referentes académicos
+
+Profa. Agda. Mag. Mónica Lladó
+
+## Ingreso
+
+### Reglamento
+
+https://psico.edu.uy/sites/default/files/2017-08/ACTIVIDADES%20DE%20POSGRADO%20Y%20%20DE%20EDUCACION%20PERMANENTE%20-%20PSICOLOGIA.pdf
+
+### Requisitos de Ingreso
+
+Aspirantes: "Podrán postular a las Maestrías quienes posean título universitario de al menos nivel de Licenciatura o que puedan acreditar adecuadamente una formación equivalente que permita el aprovechamiento de la actividad en cuestión." (artículo 20, Reglamento General de las actividades de Posgrados y de Educación Permanente de Psicología, Udelar). Para la postulación se completará un formulario electrónico al que se podrá acceder dentro del período de preinscripción: del 1 de julio al 31 de agosto de 2025. En el formulario, se deberá incluir la siguiente documentación: Currículum vitae Escolaridad de Grado Pre-proyecto de investigación o de extensión: Quienes postulen deberán presentar una propuesta que especifique la Maestría correspondiente a la que aspira y, dentro de esta, la línea de investigación/extensión del Tutor/a de tesis y/o Asesor académico/a que acompañe la propuesta. Las propuestas deberán fundamentar la relevancia social y pertinencia de estudio del tema/problema delimitado, valorando los diálogos interdisciplinarios. La propuesta tendrá un máximo de 5 (cinco) carillas más la bibliografía. El texto deberá ser presentado en letra Times New Roman, tamaño 12, interlineado 1.5, márgenes de página estándar. Las referencias bibliográficas deberán ser presentadas en formato APA 7. El pre-proyecto será estructurado de la siguiente manera: presentación del tema, preguntas de investigación/extensión, objetivos, aproximación metodológica. A los efectos de la evaluación, se considerará: a) La habilidad para formular preguntas sobre un campo temático, identificar un posible tema/problema, desarrollar objetivos y pensar en posibles enfoques metodológicos. b) La relevancia social y la pertinencia de la propuesta en el campo de conocimientos. c) El aporte a la línea de investigación o de extensión universitaria. d) El relevamiento de mínimos antecedentes, con citación de bibliografía pertinente. e) La originalidad de la propuesta en temas que ameriten ser estudiados por su relevancia e impacto social. f) La viabilidad de su ejecución (considerando la población, los tiempos esperados, el diseño metodológico). g) Los aspectos formales (redacción académica, referenciación bibliográfica). Carta de motivación (máximo 800 palabras): La postulación deberá fundamentarse en relación a su trayectoria académica y/o profesional y a su motivación por desarrollar un posgrado de perfil académico, explicitando cómo se espera contribuir al desarrollo de la línea en la cual se inscribe. La postulación deberá ingresar con la nota de aceptación de un/una docente para desempeñarse como Tutor/a de tesis y/o Asesor/a curricular que acompañe la propuesta (artículo 21 del Reglamento General de las Actividades de Posgrado y de Educación Permanente de la Facultad de Psicología).
+
+## Plan de Estudio
+
+### Programa
+
+https://www.psico.edu.uy/sites/default/files/2016-11/maestria_en_psicologia_social-plan.pdf
+
+### Unidades curriculares
+
+http://psico.edu.uy/sites/default/files/2016-11/estructura_curricular_de_la_maestria_de_psicologia_social.pdf

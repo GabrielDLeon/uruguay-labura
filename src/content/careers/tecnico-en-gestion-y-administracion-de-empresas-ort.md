@@ -1,0 +1,179 @@
+---
+title: "Técnico en Gestión y Administración de Empresas"
+similar:
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - licenciatura-en-administracion-de-empresas-ude
+  - maestria-en-direccion-y-administracion-de-empresas-ude
+  - tecnico-en-gestion-turistica-y-hotelera-ort
+  - mba-um
+  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Administración y Negocios"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://facs.ort.edu.uy/tecnico-en-gestion-y-administracion-de-empresas"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Estudiar Gestión en la Universidad ORT Uruguay habilita a asumir responsabilidades en las diversas áreas funcionales de todo tipo de organizaciones."
+tags:
+  - administracion
+  - administracion-de-empresas
+  - gestion-empresarial
+  - negocios
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://facs.ort.edu.uy/tecnico-en-gestion-y-administracion-de-empresas'
+  - label: 'Plan de estudios'
+    url: 'https://facs.ort.edu.uy/tecnico-en-gestion-y-administracion-de-empresas/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Estudiar Gestión en la Universidad ORT Uruguay habilita a asumir responsabilidades en las diversas áreas funcionales de todo tipo de organizaciones.
+
+- Preparación en habilidades esenciales de marketing y recursos humanos
+- Capacitación para una amplia gama de posiciones en el mundo empresarial
+- Todos los conocimientos para iniciar y gestionar negocios propios
+
+La carrera brinda una formación integral y actualizada para asumir responsabilidades de gestión en las diversas áreas de todo tipo de organizaciones.
+
+Además, desarrolla en los participantes habilidades de gestión empresarial, con un enfoque metodológico de carácter práctico y con una alta carga de formación en tecnología orientada a procesos y gestión.
+
+Dentro de sus cuatro semestres lectivos, el plan de estudios comprende las disciplinas fundamentales de la gestión empresarial, como administración, contabilidad, finanzas, marketing, capital humano y trabajo en equipo, en un entorno de procesos y gestión de la información cada vez más automatizados.
+
+A estas disciplinas se agregan los sistemas integrados de gestión, costos y presupuestación, así como nociones prácticas de cómo construir una empresa e impuestos.
+
+Se estudian los sistemas de información empresarial, que permiten gestionar las diferentes acciones de la organización, sobre todo las que tienen que ver con producción, logística, stock y contabilidad.
+
+¡Desarrollá tus habilidades de gestión de empresas con un enfoque práctico!
+
+Flexibilidad para profundizar en áreas de tu interés
+
+Complementariamente, brinda la flexibilidad para que el estudiante se forme en áreas que le permitan expandir sus opciones profesionales: marketing online, gestión de la experiencia del cliente y otras.
+
+En el último semestre, el estudiante puede profundizar en el área de su interés a través de una materia electiva. Algunas de las áreas en las que tiene la oportunidad de ahondar son: automatización de procesos, simulación de procesos empresariales y gestión comercial nacional o internacional.
+
+Los estudiantes que aprueben las 16 materias obligatorias, que incluyen el taller intersemestral, obtienen el título de Técnico/a en Gestión y Administración de Empresas. Los graduados tienen la opción de cursar algunas materias complementarias y obtener el título de Técnico/a en Gestión Comercial y Ventas o Técnico/a en Gestión Turística y Hotelera.
+
+### Títulos y Reconocimientos
+
+Al aprobar todas las materias que componen los dos años de la carrera, los estudiantes alcanzan el título de Técnico/a en Gestión y Administración de Empresas.
+
+### Modalidad
+
+Presencial o semipresencial Todas las materias presenciales se pueden seguir en forma remota por HyFlex®. Con solo un clic, quienes optan por seguir las aulas en forma remota visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 2 años de cursos. Horarios de clase Matutino: tres días a la semana, entre el lunes y el jueves, de 8:30 a 11:00. Nocturno: tres días a la semana, entre el lunes y el jueves, de 19:30 a 22:00. Para el comienzo de agosto solo abre el turno nocturno. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+1.er año de Educación Media Superior (EMS) completo. Esta carrera admite el ingreso condicional con hasta tres previas (por un año).
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Contabilidad y automatización**
+
+El propósito de este curso es formar a los estudiantes en la elaboración de información contable, imprescindible en el proceso de toma de decisiones empresariales. Se trabajará sobre el papel fundamental de la contabilidad, los mecanismos de registración contable y como corolario arribar a la lectura de los Estados Contables básicos preparados de acuerdo a Normas Contables Adecuadas en el Uruguay. El curso busca aproximar a los estudiantes al uso de sistemas de registración informatizados, realizando un abordaje práctico utilizando un software contable para la realización de ejercicios, brindando entonces las herramientas básicas en esta materia para enfrentarse a los entornos laborales actuales, desde el ingreso de información hasta la preparación de informes de utilidad para la toma de decisiones oportuna.
+
+**Excel básico**
+
+El curso aborda las herramientas esenciales que componen Microsoft Excel, de manera práctica y aplicada. Forma al estudiante en la organización, cálculo y análisis de datos económicos o estadísticos, brindándole además herramientas de análisis para la toma de decisiones con grandes volúmenes de información.
+
+**Fundamentos de marketing**
+
+Desarrolla los diferentes componentes del marketing empresarial. Partiendo de los fundamentos del marketing, analiza las variables que están fuera de control, las variables controlables y cómo se combinan en el mix de marketing del mercado, el producto-servicio, el sistema de información y control, y demás elementos de análisis y gestión.
+
+**Gestión y administración de empresas**
+
+Capacita al estudiante para lograr objetivos predeterminados, en un entorno con restricciones y mediante el uso de recursos limitados. Al final de este curso los estudiantes entenderán claramente el proceso que siguen los gerentes exitosos y conocerán algunas herramientas de las que disponen. Se desarrolla con un enfoque netamente operativo y práctico.
+
+#### 2.° semestre
+
+**Costos y presupuestación**
+
+Incursiona en los sistemas de costos como formación de valor en el ámbito interno de la entidad y en los criterios técnicos de las variables de inventarios. Forma al estudiante en las técnicas de presupuestación y en el análisis de la interpretación de la situación económico-financiera para la evaluación y planificación de las empresas.
+
+**Excel avanzado**
+
+Brinda formación necesaria para manejar la planilla Excel con idoneidad y profundidad, con el propósito de procesar en forma eficiente información cuantitativa para la toma de decisiones, y presentar adecuadamente ideas y proyectos vinculados a la formación recibida.
+
+**Gestión de marketing de servicios**
+
+Desarrolla habilidades especiales en las diversas áreas del marketing de empresas de servicios o de bienes que ofrecen servicios complementarios. Demuestra la relación entre satisfacción del cliente y rentabilidad de la empresa, asegurando la efectividad de la primera. Asimismo, capacita en los conocimientos de la gestión de la relación con el cliente (CRM) y en las herramientas para construir una organización de servicios centrada en el cliente y basada en la rentabilidad y la dirección de esta relación.
+
+**Gestión y supervisión de capital humano**
+
+Capacita al estudiante en las técnicas y herramientas que se aplican en la gestión y supervisión de las personas en las organizaciones. Se prepara al estudiante en las técnicas necesarias para llevar a la práctica de políticas que regulan al capital humano. Complementariamente, se estudia el comportamiento de los individuos y de los grupos en su entorno laboral.
+
+### 2.° año
+
+#### 3.er semestre
+
+**Operaciones de servicios**
+
+Estudia los requerimientos y criterios necesarios para establecer las estrategias de operaciones adecuadas para los servicios de una organización. Reseña las herramientas y recursos que se disponen y aplican actualmente para desarrollar las operaciones en los campos logístico, supply chain y tecnológico.
+
+**Marketing online**
+
+Capacita en los conocimientos necesarios para incorporar las herramientas digitales en las actividades de investigación, comunicación y comercialización de productos y servicios. Trabaja sobre la innovación en modelos de negocios y en cómo introducir herramientas digitales. Estudia los buscadores en la web y los medios sociales como las dos principales fuentes de tráfico de una página. Prepara al estudiante para que sea capaz de entender los nuevos medios y al consumidor actual que ejerce un nuevo poder sobre las marcas.
+
+**Impuestos**
+
+Introduce al estudiante en el sistema tributario nacional. Lo capacita en los principales impuestos que gravan la actividad económica y empresarial de nuestro país, teniendo en cuenta lo que debe conocer un empresario para estar en condiciones de interactuar con los asesores especializados y tomar decisiones que involucran aspectos fiscales.
+
+#### 4.° semestre
+
+**Cómo constituir una empresa**
+
+Con un enfoque práctico, presenta una síntesis de las normativas legales más releventes vinculadas a la construcción de una empresa en Uruguay. Con el estudio de casos concretos, analizan aspectos y opciones de personería jurídica más apropiadas a los objetivos patrimoniales vinculantes, así como al ciclo de vida de una empresa.
+
+**Simulación integral de gestión**
+
+Simulación integral de gestión consiste en una simulación que integra la gestión operativa (compras y producción), comercial (distribución y ventas), y financiera de una empresa sobre un sistema ERP, para empresas pequeñas y medianas. Forma sobre una visión integral empresarial, simulando sobre un sistema de gestión, que permite gestionar distintos escenarios, tomando decisiones gerenciales.
+
+**Gestión de la experiencia del cliente**
+
+Forma al estudiante en los conceptos y las herramientas necesarias para diseñar y gestionar la experiencia de cliente con mirada de “afuera hacia adentro de la organización”. Introduce a los estudiantes en herramientas y metodologías necesarias para crear, dar seguimiento y monitorear la experiencia del cliente en los diferentes momentos de contacto con la empresa y su marca.
+
+**Electiva**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Automatización de procesos Comercio internacional y política comercial Comunicaciones online y offline E-commerce y venta automatizada Gestión comercial Herramientas de IA Internacionalización de la empresa en la era digital Logística integral y SCM Operativa y procedimientos del comercio internacional Simulación en procesos de compras, ventas y distribución

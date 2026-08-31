@@ -1,0 +1,51 @@
+---
+title: "Tecnicatura en Salud Ocupacional"
+similar:
+  - salud-ocupacional-especializacion-udelar
+  - seguridad-y-salud-en-el-trabajo-especializacion-udelar
+  - salud-mental-maestria-udelar
+  - salud-familiar-y-comunitaria-especializacion-udelar
+  - maestria-en-epidemiologia-y-salud-digital-ucu
+  - maestria-en-gestion-y-salud-publica-ucu
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnicatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-salud-ocupacional"
+location: "Paysandú"
+description: "Es un tecnólogo universitario capacitado para el reconocimiento de los riesgos laborales de diferentes procesos productivos, participando en estrategias de prevención y promoción de la salud de los trabajadores conjuntamente con el equipo de salud. En el área de la salud actúa fundamentalmente en la actividad de prevención, en la identificación, evaluación y control de los factores de riesgo laboral y su repercusión en el ambiente."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - salud-ocupacional
+  - salud-publica
+  - medicina-del-trabajo
+  - riesgos-laborales
+  - seguridad-industrial
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-salud-ocupacional'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-salud-ocupacional'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es un tecnólogo universitario capacitado para el reconocimiento de los riesgos laborales de diferentes procesos productivos, participando en estrategias de prevención y promoción de la salud de los trabajadores conjuntamente con el equipo de salud. En el área de la salud actúa fundamentalmente en la actividad de prevención, en la identificación, evaluación y control de los factores de riesgo laboral y su repercusión en el ambiente. En el área de la educación participa en programas dirigidos a trabajadores, empresarios y agentes sociales vinculados a la salud de los trabajadores. Integra un equipo interdisciplinario que participa en: Promoción de la Salud. Programa de Educación en Salud Ocupacional. Obtención y registro de datos estadísticos de los efectos de la interrelación del hombre y su ambiente laboral. Seguimiento del comportamiento epidemiológico de los accidentes y enfermedades laborales; planificación de estrategias de intervención epidemiológica. Aplicación del concepto de vigilancia, programación, coordinación y evaluación de sistemas de vigilancia epidemiológica, aplicados a los accidentes de trabajo, enfermedades laborales y alteraciones del medio ambiente vinculados al trabajo humano. Análisis de los sistemas de producción, detección de riesgos laborales y ambientales y elaboración de propuestas tendientes a minimizar esos riesgos. Definición y implementación de programas relativos a Salud Ocupacional. Administración de programas en Salud Ocupacional. Elaboración y ejecución de proyectos de investigación tendientes a analizar y/o resolver problemas de Salud Ocupacional.
+
+## Ingreso
+
+### Información adicional
+
+En el Cenur Litoral Norte se ingresa a la carrera a través del Ciclo Inicial Optativo (CIO) Salud Trayectorias Tecnología Médica. Se requiere el egreso de cualquier Bachillerato de Secundaria o Bachillerato Técnico del Consejo de Educación Técnico Profesional. En caso de previas se realiza la inscripción condicional, si al mes de abril no se culmina el bachillerato no se hace efectiva la inscripción.

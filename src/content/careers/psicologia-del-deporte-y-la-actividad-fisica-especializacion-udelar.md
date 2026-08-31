@@ -1,0 +1,71 @@
+---
+title: "Especialización en Psicología del Deporte y la Actividad Física"
+similar:
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - medicina-del-deporte-especializacion-udelar
+  - licenciatura-en-educacion-fisica-rivera-udelar
+  - licenciatura-en-educacion-fisica-udelar
+  - educacion-fisica-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=98"
+location: "Facultad de Psicología, Montevideo"
+description: "Desarrollar el conocimiento en el área y brindar una formación universitaria, específica, integral y calificada que habilitará a los psicólogos a responder a las exigencias y demandas del medio."
+startDate: ""
+applicationDeadline: "Página web Facultad de Psicología"
+tags:
+  - psicologia
+  - psicologia-del-deporte
+  - deporte
+  - actividad-fisica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=98'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=98'
+---
+
+## Resumen
+
+### Objetivo
+
+Desarrollar el conocimiento en el área y brindar una formación universitaria, específica, integral y calificada que habilitará a los psicólogos a responder a las exigencias y demandas del medio.
+
+### Perfil de egreso
+
+El especialista en Psicología del Deporte y la Actividad Física tendrá la formación y acreditación para desarrollar funciones dentro del campo del deporte y la actividad física. Estará capacitado para interpretar las demandas psicológicas e intervenir en el área de actividades en que se integre. Podrá desempeñarse en los siguientes ámbitos laborales: a- Deporte de Rendimiento: Deporte profesional. Deporte de Alto Rendimiento. Deporte de otros niveles de rendimiento (federaciones deportivas). b- Deporte de Base e Iniciación: Deporte infantil y escolar. Deporte comunitario. Iniciación en la actividad física y el deporte. c- Deporte de Ocio, Salud y Tiempo Libre: Deporte para todos. Deporte para poblaciones con necesidades especiales (discapacidades, tercera edad y poblaciones de riesgo).
+
+### Referentes académicos
+
+Prof. Adj. Patricia Dominguez
+
+## Ingreso
+
+### Reglamento
+
+https://psico.edu.uy/ensenanza/posgrado/especializacion-en-psicologia-del-deporte
+
+### Requisitos de Ingreso
+
+La especialización estará dirigida a personas egresadas de la Licenciatura en Psicología con título expedido por la Facultad de Psicología de la Udelar o equivalente, y egresados/as de la Universidad de la República u otras Universidades con título de licenciado/a o equivalente en servicios de salud y educación física. Se habilitará el ingreso a titulados/as de universidades extranjeras. Si bien no se realizará prueba de admisión, en caso de que las postulaciones excedieran los cupos establecidos, la dirección de la Especialización conformará una Comisión que actuará en la selección. A los efectos de la elección se considerará curriculum y nota que explicite el interés en la especialización. En caso de considerarlo necesario la Comisión concertará entrevistas a los y las aspirantes.
+
+## Plan de Estudio
+
+### Programa
+
+https://psico.edu.uy/ensenanza/posgrado/especializacion-en-psicologia-del-deporte
+
+### Unidades curriculares
+
+https://psico.edu.uy/ensenanza/posgrado/especializacion-en-psicologia-del-deporte

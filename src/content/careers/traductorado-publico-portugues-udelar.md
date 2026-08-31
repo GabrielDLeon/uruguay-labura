@@ -1,0 +1,51 @@
+---
+title: "Traductorado Público Portugués"
+similar:
+  - traductorado-publico-aleman-udelar
+  - traductorado-publico-frances-udelar
+  - traductorado-publico-ingles-udelar
+  - traductorado-publico-italiano-udelar
+  - licenciatura-en-traduccion-um
+  - postgrado-en-traduccion-um
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fder.edu.uy/traductorado"
+location: "Facultad de Derecho"
+description: "A partir del año 2023, se comenzará a implementar gradualmente la Licenciatura en Traducción Pública (en alemán, francés, inglés, italiano y portugués). Para cursar la licenciatura habrá que rendir una prueba de admisión en la lengua elegida. Las competencias adquiridas por el Lic. en Traducción Púb"
+startDate: ""
+applicationDeadline: ""
+credits: 320
+tags:
+  - traduccion
+  - idiomas
+  - letras
+  - lengua-portuguesa
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fder.edu.uy/traductorado'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/traductorado-publico-portugues'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+A partir del año 2023, se comenzará a implementar gradualmente la Licenciatura en Traducción Pública (en alemán, francés, inglés, italiano y portugués). Para cursar la licenciatura habrá que rendir una prueba de admisión en la lengua elegida. Las competencias adquiridas por el Lic. en Traducción Pública, tanto en su lengua materna como en las de su especialización, serán ejercidas en el marco de la legislación vigente y le permitirán: a) desempeñarse como traductor en aquellas áreas en la que se prescriba su actuación; b) fungir como perito intérprete judicial, y c) utilizar las herramientas informáticas más recientes para desarrollar su profesión de manera solvente.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Ver requisitos: https://www.fder.edu.uy/bedelia/futuros-estudiantes#requisitos Adicionalmente aprobar las pruebas de suficiencia en idioma extranjero.

@@ -1,0 +1,68 @@
+---
+title: "Especialización en Derecho Financiero con Enfásis en Derecho Tributario"
+similar:
+  - master-en-tributacion-um
+  - tributaria-maestria-udelar
+  - derecho-comercial-especializacion-udelar
+  - postgrado-en-tributacion-nacional-um
+  - derecho-orientancion-derecho-comercial-maestria-udelar
+  - master-en-impuestos-y-fiscalidad-internacional-ort
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=94"
+location: "Facultad de Derecho"
+description: "Los objetivos específicos de la Especialización en Derecho Financiero se dirigen a laformación de especialistas que puedan cumplir funciones en el ámbito público yprivado y en el ámbito jurisdiccional.Se propone otorgar a los diplomados la información, capacitación y la formación quecontribuyan a satisfacer las demandas del campo de acción profesional en el ámbitodel Derecho Tributario, tanto en atención a la Administración como a las empresaspúblicas y"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - derecho
+  - derecho-financiero
+  - derecho-tributario
+  - tributacion
+  - finanzas
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=94'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=14&idPosgrado=94'
+---
+
+## Resumen
+
+### Objetivo
+
+Los objetivos específicos de la Especialización en Derecho Financiero se dirigen a la formación de especialistas que puedan cumplir funciones en el ámbito público y privado y en el ámbito jurisdiccional. Se propone otorgar a los diplomados la información, capacitación y la formación que contribuyan a satisfacer las demandas del campo de acción profesional en el ámbito del Derecho Tributario, tanto en atención a la Administración como a las empresas públicas y privadas y a todos los actores sociales involucrados.
+
+### Referentes académicos
+
+Prof. Dra. Addy Mazz / Prof. Dr. Juan Manuel Albacete
+
+### Docentes
+
+Dra. Addy Mazz Dr. Andrés Blanco Dr. Miguel Pezzutti Dr. Juan Albacete Dr. César Pérez Novaro Dr. Oscar Sarlo Dr. Horacio Rau
+
+## Ingreso
+
+### Reglamento
+
+En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. La instancia de evaluación en cada asignatura será de monografía, examen o prueba en Plataforma EVA.
+
+### Requisitos de Ingreso
+
+Por mas información https://www.fder.edu.uy/node/90
+
+## Plan de Estudio
+
+### Unidades curriculares
+
+Asignaturas de la carrera: Derecho tributario material I Derecho tributario material II Teorías económicas generales y finanzas públicas Metodología de la investigación Derecho tributario formal Imposición indirecta Imposición a las rentas Contribuciones especiales a la seguridad social Derecho fiscal internacional Derecho tributario sancionatorio y penal

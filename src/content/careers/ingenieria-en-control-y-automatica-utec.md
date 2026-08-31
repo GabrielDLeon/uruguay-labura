@@ -1,0 +1,97 @@
+---
+title: "Ingeniería en Control y Automática"
+short: "Ing. en Control y Automática"
+similar:
+  - ingenieria-en-mecatronica-utec
+  - tecnologo-en-mecatronica-industrial-utec
+  - tecnologo-en-mecatronica-utec
+  - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-mecanica-maestria-udelar
+  - ingenieria-en-electronica-ort
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "ingenieria"
+area: "Mecatrónica, Logística y Biomédica"
+modality: "presencial"
+shift: "night"
+weeklyHours: "No informada"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-control-y-automatica/"
+contactEmail: "secretaria.ica@utec.edu.uy"
+location: "Rivera (ITR Norte)"
+accreditation: "UTEC"
+description: "Ingeniería gratuita en Control y Automática de UTEC, presencial en turno nocturno en Rivera. Integra mecánica, electrónica, control e informática para la automatización industrial. Título intermedio de Tecnólogo en Mecatrónica Industrial."
+tags:
+  - mecatronica
+  - automatizacion
+  - automatizacion-industrial
+  - control-de-procesos
+  - electronica
+  - ingenieria
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Esta ingeniería integra la Mecánica, la Electrónica, el Control y la Informática asociadas a los procesos de **automatización industrial**, con un fuerte componente tecnológico, tanto en el ámbito de la producción como en el resto de la sociedad, que le permitirá insertarse laboralmente en los contextos productivos de Brasil (título intermedio) y Uruguay.
+
+El profesional tendrá además una visión global sobre el sector y los recursos tecnológicos disponibles, una visión prospectiva, espíritu emprendedor, compromiso social y ética profesional.
+
+### Modalidad
+
+La carrera se dicta en **modalidad presencial en turno nocturno**, aproximadamente entre las 17:00 y 23:00, de lunes a viernes (esto podría variar según la cantidad de admitidos a la carrera), en la sede de Rivera.
+
+### Título Intermedio
+
+La titulación intermedia de **Tecnólogo en Mecatrónica Industrial**, que se otorga al culminar los primeros tres años de la carrera, es ofrecida conjuntamente con la Dirección General de Educación Técnico Profesional (DGETP-UTU) y el Instituto Federal de Educación, Ciencia y Tecnología Sul-rio-grandense (IFSUL).
+
+### Competencias del Egresado
+
+Los egresados de esta carrera serán competentes para:
+
+- Instalar y poner en servicio maquinaria automatizada, principalmente en los contextos industriales y de servicio.
+- Realizar el mantenimiento operacional e implementar estrategias para la mejora del rendimiento de las instalaciones y/o maquinaria automatizada.
+- Supervisar y/o participar de proyectos en el área de Mecatrónica.
+
+### Salida Laboral
+
+- Automatización industrial
+- Mantenimiento de maquinaria automatizada
+- Control de procesos industriales
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Podrán ingresar directamente a la carrera los egresados de la Educación Media Superior del Consejo de Educación Secundaria (CES) y de la Dirección General de Educación Técnico Profesional (DGETP-UTU):
+
+1. Egresados del CES de EMS en las orientaciones Social Económica, Físico-Matemática, Matemática y Diseño, Ciencias Biológicas y Ciencias Agrarias (o planes equivalentes).
+2. Egresados de la DGETP-UTU de EMS en EMT o BP de las áreas de: Administración, Aeronáutica, Agrario, Audiovisual, Automatización Industrial, Construcción, Electromecánica, Electromecánica Automotriz, Electrotecnia-Electrónica, Energías Renovables, Informática, Maquinista Naval, Mecánica, Química, Química Industrial, Robótica y Telecomunicaciones, Informática para Internet Integrado, Ciencias Naturales y Tecnología, Termodinámica, y Cursos Integrados (Binacionales) de Electro electrónica, Informática para internet y Energías Renovables.
+3. Los siguientes perfiles son admitidos en caso de que queden cupos sobrantes (si se sobrepasan los cupos, se va a sorteo particular): egresados del CES de EMS de orientaciones no contempladas en el punto 1 y egresados de la DGETP-UTU de EMS en EMT o BP no contemplados en el punto 2.
+4. Otros perfiles de formación no contemplados anteriormente serán abordados por la Coordinación de la Carrera, según lo dispuesto en el artículo 5° del Reglamento General de Estudios.
+
+Podrán inscribirse los **ciudadanos uruguayos y brasileños** que presenten la documentación correspondiente.
+
+### Proceso de Preinscripción
+
+**Ciudadanos uruguayos con EMS completa cursada en Uruguay:**
+
+- Documento de identidad
+- Constancia de egreso del DGETP-UTU o Fórmula 69A del CES
+- Carné de salud vigente o constancia de inicio del trámite
+- Carta de motivación
+- Constancia de voto
+
+**Ciudadanos brasileños egresados de Cursos Binacionales que completaron EMS:**
+
+- Certificado de egreso de educación media (Certificado de conclusão do Ensino Médio)
+- Título binacional o constancia de inicio del trámite
+- Documento de identidad (Registro Geral - RG) y Documento Especial Fronterizo o constancia de inicio en trámite
+
+Las preinscripciones a las carreras de grado de UTEC inician generalmente en el mes de noviembre y se realizan a través de un formulario web. En el caso de aquellas carreras que no poseen límite de cupos para el ingreso o cuyos cupos no son superados en el primer período de preinscripciones, se abre una nueva instancia en el período enero-febrero.

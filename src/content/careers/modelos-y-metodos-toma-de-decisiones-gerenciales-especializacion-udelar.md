@@ -1,0 +1,54 @@
+---
+title: "Especialización en Modelos y Métodos Toma de Decisiones Gerenciales"
+similar:
+  - postgrado-liderazgo-y-toma-de-decisiones-ude
+  - diploma-en-metodos-de-investigacion-y-analisis-de-datos-ucu
+  - licenciatura-en-gestion-agropecuaria-ude
+  - emba-executive-mba-semipresencial-ort
+  - licenciatura-en-business-analytics-ucu
+  - gerencia-y-administracion-mba-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=58"
+location: "Facultad de Ingeniería, Montevideo"
+description: "El Diploma de Especialización en Modelos y Métodos para Toma de DecisionesGerenciales se dirige a profesionales interesados en la temática, que deseenespecializarse en la toma de decisiones. La formación de grado en general encaraaspectos técnicos y la solución de problemas de cada área específica."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - toma-de-decisiones
+  - administracion
+  - negocios
+  - habilidades-gerenciales
+  - direccion-de-empresas
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=58'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=58'
+---
+
+## Resumen
+
+### Objetivo
+
+El Diploma de Especialización en Modelos y Métodos para Toma de Decisiones Gerenciales se dirige a profesionales interesados en la temática, que deseen especializarse en la toma de decisiones. La formación de grado en general encara aspectos técnicos y la solución de problemas de cada área específica. En este diploma se busca complementar esta formación básica, brindando los elementos necesarios para el modelado de problemas y la toma de decisiones fundamentada. Este diploma tiene como objetivos brindar una formación específica en el modelado de situaciones concretas, la búsqueda de alternativas para estas y la toma de decisiones fundamentada, basándose en áreas de conocimiento como el Pensamiento Sistémico, los Métodos Cuantitativos Gerenciales, la Simulación, la Planificación Estratégica entre otras.
+
+### Perfil de egreso
+
+El egresado adquirirá la capacidad de aplicar con profundidad y solvencia en su actividad profesional los temas de estudio incluidos en el diploma; asimismo, adquirirá los elementos metodológicos que junto con la capacidad de abordar bibliografía especializada, le permitan comprender y emplear las nuevas tecnologías para la resolución de problemas relativos al Modelado y la Toma de decisiones gerenciales en su actividad profesional. Se espera que el egresado de este diploma tenga la capacidad para: Abstraer y estructurar los procesos de toma de decisiones en organizaciones, de manera de poder abordarlos de una manera sistemática. Identificar, seleccionar y aplicar los métodos más apropiados para el apoyo a la toma de decisiones. Entender y aplicar modelos que puedan emplearse como herramientas de apoyo. Dominar la tecnología necesaria para aplicar modelos implementados en paquetes de software y procesar los datos que los mismos requieren. Mantenerse actualizado en la bibliografía referente a los puntos anteriores
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+No hay incripciones abiertas

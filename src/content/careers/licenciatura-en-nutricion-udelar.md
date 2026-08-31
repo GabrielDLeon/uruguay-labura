@@ -1,0 +1,50 @@
+---
+title: "Licenciatura en Nutrición"
+similar:
+  - especialidad-en-nutricion-en-enfermedades-cronicas-no-transmisibles-especializacion-udelar
+  - maestria-en-nutricion-ucu
+  - licenciatura-en-nutricion-ucu
+  - gastroenterologia-hepatologia-y-nutricion-pediatrica-especializacion-udelar
+  - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
+  - salud-familiar-y-comunitaria-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.nutricion.edu.uy/?page_id=654"
+location: "Escuela de Nutrición"
+description: "Es un profesional capaz de evaluar el estado nutricional de la población a nivel colectivo e individual, administrar programas de alimentación, nutrición y educación, realizar investigación en estas áreas, e integrarse a equipos multiprofesionales para incidir significativamente en la situación alim"
+startDate: ""
+applicationDeadline: ""
+credits: 360
+tags:
+  - nutricion
+  - alimentacion
+  - salud-publica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.nutricion.edu.uy/?page_id=654'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-nutricion'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es un profesional capaz de evaluar el estado nutricional de la población a nivel colectivo e individual, administrar programas de alimentación, nutrición y educación, realizar investigación en estas áreas, e integrarse a equipos multiprofesionales para incidir significativamente en la situación alimentario nutricional mediante acciones de prevención, promoción y atención. Dos grandes aspectos son motivo de preocupación: dar respuesta institucional a la situación alimentario-nutricional que afecta al país y, por otro lado, formar un profesional capaz de instalarse en esa realidad para transformarla. Se dicta en Montevideo. En el Centro Universitario Regional Litoral Norte, sede Paysandú, se puede hacer el Ciclo IV "Desempeño Profesional" este ciclo forma parte del área de formación Práctico-investigativo y corresponde al último año de la carrera, conformado por la Práctica Profesional (PP) y el Trabajo Final de Grado (TFG).
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, orientación Biológica o Bachillerato Tecnológico (DGETP-UTU) en Gastronomía o Deporte y Recreación.

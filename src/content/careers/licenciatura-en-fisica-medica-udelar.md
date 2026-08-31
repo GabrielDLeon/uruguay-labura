@@ -1,0 +1,52 @@
+---
+title: "Licenciatura en Física Médica"
+similar:
+  - licenciatura-en-imagenologia-udelar
+  - tecnicatura-en-radioterapia-udelar
+  - tecnicatura-en-radioisotopos-udelar
+  - licenciatura-en-fisica-udelar
+  - fisica-especializacion-udelar
+  - fisica-doctorado-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "http://medicanew.fisica.edu.uy/licenciatura/"
+location: "Facultad de Ciencias"
+description: "Debe estar capacitado para trabajar en el ambiente hospitalario, en ámbitos de aplicación de tecnologías de Diagnóstico y Tratamiento Especializados que utilicen agentes físicos (Rayos X, otras radiaciones ionizantes, láser, ultrasonido, PET y RMN, etc.); la programación, planificación y puesta en m"
+startDate: ""
+applicationDeadline: ""
+credits: 360
+tags:
+  - fisica
+  - fisica-medica
+  - medicina-nuclear
+  - radiologia
+  - tecnologia-medica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'http://medicanew.fisica.edu.uy/licenciatura/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-fisica-medica'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Debe estar capacitado para trabajar en el ambiente hospitalario, en ámbitos de aplicación de tecnologías de Diagnóstico y Tratamiento Especializados que utilicen agentes físicos (Rayos X, otras radiaciones ionizantes, láser, ultrasonido, PET y RMN, etc.); la programación, planificación y puesta en marcha de programas de protección de trabajadores, usuarios y comunidad, en relación a las normas internacionales y riesgos implicados en tales tecnologías. Carrera compartida con las facultades de Ciencias y Medicina. Inscripciones en Facultad de Ciencias.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, con una matemática en el último año. Bachillerato técnico (DGETP-UTU) en Mecánica Automotriz, Mecánica General, Electrónica o Electrotecnia. Un año o 90 créditos aprobados en el Profesorado del IPA en Astronomía, Física o Matemática. Se acepta la inscripción condicional de estudiantes con una materia previa (fórmula 69B), la que deberá ser aprobada en el período de abril.

@@ -1,0 +1,137 @@
+# Master en Inteligencia Artificial
+
+## Metadata
+
+- Nombre oficial: Master en Inteligencia Artificial
+- Tipo: Maestría
+- Área: Ingeniería
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: Nocturno
+- Duración: 2 años
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Ingreso directo (no requiere sorteo ni proceso de selección).
+- Requisitos de ingreso: Poseer título universitario. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los graduados El perfil del graduado está orientado a profesionales con formación universitaria previa, principalmente en áreas tecnológicas. Estos graduados adquirirán conocimientos avanzados en inteligencia artificial que les permitirán enfrentar los desafíos técnicos y éticos del diseño y desarrollo de sistemas inteligentes. Características clave del perfil del graduado: Dominio conceptual y tecnológico: Los graduados obtendrán una comprensión profunda de los modelos matemáticos y las herramientas computacionales que forman la base de la inteligencia artificial moderna. Esto incluye técnicas de machine learning, deep learning y sistemas multiagente. Aplicación práctica: Serán capaces de aplicar estos conocimientos para diseñar y desarrollar sistemas inteligentes que pueden ser utilizados en diversas industrias, como la salud, finanzas, ciberseguridad y la industria automotriz, aportando soluciones innovadoras. Capacidad de liderazgo: Podrán desempeñar roles de liderazgo en proyectos de inteligencia artificial, aportando valor agregado en la elaboración, ejecución y dirección de estos. Ética y responsabilidad social: Se enfatiza la importancia de que los graduados apliquen principios éticos en su trabajo, desarrollando soluciones de inteligencia artificial que sean responsables, transparentes y verificables, reconociendo el impacto que estas tecnologías tienen en aspectos como la privacidad, la justicia y los derechos humanos. Este perfil busca formar profesionales que no solo dominen las técnicas avanzadas de IA, sino que también sean conscientes del impacto social y ético de su trabajo.
+- Salida laboral: Perfil de los graduados El perfil del graduado está orientado a profesionales con formación universitaria previa, principalmente en áreas tecnológicas. Estos graduados adquirirán conocimientos avanzados en inteligencia artificial que les permitirán enfrentar los desafíos técnicos y éticos del diseño y desarrollo de sistemas inteligentes. Características clave del perfil del graduado: Dominio conceptual y tecnológico: Los graduados obtendrán una comprensión profunda de los modelos matemáticos y las herramientas computacionales que forman la base de la inteligencia artificial moderna. Esto incluye técnicas de machine learning, deep learning y sistemas multiagente. Aplicación práctica: Serán capaces de aplicar estos conocimientos para diseñar y desarrollar sistemas inteligentes que pueden ser utilizados en diversas industrias, como la salud, finanzas, ciberseguridad y la industria automotriz, aportando soluciones innovadoras. Capacidad de liderazgo: Podrán desempeñar roles de liderazgo en proyectos de inteligencia artificial, aportando valor agregado en la elaboración, ejecución y dirección de estos. Ética y responsabilidad social: Se enfatiza la importancia de que los graduados apliquen principios éticos en su trabajo, desarrollando soluciones de inteligencia artificial que sean responsables, transparentes y verificables, reconociendo el impacto que estas tecnologías tienen en aspectos como la privacidad, la justicia y los derechos humanos. Este perfil busca formar profesionales que no solo dominen las técnicas avanzadas de IA, sino que también sean conscientes del impacto social y ético de su trabajo.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante. La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+- Página oficial: https://fi.ort.edu.uy/master-en-inteligencia-artificial
+
+## Resumen
+
+Forma profesionales especializados en inteligencia artificial, centrados en desarrollar sistemas autónomos para resolver problemas complejos.
+
+- Formación integral en tecnologías de vanguardia de IA
+- Flexibilidad para especializarte en áreas emergentes de IA
+- Oportunidades de investigación aplicada y proyectos innovadores
+- Proporcionar una formación sólida en inteligencia artificial moderna, que incluya tanto fundamentos teóricos como aplicaciones prácticas de aprendizaje automático, deep learning y sistemas multiagente.
+- Dotar a los estudiantes de herramientas para implementar soluciones basadas en IA en sectores productivos y sociales, siempre dentro de un marco ético que garantice transparencia, verificabilidad y responsabilidad en el desarrollo de estas tecnologías.
+
+El Master en Inteligencia Artificial tiene como objetivo formar profesionales altamente capacitados en técnicas avanzadas de IA, con un enfoque en el desarrollo de sistemas autónomos que puedan resolver problemas complejos en diversos sectores, como la salud, finanzas, ciberseguridad y la industria automotriz, entre otros. Se trata de una maestría profesional diseñada para satisfacer la creciente demanda de expertos en inteligencia artificial, una tecnología en constante expansión.
+
+Objetivos
+
+Pertinencia de la carrera
+
+La creciente adopción de la IA a nivel global, y especialmente en América Latina, está generando una alta demanda de profesionales capacitados en esta área. En 2023, el 55 % de las organizaciones globales ya usaban IA en sus operaciones, cifra que aumenta a un 67 % en América Latina.
+
+Sin embargo, existe una importante brecha de talento en el mercado, lo que impulsa a las empresas a invertir en la formación de sus equipos. El Master responde a esta necesidad proporcionando un programa educativo que combina teoría y práctica, preparado para adaptar el currículum a los avances tecnológicos.
+
+Este programa está diseñado para quienes ya poseen una formación universitaria en áreas tecnológicas y buscan especializarse en inteligencia artificial, enfrentando los desafíos técnicos y éticos que esta tecnología presenta en su integración en la sociedad.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### Semestre 1
+
+
+**Agentes inteligentes**
+
+Esta materia presenta una introducción al problema de desarrollar agentes inteligentes que interactúan a lo largo del tiempo con un entorno, percibido de manera aproximada. Estos deben aprender a tomar acciones que modifican el ambiente guiados por una función de utilidad a maximizar. Se estudian los fundamentos del aprendizaje por refuerzos como enfoque computacional para resolver el problema planteado. Se utiliza el marco formal de los procesos de decisión de Márkov para definir la interacción entre un agente y su entorno en términos de estados, acciones y recompensas. Este marco permite modelar relaciones de causa y efecto, la incertidumbre y el no determinismo, y utilidades numéricas explícitas.
+
+**Taller de inteligencia artificial**
+
+El objetivo de este taller es aplicar los conocimientos adquiridos en casos de estudio prácticos. Se utilizarán herramientas basadas en Python, en particular OpenAI.
+
+**Machine learning para inteligencia artificial**
+
+El objetivo de este curso es presentar los fundamentos teóricos del aprendizaje estadístico (o statistical learning theory) y los paradigmas algorítmicos que se derivan de estos. Mediante un enfoque teórico-práctico se guía al estudiante en el desarrollo de sistemas de inteligencia artificial con el fin de resolver problemas mediante aprendizaje automático (o machine learning) en diferentes áreas de aplicación.
+
+### Semestre 2
+
+
+**Modelos de deep learning**
+
+Uno de los problemas fundamentales en aprendizaje automático es la representación del conocimiento. Las técnicas y modelos de aprendizaje profundo constituyen un paradigma cuyo factor central es la representación de modelos complejos mediante la composición de representaciones más simples. Esta materia presenta los modelos fundamentales de aprendizaje profundo, en particular, diferentes tipos de redes neuronales, enfocándose principalmente en los aspectos teóricos de estos modelos.
+
+**Taller de deep learning**
+
+El objetivo de este taller es experimentar con herramientas de deep learning para resolver problemas de procesamiento de lenguaje natural, reconocimiento de patrones en imágenes, diagnóstico médico, detección de spam, etc. Se utilizarán herramientas basadas en Python.
+
+**Inteligencia artificial generativa**
+
+Este curso es una introducción al campo de la inteligencia artificial orientada al desarrollo y aplicación de algoritmos y modelos que tienen la capacidad de generar contenidos de forma autónoma. La materia se basa en una metodología hands-on que motiva a explorar diversas técnicas y enfoques utilizados en la IA generativa, proporcionando una base sólida para comprender y aplicar estos conceptos en proyectos de la vida real.
+
+## 2º año
+
+
+### Semestre 3
+
+
+**Electiva**
+
+Los estudiantes completan su formación seleccionando tres asignaturas electivas para profundizar y expandir sus conocimientos técnicos en diversos aspectos del desarrollo y la aplicación responsable de sistemas de inteligencia artificial. Las electivas pueden ser: Optimización aplicada al aprendizaje automático Sistemas multiagente Análisis predictivo de series temporales Machine learning en producción Inteligencia artificial responsable Las materias evolucionarán en el tiempo conformemente a los avances científicos y tecnológicos en inteligencia artificial. Teniendo en cuenta que se trata de un área muy dinámica, la Coordinación Académica, junto al equipo docente, realizará una activa vigilancia científico-tecnológica con el objetivo de garantizar la actualización del plan de estudios con respecto al estado del arte.
+
+**Electiva**
+
+Los estudiantes completan su formación seleccionando tres asignaturas electivas para profundizar y expandir sus conocimientos técnicos en diversos aspectos del desarrollo y la aplicación responsable de sistemas de inteligencia artificial. Las electivas pueden ser: Optimización aplicada al aprendizaje automático Sistemas multiagente Análisis predictivo de series temporales Machine learning en producción Inteligencia artificial responsable Las materias evolucionarán en el tiempo conformemente a los avances científicos y tecnológicos en inteligencia artificial. Teniendo en cuenta que se trata de un área muy dinámica, la Coordinación Académica, junto al equipo docente, realizará una activa vigilancia científico-tecnológica con el objetivo de garantizar la actualización del plan de estudios con respecto al estado del arte.
+
+**Electiva**
+
+Los estudiantes completan su formación seleccionando tres asignaturas electivas para profundizar y expandir sus conocimientos técnicos en diversos aspectos del desarrollo y la aplicación responsable de sistemas de inteligencia artificial. Las electivas pueden ser: Optimización aplicada al aprendizaje automático Sistemas multiagente Análisis predictivo de series temporales Machine learning en producción Inteligencia artificial responsable Las materias evolucionarán en el tiempo conformemente a los avances científicos y tecnológicos en inteligencia artificial. Teniendo en cuenta que se trata de un área muy dinámica, la Coordinación Académica, junto al equipo docente, realizará una activa vigilancia científico-tecnológica con el objetivo de garantizar la actualización del plan de estudios con respecto al estado del arte.
+
+### Semestre 4
+
+
+**Trabajo final**
+
+El Trabajo final comprende la realización de un proyecto o tesis de investigación aplicada o de innovación científico-técnica en el área de aplicación del Master, poniendo en práctica los conocimientos y habilidades adquiridas.
+
+## Requisitos de ingreso (detalle)
+
+Poseer título universitario. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+El postgrado se dicta en modalidad HyFlex®. Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones se dictan de forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración Duración 2 años. Horarios de clase Nocturno: tres veces por semana entre lunes y jueves de 19:00 a 22:00 horas. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Master en Inteligencia Artificial es un postgrado reconocido por resolución oficial del Ministerio de Educación y Cultura del 4/2/26.
+
+## Requisito de graduación
+
+Para obtener el título de Master en Inteligencia Artificial, los estudiantes deben cumplir con los siguientes requisitos de graduación: Aprobar las asignaturas obligatorias: Los estudiantes deben aprobar las 6 asignaturas obligatorias del plan de estudios. Aprobar las asignaturas electivas: Además, deben aprobar 3 asignaturas electivas seleccionadas del conjunto de materias ofrecidas. Trabajo Final: Los estudiantes deben realizar y aprobar un Trabajo Final, que implica la aplicación de los conocimientos adquiridos a un proyecto concreto relacionado con inteligencia artificial. Este trabajo tiene una carga horaria significativa de 350 horas.
+
+## Becas (detalle)
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://fi.ort.edu.uy/master-en-inteligencia-artificial)
+- [Plan de estudios](https://fi.ort.edu.uy/master-en-inteligencia-artificial/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

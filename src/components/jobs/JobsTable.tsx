@@ -1,10 +1,12 @@
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
+import SaveButton from "@/components/jobs/SaveButton";
+import ShareButton from "@/components/jobs/ShareButton";
+import { formatDateShort, formatRelative } from "@/lib/dates";
+
 import {
   HIDDEN_TAGS,
   MAX_TITLE_LENGTH,
   TAG_LABELS,
-  formatDate,
-  formatRelative,
   shorten,
 } from "@/components/jobs/jobs";
 import type { JobRecord } from "@/types/jobs";
@@ -24,14 +26,16 @@ export default function JobsTable({ jobs }: Props) {
             <col className="w-78" />
             <col className="w-28" />
             <col className="w-28" />
+            <col className="w-20" />
           </colgroup>
           <thead>
             <tr>
               <th>Llamado</th>
-              <th>Titulo</th>
+              <th>Título</th>
               <th>Tags</th>
               <th>Apertura</th>
               <th>Cierre</th>
+              <th className="text-center"><span className="sr-only">Acciones</span></th>
             </tr>
           </thead>
           <tbody>
@@ -52,7 +56,7 @@ export default function JobsTable({ jobs }: Props) {
                 className="cursor-pointer hover:bg-[var(--muted)]"
               >
                 <td className="whitespace-nowrap">
-                  <span className="badge-outline inline-flex items-center">
+                  <span className="badge inline-flex items-center" data-variant="outline">
                     {job.callNumber}
                   </span>
                 </td>
@@ -78,20 +82,35 @@ export default function JobsTable({ jobs }: Props) {
                 >
                   <span className="inline-flex gap-1">
                     {job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((tag) => (
-                      <span key={tag} className="badge-outline text-xs">
+                      <span key={tag} className="badge text-xs" data-variant="outline">
                         {TAG_LABELS[tag] ?? tag}
                       </span>
                     ))}
                   </span>
                 </td>
                 <td className="whitespace-nowrap">
-                  {formatDate(job.openingDate)}
+                  {formatDateShort(job.openingDate)}
                 </td>
                 <td
                   className="whitespace-nowrap"
                   title={formatRelative(job.closingDate)?.title}
                 >
                   {formatRelative(job.closingDate)?.label ?? "-"}
+                </td>
+                <td className="whitespace-nowrap">
+                  <span
+                    className="inline-flex items-center gap-0.5"
+                    onClick={(e) => e.stopPropagation()}
+                    onKeyDown={(e) => e.stopPropagation()}
+                    role="toolbar"
+                    aria-label="Acciones"
+                  >
+                    <SaveButton jobId={job.id} />
+                    <ShareButton
+                      url={job.applyUrl ?? job.detailUrl}
+                      title={job.title}
+                    />
+                  </span>
                 </td>
               </tr>
             ))}

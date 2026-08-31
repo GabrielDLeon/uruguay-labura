@@ -1,0 +1,50 @@
+---
+title: "Curso de Guardavidas"
+similar:
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - tecnicatura-en-deportes-udelar
+  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - maestria-en-psicologia-de-la-salud-y-deporte-ucu
+  - educacion-fisica-maestria-udelar
+  - licenciatura-en-educacion-fisica-rivera-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnicatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Gratuita"
+language: "Español"
+website: "https://udelar.edu.uy/carrerasinterior/curso-de-guardavidas/"
+location: "Maldonado"
+description: "El Curso de Guardavidas propone la formación de un profesional responsable de la prevención, auxilio y rescate necesarios en todos las \"espejos de agua naturales (océanos, ríos, lagos etc.) y artificiales (piscinas, parques acuáticos etc.) habilitadas o no para su uso recreativo o deportivo\"."
+startDate: ""
+applicationDeadline: ""
+credits: 61
+tags:
+  - deporte
+  - salvamento-acuatico
+  - seguridad-acuatica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://udelar.edu.uy/carrerasinterior/curso-de-guardavidas/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/curso-de-guardavidas'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Curso de Guardavidas propone la formación de un profesional responsable de la prevención, auxilio y rescate necesarios en todos las "espejos de agua naturales (océanos, ríos, lagos etc.) y artificiales (piscinas, parques acuáticos etc.) habilitadas o no para su uso recreativo o deportivo". Aprobado el ciclo de estudios, se otorgará el Diploma Oficial de Guardavidas habilitante para ejercer la profesión tanto en la órbita privada como pública en todo el territorio nacional.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Bachillerato Diversificado - Cualquier orientación. - Cédula de Identidad (vigente y en buen estado) original y fotocopia. - 1 foto carné. - Carné de salud vigente (habilitado por el MSP). - Credencial Cívica, fotocopia. - Certificado de Estudios: Secundaria Fórmula 69 o 69A /Ficha acumulativa del Consejo de Educación Técnico Profesional (DGETP-UTU) Atención: El curso pasó a ser Tecnicatura. Ampliar información: https://isef.udelar.edu.uy/ensenanza/curso-de-guardavidas-2/

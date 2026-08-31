@@ -1,0 +1,67 @@
+---
+title: "Especialización en Enseñanza de Lenguas – Mención Español Como Lengua Extranjera o Portugués Como Lengua Extranjera"
+similar:
+  - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
+  - gramatica-del-espanol-se-dicta-en-convenio-anep-udelar-maestria-udelar
+  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
+  - ensenanza-de-lenguas-extranjeras-maestria-udelar
+  - traductorado-publico-portugues-udelar
+  - licenciatura-en-traduccion-um
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=96"
+location: "Facultad de Humanidades y Ciencias de la Educación"
+description: "Brindar una formación específica de posgrado en el área de español lengua extranjera sustentada en la reflexión crítica y la investigación"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - educacion
+  - ensenanza-de-lenguas
+  - lengua-espanola
+  - lengua-portuguesa
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=96'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=96'
+---
+
+## Resumen
+
+### Objetivo
+
+Brindar una formación específica de posgrado en el área de español lengua extranjera sustentada en la reflexión crítica y la investigación
+
+### Perfil de egreso
+
+Diplomado en enseñanza de español como lengua extranjera
+
+### Referentes académicos
+
+Dra. Laura Masello
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Podrán ser candidatos a ingresar: -Licenciados en Lingüística o Letras o Ciencias de la Comunicación -Egresados de Profesorados en lenguas extranjeras, Idioma Español o Literatura -Maestros. Se priorizará la selección de quienes trabajen como docentes en el área y/o tengan antecedentes de investigación en la temática. Se recomienda acreditar conocimiento en otra lengua. Los inscriptos extranjeros cuyo título de grado no sea específico del área Español, deberán aprobar un examen de desempeño lingüístico de nivel superior o su equivalente mediante presentación del certificado correspondiente. Se aceptarán hasta 25 estudiantes, de modo de poder asegurar un seguimiento adecuado del trabajo en las prácticas y del trabajo final.
+
+## Plan de Estudio
+
+### Programa
+
+La propuesta está diseñada en torno a tres ejes organizativos: a) Aspectos didáctico-metodológicos. En esta área se ofrece la posibilidad de cursar materias teórico-prácticas sobre la didáctica especial de la lengua; comprende también la instrumentación de la práctica docente. b) Aspectos socioculturales. c) Aspectos relacionados con la investigación mediante el cursado de la materia específica y el seguimiento a través de tutorías del trabajo final realizado a partir de la investigación sobre la propia práctica.
+
+### Unidades curriculares
+
+Para obtener el Diploma de Especialización deberán cumplirse los siguientes requisitos: 1. aprobación de los cursos y seminarios; 2. aprobación de un trabajo final; 3. asistencia al 80% de las clases dictadas en cada curso o seminario Al inicio de cada curso o seminario del Diploma, el profesor pondrá en conocimiento de los cursantes el programa y la bibliografía general y específica para el mismo e indicará los criterios de evaluación para su aprobación. El trabajo final, de carácter individual, consistirá en el diseño de un proyecto de investigación y deberá demostrar destreza en el manejo conceptual y metodológico respecto de problemas específicos de la formación lograda en el cursado del Diploma. El período para la presentación del trabajo final será de seis meses y se computará a partir de la fecha correspondiente al último curso ofrecido.

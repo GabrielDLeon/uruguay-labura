@@ -1,0 +1,71 @@
+---
+title: "Especialización en Didáctica para Enseñanza Media"
+similar:
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - ensenanza-de-lenguas-extranjeras-especializacion-udelar
+  - ensenanza-de-lenguas-extranjeras-maestria-udelar
+  - quimica-orientacion-educacion-en-quimica-doctorado-udelar
+  - quimica-orientacion-educacion-en-quimica-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=99"
+location: "Convenio A.N.E.P.- UdelaR, Montevideo"
+description: "Propuesta pertinente y muy adecuada para el proceso de Formación Permanente de los docentes de Enseñanza Media."
+startDate: ""
+applicationDeadline: "IPES- Asilo 3255, Montevideo"
+tags:
+  - educacion
+  - didactica
+  - educacion-media
+  - formacion-docente
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=99'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=51&idPosgrado=99'
+---
+
+## Resumen
+
+### Objetivo
+
+Propuesta pertinente y muy adecuada para el proceso de Formación Permanente de los docentes de Enseñanza Media.
+
+### Perfil de egreso
+
+La Especialización aspira a constituirse en una mediación adecuada para el proceso de formación de los profesores adscriptores y profesores de didáctica
+
+### Docentes
+
+Coordinadora Alejandra Yoldi Docentes: Magdalena Scotti, Mónica Franco, Margarita Luaces, Fernando Pesce, Dinorah Motta De Souza, Claudia Cabrera, Adriana Durquet
+
+## Ingreso
+
+### Reglamento
+
+El Reglamento se encuentra enla página web del IPES ipes.cfe.edu.uy en la pestaña de Posgrados
+
+### Requisitos de Ingreso
+
+Docentes de Educación Pública de Enseñanza Media de todo el país
+
+## Plan de Estudio
+
+### Programa
+
+Estructura de la Propuesta Curricular a - Núcleo Común b - Núcleo Específico de Educación Media c - Electiva d -Tesis y Tesina
+
+### Unidades curriculares
+
+PRIMER SEMESTRE Núcleo Común Instituciones Educativas Teoría Curricular Docencia y Profesionalización Núcleo Específico de Educación Media Teoría y Metodología de la Enseñanza Tendencias didácticas actuales Modelos de investigación didáctica SEGUNDO SEMESTRE Núcleo Común Teoría del Aprendizaje Núcleo Específico de Educación Media Teoría y metodología de la Enseñanza Herramientas conceptuales para el análisis de práctica Taller de investigación Epistemología e Historia de las Ciencias Didáctica Específica 1 TERCER SEMESTRE Núcleo Específico de Educación Media Didáctica Específica 2 Específica 3 Específica 4 Electiva Tesina CUARTO SEMESTRE Núcleo Específico de Educación Media Teoría y metodología de la enseñanza Problemas lingüísticos en el aula Didáctica Específica 5 Problemáticas específicas de la disciplina Análisis de la práctica + pasantía Tesis

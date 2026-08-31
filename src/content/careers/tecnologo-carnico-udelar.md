@@ -1,0 +1,51 @@
+---
+title: "Tecnólogo Cárnico"
+similar:
+  - industria-carnica-especializacion-udelar
+  - ingenieria-de-alimentos-udelar
+  - tecnico-en-procesos-y-analisis-quimico-utec
+  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
+  - tecnologo-industrial-mecanico-udelar
+  - ingenieria-de-produccion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnologo"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "3 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.tacuarembo.udelar.edu.uy/tecnologo-carnico/"
+location: "Tacuarembó"
+description: "El egresado estará capacitado para interactuar con otros profesionales en las tareas de implementación, supervisión, monitoreo y/o ejecución de los procesos de transformación de la materia prima en la industria cárnica."
+startDate: ""
+applicationDeadline: ""
+credits: 262
+tags:
+  - carnes
+  - industria-alimentaria
+  - tecnologia-de-alimentos
+  - procesos-industriales
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.tacuarembo.udelar.edu.uy/tecnologo-carnico/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnologo-carnico'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El egresado estará capacitado para interactuar con otros profesionales en las tareas de implementación, supervisión, monitoreo y/o ejecución de los procesos de transformación de la materia prima en la industria cárnica.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Se dicta en la Escuela Agraria de Tacuarembó, en conjunto con las facultades de Agronomía, Ingeniería, Química, Veterinaria y CETP-UTU.

@@ -1,0 +1,63 @@
+---
+title: "Especialización en Enseñanza Universitaria"
+similar:
+  - ensenanza-universitaria-maestria-udelar
+  - especializacion-en-educacion-superior-tecnologica-profesional-utec
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - licenciatura-en-educacion-ucu
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=89"
+location: "Facultad de Humanidades y Ciencias de la Educación"
+description: "Su objetivo primordial es formar investigadores en el área de la pedagogía y ladidáctica universitaria, entendida como un campo de conocimiento multidisciplinar, enel que se entrecruzan las disciplinas y no se disocian los contenidos del campoprofesional, haciendo referencia al componente epistemológico propio de cadadisciplina.Las líneas de investigación del posgrado comprenden las temáticas de políticas deenseñanza superior, didáctica universitaria y"
+startDate: ""
+applicationDeadline: "Facultad de Humanidades"
+tags:
+  - educacion
+  - educacion-superior
+  - pedagogia
+  - didactica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=89'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=89'
+---
+
+## Resumen
+
+### Objetivo
+
+Su objetivo primordial es formar investigadores en el área de la pedagogía y la didáctica universitaria, entendida como un campo de conocimiento multidisciplinar, en el que se entrecruzan las disciplinas y no se disocian los contenidos del campo profesional, haciendo referencia al componente epistemológico propio de cada disciplina. Las líneas de investigación del posgrado comprenden las temáticas de políticas de enseñanza superior, didáctica universitaria y problemas de enseñanza.
+
+### Docentes
+
+Prof. Mercedes Collazo (Coordinadora académica) El posgrado cuenta con un vasto plantel docente, nacional y regional, con sólida trayectoria en las áreas temáticas centrales, Universidad y Educación; y se respalda en programas de investigación y posgrado de universidades de la región (Universidad de Buenos Aires, Universidad Federal de Río Grande del Sur, Universidad de Pelotas, etc.). La dirección académica está a cargo del Área Social y de la CSE. La Facultad de Humanidades y Ciencias de la Educación es responsable de su administración.
+
+## Ingreso
+
+### Reglamento
+
+Ver página: Cse Udelar
+
+### Requisitos de Ingreso
+
+1. Cualquier persona que posea cualquier título de grado (incluidas reválidas) 2. Cualquier persona que sea egresada de alguna carrera de grado del área de conocimiento del posgrado 3. Cualquier persona que sea egresada de la carrera de grado asociada al posgrado (incluida la reválida de la carrera de grado asociada)
+
+## Plan de Estudio
+
+### Programa
+
+El programa de Especialización en enseñanza Universitaria exige la aprobación de cursos y seminarios y la presentación de un trabajo monográfico. Estructura del Programa a) un eje de formación teórica con dos áreas temáticas centrales, Universidad y Educación; b) un eje de formación metodológica que comprende aspectos epistemológicos e instrumentales de la investigación científica, así como un abordaje de la investigación educativa propiamente dicha, a través del Seminario de Tesis. El diseño curricular se concibe de forma flexible, con asignaturas obligatorias, opcionales y electivas, así como una estructura diversificada de cursado que culmina en la obtención de dos títulos: Diploma (1 año) y Magíster (2 años). Se contempla, asimismo, la posibilidad de acreditar cursos en temáticas afines realizados en otros programas de similar nivel.

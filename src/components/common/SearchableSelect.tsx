@@ -93,23 +93,32 @@ export default function SearchableSelect({
     <div id={id} className="select relative" ref={rootRef}>
       <button
         type="button"
-        className="btn-outline flex w-full items-center justify-between"
+        className="flex w-full items-center justify-between"
         aria-haspopup="listbox"
         aria-expanded={open}
         aria-controls={`${id}-listbox`}
         onClick={() => setOpen((current) => !current)}
       >
         <span className="truncate">{selected?.label ?? allLabel}</span>
-        <span className="text-muted-foreground text-xs">v</span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          className="lucide lucide-chevron-down shrink-0"
+        >
+          <path d="m6 9 6 6 6-6" />
+        </svg>
       </button>
 
       {open ? (
-        <div
-          className="bg-background absolute top-full left-0 z-30 mt-1 max-h-80 w-full overflow-hidden rounded-md border"
-          role="dialog"
-          aria-label="Selector"
-        >
-          <header className="border-b p-2">
+        <div data-popover className="absolute top-full left-0 z-30 mt-1 w-full">
+          <header className="border-b px-1 pb-1">
             <input
               ref={searchInputRef}
               type="text"
@@ -125,40 +134,40 @@ export default function SearchableSelect({
           <div
             role="listbox"
             id={`${id}-listbox`}
-            className="max-h-64 overflow-auto p-1"
+            className="max-h-64 overflow-y-auto"
           >
-            <button
-              type="button"
+            <div
               role="option"
+              data-value=""
               aria-selected={value === ""}
-              className="hover:bg-muted w-full rounded-md px-3 py-2 text-left text-sm"
+              className="flex min-w-0 cursor-pointer flex-col items-start gap-0 text-left"
               onClick={() => selectValue("")}
             >
-              {allLabel}
-            </button>
+              <span className="truncate text-sm font-medium">{allLabel}</span>
+            </div>
 
             {filteredOptions.map((option) => (
-              <button
+              <div
                 key={option.value}
-                type="button"
                 role="option"
+                data-value={option.value}
                 aria-selected={value === option.value}
-                className="hover:bg-muted w-full rounded-md px-3 py-2 text-left"
+                className="flex min-w-0 cursor-pointer flex-col items-start gap-0 text-left"
                 onClick={() => selectValue(option.value)}
               >
-                <span className="block truncate text-sm font-medium">
+                <span className="truncate text-sm font-medium">
                   {option.label}
                 </span>
                 {option.description ? (
-                  <span className="text-muted-foreground block truncate text-xs">
+                  <span className="text-muted-foreground truncate text-xs">
                     {option.description}
                   </span>
                 ) : null}
-              </button>
+              </div>
             ))}
 
             {filteredOptions.length === 0 ? (
-              <p className="text-muted-foreground px-3 py-2 text-sm">
+              <p className="px-2 py-6 text-center text-sm text-muted-foreground">
                 Sin resultados
               </p>
             ) : null}

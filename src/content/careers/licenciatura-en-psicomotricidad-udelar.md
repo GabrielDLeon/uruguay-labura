@@ -1,0 +1,51 @@
+---
+title: "Licenciatura en Psicomotricidad"
+similar:
+  - licenciatura-en-psicomotricidad-ucu
+  - diplomado-en-fisioterapia-en-el-deporte-ude
+  - licenciatura-en-psicologia-udelar
+  - licenciatura-en-psicologia-um
+  - licenciatura-en-ciencias-del-comportamiento-ucu
+  - ciencias-cognitivas-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-psicomotricidad"
+location: "Facultad de Medicina; Paysandú"
+description: "Las acciones del Licenciado en Psicomotricidad se llevan a cabo a través de un abordaje educativo o terapéutico con mediación corporal. Considera al cuerpo en sus múltiples dimensiones: neurofisiológicas, como fundamento de la personalidad, como base para la evolución del individuo hacia procesos simbólicos de su desarrollo afectivo y cognitivo y como lugar de expresión y de relación. Según las características de las personas atendidas, utili"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - psicomotricidad
+  - psicologia
+  - neurociencias
+  - educacion
+  - rehabilitacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-psicomotricidad'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-psicomotricidad'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Las acciones del Licenciado en Psicomotricidad se llevan a cabo a través de un abordaje educativo o terapéutico con mediación corporal. Considera al cuerpo en sus múltiples dimensiones: neurofisiológicas, como fundamento de la personalidad, como base para la evolución del individuo hacia procesos simbólicos de su desarrollo afectivo y cognitivo y como lugar de expresión y de relación. Según las características de las personas atendidas, utiliza diferentes técnicas específicas: técnicas instrumentales dirigidas al ejercicio de las funciones psicomotrices; técnicas de impresión y expresión dirigidas a rehábil o estimular el desarrollo psicomotor global del individuo. Se interrelaciona con diferentes tecnólogos (psicólogos, psiquiatras, neuropediatras, pediatras, maestros, fonoaudiólogos, fisioterapeutas, asistentes sociales).
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Se ingresa a través de Prueba de Ingreso según los cupos ofertados por cada carrera. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Inscripción condicional hasta con una asignatura previa a aprobar en el período de exámenes de abril para que la inscripción quede confirmada.

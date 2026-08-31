@@ -1,0 +1,51 @@
+---
+title: "Tecnólogo en Administración y Contabilidad"
+similar:
+  - contabilidad-y-auditoria-maestria-udelar
+  - maestria-en-contabilidad-y-tecnica-tributaria-um
+  - postgrado-en-contabilidad-um
+  - licenciatura-en-direccion-y-administracion-de-empresas-um
+  - administracion-y-economia-del-turismo-maestria-udelar
+  - licenciatura-en-administracion-de-empresas-ude
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnologo"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/ciclo-inicial-optativo-area-social/"
+location: "Colonia; Soriano; Maldonado; Rocha; Tacuarembó; Treinta y Tres"
+description: "Las personas que egresen estarán capacitadas para: acceder a los cargos intermedios de una organización disponiendo de la capacitación específica para colaborar con especialistas en las áreas de administración y contabilidad. colaborar en la determinación y puesta en práctica de las técnicas y proce"
+startDate: ""
+applicationDeadline: ""
+credits: 225
+tags:
+  - administracion
+  - contabilidad
+  - gestion-contable
+  - administracion-de-empresas
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/ciclo-inicial-optativo-area-social/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnologo-en-administracion-y-contabilidad'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Las personas que egresen estarán capacitadas para: acceder a los cargos intermedios de una organización disponiendo de la capacitación específica para colaborar con especialistas en las áreas de administración y contabilidad. colaborar en la determinación y puesta en práctica de las técnicas y procedimientos necesarios que permitan a la dirección superior de la organización establecer los objetivos generales y desarrollar las políticas en las áreas de administración de recursos humanos, comportamiento organizacional, sistemas contables y racionalización. insertarse de forma crítica y proactiva en la organización, acompañando o induciendo la aplicación de técnicas y procedimientos que permitan mejorar la administración de la misma. relevar y sistematizar datos que sirvan de base para el diagnóstico de las organizaciones y diseño de sus sistemas contables. Centro Universitario Regional Este, sedes Maldonado, Rocha, y Treinta y Tres. Mención en Turismo, Gestión ambiental, Salud, Minería. Aclaración: en la ciudad de Minas (Lavalleja) se toman pruebas presenciales de los cursos que se pueden seguir en forma virtual, pero la inscripción a la carrera es en los otros departamentos. Centro Universitario Regional Noreste, sede Tacuarembó. Mención en Agroindustria, Comunicación Organizacional. En las ciudades de Colonia y Soriano, a partir del 2025. Las unidades curriculares que se dictarán en Colonia del Sacramento van a realizarse en el Instituto de Alta Especialización de UTU-DGETP (Andrés Rabufat 1880 esq. Domingo Maggalena) y en el Campus Municipal de Colonia Prof. Alberto Suppici.
+
+## Ingreso
+
+### Información adicional
+
+Los interesados deberán cumplir por lo menos con una de las condiciones que se describen a continuación: 1.Tener aprobado bachillerato por DGES o por DGETP, cualquier orientación. 2.Egresados de las Escuelas Militares Naval, Aeronáutica y del Ejército de acuerdo a los Convenios celebrados. 3.Estudiantes o egresados universitarios que cumplan con lo previsto en los art. 35 y 36 de la Ordenanza de Grado y otros Programas de Formación Terciaria de la Udelar. 4.Estudiantes del CIO del Área Social, que hayan obtenido al menos 60 créditos y 20 créditos correspondientes al Depto. de Métodos Cuantitativos. 5.En caso de que los interesados no configuren alguno de los requisitos enumerados previamente, su ingreso deberá ser aprobado por el Consejo de Facultad, previo asesoramiento de la Com. de Grado de conformidad con el art. 18 numeral 4 de la Ordenanza de Estudios de Grado y Otros Programas de Formación Terciaria, y siempre que se cumpla con lo dispuesto por el art. 34 de dicha Ordenanza.

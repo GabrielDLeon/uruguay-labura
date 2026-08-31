@@ -1,0 +1,52 @@
+---
+title: "Ingeniero Agrónomo"
+similar:
+  - ingeniero-agronomo-ude
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - agronomia-especializacion-udelar
+  - agronomia-maestria-udelar
+  - ciencias-agrarias-maestria-udelar
+  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "ingenieria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/"
+location: "Facultad de Agronomía; Salto"
+description: "Puede definirse al Ingeniero Agrónomo como el profesional universitario preparado para comprender, manejar, mejorar y transformar sistemas de producción agropecuarios con el objeto de servir al bienestar social y al desarrollo nacional sostenido. Se dicta en Montevideo y en el Centro Universitario Regional Litoral Norte, sede Salto (opción: Agrícola-ganadera)."
+startDate: ""
+applicationDeadline: ""
+credits: 450
+tags:
+  - agronomia
+  - agropecuario
+  - produccion-animal
+  - produccion-vegetal
+  - ingenieria-agronomica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/ingeniero-agronomo'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Puede definirse al Ingeniero Agrónomo como el profesional universitario preparado para comprender, manejar, mejorar y transformar sistemas de producción agropecuarios con el objeto de servir al bienestar social y al desarrollo nacional sostenido. Se dicta en Montevideo y en el Centro Universitario Regional Litoral Norte, sede Salto (opción: Agrícola-ganadera).
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, opción Científico o Biológico. Bachillerato Tecnológico Agrario, Química básica e industrial DGETP-UTU.

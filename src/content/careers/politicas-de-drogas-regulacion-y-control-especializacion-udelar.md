@@ -1,0 +1,64 @@
+---
+title: "Especialización en Políticas de Drogas, Regulación y Control"
+similar:
+  - penalidad-juvenil-especializacion-udelar
+  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
+  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
+  - maestria-y-en-politicas-publicas-maestria-udelar
+  - afrodescendencia-y-politicas-publicas-especializacion-udelar
+  - genero-y-politicas-publicas-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=47"
+location: "Facultad de Ciencias Sociales"
+description: "Constituye una propuesta de formación de posgrado inscripta en las actividades deenseñanza del Proyecto I+D «Programa de estudio sobre control socio jurídico deinfancia y adolescencia en Uruguay. Estudios sobre infracción adolescente.En particular, el diploma en Penalidad Juvenil persigue el objetivo específico decontribuir a la formación de profesionales vinculados al sistema penal juvenil(segmento judicial y ejecutivo) y organizaciones de la sociedad"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - ciencias-sociales
+  - politicas-publicas
+  - ninos-y-adolescentes
+  - derecho-penal
+  - criminologia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=47'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=47'
+---
+
+## Resumen
+
+### Objetivo
+
+Constituye una propuesta de formación de posgrado inscripta en las actividades de enseñanza del Proyecto I+D «Programa de estudio sobre control socio jurídico de infancia y adolescencia en Uruguay. Estudios sobre infracción adolescente». En particular, el diploma en Penalidad Juvenil persigue el objetivo específico de contribuir a la formación de profesionales vinculados al sistema penal juvenil (segmento judicial y ejecutivo) y organizaciones de la sociedad civil especializadas en la temática (organizaciones que trabajan en la ejecución de medidas no privativas de libertad y en la promoción y defensa de los derechos humanos). La propuesta se sustenta en la acumulación académica de cada uno de los investigadores que conforman el grupo de estudio a los que se suman otros docentes especializados en la materia.
+
+### Referentes académicos
+
+SANDRA LEOPOLD
+
+### Docentes
+
+Luis Eduardo Morás, Carlos Uriarte, Mariana Malet, Daniel Díaz, Martín Fernández, Laura López Gallego, Cecilia Montes, Raquel Galeotti, Carolina González Laurino, Sandra Leopold Costábile, Marcela Velurtas, Daniel Fessler, Rafael Paternain, Marcelo Rossal.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+
+## Plan de Estudio
+
+### Unidades curriculares
+
+El Diploma cuenta con 9 asignaturas (ocho de 20 horas cada una y una de 10 horas) distribuidas en tres módulos temáticos (socio jurídico, socio histórico y cultural e intervenciones profesionales) y un seminario interdisciplinario (70 horas) que transversaliza los contenidos curriculares trabajados a lo largo de la especialización y brinda orientaciones metodológicas para la elaboración de la monografía final. Supone un año curricular de cursado de las asignaturas y el seminario interdisciplinario (240 horas, 48 créditos) que culminará con el trabajo de tutoría que orientará la monografía que constituirá el producto individual que exige el egreso. (100 horas, 20 créditos). Para la obtención del Diploma, se deberá registrar un total de 67 créditos, habiendo cumplido con el 80% de asistencia a clase en cada curso, aprobación de tres evaluaciones al finalizar cada módulo y la monografía final.

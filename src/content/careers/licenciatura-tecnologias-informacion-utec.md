@@ -1,0 +1,209 @@
+---
+title: "Licenciatura en Tecnologías de la Información"
+short: "Licenciatura en TI"
+similar:
+  - tecnicatura-superior-ts-utec
+  - analista-en-tecnologias-de-la-informacion-ort
+  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
+  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
+  - diploma-en-inteligencia-artificial-aplicada-ude
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "licenciatura"
+area: "Tecnologías de la Información"
+modality: "hibrido"
+shift: "day"
+weeklyHours: "30 horas"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/"
+contactEmail:
+  - "secretaria.lti.itrso@utec.edu.uy"
+  - "secretaria.lti.itrcs@utec.edu.uy"
+  - "secretaria.lti.minas@utec.edu.uy"
+  - "secretaria.lti.melo@utec.edu.uy"
+location: "Durazno, Fray Bentos, Melo, Minas"
+accreditation: "UTEC"
+description: "Licenciatura gratuita en TI de UTEC con modalidad híbrida. Formación integral en programación, testing, infraestructura y cloud. Incluye título intermedio de Técnico Superior."
+tags:
+  - informatica
+  - programacion
+  - testing
+  - calidad-de-software
+  - infraestructura
+  - computacion-en-la-nube
+draft: false
+createdAt: "2026-05-15 00:00:44"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La Licenciatura en Tecnologías de la Información tiene como áreas de formación aquellas vinculadas a las líneas de Programación, Testing e Infraestructura tecnológica. La carrera cuenta con un título intermedio de Técnico/a Superior Universitario en Tecnologías de la Información que se obtiene al culminar el cuarto semestre.
+
+La modalidad es híbrida con un alto componente virtual y requiere asistencia a instancias presenciales obligatorias (entre 5 y 7 por semestre). Los estudiantes deben contar con una computadora portátil con características tecnológicas específicas y disponibilidad de 30 horas semanales de dedicación.
+
+Los egresados serán competentes para programar aplicaciones, diseñar servicios de cloud computing, gestionar proyectos de TI, implementar soluciones de ciberseguridad, y aplicar machine learning e inteligencia artificial para la optimización de procesos.
+
+### Título Intermedio
+
+La carrera cuenta con un título intermedio de **Técnico/a Superior Universitario en Tecnologías de la Información** que se obtiene al culminar y aprobar los primeros cuatro semestres. Esta tecnológicatura brinda una formación sólida en las áreas de Programación, Testing e Infraestructura tecnológica.
+
+### Becas
+
+Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de cualquier orientación de Enseñanza Media Superior (Bachillerato) CES o DGETP-UTU
+- Computadora portátil con 16GB de RAM, procesador i5 o superior, 512GB de disco y webcam
+- Disponibilidad de 30 horas semanales de dedicación
+- Conexión a internet de banda ancha
+- Aprobación del curso inicial virtual
+- Cédula de identidad vigente
+- Carné de salud vigente
+
+### Proceso de Selección
+
+El ingreso requiere aprobar el **curso inicial virtual** con una nota mínima de **80/100**. En caso de que las postulaciones superen el cupo, se realiza un **sorteo** entre los postulantes que aprobaron el curso.
+
+## Plan de Estudio
+
+### Áreas de Dominio (Enfoques Técnicos)
+
+La formación se distribuye en 5 grandes ejes de conocimiento:
+
+1. **Desarrollo:** Programación (Web, Móvil, Funcional) y testing de software.
+2. **Infraestructura Tecnológica:** Redes, virtualización, ciberseguridad y servicios Cloud.
+3. **Gestión de Proyectos:** Metodologías ágiles y gestión de equipos TI.
+4. **Emprendimientos:** Modelos de negocio e identificación de oportunidades tecnológicas.
+5. **Data Science:** Manejo de datos para la toma de decisiones, Machine Learning e IA.
+
+### Estructura de la Malla Curricular por Semestres
+
+Cada semestre tiene una duración de 18 semanas de actividad académica y aporta **45 créditos** obligatorios.
+
+#### TRAMO 1: TECNICATURA SUPERIOR UNIVERSITARIO
+
+**Primer Semestre (45 créditos)**
+
+| Asignatura                                   | Créditos |
+| -------------------------------------------- | -------- |
+| Introducción y Perspectivas de las TI        | 2        |
+| Fundamentos e Introducción a la Programación | 10       |
+| Análisis de Requerimientos                   | 6        |
+| Base de Datos: Conceptos y Diseño            | 6        |
+| Metodologías de Testing Funcional            | 5        |
+| Proyecto Semestre 1 / Caso de Estudio        | 6        |
+| UTEC Innova                                  | 2        |
+| Inglés 1                                     | 4        |
+| Vinculación con el Medio                     | 4        |
+
+**Segundo Semestre (45 créditos)**
+
+| Asignatura                                          | Créditos |
+| --------------------------------------------------- | -------- |
+| Algoritmos y Patrones de Diseño                     | 10       |
+| Programación SQL                                    | 8        |
+| Implementación del Testing Funcional                | 5        |
+| Fundamentos de Arquitectura, Ciberseguridad y Cloud | 7        |
+| Proyecto Semestre 2 / Proyecto de Desarrollo        | 7        |
+| UTEC Innova                                         | 2        |
+| Inglés 2                                            | 4        |
+| Vinculación con el Medio                            | 2        |
+
+**Tercer Semestre (45 créditos)**
+
+| Asignatura                                                  | Créditos |
+| ----------------------------------------------------------- | -------- |
+| Redes / Infraestructura e Interconexión                     | 12       |
+| Gestión de Ingeniería de Software                           | 5        |
+| Programación Backend                                        | 7        |
+| Metodologías de Desarrollo                                  | 3        |
+| Diseño y Experiencia de Usuario (UX)                        | 3        |
+| Proyecto Semestre 3 / Proyecto Desarrollo e Infraestructura | 5        |
+| UTEC Innova                                                 | 2        |
+| Inglés 3                                                    | 4        |
+| Vinculación con el Medio                                    | 2        |
+| Optativa                                                    | 2        |
+
+**Cuarto Semestre (45 créditos)**
+
+| Asignatura                                       | Créditos |
+| ------------------------------------------------ | -------- |
+| Sistemas Operativos de Red y Virtualización      | 9        |
+| Seguridad y Auditoría de Redes                   | 6        |
+| Programación Frontend                            | 7        |
+| Datawarehousing                                  | 4        |
+| Proyecto Semestre 4 / Proyecto Final Tecnicatura | 9        |
+| UTEC Innova                                      | 2        |
+| Inglés 4                                         | 4        |
+| Vinculación con el Medio                         | 2        |
+| Optativa                                         | 2        |
+
+#### TRAMO 2: LICENCIATURA
+
+**Quinto Semestre (45 créditos)**
+
+| Asignatura                               | Créditos |
+| ---------------------------------------- | -------- |
+| Programación en Dispositivos Móviles     | 6        |
+| Bases de Datos No Relacionales           | 6        |
+| Gestión de la Calidad                    | 4        |
+| Data Science                             | 7        |
+| Automatización del Testing               | 5        |
+| Gestión de Proyectos                     | 5        |
+| Derecho Informático y Normativa Asociada | 2        |
+| UTEC Innova                              | 2        |
+| Inglés 5                                 | 4        |
+| Vinculación con el Medio                 | 2        |
+| Optativas                                | 2        |
+
+**Sexto Semestre (45 créditos)**
+
+| Asignatura                                | Créditos |
+| ----------------------------------------- | -------- |
+| Inteligencia Artificial Aplicada          | 7        |
+| Programación Funcional                    | 5        |
+| Arquitectura y Modelos de Cloud Computing | 11       |
+| Testing de Performance                    | 4        |
+| Ciberseguridad en Ambientes de Cloud      | 6        |
+| Ética, Tecnología y Sociedad              | 2        |
+| UTEC Innova                               | 2        |
+| Inglés 6                                  | 4        |
+| Vinculación con el Medio                  | 2        |
+| Optativas                                 | 2        |
+
+**Séptimo Semestre (45 créditos)**
+
+| Asignatura                                   | Créditos |
+| -------------------------------------------- | -------- |
+| Fundamentos de Robótica y Sistemas Autónomos | —        |
+| Gestión de la Ciberseguridad                 | 12       |
+| Taller de Ciberseguridad                     | —        |
+| Introducción a DevOps                        | —        |
+| Anteproyecto de Licenciatura                 | 5        |
+| Vinculación con el Medio                     | —        |
+| Inglés 7                                     | —        |
+| UTEC Innova                                  | —        |
+| Optativas                                    | —        |
+
+**Octavo Semestre (45 créditos)**
+
+| Asignatura                      | Créditos |
+| ------------------------------- | -------- |
+| Taller DevOps                   | —        |
+| Preparación para Proyecto Final | —        |
+| Proyecto Final de Licenciatura  | —        |
+| Vinculación con el Medio        | —        |
+| Inglés 8                        | —        |
+| UTEC Innova                     | —        |
+| Optativas                       | —        |

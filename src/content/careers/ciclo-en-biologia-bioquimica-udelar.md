@@ -1,0 +1,52 @@
+---
+title: "Ciclo en Biología - Bioquímica"
+similar:
+  - licenciatura-en-bioquimica-udelar
+  - licenciatura-biologia-humana-udelar
+  - bioquimico-clinico-udelar
+  - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
+  - bioinformatica-especializacion-udelar
+  - licenciatura-en-ingenieria-biologica-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "ciclo"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/ciclo-de-biologia-y-bioquimica"
+location: "Paysandú; Salto"
+description: "Se trata de un primer año de formación, con asignaturas que suman un total de 90 créditos. Luego de completar esa cantidad de créditos los estudiantes podrán seguir cursando carreras como las que ofrece la Facultad de Ciencias en Montevideo - Lic. en Ciencias Biológicas, Bioquímico- y también la Licenciatura en Biología Humana carrera que está completa en el Cenur del Litoral Norte (sede Salto y Paysandú)."
+startDate: ""
+applicationDeadline: ""
+credits: 90
+tags:
+  - biologia
+  - bioquimica
+  - quimica
+listable: false
+searchable: true
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/ciclo-de-biologia-y-bioquimica'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/ciclo-en-biologia-bioquimica'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Se trata de un primer año de formación, con asignaturas que suman un total de 90 créditos. Luego de completar esa cantidad de créditos los estudiantes podrán seguir cursando carreras como las que ofrece la Facultad de Ciencias en Montevideo - Lic. en Ciencias Biológicas, Bioquímico- y también la Licenciatura en Biología Humana carrera que está completa en el Cenur del Litoral Norte (sede Salto y Paysandú).
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Pase de Secundaria o Bachillerato Técnico de UTU (cualquier orientación), Fotos carné, Cédula de Identidad original y fotocopia. Además, todos los estudiantes están obligados a la presentación del carné de salud básico vigente expedido por cualquier institución habilitada del Ministerio de Salud Pública. Para la presentación de dicho carné, los estudiantes que ingresan a la Universidad de la República tendrán plazo hasta el 31 de octubre del año de ingreso, vencido el cual, el estudiante quedará inhabilitado para realizar trámites en Bedelía. Aclaración: el pase de Secundaria y/o UTU, deberá estar dirigido a Cenur Litoral Norte - Universidad de la República. En caso de previas se realiza la inscripción condicional, si al mes de abril no se culmina el bachillerato no se hace efectiva la inscripción. Más información: https://www.dcb.litoralnorte.udelar.edu.uy/enseñanza

@@ -1,0 +1,59 @@
+---
+title: "Especialización en Ortodoncia y Ortopedia Dento Maxilo Facial"
+similar:
+  - cirugia-y-traumatologia-buco-maxilo-facial-especializacion-udelar
+  - endodoncia-especializacion-udelar
+  - implantologia-oral-especializacion-udelar
+  - odontologia-restauradora-integral-especializacion-udelar
+  - odontopediatria-especializacion-udelar
+  - periodoncia-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=6"
+location: "Facultad de Odontología, Montevideo"
+description: "perfeccionar al graduado oposgraduado en el dominio de un tema o área determinada dentro de una profesióno de un campo de aplicación de varias profesiones o disciplinas científicas.Las especializaciones tenderán básicamente al mejoramiento de la prácticaprofesional, por lo cual deberán tener un fuerte componente clínico.Deberán incluir una complementación de conocimientos en doble sentido: horizontal,ampliación de conocimientos (es decir incorporación de"
+startDate: ""
+applicationDeadline: "www.odon.edu.uy"
+tags:
+  - odontologia
+  - ortodoncia
+  - ortopedia-dento-maxilo-facial
+  - medicina
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=6'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=6'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+perfeccionar al graduado oposgraduado en el dominio de un tema o área determinada dentro de una profesióno de un campo de aplicación de varias profesiones o disciplinas científicas.Las especializaciones tenderán básicamente al mejoramiento de la prácticaprofesional, por lo cual deberán tener un fuerte componente clínico.Deberán incluir una complementación de conocimientos en doble sentido: horizontal,ampliación de conocimientos (es decir incorporación de
+
+### Docentes
+
+Coordinador: Prof. Dr. Martín Zepedeo Equipo docente:Profa. Adj. Dra. Cecilia Blanco Prof. Adj. Dr. Daniel Harretche
+
+## Ingreso
+
+### Reglamento
+
+“Reglamento de las Carreras de Especialización de la Escuela de Graduados de la Facultad de Odontología” Aprobado por Res. No 13 del Consejo de Facultad de Odontología en sesión de fecha 24/11/2000, y por Res. No.19 del Consejo Directivo Central, en sesión de fecha 20/8/2002. Publicado en Diario Oficial de fecha 31/01/2008. I. INTRODUCCIÓN Las carreras de especialización tienen por objetivo perfeccionar al graduado o posgraduado en el dominio de un tema o área determinada dentro de una profesión o de un campo de aplicación de varias profesiones o disciplinas científicas. Las especializaciones tenderán básicamente al mejoramiento de la práctica profesional, por lo cual deberán tener un fuerte componente clínico. Deberán incluir una complementación de conocimientos en doble sentido: horizontal, ampliación de conocimientos (es decir incorporación de nuevos tópicos o extensión de los ya conocidos) y vertical, profundización de conocimientos (mayores exigencias y mayor rigor en el enfoque de los diferentes temas). Requerirá también el aprestamiento manual para conducir o ejecutar un determinado tratamiento. En aquellas disciplinas que necesiten de maniobras o trabajos de laboratorio será necesario también adquirir los conocimientos para ejecutar y/o monitorear dichas maniobras. II. REQUISITOS PARA ACCEDER A LAS CARRERAS DE ESPECIALIZACIÓN Artículo 1). Poseer el título de Doctor en Odontología expedido por la Universidad de la República, u otorgado por otras instituciones nacionales de nivel universitario, debidamente autorizadas por el Ministerio de Educación y Cultura y de acuerdo a las resoluciones oportunamente adoptadas por la Universidad de la República. Artículo 2). Será necesario tener conocimiento del idioma inglés. Para evaluar el cumplimiento de este requisito se realizará una prueba de comprensión lectora. Artículo 3). Tomando en cuenta el orden de prelación correspondiente y existiendo estudiantes nacionales suficientes, el número de estudiantes extranjeros no podrá superar el 20% del cupo cursante. Artículo 4). En la adjudicación de plazas se propenderá a realizar una distribución geográfica de acuerdo a las necesidades del país. A tales efectos se otorgará un mínimo de 10% de plazas –según el orden de prelación- para aspirantes del interior recién egresados o que acrediten cinco años de residencia y por declaración jurada se comprometan a ejercer-por un plazo de cinco años- en el sitio donde declararon residencia. III. DE LOS DOCENTES Artículo 5). Los docentes deberán tener como mínimo una formación equivalente al titulo de la especialización que se otorgará. A esos efectos se reconocerán a los docentes universitarios con cargos efectivos de Grado 3,4 y 5. Artículo 6). Para ser director de carrera es necesario ser o haber sido docente Grado 5 efectivo y poseer una formación equivalente a la carrera que se desarrolla. Artículo 7). En casos excepcionales podrán impartir enseñanza también aquellos profesionales con trayectoria en una determinada especialidad a juicio de la Comisión Directiva de la Escuela de Graduados de la Facultad de Odontología, y con el título de especialista reconocido por actuación documentada. Artículo 8). Se establecerá un cupo máximo de docentes para impartir la enseñanza de postgrado. La relación docente-profesional en los cursos clínicos será como máximo de 1 a 6 a los que sumara el docente Director. Artículo 9). Los directores de carrera serán designados por la Comisión Directiva de la Escuela de Graduados de la Facultad de Odontología. IV DE LAS CARRERAS Artículo 10). Las carreras de especialización deberán ajustarse a los artículos 8 y 15 de la Ordenanza de la carrera de postgrado de la Universidad de la República. Las actividades se medirán en créditos, cada uno de los cuales equivale a 15 horas de trabajo, incluyendo las presénciales y las de trabajo estrictamente personal. Artículo 11). Las carreras de especialización deberán tener una exigencia mínima de 60 créditos (900 horas de labor) desglosadas de la siguiente manera: 42 para actividades presénciales (clínicas y teóricas), 8 para actividades personales vinculadas a las anteriores y 10 para la realización de una monografía. Cada programa de carrera deberá establecer los créditos correspondientes a cada actividad. Artículo 12). Deberán comenzar con actividades teóricas tales como cursos, talleres y/o seminarios con un cupo de estudiantes mayor al propuesto para la actividad clínica o práctica. Artículo 13). Para cada carrera la Comisión Directiva de la Escuela de Graduados de la Facultad de Odontología establecerá junto con el Director del Curso un cupo mínimo o máximo de participantes. Artículo 14). Los cursos clínicos deberán ajustarse al Plan elaborado por cada responsable, pudiendo incluir o no pasantías por Cátedras o Servicios o Laboratorios de la Facultad y/o Servicios de Salud privados o estatales. Articulo 15). Los planes de estudio serán proyectados por la Comisión Directiva de la Escuela de Graduados de la Facultad de Odontología y por el Consejo de dicha Facultad con el asesoramiento de la Asamblea del Claustro, y serán aprobados por el Consejo Directivo Central. Artículo 16). Los cursos de especialización culminarán con la entrega por parte del estudiante de una monografía. La misma deberá ajustarse al reglamento de monografías de la Facultad de Odontología y ser aprobada. Artículo 17). La carrera será aprobada con el 80% de las asistencias, la monografía aprobada y evaluación general, igual o superior a 6 en la escala universitaria, lo cual permitirá acceder al título de especialista.
+
+## Plan de Estudio
+
+### Programa
+
+https://odon.edu.uy/sitio/wp-content/uploads/2024/09/Programa-carrera-Ortodoncia-Ortopedia-1.pdf

@@ -1,0 +1,55 @@
+---
+title: "Tecnólogo en Logística"
+short: "Tecnólogo en Logística"
+similar:
+  - analista-en-logistica-ude
+  - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
+  - ingenieria-en-logistica-utec
+  - licenciatura-en-logistica-ude
+  - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "tecnologo"
+area: "Mecatrónica, Logística y Biomédica"
+modality: "presencial"
+shift: "night"
+weeklyHours: "No informada"
+duration: "3 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-logistica/"
+location: "Rivera (ITR Norte), Fray Bentos (ITR Suroeste)"
+accreditation: "UTEC"
+description: "Tecnólogo en Logística, título intermedio de la Ingeniería en Logística de UTEC. Análisis y gestión de procesos logísticos y cadenas de suministro."
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+tags:
+  - logistica
+  - cadena-de-suministros
+  - gestion-de-operaciones
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Tecnólogo en Logística es el título intermedio de la Ingeniería en Logística, obtenido al finalizar el tercer año. Forma profesionales capaces de analizar y gestionar procesos logísticos en empresas de distintas industrias.
+
+### Título Intermedio
+
+Esta carrera es en sí misma el **título intermedio de la Ingeniería en Logística**.
+
+### Becas
+
+Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de CES y DGETP-UTU
+
+### Proceso de Selección
+
+El ingreso es por **orden de preinscripción**.

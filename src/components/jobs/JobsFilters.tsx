@@ -5,7 +5,7 @@ import SearchableSelect, {
 } from "@/components/common/SearchableSelect";
 import { appIcons } from "@/lib/icons";
 
-import { formatDate } from "@/components/jobs/jobs";
+import { formatDateShort } from "@/lib/dates";
 
 interface Props {
   query: string;
@@ -53,7 +53,7 @@ export default function JobsFilters({
   onVictimasChange,
 }: Props) {
   return (
-    <div className="card bg-transparent">
+    <div className="card bg-transparent overflow-visible">
       <section className="form grid gap-4">
         <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-5">
           <div role="group" className="field lg:col-span-2">
@@ -200,7 +200,7 @@ export default function JobsFilters({
         </fieldset>
 
         <div className="flex flex-wrap items-center gap-2 text-sm">
-          <span className="badge-secondary inline-flex items-center gap-1">
+          <span className="badge inline-flex items-center gap-1" data-variant="secondary">
             <Icon
               icon={appIcons.jobsCount}
               width="14"
@@ -219,7 +219,7 @@ export default function JobsFilters({
                 className="shrink-0"
                 aria-hidden="true"
               />
-              Actualizado: {formatDate(scrapedAt)}
+              Actualizado: {formatDateShort(scrapedAt)}
             </span>
           ) : null}
         </div>

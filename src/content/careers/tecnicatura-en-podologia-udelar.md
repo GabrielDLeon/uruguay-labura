@@ -1,0 +1,50 @@
+---
+title: "Tecnicatura en Podología"
+similar:
+  - maestria-en-fisioterapia-traumatologica-ucu
+  - licenciatura-en-fisioterapia-udelar
+  - especializacion-en-traumatologia-y-ortopedia-um
+  - traumatologia-y-ortopedia-especializacion-udelar
+  - licenciatura-en-terapia-ocupacional-udelar
+  - licenciatura-en-fisioterapia-ucu
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnicatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-podologia"
+location: "Facultad de Medicina; Paysandú"
+description: "Está capacitado para cumplir con un rol educativo, preventivo, orientador, efectuando tratamientos, diagnósticos relacionados con las diversas patologías que afectan los miembros inferiores dentro del área específica de su competencia. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que reali"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - salud
+  - podologia
+  - ortopedia
+  - rehabilitacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-podologia'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-podologia'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Está capacitado para cumplir con un rol educativo, preventivo, orientador, efectuando tratamientos, diagnósticos relacionados con las diversas patologías que afectan los miembros inferiores dentro del área específica de su competencia. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que realiza.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Se ingresa a través de Prueba de Ingreso según los cupos ofertados por cada carrera. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Inscripción condicional hasta con una asignatura previa a aprobar en el período de exámenes de abril para que la inscripción quede confirmada.

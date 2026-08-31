@@ -1,0 +1,59 @@
+---
+title: "Maestría en Historia Económica"
+similar:
+  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
+  - maestria-en-historia-um
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - historia-udelar
+  - historia-politica-maestria-udelar
+  - patrimonio-documental-historia-y-gestion-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=34"
+location: "Facultad de Ciencias Sociales"
+description: "El programa de Historia Económica y Social tiene como objetivo contribuir al desarrollo de las ciencias sociales en el plano de la historia económica y social, combinando erudición histórica, ambición teórica y precisión metodológica. El Consejo e Facultad de Ciencias Sociales aprobó la creación del Diploma y la Maestría en Historia Económica el 19 de febrero de 1998."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - historia
+  - historia-economica
+  - historia-social
+  - economia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=34'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=34'
+---
+
+## Resumen
+
+### Objetivo
+
+El programa de Historia Económica y Social tiene como objetivo contribuir al desarrollo de las ciencias sociales en el plano de la historia económica y social, combinando erudición histórica, ambición teórica y precisión metodológica. El Consejo e Facultad de Ciencias Sociales aprobó la creación del Diploma y la Maestría en Historia Económica el 19 de febrero de 1998. Ellos tienen por objeto formar profesionales de segundo nivel universitario de alta especialización en la disciplina, capaces de: - Desempeñarse como cuadros de investigación y docencia a nivel de grado y posgrado universitario; - cumplir funciones de asesoramiento vinculadas a la docencia en otras instituciones educativas públicas o privadas de nivel secundario, terciario y universitario; - desempeñarse como expertos en temas históricos y de desempeño económico y social de largo plazo, aptos para el asesoramiento a agentes políticos, sociales y económicos, incluyendo los organismos del Estado; - incorporarse al Programa de Doctorado en Ciencias Sociales – Opción Historia Económica La VII Edición de la Maestría y Diploma en Historia Económica mantiene el Plan de Estudios aprobado en las instancias centrales de la Universidad de la República en su estructura en torno a Módulos, como unidades curriculares básicas.
+
+### Referentes académicos
+
+CECILIA LARA
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+
+## Plan de Estudio
+
+### Programa
+
+Quienes opten por la Maestría deberán sumar 120 créditos que se estructuran de la siguiente forma: - Módulo de Tesis: 30 créditos; - Módulo Teoría y Metodos de la Historia Económica: 30 créditos; - Módulo Temas y problemas de la Historia Económica: 26 créditos; - Módulo Optativos: 22 créditos - Módulo de Seminarios: 12 créditos; Especialización en Historia Económica El EHE se obtiene cumpliendo con los requisitos de asistencia y aprobando 60 créditos. - Módulo Teoría y Metodos de la Historia Económica: 30 créditos; - Módulo Temas y problemas de la Historia Económica: 26 créditos; - Módulo Optativos: 4 créditos Por más información: https://cienciassociales.edu.uy/maestria-en-historia-economica/

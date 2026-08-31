@@ -1,0 +1,56 @@
+---
+title: "Doctorado en Informática (pedeciba)"
+similar:
+  - informatica-maestria-udelar
+  - analista-en-informatica-ucu
+  - licenciatura-en-informatica-um
+  - tecnologo-en-informatica-utec
+  - licenciatura-en-informatica-ude
+  - analista-en-ingenieria-informatica-ude
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "doctorado"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=70"
+location: "Facultad de Ingeniería, Montevideo"
+description: "El Doctorado en Informática del PEDECIBA constituye el nivel superior de formación en el área. Su objetivo principal es asegurar al aspirante la capacitación para desarrollar la investigación original propia así como para orientar trabajos de investigación de otras personas, en las áreas del conocimiento relacionadas con la Informática."
+startDate: ""
+applicationDeadline: "Facultad de Ingeniería"
+tags:
+  - informatica
+  - software
+  - programacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=70'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=70'
+---
+
+## Resumen
+
+### Objetivo
+
+El Doctorado en Informática del PEDECIBA constituye el nivel superior de formación en el área. Su objetivo principal es asegurar al aspirante la capacitación para desarrollar la investigación original propia así como para orientar trabajos de investigación de otras personas, en las áreas del conocimiento relacionadas con la Informática.
+
+### Referentes académicos
+
+Coordinador: Dr. Eduardo Fernández Departamento o unidad: Instituto de computación Mail: eduardof@fing.edu.uy Coordinador Alterno: Dr. Antonio Mauttone Departamento o unidad: Instituto de computación Mail: mauttone@fing.edu.uy
+
+## Ingreso
+
+### Reglamento
+
+Se prevé que los estudios de Doctorado en Informática tengan una duración de tres años lectivos. Dicha duración sólo podrá exceder los cinco años, en casos excepcionales, con la autorización expresa de la Comisión Directiva. Durante estos estudios el alumno cumplirá con un plan individual acordado con su Director Académico y aprobado por la Comisión de Postgrado. Los planes individuales estarán integrados por al menos 25 créditos de actividad programada, y la realización de una tesis de Doctorado valorada en 200 créditos. La actividad programada se puede integrar con: • Cursos regulares e intensivos, y estudios dirigidos. • Seminarios. • Pasantías. • Actividades especiales: proyectos, trabajos de desarrollo, trabajos de laboratorio, etc. La Comisión de Postgrado podrá asignar créditos por cursos y otras actividades realizadas previamente al ingreso al Doctorado. Reglamento completo: https://www.pedeciba.edu.uy/es/reglamento/reglamento-de-posgrados-en-informatica-del-programa-para-el-desarrollo-de-las-ciencias-basicas/ Plan de estudios: https://www.pedeciba.edu.uy/es/reglamento/plan-de-estudios-del-doctorado-en-informatica-del-programa-para-el-desarrollo-de-las-ciencias-basicas/ Disposiciones complementarias al reglamento: https://www.pedeciba.edu.uy/es/reglamento/disposiciones-complementarias-al-reglamento-de-posgrados-en-informatica/ Criterios de la Comisión de Posgrado para la validación de créditos: https://www.pedeciba.edu.uy/es/reglamento/criterios-de-la-comision-de-posgrado-para-la-validacion-de-creditos-area-informatic
+
+### Requisitos de Ingreso
+
+Podrán ingresar aquellos estudiantes que acrediten las siguientes condiciones: • poseer el título de Magíster en Informática del PEDECIBA, emitido por la Universidad de la República, o haber realizado otros estudios que, a juicio de la Comisión de Postgrado, acrediten una formación que permita la realización y aprovechamiento del Plan de Estudios del Doctorado. Se podrá proponer la realización de estudios o actividades complementarias previas o simultáneas a la realización del trabajo de Tesis, así como formas de evaluación de los conocimientos del aspirante cuando se considere necesario. • la aceptación por parte de un Director Académico reconocido por la Comisión de Postgrado. Enviar por correo a pedeciba_inf@fing.edu.uy la siguiente documentación: Cédula de identidad (frente y dorso). Nota firmada solicitando ingreso al programa. Currículum vitae. Título de Maestría (frente y dorso) y escolaridad. Plan de trabajo de Doctorado, se encuentra en la página web (https://www.pedeciba.edu.uy/es/documento/formulario-para-presentarplan-de-trabajo-de-doctorado-en-informatica/) y debe estar firmado por el estudiante, el Director Académico y Director de Tesis (éste último si corresponde). Nota firmada del Director Académico y Director de Tesis (éste último si corresponde) aceptando su rol. Formulario de propiedad intelectual completo y firmado por el estudiante y el Director de Tesis (si corresponde). Nota: En caso de querer incluir un Director de Tesis o un Co-Director de tesis a futuro, se deberá enviar: una nota del Director Académico solicitándolo, una notadel DT o Co- DT aceptando y en caso de que sea externo a PEDECIBA Informática se deberá adjuntar CV. Todos los documentos que llevan firma, deben de ser originales (se puede utilizar firma digital validada o de lo contrario enviar los escaneos y entregar los originales en la secretaría del área).

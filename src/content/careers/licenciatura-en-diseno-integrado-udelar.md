@@ -1,0 +1,50 @@
+---
+title: "Licenciatura en Diseño Integrado"
+similar:
+  - ingeniero-agronomo-ude
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - licenciatura-en-diseno-grafico-ude
+  - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
+  - tecnico-en-diseno-de-interiores-ude
+  - licenciatura-en-artes-diseno-grafico-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-licenciatura-en-diseno-i"
+location: "Salto"
+description: "El graduado tendrá una formación que le permita articular en términos de diseño las tensiones entre el desarrollo económico y el manejo responsable de los recursos energéticos, naturales y culturales, potenciando el capital social acumulado en el marco de un desarrollo sostenible."
+startDate: ""
+applicationDeadline: ""
+credits: 360
+tags:
+  - diseno
+  - sostenibilidad
+  - desarrollo-sostenible
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-licenciatura-en-diseno-i'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-diseno-integrado'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El graduado tendrá una formación que le permita articular en términos de diseño las tensiones entre el desarrollo económico y el manejo responsable de los recursos energéticos, naturales y culturales, potenciando el capital social acumulado en el marco de un desarrollo sostenible. Estará capacitado para ejercer una práctica del diseño, en relación con los procesos de desarrollo local y un adecuado comportamiento ambiental de las intervenciones arquitectónicas.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. En caso de previas se realiza la inscripción condicional, si al mes de abril no se culmina el bachillerato no se hace efectiva la inscripción.

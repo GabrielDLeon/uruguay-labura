@@ -1,0 +1,50 @@
+---
+title: "Tecnicatura en Anatomía Patológica"
+similar:
+  - anatomia-patologica-especializacion-udelar
+  - anatomia-patologica-pediatrica-especializacion-udelar
+  - laboratorio-de-patologia-clinica-especializacion-udelar
+  - licenciatura-en-laboratorio-clinico-udelar
+  - tecnicatura-en-hemoterapia-udelar
+  - bioquimico-clinico-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnicatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-anatomia-patologica"
+location: "Facultad de Medicina; Paysandú"
+description: "Es el profesional universitario capacitado para procesar cualquier tipo de material biológico y volverlo apto para un estudio microscópico (y eventualmente macroscópico), sea con fines diagnósticos, docentes, de investigación."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - medicina
+  - anatomia-patologica
+  - patologia
+  - laboratorio-clinico
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-anatomia-patologica'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-anatomia-patologica'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es el profesional universitario capacitado para procesar cualquier tipo de material biológico y volverlo apto para un estudio microscópico (y eventualmente macroscópico), sea con fines diagnósticos, docentes, de investigación.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Se ingresa a través de Prueba de Ingreso según los cupos ofertados por cada carrera. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Inscripción condicional hasta con una asignatura previa a aprobar en el período de exámenes de abril para que la inscripción quede confirmada.

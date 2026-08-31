@@ -1,0 +1,52 @@
+---
+title: "Doctor en Ciencias Veterinarias"
+similar:
+  - tecnico-en-ciencias-veterinarias-ude
+  - tecnico-asistente-veterinario-ude
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - tecnologo-en-produccion-equina-udelar
+  - ciencias-agrarias-doctorado-udelar
+  - salud-animal-doctorado-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "carrera"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fvet.edu.uy/ensenanza/grado/medico-veterinario-a/"
+location: "Facultad de Veterinaria; Paysandú; Salto"
+description: "Los y las profesionales veterinarios/as brindan servicios esenciales para la economía nacional, como son el fomento de la producción, la vigilancia de los alimentos de origen animal en salvaguardia de la salud pública, así como el cuidado de los animales domésticos y de compañía."
+startDate: ""
+applicationDeadline: ""
+credits: 453
+tags:
+  - veterinaria
+  - salud-animal
+  - bienestar-animal
+  - produccion-animal
+  - inocuidad-alimentaria
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fvet.edu.uy/ensenanza/grado/medico-veterinario-a/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/doctor-en-ciencias-veterinarias'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Los y las profesionales veterinarios/as brindan servicios esenciales para la economía nacional, como son el fomento de la producción, la vigilancia de los alimentos de origen animal en salvaguardia de la salud pública, así como el cuidado de los animales domésticos y de compañía. Su rol es fundamental en la participación para el mejoramiento de la calidad de vida del ser humano y del entorno, fomentando el concepto de Una Salud, donde la salud humana, animal y el medio ambiente sean consideradas en conjunto.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria Plan 1976, orientación Medicina o Agronomía; Bachillerato completo Plan 2006 opción Ciencias Biológicas; Microexperiencia, orientación Científico-Biológica y del Plan 2003 opción Ciencias de la Vida y la Salud, opción Ciencias de la Tierra y el Ambiente. Bachillerato Tecnológico Agrario o Deporte y Recreación DGETP-UTU. Hasta el 7° semestre se desarrollará la carrera en la sede Montevideo y el 8° semestre se desarrollará entre las sedes Central y sede Libertad en el IPAV. En el Centro Universitario Regional Litoral Norte, sede Salto (hasta el séptimo semestre) y Paysandú (a partir del octavo). El estudiante podrá cambiar de sede, sujeto al sistema de previaturas. Para realizar el cambio, debe solicitarlo en Bedelía dentro del período habilitado a tales efectos.

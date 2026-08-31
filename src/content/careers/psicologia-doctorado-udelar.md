@@ -1,0 +1,71 @@
+---
+title: "Doctorado en Psicología"
+similar:
+  - psicologia-social-maestria-udelar
+  - licenciatura-en-psicologia-udelar
+  - licenciatura-en-psicologia-um
+  - doctorado-en-psicologia-ucu
+  - psicologia-clinica-maestria-udelar
+  - licenciatura-en-psicologia-semipresencial-ucu
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "doctorado"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=55"
+location: "Facultad de Psicología, Montevideo"
+description: "Objetivo Su objetivo fundamental es la producción y desarrollo de nuevos conocimientos en la disciplina a través de la sólida formación científica y humanista de especialistas que posean la capacidad de producir conocimientos originales, de alta pertinencia social, en el campo de la Psicología y Ciencias afines. Se incentivará el abordaje crítico de los problemas y el estar actuali"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - psicologia
+  - investigacion
+  - ciencias-sociales
+  - salud-mental
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=55'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=55'
+---
+
+## Resumen
+
+### Objetivo
+
+Objetivo Su objetivo fundamental es la producción y desarrollo de nuevos conocimientos en la disciplina a través de la sólida formación científica y humanista de especialistas que posean la capacidad de producir conocimientos originales, de alta pertinencia social, en el campo de la Psicología y Ciencias afines. Se incentivará el abordaje crítico de los problemas y el estar actualizado en los desarrollos del área.
+
+### Perfil de egreso
+
+El egresado del Doctorado en Psicología deberá poseer capacidad para producir conocimientos originales en el campo de la psicología y ciencias afines, con sólida formación científica y humanista. Además, deberá producir conocimientos de alta pertinencia social, incentivando el abordaje crítico de los problemas. Deberá estar actualizado en los desarrollos de la disciplina.
+
+### Referentes académicos
+
+Prof. Agda. Dra. Gabriela Bañuls, Prof. Adj. Dr. Hugo Selma, Prof. Agda. Dra. Andrea Viera
+
+## Ingreso
+
+### Reglamento
+
+https://www.psico.edu.uy/sites/default/files/2023-09/Reglamento%20y%20Plan%20de%20Estudios%20Doctorado%20en%20Psicolog%C3%ADa.pdf
+
+### Requisitos de Ingreso
+
+Poseer título de Magíster nacional o extranjero. Completar el formulario electrónico (disponible en el período de pre-inscripción), con: Carta de pertinencia de este Doctorado en Psicología para el postulante y el Proyecto de Tesis presentado. Currículum Vitae del aspirante donde conste su domicilio legal, títulos obtenidos, cursos realizados, publicaciones, investigaciones y otros antecedentes que el postulante considere relevante NOTA: El Currículum Vitae deberá ser confeccionado en el formato del modelo CVuy disponible aquí Proyecto de Tesis en formato electrónico que contenga: título del proyecto, resumen, tema a desarrollar, formulación del problema de investigación, marco teórico, hipótesis de trabajo, metodología, justificación de viabilidad, resultados esperados y cronograma de ejecución (ver modelo). NOTA: Se espera que el Proyecto presentado responda a un proceso de trabajo del postulante en conjunto con el Director y Co-Director de Tesis propuestos. Currículum Vitae del Director de Tesis (podrá incluirse un Co-Director cuando la naturaleza del proyecto así lo justifique) NOTA: El Currículum Vitae deberá ser confeccionado en el formato del modelo CVuy disponible aquí Nota del Director y Co-Director de Tesis donde conste su aceptación. Los Directores deberán poseer grado 3, 4 o 5. En caso de que el Director de Tesis presentado no pertenezca a la Facultad de Psicología de la Universidad de la República, el postulante deberá incluir una propuesta de Co-Director de Tesis que sí pertenezca a la institución. La nota de aceptación del Director y Co-Director de Tesis se debe presentar en el formato disponible (ver modelo) Carta del Director de Tesis fundamentando la pertinencia de la Tutoría en relación a su línea de investigación (elaborada y firmada por el mismo)
+
+## Plan de Estudio
+
+### Programa
+
+El Doctorado de Psicología otorga un Título de carácter académico tras un desarrollo no estructurado en el que el doctorando puede construir su proyecto doctoral en forma personalizada, en base a la elección de asignaturas temáticas y metodológicas en el área de su especialidad y con la orientación de un Director de Tesis.
+
+### Unidades curriculares
+
+https://bedelias.udelar.edu.uy/views/public/desktop/consultarPlan/consultarPlan01.xhtml?cid=0

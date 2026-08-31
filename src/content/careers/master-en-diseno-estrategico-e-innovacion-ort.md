@@ -1,0 +1,203 @@
+---
+title: "Master en Diseño Estratégico e Innovación"
+similar:
+  - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
+  - master-en-creatividad-innovacion-y-comunicacion-ort
+  - diploma-de-especializacion-en-creatividad-e-innovacion-ort
+  - gestion-de-innovacion-maestria-udelar
+  - diseno-de-interfaces-ort
+  - diseno-digital-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "maestria"
+area: "Comunicación"
+modality: "presencial"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "25 meses"
+cost: "Arancelado"
+language: "Español"
+website: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-diseno-estrategico-e-innovacion"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Master en Diseño Estratégico e Innovación de ORT Uruguay. Es el primer postgrado de estas características del Uruguay, combina el diseño de experiencias (UX) con el diseño estratégico de futuros."
+tags:
+  - diseno
+  - experiencia-de-usuario
+  - innovacion
+  - gestion-de-la-innovacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fc.ort.edu.uy/escuela-de-postgrados/master-en-diseno-estrategico-e-innovacion'
+  - label: 'Plan de estudios'
+    url: 'https://fc.ort.edu.uy/escuela-de-postgrados/master-en-diseno-estrategico-e-innovacion/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados/fc'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es el primer postgrado de estas características del Uruguay, combina el diseño de experiencias (UX) con el diseño estratégico de futuros.
+
+- Diseñar escenarios creativos para experiencia de alto impacto
+- Validar modelos de negocio innovadores, viables y sostenibles
+- Analizar tendencias globales emergentes para diseñar futuros relevantes
+
+El Master en Diseño Estratégico e Innovación, el primer postgrado de estas características del Uruguay, combina el diseño de experiencias (UX) con el diseño estratégico de futuros para formar profesionales capaces de liderar desde el pensamiento de diseño las transformaciones e innovaciones del mundo actual.
+
+Diseñar el futuro que imaginamos, no solo el posible desde la visualización de datos y tendencias, sino el deseable a partir de la imaginación, la creación y la acción oportuna.
+
+Serán capaces de impulsar procesos creativos y estratégicos que integran la innovación, la sostenibilidad y la ética, tanto en organizaciones como en lo más diversos ámbitos del desarrollo social.
+
+Su formación multidisciplinar les permitirá abordar los desafíos complejos del mundo actual, adaptándose a entornos dinámicos y cada vez más desafiantes, promoviendo la creación de soluciones que impacten positivamente en el diseño de experiencias, estrategias de negocio y transformaciones sociales, en cuanto agentes de cambios comprometidos con su entorno acción.
+
+### Títulos y Reconocimientos
+
+El título de Master en Diseño Estratégico e Innovación se encuentra en trámite de reconocimiento por el Ministerio de Educación y Cultura. El Diploma de Especialización en Diseño de Experiencia de Usuario es un título que se obtiene al completar el primer año de formación del Master en Diseño Estratégico e Innovación, incorporando una materia electiva adicional.
+
+### Modalidad
+
+Presencial u online. A elección de cada alumno, las clases pueden tomarse presenciales, o bien online en todas las materias, y contarán con la grabación de todas las clases en nuestras plataformas. Eventualmente, algunas evaluaciones podrán requerir presencialidad.
+
+### Duración y Horarios
+
+Duración Un año y medio de cursos, además de un Proyecto Final (3 clases semanales). Se puede cursar hasta en 3 años (1 o 2 clases semanales). Horarios de clase 3 días a la semana de 19:00 a 21:30 horas. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+La Escuela de Postgrados y Actualización en Comunicación y Diseño ofrece fondos de becas para facilitar el acceso de profesionales con alto potencial a sus programas. Incluye apoyos para emprendedores, jóvenes talentos, candidatos con necesidad financiera, estudiantes del interior y estudiantes internacionales.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Los postulantes deben ser graduados de carreras de grado universitario. Una vez realizada la inscripción, los candidatos son citados para tener una o más entrevistas de admisión con el Comité Académico de Selección. Allí evalúan a los candidatos inscriptos en función de su trayectoria académica previa, su experiencia profesional y potencialidad de desarrollo, su involucramiento profesional y social, su potencial de contribución al grupo de estudiantes admitido y su desempeño en la entrevista.
+
+### Proceso de Selección
+
+Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+
+### Requisito de Graduación
+
+Al finalizar las materias previstas en el plan de estudios el estudiante debe elaborar un Proyecto Final (Plan de Diseño Estratégico e Innovación), donde consolida los conocimientos adquiridos a lo largo del programa.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### Abril - Junio
+
+**Investigación de usuario y análisis de datos**
+
+Presenta las características, metodologías y herramientas necesarias para desarrollar una estrategia de investigación de usuarios (UX Research), que permita comprender las necesidades de distintos perfiles y relevar insights clave para la toma de decisiones en la mejora de la experiencia de un producto/servicio. Forma en la elaboración de informes para comunicar los resultados, basados en el análisis de los datos. Créditos: 4
+
+**Prototipado e innovación con IA**
+
+Este curso tiene como objetivo introducir a los estudiantes en los fundamentos del modelado y diseño de prototipos, con énfasis en su uso estratégico para el testeo y evaluación ágil de ideas en productos digitales. Los estudiantes aprenderán a iterar los prototipos y traducirlos al lenguaje de programación, adaptando cada etapa del proceso de prototipado a las diferentes fases del diseño, ya sea en baja o alta fidelidad, según los objetivos propuestos. Además, se abordará el manejo de herramientas populares como Figma, enfocándose en el diseño de aplicaciones móviles y sitios web responsive. También explorará la integración de la inteligencia artificial en el prototipado, optimizando tareas mediante herramientas de automatización, generación de ideas y análisis de datos, mejorando la experiencia del usuario. Créditos: 4
+
+**Liderazgo estratégico y pensamiento creativo**
+
+Este curso busca desarrollar habilidades de pensamiento creativo, entrenando el pensamiento lateral y de diseño para resolver problemas estratégicos. Los estudiantes aprenderán a liderar la resolución de problemas complejos desde la creatividad, aplicando metodologías de investigación propias del diseño. Se brindarán herramientas y métodos que fomentan el pensamiento creativo, fortalecen la confianza en el liderazgo y permiten aplicar prácticas innovadoras en diversas situaciones profesionales. Créditos: 4
+
+#### Junio
+
+**Estrategia de contenido y redacción UX**
+
+Introduce a los estudiantes a la disciplina del diseño de contenidos y UX Writing, y su rol tanto dentro del proceso de design thinking como el de la construcción de productos digitales. Permite conocer la importancia del content first como metodología de trabajo, para crear experiencias centradas en las personas y sus necesidades. Acerca guías y permite incorporar las buenas prácticas de la disciplina para poder construir historias y comunicaciones que potencien la experiencia digital de las personas. Créditos: 4
+
+#### Julio - Setiembre
+
+**Arquitectura de la información**
+
+Incorpora los principios básicos de la arquitectura de la información, que permiten organizar la información de una forma lógica y clara para el usuario. Se desarrollan habilidades para discernir la jerarquía de los contenidos, organizar y detectar información para que sea evaluable y accesible, así como dominar herramientas prácticas y cotidianas aplicables a diferentes proyectos. Créditos: 4 https://www.youtube.com/watch?v=A9uhiIUHn3A
+
+**Experiencia de cliente y diseño de servicio**
+
+Presenta las características de los servicios y su diseño basado en la experiencia del cliente como pilar fundamental. Permite conocer los fundamentos de la gestión de servicios y los drivers fundamentales del diseño de la experiencia del cliente, así como las diferentes herramientas y metodologías para su diseño. Forma en la comprensión, el análisis, la medición y la gestión de la experiencia del cliente en diferentes tipos de servicios, manteniendo un enfoque omnicanal. Créditos: 4 https://www.youtube.com/watch?v=l8lBCH3nSwc
+
+**Innovación en diseño e interacción**
+
+Este curso profundiza en la teoría y práctica del diseño de interfaces, abarcando temas como design systems, diagramación, tipografía, color, grillas, componentes interactivos y patrones de diseño. Los estudiantes conocerán las características clave del diseño de interacción y las metodologías para garantizar una experiencia de usuario efectiva. Además, comprenderán los principios cognitivos y perceptuales que influyen en el diseño, explorando la innovación estética y tecnológica. Se abordarán las especificaciones visuales necesarias para cada proyecto, junto con las mejores prácticas para prototipado rápido y la obtención de feedback. Créditos: 4 https://www.youtube.com/watch?v=p9sBx03VJX8
+
+#### Setiembre
+
+**Electiva**
+
+Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Contenidos interactivos y planificación digital Este curso tiene como objetivo desarrollar una visión estratégica de la comunicación online, integrándola en el plan de marketing de una marca. Se analiza el posicionamiento, objetivos y estrategias de diversas marcas, y se propone una estrategia digital que incluya marketing de contenidos, redes sociales (2.0) y publicidad online. Los estudiantes exploran experiencias de redes, medios y servicios sociales, analizando su impacto en las organizaciones y cómo maximizar su aprovechamiento. Gestión de proyectos para emprendedores Trabaja sobre las características de los emprendimientos ágiles y las metodologías utilizadas por este tipo de emprendedores para llevar adelante sus ideas de negocio. Permite dominar los fundamentos de la gestión de un emprendimiento: estrategia, ventajas competitivas y propuesta de valor, así como el análisis y la gestión de los diferentes modelos de negocios aplicables a un emprendimiento. Habilidades gerenciales y gestión de equipos Incorpora la visión de administración y desarrollo de habilidades gerenciales y estudia la relevancia del gerente de Comunicación dentro del equipo de la alta gerencia de la empresa. Examina los modelos de toma de decisiones, el proceso de asignación de recursos, el impacto de la comunicación en la gestión de equipos y los indicadores de desempeño en la gestión. Innovación para la economía creativa Esta materia se plantea: Desarrollar habilidades reflexivas y prácticas en relación al desarrollo de planes de acción innovadores en los sectores de la Economía Naranja. Discernir las especificidades de lo creativo, lo cultural y lo artístico, así como sus espacios de intersección para comprender las dinámicas vinculadas a la generación de valor económico y valor cultural. Identificar el impacto potencial de la economía naranja en el crecimiento económico, la generación de empleo y la competitividad, así como las distintas iniciativas posibles de policy mix. Comprender fuentes diversas relativas a los modelos de ingresos, desde el licenciamiento hasta el derecho de autor. Identificar las oportunidades intersectoriales de complementación productiva desde la concepción hasta la comercialización de bienes y servicios de sectores “no creativos”. Organización orientada al cliente El objetivo del curso es que el estudiante desarrolle un entendimiento de cómo implementar la filosofía de negocios del marketing y cómo diseñar las métricas adecuadas para evaluar la gestión del intercambio. En particular, sus objetivos son: Internalizar el concepto de Marketing como intercambio de valor entre las partes. Conocer los diferentes alcances al constructo “orientación al mercado” propuestos por la literatura. Conocer diferentes formas de implementación del concepto de marketing en las organizaciones. Entender las diferentes dimensiones implicadas en la orientación al mercado de una organización. Entender la medición como un proceso de negocios que provee retroalimentación a la organización respecto de los esfuerzos de marketing realizados, en el camino de la implementación efectiva de las estrategias definidas. Entender las diferentes dimensiones de la medición en la gestión de marketing. Conocer las diferentes métricas aplicadas en la gestión de marketing. Aprender a alinear las métricas adecuadas a las estrategias y programas definidos. Taller de creatividad e innovación en Media Lab Esta materia busca implicar y capacitar a los estudiantes para buscar activamente soluciones creativas a problemas reales, que puedan tener un impacto positivo en la sociedad, a partir de trabajo práctico en equipos multidisciplinarios. Se busca que los participantes sean capaces de: Aplicar el diseño centrado en las personas para identificar oportunidades de innovación. Asumir un rol de conocedor o experto en el campo para transformar insights en proyectos con valor económico, social, cultural, regional y medio ambiental. Implementar habilidades adquiridas y desarrolladas en materias previas para desarrollar una reflexión crítica a través del uso de herramientas, técnicas y métodos. Potenciar el desarrollo de sus habilidades blandas o Soft Skills. Redefinir tareas en una serie de ejercicios para llevar a cabo un proyecto en equipo. Desarrollar un modelo con el potencial de ser derivado a escala real. Poner en práctica una cultura de innovación al llevar a cabo experimentos y las lecciones aprendidas de múltiples intentos fallidos. Capacidad para recibir y brindar críticas constructivas en la fase de ideación. Ejercitar la habilidad de trabajar de manera colaborativa y mantener un esquema o calendario de trabajo.
+
+#### Octubre - Diciembre
+
+**Diseño ético y responsable**
+
+Este curso introduce a los estudiantes en el diseño responsable, inclusivo y ético, con un enfoque en la accesibilidad y usabilidad de productos digitales, así como en entornos no digitales. Se analizan buenas prácticas para tomar decisiones responsables y transparentes, generando confianza en las soluciones propuestas. Comprenderán la importancia de diseñar experiencias inclusivas que consideren las necesidades de todas las personas, promoviendo la equidad. Además, se abordarán los estándares internacionales para cumplir normativas relacionadas con datos y privacidad. Finalmente, se fomentará el pensamiento crítico para la toma de decisiones éticas, analizando las implicaciones sociales, culturales y ambientales del diseño. Créditos: 4
+
+#### Diciembre
+
+**Marca personal, comunicación y negociación**
+
+Este curso se centra en desarrollar una marca personal sólida y coherente, abordando aspectos como la propuesta de valor única, la estrategia de comunicación y la gestión de la reputación personal. Los estudiantes aprenderán a reconocer y desarrollar competencias que potencien su capacidad de interacción, motivación y liderazgo en diversas situaciones, incluyendo momentos de tensión y conflicto. Además, se analizarán diferentes tipos de liderazgo y formatos de equipos de trabajo, así como los roles y mecanismos de interacción en los mismos. Entrenará la adaptación y flexibilidad necesarias para liderar equipos en procesos cotidianos y de cambio. Finalmente, se explorarán criterios y herramientas para mejorar la gestión en equipos y técnicas de negociación, incluyendo la elaboración de un mapa de poder y su relevancia en la gestión de la comunicación. Créditos: 4
+
+#### Octubre - Abril
+
+**Caso integrador: Diseño de experiencia de usuario**
+
+El Caso integrador: Diseño de Experiencia de Usuario pretende que el estudiante integre los conocimientos adquiridos durante este tránsito por el Diploma desde la perspectiva de diagnóstico y toma de decisiones frente a una situación empresarial real, desarrollando un plan de experiencia de usuario documentado en un caso de estudio. Créditos: 16 Convocatoria a empresas https://www.youtube.com/watch?v=fupMHmMzLNo
+
+### 2.° año
+
+#### Abril - Junio
+
+**Tecnologías aplicadas a la creatividad**
+
+Vivimos en una época en el que las Tecnologías de la Información y las Comunicaciones son el principal agente de transformación, cambio e innovación para todos los sectores productivos y organizaciones, que deben comprender cabalmente todos los roles de liderazgo y toma de decisión de la organización, para abordarlas con creatividad y perspectiva de innovación. Este curso busca proveer a los asistentes de los elementos fundamentales para: Conocer y entender en profundidad las principales tendencias tecnológicas. Poder evaluar tecnologías, propuesta de valor, escenarios de aplicación y potencial. Relacionar escenarios de creatividad e innovación con la aplicación de dichas tecnologías. Créditos: 4 Leé la nota Explorando el metaverso: una experiencia educativa innovadora
+
+**Pensamiento crítico y diseño sistémico**
+
+Las diferencias entre la disrupción digital y el panorama competitivo tradicional son la velocidad con la que se produce el cambio y sus riesgos. La velocidad y complejidad que supone la disrupción digital dificulta la identificación de patrones o tendencias para trazar un plan de acción eficaz. Se requieren nuevas formas de pensamiento, crítico y sistémico, aplicadas a un nuevo modelo de abordar problemas complejos. Se buscará el entrenamiento de las metacompetencias que el pensamiento crítico nos demanda y cómo se aplica en el desarrollo de un diseño sistémico de soluciones, que contemple contextos complejos de acción. El curso se propone: Promover un cambio en el comportamiento del participante, que le permita desarrollar sus habilidades para pensar críticamente sobre la brecha entre el ritmo de evolución del entorno impulsado por las tecnologías exponenciales vs la manera de pensar, sentir y actuar de los sistemas humanos. Desarrollar las metacompetencias que el entorno nos demanda para pensarlos y repensarlos de manera crítica, en función del diseño de soluciones holísticas. Créditos: 4
+
+**Diseño estratégico y nuevos escenarios**
+
+Busca formar a los estudiantes en estrategias de pensamiento y metodologías concretas de acción para futuros líderes en diseño estratégico, enfatizando la importancia de la innovación y la responsabilidad social en un mundo en constante cambio, analizando entornos y diseñando escenarios no solo posibles, sino deseables. Créditos: 4
+
+#### Junio
+
+**Innovación social y sostenibilidad**
+
+Este curso se enfoca en identificar oportunidades de innovación social y diseñar soluciones sostenibles. Los estudiantes aplicarán metodologías de diseño centrado en el usuario a desafíos socioambientales y evaluarán el impacto social y ambiental de sus proyectos. Además, aprenderán a desarrollar modelos de negocio responsables y sostenibles, y a comunicar de manera efectiva el valor de la innovación social y la sostenibilidad. Créditos: 4
+
+#### Julio - Setiembre
+
+**Gestión de la innovación y el talento**
+
+Esta materia se plantea: Reconocer el rol del liderazgo en la gestión del cambio y la implementación de la innovación, para mantener la agilidad y competitividad de las organizaciones actuales. Dominar las fases y características fundamentales en la planificación y gestión de culturas y procesos de innovación. A partir de la reflexión crítica de escenarios complejos, ser capaces de generar soluciones creativas y eficientes para mejorar los sistemas y estilos de liderazgo y gestión del talento, con foco en la innovación. Créditos: 4
+
+**Marketing de la innovación**
+
+Esta materia se plantea: Presentar los conceptos principales de la estrategia de marketing e integrarlos a los procesos de creatividad y la innovación. Reconocer la relevancia de los aspectos creativos e innovadores empleados en diferentes facetas del marketing y de las estrategias de marketing dentro del ámbito de las industrias creativas. Generar en el alumno la capacidad de liderar el proceso de llevar un producto innovador al mercado, con énfasis en la importancia de anticipar tanto el mercado como las necesidades de los clientes y en el papel de la creatividad y la innovación en el desarrollo y ejecución de la estrategia de marketing. Créditos: 4
+
+**Diseño e innovación en modelos de negocio**
+
+La asignatura tiene como objetivo familiarizar a los estudiantes con los nuevos modelos de negocios y fomentar su habilidad para identificar oportunidades de negocios, validarlas y plasmarlas en un CANVAS. Créditos: 4 https://www.youtube.com/watch?v=a9Xa1AitJVM
+
+#### Setiembre
+
+**Tendencias globales para el diseño de futuros**
+
+Este curso busca desarrollar competencias en el análisis de tendencias globales y su aplicación en el diseño estratégico. Los estudiantes explorarán herramientas para imaginar escenarios futuros y complementarán el diseño estratégico con reflexiones filosóficas y artísticas que desafían paradigmas actuales. Se promoverá una visión crítica y ética sobre las implicaciones sociales, económicas y ambientales del diseño de futuros. Créditos: 4 https://www.youtube.com/watch?v=0psTXQn2-fQ
+
+#### Octubre - Abril
+
+**Proyecto final**
+
+El Proyecto Final tiene como objetivo que los estudiantes apliquen de manera activa y creativa los conocimientos y herramientas adquiridos durante el programa. A través de este trabajo, los candidatos desarrollan un Plan de Diseño Estratégico e Innovación, ya sea de forma individual o en equipos de hasta dos personas, que refleje una investigación profunda del caso abordado y su contexto. El proyecto integra diversas áreas de conocimiento tratadas en la maestría y culmina con la presentación de un informe escrito, junto con su defensa oral ante un tribunal compuesto por docentes del programa y, en ocasiones, expertos externos. La aprobación del Proyecto Final es requisito para la obtención del título de Master en Diseño Estratégico e Innovación. Créditos: 32 Convocatoria a empresas

@@ -1,0 +1,90 @@
+---
+title: "Maestría en Robótica e Inteligencia Artificial"
+short: "Maestría en Robótica e IA"
+similar:
+  - especializacion-en-robotica-e-inteligencia-artificial-utec
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - diploma-en-inteligencia-artificial-aplicada-ude
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - master-en-inteligencia-artificial-ort
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "maestria"
+area: "Tecnologías de la Información"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No informada"
+duration: "2 años"
+cost: "No informada"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/posgrado/maestria-en-robotica-e-inteligencia-artificial/"
+contactEmail: "secretaria.pria@utec.edu.uy"
+accreditation: "UTEC"
+description: "Maestría en Robótica e Inteligencia Artificial de UTEC, continuidad de la Especialización en Robótica e IA impartida junto a FURG (Brasil) y UNRaf (Argentina). Formación semipresencial con tres áreas de énfasis: Robótica, Inteligencia Artificial e Impacto Social de la Tecnología."
+tags:
+  - informatica
+  - inteligencia-artificial
+  - robotica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La **Maestría en Robótica e Inteligencia Artificial** está dirigida a egresados/as de la [Especialización en Robótica e Inteligencia Artificial](https://utec.edu.uy/es/educacion/posgrado/especializacion-en-robotica-e-inteligencia-artificial/) impartida por **UTEC, FURG y UNRaf** que deseen ampliar, profundizar y especializar su trayectoria académica y profesional en el campo de la Inteligencia Artificial y la Robótica.
+
+La maestría está estructurada para proporcionar una formación integral que combine fundamentos teóricos, desarrollo práctico y aplicación interdisciplinaria. Los cursos abarcan áreas clave como algoritmos de aprendizaje automático, percepción y visión artificial, control de sistemas robóticos y diseño de soluciones autónomas, con un enfoque en resolver problemas reales en sectores como la industria 4.0, la salud u otros.
+
+El **Programa de Posgrado en Robótica e Inteligencia Artificial** se estructura en dos tramos formativos:
+
+- Especialización en Robótica e Inteligencia Artificial (duración: 18 meses)
+- Maestría en Robótica e Inteligencia Artificial (duración: 24 meses)
+
+Las personas interesadas pueden cursar la Especialización como una formación completa en sí misma o continuar, posteriormente, hacia la Maestría.
+
+### Título Intermedio
+
+El título intermedio de especialización es emitido de forma conjunta por la Universidade Federal do Rio Grande (FURG, Brasil), la Universidad Nacional de Rafaela (UNRaf, Argentina) y la Universidad Tecnológica (UTEC, Uruguay), con validez trinacional sin necesidad de reválida. Luego de culminada la especialización, el tramo de maestría es ofrecido por UTEC, en Uruguay, con el apoyo del Centro de Ciencias Computacionales de FURG.
+
+### Áreas de Énfasis
+
+La Maestría presenta **tres áreas de énfasis** entre las que el estudiante deberá elegir:
+
+- **Robótica:** diseño de algoritmos robóticos, integración de sensores y actuadores, programación en tiempo real y modelado y simulación de sistemas robóticos.
+- **Inteligencia Artificial:** desarrollo de modelos de aprendizaje automático y profundo, análisis de grandes volúmenes de datos, optimización de algoritmos e implementación de sistemas inteligentes en aplicaciones reales.
+- **Impacto Social de la Tecnología:** análisis crítico de los efectos de las tecnologías emergentes, abordaje ético y regulatorio, promoción de la inclusión y diseño de estrategias adaptativas para instituciones educativas.
+
+### Modalidad
+
+La maestría se cursa en **modalidad semipresencial** con una instancia presencial por semestre de carácter obligatorio.
+
+### Salida Laboral
+
+- Robótica
+- Automatización inteligente
+- IA industrial
+- Investigación
+
+Los egresados podrán trabajar en empresas e instituciones del sector público o privado en temáticas como manufactura, salud, educación, servicios, agronegocios y/o medio ambiente.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- La primera cohorte está orientada a egresados de la Especialización en Robótica e Inteligencia Artificial, o a estudiantes en la etapa final de su cursado (restándoles únicamente la defensa y entrega del trabajo final).
+- Podrán acceder al cuarto semestre de la maestría quienes hayan aprobado los créditos correspondientes al tramo Especialización.
+- La segunda cohorte, prevista para 2027, estará disponible para graduados de carreras universitarias o terciarias equivalentes o reconocidas como tales, de al menos cuatro años de duración. Podrán participar además quienes certifiquen los siguientes títulos: Ingenieros Tecnológicos (DGETP-UTU), Docentes egresados del CFE/ANEP y Tecnólogos.
+- Los aspirantes deben tener interés en la temática y conocimientos básicos y comprobados de programación, lo cual se evaluará por medio de una prueba específica.
+
+### Proceso de Selección
+
+Se ofrecerán un total de **10 cupos**. El proceso de selección tendrá como requisito excluyente la preinscripción desde el formulario web, presentando la documentación solicitada en el llamado de selección correspondiente. La totalidad de postulantes deberá pasar por un proceso de selección, generalmente definido por las siguientes etapas:
+
+1. Análisis de documentación.
+2. Presentación y análisis de propuesta de trabajo final de Maestría.
+
+El proceso de selección se realizará por un tribunal integrado por profesores representantes de la Maestría. El ingreso se realiza mediante llamados específicos para cada cohorte.

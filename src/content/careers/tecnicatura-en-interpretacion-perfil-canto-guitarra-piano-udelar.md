@@ -1,0 +1,49 @@
+---
+title: "Tecnicatura en Interpretación - Perfil Canto- Guitarra- Piano"
+similar:
+  - tecnicatura-en-direccion-de-coros-udelar
+  - licenciatura-en-direccion-coral-udelar
+  - licenciatura-en-interpretacion-musical-udelar
+  - licenciatura-en-jazz-y-musica-creativa-utec
+  - tecnologo-en-jazz-y-musica-creativa-utec
+  - licenciatura-en-artes-escenicas-ucu
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnicatura"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://udelar.edu.uy/carrerasinterior/tecnicatura-en-interpretacion/"
+location: "Salto"
+description: "Las tecnicaturas han logrado, en más de una década de existencia, una muy buena inserción laboral para sus egresados; han sido concebidas como una oportunidad de formar músicos conocedores de su propio medio para incidir en él como generadores de cultura en la propia región. Opciones: Guitarra, Piano, Canto. Objetivos: - Contribuir a la formación de docentes a fin de incrementar la capacidad docente musical de la región."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - musica
+  - interpretacion-musical
+  - canto
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://udelar.edu.uy/carrerasinterior/tecnicatura-en-interpretacion/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-interpretacion-perfil-canto-guitarra-piano'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Las tecnicaturas han logrado, en más de una década de existencia, una muy buena inserción laboral para sus egresados; han sido concebidas como una oportunidad de formar músicos conocedores de su propio medio para incidir en él como generadores de cultura en la propia región. Opciones: Guitarra, Piano, Canto. Objetivos: - Contribuir a la formación de docentes a fin de incrementar la capacidad docente musical de la región. - Brindar al estudiante conocimientos y habilidades básicas y sólidas en interpretación o dirección de conjuntos, así como en aspectos fundamentales de la teoría de la música, que le permitan desarrollar las herramientas fundamentales para su desempeño como músico. - Ofrecer una formación musical sólida que habilite al estudiante a continuar sus estudios musicales superiores.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Demostrar poseer conocimientos musicales mediante pruebas (Lectura y escritura musical e instrumento o canto) cuyas características son establecidas por el Consejo de Facultad de Artes. Pase de Secundaria o Bachillerato Técnico de UTU (cualquier orientación). El pase deberá estar dirigido a: Universidad de la República. Cédula de Identidad original y fotocopia. Además, todos los estudiantes están obligados a la presentación del carné de salud básico vigente expedido por cualquier institución habilitada del Ministerio de Salud Pública. Para la presentación de dicho carné, los estudiantes que ingresan a la Universidad de la República tendrán plazo hasta el 31 de octubre del año de ingreso, vencido el cual, el estudiante quedará inhabilitado para realizar trámites en Bedelía.

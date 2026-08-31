@@ -1,0 +1,50 @@
+---
+title: "Licenciatura en Neumocardiología"
+similar:
+  - cirugia-cardiaca-especializacion-udelar
+  - cirugia-toracica-especializacion-udelar
+  - cardiologia-especializacion-udelar
+  - neumologia-especializacion-udelar
+  - neumologia-pediatrica-especializacion-udelar
+  - anestesiologia-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neumocardiologia"
+location: "Facultad de Medicina"
+description: "El Licenciado en Neumocardiología está capacitado para la realización de algunas técnicas diagnósticas y de tratamiento realizadas dentro de las áreas cardiológicas, neumológicas, centro de cuidados intensivos, recuperación posanestésica y cirugía cardíaca."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - salud
+  - cardiologia
+  - neumologia
+  - cuidados-intensivos
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neumocardiologia'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-neumocardiologia'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Licenciado en Neumocardiología está capacitado para la realización de algunas técnicas diagnósticas y de tratamiento realizadas dentro de las áreas cardiológicas, neumológicas, centro de cuidados intensivos, recuperación posanestésica y cirugía cardíaca.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Se ingresa a través de Prueba de Ingreso según los cupos ofertados por cada carrera. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Inscripción condicional hasta con una asignatura previa a aprobar en el período de exámenes de abril para que la inscripción quede confirmada.

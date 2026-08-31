@@ -1,0 +1,88 @@
+---
+title: "Ingeniería Biomédica"
+short: "Ing. Biomédica"
+similar:
+  - tecnologo-en-ingenieria-biomedica-utec
+  - ingenieria-biomedica-ucu
+  - licenciatura-en-imagenologia-udelar
+  - tecnicatura-en-radioisotopos-udelar
+  - tecnicatura-en-radioterapia-udelar
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "ingenieria"
+area: "Mecatrónica, Logística y Biomédica"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No informada"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-biomedica/"
+contactEmail: "secretaria.biomedica@utec.edu.uy"
+location: "Fray Bentos (ITR Suroeste)"
+accreditation: "UTEC"
+description: "Ingeniería gratuita en Biomédica de UTEC, presencial en Fray Bentos. Formación en mantenimiento, adquisición y gestión de equipos biomédicos y tecnología para el sector salud. Título intermedio de Tecnólogo."
+tags:
+  - ingenieria-biomedica
+  - salud
+  - tecnologia-medica
+  - dispositivos-medicos
+  - equipos-biomedicos
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El egresado de esta carrera se encargará de la planificación, ejecución y evaluación del mantenimiento de equipos biomédicos, así como de su adquisición y descarte, de acuerdo con los planes maestros de las instituciones de salud y otras relacionadas con el sector. Además, tendrá una visión general del sector de la salud desde el punto de vista tecnológico, con capacidad de diálogo interdisciplinario.
+
+La carrera se dicta en **modalidad presencial** en la sede de Fray Bentos (Río Negro).
+
+### Título Intermedio
+
+Al finalizar el tercer año, el estudiante puede acceder a la titulación intermedia de **Tecnólogo/a en Ingeniería Biomédica**.
+
+### Competencias del Egresado
+
+**Egresados del Tecnólogo** serán competentes para:
+
+- Diseño y realización de instalaciones, dispositivos, instrumentos y sistemas de instrumentos destinados a uso médico, utilizando recursos de Ingeniería Biomédica.
+- Gestión de instalaciones, dispositivos, instrumentos y sistemas de instrumentos destinados a uso médico (incluye gestión de mantenimiento y reparación, gestión de normativas, buenas prácticas de uso, peritajes técnicos).
+
+**Egresados de la Ingeniería** serán competentes para:
+
+- Diseño y realización de instrumentos y sistemas de instrumentos para uso médico.
+- Gestión de instalaciones, dispositivos, instrumentos y sistemas de instrumentos destinados a uso médico.
+- Diseño y ejecución de Proyectos de Investigación, Desarrollo e Innovación (I+D+i) en Ingeniería Biomédica y en Medicina.
+- Dirección / Dirección Técnica en unidades de prestación de servicios para la salud.
+
+### Salida Laboral
+
+- Gestión de tecnología en salud
+- Mantenimiento e instrumentación biomédica
+- Investigación, desarrollo e innovación en el sector salud
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de Educación Media Superior del Consejo de Educación Secundaria (CES) en todas las diversificaciones.
+- Egresados de la Educación Media Superior de la Dirección General de Educación Técnico Profesional (DGETP-UTU) en todas sus orientaciones: Bachillerato Figari (BF), Bachillerato Profesional (BP), Cursos Técnicos (CT), Educación Media Tecnológica (EMT) y Finalización de la Educación Media Tecnológica (FINEST).
+- Podrán preinscribirse los estudiantes del CIO en Ciencia y Tecnología de la Universidad de la República (Cenur Litoral Norte) con al menos 50 créditos aprobados, aunque no hayan cursado la orientación de Educación Media Superior que exija la carrera.
+
+Si te interesa esta carrera y no cumplís sus requisitos de ingreso, pero tenés experiencia profesional en el área, podés considerar la posibilidad de [acreditar saberes](https://utec.edu.uy/es/estudiantes/acreditacion-de-saberes/) para el ingreso especial.
+
+### Proceso de Preinscripción
+
+Las preinscripciones a las carreras de grado de UTEC inician generalmente en el mes de noviembre y se realizan a través de un formulario web. La documentación necesaria es la siguiente:
+
+- Cédula de identidad
+- Carné de salud vigente o constancia de que se encuentra en trámite
+- Pase de Enseñanza Media Superior (fórmula 69A de bachillerato o constancia de egreso del CES o DGETP-UTU)
+- Carta de motivación
+- Constancia de votación
+
+En el caso de aquellas carreras que no poseen límite de cupos para el ingreso o cuyos cupos no son superados en el primer período de preinscripciones, se abre una nueva instancia en el período enero-febrero.

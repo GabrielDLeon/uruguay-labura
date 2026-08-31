@@ -1,0 +1,57 @@
+---
+title: "Tecnólogo en Jazz y Música Creativa"
+short: "Tecnólogo en Jazz y Música Creativa"
+similar:
+  - licenciatura-en-jazz-y-musica-creativa-utec
+  - tecnicatura-en-direccion-de-coros-udelar
+  - productor-musical-ort
+  - licenciatura-en-musica-udelar
+  - ciclo-de-introduccion-la-musica-udelar
+  - licenciatura-en-interpretacion-musical-udelar
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "tecnologo"
+area: "Innovación y Emprendimientos"
+modality: "hibrido"
+shift: "day"
+weeklyHours: "No informada"
+duration: "3 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-jazz-y-musica-creativa/"
+location: "Mercedes, Soriano (ITR Suroeste)"
+accreditation: "UTEC"
+description: "Tecnólogo en Jazz y Música Creativa, título intermedio de la Licenciatura en Jazz y Música Creativa de UTEC. Interpretación, composición y producción musical."
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+tags:
+  - musica
+  - interpretacion-musical
+  - composicion
+  - produccion-musical
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Tecnólogo en Jazz y Música Creativa es el título intermedio de la Licenciatura en Jazz y Música Creativa, obtenido al completar el tercer año de estudios.
+
+### Título Intermedio
+
+Esta carrera es en sí misma el **título intermedio de la Licenciatura en Jazz y Música Creativa**.
+
+### Becas
+
+Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de Educación Media Superior
+
+### Proceso de Selección
+
+El ingreso requiere una **evaluación diagnóstica**.

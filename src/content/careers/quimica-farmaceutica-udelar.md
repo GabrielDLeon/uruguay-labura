@@ -1,0 +1,51 @@
+---
+title: "Química Farmacéutica"
+similar:
+  - bioquimico-clinico-udelar
+  - quimico-udelar
+  - ingenieria-quimica-udelar
+  - licenciatura-en-tecnologias-de-la-quimica-udelar
+  - licenciatura-en-quimica-udelar
+  - farmacia-hospitalaria-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "carrera"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fq.edu.uy/es/node/619"
+location: "Facultad de Química; Salto"
+description: "Es el profesional de la salud con sólidos conocimientos relacionados con el medicamento y productos afines así como con la interacción de sustancias químicas con los seres vivos sanos o enfermos. Es un profesional tanto capacitado para integrarse a equipos multidisciplinarios en el área de la Salud, como comprometido con la satisfacción de las necesidades de la sociedad relativas a la salud y a la calidad de vida de sus integrantes."
+startDate: ""
+applicationDeadline: ""
+credits: 450
+tags:
+  - quimica-farmaceutica
+  - farmacia
+  - quimica
+  - farmacologia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fq.edu.uy/es/node/619'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/quimica-farmaceutica'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es el profesional de la salud con sólidos conocimientos relacionados con el medicamento y productos afines así como con la interacción de sustancias químicas con los seres vivos sanos o enfermos. Es un profesional tanto capacitado para integrarse a equipos multidisciplinarios en el área de la Salud, como comprometido con la satisfacción de las necesidades de la sociedad relativas a la salud y a la calidad de vida de sus integrantes. Estos profesionales estarán capacitados para trabajar en las siguientes áreas: Área tecnológica-biotecnológica: Dirigir, diseñar y ejecutar las actividades de investigación, desarrollo, producción, control y aseguramiento de la calidad, registro, normatización, validación y comercialización de medicamentos y productos afines. Área de la atención farmacéutica: Dirigir, diseñar, asesorar y ejecutar las actividades de planificación, gestión y administración de la atención sanitaria en farmacia hospitalaria y farmacia comunitaria. Esto comprende tareas tales como la dispensación, el asesoramiento en el uso racional de medicamentos e insumos, la colaboración con otros profesionales de la salud en la prestación de una farmacoterapia adecuada con objeto de lograr resultados terapéuticos definidos, la monitorización de fármacos, el seguimiento y evaluación de los resultados de la farmacoterapia tanto para el paciente como para las instituciones sanitarias y la prestación de servicios de prevención y promoción de la salud a la comunidad. Área de salud pública y medio ambiente: Investigar y analizar la presencia de tóxicos en materiales biológicos, alimentos, medicamentos y productos afines.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, orientación Científica, opción Ingeniería. Orientación Biológica, opción Medicina o Agronomía. Bachillerato Bicultural (Liceo Alemán). Bachillerato Diversificado Científico, orientación Físico-Matemática, Ciencias Biológicas, Ciencias Agrarias (Plan Reformulación 2006). Bachillerato Ciencias de la Vida y la Salud: opción Salud y Deporte y opción Recursos Naturales y Medio Ambiente (Plan 2003). Egresados DGETP-UTU que cumplan determinadas condiciones, ver requisitos https://www.fq.edu.uy//es/node/60 Se puede cursar solo primer año en el Centro Universitario Regional Litoral Norte, sede Salto.

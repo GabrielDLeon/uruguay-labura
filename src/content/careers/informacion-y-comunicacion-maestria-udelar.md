@@ -1,0 +1,71 @@
+---
+title: "Maestría en Información y Comunicación"
+similar:
+  - licenciatura-en-comunicacion-udelar
+  - licenciatura-en-comunicacion-ort
+  - comunicacion-de-la-ciencia-y-la-tecnologia-especializacion-udelar
+  - maestria-en-comunicacion-organizacional-ucu
+  - maestria-en-direccion-de-comunicacion-um
+  - master-en-creatividad-innovacion-y-comunicacion-ort
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=96&idPosgrado=99"
+location: "Facultad de Información y Comunicación, Montevideo"
+description: "La Maestría en Información y Comunicación (MIC) es una carrera de posgrado, acargo de la Facultad de Información y Comunicación (FIC), cuya primera cohortecomenzó a desarrollarse en diciembre de 2011.Se inserta en la justificación y loscriterios sustentados por el Programa de Desarrollo Académico de la Información y laComunicación aprobado por el Consejo Directivo Central (CDC) en la sesión del 12 demayo de 2009."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - comunicacion
+  - informacion
+  - medios
+  - gestion-de-informacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=96&idPosgrado=99'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=96&idPosgrado=99'
+---
+
+## Resumen
+
+### Objetivo
+
+La Maestría en Información y Comunicación (MIC) es una carrera de posgrado, a cargo de la Facultad de Información y Comunicación (FIC), cuya primera cohorte comenzó a desarrollarse en diciembre de 2011.Se inserta en la justificación y los criterios sustentados por el Programa de Desarrollo Académico de la Información y la Comunicación aprobado por el Consejo Directivo Central (CDC) en la sesión del 12 de mayo de 2009. Responde fundamentalmente a la necesidad de que la Universidad de la República (Udelar),asuma la responsabilidad de reflexionar críticamente y producir conocimiento en áreas de información y comunicación por entenderlas estratégicas y en constante dinamismo. En momentos de fuerte expansión de las tecnologías de la información y comunicación, dichas áreas asumen una centralidad en la agenda pública, que demandan contribuciones académicas que aporten propuestas al debate público entorno a estos temas. Las transformaciones que afectan estas áreas producen un campo de alta complejidad que exige abordajes interdisciplinarios. Este programa de Maestría se enfoca al estudio de diversos tipos de mediación social: pasados, presentes y con perspectivas de futuro. Los objetivos generales son los siguientes: Fomentar la investigación en Información y Comunicación a través de la formación de recursos humanos calificados, que promueva la conformación de espacios interdisciplinarios de generación de conocimiento. Consolidar la posición de la FIC como referente nacional e internacional en la generación de conocimiento en las áreas de Información y Comunicación.
+
+### Perfil de egreso
+
+El egresado de la MIC habrá desarrollado capacidades en investigación orientadas al análisis crítico y la articulación de conocimientos. Dispondrá de herramientas teóricas ymetodológicas aplicables a las áreas de Comunicación e Información. Estará encondiciones de iniciarse en investigación e integrar equipos, así como de continuar su formación académica en un programa de doctorado.
+
+### Referentes académicos
+
+Mag. Gastón Beguerie, Mag. Leonardo Secco,Mag.Virginia Martínez,Mag. Leticia Zuppardi, Mag. Jimena Brusa,Mag. Alejandra Villar (alterna), Dra. Olga Picún (alterna), Dr. José Fager (alterno)
+
+## Ingreso
+
+### Reglamento
+
+https://fic.edu.uy/sites/default/files/inline-files/Reglamento%20de%20las%20Actividades%20de%20Posgrado%20y%20Educaci%C3%B3n%20Permanente%20de%20la%20FIC%20-%20mayo%202016.pdf
+
+### Requisitos de Ingreso
+
+Pueden ingresar a la MIC: Egresados de la Universidad de la República con título de grado(licenciatura) en Bibliotecología, Archivología o Comunicación. Quienes hayan realizado otros estudios que a juicio del Comité Académicode la Maestría en Información y Comunicación (CAMIC) acrediten unaformación que le permita la realización y aprovechamiento del plan deestudios. La selección de los maestrandos está a cargo del Comité Académico de la MIC. Requisitos de postulación: Formulario de postulación firmado. Tiene carácter de declaración jurada. (Descargar el formulario de la web de la FIC www.fic.edu.uy) Carta de motivos en la que exprese sus intereses. Anteproyecto de tesis. (Descargar formulario de la web de la FIC www.fic.edu.uy) Documento de identidad. Título habilitante: graduado universitario. Escolaridad o historial de estudios de grado. Currículum completo en el formato de CVuy de la ANII. El CV enviado será tomado como declaración jurada, pudiéndose solicitar la documentación original que acredite los méritos. La documentación debe ser enviada por correo electrónico a la Coordinación de posgrados de la FIC. No se recibirán postulaciones fuera del periodo establecido, ni con documentación incompleta.
+
+## Plan de Estudio
+
+### Programa
+
+La MIC se organiza en base a dos perfiles: Información y Comunicación. A su vez, contiene módulos entendidos como un conjunto de actividades curriculares con un objetivo en común. Los módulos son los siguientes: Metodológico de investigación y de producción de la tesis. (18 créditos) Tendencias teóricas de Información y Comunicación. (16 créditos) Temático Información (Especfícifo para el perfil Información) (12 créditos) Temático Comunicación (Específico para el perfil Comunicación (12 créditos) Herramientas para la Información y la Comunicación. (14 créditos)
+
+### Unidades curriculares
+
+Obligatorias Módulo metodológico de investigación y de producción de la tesis Bases metodológicas de la investigación. Análisis cuantitativo aplicado Análisis cuanlitativo aplicado Módulo tendencias teóricas de Información y Comunicación Teoría de la Información Teoría de la Comunicación Módulo herramientas para la Información y la Comunicación Taller de tesis I Taller de tesis II Taller de escritura

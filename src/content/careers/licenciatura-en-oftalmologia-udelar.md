@@ -1,0 +1,44 @@
+---
+title: "Licenciatura en Oftalmología"
+similar:
+  - oftalmologia-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-oftalmologia"
+location: "Facultad de Medicina"
+description: "Los Licenciados en Oftalmología están capacitados para realizar exámenes de rutina como: medida capacidad visual, medida tensión ocular y manejo de aparatos: refractómetros, lensómetros y todos aquellos que sean incorporados a la consulta oftalmológica. Realiza en exclusividad estudios contribuyente"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - medicina
+  - oftalmologia
+  - optometria
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-oftalmologia'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-oftalmologia'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Los Licenciados en Oftalmología están capacitados para realizar exámenes de rutina como: medida capacidad visual, medida tensión ocular y manejo de aparatos: refractómetros, lensómetros y todos aquellos que sean incorporados a la consulta oftalmológica. Realiza en exclusividad estudios contribuyentes a la valoración del estado funcional del paciente tales como: estudio diplopia, estudios motores y sensoriales incluyendo medidas pre y post operatorias del estrabismo, discriminación cromática, adaptometría, Amsler, campo visual con todas las técnicas utilizadas: convencionales, automatizadas y/o computarizadas. Rehabilitación en pacientes con visión subnormal para su inserción en el medio. Responsable de la recuperación visual del niño estrábico. Colabora integrando el equipo multidisciplinario en la profilaxis de la salud visual. Se capacita para instrumentaciones en cirugías de oftalmología encargándose de todo instrumental y material quirúrgico de la especialidad.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Se ingresa a través de Prueba de Ingreso según los cupos ofertados por cada carrera. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Inscripción condicional hasta con una asignatura previa a aprobar en el período de exámenes de abril para que la inscripción quede confirmada.

@@ -68,9 +68,9 @@ export async function fetchAndProcessJobs(sourceUrl) {
       throw new Error("Invalid gist payload: root must be an object");
     }
 
-    if (!Array.isArray(payload.jobs) || payload.jobs.length === 0) {
+    if (!Array.isArray(payload.jobs)) {
       throw new Error(
-        "Invalid gist payload: root.jobs must be a non-empty array",
+        "Invalid gist payload: root.jobs must be an array",
       );
     }
 
@@ -205,17 +205,22 @@ export async function fetchAndProcessJobs(sourceUrl) {
   }
 
   const sourcePayload = await readSourceData(sourceUrl);
-  const nowIso = new Date().toISOString();
+  // Day precision: keeps the generated dataset byte-identical between builds
+  // on the same day, so the module hash of jobs.generated.json doesn't change.
+  const nowIso = new Date().toISOString().slice(0, 10);
   const rawJobs = flattenRawJobs(sourcePayload);
   const jobs = sortJobsByClosingDate(
     rawJobs.map((rawJob) => normalizeJob(rawJob, nowIso)),
   );
+
+  const dashboard = computeDashboard(jobs, nowIso);
 
   const normalized = {
     source: sourceName,
     scrapedAt: nowIso,
     total: jobs.length,
     jobs,
+    dashboard,
   };
 
   await writeDataset(normalized);
@@ -223,6 +228,97 @@ export async function fetchAndProcessJobs(sourceUrl) {
   console.log(
     `[prebuild-jobs] Dataset ready at src/data/jobs.generated.json with ${jobs.length} jobs`,
   );
+}
+
+function computeDashboard(jobs, nowIso) {
+  const now = new Date(nowIso);
+  const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+
+  function isActive(job) {
+    if (job.status !== "abierto") return false;
+    if (!job.closingDate) return true;
+    const closing = new Date(job.closingDate);
+    const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());
+    return closeDay >= todayStart;
+  }
+
+  const activeJobs = jobs.filter(isActive);
+
+  // --- Top 10 organizations ---
+  const orgCounts = new Map();
+  for (const job of activeJobs) {
+    if (job.organization) {
+      orgCounts.set(job.organization, (orgCounts.get(job.organization) ?? 0) + 1);
+    }
+  }
+  const topOrganizations = [...orgCounts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
+    .map(([name, count]) => ({ name, count }));
+
+  // --- Task type distribution ---
+  const taskTypeCounts = new Map();
+  for (const job of activeJobs) {
+    if (job.taskType) {
+      taskTypeCounts.set(job.taskType, (taskTypeCounts.get(job.taskType) ?? 0) + 1);
+    }
+  }
+  const totalWithType = activeJobs.reduce((sum, j) => sum + (j.taskType ? 1 : 0), 0);
+  const taskTypeDistribution = [...taskTypeCounts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([name, count]) => ({
+      name,
+      count,
+      percentage: Math.round((count / totalWithType) * 1000) / 10,
+    }));
+
+  // --- Quota jobs ---
+  const quotaJobs = {
+    afrodescendientes: activeJobs.filter((j) => j.quotas.afrodescendientes).length,
+    trans: activeJobs.filter((j) => j.quotas.trans).length,
+    discapacidad: activeJobs.filter((j) => j.quotas.discapacidad).length,
+    victimas: activeJobs.filter((j) => j.quotas.victimasDelitosViolentos).length,
+  };
+
+  // --- Next 7 days closing ---
+  const sevenDaysFromNow = new Date(todayStart);
+  sevenDaysFromNow.setDate(sevenDaysFromNow.getDate() + 7);
+
+  const closingByDate = new Map();
+  for (const job of activeJobs) {
+    if (job.closingDate) {
+      const closing = new Date(job.closingDate);
+      const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());
+      if (closeDay >= todayStart && closeDay <= sevenDaysFromNow) {
+        const key = job.closingDate;
+        closingByDate.set(key, (closingByDate.get(key) ?? 0) + 1);
+      }
+    }
+  }
+  const byDate = [...closingByDate.entries()]
+    .sort((a, b) => a[0].localeCompare(b[0]))
+    .map(([date, count]) => ({ date, count }));
+  const totalClosing = byDate.reduce((sum, d) => sum + d.count, 0);
+
+  // --- Evolution (current snapshot) ---
+  const evolution = [
+    {
+      date: nowIso.slice(0, 10),
+      total: activeJobs.length,
+      organizations: topOrganizations.length,
+    },
+  ];
+
+  return {
+    topOrganizations,
+    taskTypeDistribution,
+    quotaJobs,
+    next7Days: {
+      totalClosing,
+      byDate,
+    },
+    evolution,
+  };
 }
 
 const isMainModule = process.argv[1] === fileURLToPath(import.meta.url);

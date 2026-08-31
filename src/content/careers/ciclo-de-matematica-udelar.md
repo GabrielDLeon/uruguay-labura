@@ -1,0 +1,53 @@
+---
+title: "Ciclo Inicial de Matemática"
+similar:
+  - licenciatura-en-matematica-udelar
+  - matematica-maestria-udelar
+  - matematica-doctorado-udelar
+  - ciclo-cientifico-tecnologico-udelar
+  - ingenieria-matematica-maestria-udelar
+  - ingenieria-fisico-matematica-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "ciclo"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-ciclo-inicial-en-matematica"
+location: "Salto"
+description: "Es una continuación natural del Ciclo Inicial Optativo del Área Científico Tecnológico que se brinda en la sede Salto, Cenur Litoral Norte."
+startDate: ""
+applicationDeadline: ""
+credits: 160
+tags:
+  - matematica
+  - ciencias-exactas
+  - algebra
+  - analisis-matematico
+listable: false
+searchable: true
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-ciclo-inicial-en-matematica'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/ciclo-inicial-de-matematica'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es una continuación natural del Ciclo Inicial Optativo del Área Científico Tecnológico que se brinda en la sede Salto, Cenur Litoral Norte.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+* 1 foto carné * Cédula de identidad vigente (copia y original). * fotocopia carné de salud. PODRÁN INGRESAR: Los estudiantes de Facultad de Ingeniería y de Facultad de Ciencias deberán presentar escolaridad con materias aprobadas: Cálculo I Y II; Álgebra I y II y/o similar en equivalencia. PASE DE SECUNDARIA: Fórmula 69 A o Fórmula 69 B indicando la Orientación correspondiente, dirigida a: Cenur Litoral Norte - Universidad de la República Estudiantes que ejercen como profesores sin tener un título del IFD o del CERP, DEBERÁN PRESENTAR escolaridad con programas avalados por la institución.

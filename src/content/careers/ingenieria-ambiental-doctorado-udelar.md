@@ -1,0 +1,57 @@
+---
+title: "Doctorado en Ingeniería Ambiental"
+similar:
+  - ingenieria-ambiental-especializacion-udelar
+  - ingenieria-ambiental-maestria-udelar
+  - ingenieria-ambiental-ucu
+  - maestria-en-gestion-ambiental-ude
+  - tecnologo-en-control-ambiental-utec
+  - licenciatura-en-gestion-ambiental-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "doctorado"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=74"
+location: "Facultad de Ingeniería, Montevideo"
+description: "La carrera de Doctorado constituye el nivel superior de formación de posgrado en el área de conocimiento de la Ingeniería Ambiental. Su objetivo específico es asegurar la formación de investigadores con un alto nivel, que permita el desarrollo de investigación original en el país, así como la incorporación al mismo de la tecnología más avan"
+startDate: ""
+applicationDeadline: "Facultad de Ingeniería"
+tags:
+  - ingenieria-ambiental
+  - ingenieria
+  - medio-ambiente
+  - gestion-ambiental
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=74'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=74'
+---
+
+## Resumen
+
+### Objetivo
+
+La carrera de Doctorado constituye el nivel superior de formación de posgrado en el área de conocimiento de la Ingeniería Ambiental. Su objetivo específico es asegurar la formación de investigadores con un alto nivel, que permita el desarrollo de investigación original en el país, así como la incorporación al mismo de la tecnología más avanzada en esta área para beneficio de la sociedad.
+
+### Referentes académicos
+
+Elizabeth González
+
+## Ingreso
+
+### Reglamento
+
+Los aspectos no mencionados explícitamente en este reglamento se ajustan a lo establecido por los documentos: Ordenanza de las Carreras de Posgrado de la Universidad de la República, aprobado en fecha 25/09/01 por el Consejo Directivo Central y el Reglamento General de las Actividades de Posgrado y Educación Permanente de la Facultad de Ingeniería (RGP-FING).Artículo 4. La Sub Comisión Académica de Posgrado en el área de Ingeniería Ambiental (SCAPA-IA) supervisará las actividades ligadas al desarrollo del Doctorado en Ingeniería Ambiental, sin perjuicio de las competencias que correspondan a la Comisión Académica de Posgrado de la Facultad de Ingeniería (CAP) y al Consejo de la Facultad de Ingeniería. La SCAPA-IA estará integrada por tres miembros, de los cuales al menos uno será docente del IMFIA y al menos otro del IIQ.
+
+### Requisitos de Ingreso
+
+Podrán acceder al Doctorado quienes posean título de Magíster en Ingeniería Ambiental, otorgado por la Facultad de Ingeniería de la Universidad de la República, u otra Maestría cuya formación en Ingeniería Ambiental, a juicio de la SCAPA-IA, sea suficiente para realizar la carrera de Doctorado. Con carácter excepcional la SCAPA-IA podrá recomendar a la CAP de la Facultad de Ingeniería el ingreso a la carrera de Doctorado de candidatos que teniendo el nivel de grado en Ingeniería, demuestren una actividad de carácter científico y/o de innovación tecnológica suficiente y acreditada, que permitan la realización del Doctorado.

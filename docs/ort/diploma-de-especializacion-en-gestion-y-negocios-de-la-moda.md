@@ -1,0 +1,147 @@
+# Diploma de Especialización en Gestión y Negocios de la Moda
+
+## Metadata
+
+- Nombre oficial: Diploma de Especialización en Gestión y Negocios de la Moda
+- Tipo: Diploma de Especialización
+- Área: Comunicación
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: Un año (puede cursarse hasta en dos años) (según la página oficial). Nota: el JSON-LD del sitio indica 13 meses, hay información contradictoria entre fuentes.
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Los candidatos deben ser graduados de carreras de grado universitario y contar con experiencia laboral previa, sujeta a consideración del Comité académico. Serán admitidos al postgrado luego de pasar por el proceso de postulación. Revalidación de materias Una reválida consiste en reconocer créditos académicos obtenidos por un estudiante en otras instituciones universitarias, a efectos de la aprobación de asignaturas en una carrera de la Universidad ORT Uruguay. Puede aplicarse a estudiantes que cursaron en otras instituciones y transfieren a Universidad ORT Uruguay, o a estudiantes de la Universidad ORT Uruguay que obtuvieron créditos académicos en actividades de intercambio estudiantil. Más información Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los graduados La propuesta busca que los profesionales fortalezcan sus habilidades directivas, a partir de competencias de liderazgo, negociación y visión empresarial, desde una perspectiva innovadora y estratégica, que fomente la creatividad y la capacidad de adaptación, en un sector en constante evolución, desde principios éticos y con la debida reflexión del impacto de sus decisiones en el largo plazo, tanto de sus marcas y negocios como del entorno en el que operan.
+- Salida laboral: Perfil de los graduados La propuesta busca que los profesionales fortalezcan sus habilidades directivas, a partir de competencias de liderazgo, negociación y visión empresarial, desde una perspectiva innovadora y estratégica, que fomente la creatividad y la capacidad de adaptación, en un sector en constante evolución, desde principios éticos y con la debida reflexión del impacto de sus decisiones en el largo plazo, tanto de sus marcas y negocios como del entorno en el que operan.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante. La Escuela de Postgrados y Actualización en Comunicación y Diseño ofrece fondos de becas para facilitar el acceso de profesionales con alto potencial a sus programas. Incluye apoyos para emprendedores, jóvenes talentos, candidatos con necesidad financiera, estudiantes del interior y estudiantes internacionales.
+- Página oficial: https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-gestion-y-negocios-de-la-moda
+
+## Resumen
+
+Este primer diploma busca preparar a profesionales y emprendedores con una visión y capacitación diferencial para operar con éxito en la industria de la moda.
+
+- Dirigir y gestionar empresas y negocios de la moda
+- Crear modelos de negocio creativos e innovadores
+- Anticipar y liderar desafíos y oportunidades globales de negocio
+
+Este primer diploma especializado en gestión y negocios de la moda del país busca preparar a profesionales y emprendedores con una visión y una capacitación diferenciales para operar con éxito en la industria de la moda.
+
+A partir de una visión integral, los graduados podrán anticipar y liderar los desafíos y las oportunidades de negocio que ofrece este rubro, en constante transformación a nivel global.
+
+Serán capaces de diseñar y gestionar estrategias eficientes, innovadoras y creativas en la administración de empresas del sector, lo que les permitirá optimizar la rentabilidad para escalar sus resultados e internacionalizar sus producciones, a partir de la toma de decisiones acertadas en términos de modelo de negocio, operaciones y oportunidades financieras y comerciales.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### Abril - Junio
+
+
+**Dirección de empresas de moda**
+
+La materia busca comprender el ecosistema de la industria de la moda y su importancia en la economía global, regional y local. Para eso, se analizarán y aplicarán estrategias para iniciar, crecer y consolidar una empresa de moda, se profundizará en el diseño organizacional y la gestión de áreas clave en una empresa de moda, se examinarán los aspectos financieros y su relación con la creatividad y la innovación, así como también se abordará la internacionalización como una estrategia de crecimiento y consolidación. Contenidos Introducción a la dirección de empresas de moda y modelos de negocio. Fundamentos para iniciar una empresa de moda: de la visión a la ejecución. Estrategias de crecimiento, diversificación y alianzas estratégicas. Diseño organizacional y gestión de equipos. Finanzas empresariales y KPIs en la industria de la moda. Internacionalización y expansión global. Equilibrio entre creatividad, innovación y rentabilidad.
+
+**Planificación y gestión financiera​**
+
+Esta materia tiene como objetivos: Interpretar los estados financieros con principal foco en el estado de resultados, con el objetivo de utilizar información para la planificación y gestión del negocio de moda. Entender las tres decisiones financieras en una empresa: inversión, financiamiento y dividendos. Elaborar presupuestos financieros y herramientas de seguimiento de control de gestión y análisis de desvíos. Elaborar e interpretar proyecciones de flujos de caja operativos para la toma de decisiones. Contenidos Presentación de estados financieros. Enfoque de entendimiento y análisis. Definición de principales KPIs financieros, cálculo e interpretación. Presentación de las tres decisiones financieras de una empresa. Concepto de inversión en capital de trabajo y capital fijo, financiamiento propio y de terceros y decisiones de dividendos. Elaboración de presupuestos operativos y de inversión. Desarrollo de herramientas de control presupuestal y análisis de desvíos. Elaboración de flujos de caja operativos proyectados. Identificación de necesidades adicionales de fondos.
+
+**Gestión de operaciones**
+
+Esta materia tiene como objetivos: Comprender los principios fundamentales de la distribución, logística y retail en el contexto de la gestión de operaciones, para la optimización de la cadena de suministro. Desarrollar habilidades para diseñar y gestionar sistemas de distribución eficientes, garantizando la entrega oportuna de productos a los consumidores. Analizar y aplicar estrategias efectivas de gestión de inventario en el ámbito de la moda, con el fin de equilibrar la oferta y la demanda, reducir excesos de inventario y evitar agotamientos de productos clave. Familiarizarse con las tecnologías emergentes en logística y retail, y entender cómo aplicarlas para mejorar la eficiencia operativa, la visibilidad de la cadena de suministro y la experiencia del cliente. Desarrollar habilidades analíticas para evaluar el rendimiento de la cadena de suministro y tomar decisiones informadas, utilizando métricas clave y herramientas de análisis de datos. Contenidos Principios clave de distribución, logística y retail para optimizar la cadena de suministro en la industria de la moda. Estrategias para garantizar un diseño eficiente de los sistemas de distribución de los productos. Gestión estratégica de inventario en moda, mediante la aplicación de estrategias efectivas. Aplicación práctica de tecnologías emergentes para mejorar la eficiencia operativa, visibilidad de la cadena de suministro y experiencia del cliente. Habilidades analíticas en la cadena de suministro de moda, que permitan evaluar su rendimiento y favorezcan la toma de decisiones en base a datos y métricas relevantes.
+
+### Julio
+
+
+**Innovación comercial y moda**
+
+Esta materia busca como objetivos: Proporcionar a los estudiantes una comprensión integral de los aspectos clave de la innovación en el ámbito comercial de la moda actual y fomentar una mentalidad innovadora y estratégica en el contexto global. Comprender las tendencias del mercado en estrategias comerciales, logrando analizarlas y anticiparlas, para identificar oportunidades de innovación. Explorar y comprender el impacto de la aplicación de tecnologías emergentes en el ámbito comercial de la moda, como el uso de la inteligencia artificial, la realidad aumentada y virtual, así como las experiencias inmersivas. Integrar principios de sostenibilidad en la gestión comercial de la moda, considerando el impacto ambiental y social de las decisiones comerciales. Desarrollar técnicas innovadoras para mejorar la experiencia del cliente en el sector de la moda en toda la estrategia comercial. Diseñar estrategias innovadoras de posicionamiento de marca, que destaquen en un mercado competitivo y en constante evolución. Adquirir habilidades analíticas para interpretar datos relevantes en la gestión de la innovación y utilizarlos en la toma de decisiones estratégicas para la gestión eficiente de la estrategia comercial. Contenidos Métodos de análisis de tendencias del mercado e identificación de oportunidades de innovación comercial. Estrategias para anticipar cambios en el mercado y adaptar la estrategia comercial. Aplicación de tecnologías emergentes: inteligencia artificial, RA y RV y experiencias inmersivas. Sostenibilidad en la gestión comercial: evaluación de impacto y buenas prácticas. Innovación en la experiencia del cliente: personalización, captación y fidelización. Gestión comercial y posicionamiento: estrategia competitiva y su adaptación ante los cambios. Desarrollo de habilidades y técnicas de análisis de datos para gestionar la innovación y la estrategia comercial.
+
+### Julio - Setiembre
+
+
+**Diseño e innovación en modelos de negocio**
+
+La asignatura tiene como objetivo familiarizar a los estudiantes con los nuevos modelos de negocios y fomentar su habilidad para identificar oportunidades de negocios, validarlas y plasmarlas en un CANVAS. Créditos: 4 https://www.youtube.com/watch?v=a9Xa1AitJVM
+
+**Estrategia de precios y compras**
+
+Esta materia tiene como objetivos: Identificar el segmento de moda en el que se desarrolla el negocio: del lujo al producto básico, con énfasis en fast fashion, entre otras concepciones. Comprender los fundamentos de estrategia de precios en la industria de la moda: descuentos, estrategias de posicionamiento de productos e incidencia de la marca, la demanda, las tendencias y cadena de suministro. Dominar las técnicas de negociación y compras en moda: prácticas y tácticas para lograr acuerdos beneficiosos con compradores y proveedores. Optimizar la gestion de compras locales e internacionales. Anticipar necesidades o cambios de tendencias tanto en el abastecimiento como en el mercado final. Desarrollar y gestionar programas de fidelizacion con proveedores y clientes. Diseñar e implementar estrategias de precios innovadoras, alineadas con la identidad de la marca y las expectativas del mercado. Estudiar el entorno, la competencia, tendencias, demandas y costos. Evaluar el impacto económico y financiero de las decisiones de precios y compras en la rentabilidad y la sostenibilidad financiera de una empresa de moda. Aprender a utilizar herramientas financieras y métricas clave para evaluar la eficacia de las estrategias adoptadas. Uso creciente de softwares para apoyo de decisiones. Contenidos Fundamentos de la estrategia de precios en el sector de la moda. Técnicas y tácticas de negociación en moda con compradores y proveedores. Diseño e implementación de estrategias de precios. Analisis de correlacion entre variables. Evaluación del impacto económico y financiero de las decisiones de precio sobre la rentabilidad. Herramientas financieras y métricas clave para evaluar eficacia estratégica. Indicadores de desempeño (KPI). Relación entre compras y sostenibilidad y las prácticas sostenibles en fijación de precios y compras.
+
+**Estrategias de expansión internacional​**
+
+La materia busca incorporar el enfoque estratégico de la expansión internacional en las organizaciones del sector moda, así como reconocer variables de análisis y selección de mercados internacionales y competencias. Durante el curso, se trabajará en discernir los elementos claves para la prospección previa y en entender las oportunidades y estrategias de entrada a un nuevo mercado: oportunidades de negocio B2B y herramientas para profesionalizar la empresa. Se conocerán las necesidades de adaptación de la marca, el producto y el calendario de ventas para un mercado global, con el fin de ser capaz de evaluar y gestionar riesgos en la expansión internacional. Se buscará que los estudiantes sean capaces de dominar los aspectos críticos en el desarrollo de una estrategia de expansión efectiva y sostenible en el tiempo, así como conocer el mapa de stakeholders e incorporarlos en la estrategia de expansión. Contenidos Comprender la globalización y cómo afecta al sector de la moda. Evaluar la necesidad de internacionalizar la empresa, las diferentes opciones y cómo afrontar dicha estrategia. Cómo implementar un plan de expansión internacional de la forma más adecuada para cada tipo de empresa, y así evitar errores costosos. Cómo dar seguimiento al plan de internacionalización y tomar medidas para corregir y cumplir los objetivos acordados. Cómo hacer un diagnóstico de internacionalización de una empresa.
+
+### Setiembre
+
+
+**Electiva**
+
+Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Innovación y estrategia de tecnología Este curso busca generar habilidades para el análisis del contexto tecnológico, el desarrollo de las habilidades de innovación y las prácticas para hacer de estos un hábito del individuo y de la organización. El contexto extremadamente dinámico de cambios en la industria de tecnología requiere de habilidades para su entendimiento, aprovechamiento e innovación para permitir a cualquier organización mantenerse competitiva. El curso utiliza lecturas, análisis de casos, presentaciones y lectura independiente. Los contenidos y metodología buscan: El contacto de los estudiantes con el contexto actual tecnológico. El entendimiento de la dinámica actual de cambios y extracción de aprendizajes de los mismos. La adquisición de técnicas que fomenten la innovación y su gestión. El desarrollo de capacidades de análisis. Organización orientada al cliente El objetivo del curso es que el estudiante desarrolle un entendimiento de cómo implementar la filosofía de negocios del marketing y cómo diseñar las métricas adecuadas para evaluar la gestión del intercambio. En particular, sus objetivos son: Internalizar el concepto de Marketing como intercambio de valor entre las partes. Conocer los diferentes alcances al constructo “orientación al mercado” propuestos por la literatura. Conocer diferentes formas de implementación del concepto de marketing en las organizaciones. Entender las diferentes dimensiones implicadas en la orientación al mercado de una organización. Entender la medición como un proceso de negocios que provee retroalimentación a la organización respecto de los esfuerzos de marketing realizados, en el camino de la implementación efectiva de las estrategias definidas. Entender las diferentes dimensiones de la medición en la gestión de marketing. Conocer las diferentes métricas aplicadas en la gestión de marketing. Aprender a alinear las métricas adecuadas a las estrategias y programas definidos. Taller de creatividad e innovación en Media Lab Esta materia busca implicar y capacitar a los estudiantes para buscar activamente soluciones creativas a problemas reales, que puedan tener un impacto positivo en la sociedad, a partir de trabajo práctico en equipos multidisciplinarios. Se busca que los participantes sean capaces de: Aplicar el diseño centrado en las personas para identificar oportunidades de innovación. Asumir un rol de conocedor o experto en el campo para transformar insights en proyectos con valor económico, social, cultural, regional y medio ambiental. Implementar habilidades adquiridas y desarrolladas en materias previas para desarrollar una reflexión crítica a través del uso de herramientas, técnicas y métodos. Potenciar el desarrollo de sus habilidades blandas o Soft Skills. Redefinir tareas en una serie de ejercicios para llevar a cabo un proyecto en equipo. Desarrollar un modelo con el potencial de ser derivado a escala real. Poner en práctica una cultura de innovación al llevar a cabo experimentos y las lecciones aprendidas de múltiples intentos fallidos. Capacidad para recibir y brindar críticas constructivas en la fase de ideación. Ejercitar la habilidad de trabajar de manera colaborativa y mantener un esquema o calendario de trabajo. Tour internacional de moda y negocios A causa del dinamismo y evolución que el sector de la moda presenta cada temporada, es relevante para el perfil de graduado del Master en Gestión y Comunicación de la Moda estar al día con las últimas tendencias e innovaciones que suceden a nivel mundial, desde la perspectiva de los negocios de la industria. Adicional a las participaciones de docentes internacionales, y visitas en las clases regulares, se ofrece la posibilidad de cursar una semana en el extranjero a través de una materia electiva. Para validar esta experiencia internacional en modalidad electiva, el estudiante puede optar por cualquiera de las opciones que le ofrecerá la Universidad. A modo de ejemplo se presentan dos opciones desarrolladas actualmente. Programa intensivo en ISEM Fashion Business School (Madrid) Durante una semana el alumno podrá profundizar en conocimientos específicos sobre áreas concretas del sector. Intercalando sesiones teóricas y prácticas, el programa incluye el estudio de los modelos de negocios exitosos en España, así como también a nivel mundial. Esta actividad internacional ofrece una experiencia 360º, al contar no solo con ponencias de directivos, sino también visitas a las tras bambalinas de reconocidas empresas de moda. Fashion Business iQ: an insight into the Industry (Nueva York) Es un programa diseñado para conocer y comprender las últimas tendencias e innovaciones de la industria de la moda en los Estados Unidos. Incluye el estudio tanto de empresas estadounidenses como de empresas extranjeras con sede en el país, así como los modelos de negocios emergentes. Dictado en la sede de New York de IESE Business School, el programa incluye sesiones y conferencias impartidas por prestigiosos profesores de universidades estadounidenses, destacados oradores del sector y visitas a los HQ de alguna de las empresas líderes de la moda.
+
+### Octubre - Diciembre
+
+
+**Gestión de proyectos para emprendedores**
+
+Trabaja sobre las características de los emprendimientos ágiles y las metodologías utilizadas por este tipo de emprendedores para llevar adelante sus ideas de negocio. Permite dominar los fundamentos de la gestión de un emprendimiento: estrategia, ventajas competitivas y propuesta de valor, así como el análisis y la gestión de los diferentes modelos de negocios aplicables a un emprendimiento.
+
+**Sostenibilidad y responsabilidad social corporativa**
+
+La materia se plantea como objetivos: Adquirir una comprensión integral del contexto global y los desafíos presentes y futuros de la moda. Identificar los retos y oportunidades específicas del sector. Desarrollar una visión sistémica en el análisis de problemáticas sociales y ambientales. Comprender el paradigma de la Economía Circular, sus lógicas de operación y la aplicación en el sector. Integrar herramientas de medición y gestión de impacto. Conocer las principales certificaciones textiles, sus ventajas, limitaciones y formas de aplicación. Asimilar el concepto de trazabilidad en el sector, e incorporar los principios claves para crear cadenas de suministros responsables. Incorporar herramientas prácticas para desarrollar una estrategia de sostenibilidad, adaptadas a la organización y su contexto. Reconocer el rol de la comunicación en la sostenibilidad e incorporar diferentes enfoques estratégicos posibles en la misma.
+
+**E-commerce y marketing digital​**
+
+El curso apunta a mostrar la complejidad de la distribución comercial y sus desafíos en el canal online. En este contexto, se pretende brindar al estudiante los conocimientos y herramientas necesarias para diseñar una estrategia de marketing para la comercialización efectiva de moda en canales digitales, evaluar críticamente indicadores de negocio y tomar decisiones orientadas a lograr objetivos del negocio. El curso capacita en fundamentos de e-commerce de forma que los alumnos sean capaces de entender la gestión, la tecnología, la logística, la experiencia del cliente, la comercialización y el marketing digital. Al finalizar el curso los estudiantes serán capaces de: Evaluar una tienda online y sus funcionalidades. Crear una tienda online efectiva que genere ventas. Distinguir los diferentes modelos de organización y comercialización digital disponibles. Valorar los aspectos logísticos y operativos principales en un e-commerce de moda. Definir un plan de marketing para generación de tráfico y rentabilización de una tienda online de moda. Analizar las distintas etapas del embudo de ventas y cómo se utilizan para planificar campañas. Calcular y aplicar los KPIs más importantes para medir el rendimiento de las acciones realizadas. Comprender las características propias de la venta a través de marketplaces y sus diferencias en relación a la venta en una tienda online propia en la industria de la moda. Aplicar terminología clave dentro de la industria del e-commerce.
+
+### Diciembre
+
+
+**Liderazgo, comunicación y negociación**
+
+Esta materia se plantea: Reflexionar sobre la necesidad y el impacto del liderazgo y trabajo colectivo en las organizaciones. Incorporar competencias generales de liderazgo y motivación de equipos de trabajo. Reconocer y desarrollar competencias que habiliten y potencien la capacidad de interactuar, motivar y liderar en situaciones no sólo “regulares”, sino también de tensión y de conflicto. Analizar tipos de liderazgo y formatos de equipos de trabajo. Reconocer los roles y mecanismos de interacción dentro de los equipos de trabajo. Entrenar la capacidad de adaptación y la flexibilidad para liderar y formar parte de un equipo en procesos cotidianos así como en procesos de cambio. Situar los criterios y las herramientas para una mejor gestión e integración en equipos de trabajo y para la negociación. Conocer el proceso de negociación y las diferentes estrategias aplicables. Incorporar la habilidad de realizar un mapa de poder en la organización y su importancia desde la gestión de la comunicación.
+
+### Febrero - Abril
+
+
+**Caso integrador**
+
+El Caso Integrador pretende que el estudiante integre los conocimientos adquiridos durante el Diploma desde la perspectiva de diagnóstico y toma de decisiones frente a una situación empresarial real en el sector de la Moda.
+
+## Requisitos de ingreso (detalle)
+
+Los candidatos deben ser graduados de carreras de grado universitario y contar con experiencia laboral previa, sujeta a consideración del Comité académico. Serán admitidos al postgrado luego de pasar por el proceso de postulación. Revalidación de materias Una reválida consiste en reconocer créditos académicos obtenidos por un estudiante en otras instituciones universitarias, a efectos de la aprobación de asignaturas en una carrera de la Universidad ORT Uruguay. Puede aplicarse a estudiantes que cursaron en otras instituciones y transfieren a Universidad ORT Uruguay, o a estudiantes de la Universidad ORT Uruguay que obtuvieron créditos académicos en actividades de intercambio estudiantil. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Presencial u online. Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales.
+
+## Duración y horarios (detalle)
+
+Duración Un año (puede cursarse hasta en dos años). Horarios de clase Tres días a la semana, de 19:00 a 21:30 horas. Algunas materias con docentes internacionales podrán ser dictadas en horario matutino (de 8:00 a 10:30 horas) o nocturno (de 18:00 a 20:30 horas). La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Diploma de Especialización en Gestión y Negocios de la Moda fue reconocido por resolución oficial del Ministerio de Educación y Cultura (MEC) del 1 de agosto de 2024.
+
+## Requisito de graduación
+
+Al finalizar las materias previstas en el plan de estudios, el estudiante realizará un Proyecto integrador, que le permite obtener el Diploma de Especialización en Gestión y Negocios de la Moda.
+
+## Becas (detalle)
+
+La Escuela de Postgrados y Actualización en Comunicación y Diseño ofrece fondos de becas para facilitar el acceso de profesionales con alto potencial a sus programas. Incluye apoyos para emprendedores, jóvenes talentos, candidatos con necesidad financiera, estudiantes del interior y estudiantes internacionales.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-gestion-y-negocios-de-la-moda)
+- [Plan de estudios](https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-gestion-y-negocios-de-la-moda/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados/fc)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

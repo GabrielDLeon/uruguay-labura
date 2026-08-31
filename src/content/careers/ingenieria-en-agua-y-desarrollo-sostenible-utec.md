@@ -1,0 +1,97 @@
+---
+title: "Ingeniería en Agua y Desarrollo Sostenible"
+short: "Ing. en Agua y Desarrollo Sostenible"
+similar:
+  - tecnologo-en-agua-y-desarrollo-sostenible-utec
+  - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
+  - ingenieria-agroambiental-utec
+  - licenciatura-en-recursos-hidricos-y-riego-udelar
+  - ingenieria-civil-ucu
+  - ingenieria-civil-um
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "ingenieria"
+area: "Sostenibilidad ambiental"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No informada"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-agua-y-desarrollo-sostenible/"
+location: "Durazno (ITR Centro-Sur), Melo (ITR Este - Cerro Largo)"
+accreditation: "UTEC"
+description: "Ingeniería gratuita en Agua y Desarrollo Sostenible de UTEC. Uso racional de los recursos hídricos y tratamiento de efluentes en los sectores agropecuario y agroindustrial. Semipresencial en Durazno y Melo. Título intermedio de Tecnólogo."
+tags:
+  - ingenieria
+  - agua
+  - recursos-hidricos
+  - ingenieria-hidraulica
+  - sostenibilidad
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Este programa se sustenta en un Plan de Estudios orientado a la atención de la problemática del **uso racional y sostenible de los recursos hídricos y tratamiento de efluentes** en los sectores agropecuario y agroindustrial, dos de los sectores más importantes del desarrollo socioeconómico del país. La elevada especialización y tecnificación que requieren estos sectores para ser competitivos, sumado a la variabilidad climática y a la aplicación de las buenas prácticas ambientales, exigen un mayor conocimiento y una adecuada formación en las técnicas y tecnologías de riego, drenaje y manejo de efluentes.
+
+### Modalidad
+
+La carrera es **semipresencial**:
+
+- Las instancias virtuales se realizan de lunes a viernes en el horario de 17 a 21 h aproximadamente.
+- Las instancias presenciales son cada 15 días: una jornada que inicia a las 10 h y finaliza a las 17 h, en la ciudad de **Durazno**.
+
+### Título Intermedio
+
+Con salida intermedia al tercer año: **Tecnólogo en Agua y Desarrollo Sostenible**.
+
+### Competencias del Egresado
+
+**Egresados del Tecnólogo** serán competentes para:
+
+- Planificar, instalar y mantener sistemas de riego y drenaje agrícola.
+- Implementar operaciones y procesos para el tratamiento de efluentes agropecuarios y agroindustriales.
+- Prestar servicios e integrar equipos de empresas agropecuarias y desarrolladoras de sistemas de riego, así como de organismos que regulan el uso de los recursos agua y suelo.
+
+**Egresados de la Ingeniería** serán competentes para:
+
+- Diseñar, optimizar y modernizar los distritos y módulos de riego existentes en el país.
+- Gestionar integralmente efluentes agropecuarios y agroindustriales.
+- Diseñar sistemas de drenaje agrícola y recuperación de suelos salinos.
+- Asesorar a productores, industriales y tomadores de decisión en aspectos tecnológicos, económicos, normativos y ambientales sobre sistemas de riego, drenaje y manejo de efluentes.
+- Investigar, innovar y desarrollar emprendimientos de base científica, tecnológica e ingenieril en las áreas de competencia.
+
+### Salida Laboral
+
+- Gestión de recursos hídricos
+- Riego y drenaje agrícola
+- Tratamiento de efluentes agropecuarios y agroindustriales
+- Asesoramiento técnico y ambiental
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de Educación Media Superior del Consejo de Educación Secundaria (CES), en las orientaciones: Ciencias Biológicas y Agrarias, Matemática y Diseño, Físico-Matemática, Social Económica, Social Humanística y planes equivalentes.
+- Egresados de Educación Media Tecnológica de la Dirección General de Educación Técnico Profesional (DGETP-UTU).
+
+Si te interesa esta carrera y no cumplís sus requisitos de ingreso, pero tenés experiencia profesional en el área, podés considerar la posibilidad de [acreditar saberes](https://utec.edu.uy/es/estudiantes/acreditacion-de-saberes/) para el ingreso especial.
+
+**Ingreso con asignaturas pendientes:** se permite que estudiantes con hasta tres asignaturas pendientes de Educación Media Superior se preinscriban e ingresen, debiendo acreditar la finalización total antes del 31 de julio del año de inicio de la carrera.
+
+### Proceso de Preinscripción
+
+Las preinscripciones a las carreras de grado de UTEC inician generalmente en el mes de noviembre y se realizan a través de un formulario web. La documentación necesaria es la siguiente:
+
+- Cédula de identidad
+- Carné de salud vigente o constancia de que se encuentra en trámite
+- Pase de Enseñanza Media Superior (fórmula 69A de bachillerato o constancia de egreso del CES o DGETP-UTU)
+- Carta de motivación
+- Constancia de voto
+
+En el caso de aquellas carreras que no poseen límite de cupos para el ingreso o cuyos cupos no son superados en el primer período de preinscripciones, se abre una nueva instancia en el período enero-febrero.

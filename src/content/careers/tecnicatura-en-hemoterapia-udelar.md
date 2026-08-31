@@ -1,0 +1,51 @@
+---
+title: "Tecnicatura en Hemoterapia"
+similar:
+  - hemoterapia-y-medicina-transfucional-especializacion-udelar
+  - licenciatura-en-laboratorio-clinico-udelar
+  - tecnicatura-en-anatomia-patologica-udelar
+  - hemato-oncologia-pediatrica-especializacion-udelar
+  - hematologia-especializacion-udelar
+  - transplante-de-progenitores-hematopeyicos-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnicatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-hemoterapia"
+location: "Facultad de Medicina; Paysandú"
+description: "Es el profesional de la salud que realiza la obtención, estudio inmunohematológico y serológico, procesamiento manual o mecánico, conservación y transfusión de la sangre humana, componentes, derivados y productos recombinantes de acuerdo con las técnicas al más alto nivel nacional e internacional."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - medicina
+  - hemoterapia
+  - hematologia
+  - transfusion
+  - laboratorio-clinico
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-hemoterapia'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-hemoterapia'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es el profesional de la salud que realiza la obtención, estudio inmunohematológico y serológico, procesamiento manual o mecánico, conservación y transfusión de la sangre humana, componentes, derivados y productos recombinantes de acuerdo con las técnicas al más alto nivel nacional e internacional.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Se ingresa a través de Prueba de Ingreso según los cupos ofertados por cada carrera. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Inscripción condicional hasta con una asignatura previa a aprobar en el período de exámenes de abril para que la inscripción quede confirmada.

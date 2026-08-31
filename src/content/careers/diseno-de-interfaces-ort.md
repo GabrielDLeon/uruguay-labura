@@ -1,0 +1,169 @@
+---
+title: "Diseño de Interfaces"
+similar:
+  - diseno-digital-ort
+  - diploma-de-especializacion-en-diseno-de-experiencia-de-usuario-ort
+  - diseno-grafico-ort
+  - master-en-diseno-estrategico-e-innovacion-ort
+  - licenciatura-en-diseno-multimedia-ort
+  - licenciatura-en-diseno-grafico-ude
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Diseño"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fd.ort.edu.uy/diseno-de-interfaces"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Diseño de Interfaces de ORT Uruguay. Forma profesionales capaces de crear y organizar los elementos visuales e interactivos para la comunicación entre las personas y los sistemas digitales."
+tags:
+  - diseno
+  - diseno-digital
+  - experiencia-de-usuario
+  - interfaz-de-usuario
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fd.ort.edu.uy/diseno-de-interfaces'
+  - label: 'Plan de estudios'
+    url: 'https://fd.ort.edu.uy/diseno-de-interfaces/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Forma profesionales capaces de crear y organizar los elementos visuales e interactivos para la comunicación entre las personas y los sistemas digitales.
+
+- Investigación del usuario, uso de plataformas y tecnologías
+- Experiencia de usuario (UX)
+- Diseños intuitivos y accesibles
+
+La carrera de Diseño de Interfaces forma profesionales capaces de crear y organizar los elementos visuales e interactivos que permiten la comunicación entre las personas y los sistemas digitales, ya sea en aplicaciones móviles, sitios web, videojuegos, dispositivos interactivos o plataformas emergentes.
+
+El plan de estudios se orienta al diseño centrado en el usuario, buscando que cada interacción sea fluida, clara y satisfactoria (Experiencia de Usuario – UX), a través de interfaces visuales intuitivas y eficientes (Interfaz de Usuario – UI).
+
+La propuesta combina diseño, programación y metodologías de investigación para responder a las demandas de comunicación, interacción y accesibilidad en entornos digitales, formando profesionales preparados para enfrentar los desafíos de un campo en constante evolución.
+
+### Títulos y Reconocimientos
+
+Los estudiantes que aprueben las 17 materias obligatorias, incluido el Portfolio final, obtienen el título de Diseñador/a de Interfaces.
+
+### Modalidad
+
+La carrera se dicta de forma presencial. Las instancias de evaluación obligatorias podrán realizarse mediante entrega digital y/o presencial. Además, muchas asignaturas complementan su enseñanza a través del modelo de "aula expandida", una plataforma online que enriquece la experiencia de aprendizaje, facilitando el acceso a materiales, recursos y actividades que refuerzan la formación en el aula.
+
+### Duración y Horarios
+
+Duración 2 años. Horarios de clase Frecuencia: 4 días por semana. Matutino: de lunes a viernes de 8:15 a 11:30. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+1.er año de Educación Media Superior (EMS) completo o su equivalente.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Diseño 1 (Comunicación)**
+
+Desarrolla la capacidad expresiva a través de ejercicios de percepción sensorial y expresión libre. Estudia sistemas de generación de formas, teoría del color, técnicas visuales, imagen gráfica y su representación bi y tridimensional.
+
+**Diseño web 1**
+
+Desarrolla las herramientas y los conceptos para el maquetado y la diagramación de sitios web. Presenta técnicas de programación en lenguaje HTML y CSS para la creación de sistemas de páginas web interactivas con el uso de herramientas de última generación.
+
+**Expresión gráfica**
+
+Estudia las técnicas de representación, experimentación y búsqueda de un lenguaje propio de expresión, que sea posible aplicar al diseño gráfico y web.
+
+**Prototipado digital (UI)**
+
+Aborda los fundamentos del diseño de prototipos, con énfasis en su uso estratégico para el testeo y evaluación ágil de ideas en productos digitales, permitiendo validar ideas y conceptos antes de su implementación.
+
+#### 2.° semestre
+
+**Diseño 2 (Información)**
+
+Presenta la tipografía y la estructura de página, su expresividad y carácter, relacionándolas con los mensajes a comunicar y cómo afectan a la comprensión de la información visual.
+
+**Diseño web 2**
+
+Aborda el lenguaje de hojas de estilo (CSS3) para controlar los aspectos visuales y funcionales de un sitio web que cumpla con los estándares internacionales en la materia.
+
+**Search Engine Optimization**
+
+Trabaja sobre las metodologías y herramientas necesarias para efectuar una adecuada estrategia de optimización para buscadores. Esto facilitará establecer objetivos de posicionamiento y estrategias de optimización que sean acordes a las necesidades detectadas y a la intención de búsqueda de los usuarios.
+
+**Investigación de usuario**
+
+Ahonda sobre las metodologías y herramientas necesarias para efectuar una adecuada investigación de usuarios (UX Research), que permita comprender las necesidades de los usuarios, logrando establecer objetivos de producto que sean acordes a las necesidades detectadas.
+
+### 2.° año
+
+#### 3.er semestre
+
+**Diseño 3 (Persuasión)**
+
+Analiza la resolución de proyectos de diseño gráfico que tengan como objetivo principal la imagen. Desarrolla la creación de afiches, portadas, avisos, banners, posteos y piezas gráficas en general, en las que con impacto visual y la persuasión sean el eje de comunicación.
+
+**Programación web**
+
+Introduce a los principios generales de la programación web, abordando particularmente la resolución del diseño en HTML dinámico y JavaScript.
+
+**IA generativa para diseño**
+
+Aborda el rol y el impacto de la inteligencia artificial (IA) generativa en el campo del diseño, tanto desde lo instrumental como en sus implicancias éticas. Propone aspectos metodológicos para la incorporación de la IA en el proceso de diseño.
+
+**Arquitectura de la información (UX)**
+
+Estructura contenidos y flujos de navegación de manera coherente e intuitiva para diseñar árboles de navegación, mapas de sitio y esquemas de contenido que mejoren la usabilidad y la experiencia general.
+
+#### 4.° semestre
+
+**Gestión de diseño**
+
+Desarrolla las competencias necesarias para una correcta identificación, administración, seguimiento y supervisión de los participantes en el proyecto: recursos humanos, materiales y presupuestos, capacidades productivas, definición de actividades y administración de tiempos.
+
+**Diseño web 3**
+
+Explora marcos de trabajo (frameworks) y las herramientas más utilizadas en la práctica profesional que complementan, ordenan y aceleran el desarrollo web. Prepara a los futuros profesionales a enfrentarse a un rubro versátil y en constante cambio.
+
+**Proyecto de interfaces**
+
+Se enfoca en la aplicación integrada de metodologías, herramientas y buenas prácticas de UX research, arquitectura de la información, usabilidad y accesibilidad, mediante el desarrollo de un proyecto de interfaces completo. Además se implementa la propuesta, desarrollando un sitio web que cumpla con todos los requerimientos planteados en la etapa de análisis.
+
+**Usabilidad y accesibilidad**
+
+Analiza cómo los usuarios interactúan con el producto digital, identificando dificultades, barreras y patrones de comportamiento que puedan afectar la experiencia de navegación. Esto inlcuye personas con discapacidades o necesidades especiales que deben ser contempladas en todas las etapas del desarrollo. Se profundiza sobre las normas de accesibilidad WCAG (Web Content Accessibility Guidelines).

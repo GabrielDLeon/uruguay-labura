@@ -1,0 +1,71 @@
+---
+title: "Maestría en Ciencias Agrarias"
+similar:
+  - ciencias-agrarias-doctorado-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - agronomia-maestria-udelar
+  - agronomia-especializacion-udelar
+  - ingeniero-agronomo-udelar
+  - tecnico-agropecuario-ude
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=21"
+location: "Facultad de Agronomía, Montevideo"
+description: "El objetivo general consiste en la formación de recursos humanos capacitados paracomprender los procesos del sector agropecuario a través de una profundización en laformación teórica y metodológica, la actualización de los conocimientos y laestimulación del aprendizaje autónomo y la iniciativa personal de los maestrandos.El egresado estará especial aunque no únicamente capacitado para participar enactividades de investigación y a la vez identificar,"
+startDate: ""
+applicationDeadline: "Unidad de Posgrados y Educación Permanente - Facultad de Agronomía"
+tags:
+  - agronomia
+  - agropecuario
+  - produccion-animal
+  - produccion-vegetal
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=21'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=1&idPosgrado=21'
+---
+
+## Resumen
+
+### Objetivo
+
+El objetivo general consiste en la formación de recursos humanos capacitados para comprender los procesos del sector agropecuario a través de una profundización en la formación teórica y metodológica, la actualización de los conocimientos y la estimulación del aprendizaje autónomo y la iniciativa personal de los maestrandos. El egresado estará especial aunque no únicamente capacitado para participar en actividades de investigación y a la vez identificar, comprender y proponer soluciones a la problemática inherente al sector agropecuario.
+
+### Perfil de egreso
+
+Las carreras de maestría son programas de posgrado de 2 años de duración que brindan una formación superior a la del Licenciado o Ingeniero, mediante la profundización de la formación teórica, el conocimiento actualizado y especializado en el campo agronómico, y de sus métodos; estimulando el aprendizaje autónomo y la iniciativa personal, e incluyendo la preparación de una tesis o trabajo final.
+
+### Referentes académicos
+
+Ing. Agr. (Dr.) Omar Borsani (direccion.upep@fagro.edu.uy) Director de la Unidad de Posgrados y Educación Permanente - Ing. Agr. Elisabeth Carrega (carrega@fagro.edu.uy) Coordinadora de Posgrados
+
+## Ingreso
+
+### Reglamento
+
+Se requiere cursar un mínimo de 100 créditos, 60 créditos de cursos y actividades programadas (seminarios I y II) y 40 créditos de trabajo de tesis. ​Los cursos se aprueban con un mínimo del 60% del puntaje total y asistencia al menos al 75% de las clases programadas. Los estudiantes deben tomar un mínimo de 12 créditos de cursos generales. Estos cursos son: “Introducción a la Epistemología”, “Comunicación Científica en Ciencias Agrarias”, “Ambiente, Sociedad y Sistemas Agrarios” y “Diseño I: Diseño y análisis de experimentos I - Principios y aplicaciones básicas” (3 créditos) - “Diseño y análisis de experimentos II – Diseños Avanzados” (3 créditos)”. Para cumplir con el requisito, el estudiante puede solicitar al Comité Académico de Posgrados de la Facultad de Agronomía que otros cursos en estas áreas le sean considerados como cursos generales. En el correr de sus estudios, el estudiante debe comprobar al menos comprensión lectora en inglés y asisitir al menos a tres seminarios de otros estudiantes, de los cuales al menos dos deben ser de su misma opción. Este programa es gobernado por el Comité Académico de Posgrados de la Facultad de Agronomía.
+
+### Requisitos de Ingreso
+
+Título de grado de nivel universitario. Presentar: Formulario de inscripción completo Fotocopia de cédula de identidad vigente Aval del director de tesis Aval del codirector de tesis (si corresponde) Aval del Coordinador de Opción Original y fotocopia de diploma de idioma Inglés (si cuenta con el mismo) Carta de Objetivos y Metas Certificado de escolaridad completo, original y emitido recientemente Título de Grado CV del codirector (si no integra el Colegio de Posgrados) Para estudiantes extranjeros: Fotocopia del pasaporte vigente 2 cartas de recomendación de profesionales de su país Título de Grado legalizado
+
+## Plan de Estudio
+
+### Programa
+
+Los estudiantes deben completar un mínimo de 100 créditos, de los cuales 60 corresponden a cursos y actividades programadas (seminarios I y II) y 40 a trabajo de tesis. El trabajo final es un trabajo de investigación científica. Puede ser en formato de tesis clásica (introducción, materiales y métodos, resultados, discusión) y debe incluir un anexo en formato de artículo científico, o puede ser en formato que incluya uno o dos capítulos en formato de artículo científico.
+
+### Unidades curriculares
+
+Los estudiantes deben completar un mínimo de 100 créditos, de los cuales 60 corresponden a cursos y actividades programadas (seminarios I y II) y 40 a trabajo de tesis. Los estudiantes deben tomar un mínimo de 12 créditos de cursos generales. No se encuentran definidas otras unidades curriculares obligatorias.

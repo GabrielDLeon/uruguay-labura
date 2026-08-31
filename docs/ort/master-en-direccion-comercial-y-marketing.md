@@ -1,0 +1,220 @@
+# Master en Dirección Comercial y Marketing
+
+## Metadata
+
+- Nombre oficial: Master en Dirección Comercial y Marketing
+- Tipo: Maestría
+- Área: Administración y Ciencias Sociales
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: 18 meses (según la página oficial). Nota: el JSON-LD del sitio indica 25 meses, hay información contradictoria entre fuentes.
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Título de grado universitario. Ser aceptado por el Comité Académico de Selección luego de una o más entrevistas. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los participantes Los participantes del master en Dirección Comercial y Marketing son profesionales con distinta experiencia en diferentes áreas de la empresa. Tienen en común la aspiración de crecer hacia puestos de liderazgo y de toma de decisiones estratégicas en la función de marketing y ventas. En concreto aspiran a: Diseñar la estructura organizativa y procesos orientados al mercado, consumidor, y cliente, incorporando el potencial de las tecnologías digitales tanto de ventas como de marketing. Diseñar y liderar la organización y la interfaz entre marketing y ventas. Liderar el proceso de descubrimiento de insights del consumidor y del cliente para el desarrollo de ventajas competitivas de la empresa, a través del desarrollo de sus marcas. Liderar la implementación de los elementos del marketing mix para que se traduzca en una conexión de largo plazo con el consumidor, definida en el posicionamiento. Diseñar estrategias y planes de marketing y ventas que se ajustan a los recursos y capacidades de la empresa y al entorno de negocios local o internacional. Tomar decisiones de largo y corto plazo, estimulando el pensamiento estratégico con fuerte soporte cualitativo y cuantitativo. Diseñar las métricas adecuadas para evaluar la implementación de las actividades comerciales. Relacionarse con agentes de investigación, proveedores de servicios digitales y comunicación publicitaria, con capacidad para la elaboración de un brief y la adecuada evaluación de las propuestas que se le presenten. Asesorar empresas en lo referente al diagnóstico de problemas comerciales y las alternativas estratégicas para su solución. Relacionarse con agentes internos, alineando las estrategias comerciales con las generales de la organización, y con agentes externos (comercios, el Estado como regulador) ejerciendo el liderazgo de personas. Desarrollar el pensamiento lógico abstracto, el razonamiento inductivo y deductivo, y el análisis crítico para resolver problemas comerciales. Liderar equipos comerciales en sus aspectos interpersonales de comunicación, negociación, desarrollo y liderazgo de personal de ventas.
+- Salida laboral: Perfil de los participantes Los participantes del master en Dirección Comercial y Marketing son profesionales con distinta experiencia en diferentes áreas de la empresa. Tienen en común la aspiración de crecer hacia puestos de liderazgo y de toma de decisiones estratégicas en la función de marketing y ventas. En concreto aspiran a: Diseñar la estructura organizativa y procesos orientados al mercado, consumidor, y cliente, incorporando el potencial de las tecnologías digitales tanto de ventas como de marketing. Diseñar y liderar la organización y la interfaz entre marketing y ventas. Liderar el proceso de descubrimiento de insights del consumidor y del cliente para el desarrollo de ventajas competitivas de la empresa, a través del desarrollo de sus marcas. Liderar la implementación de los elementos del marketing mix para que se traduzca en una conexión de largo plazo con el consumidor, definida en el posicionamiento. Diseñar estrategias y planes de marketing y ventas que se ajustan a los recursos y capacidades de la empresa y al entorno de negocios local o internacional. Tomar decisiones de largo y corto plazo, estimulando el pensamiento estratégico con fuerte soporte cualitativo y cuantitativo. Diseñar las métricas adecuadas para evaluar la implementación de las actividades comerciales. Relacionarse con agentes de investigación, proveedores de servicios digitales y comunicación publicitaria, con capacidad para la elaboración de un brief y la adecuada evaluación de las propuestas que se le presenten. Asesorar empresas en lo referente al diagnóstico de problemas comerciales y las alternativas estratégicas para su solución. Relacionarse con agentes internos, alineando las estrategias comerciales con las generales de la organización, y con agentes externos (comercios, el Estado como regulador) ejerciendo el liderazgo de personas. Desarrollar el pensamiento lógico abstracto, el razonamiento inductivo y deductivo, y el análisis crítico para resolver problemas comerciales. Liderar equipos comerciales en sus aspectos interpersonales de comunicación, negociación, desarrollo y liderazgo de personal de ventas.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+- Página oficial: https://facs.ort.edu.uy/escuela-de-postgrados/master-en-direccion-comercial-y-marketing
+
+## Resumen
+
+Potenciá tu carrera profesional con la formación que te brinda la maestría en marketing y dirección comercial de la Universidad ORT Uruguay.
+
+- Enfoque en liderazgo en áreas comerciales y marketing
+- Cuerpo docente con experiencia gerencial y en enseñanza activa
+- Un programa alineado con las tendencias globales del mercado
+
+El master en Dirección Comercial y Marketing forma profesionales capaces de insertarse y desarrollarse como directores comerciales en las más diversas empresas, dirigiendo en forma conjunta las áreas de marketing y ventas.
+
+Brinda una formación para el liderazgo y la toma de decisiones comerciales de la organización con una fuerte orientación al cliente, un sólido conocimiento de los procesos digitales y un óptimo manejo de las personas que se desempeñan en la función de ventas.
+
+Los egresados son capaces de contribuir con profesionalismo y creatividad a optimizar los vínculos con los consumidores y los clientes.
+
+Ofrece una metodología que asegura el aprendizaje mediante un adecuado balance entre la teoría y la práctica.
+
+Asimismo, el postgrado integra profesores invitados del exterior que brindan una visión global del marketing.
+
+Conocimiento y habilidades
+
+El programa brinda los conocimientos necesarios y las habilidades críticas para tomar decisiones y liderar los procesos comerciales. Para ello combina casos de estudios, presentaciones, simulaciones, live cases, proyectos de investigaciones cualitativas y cuantitativas y trabajo en equipo constante, tanto dentro como fuera del aula.
+
+Experiencia en la enseñanza
+
+El postgrado cuenta con una cátedra con más de 30 años de experiencia en la enseñanza del marketing, con un cuerpo docente orientado a diseñar el aprendizaje activo de los estudiantes. Ofrece una metodología probada que asegura el aprendizaje de los estudiantes mediante un óptimo balance entre teoría y práctica.
+
+Aprendizaje horizontal y múltiples visiones
+
+Los participantes del postgrado comparten los cursos con estudiantes del MBA, del master en Dirección de Comunicación y Marketing, y el Diploma de Especialización en Marketing. Esto permite un aprendizaje horizontal con múltiples visiones de las áreas funcionales y gerenciales de la empresa.
+
+Una experiencia de aprendizaje internacional
+
+Para tener una experiencia de aprendizaje internacional, el master integra profesores invitados del exterior que brindan una visión global del marketing. Brinda además la posibilidad de estudiar asignaturas electivas en escuelas de negocios de alto prestigio en Europa, Estados Unidos y Latinoamérica.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### Abril-Junio
+
+
+**Insight e inteligencia de mercado**
+
+Este curso te sumerge en el mundo de los insights y la investigación de mercados, revelando las técnicas y herramientas más utilizadas para entender al consumidor en profundidad. Aprenderás a transformar datos en historias poderosas que conectan con las verdaderas motivaciones de las personas. A lo largo de la experiencia, aplicarás técnicas cualitativas y cuantitativas, analizarás el comportamiento y las motivaciones de los consumidores, y evaluarás la validez de distintas fuentes y métodos. Además, desarrollarás la capacidad de interpretar resultados para transformar datos en insights relevantes que orienten la acción y generen ventajas competitivas.
+
+**Taller de presentaciones efectivas**
+
+El Taller de Presentaciones Efectivas te prepara para comunicar con impacto, claridad y confianza. Aprenderás a transformar ideas en relatos atractivos, a diseñar presentaciones visualmente potentes y a dominar el uso de tu voz, lenguaje corporal y herramientas digitales para captar la atención de cualquier audiencia. Con un enfoque práctico y dinámico, entrenarás tus habilidades de storytelling, argumentación y diseño, logrando presentaciones que no solo informan, sino que inspiran y convencen.
+
+**Dirección estratégica de marketing**
+
+Este curso te permitirá comprender la lógica estratégica del marketing y su papel central en la creación de valor para la organización, desarrollando la capacidad de analizar y formular decisiones de marketing de manera integrada y coherente. A través de una metodología práctica y rigurosa, aprenderás a recopilar y analizar información relevante, definir mercados objetivo, diseñar propuestas de posicionamiento y alinear decisiones tácticas con la estrategia, para finalmente elaborar un plan estratégico de marketing accionable y evaluable.
+
+### Junio (intensivo)
+
+
+**Brand Building e innovación**
+
+El curso de Brand Building e Innovación te desafía a ir más allá de la teoría y a descubrir cómo las marcas pueden convertirse en el motor de negocios exitosos y sostenibles. Aprenderás a innovar, construir y potenciar marcas sólidas, entendiendo a fondo su identidad, posicionamiento e imagen, y aplicando estrategias innovadoras de activación, arquitectura y medición de salud marcaria. A través de experiencias prácticas y el análisis de casos reales, desarrollarás la visión estratégica y la capacidad crítica necesarias para diferenciarte en un mercado altamente competitivo.
+
+### Julio-Setiembre
+
+
+**Omnichannel y trade marketing**
+
+El curso de Omnichannel y Trade Marketing te prepara para entender cómo conectar marcas, distribuidores y consumidores en un mercado cada vez más competitivo. Aprenderás a diseñar canales de distribución centrados en el shopper, a aplicar estrategias de trade marketing desde la visión del fabricante y del distribuidor, y a crear experiencias omnicanal que integren lo mejor del mundo online y offline. Con un enfoque práctico y actual, elaborarás propuestas innovadoras de Route to Market que maximicen la rentabilidad y fortalezcan la relación con distribuidores y consumidores.
+
+**Plan de comunicación y contenido**
+
+Este curso te invita a convertir la estrategia en acción. Aprenderás a transformar insights en estrategias de comunicación publicitaria, a diseñar campañas que combinen con éxito medios online y offline, y a construir mensajes capaces de conectar de verdad con las personas. A través de briefs, planes de medios y análisis de casos reales, entrenarás tu mirada crítica y tu capacidad creativa para evaluar y potenciar propuestas de comunicación. Al finalizar, estarás preparado para liderar procesos integrados que no solo midan resultados, sino que generen valor de marca sostenible y diferencial en un mercado competitivo.
+
+**Política de precios y rentabilidad**
+
+Introduce los conceptos y herramientas para que los directivos de marketing puedan tomar decisiones comerciales con fundamentos cuantitativos. Pone foco en calcular el impacto de las decisiones de fijación de precio en la rentabilidad, y cómo aplicar técnicas para analizar/presentar la rentabilidad de proyectos comerciales.
+
+### Setiembre (intensivo)
+
+
+**Simulador de marketing estratégico**
+
+El curso de Markstrat ofrece una experiencia práctica e inmersiva en marketing estratégico, donde los estudiantes asumen el rol de directores de marketing y toman decisiones reales sobre productos, precios, distribución, investigación y comunicación. A través de un entorno competitivo y dinámico, podrán aplicar conceptos clave como segmentación, posicionamiento y gestión de portafolio, recibiendo feedback inmediato sobre el impacto de sus decisiones. Esta simulación, reconocida a nivel internacional, potencia el trabajo en equipo, la capacidad de análisis y la visión estratégica de largo plazo, preparando a los participantes para liderar en escenarios de negocios complejos y cambiantes.
+
+### Octubre-Diciembre
+
+
+**Marketing digital**
+
+El curso de Marketing Digital te prepara para diseñar estrategias digitales con impacto real. Aprenderás a planificar campañas desde los objetivos comerciales, segmentar audiencias con precisión y ejecutar acciones en las plataformas clave: Meta Ads, Google Ads y TikTok Ads. También vas a incorporar técnicas de SEO y SEM para atraer y convertir clientes, y descubrirás cómo medir, analizar y proyectar resultados que potencien el crecimiento. El diferencial: un Challenge en Meta, donde aplicarás lo aprendido en un entorno práctico, creando y optimizando campañas como lo hacen los profesionales.
+
+**E-Commerce**
+
+El curso de E-Commerce te prepara para diseñar, gestionar y optimizar plataformas de comercio electrónico con visión estratégica y enfoque práctico. Aprenderás cómo el e-commerce crea valor a través de activos digitales, la experiencia del cliente y las capacidades tecnológicas, integrando decisiones clave de front-end (sitio web, diseño y experiencia de usuario) y back-end (logística, operaciones y tecnología). Además, conocerás cómo estructurar un equipo de e-commerce y elegir la plataforma adecuada, definir la oferta de productos, diseñar precios y promociones, que fortalezcan el posicionamiento y aseguren crecimiento sostenible.
+
+**Diseño de servicios y CX**
+
+El curso de Diseño de Servicios y Experiencia de Cliente (CX) te enseña a transformar cada interacción en una oportunidad de generar valor. Aprenderás a mapear el customer journey, diseñar experiencias omnicanales y aprovechar tecnologías como la inteligencia artificial y la analítica de datos para personalizar y medir resultados. Con un enfoque práctico, este curso te prepara para liderar proyectos de CX que no solo diferencian a las marcas, sino que construyen relaciones sostenibles con los clientes.
+
+### Diciembre (intensivo)
+
+
+**Taller de analítica de marketing digital**
+
+Busca dotar a los estudiantes de las definiciones conceptuales y la capacidad operativa para medir y trabajar con métricas digitales. Se enfoca en cómo hacer que el marketing se beneficie de la medición y cómo preparar una estrategia de data para aportar valor al negocio.
+
+## 2.° año
+
+
+### Febrero-Marzo
+
+
+**Electiva 1**
+
+B2B Growth Strategy El curso te prepara para diseñar e implementar estrategias de crecimiento que van mucho más allá de las técnicas convencionales de marketing y ventas. A través de un enfoque práctico y aplicado, aprenderás a identificar el cliente ideal, construir propuestas de valor y dominar herramientas de adquisición como Outbound, Partnerships y Product-led Growth. Además, descubrirás cómo retener y maximizar el valor de cada cliente en el largo plazo, generando resultados tangibles en ingresos y competitividad. Con casos reales y metodologías de vanguardia, este curso te brindará la visión y las herramientas para impulsar el crecimiento sostenible en entornos B2B.
+
+**Electiva 2**
+
+
+**Taller de negociación y ventas**
+
+Descubrí cómo transformar cada encuentro en una oportunidad. El Taller de Negociación y Ventas te brindará herramientas prácticas para comunicar con impacto y cerrar acuerdos efectivos. A través de simulaciones, casos reales y dinámicas grupales, aprenderás a detectar necesidades, manejar objeciones y diseñar estrategias de negociación que generen relaciones de confianza y valor a largo plazo.
+
+### Abril-Junio
+
+
+**Project lab**
+
+El Project Lab es la antesala a la Memoria Final y el espacio donde los estudiantes ponen a prueba su capacidad de investigación aplicada y pensamiento estratégico. Con el acompañamiento de docentes y tutores, aprenderán a transformar síntomas en problemas gerenciales bien definidos, diseñar planes de investigación y validar hallazgos iniciales que servirán como base para su proyecto final. Es un laboratorio de ideas y acción que combina análisis, creatividad y rigor académico, asegurando que cada participante llegue a la Memoria Final con un anteproyecto sólido, claro y viable.
+
+**Sostenibilidad y gestión responsable**
+
+Este curso de Sostenibilidad y Gestión Responsable te brindará las herramientas necesarias para interpretar el contexto actual, diagnosticar estrategias comerciales sostenibles y diseñar propuestas que integren competitividad, innovación y responsabilidad social. A través de casos reales, debates y proyectos aplicados, desarrollarás una mirada crítica y práctica para tomar decisiones que generen valor económico, social y ambiental.
+
+**Introducción a big data y analítica de negocios**
+
+Brinda una visión estratégica sobre cómo el Big Data y la analítica resuelven desafíos complejos e impulsan la innovación empresarial.
+
+### Junio (intensivo)
+
+
+**Pensamiento creativo**
+
+Este curso te permitirá desarrollar y perfeccionar tus habilidades de pensamiento creativo aplicadas al mundo empresarial. Aprenderás a distinguir entre diferentes formas de pensamiento —reproductivo, productivo e innovador— y a utilizar técnicas efectivas de generación de ideas. Además, integrarás la inteligencia emocional en tus procesos creativos, potenciando la colaboración y el trabajo en equipo. Con metodologías prácticas y casos reales, enfrentarás problemas organizacionales desde una nueva perspectiva, diseñando soluciones innovadoras que fortalezcan la competitividad.
+
+### Julio-Setiembre
+
+
+**Transformación de modelos de negocio**
+
+En este curso descubrirás cómo la innovación, la disrupción y la transformación digital están cambiando radicalmente la forma de competir y generar valor en la Sociedad del Conocimiento. Aprenderás a analizar tendencias disruptivas, evaluar su impacto en las organizaciones y diseñar propuestas innovadoras aplicables a tu entorno. Una experiencia que te desafiará a pensar de manera crítica, a liderar procesos de cambio y a transformar modelos de negocio para un mundo cada vez más dinámico y competitivo.
+
+**Growth Hacking**
+
+El Growth Hacking es una metodología de crecimiento que combina creatividad, análisis de datos y experimentación constante para hacer crecer negocios de manera rápida y eficiente. A diferencia del marketing tradicional, se centra en probar, medir y escalar aquellas acciones que generan mayor impacto, no solo en la adquisición de clientes, sino también en su retención y fidelización. Su verdadero significado está en la mentalidad: pensar siempre en cómo innovar, optimizar y encontrar oportunidades que impulsen un crecimiento sostenible con el menor uso posible de recursos.
+
+**Liderazgo de equipos descentralizados**
+
+Este curso te brinda las herramientas para dirigir equipos de marketing y ventas distribuidos, integrando estrategias de coordinación, motivación y gestión orientadas a resultados. Aprenderás a comunicar objetivos de manera clara, optimizar procesos comerciales con apoyo en la tecnología y fomentar la innovación en equipos multiculturales e híbridos.
+
+### Setiembre (intensivo)
+
+
+**Análisis y previsión de ventas**
+
+Este curso te brindará las herramientas necesarias para analizar el desempeño comercial desde diferentes perspectivas, detectar tendencias y proyectar escenarios de ventas con base en datos reales. Aprenderás a utilizar Excel y técnicas de análisis cualitativo y cuantitativo para elaborar forecasts confiables y diseñar acciones que fortalezcan el plan comercial. Una formación práctica y aplicada para potenciar tu capacidad analítica y de gestión en entornos competitivos.
+
+### Octubre-Diciembre
+
+
+**Memoria final**
+
+Busca que el candidato realice un manejo activo y creativo de los conocimientos y herramientas adquiridas a lo largo del Plan de Estudios de la maestría. Para el desarrollo de este trabajo el estudiante contará con un período lectivo de alrededor de 6 meses y el asesoramiento de un tutor, quien lo guiará en el proceso de investigación, análisis, diagnóstico, objetivos y lineamientos de acción.
+
+## Requisitos de ingreso (detalle)
+
+Requisitos Título de grado universitario. Ser aceptado por el Comité Académico de Selección luego de una o más entrevistas. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración 18 meses. Horarios de clase Los cursos se dictan de martes a jueves de 19:00 a 21:30 en la Facultad de Administración y Ciencias Sociales. Algunas semanas las clases tienen lugar de lunes a jueves de 19:30 a 22:30. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Master en Dirección Comercial y Marketing fue reconocido por resolución del Ministerio de Educación y Cultura el 22 de agosto de 2022.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://facs.ort.edu.uy/escuela-de-postgrados/master-en-direccion-comercial-y-marketing)
+- [Plan de estudios](https://facs.ort.edu.uy/escuela-de-postgrados/master-en-direccion-comercial-y-marketing/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados/facs)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

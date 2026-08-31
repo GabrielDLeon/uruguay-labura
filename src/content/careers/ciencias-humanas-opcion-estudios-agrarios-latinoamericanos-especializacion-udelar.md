@@ -1,0 +1,56 @@
+---
+title: "Especialización en Ciencias Humanas: Opción Estudios Agrarios Latinoamericanos"
+similar:
+  - ciencias-humanas-maestria-udelar
+  - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
+  - licenciatura-en-desarrollo-udelar
+  - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
+  - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
+  - demografia-y-estudios-de-poblacion-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=93"
+location: "Facultad de Humanidades y Ciencias de la Educación"
+description: "Contribuir a la actualización y formación en investigación de postulantes tanto delárea delas ciencias sociales y humanidades como del área científica tecnológica a partir deunaformación multidisciplinar.· Brindar una visión social y humanística de la problemática agraria tanto para técnicoscomo para profesionales vinculados al sector agrario.Perfil del egresadoLa formación de diplomados está destinada a capacitar a los estudiantes paraintroducirlos en"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - ciencias-sociales
+  - humanidades
+  - agropecuario
+  - estudios-latinoamericanos
+  - desarrollo-territorial
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=93'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=93'
+---
+
+## Resumen
+
+### Objetivo
+
+Contribuir a la actualización y formación en investigación de postulantes tanto del área de las ciencias sociales y humanidades como del área científica tecnológica a partir de una formación multidisciplinar. · Brindar una visión social y humanística de la problemática agraria tanto para técnicos como para profesionales vinculados al sector agrario. Perfil del egresado La formación de diplomados está destinada a capacitar a los estudiantes para introducirlos en la investigación de problemas de interés científico en el ámbito académico y en el campo latinoamericano de actuación profesional actual, ya sea a escala nacional o internacional. Asimismo, se propicia que los estudiantes puedan diseñar e integrarse a proyectos de investigación, ejecutar programas educativos, sociales, productivos o científicos y que los preparen para asumir responsabilidades en funciones de promoción y evaluación del desarrollo del sector rural. Por otro lado, este diploma pretende formar a sus estudiantes para un campo de acción complejo que cada vez más involucra la docencia, la investigación y la extensión en forma integrada, tanto desde la función pública como la privada. En este sentido el estudiante encontrará herramientas que le permitan profundizar en su práctica docente y el logro de su desarrollo tanto en el campo de la investigación como el profesional.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título de grado Cv Actividades de enseñanza Otros méritos
+
+## Plan de Estudio
+
+### Programa
+
+Los módulos estarán diseñados y a disposición en el Espacio Virtual de Aprendizaje (EVA) de la UdelaR, e integrarán la información requerida para el desarrollo de las actividades a distancia y presenciales previstas. Los módulos se dividirán en tres unidades curriculares: i) propedéutica –integrada por 2 asignaturas introductorias y para estudiantes sin formación en investigación social- ii) materias obligatorias -constituido por 4 asignaturas de carácter panorámico que conforman un tronco común, de cursada obligatoria, y con 36 horas presenciales/virtuales por cada curso- y iii) 2 seminarios electivos de entre los ofrecidos por el Diploma– refieren a cursos de profundización en temáticas relevantes para el campo, de interés de los estudiantes, con 20 horas presenciales /virtuales por cada curso- Se suman a estas actividades las propias de los estudiantes a través de la plataforma Más allá de las especificidades de evaluación de cada curso, el diploma culminará con un trabajo final a cargo del estudiante que dé cuenta en la profundización en temáticas trabajadas en el Diploma.

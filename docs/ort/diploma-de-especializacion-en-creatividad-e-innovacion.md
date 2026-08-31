@@ -1,0 +1,143 @@
+# Diploma de Especialización en Creatividad e Innovación
+
+## Metadata
+
+- Nombre oficial: Diploma de Especialización en Creatividad e Innovación
+- Tipo: Diploma de Especialización
+- Área: Comunicación
+- Modalidad: Semipresencial (híbrido: combina presencialidad y virtualidad)
+- Turno: No encontrado
+- Duración: Un año (puede cursarse hasta en dos años) (según la página oficial). Nota: el JSON-LD del sitio indica 13 meses, hay información contradictoria entre fuentes.
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Los candidatos a realizar el Diploma de Especialización en Creatividad e Innovación y el Master en Creatividad, Innovación y Comunicación deben ser graduados de carreras de grado universitario y ser admitidos al postgrado luego de pasar por el proceso de postulación. Revalidación de materias Una reválida consiste en reconocer créditos académicos obtenidos por un estudiante en otras instituciones universitarias, a efectos de la aprobación de asignaturas en una carrera de la Universidad ORT Uruguay. Puede aplicarse a estudiantes que cursaron en otras instituciones y transfieren a Universidad ORT Uruguay, o a estudiantes de la Universidad ORT Uruguay que obtuvieron créditos académicos en actividades de intercambio estudiantil. Más información Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los graduados A partir de una perspectiva multidisciplinaria, internacional y con una fuerte impronta tecnológica asociada a los nuevos entornos y modelos de negocios emergentes, los graduados del Diploma pueden guiar procesos creativos que fomenten la innovación, con espíritu crítico y capacidad de gestión de procesos innovadores, con especial foco en la transformación de las industrias creativas.
+- Salida laboral: Perfil de los graduados A partir de una perspectiva multidisciplinaria, internacional y con una fuerte impronta tecnológica asociada a los nuevos entornos y modelos de negocios emergentes, los graduados del Diploma pueden guiar procesos creativos que fomenten la innovación, con espíritu crítico y capacidad de gestión de procesos innovadores, con especial foco en la transformación de las industrias creativas.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante. La Escuela de Postgrados y Actualización en Comunicación y Diseño ofrece fondos de becas para facilitar el acceso de profesionales con alto potencial a sus programas. Incluye apoyos para emprendedores, jóvenes talentos, candidatos con necesidad financiera, estudiantes del interior y estudiantes internacionales.
+- Página oficial: https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-creatividad-e-innovacion
+
+## Resumen
+
+La creatividad como proceso mental y la innovación como proceso productivo se potencian estrechando relaciones y desarrollos desde sus protagonistas.
+
+- Liderar equipos creativos y procesos de innovación empresarial
+- Identificar tendencias, tecnologías y oportunidades emergentes
+- Acelerar la transformación empresarial y la solución creativa de problemas
+
+Esta propuesta académica te capacita para anticipar y liderar las transformaciones que surgen de la disrupción digital, de forma ágil y competitiva, a través de la ideación creativa, orientada a la solución de problemas y detección de oportunidades.
+
+El Diploma de Especialización en Creatividad e Innovación prepara a profesionales universitarios interesados en explorar el potencial de sus capacidades creativas y de gestión, enfocados en agregar valor a procesos de innovación, para idear y gestionar proyectos, emprendimientos o intraemprendimientos que capitalicen las oportunidades que ofrece la disrupción tecnológica que atraviesa todas las disciplinas.
+
+El diploma está dirigido a profesionales universitarios interesados en explorar el potencial de sus capacidades creativas y de gestión, con foco en agregar valor a procesos de innovación, para idear y gestionar proyectos, emprendimientos o intraemprendimientos que capitalicen las oportunidades que ofrece la disrupción tecnológica que atraviesan todas las disciplinas.
+
+## Plan de Estudio
+
+## 1.er año
+
+
+### Abril - Junio
+
+
+**Tecnologías aplicadas a la creatividad**
+
+Vivimos en una época en el que las Tecnologías de la Información y las Comunicaciones son el principal agente de transformación, cambio e innovación para todos los sectores productivos y organizaciones, que deben comprender cabalmente todos los roles de liderazgo y toma de decisión de la organización, para abordarlas con creatividad y perspectiva de innovación. Este curso busca proveer a los asistentes de los elementos fundamentales para: Conocer y entender en profundidad las principales tendencias tecnológicas. Poder evaluar tecnologías, propuesta de valor, escenarios de aplicación y potencial. Relacionar escenarios de creatividad e innovación con la aplicación de dichas tecnologías. Créditos: 4 Leé la nota Explorando el metaverso: una experiencia educativa innovadora
+
+**Pensamiento crítico y diseño sistémico**
+
+Las diferencias entre la disrupción digital y el panorama competitivo tradicional son la velocidad con la que se produce el cambio y sus riesgos. La velocidad y complejidad que supone la disrupción digital dificulta la identificación de patrones o tendencias para trazar un plan de acción eficaz. Se requieren nuevas formas de pensamiento, crítico y sistémico, aplicadas a un nuevo modelo de abordar problemas complejos. Se buscará el entrenamiento de las metacompetencias que el pensamiento crítico nos demanda y cómo se aplica en el desarrollo de un diseño sistémico de soluciones, que contemple contextos complejos de acción. El curso se propone: Promover un cambio en el comportamiento del participante, que le permita desarrollar sus habilidades para pensar críticamente sobre la brecha entre el ritmo de evolución del entorno impulsado por las tecnologías exponenciales vs la manera de pensar, sentir y actuar de los sistemas humanos. Desarrollar las metacompetencias que el entorno nos demanda para pensarlos y repensarlos de manera crítica, en función del diseño de soluciones holísticas. Créditos: 4
+
+**Liderazgo estratégico y pensamiento creativo**
+
+Este curso busca desarrollar habilidades de pensamiento creativo, entrenando el pensamiento lateral y de diseño para resolver problemas estratégicos. Los estudiantes aprenderán a liderar la resolución de problemas complejos desde la creatividad, aplicando metodologías de investigación propias del diseño. Se brindarán herramientas y métodos que fomentan el pensamiento creativo, fortalecen la confianza en el liderazgo y permiten aplicar prácticas innovadoras en diversas situaciones profesionales. Créditos: 4
+
+### Junio
+
+
+**Electiva**
+
+Estas asignaturas se presentan a título de ejemplo y pueden variar de un semestre a otro. Las inscripciones están sujetas a quórum mínimo por turno. Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Innovación y estrategia de tecnología Este curso busca generar habilidades para el análisis del contexto tecnológico, el desarrollo de las habilidades de innovación y las prácticas para hacer de éstos un hábito del individuo y de la organización. El contexto extremadamente dinámico de cambios en la industria de tecnología requiere de habilidades para su entendimiento, aprovechamiento e innovación para permitir a cualquier organización mantenerse competitiva. El curso utiliza lecturas, análisis de casos, presentaciones y lectura independiente. Los contenidos y metodología buscan: El contacto de los alumnos con el contexto actual tecnológico. El entendimiento de la dinámica actual de cambios y extracción de aprendizajes de los mismos. La adquisición de técnicas que fomenten la innovación y su gestión. El desarrollo de capacidades de análisis. Organización orientada al cliente El objetivo del curso es que el estudiante desarrolle un entendimiento de cómo implementar la filosofía de negocios del marketing y cómo diseñar las métricas adecuadas para evaluar la gestión del intercambio. En particular, sus objetivos son: Internalizar el concepto de Marketing como intercambio de valor entre las partes. Conocer los diferentes alcances al constructo “orientación al mercado” propuestos por la literatura. Conocer diferentes formas de implementación del concepto de marketing en las organizaciones. Entender las diferentes dimensiones implicadas en la orientación al mercado de una organización. Entender la medición como un proceso de negocios que provee retroalimentación a la organización respecto de los esfuerzos de marketing realizados, en el camino de la implementación efectiva de las estrategias definidas. Entender las diferentes dimensiones de la medición en la gestión de marketing. Conocer las diferentes métricas aplicadas en la gestión de marketing. Aprender a alinear las métricas adecuadas a las estrategias y programas definidos. Taller de liderazgo responsable Liderar implica entender las motivaciones profundas que llevan a los recursos humanos a involucrarse activamente en sus actividades. Para ello se requiere de líderes capaces de centrar su acción en torno a valores. El objetivo general del taller es concientizar a los estudiantes con los conceptos teóricos prácticos en el tema de liderazgo dentro de un marco ético. Los estudiantes deben vivenciar y aprender qué implicancia tiene el marco ético en su forma de pensar y de liderar a personas. El marco ético incluye los puntos de sustentabilidad de sistemas y de negocios, tanto como a la responsabilidad social con la cual deben actuar los lideres hoy en día. La concientización debe expresarse a través de una comunicación efectiva de los estudiantes con otras personas. En este marco se debe estimular especialmente los aspectos cognitivos y emocionales para que los estudiantes como líderes del futuro puedan liderar personas y ser liderados en forma efectiva y humana. Analítica de datos y comunicación Forma al ejecutivo en el campo del análisis de datos digitales y big data para la generación de información. Capacita al ejecutivo en el uso de herramientas de análisis de la comunicación (relevamiento de opinión pública, reputación, imagen, segmentación de públicos) y trabaja el desarrollo de un informe de análisis de datos para la interacción con especialistas. Habilidades gerenciales y gestión de equipos Incorpora la visión de administración y desarrollo de habilidades gerenciales y estudia la relevancia del gerente de Comunicación dentro del equipo de la alta gerencia de la empresa. Examina los modelos de toma de decisiones, el proceso de asignación de recursos, el impacto de la comunicación en la gestión de equipos y los indicadores de desempeño en la gestión. Disrupción digital y comunicación Analiza el concepto de disrupción digital en el ámbito empresarial y su vínculo con la sociedad. Estudia la tecnología disruptiva y los modelos de negocio innovadores e incorpora una perspectiva sociocultural desde la disrupción social como evolución de tecnologías y medios de comunicación y su impacto en el entramado sociocultural. UX/UI y estrategia de contenido Esta materia se plantea: Instruir en la comprensión de la teoría y los conceptos en donde se enfoca el diseño UX/UI, así como las herramientas y metodologías que les permitan implementarlo, gestionarlo y medirlo. Liderar el estudio de audiencias determinadas y sus interacciones con sistemas análogos o digitales, y la influencia que los protagonistas mercantiles de estos productos o servicios tienen en sus vidas y entornos. Descifrar las necesidades de usuarios clave para crear experiencias memorables y significativas a medida a través de procesos, herramientas, productos o servicios, como mediadores entre los objetivos de negocio y las necesidades de la audiencia establecida. Comprender los factores clave de éxito en una estrategia de contenido acorde a las necesidades detectadas de las audiencias: estudio de los mecanismos cognitivos, análisis de públicos y las decisiones de formato, cantidad, estructura y estilo.
+
+### Julio - Setiembre
+
+
+**Gestión de la innovación y el talento**
+
+Esta materia se plantea: Reconocer el rol del liderazgo en la gestión del cambio y la implementación de la innovación, para mantener la agilidad y competitividad de las organizaciones actuales. Dominar las fases y características fundamentales en la planificación y gestión de culturas y procesos de innovación. A partir de la reflexión crítica de escenarios complejos, ser capaces de generar soluciones creativas y eficientes para mejorar los sistemas y estilos de liderazgo y gestión del talento, con foco en la innovación. Créditos: 4
+
+**Marketing de la innovación**
+
+Esta materia se plantea: Presentar los conceptos principales de la estrategia de marketing e integrarlos a los procesos de creatividad y la innovación. Reconocer la relevancia de los aspectos creativos e innovadores empleados en diferentes facetas del marketing y de las estrategias de marketing dentro del ámbito de las industrias creativas. Generar en el alumno la capacidad de liderar el proceso de llevar un producto innovador al mercado, con énfasis en la importancia de anticipar tanto el mercado como las necesidades de los clientes y en el papel de la creatividad y la innovación en el desarrollo y ejecución de la estrategia de marketing. Créditos: 4
+
+**Diseño e innovación en modelos de negocio**
+
+La asignatura tiene como objetivo familiarizar a los estudiantes con los nuevos modelos de negocios y fomentar su habilidad para identificar oportunidades de negocios, validarlas y plasmarlas en un CANVAS. Créditos: 4 https://www.youtube.com/watch?v=a9Xa1AitJVM
+
+### Setiembre
+
+
+**Taller de creatividad e innovación en Media Lab**
+
+Esta materia busca implicar y capacitar a los estudiantes para buscar activamente soluciones creativas a problemas reales, que puedan tener un impacto positivo en la sociedad, a partir de trabajo práctico en equipos multidisciplinarios. Se busca que los participantes sean capaces de: Aplicar el diseño centrado en las personas para identificar oportunidades de innovación. Asumir un rol de conocedor o experto en el campo para transformar insights en proyectos con valor económico, social, cultural, regional y medio ambiental. Implementar habilidades adquiridas y desarrolladas en materias previas para desarrollar una reflexión crítica a través del uso de herramientas, técnicas y métodos. Potenciar el desarrollo de sus habilidades blandas o Soft Skills. Redefinir tareas en una serie de ejercicios para llevar a cabo un proyecto en equipo. Desarrollar un modelo con el potencial de ser derivado a escala real. Poner en práctica una cultura de innovación al llevar a cabo experimentos y las lecciones aprendidas de múltiples intentos fallidos. Capacidad para recibir y brindar críticas constructivas en la fase de ideación. Ejercitar la habilidad de trabajar de manera colaborativa y mantener un esquema o calendario de trabajo. Créditos: 4
+
+### Octubre - Diciembre
+
+
+**Gestión de proyectos para emprendedores**
+
+Esta materia se plantea: Presentar a los estudiantes las características de los emprendimientos ágiles y las metodologías utilizadas por este tipo de emprendedores para llevar adelantes sus emprendimientos. Conocer los fundamentos de la gestión de un emprendimiento: estrategia, ventajas competitivas y propuesta de valor. Conocer, analizar y gestionar los diferentes modelos de negocios aplicables a un emprendimiento. Créditos: 4
+
+**Innovación para la economía creativa**
+
+Propone una aproximación analítica y práctica al valor económico, social y cultural generado por la creatividad, el conocimiento y la innovación. Desde un enfoque interdisciplinario, se estudian dinámicas y marcos conceptuales que configuran los ecosistemas creativos y su papel en el desarrollo sostenible y la cohesión social. Los estudiantes aplicarán herramientas para diseñar proyectos, políticas y modelos de gestión innovadores, integrando tecnología, propiedad intelectual y derechos culturales. A través de un aprendizaje activo y crítico, se busca fortalecer el rol como agente de cambio en los sectores culturales y creativos. Créditos: 4
+
+### Diciembre
+
+
+**Marca personal, comunicación y negociación**
+
+Este curso se centra en desarrollar una marca personal sólida y coherente, abordando aspectos como la propuesta de valor única, la estrategia de comunicación y la gestión de la reputación personal. Los estudiantes aprenderán a reconocer y desarrollar competencias que potencien su capacidad de interacción, motivación y liderazgo en diversas situaciones, incluyendo momentos de tensión y conflicto. Además, se analizarán diferentes tipos de liderazgo y formatos de equipos de trabajo, así como los roles y mecanismos de interacción en los mismos. Entrenará la adaptación y flexibilidad necesarias para liderar equipos en procesos cotidianos y de cambio. Finalmente, se explorarán criterios y herramientas para mejorar la gestión en equipos y técnicas de negociación, incluyendo la elaboración de un mapa de poder y su relevancia en la gestión de la comunicación. Créditos: 4
+
+### Octubre - Abril
+
+
+**Caso integrador: Plan de innovación**
+
+El Proyecto: Plan de Innovación pretende que el estudiante integre los conocimientos adquiridos durante el Diploma desde la perspectiva de diagnóstico y toma de decisiones frente a una situación empresarial real, desarrollando un plan de innovación acorde a la lectura del diagnóstico desarrollado y el contexto particular del caso. Créditos: 16 Convocatoria a empresas
+
+## Requisitos de ingreso (detalle)
+
+Los candidatos a realizar el Diploma de Especialización en Creatividad e Innovación y el Master en Creatividad, Innovación y Comunicación deben ser graduados de carreras de grado universitario y ser admitidos al postgrado luego de pasar por el proceso de postulación. Revalidación de materias Una reválida consiste en reconocer créditos académicos obtenidos por un estudiante en otras instituciones universitarias, a efectos de la aprobación de asignaturas en una carrera de la Universidad ORT Uruguay. Puede aplicarse a estudiantes que cursaron en otras instituciones y transfieren a Universidad ORT Uruguay, o a estudiantes de la Universidad ORT Uruguay que obtuvieron créditos académicos en actividades de intercambio estudiantil. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar el título académico apostillado o una copia notarial del mismo. Se deberá entregar dicha constancia en la bedelía de la escuela de postgrados correspondiente de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+Presencial u online (con evaluaciones presenciales). Este postgrado se dicta en forma semipresencial, combinando clases presenciales y actividades asincrónicas. Dentro de la modalidad semipresencial, se despliegan actividades académicas en tres modalidades básicas de clases, cuyo volumen dependerá de los resultados de aprendizaje de cada asignatura. Clases o actividades presenciales. Los participantes son convocados a clase presencial con el o los docentes. La evaluación es siempre presencial. Clases o actividades a distancia. Las clases serán impartidas de manera 100 % online, y tanto los estudiantes como el docente -en algunos casos extranjeros- estarán remotos, conectados a través de la plataforma Zoom. Pueden ser sincrónicas o asincrónicas. En todos los casos el curso contará con el apoyo de plataformas virtuales (Moodle) para desarrollarse bajo el modelo de aula expandida: existe interacción previa y posterior a la clase en la plataforma, para complementar y fortalecer el proceso de aprendizaje. A modo de ejemplo: Se abren foros de discusión sobre temas, ejercicios u otras tareas planteadas. Se establecen entregas virtuales de trabajos individuales y/o grupales. Se proponen materiales de lectura para trabajar en las instancias sincrónicas o asincrónicas. Las evaluaciones principales se realizan en forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración Un año (puede cursarse hasta en dos años). Horarios de clase Frecuencia: martes a jueves de 19:00 a 21:30 horas. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El Diploma de Especialización en Creatividad e Innovación fue reconocido por resolución oficial del Ministerio de Educación y Cultura (MEC) del 20 de marzo de 2023.
+
+## Requisito de graduación
+
+El Diploma de Especialización en Creatividad e Innovación se compone de 12 asignaturas más un proyecto final que supone el desarrollo de un proyecto (Plan de Innovación), que implica una demanda prevista de 150 horas de trabajo académico.
+
+## Becas (detalle)
+
+La Escuela de Postgrados y Actualización en Comunicación y Diseño ofrece fondos de becas para facilitar el acceso de profesionales con alto potencial a sus programas. Incluye apoyos para emprendedores, jóvenes talentos, candidatos con necesidad financiera, estudiantes del interior y estudiantes internacionales.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-creatividad-e-innovacion)
+- [Plan de estudios](https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-creatividad-e-innovacion/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados/fc)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

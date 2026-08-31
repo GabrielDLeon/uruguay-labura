@@ -32,9 +32,52 @@ export interface JobRecord {
   scrapedAt: string;
 }
 
+export interface TopOrganization {
+  name: string;
+  count: number;
+}
+
+export interface TaskTypeEntry {
+  name: string;
+  count: number;
+  percentage: number;
+}
+
+export interface QuotaJobsCounts {
+  afrodescendientes: number;
+  trans: number;
+  discapacidad: number;
+  victimas: number;
+}
+
+export interface DailyClosing {
+  date: string;
+  count: number;
+}
+
+export interface Next7Days {
+  totalClosing: number;
+  byDate: DailyClosing[];
+}
+
+export interface EvolutionSnapshot {
+  date: string;
+  total: number;
+  organizations: number;
+}
+
+export interface DashboardData {
+  topOrganizations: TopOrganization[];
+  taskTypeDistribution: TaskTypeEntry[];
+  quotaJobs: QuotaJobsCounts;
+  next7Days: Next7Days;
+  evolution: EvolutionSnapshot[];
+}
+
 export interface JobsDataset {
   source: string;
   scrapedAt: string;
   total: number;
   jobs: JobRecord[];
+  dashboard?: DashboardData;
 }

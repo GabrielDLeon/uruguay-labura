@@ -1,0 +1,67 @@
+---
+title: "Maestría en Economía"
+similar:
+  - licenciatura-en-economia-udelar
+  - maestria-en-economia-um
+  - licenciatura-en-economia-ucu
+  - administracion-y-economia-del-turismo-maestria-udelar
+  - economia-maestria-udelar
+  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=33"
+location: "Facultad de Ciencias Sociales"
+description: "La Maestría en Economía tiene por objetivo integrar una rigurosa formación teórica y empírica con una aproximación a los principales temas de actualidad económica. En este sentido, se proporciona una formación en áreas básicas del conocimiento económico: microeconomía y macroeconomía, en métodos cuantitativos que son empleados en las investigaciones económicas teóricas y empíricas, así como en temas específicos que permiten profundi"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - economia
+  - microeconomia
+  - macroeconomia
+  - econometria
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=33'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=33'
+---
+
+## Resumen
+
+### Objetivo
+
+La Maestría en Economía tiene por objetivo integrar una rigurosa formación teórica y empírica con una aproximación a los principales temas de actualidad económica. En este sentido, se proporciona una formación en áreas básicas del conocimiento económico: microeconomía y macroeconomía, en métodos cuantitativos que son empleados en las investigaciones económicas teóricas y empíricas, así como en temas específicos que permiten profundizar en diversos aspectos de la disciplina. Se espera que sus egresados puedan desempeñarse con el adecuado rigor analítico y metodológico tanto en el ámbito académico como en el sector público y privado.
+
+### Referentes académicos
+
+GUILLERMO SANTOS
+
+## Ingreso
+
+### Reglamento
+
+La Maestría en Economía tiene una duración esperada de dos años. Los estudiantes tendrán un plazo máximo de cuatro años desde su ingreso para finalizar la misma. Al ingresar a la maestría, cada estudiante contará con un director académico que lo guiará en el proceso académico. Este director académico asistirá al estudiante en la elección de las asignaturas optativas/senderos que quiera realizar y será quien servirá de nexo con la Coordinación de la maestría.
+
+### Requisitos de Ingreso
+
+Las postulaciones se realizan a través de la Facultad de Ciencias Económicas.
+
+## Plan de Estudio
+
+### Programa
+
+Por mas información: https://cienciassociales.edu.uy/departamento-de-economia/ensenanza-de-posgrado/maestria-en-economia/
+
+### Unidades curriculares
+
+OBLIGATORIAS Microeconomía Macroeconomía Econometría Taller de tesis OPTATIVAS Econometría Bayesiana Economía de la Discriminación Economía de las Instituciones Economía Política Internacional Economía Urbana Globalización Productiva Matemática para la Teoría Económica Métodos Econométricos Dinámicos Métodos de Evaluación de Políticas Modelos de Equilibrio General Computable Para el Análisis de Políticas Organización Industrial Teoría de Juegos Teoría de Precios Teoría del Crecimiento Económico Teoría de la Regulación Económica Tópicos de Microeconomía Aplicada a la Educación

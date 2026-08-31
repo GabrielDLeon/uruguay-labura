@@ -1,0 +1,43 @@
+---
+title: "Maestría en Arte Sonoro"
+similar:
+  - arte-y-cultura-visual-maestria-udelar
+  - licenciatura-en-arte-digital-y-electronico-udelar
+  - productor-musical-ort
+  - dramaturgia-udelar
+  - cine-latinoamericano-maestria-udelar
+  - licenciatura-en-humanidades-um
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=2"
+location: "Facultad de Artes"
+description: "Maestría en Arte Sonoro, dictada por la Facultad de Artes."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - arte
+  - musica
+  - arte-sonoro
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=2'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=86&idPosgrado=2'
+---
+
+
+
+
+## Resumen
+
+Información no disponible en el catálogo de posgrados de Udelar.

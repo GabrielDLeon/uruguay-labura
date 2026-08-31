@@ -1,0 +1,51 @@
+---
+title: "Tecnicatura en Radioisótopos"
+similar:
+  - tecnicatura-en-radioterapia-udelar
+  - medicina-nuclear-especializacion-udelar
+  - licenciatura-en-fisica-medica-udelar
+  - licenciatura-en-imagenologia-udelar
+  - ingenieria-biomedica-ucu
+  - ingenieria-biomedica-utec
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "tecnicatura"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos"
+location: "Facultad de Medicina"
+description: "Es un profesional de la salud que ha recibido la formación teórica y práctica que lo capacita para el manejo de sustancias radioactivas en forma de fuentes abiertas y su aplicación en procedimientos diagnósticos y terapéuticos, bajo la indicación y supervisión de un médico especialista en Medicina Nuclear o del radiofarmacéutico hospitalario, para cumplir un rol específico en el equipo multidisciplinario de Medicina Nuclear."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - salud
+  - medicina-nuclear
+  - radioisotopos
+  - tecnologia-medica
+  - radioterapia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-radioisotopos'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es un profesional de la salud que ha recibido la formación teórica y práctica que lo capacita para el manejo de sustancias radioactivas en forma de fuentes abiertas y su aplicación en procedimientos diagnósticos y terapéuticos, bajo la indicación y supervisión de un médico especialista en Medicina Nuclear o del radiofarmacéutico hospitalario, para cumplir un rol específico en el equipo multidisciplinario de Medicina Nuclear.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Se ingresa a través de Prueba de Ingreso según los cupos ofertados por cada carrera. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Inscripción condicional hasta con una asignatura previa a aprobar en el período de exámenes de abril para que la inscripción quede confirmada.

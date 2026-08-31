@@ -1,0 +1,293 @@
+---
+title: "Licenciatura en Comunicación Audiovisual y Cinematográfica"
+similar:
+  - tecnico-en-realizacion-audiovisual-ort
+  - licenciatura-en-comunicacion-um
+  - licenciatura-en-comunicacion-ucu
+  - licenciatura-en-cine-ucu
+  - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
+  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "licenciatura"
+area: "Comunicación"
+modality: "presencial"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "4 años"
+credits: 180
+cost: "Arancelado"
+language: "Español"
+website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-audiovisual"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "La carrera de Comunicación Audiovisual permite dominar los lenguajes de la producción audiovisual en cine, televisión, documental y publicidad."
+tags:
+  - comunicacion
+  - audiovisual
+  - cine
+  - television
+  - publicidad
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fc.ort.edu.uy/licenciatura-en-comunicacion-audiovisual'
+  - label: 'Plan de estudios'
+    url: 'https://fc.ort.edu.uy/licenciatura-en-comunicacion-audiovisual/plan-de-estudios'
+  - label: 'Listado de carreras universitarias'
+    url: 'https://www.ort.edu.uy/carreras-universitarias'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La carrera de Comunicación Audiovisual permite dominar los lenguajes de la producción audiovisual en cine, televisión, documental y publicidad.
+
+- Desarrollo y creación de contenidos para diversas plataformas audiovisuales
+- Acceso a equipos cinematográficos y de edición de última generación
+- Adquisición de experiencia con la participación en rodajes de ficción y documental
+
+Hacer audiovisual es contar historias.
+
+Toda historia nace en sus primeras líneas de guion y crece a medida que se desarrolla el trabajo en equipo, desde la producción, la construcción sonora, la iluminación y las miradas de la cámara hasta llegar al discurso final en la etapa de producción.
+
+La realización audiovisual es una de las artes más jóvenes y, como tal, conjuga y adapta herramientas de las artes clásicas: la literatura, la fotografía, la pintura, el teatro y la música. De este modo, se crean obras originales que definen la forma en que la sociedad se comunica, por excelencia, hoy en día.
+
+La Licenciatura en Comunicación se desarrolla en cuatro años: durante el primero se cursa un ciclo básico común y, en el segundo, el estudiante debe optar por una de las orientaciones para completar su formación. En este caso, Audiovisual y Cinematográfica.
+
+La carrera te propone conocer en profundidad las diferentes orientaciones profesionales durante el primer año, tras cursar materias específicas de cada una de ellas a tu elección. Si te interesa explorar la orientación Audiovisual y Cinematográfica, la materia que podrás cursar es Lenguaje Audiovisual.
+
+La materia propone un acercamiento a las herramientas básicas de la narración audiovisual que permiten la construcción de relatos cinematográficos, televisivos y digitales. Al comienzo del curso se trabaja desde una perspectiva teórica y luego, mediante la realización práctica, se experimenta con diversas formas de creación de obras audiovisuales, donde el alumno se descubre como profesional en el campo al reconocer los múltiples roles y oportunidades posibles.
+
+### Título Intermedio
+
+Analista en Comunicación Audiovisual y Cine
+
+### Títulos y Reconocimientos
+
+Al obtener 180 créditos ECTS, los estudiantes obtienen el título intermedio de Analista en Comunicación Audiovisual y Cine. Una vez terminada la carrera, realizado el proyecto final y obtenidos 240 créditos ECTS, reciben el título de Licenciado/a en Comunicación Audiovisual y Cinematográfica. La Licenciatura en Comunicación de la Universidad ORT Uruguay es una carrera reconocida por resolución oficial del Ministerio de Educación y Cultura del 12 de setiembre de 1997. Como universidad reconocida y miembro de la Asociación Internacional de Universidades (IAU), los títulos de la Universidad ORT Uruguay cumplen estándares internacionales que permiten continuar estudios de maestría y doctorado en universidades de todo el mundo.
+
+### Modalidad
+
+Presencial. Muchas asignaturas complementan sus dictados a través de la modalidad de "aula expandida"; es decir, un entorno virtual complementario del espacio presencial, que se articula con la propuesta de enseñanza y de aprendizaje, y tiene como objetivo acompañar y potenciar estos dos procesos.
+
+### Duración y Horarios
+
+Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino Semestres 5 al 8: nocturno * Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Educación Media Superior (EMS) completa de cualquier orientación. Opciones de bachilleratos EMS equivalentes de planes anteriores. Bachilleratos tecnológicos o bachilleratos técnicos profesionales (Ex UTU) en áreas afines a evaluación de la coordinación académica de la carrera. Estudiantes provenientes de otras universidades con al menos una materia aprobada, sin importar el bachillerato cursado previamente; sujeto al análisis de antecedentes por parte de la coordinación de la carrera correspondiente. La universidad admite el ingreso condicional a carreras universitarias hasta con dos previas del nivel requerido para el ingreso, las que deben regularizarse en el transcurso del primer semestre, antes de obtener cualquier crédito académico. Estudiantes del exterior Los estudiantes que culminaron su educación media en el exterior deben presentar el certificado de estudios correspondiente, apostillado o con legalización consular, a efectos de su admisión a los estudios universitarios de grado en la universidad.
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+### Reválidas
+
+Si iniciaste tu carrera en otra universidad y querés continuar tus estudios en la Universidad ORT Uruguay, podés revalidar las materias aprobadas y contar con beneficios en el valor de la cuota. y así podrás revalidar materias del plan de cursado.
+
+### Requisito de Graduación
+
+Examen integrador final, exonerable con un promedio acumulado de calificaciones (PAC) de 60 % o superior, previo al Proyecto Final.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Expresión oral y escrita**
+
+La materia trabaja sobre el criterio normativo y pragmático del texto. Estudia la palabra y la enunciación por sus diferentes valores en la producción oral y escrita. Explica las reglas de acentuación y ortografía. Plantea una breve introducción a la historia del lenguaje escrito y las diferencias con el código oral. Identifica las características propias del código escrito y su aplicación práctica en la producción de textos y el desarrollo de narrativas para diferentes productos comunicacionales. Profundiza el dominio de los valores semántico y sintáctico. Unifica los diferentes usos de la puntuación desde la fonética, la prosodia y la escritura, de acuerdo con el criterio normativo de la sintaxis oracional. Créditos: 6
+
+**Teorías de la comunicación 1**
+
+El curso se presenta como ámbito de formación teórica medular para el estudiante de Comunicación, en tanto despliega un aparato conceptual que, por un lado, sintetiza el desarrollo del pensamiento científico sobre la Comunicación y, por otro, ofrece herramientas de intelección para pensar las realidades comunicativas y socio-culturales con perspectiva científica, es decir, reflexiva, crítica y responsable. El curso se propone, en definitiva, como un ejercicio de observación del mundo social contemporáneo, organizado en torno a la Comunicación en tanto ámbito de interacción, producción e intercambio de sentidos a través de medios masivos, plataformas y nuevas tecnologías. Créditos: 6
+
+**Comunicación sonora**
+
+La asignatura propone conocer y analizar el sistema de medios radiofónicos y el podcasting. Los estudiantes aprenderán a distinguir criterios de noticiabilidad y a evaluar temas actuales, así como a crear, producir y conducir y monetizar programas de radio, podcasts y videopodcasts. Créditos: 6
+
+**Fotografía**
+
+El curso aporta los elementos necesarios para desempeñarse con corrección y profesionalismo en la disciplina fotográfica orientada a los productos audiovisuales, infocomunicacionales y del entretenimiento en todas las plataformas. La propuesta metodológica se centra en el trabajo teórico-práctico. Estudia los principios básicos de la fotografía, el trabajo con la cámara, el procesamiento de la película fotográfica, el copiado y la creación de la imagen. Abarca la fotografía digital y análisis del trabajo de los grandes maestros. Créditos: 6
+
+**Lenguaje audiovisual**
+
+La materia se propone introducir a la comprensión analítica de los elementos y características del lenguaje audiovisual. Tiene por objetivos situar y comprender el origen y desarrollo de los medios audiovisuales y su lenguaje. Reconocer los elementos fundamentales del lenguaje audiovisual, sus propiedades y principios básicos. Describir y analizar discursos audiovisuales con terminología técnica. Entender y experimentar el proceso de la producción audiovisual. Créditos: 6
+
+#### 2.º semestre
+
+**Redacción expresiva**
+
+La materia aborda la temática de los actos lingüísticos en la información textual, trabajando el nivel denotativo y connotativo. Estudia las tipologías textuales —informativa, explicativa, narrativa y dialogada— y las funciones de lenguaje en relación con el contexto. Créditos: 6
+
+**Teorías de la comunicación 2**
+
+Con base en Teorías de la Comunicación 1, el curso se propone identificar y describir los planteos teóricos desarrollados en torno a los fenómenos comunicativos desde la fundación del campo académico hasta la actualidad; reconocer la complejidad de los fenómenos comunicativos, mediáticos y no mediáticos, a la luz de los diferentes enfoques que se han desarrollado en torno a la comunicación desde el nacimiento de la disciplina; propiciar la capacidad de reflexión sobre los fenómenos de la Comunicación en toda su amplitud, apertura y complejidad, reconociendo la centralidad de los medios y tecnologías de la comunicación en el mundo contemporáneo y el entorno digital. Créditos: 6
+
+**Semiótica de las mediatizaciones**
+
+La asignatura propone a los estudiantes a pensar sus vidas y futuras prácticas profesionales en un mundo de signos y presenta el estudio de la semiótica como ciencia del sentido. Al finalizar, los estudiantes comprenderán sus principios y fundamentos, aplicarán conceptos semióticos a los medios, plataformas y sus mediatizaciones, y desarrollarán habilidades para analizar discursos y prácticas simbólicas en cualquier tipo de soporte. Créditos: 6
+
+**Historia del lenguaje cinematográfico**
+
+Este curso ofrece un espacio para conocer y discutir la relación histórica del cine con la sociedad, la cultura y la política desde los inicios hasta la posguerra. Se propone un recorrido cronológico y una mirada atenta a los contextos socioeconómicos y culturales en cada caso a estudiar, a los cambios tecnológicos de los diferentes períodos, y a las teorías cinematográficas que permitirán obtener herramientas para el análisis crítico del lenguaje durante la primera mitad del S. XX. Asimismo, se promueve pensar la historia y el lenguaje del cine como una práctica crítica y transdisciplinaria, iluminada por la teoría y ajustada, en sus lecturas y filmografía, al marco de Uruguay y la región. Créditos: 6
+
+**Taller de edición audiovisual**
+
+El curso pretende dotar al estudiante de las herramientas teórico-prácticas básicas para montar distintos tipos de secuencias en programas de edición digital de última generación. Créditos: 3
+
+**Electiva 1**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tenerse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación en las organizaciones - Créditos: 6 Videopodcast - Créditos: 6 Periodismo, información y comunicación - Créditos: 6 Lenguaje publicitario - Créditos: 6 Lenguaje audiovisual - Créditos: 6
+
+### 2.° año
+
+#### 3.er semestre
+
+**Escrituras creativas**
+
+Escrituras Creativas amplía la variedad de lenguajes y formatos de las referencias y los recursos didácticos. Asimismo, mantiene el principio que reconoce que se aprende a escribir leyendo y escribiendo. Y agrega que hay otros aprendizajes en la escritura que se adquieren viendo, escuchando, corporizando, interpretando y mezclando sentidos, lenguajes y formas; todo eso que la escritura también demanda y permite expresar. Por ende, además de la investigación como espacio de análisis, este taller estimula y evalúa la experimentación como parte de la creación. Créditos: 6
+
+**Cultura y comunicación**
+
+La materia analiza las problemáticas culturales contemporáneas desde la mirada comunicacional. Aborda la reformulación de lo público y lo privado, la problematización de los espacios, las mediaciones en los problemas globales, la mundialización, la globalización y la plataformización de la representación. Estudia la relación entre las grandes transformaciones económicas, sociales, tecnológicas y políticas en la sociedad actual, y las que se producen en el campo de la cultura, la comunicación, los medios, las redes y las plataformas. Créditos: 6
+
+**Audiovisión**
+
+Al finalizar el curso, el estudiante será capaz de reconocer el trabajo del diseñador de sonido y del compositor en el audiovisual, y habrá adquirido una base teórica y de sensibilización hacia el rol del sonido en el audiovisual. Además, conocerá distintas formas de interacción entre sonido, imagen y narrativa, que le servirá como punto de partida conceptual y creativo para integrar esas áreas a sus trabajos audiovisuales. Créditos: 3
+
+**Fotografía en cine y TV**
+
+Espacio curricular pensado para comprender y dominar la técnica de la captura de imágenes e introducir en las posibilidades estéticas, narrativas y artísticas de la fotografía. A partir de una definición precisa de los roles y las áreas involucradas en la fotografía, establece las normas estéticas y formales presentes en la puesta en escena, y profundiza en la tecnología digital. Practica el manejo de la cámara de video e imparte conocimientos sobre las distintas fuentes y tipos de iluminación. Imparte las herramientas básicas de la fotografía cinematográfica y sus accesorios. Créditos: 9
+
+**Dirección de arte**
+
+El curso Integra la dirección artística como un elemento clave en proyectos audiovisuales y cinematográficos. Permite conocer los diferentes campos y matices técnicos de la dirección artística según el género. Conceptualiza y analiza los elementos artísticos de una imagen y su función narrativa y expresiva. La finalidad es generar un proyecto visual a partir de guiones y convertirlo en material de trabajo real; organizar y planificar el trabajo de arte en proyectos; y trabajar en equipos de arte, ya sea como asistente o director/a. Créditos: 6
+
+#### 4.º semestre
+
+**Metodología de la investigación en comunicación**
+
+Durante el curso los estudiantes aprenderán a identificar las etapas del proceso de investigación de las Ciencias Sociales y a aplicar técnicas de investigación cualitativas, cuantitativas y mixtas, así como a fundamentar su uso en estudios de específicos del campo de la comunicación. También serán capaces de elegir diferentes tipos de diseños y herramientas de investigación de manera efectiva. Esta materia es la base conceptual y analítica que prepara a los estudiantes para el Proyecto Final de la carrera. Créditos: 6
+
+**Nuevos cines**
+
+Este curso ofrece un espacio para conocer y discutir la relación histórica del cine con la sociedad, la cultura y la política desde la posguerra hasta nuestros días. Se propone un recorrido cronológico / temático y una mirada atenta a los contextos socioeconómicos y culturales a estudiar en cada caso, a los cambios tecnológicos de los diferentes períodos, y a las teorías cinematográficas que permitirán obtener herramientas para el análisis crítico de las formas de representación durante la segunda mitad del S. XX. Asimismo, se sugiere pensar la historia y el lenguaje del cine como una práctica crítica y transdisciplinaria, iluminada por la teoría y ajustada, en sus lecturas y filmografía, al marco de Uruguay y la región. Créditos: 6
+
+**Documental social**
+
+El curso presenta elementos críticos y analíticos en la elaboración de una idea para documentales de creación. Capacita en la reflexión sobre las implicancias ideológicas, artísticas y técnicas involucradas en el proceso de pre-producción y producción de trabajos individuales. Aporta insumos para la elaboración, investigación, planificación, producción, rodaje y concreción del producto documental para diferentes plataformas. Créditos: 6
+
+**Registro de postproducción de sonido**
+
+Materia que busca capacitar al alumno en el reconocimiento y uso de los medios de producción y postproducción del sonido destinado al medio audiovisual. En una primera etapa se darán los criterios necesarios para determinar el equipamiento y la técnica de registro sonoro apropiada para cada caso y luego se hará énfasis en el conocimiento de las herramientas para la postproducción de sonido. Créditos: 3
+
+**Guion de cine**
+
+Mediante la exposición y discusión de las principales teorías acerca del guion y el visionado de películas y cortometrajes, el curso pretende brindar al alumno las herramientas metodológicas necesarias para el análisis y la producción de guiones cinematográficos. Créditos: 6
+
+**Electiva 2**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+### 3.er año
+
+#### 5.º semestre
+
+**Storytelling**
+
+El curso propone introducir los elementos básicos de la narración y sus particularidades para diferentes tipos de productos -audiovisual, cine, periodismo, publicidades, storytelling corporativo, storytelling personal- y promover la capacidad de detectar y compartir ejemplos valiosos. Los estudiantes podrán dominar el storytelling utilizando recursos multimedia para concebir la historia y su presentación y experimentar el proceso de producción profesional en diversos formatos. Créditos: 6
+
+**Guion para series**
+
+Materia teórico-práctica que busca familiarizar al alumno con los aspectos prácticos de la escritura de guion para series y la presentación de proyectos. A partir de la exposición de las principales teorías acerca del guion, aplicadas a la televisión y el streaming, se fomentará la discusión en clase y se le darán las herramientas para la escritura de una biblia de TV. Créditos: 3
+
+**Taller documental de creación**
+
+La materia presenta elementos críticos y analíticos en la elaboración de una idea para documentales de creación. Capacita en la reflexión sobre las implicancias ideológicas, artísticas y técnicas involucradas en el proceso de preproducción y producción de trabajos individuales. Créditos: 9
+
+**Taller de puesta en escena**
+
+El taller busca promover la complejidad y riqueza de la narración como sistema formal, profundizando en los conocimientos sobre el relato cinematográfico. Fomentar el debate grupal en torno a los elementos teóricos y prácticos que intervienen en la construcción del hecho fílmico, así como estimular el análisis y la comprensión de las funciones narrativas de la puesta en escena. Se impulsa la realización de ejercicios prácticos orientados a interiorizar las reglas de la continuidad narrativa y desarrollar un espíritu crítico y reflexivo frente a las posibilidades creativas del guion técnico. Créditos: 6
+
+**Gestión de la producción audiovisual**
+
+La materia se centra en el diseño y la estructura de los procesos de producción audiovisual, su organización y manejo financiero. Se brindan insumos para conocer a logística de un rodaje de ficción y manejar las herramientas y documentos necesarios para la gestión de proyectos audiovisuales y cinematográficos. El estudiante podrá realizar el desglose de producción de un guion y presupuestarlo, así como generar y gestionar la producción de proyectos audiovisuales de cualquier tipo para diseñar la producción de un cortometraje. Créditos: 6
+
+#### 6.º semestre
+
+**Media Lab**
+
+Media Lab Posibilita la integración en equipos multidisciplinarios para la ejecución de proyectos de aplicación, extensión y similares. El fin último es que, a partir de un problema complejo planteado por una institución real externa, el estudiante trabaje en equipos multidisciplinares en soluciones creativas, innovadoras y aplicables. También es posible que el estudiante formule sus propios proyectos y trabaje grupalmente en su incubación. El espacio tiene como objetivos que el estudiante sea capaz de integrarse a equipos multidisciplinarios; reflexionar sobre el rol de su perfil de estudios y encontrar los elementos sinérgicos con otros perfiles; manejar la relación interpersonal y entender los mecanismos de comunicación en grupo, roles y liderazgo y aplicar sus conocimientos a proyectos y soluciones específicas. Créditos: 6
+
+**Montaje**
+
+En el curso se analiza la teoría del montaje cinematográfico, su evolución a través del cine y la TV y los nuevos formatos, sus reglas y sus técnicas. Presenta un panorama exhaustivo de las distintas opciones tecnológicas que existen en el campo de la post-producción audiovisual. Utiliza ejercicios de edición para colaborar en la comprensión de la toma de decisiones narrativas, estéticas y expresivas. Créditos: 6
+
+**Taller de podcast**
+
+La materia permite conocer los elementos centrales y específicos del podcasting. Realizar análisis de escucha y llevar a cabo la creación de un podcast desde el desarrollo de la idea y la preproducción hasta su concreción y posterior edición. Identificar los elementos clave del género y dominar el lenguaje y las posibilidades que ofrece. Créditos: 3
+
+**Taller de TV y streaming**
+
+El taller busca capacitar en el diseño, producción y realización de programas de televisión y proyectos de streaming, tanto en campo como en set, considerando los nuevos medios de difusión como VoD, streaming y redes sociales. Se abordan las estrategias de la realización audiovisual desde una perspectiva técnica y expresiva del lenguaje, teniendo en cuenta al público consumidor, sus comportamientos y demandas. Créditos: 9
+
+**Electiva 3**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+### 4.º año
+
+#### 7.º semestre
+
+**Seminario de proyecto final**
+
+Tiene por finalidad presentar al alumno las metodologías y técnicas necesarias para emprender una investigación académico-científica o el desarrollo de un producto profesional relacionado con su carrrera. Acompañado por un tutor, el estudiante desarrolla su proyecto desde la concepción de la idea hasta el producto final. Créditos: 6
+
+**Taller de ficción**
+
+El taller capacita en las principales etapas de la realización de un cortometraje de ficción (pre-producción, rodaje, posproducción), con la debida discriminación de roles, distribución del trabajo y racionalización de los materiales. Articula los conocimientos teóricos y prácticos adquiridos por el alumno a lo largo de la Licenciatura. Fomenta el espíritu cooperativo y grupal, con énfasis en la responsabilidad individual ante el equipo y ante el resultado final. Créditos: 12
+
+**Teorías del cine**
+
+Materia que presenta los principales lineamientos conceptuales en torno al cine desarrollados a partir de los años ´60. El curso dará cuenta de modelos de análisis tales como la semiótica, el psicoanálisis, el feminismo y el postestructuralismo, abordando autores como Christian Metz, Pier Paolo Pasolini, Jean-Louis Baudry, Laura Mulvey, Linda Williams, Paul Julian Smith, Slavoj Žižek, Thomas Elsaesser, entre otros. Créditos: 6
+
+**Electiva 4**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+#### 8.º semestre
+
+**Proyecto final**
+
+Es una instancia individual o grupal de cierre de carrera en la que el alumno desarrolla un proyecto de corte profesional o una trabajo académico-científico de integración de conocimientos en su área. Las dos opciones implican un componente decisivo de investigación y un despliegue de estrategias y métodos de trabajo (académico / profesional) que acrediten un sólido dominio de saberes adquiridos a lo largo de toda la carrera. Créditos: 18
+
+**Electiva 5**
+
+Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
+
+**Pasantía o Electiva 6**
+
+Pasantía Espacio de incursión en el mercado laboral a través de una práctica formativa asistida por tutores designados por la Universidad ORT Uruguay. La práctica se desarrolla en una institución o empresa con convenio vigente con la universidad, asegurando una actividad formativa supervisada que pueda ser acreditada como materia electiva. Créditos: 6 Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3

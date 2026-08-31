@@ -1,0 +1,74 @@
+---
+title: "Maestría en Historia Política"
+similar:
+  - licenciatura-en-ciencia-politica-udelar
+  - ciencia-politica-doctorado-udelar
+  - ciencias-sociales-c-esp-en-historia-economica-doctorado-udelar
+  - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
+  - licenciatura-en-politica-filosofia-y-economia-um
+  - patrimonio-documental-historia-y-gestion-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=94"
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "El Plan de Estudios se apoya en una concepción que circula entre lo disciplinario y lo interdisciplinario. La Maestría tiene su autonomía epistemológica, pero sus contenidos temáticos y recursos docentes están marcados por las capacidades disponibles en las unidades que la impulsan. Al mismo tiempo esta propuesta busca sacar el mejor provecho de la acumulación académica generada en dichos ámbitos."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - historia
+  - historia-politica
+  - ciencia-politica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=94'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=94'
+---
+
+## Resumen
+
+### Objetivo
+
+El Plan de Estudios se apoya en una concepción que circula entre lo disciplinario y lo interdisciplinario. La Maestría tiene su autonomía epistemológica, pero sus contenidos temáticos y recursos docentes están marcados por las capacidades disponibles en las unidades que la impulsan. Al mismo tiempo esta propuesta busca sacar el mejor provecho de la acumulación académica generada en dichos ámbitos. Se imponen pues algunas precisiones: esta es una maestría de historia política. Habrá de producir formación y conocimiento en ese campo disciplinario, para el cual los promotores están especialmente habilitados. Concibe la historia política como un saber sujeto a las reglas de la producción historiográfica y, como parte de ellas, en diálogo con las ciencias sociales y las humanidades. Dicho esto, cabe agregar que no se propone aquí una sumatoria azarosa de asignaturas y docentes vagamente vinculados a la historia, la politología y otras disciplinas convergentes al estudio de la historia política. Más allá de una razonable zona de opcionalidad por parte estudiante respecto al plan de trabajo, la Maestría en Historia Política se sostiene en una dirección académica consistente que debe ser capaz de aprovechar al máximo los recursos, de orientar enérgicamente el cumplimiento del programa con la concreción de la tesis, y de poner al servicio del estudiante y del ciclo las relaciones académicas que se construyan en la región y en el mundo (y no a la inversa). En síntesis, la MHP se propone de iniciar un camino que: a) mejore el desempeño de la historiografía política a partir de la aceptación de los desafíos recíprocos en particular con la politología, pero también con la filosofía, la teoría, la antropología, la economía y la sociología políticas, en un marco de rigor académico y pluralismo temático y pistemológico b) contribuya a enriquecer los enfoques de investigación en ciencia política a partir de la problematización que supone la observación histórica, los compromisos con el tiempo, con la globalidad y complejidad del acontecer, con la especificidad y la contingencia con la comparatividad de las experiencias sociales y políticas. c) permita la titulación en niveles de posgrado, articulables con doctorados en el país y en el exterior de un núcleo de graduados (en particular, pero no únicamente) de ciencia política y de historia, capaz de animar una renovación en la producción de conocimiento histórico político; en este sentido el egresado de la MHP tendrá un perfil fuertemente orientado a la investigación académica y por tanto a la producción de conocimiento original y la formación de recursos humanos dentro del campo de estudios que la define; ello se procurará, como se ha dicho, a partir de una formación que econociendo la especificidad y relativa autonomía de la política, incorpora una noción amplia de la que solo puede darse cuenta a partir del dialogo informado y exigente con las diferentes disciplinas que abordan las diversas dimensiones de lo social. Por más información: https://cienciassociales.edu.uy/departamento-de-ciencia-politica/ensenanza-de-posgrado/maestria-en-historia-politica/
+
+### Perfil de egreso
+
+Se espera que los egresados de la MHP tengan un perfil fuertemente orientado a la investigación académica y a la producción de conocimiento original así como a la formación de recursos humanos especializados dentro del campo de estudios que la define. Los estudiantes que aprueben todas las actividades programadas de la Maestría y laTesis, obtendrán el título de MAGÍSTER en HISTORIA POLÍTICA.
+
+### Referentes académicos
+
+Pablo Ferreira - Diego Grauer
+
+### Docentes
+
+Coordinación: Pablo Ferreira - Asistente de la Coordinación: Diego Grauer -
+
+## Ingreso
+
+### Reglamento
+
+La Maestría en Historia Política (MHP) de la Universidad de la República es un programa académico que se desarrolla en la Facultad de Ciencias Sociales bajo la responsabilidad de su Departamento de Ciencia Política (ICP), en colaboración con el Centro de Estudios Interdisciplinarios Uruguayos (CEIU) y el Departamento de Historia del Uruguay (DHU) de la Facultad de Humanidades y Ciencias de la Educación, y con el Área de Investigación Histórica del Archivo General de la Universidad de la República (AGU). El cursado transcurre durante dos años lectivos, organizados en cuatro semestres, con clases de tres horas de duración en horario nocturno. La carga horaria total de la Maestría es de 504 horas presenciales (equivalentes a 145 créditos), de los cuales el 70% es de carácter obligatorio y el resto optativo, a seleccionar por el estudiante (en consulta con su tutor) preferentemente según su correspondencia con la temática de la tesis a desarrollar. La modalidad de los cursos es presencial, con un requisito de asistencia mínima del 75% del total de clases dictadas. https://cienciassociales.edu.uy/wp-content/uploads/2019/08/Reglamento-Especial-de-la-Maestr%c3%ada-en-Historia-Pol%c3%adtica.pdf
+
+### Requisitos de Ingreso
+
+DOCUMENTACIÓN REQUERIDA 1. Formulario de Postulación disponible en https://cienciassociales.edu.uy/ensenanza/ bedelia-de-posgrado/postulaciones/ 2. Currículum Vitae completo ajustado al modelo disponible en http://dedicaciontotal.udelar.edu.uy/wp-content/uploads/2016/04/mcurriculum.pdf 3. Fotocopia del documento de identidad (cédula o pasaporte) 4. Fotocopia de título de grado (licenciado o profesor) 5. En caso de solicitar inscripción condicional hasta por 6 meses: constancia de tener únicamente pendiente la defensa del trabajo final (monografía, informe de pasantía) ó la aprobación del examen final que habilite a la obtención del título de grado 6. Certificado de escolaridad 7. Propuesta de tema de investigación para la tesis en una extensión máxima de dos carillas (hoja A4, letra Times New Roman 12, interlineado 1,5) en la que se expondrán muy brevemente: el tema, los objetivos, preguntas y/o hipótesis de trabajo, los lineamientos metodológicos y las fuentes a consultar, la bibliografía de referencia para el tema planteado 8. Declaración Jurada de documentación y méritos personales (disponible en https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/requisitos-de-ingreso) Todos los documentos referidos en los numerales 2 a 8 deben cargarse en el formulario de postulación en formato PDF.
+
+## Plan de Estudio
+
+### Programa
+
+El recorrido curricular de la MHP (que totaliza 145 créditos, incluyendo 504 horas presenciales) se compone del siguiente modo: 1) Tres módulos temáticos (estudios históricos, estudios políticos, teoría y metodología) que comprenden 8 cursos, 2 talleres de lectura y 1 taller de proyecto, totalizando 60 créditos que suponen 288 horas presenciales 2) Cursos optativos (con aval del tutor) por un total de 30 créditos que deberán incluir no menos de 144 horas presenciales 3) El Seminario de avance de tesis, que junto a la tutoría personalizada, al trabajo personal de elaboración de la tesis y a su defensa, comprenden 55 créditos que incluyen no menos de 72 horas presenciales Para obtener el título de Magíster en Historia Política el estudiante deberá completar: los 60 créditos de los cursos, los talleres de lectura y el taller de proyecto que integran los tres módulos temáticos; los 30 créditos de cursos optativos; y los 55 correspondientes a todas las actividades vinculadas a la elaboración de la tesis (que, como se dijo, incluyen 5 créditos correspondientes a la tutoría personalizada realizada a lo largo de la maestría, 10 por el trabajo en el seminario de avance de tesis, y 40 del trabajo personal de elaboración de la tesis y su defensa); alcanzando de este modo los 145 créditos totales requeridos. Las clases tendrán lugar entre los días lunes y viernes de 19 a 22 horas, en Facultad de Ciencias Sociales en Montevideo, salvo excepciones oportunamente anunciadas. La modalidad de los cursos es presencial, con un requisito de asistencia mínima del 75% del total de clases dictadas.
+
+### Unidades curriculares
+
+https://cienciassociales.edu.uy/wp-content/uploads/2024/10/Convocatoria-Edicion-2025-27.pdf

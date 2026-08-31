@@ -1,0 +1,63 @@
+---
+title: "Especialización en Auditoría"
+similar:
+  - contabilidad-y-auditoria-maestria-udelar
+  - contador-publico-ude
+  - contador-publico-ucu
+  - postgrado-en-gestion-contable-um
+  - contador-publico-um
+  - contabilidad-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=78"
+location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
+description: "El Posgrado en Auditoria persigue entre otros que el profesional profundice: el estudio de la teoría contable el análisis de los distintos aspectos de la normativa contable nacional einternacional la profundización de la problemática referida a distintos tipos de entidades la elaboración de información para la gestión empresaria la actualización en el campo del control de los sistemas de información y gestión "
+startDate: ""
+applicationDeadline: ""
+tags:
+  - contabilidad
+  - auditoria
+  - auditoria-de-estados-financieros
+  - gestion-contable
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=78'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=78'
+---
+
+## Resumen
+
+### Objetivo
+
+El Posgrado en Auditoria persigue entre otros que el profesional profundice: el estudio de la teoría contable el análisis de los distintos aspectos de la normativa contable nacional e internacional la profundización de la problemática referida a distintos tipos de entidades la elaboración de información para la gestión empresaria la actualización en el campo del control de los sistemas de información y gestión de la entidad (auditoría)
+
+### Perfil de egreso
+
+Formar especialistas en el área del conocimiento mencionadas, que se puedan desarrollar tanto en el sector público como privado, de manera de lograra un fortalecimiento en la aplicación a nivel nacioanl de la normativa contable local, así como el conocimiento de la normativa internacional vigente, aún non adoptada por nuestro país, así como fortalecer también el área de auditoria y control del cumplimiento de dicha normativa a nivel local frente a la inexistencia de un organismo de control con una institucionalidad creible. La especialización también profundizará el tratamiento de distintos tipos de entidades según su importancia relativa y el análisis básico de la gestión como instrumento necesario al elaborar o revisar estados financieros. También profundizará todos los avances tecnológicos en materia de sistemas de información y de reporte de información contable.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+El curso está destinado a personas con título universitario con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que reúnan los requisitos enunciados (sean o no profesionales universitarios), se hayan postulado oportunamente y sean aceptados por la Coordinación Académica del Posgrado, en base al curriculum personal de estudios, antecedentes y experiencia profesional.
+
+## Plan de Estudio
+
+### Programa
+
+POSGRADO CON ESPECIALIZACIÓN EN AUDITORIA ÁREAS DE CONOCIMIENTOS: Los créditos mínimos por área de conocimiento serán los siguientes: Teoría Contable - 15 créditos Derecho comercial y societario - 5 créditos Sistemas de información y reportes financieros - 5 créditos Auditoría de estados financieros - 20 créditos Auditoría de Gestión - 15 créditos Auditoría de entidades especiales - 10 créditos Auditoría de sistemas de información - 10 créditos
+
+### Unidades curriculares
+
+Teoría Contable - 15 créditos Derecho comercial y societario - 5 créditos Sistemas de información y reportes financieros - 5 créditos Auditoría de estados financieros - 20 créditos Auditoría de Gestión - 15 créditos Auditoría de entidades especiales - 10 créditos Auditoría de sistemas de información - 10 créditos

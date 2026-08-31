@@ -1,100 +1,141 @@
 ---
 import { Icon } from "astro-icon/components";
+import NavDropdown from "./common/NavDropdown.astro";
+import SearchModal from "@/components/search/SearchModal.astro";
 ---
 
 <header
   data-pagefind-ignore
-  class="border-b border-[var(--color-border)] bg-[var(--card-bg)]/90 backdrop-blur"
+  class="sticky top-0 z-50 border-b border-[var(--color-border)] bg-[var(--card-bg)]/90 backdrop-blur"
 >
-  <div
-    class="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-4 sm:px-6"
-  >
-    <div class="flex items-center gap-4">
-      <a href="/" class="text-base font-bold text-foreground sm:text-lg">
+  <div class="mx-auto w-full max-w-7xl px-4 sm:px-6">
+    <div class="flex items-center gap-2 py-3 sm:gap-4 sm:py-4">
+      <a href="/" class="text-base font-semibold text-foreground sm:text-lg">
         🇺🇾 Labura
       </a>
 
       <nav class="hidden items-center gap-1 text-sm sm:flex">
-        <a
-          href="/empleos"
-          class="inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+        <NavDropdown
+          id="empleos"
+          label="Empleos"
+          icon="mdi:briefcase-outline"
+          minWidth="12rem"
         >
-          <Icon
-            name="mdi:briefcase-outline"
-            size={16}
-            class="shrink-0"
-            aria-hidden="true"
-          />
-          Empleos
-        </a>
-        <a
-          href="/educacion"
-          class="inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+          <a href="/empleos" role="menuitem">
+            <Icon name="mdi:briefcase-outline" size={16} aria-hidden="true" />
+            Todos los llamados
+          </a>
+          <a href="/empleos/guardados" role="menuitem">
+            <Icon name="mdi:heart-outline" size={16} aria-hidden="true" />
+            Guardados
+          </a>
+        </NavDropdown>
+
+        <NavDropdown
+          id="educacion"
+          label="Educación"
+          icon="mdi:school-outline"
+          minWidth="12rem"
         >
-          <Icon
-            name="mdi:school-outline"
-            size={16}
-            class="shrink-0"
-            aria-hidden="true"
-          />
-          Educación
-        </a>
+          <a href="/educacion/carreras" role="menuitem">
+            <Icon name="mdi:school-outline" size={16} aria-hidden="true" />
+            Carreras
+          </a>
+          <a href="/educacion/instituciones" role="menuitem">
+            <Icon name="mdi:bank-outline" size={16} aria-hidden="true" />
+            Instituciones
+          </a>
+          <a href="/educacion/becas" role="menuitem">
+            <Icon name="mdi:hand-coin-outline" size={16} aria-hidden="true" />
+            Becas
+          </a>
+        </NavDropdown>
       </nav>
+
+      <SearchModal wrapperClass="min-w-0 flex-1" />
+
+      <div class="flex items-center gap-2">
+        <a
+          href="https://github.com/GabrielDLeon/uruguay-labura"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="GitHub repository"
+          class="btn hidden sm:inline-flex"
+          data-variant="outline"
+          data-size="icon-sm"
+        >
+          <Icon name="mdi:github" size={24} aria-hidden="true" />
+        </a>
+
+        <button
+          type="button"
+          aria-label="Toggle dark mode"
+          data-tooltip="Toggle dark mode"
+          data-side="bottom"
+          onclick="document.dispatchEvent(new CustomEvent('basecoat:theme'))"
+          class="btn"
+          data-variant="outline"
+          data-size="icon-sm"
+        >
+          <span class="hidden dark:block">
+            <Icon name="mdi:white-balance-sunny" size={24} aria-hidden="true" />
+          </span>
+          <span class="block dark:hidden">
+            <Icon name="mdi:weather-night" size={24} aria-hidden="true" />
+          </span>
+        </button>
+      </div>
     </div>
 
-    <div class="flex items-center gap-2">
-      <nav class="flex items-center gap-1 text-sm sm:hidden">
-        <a
-          href="/empleos"
-          class="inline-flex items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-        >
-          <Icon
-            name="mdi:briefcase-outline"
-            size={16}
-            class="shrink-0"
-            aria-hidden="true"
-          />
-          Empleos
-        </a>
-        <a
-          href="/educacion"
-          class="inline-flex items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-        >
-          <Icon
-            name="mdi:school-outline"
-            size={16}
-            class="shrink-0"
-            aria-hidden="true"
-          />
-          Educación
-        </a>
-      </nav>
-
+    <nav class="flex items-center gap-1 overflow-x-auto pb-3 text-sm sm:hidden">
       <a
-        href="https://github.com/GabrielDLeon/uruguay-labura"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="GitHub repository"
-        class="btn-icon-outline size-8"
+        href="/empleos"
+        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
       >
-        <Icon name="mdi:github" size={24} aria-hidden="true" />
+        <Icon
+          name="mdi:briefcase-outline"
+          size={16}
+          class="shrink-0"
+          aria-hidden="true"
+        />
+        Empleos
       </a>
-
-      <button
-        type="button"
-        aria-label="Toggle dark mode"
-        data-tooltip="Toggle dark mode"
-        data-side="bottom"
-        onclick="document.dispatchEvent(new CustomEvent('basecoat:theme'))"
-        class="btn-icon-outline size-8"
+      <a
+        href="/empleos/guardados"
+        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+        title="Empleos guardados"
       >
-        <span class="hidden dark:block">
-          <Icon name="mdi:white-balance-sunny" size={24} aria-hidden="true" />
-        </span>
-        <span class="block dark:hidden">
-          <Icon name="mdi:weather-night" size={24} aria-hidden="true" />
-        </span>
-      </button>
-    </div>
+        <Icon
+          name="mdi:heart-outline"
+          size={16}
+          class="shrink-0"
+          aria-hidden="true"
+        />
+      </a>
+      <a
+        href="/educacion"
+        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+      >
+        <Icon
+          name="mdi:school-outline"
+          size={16}
+          class="shrink-0"
+          aria-hidden="true"
+        />
+        Educación
+      </a>
+      <a
+        href="/educacion/becas"
+        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+      >
+        <Icon
+          name="mdi:hand-coin-outline"
+          size={16}
+          class="shrink-0"
+          aria-hidden="true"
+        />
+        Becas
+      </a>
+    </nav>
   </div>
 </header>

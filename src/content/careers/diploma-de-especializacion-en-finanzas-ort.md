@@ -1,0 +1,171 @@
+---
+title: "Diploma de Especialización en Finanzas"
+similar:
+  - master-en-direccion-financiera-ort
+  - licenciatura-en-finanzas-ucu
+  - licenciatura-en-finanzas-um
+  - licenciatura-en-finanzas-ort
+  - finanzas-maestria-udelar
+  - licenciatura-en-economia-y-finanzas-ude
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "especializacion"
+area: "Administración y Negocios"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Arancelado"
+language: "Español"
+website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-finanzas"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Diploma de Especialización en Finanzas de ORT Uruguay. Combina la especialización y actualización en las distintas áreas de las finanzas con la capacidad de desarrollo de habilidades gerenciales."
+tags:
+  - finanzas
+  - finanzas-corporativas
+  - inversiones
+  - habilidades-gerenciales
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-finanzas'
+  - label: 'Plan de estudios'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-finanzas/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados/facs'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Combina la especialización y actualización en las distintas áreas de las finanzas con la capacidad de desarrollo de habilidades gerenciales.
+
+- Formación en herramientas de investigación y diagnóstico financiero
+- Profundización en actividad bancaria y mercados de capitales
+- Enfoque en la maximización de oportunidades en mercados financieros
+
+Se trata de un postgrado orientado a profesionales interesados en profundizar sus conocimientos en administración financiera de empresas, actividad bancaria, carteras de inversiones y mercados de capitales.
+
+El programa apunta a formar profesionales capaces de comprender, analizar y tomar decisiones ante la complejidad e inestabilidad de los mercados financieros.
+
+Los egresados obtienen una formación especializada en finanzas, economía y aspectos jurídicos relevantes para el sector financiero, así como en herramientas de investigación, diagnóstico e implementación.
+
+Está dirigido fundamentalmente a personas que desempeñen (o tengan interés en desempeñar) cargos ejecutivos y de consultoría en el área de la banca, las finanzas y el mercado de capitales.
+
+El proceso de admisión de los participantes del postgrado garantiza la conformación de grupos muy diversos, lo que da como resultado una oportunidad de crecimiento personal y profesional.
+
+La interacción en el aula y durante los trabajos de campo permite el descubrimiento de nuevos puntos de vista y el desarrollo de habilidades analíticas, de relacionamiento interpersonal y de resolución de problemas, entre otras.
+
+¡Potenciá tu carrera profesional profundizando tus conocimientos financieros!
+
+### Títulos y Reconocimientos
+
+El Diploma de Especialización en Finanzas fue reconocido por resolución del Ministerio de Educación y Cultura el 1.° de octubre de 2014.
+
+### Modalidad
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 1 año. Horarios de clase Los cursos se dictan de martes a jueves, de 19:00 a 21:30, en la Facultad de Administración y Ciencias Sociales. Los estudiantes pueden adaptar el desarrollo de la carrera de acuerdo a sus necesidades. El plazo máximo para completar el curso es de dos años. Para adaptar el programa a este período es necesario recibir asesoramiento de la Coordinación Académica en forma previa. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Requisitos Ser profesional universitario graduado. Es prerrequisito de admisión obtener un puntaje mínimo en Business Admissions Test (BAT). Ser recomendado por el Tribunal Académico luego de una o más entrevistas. Las personas cuyo título universitario fue expedido por universidades del exterior obtienen el título de postgrado a los solos efectos académicos, de acuerdo a la Resolución 001/2009 de la Dirección de Educación del Ministerio de Educación y Cultura. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+### Proceso de Selección
+
+Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### Cursos nivelatorios
+
+**Introducción a métodos cuantitativos**
+
+**Taller análisis de mercado**
+
+#### Abril-Junio
+
+**Instrumentos de renta fija**
+
+El curso brinda una formación integral sobre la valuación y gestión de títulos de deuda, combinando teoría y práctica con enfoque en mercados locales e internacionales. Se abordan prospectos de emisión, valuación de bonos, riesgos de tasa e interés y crédito, estrategias de gestión activa y pasiva, y análisis de retornos. Con ejercicios prácticos en Excel y discusión de casos reales, los estudiantes desarrollan habilidades clave para comprender los mercados de renta fija, evaluar riesgos y tomar decisiones de inversión informadas en un contexto financiero global.
+
+**Análisis de estados financieros**
+
+El curso ofrece una experiencia práctica y actualizada para interpretar y utilizar la información financiera y no financiera de las empresas. A través de casos reales, se abordan informes integrados, sostenibilidad (ODS y Agenda 2030), escándalos contables, flujos de efectivo, ratios, riesgos y proyecciones. También se analizan tendencias recientes como el impacto del COVID-19, la información ESG y las nuevas NIIF S1 y S2. Se trata de una propuesta dinámica que combina teoría y práctica, formando profesionales capaces de tomar decisiones estratégicas en entornos complejos y globales.
+
+**Métodos cuantitativos y análisis de datos**
+
+El curso combina teoría y práctica para formar profesionales capaces de aplicar técnicas estadísticas y econométricas en la toma de decisiones empresariales y financieras. Se trabajan análisis de varianza, regresión simple y múltiple, multicolinealidad y errores de especificación, con un enfoque aplicado mediante Python y ejercicios de laboratorio. La metodología prioriza el aprendizaje activo, con actividades asincrónicas y casos prácticos. Al finalizar, los estudiantes dominarán herramientas cuantitativas clave para interpretar datos, diagnosticar problemas y diseñar soluciones en un entorno empresarial dinámico y basado en evidencia.
+
+#### Junio
+
+**Business Inteligence**
+
+El curso ofrece una formación práctica en el uso de herramientas y metodologías para transformar datos en información estratégica. Los estudiantes aprenden a explorar, limpiar, modelar y visualizar datos utilizando Power BI y Tableau, desarrollando proyectos end-to-end aplicados a distintos sectores. Se abordan conceptos clave como segmentación RFM, métricas de campañas (CPA, conversión, ROI) y análisis ABC/Pareto de inventarios, integrando la analítica con la toma de decisiones empresariales. Se trata de una propuesta moderna y aplicada para dominar el ciclo completo del BI y potenciar el valor de los datos en organizaciones dinámicas.
+
+#### Julio-Setiembre
+
+**Decisiones de inversión**
+
+El curso introduce a los estudiantes en las decisiones de inversión corporativa, combinando teoría y práctica con enfoque en mercados emergentes. Se trabajan los criterios de evaluación de proyectos, flujos de caja descontados, estimación de tasas de descuento (WACC, CAPM) y análisis en contextos de riesgo mediante simulaciones y escenarios. A través de casos de estudio, lecturas y modelado en planillas, los participantes desarrollan habilidades para valorar inversiones, comprender el vínculo entre riesgo y retorno y presentar conclusiones sólidas para la toma de decisiones estratégicas en organizaciones modernas y sostenibles.
+
+**Análisis de regresión**
+
+El curso ofrece una formación práctica en microeconometría aplicada, enfocada en modelos de variables dependientes limitadas (binarias, ordenadas y multinomiales). Los estudiantes aprenderán a seleccionar e implementar modelos adecuados, interpretar resultados y comunicar conclusiones de forma clara y profesional. Con un fuerte componente aplicado en Python (Google Colab), el curso integra teoría, ejercicios prácticos y casos de estudio, desarrollando competencias clave para analizar datos, contrastar hipótesis y tomar decisiones informadas en contextos empresariales, financieros y de investigación.
+
+**Instrumentos financieros derivados**
+
+El curso introduce a los estudiantes en el mundo de forwards, futuros, swaps y opciones, combinando teoría y práctica con un fuerte enfoque en aplicaciones reales. Se trabaja valuación de contratos, estrategias de cobertura, arbitraje y especulación, incluyendo simulaciones en plataformas operativas. Los participantes aprenderán a aplicar modelos como Black-Scholes y árboles binomiales, comprender la dinámica de tasas de interés y gestionar riesgos financieros con herramientas avanzadas. Una formación clave para quienes buscan dominar el funcionamiento de los mercados de derivados y su impacto en la toma de decisiones de inversión.
+
+#### Setiembre
+
+**Taller de equipos y liderazgo**
+
+Promueve el desarrollo de habilidades interpersonales clave para el rol gerencial. A través de un enfoque vivencial, los participantes reflexionan sobre su estilo personal, desaprenden hábitos ineficaces y adoptan nuevas prácticas de comunicación, motivación y liderazgo, incluyendo el liderazgo a distancia y el teletrabajo. Se analizan dinámicas de equipo, estilos de liderazgo, factores motivacionales y estrategias para optimizar la gestión de personas en entornos presenciales y virtuales. Se trata de una experiencia transformadora orientada al autoconocimiento, la influencia positiva y la efectividad organizacional.
+
+#### Octubre-Diciembre
+
+**Gerenciamiento de activos**
+
+La materia prepara a los estudiantes para gestionar portafolios de inversión de forma profesional, aplicando la teoría moderna de portafolio a datos reales de mercados. A través de casos, ejercicios y herramientas de optimización, se abordan conceptos de riesgo, retorno y diversificación, construcción de la frontera eficiente, selección de portafolios óptimos y evaluación del desempeño de gestores. Con un enfoque práctico y estratégico, los participantes desarrollan competencias clave para diseñar e implementar estrategias de inversión que maximicen el valor para distintos perfiles de inversores en un entorno financiero global.
+
+**Análisis de series temporales y técnicas econométricas**
+
+El curso capacita a los estudiantes en la modelización de rendimientos, precios y volatilidad de activos financieros utilizando datos reales. A través de casos prácticos y herramientas econométricas modernas, se abordan modelos de camino aleatorio, autocorrelación, ARCH y GARCH, así como la estimación de métricas de riesgo como el Value at Risk (VaR). Con una metodología que equilibra teoría y aplicación, el curso desarrolla competencias para analizar, predecir y evaluar fenómenos financieros complejos, aportando habilidades esenciales para la investigación y la toma de decisiones en mercados locales e internacionales.
+
+**Project Finance**
+
+El curso brinda una formación integral sobre la estructuración, financiamiento y gestión de proyectos de gran escala. Los estudiantes aprenden a analizar riesgos, contratos y esquemas de repago, evaluando la viabilidad financiera mediante modelos de flujo de caja y escenarios prácticos. Con un enfoque en mercados emergentes y casos reales, el curso combina teoría y aplicación para comprender el rol de bancos, inversores y organismos multilaterales en proyectos de infraestructura y energía. Una propuesta clave para quienes buscan dominar las finanzas aplicadas a proyectos complejos y estratégicos en un entorno global dinámico.
+
+### 2.do año
+
+#### Febrero-Marzo
+
+**Valoración de empresas**
+
+El curso ofrece una formación práctica y aplicada en metodologías de valuación utilizadas en fusiones y adquisiciones. Se abordan enfoques basados en estados financieros, flujos de fondos descontados, múltiplos y costos, analizando sus ventajas y limitaciones. Con casos prácticos y un trabajo final integrador, los estudiantes desarrollan habilidades para estimar el valor de compañías en distintos contextos, comprender la diferencia entre precio y valor, y aplicar criterios profesionales en procesos de inversión y negociación. Una experiencia esencial para quienes buscan dominar las técnicas de valuación en mercados locales y emergentes.
+
+**Caso integrador Finanzas**
+
+Para obtener el título de postgrado de Diploma de Especialización en Finanzas el estudiante debe defender un Caso Integrador ante un tribunal académico. El caso a analizar cubre los tópicos estudiados durante el postgrado. Créditos: 11.

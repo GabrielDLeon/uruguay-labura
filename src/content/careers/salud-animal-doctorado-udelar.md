@@ -1,0 +1,63 @@
+---
+title: "Doctorado en Salud Animal"
+similar:
+  - produccion-animal-doctorado-udelar
+  - salud-animal-maestria-udelar
+  - tecnico-en-ciencias-veterinarias-ude
+  - maestria-en-salud-publica-ude
+  - inocuidad-de-alimentos-de-origen-animal-especializacion-udelar
+  - tecnico-asistente-veterinario-ude
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "doctorado"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=12&idPosgrado=2"
+location: "Facultad de Veterinaria"
+description: "Los Estudios de Doctorado constituyen el nivel superior de formación de posgrado en un área del conocimiento. Su objetivo es asegurar la capacidad de acompañar la evolución del área de conocimiento correspondiente, una formación amplia y profunda en el área elegida y la capacidad probada para desarrollar investigación original propia y la creación de nuevo conocimiento."
+startDate: ""
+applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
+tags:
+  - salud-animal
+  - veterinaria
+  - medicina-veterinaria-preventiva
+  - epidemiologia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=12&idPosgrado=2'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=12&idPosgrado=2'
+---
+
+## Resumen
+
+### Objetivo
+
+Los Estudios de Doctorado constituyen el nivel superior de formación de posgrado en un área del conocimiento. Su objetivo es asegurar la capacidad de acompañar la evolución del área de conocimiento correspondiente, una formación amplia y profunda en el área elegida y la capacidad probada para desarrollar investigación original propia y la creación de nuevo conocimiento. Los estudios de Doctorado buscarán la producción de conocimiento original mediante una actividad de investigación que responda secuencial y coherentemente a mas de una hipótesis de trabajo.
+
+### Referentes académicos
+
+Comité Académico de Maestrías y Doctorados, Director de Posgrados
+
+### Docentes
+
+Enlace a los Docentes de Posgrados, clasificados en, Docentes Asociados, Docentes de Maestrías, Docentes de Maestrías y Doctorados, Docentes de Especializaciones. Pueden dirigir Doctorados, los Docentes de Maestrías y Doctorados. http://www.fvet.edu.uy/index.php/ensenanzaposgrados/posgrados/organizacion/investigadores-del-programa
+
+## Ingreso
+
+### Reglamento
+
+Normal 0 21 false false false MicrosoftInternetExplorer4 PLAN DE ESTUDIOS DE DOCTORADOS EN PRODUCCIÓN Y SALUD ANIMAL El título a otorgar será de Doctor en PRODUCCIÓN ANIMAL o en SALUD ANIMAL, cuya orientación quedará determinada por la temática de la tesis. 1) Conducción Académica y administrativa de los estudios de Doctorado. Entre las atribuciones del Comité Académico de Maestrías y Doctorados (CAMD) se encuentra la conducción académica y administrativa de los estudios de doctorado. Sus cometidos serán: a) Seleccionar los aspirantes b) Proponer a la Comisión de Posgrados el Director de tesis y codirector si correspondiere. c) Designar la Comisión Asesora Especializada que entenderán en la evaluación y defensa del proyecto de tesis. d) Decidir en base al informe de la Comisión Asesora Especializada, la aprobación del proyecto de tesis e) Evaluar el progreso del trabajo de tesis a través de informes de avances. f) Proponer los integrantes de los Tribunales de defensa de tesis a la Comisión de Postgrado, la que a su vez asesorará al Consejo de la Facultad para su designación. g) Asesorarse en lo que considere pertinente para el cumplimiento de cada una de las instancias anteriores. 2) Condiciones de ingreso a) Para acceder a los estudios de doctorado se requiere tener Maestría o nivel equivalente evaluado por el CAMD. b) Para acceder al doctorado en Salud Animal, el aspirante deberá tener como título de origen el de profesional veterinario. c) En caso de considerarse necesario, el CAMD podrá recomendar la realización de actividades complementarias para acceder a los estudios de doctorado. d) El aspirante deberá presentar y defender en acto público su proyecto de tesis ante la Comisión Asesora Especializada y un integrante del CAMD que oficiará de nexo. La Comisión elevará su informe de evaluación al CAMD, el que decidirá sobre su aprobación. e) La Comisión Asesora Especializada será designada por el CAMD y estará integrada por 3 miembros de reconocida trayectoria científica en la temática del proyecto, pertenecientes al PPFV o externos. 3) Referido a la Tesis a) El trabajo de tesis comprenderá investigaciones de elevado nivel y calidad, que constituyan aportes originales al conocimiento. b) El Director de tesis y el laboratorio donde se desarrollará la tesis, dispondrán la infraestructura, equipamiento e insumos para el trabajo de tesis. c) El Director de tesis y el doctorando, de común acuerdo, determinarán la necesidad de realizar cursos de postgrados o pasantías de entrenamiento en el PPFV o en programas y laboratorios nacionales o extranjeros. d) En la mitad del período estipulado para la realización del proyecto de tesis, el doctorando deberá presentar un informe de avances avalado por el Director de tesis. Dicho informe será defendido por el doctorando en seminario público frente a la Comisión Asesora Especializada que evaluó el proyecto de tesis y un integrante del CAMD como nexo. La Comisión elevará la evaluación de avances al CAMD, con las recomendaciones que estime pertinente. e) En caso de que el programa esté estructurado, la duración del trabajo de tesis, incluidos los cursos y pasantías que se establezcan será de tres años como máximo. Excepcionalmente el candidato podrá solicitar prórroga, previa presentación de un informe de lo realizado y exposición de las causas que motivaron el retraso en las investigaciones. f) Para acceder a la presentación y defensa de tesis, ésta deberá comprender como mínimo tres trabajos científicos, de los cuales por lo menos dos deberán estar publicados o en prensa en revistas arbitradas indexadas de impacto internacional y el/los restantes enviados a publicar. g) El candidato a Doctor deberá realizar la presentación oral y defensa de su tesis en acto público y frente al Tribunal de Tesis h) El Tribunal de defensa de la tesis estará integrado por 3 a 5 miembros, seleccionado por su especialización en la temática de la tesis entre los docentes de doctorados del programa o de otros programas de doctorados nacionales o extranjeros afines y serán designados por el Consejo con el asesoramiento de la Comisión de Postgrados. 4) Aspectos formales e inscripción Los candidatos deberán presentar su solicitud ante el CAMD, para lo que adjuntarán los siguientes documentos. a) Carta de solicitud para estudios de doctorado en Producción y Salud Animal b) Ficha de inscripción (formulario del PPFV) c) Curriculum Vitae (formato del PPFV o CVuy ANII) d) Proyecto de Tesis (formato del PPFV) e) Si el proyecto de tesis es en el campo de la SALUD ANIMAL, adjuntar fotocopia título de profesional veterinario f) Carta del Director de tesis dirigida al CAMD, comunicando su aprobación del proyecto de tesis y su aceptación de dirigir al candidato, así como su disposición a aportar los recursos materiales e infraestructura de su laboratorio, para posibilitar el trabajo de tesis. st1\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\:*\{behavior:url(#ieooui) \} /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;\}
+
+## Plan de Estudio
+
+### Programa
+
+Normal 0 21 false false false MicrosoftInternetExplorer4 Para acceder a los estudios de Doctorado en Salud Animal se requiere tener Maestría o nivel equivalente evaluado por el CAMD. (Comité Académico de Maestrías y Doctorados), y además Normal 0 21 false false false MicrosoftInternetExplorer4 el aspirante deberá tener como título de origen el de profesional veterinario. /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;\} El Tìtulo de Doctorado en Salud Animal se obtiene defendiendo una Tesis en forma pública. Para acceder a la presentación y defensa de la misma, ésta deberá comprender como mínimo tres trabajos científicos, de los cuales por lo menos dos deberán estar publicados o en prensa en revistas arbitradas indexadas de impacto internacional y el/los restantes enviados a publicar. El Doctorado no implica necesariamente la realización de Cursos, si bien en caso de considerarse necesario, el CAMD podrá recomendar la realización de actividades complementarias para acceder a los estudios de doctorado. /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;\}

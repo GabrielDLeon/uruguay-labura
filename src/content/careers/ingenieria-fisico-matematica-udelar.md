@@ -1,0 +1,52 @@
+---
+title: "Ingeniería Físico-matemática"
+similar:
+  - ingenieria-matematica-maestria-udelar
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-de-produccion-udelar
+  - ingenieria-naval-udelar
+  - licenciatura-en-matematica-udelar
+  - ingenieria-en-sistemas-de-comunicacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "ingenieria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fing.edu.uy/es/node/45266"
+location: "Facultad de Ingeniería"
+description: "El Ingeniero Físico-Matemático estará capacitado para analizar problemas, diseñar ensayos, construir modelos físico-matemáticos y realizar simulaciones computacionales con el fin de buscar soluciones a diversos problemas científicos y tecnológicos. También podrá ayudar a encontrar, especialmente den"
+startDate: ""
+applicationDeadline: ""
+credits: 450
+tags:
+  - fisica
+  - matematica
+  - ingenieria
+  - computacion-cientifica
+  - programa-roberto-rocca
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fing.edu.uy/es/node/45266'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/ingenieria-fisico-matematica'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Ingeniero Físico-Matemático estará capacitado para analizar problemas, diseñar ensayos, construir modelos físico-matemáticos y realizar simulaciones computacionales con el fin de buscar soluciones a diversos problemas científicos y tecnológicos. También podrá ayudar a encontrar, especialmente dentro de grupos interdisciplinarios, la manera de generar productos más competitivos a través de la inclusión de nuevas tecnologías y de la innovación en los procesos de producción. La carrera de Ingeniería Físico-Matemática es un nexo entre la Física y la Matemática y la Tecnología, que permitirá al profesional formado en ella a trabajar en empresas en que se requiera incluir tecnologías avanzadas en procesos industriales, o innovar mediante una utilización más profunda de las ciencias básicas en los procesos productivos. En particular, considera las nuevas áreas tecnológicas abiertas por los desarrollos recientes de la física moderna que en general no son considerados por las carreras de Ingeniería más tradicionales. El egresado de la carrera de Ingeniero Físico-Matemático podrá integrarse a equipos multidisciplinarios, y trabajar en conjunto con los ingenieros egresados de las orientaciones más tradicionales, aportando un punto de vista más profundo sobre aspectos básicos y sobre algunas técnicas de modelado. Esto será posible pues, durante su formación, este ingeniero tendrá una formación en Matemática y Física más profunda que los ingenieros en otras ramas. Sin perjuicio que durante su carrera los aspectos tecnológicos se orienten a algún área de la Ingeniería (lo que le ofrece la manera de aplicar en sus estudios los aspectos básicos que reciba), el Ingeniero Físico-Matemático tendrá las herramientas para ser un profesional versátil, capaz de aplicar los conocimientos y habilidades de las que está provisto en distintas ramas de la Ingeniería.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, opción Físico-Matemática. Bachillerato Tecnológico (DGETP-UTU) de Procesamiento y Mantenimiento Informático, Termodinámica, Electromecánica y Electrónica (planes 1997), Mecánica Automotriz (Plan 1998), Diseño y Tecnología de la Construcción (Plan 1999). Oficiales del Ejército (Escuela Militar), egresados de la Escuela Militar de Aeronáutica, egresados de la Escuela Naval

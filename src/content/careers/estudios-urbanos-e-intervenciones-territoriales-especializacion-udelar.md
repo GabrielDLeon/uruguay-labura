@@ -1,0 +1,64 @@
+---
+title: "Especialización en Estudios Urbanos e Intervenciones Territoriales"
+similar:
+  - ordenamiento-territorial-y-desarrollo-urbano-maestria-udelar
+  - habitat-y-vivienda-especializacion-udelar
+  - licenciatura-en-geografia-udelar
+  - habitat-y-vivienda-maestria-udelar
+  - geografia-especializacion-udelar
+  - demografia-y-estudios-de-poblacion-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=96"
+location: "Facultad de Ciencias Sociales"
+description: "Ofrecer un espacio para la actualización y renovación de conocimiento de losprofesionales que desarrollan sus prácticas vinculadas al hábitat, el territorio y lavivienda. Brindar herramientas teórico-metodológicas para el abordaje de lastemáticas estudiadas.Problematizar el uso de las actuales categorías utilizadas en el diseñoe implementación de políticas públicas y programas urbano-territoriales en el Uruguayy la regiónProgramaLa Especialización tiene"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - ciencias-sociales
+  - urbanismo
+  - territorio
+  - vivienda
+  - ordenamiento-territorial
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=96'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=96'
+---
+
+## Resumen
+
+### Objetivo
+
+Ofrecer un espacio para la actualización y renovación de conocimiento de los profesionales que desarrollan sus prácticas vinculadas al hábitat, el territorio y la vivienda. Brindar herramientas teórico-metodológicas para el abordaje de las temáticas estudiadas. Problematizar el uso de las actuales categorías utilizadas en el diseño e implementación de políticas públicas y programas urbano-territoriales en el Uruguay y la región
+
+### Referentes académicos
+
+Beatriz Rocco
+
+## Ingreso
+
+### Reglamento
+
+Es requisito para inscribirse al Diploma poder acreditar la posesión (o inminente obtención) de un título universitario o títulos o antecedentes académicos evaluados equivalentes, de conformidad con los artículos 8 y 10 del Reglamento de Posgrados de la Facultad de Ciencias Sociales. La asistencia a clase es obligatoria, los cursos se aprobarán mediante la asistencia al 80% o más de las actividades programadas. La evaluación de cada curso se realizará por medio de, como mínimo, una prueba final, cuyas características serán determinadas por cada docente en acuerdo con el Comité Académico.
+
+### Requisitos de Ingreso
+
+Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+
+## Plan de Estudio
+
+### Programa
+
+La Especialización tiene una duración total de 24 meses. Las asignaturas se desarrollan en los primeros tres semestres y el cuarto semestre será destinado a la elaboración y defensa del Trabajo final. Para la obtención de la Especialización, se deberá registrar un total de 64 créditos, compuestos de la siguiente manera: 36 créditos obligatorios comunes, 8 créditos electivos - según la salida deseada - y 20 créditos correspondientes al trabajo final. Supone a su vez, haber cumplido con el 80% de asistencia a clase en cada curso. La Especialización prevé el cursado semipresencial para estudiantes que acrediten trabajo o residencia a 50km o más de distancia de Montevideo y, tal como lo establece la reglamentación vigente, no podrá superar el 49% de la carga horaria la que se curse de manera virtual.

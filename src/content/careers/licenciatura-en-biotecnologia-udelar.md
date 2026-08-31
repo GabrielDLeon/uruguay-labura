@@ -1,0 +1,51 @@
+---
+title: "Licenciatura en Biotecnología"
+similar:
+  - biotecnologia-doctorado-udelar
+  - biotecnologia-maestria-udelar
+  - licenciatura-en-biotecnologia-ort
+  - ingenieria-en-biotecnologia-ort
+  - ciencias-biologicas-doctorado-udelar
+  - ciencias-biologicas-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/243-ensenanza/licenciaturas/licenciatura-en-bio"
+location: "Facultad de Ciencias Facultad de Química; Paysandú; Salto"
+description: "El Licenciado en Biotecnología es un profesional con sólidos conocimientos en los fundamentos de los procesos biotecnológicos y capacidad para insertarse en empresas intensivas en el uso de conocimiento, o generar un nuevo emprendimiento."
+startDate: ""
+applicationDeadline: ""
+credits: 360
+tags:
+  - biotecnologia
+  - biologia
+  - biologia-molecular
+  - genetica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/243-ensenanza/licenciaturas/licenciatura-en-bio'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-biotecnologia'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Licenciado en Biotecnología es un profesional con sólidos conocimientos en los fundamentos de los procesos biotecnológicos y capacidad para insertarse en empresas intensivas en el uso de conocimiento, o generar un nuevo emprendimiento. El egresado podrá desarrollar su actividad en diversas áreas productivas tales como salud humana y animal, agricultura, ecología, industrias de bioprocesos, protección del ambiente, entre otras, con principios éticos y bioéticos. La actividad del egresado podrá desarrollarse tanto en los sectores de producción y servicios como en el sector académico. Tendrá las herramientas conceptuales y técnicas para evaluar y mejorar sistemas y procesos de base biotecnológica, conociendo los impactos de sus decisiones y acciones sobre la biodiversidad, el ambiente y la sociedad. Tendrá la capacidad para trabajar en equipo e interactuar con otros perfiles profesionales que se relacionen con su área de actuación. Podrá continuar su formación con estudios de posgrado en diversas áreas afines. La estructura curricular está organizada en dos tramos: 1) un tramo común, con especificación de contenidos mínimos obligatorios por área de formación, y 2) un tramo de orientación, formado por unidades curriculares optativas/electivas específicas de la disciplina, y por un trabajo final de grado. La Comisión de Carrera podrá definir una serie de trayectorias sugeridas sirviéndose de unidades curriculares ofrecidas por los distintos servicios. Se plantean como ejemplo los siguientes perfiles en los que el estudiante podrá profundizar en el tramo de orientación: Biotecnología molecular Biotecnología industrial Biotecnología agropecuaria Biotecnología empresarial Biomateriales
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+en: https://www.fcien.edu.uy/noticias/3625-inscripciones-generacion-2026

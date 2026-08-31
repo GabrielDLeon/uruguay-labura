@@ -1,0 +1,67 @@
+---
+title: "Maestría en Derecho, Orientanción Derecho Comercial"
+similar:
+  - derecho-comercial-especializacion-udelar
+  - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
+  - postgrado-en-derecho-contractual-um
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - postgrado-en-derecho-administrativo-economico-um
+  - derecho-financiero-con-enfasis-en-derecho-tributario-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=1"
+location: "Facultad de Derecho"
+description: "La expansión y evolución constante del Derecho Comercial requiere la profundizaciónen su normativa, para su aplicación adecuada a las situaciones reales.Es por ello que la formación de los especialistas apunta, precisamente, a que éstospuedan desempeñarse y ejercer funciones relacionadas con la actividad comercial engeneral y de las empresas públicas, estatales y no estatales, y las empresas privadasen particular, como también desarrollar una práctica"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - derecho
+  - derecho-comercial
+  - negocios
+  - asesoramiento-empresarial
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=1'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=14&idPosgrado=1'
+---
+
+## Resumen
+
+### Objetivo
+
+La expansión y evolución constante del Derecho Comercial requiere la profundización en su normativa, para su aplicación adecuada a las situaciones reales. Es por ello que la formación de los especialistas apunta, precisamente, a que éstos puedan desempeñarse y ejercer funciones relacionadas con la actividad comercial en general y de las empresas públicas, estatales y no estatales, y las empresas privadas en particular, como también desarrollar una práctica profesional acorde a las exigencias del mercado nacional, regional e internacional. A su vez, la maestría proporciona formación e información a los cursantes de la misma proporcionándoles instrumentos adecuados para la realización de tareas académicas, particularmente en el campo de la enseñanza superior y la investigación del Derecho Comercial. Aspectos indispensables éstos para brindar - a partir de la profundización del conocimiento y la investigación - a los juristas en general, en cualquiera de las actividades en que éstos puedan desempeñarse, el soporte teórico que requieran en las misma.
+
+### Referentes académicos
+
+Dr. Enrique Falco
+
+### Docentes
+
+Dra. Eva Holz Dra. Rosa Poziomek Dra. Alicia Ferrer Dr. Alejandro Miller Dra. Beatriz Bugallo Dr. Israel Creimer Dr. Oscar Sarlo Dr. Horacio Rau Dr. Daniel Germán Dr. Enrique Falco Dr. Juan Dubra Dra. Mecedes Jimenez de Aréchaga Dr. Xavier De Mello
+
+## Ingreso
+
+### Reglamento
+
+En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. La instancia de evaluación en cada asignatura será de monografía, examen o prueba en Plataforma EVA.
+
+### Requisitos de Ingreso
+
+El postulante deberá ser egresado de Abogado o Escribano.
+
+## Plan de Estudio
+
+### Unidades curriculares
+
+Solución de controversias. Mediación, conciliación y arbitraje Derecho y economía Documentación y contabilidad Metodología de la investigación Inserción comercial del Uruguay. OMC. MERCOSUR Empresario societario Sociedades anónimas. La reorganización de la estructura empresarial Taller de jurisprudencia Competencia entre empresarios Empresarios y consumidores Propiedad intelectual La contratación del empresario mercantil Funcionamiento de los sistemas financieros Disfunciones en el cumplimiento de las obligaciones emergentes de los títulos valores. Remedios legales ante actos fraudulentos Problemas prácticos con los institutos de derecho concursal Taller de jurisprudencia sobre los módulos objeto de la Maestría Seminario de Tesis

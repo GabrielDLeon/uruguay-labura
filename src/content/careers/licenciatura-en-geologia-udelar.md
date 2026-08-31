@@ -1,0 +1,51 @@
+---
+title: "Licenciatura en Geología"
+similar:
+  - geociencias-doctorado-udelar
+  - geociencias-maestria-udelar
+  - hidrologia-subterranea-especializacion-udelar
+  - ingenieria-de-minas-especializacion-udelar
+  - ingenieria-de-minas-maestria-udelar
+  - tecnologo-minero-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geologia/2336-licenciatura-en-g"
+location: "Facultad de Ciencias"
+description: "Las personas que egresan de la Licenciatura en Geología poseen una formación que les permite el estudio integral y a todas las escalas del subsuelo y los materiales que lo componen, así como la evolución geológica de nuestro planeta."
+startDate: ""
+applicationDeadline: ""
+credits: 360
+tags:
+  - geologia
+  - ciencias-de-la-tierra
+  - mineralogia
+  - hidrogeologia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geologia/2336-licenciatura-en-g'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-geologia'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Las personas que egresan de la Licenciatura en Geología poseen una formación que les permite el estudio integral y a todas las escalas del subsuelo y los materiales que lo componen, así como la evolución geológica de nuestro planeta.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria que contenga en los dos últimos años Matemática o Física o Química. Bachillerato Tecnológico en Administración; Agrario; Construcción; Diseño y Tecnología de la construcción; Electrónica, Electro-electrónica y Mecánica automotriz o Electromecánica automotriz; Informática; Procesamiento y mantenimiento informático; Química básica e industrial; Termodinámica; Termodinámica frío-calor DGETP-UTU. Se acepta la inscripción condicional de estudiantes con una materia previa (fórmula 69B), la que deberá ser aprobada en el período de abril.

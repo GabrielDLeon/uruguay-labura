@@ -1,0 +1,50 @@
+---
+title: "Obstetra Partera"
+similar:
+  - licenciatura-binacional-en-obstetricia-udelar
+  - ecografia-gineco-obstetrica-especializacion-udelar
+  - ginecotocologia-especializacion-udelar
+  - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+  - investigacion-de-la-salud-con-enfasis-en-perinatologia-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "carrera"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/obstetra-parterao"
+location: "Facultad de Medicina"
+description: "Diversas dimensiones conforman el perfil y las competencias de la/el Obstetra-Partera/o, dimensiones que sólo es posible aislar metodológicamente con el propósito de una mayor especificación de cada una de ellas. Desde el punto de vista académico, la/el Obstetra-Partera/o es una persona que habiendo sido admitida para seguir el Programa educativo vigente de la Escuela de Parteras, reconocido por la Facultad de Medicina, perteneciente a la Universidad de"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - salud
+  - obstetricia
+  - ginecologia
+  - atencion-primaria
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/obstetra-parterao'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/obstetra-partera'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Diversas dimensiones conforman el perfil y las competencias de la/el Obstetra-Partera/o, dimensiones que sólo es posible aislar metodológicamente con el propósito de una mayor especificación de cada una de ellas. Desde el punto de vista académico, la/el Obstetra-Partera/o es una persona que habiendo sido admitida para seguir el Programa educativo vigente de la Escuela de Parteras, reconocido por la Facultad de Medicina, perteneciente a la Universidad de la República, ha culminado con éxito el ciclo de estudios prescrito, obteniendo las calificaciones necesarias y el título correspondiente que le permitirá ejercer legalmente la práctica de la Partería dentro del territorio de la República Oriental del Uruguay. Desde el punto de vista profesional, la/el Obstetra-Partera/o es la persona que con formación científica, motivación, aptitud y actitud responsable proporciona una atención integral a la mujer a lo largo de su ciclo vital en: promoción de la salud, prevención de la patología, diagnóstico y rehabilitación de los procesos patológicos, atención dirigida hacia la mujer y al hijo/a, en el diagnóstico, control de embarazo, asistencia durante el embarazo, parto y puerperio normal, asistencia al recién nacido sano y al lactante. Todo ello mediante el uso de los instrumentos clínicos y tecnológicos adecuados, interviniendo tanto en los procedimientos clínicos normales como en la ejecución de eventuales medidas de emergencia. Asimismo, desarrolla asesoramiento y educación para la salud, dirigidos a la mujer, familia y comunidad. Esto incluye la educación prenatal y preparación para el parto, nacimiento, puerperio y crianza, enfocada hacia la salud integral de la mujer y, en particular, hacia su salud sexual y reproductiva. Desde el punto de vista laboral, la/el Obstetra-Partera/o es un/a profesional de ejercicio libre, habilitada/o para trabajar en ámbitos públicos o privados. Asimismo, está facultada/o para desarrollar actividades preventivas, educativas, administrativas, de gestión, de capacitación, de investigación y docencia. Desde el punto de vista ético, el/ la Obstetra-Partera/o incluirá los siguientes aspectos durante el desempeño de su labor profesional: respetar a la mujer como sujeto de derecho, trabajar individualmente y/o con otros profesionales de la salud, consultando y derivando el caso cuando exceda sus competencias profesionales, proporcionar cuidados para la(s) mujer(es) y sus familias respetando la diversidad cultural, con perspectiva de género y enfoque de riesgo, con un abordaje Bio-Psico-Social. utilizar su conocimiento profesional para lograr prácticas de nacimiento seguras en base a las mejores evidencias científicas, en beneficio de la mujer y su familia, en todos los ambientes y culturas, respondiendo a las necesidades psicológicas, emocionales y socio-ambientales. mantener la confidencialidad, cumpliendo con lo inherente al concepto de secreto profesional, rehusarse a participar en actividades que lesionen sus principios morales y/o ideológicos, sin dejar de proporcionar el servicio esencial de salud, propender al desarrollo del crecimiento personal, profesional, científico y académico, a través de la capacitación, actualización; integrando y compartiendo estos conocimientos con sus colegas y la sociedad.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, opción Ciencias Biológicas o Bachillerato Tecnológico en Deporte y Recreación (DGETP-UTU).

@@ -1,0 +1,59 @@
+---
+title: "Especialización en Farmacia Industrial"
+similar:
+  - farmacia-hospitalaria-especializacion-udelar
+  - ingenieria-industrial-um
+  - auxiliar-de-farmacia-hospitalaria-udelar
+  - ingenieria-industrial-ucu
+  - tecnologo-en-madera-udelar
+  - ingenieria-industrial-mecanica-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=89"
+location: "Facultad de Química"
+description: "A través de este Diploma se pretende fortalecer la formación de recursos humanos en Farmacia Industrial, con el objetivo de generar capacidades para la comprensión, el desarrollo y adaptación de tecnologías modernas de producción, capaces de impulsar y sostener una industria de producción farmacéutica, así como las relacionadas, instaladas en el país y competitivas a nivel regional e internacional."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - farmacia
+  - farmacia-industrial
+  - farmacologia
+  - procesos-industriales
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=89'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=11&idPosgrado=89'
+---
+
+## Resumen
+
+### Objetivo
+
+A través de este Diploma se pretende fortalecer la formación de recursos humanos en Farmacia Industrial, con el objetivo de generar capacidades para la comprensión, el desarrollo y adaptación de tecnologías modernas de producción, capaces de impulsar y sostener una industria de producción farmacéutica, así como las relacionadas, instaladas en el país y competitivas a nivel regional e internacional. Asimismo, se pretende incrementar y mejorar la capacidad y el desempeño del Químico Farmacéutico para interactuar con otras funciones en las empresas y otros profesionales vinculados a distintas disciplinas.
+
+### Referentes académicos
+
+Carlos Volonterio, Maria del Carmen Camarote, Ana Ochoa, Beatriz González y Emma Parente.
+
+## Ingreso
+
+### Reglamento
+
+Reglamento - http://www.fq.edu.uy/es/node/149 Aprobado por el Consejo de Facultad en sesión de fecha 28 de junio de 2012. Aprobado por el Consejo Directivo Central en sesión de fecha 20 de noviembre de 2012. Publicado en el Diario Oficial con fecha 6 de diciembre de 2012
+
+## Plan de Estudio
+
+### Programa
+
+El programa de formación comprenderá asignaturas y actividades programadas. Se deberá completar un mínimo de 60 créditos en asignaturas obligatorias, que se establecerán en las propuestas de los cursos anuales. Como actividad programada se podrán incluír en el programa de formación: cursos de actualización y posgrado pertenecientes a otros programas universitarios del ámbito nacional o extranjero, seminarios, monografías, pruebas de suficiencia, méritos anteriores y otros trabajos debidamente acreditados ante la SDEFI y convalidados por la Comisión de Posgrado de la Facultad de Química. Por la actividad programada en total se podrá obtener un máximo de 20 créditos Áreas de Formación : 1) Área Técnica Farmacéutica (mínimo 25 créditos) A modo indicativo se podrán incluír las siguientes materias: ▪ Desarrollo de productos. ▪ Industrialización. Operaciones tecnológicas seleccionadas. ▪ Diseño de plantas industriales. 2) Área de Gestión (mínimo 5 créditos) A modo indicativo podrá incluir las siguientes materias: ▪ Gestión de organizaciones. ▪ Logística Farmacéutica. ▪ Propiedad intelectual. Patentes

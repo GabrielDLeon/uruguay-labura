@@ -1,0 +1,71 @@
+---
+title: "Especialización en Discapacidad en Lo Social"
+similar:
+  - licenciatura-en-trabajo-social-udelar
+  - licenciatura-en-trabajo-social-ucu
+  - fundamentos-de-trabajo-social-especializacion-udelar
+  - ciencias-sociales-c-esp-en-trabajo-social-doctorado-udelar
+  - trabajo-social-maestria-udelar
+  - intervencion-familiar-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=83"
+location: "Facultad de Ciencias Sociales"
+description: "Objetivo General : Generar procesos de enseñanza-aprendizaje en torno a la discapacidad como construcción social desde y para la investigación y/o intervención. Objetivos Específicos: • Promover el análisis de la temática de la discapacidad en su procesualidad y devenir nacional, latinoamericano y e"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - ciencias-sociales
+  - discapacidad
+  - inclusion-social
+  - intervencion-social
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=83'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=83'
+---
+
+## Resumen
+
+### Objetivo
+
+Objetivo General : Generar procesos de enseñanza-aprendizaje en torno a la discapacidad como construcción social desde y para la investigación y/o intervención. Objetivos Específicos: • Promover el análisis de la temática de la discapacidad en su procesualidad y devenir nacional, latinoamericano y europeo. • Brindar herramientas para el análisis crítico de la temática de la discapacidad desde el modelo social de intervención y/o investigación. • Facilitar procesos de enseñanza-aprendizaje en la especificidad de la discapacidad a través de la interdisciplinariedad. Perfil del egresado: Al haber finalizado el Diploma “Discapacidad en lo social”, se contará con un profesional que tenga las herramientas sustanciales para intervenir y/o producir conocimiento en torno a la discapacidad.
+
+### Perfil de egreso
+
+Al finalizar el Diploma en "Discapacidad en lo social", se encontrará con u profesional con herramientas sustanciales para intervenir y/o producir conocimientos en torno a la Discapacidad.
+
+### Referentes académicos
+
+MARIA NOEL MIGUEZ
+
+### Docentes
+
+Mag. Alfonsina Angelino ​Dra. María José Bagnato Dra. Andrea Benvenuto Dr. Gildas Bregain Dra. Mónica De Martino Dra. Verónica Filardo Dra. María Noel Míguez Dra. Agustina Palacios Dra. Silvia Rivero Dr. Adrian Scribano Mag. Indiana Vallejos Mag. Andrea Viera
+
+## Ingreso
+
+### Reglamento
+
+El diploma «Discapacidad en lo social» del Departamento de Trabajo Social de la Facultad de Ciencias Sociales busca dar respuesta a la cada vez mayor demanda de conocimiento de la discapacidad desde el modelo social y brindar componentes de especialización en torno a la temática en la intervención en lo social, así como herramientas para la producción de conocimiento que pueden orientar hacia estudios de posgrados más avanzados. Además, este posgrado propone una mirada transnacional (Uruguay, Argentina, Francia y Colombia) e interdisciplinaria (Trabajo Social, Psicología, Historia, Filosofía, Sociología, Derecho, Ingeniería, Pedagogía, entre otras) desde el equipo docente, lo cual potencia los procesos de enseñanza y aprendizaje y los vínculos a nivel nacional y a nivel internacional. Se aspira, de esta manera, a generar una instancia de formación de posgrado, con especificidad en la discapacidad, que potencie el análisis crítico de la temática desde distintas disciplinas que intervienen y/o investigan. Podrán postularse egresados/as de educación terciaria apuntando a la mayor confluencia de disciplinas en el estudiantado, de manera de enriquecer y potenciar el diálogo de saberes. Por más información: https://cienciassociales.edu.uy/diploma-en-discapacidad-en-lo-social/
+
+### Requisitos de Ingreso
+
+Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+
+## Plan de Estudio
+
+### Programa
+
+Historia de la Discapacidad en America Latina y Europa Analisis Critico Contemporaneo de la Discapacidad Componentes Ideologicos en Torno a la Discapacidad Politicas Publicas en Torno a la Discapacidad en el Uruguay Progresista Intervencion en lo Social Familia y Discapacidad Discapacidad como Produccion Social Abordaje Interdiciplinar en Torno a la Discapacidad Sociologia de Cuerpos/Emociones: una Mirada hacia la Discapacidad Pensar la Discapacidad desde una Perspectiva Filosofica Discapacidad y Derecho: Analisis Critico de la Normativa Int. Y Nacional Taller de Investigacion Tesis

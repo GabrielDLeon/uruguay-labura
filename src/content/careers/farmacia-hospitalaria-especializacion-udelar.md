@@ -1,0 +1,70 @@
+---
+title: "Especialización en Farmacia Hospitalaria"
+similar:
+  - radiofarmacia-especializacion-udelar
+  - auxiliar-de-farmacia-hospitalaria-udelar
+  - farmacia-industrial-especializacion-udelar
+  - quimica-farmaceutica-udelar
+  - farmacologia-y-terapeutica-especializacion-udelar
+  - toxicologia-clinica-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=24"
+location: "Facultad de Química"
+description: "El objetivo del DEFH es capacitar a los profesionales Químicos Farmacéuticos para desempeñar funciones en los ámbitos de actividad que se describen en el Anexo I del Reglamento del Diploma Especialista en Farmacia Hospitalaria (http://www.fq.edu.uy/sites/default/files/archivos/reglamento%20del%20DEFH0.pdf)"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - farmacia
+  - farmacia-hospitalaria
+  - farmacologia
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=24'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=11&idPosgrado=24'
+---
+
+## Resumen
+
+### Objetivo
+
+El objetivo del DEFH es capacitar a los profesionales Químicos Farmacéuticos para desempeñar funciones en los ámbitos de actividad que se describen en el Anexo I del Reglamento del Diploma Especialista en Farmacia Hospitalaria (http://www.fq.edu.uy/sites/default/files/archivos/reglamento%20del%20DEFH_0.pdf)
+
+### Perfil de egreso
+
+El objetivo del DEFH es capacitar a los profesionales Químicos Farmacéuticos para desempeñar funciones en los ámbitos de actividad que se describen en el Anexo I del Reglamento del Diploma Especialista en Farmacia Hospitalaria (http://www.fq.edu.uy/sites/default/files/archivos/reglamento%20del%20DEFH_0.pdf)
+
+### Referentes académicos
+
+Marta Vazquez, Eduardo Savio, Cecilia Maldonado, Virginia Olmos, Marianela Lorier e Ismael Olmos.
+
+## Ingreso
+
+### Reglamento
+
+Para la obtención del DEFH se deberá reunir 60 créditos en un período mínimo de un año. Se podrá obtener los créditos necesarios mediante la realización de los cursos que la Facultad de Química organice anualmente o aquellos reconocidos por dicha Institución. (http://www.fq.edu.uy/sites/default/files/archivos/reglamento%20del%20DEFH_0.pdf) La Sub-comisión de DEFH (SDEFH) asesorará a la Comisión de Postgrado y al Consejo de Facultad de Química en los temas relativos al DEFH.
+
+### Requisitos de Ingreso
+
+Podrán acceder a dicha especialidad aquellos profesionales universitarios Químicos Farmacéuticos o formación universitaria equivalente.
+
+## Plan de Estudio
+
+### Programa
+
+Para la obtención del DEFH se deberá reunir 60 créditos en un período mínimo de un año. Se podrá obtener los créditos necesarios mediante la realización de los cursos que la Facultad de Química organice anualmente o aquellos reconocidos por dicha Institución. (http://www.fq.edu.uy/sites/default/files/archivos/reglamento%20del%20DEFH_0.pdf)
+
+### Unidades curriculares
+
+La información de cartelera y el cronograma del curso pueden consultarse para en el siguiente link: https://www.fq.edu.uy//es/node/150

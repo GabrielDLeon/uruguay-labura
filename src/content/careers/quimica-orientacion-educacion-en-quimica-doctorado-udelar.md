@@ -1,0 +1,72 @@
+---
+title: "Doctorado en Química, Orientación Educación en Química"
+similar:
+  - quimica-orientacion-educacion-en-quimica-maestria-udelar
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - licenciatura-en-educacion-ucu
+  - doctorado-en-educacion-ude
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "doctorado"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=20"
+location: "Facultad de Química"
+description: "Maestrías y Doctorados: No se dispone de planes de estudio aprobados para estas titulaciones, pero se está trabajando activamente en los mismos y se encuentran en vías de aprobación, en éstos se establece el perfil de los egresados (Nº de expediente: 004091-000088-22, Integrado con Número Expe+: 101160-001771-20)."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - quimica
+  - educacion
+  - ensenanza-de-ciencias
+  - didactica
+  - formacion-docente
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=20'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=11&idPosgrado=20'
+---
+
+## Resumen
+
+### Objetivo
+
+Maestrías y Doctorados: No se dispone de planes de estudio aprobados para estas titulaciones, pero se está trabajando activamente en los mismos y se encuentran en vías de aprobación, en éstos se establece el perfil de los egresados (Nº de expediente: 004091-000088-22, Integrado con Número Expe+: 101160-001771-20).
+
+### Perfil de egreso
+
+El egresado adquirirá el nivel superior de formación de posgrado en el área de la Química, que lo capacitará para el manejo creativo y original de la disciplina, debiendo ser capaz de ampliar las fronteras del conocimiento. Por tratarse de un posgrado de perfil académico, no requiere el cobro de derechos universitarios.
+
+### Referentes académicos
+
+Comisión de Posgrado: Orden docente: Karen Ovsejevi, Caterina Rufo, Ana Rey, Mariano Romero, Manuel Ibarra, Eduardo Dellacassa, Williams Porcal Orden estudiantes posgrado: Jessica Santander, Cecilia Ghiazza
+
+## Ingreso
+
+### Reglamento
+
+Aprobación de materias. Para la obtención del título se requiere la realización de un trabajo de tesis sobre un tema de investigación científica (duración mínima de 100 créditos para maestría y 200 créditos para doctorado) y la realización de actividades programadas para completar la formación del estudiante (cursos de posgrado, seminarios y pasantías) con un mínimo de 60 créditos de los cuales al menos 50 corresponden a cursos de posgrado. Estructura de gobierno. La Comisión de Posgrado (CP) se integra de la siguiente manera: seis miembros y sus correspondientes suplentes, docentes de la Facultad de Química, integrantes del Registro de Directores de Tesis y pertenecientes a diferentes áreas temáticas. un estudiante de posgrado y su correspondiente suplente. un egresado que deberá tener título de posgrado y su correspondiente suplente.
+
+### Requisitos de Ingreso
+
+Los postulantes deberán ser egresados o haber iniciado el trámite de egreso de Licenciado en Química u otro título de grado de las carreras dictadas por la Facultad de Química. También podrán postularse aquellas personas con título expedido por la Udelar, u otra universidad (nacional o extranjera), que tenga una formación razonablemente equivalente al Licenciado en Química de FQ, a juicio de la CP, a los solos efectos de la realización de las carreras de posgrado en Química.
+
+## Plan de Estudio
+
+### Programa
+
+Estructura del plan de estudio. Los planes de estudios tanto en lo relativo a cursos de posgrado como al trabajo de tesis. El programa de estudios de posgrado será propuesto por el director de tesis y director académico y aprobado por la CP. Las actividades programadas consistirán de cursos de posgrado, seminarios, pasantías, cursos complementarios. El trabajo de tesis consistirá en un tema de investigación científica en las áreas académicas desarrolladas en la Facultad de Química o en temas relacionados con la química que se desarrollen en otras instituciones académicas nacionales o extranjeras. El trabajo de tesis se realizará bajo la supervisión de uno o más directores de tesis y no podrá incluir actividades que hayan dado lugar a la obtención de un título previo.
+
+### Unidades curriculares
+
+El estudiante deberá cumplir con un plan de trabajo individual mínimo de 260 créditos (1 crédito = 15 horas de trabajo) integrados por la Actividad Programada y un trabajo de Tesis. El plan deberá incluir un Director Académico y un Director de Tesis. La Actividad Programada deberá reunir un mínimo de 60 créditos, de los cuales al menos 50 créditos serán de cursos de posgrado y los restantes podrán ser acreditados por pasantías u otras actividades formativas. La misma deberá definirse en acuerdo entre el Director Académico y el estudiante, y deberá equilibrarse de manera que el estudiante profundice en su formación fundamental y adquiera los conocimientos necesarios para abordar la realización de la Tesis exitosamente. El Programa curricular contendrá alguna de las siguientes materias centrales: • Química Analítica • Química Biológica • Fisicoquímica • Química Inorgánica • Química Orgánica Los créditos de las actividades programadas realizadas por el estudiante durante su Maestría serán asignados automáticamente como créditos correspondientes al Doctorado. En el caso de que la formación haya sido adquirida en instituciones externas a Udelar, deberá cumplirse previamente con el procedimiento previsto en la normativa imperante en materia de reválidas, y en caso de corresponder con lo previsto en convenios de cotutela o movilidad. El trabajo de Tesis será individual y tendrá una dedicación de 200 créditos, siendo la duración mínima de los estudios de 3 años. En la elaboración de la Tesis, el estudiante deberá alcanzar el estado del arte y desarrollar un análisis en profundidad del tema elegido. El manuscrito de la Tesis deberá contener una correcta exposición del tema encarado, una discusión de la bibliografía internacional actualizada, y deberá incluir los detalles necesarios para la comprensión de los objetivos perseguidos y de los resultados y conclusiones alcanzadas durante el trabajo. La Tesis deberá ser defendida públicamente frente a un tribunal. Los requisitos específicos del plan de trabajo, Director Académico y de Tesis, y tribunal evaluador, se especifican en el Reglamento de las Carreras de Postgrado de la Facultad de Química. (https://www.fq.edu.uy/sites/default/files/sites/all/themes/professional_theme/images/Reglamento%202022.pdf).

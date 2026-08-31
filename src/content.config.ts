@@ -1,6 +1,15 @@
 import { defineCollection } from "astro:content";
 import { z } from "astro/zod";
 import { glob } from "astro/loaders";
+import { sectionsLoader } from "./lib/sections-loader";
+
+export const campusSchema = z.object({
+  name: z.string().min(1),
+  location: z.string().min(1),
+  address: z.string().optional(),
+});
+
+export type Campus = z.infer<typeof campusSchema>;
 
 const institutionSchema = z.object({
   name: z.string().min(1),
@@ -15,20 +24,27 @@ const institutionSchema = z.object({
   isActive: z.boolean().default(true),
   description: z.string().optional(),
   color: z.string().optional(),
+  campuses: z.array(campusSchema).default([]),
+  createdAt: z.string().optional(),
+  updatedAt: z.string().optional(),
 });
 
 export type InstitutionEntry = z.infer<typeof institutionSchema>;
 
 const institutionsCollection = defineCollection({
-  loader: glob({ base: "./src/content/institutions", pattern: "**/*.{md,mdx}" }),
+  loader: glob({
+    base: "./src/content/institutions",
+    pattern: "**/*.md",
+  }),
   schema: ({ image }) =>
     institutionSchema.extend({
       logo: image().optional(),
     }),
 });
 
-export const educacionSchema = z.object({
+export const careerSchema = z.object({
   title: z.string().min(1),
+  short: z.string().optional(),
   institution: z.string().optional(),
   institutionName: z.string().min(1),
   campus: z.string().optional(),
@@ -42,33 +58,108 @@ export const educacionSchema = z.object({
     "tecnologo",
     "licenciatura",
     "tecnicatura",
+    "carrera",
+    "ciclo",
     "otro",
   ]),
   area: z.string().min(1),
   modality: z.enum(["presencial", "virtual", "hibrido"]),
-  duration: z.string().min(1),
+  shift: z.enum(["day", "night", "both"]),
+  weeklyHours: z.string().min(1),
+  duration: z.string().min(1).optional(),
   credits: z.number().int().nonnegative().optional(),
   cost: z.string().min(1),
   language: z.string().min(1).default("Espanol"),
   website: z.url(),
-  contactEmail: z.email().optional(),
+  sources: z
+    .array(
+      z.object({
+        label: z.string().min(1),
+        url: z.url(),
+      }),
+    )
+    .default([]),
+  contactEmail: z.union([z.email(), z.array(z.email())]).optional(),
   location: z.string().min(1).optional(),
   accreditation: z.string().min(1).optional(),
   description: z.string().min(1).optional(),
   startDate: z.string().optional(),
   applicationDeadline: z.string().optional(),
   tags: z.array(z.string().min(1)).default([]),
+  similar: z.array(z.string()).default([]),
+  listable: z.boolean().default(true),
+  searchable: z.boolean().default(true),
   draft: z.boolean().default(false),
+  createdAt: z.string().optional(),
+  updatedAt: z.string().optional(),
+  /** Injected by sectionsLoader (not part of the markdown frontmatter). */
+  sections: z
+    .array(z.object({ id: z.string(), label: z.string(), html: z.string() }))
+    .default([]),
+  introHtml: z.string().optional(),
 });
 
-export type EducacionEntry = z.infer<typeof educacionSchema>;
+export type CareerEntry = z.infer<typeof careerSchema>;
 
-const educacionCollection = defineCollection({
-  loader: glob({ base: "./src/content/educacion", pattern: "**/*.{md,mdx}" }),
-  schema: educacionSchema,
+const careersCollection = defineCollection({
+  loader: sectionsLoader({ base: "./src/content/careers", pattern: "**/*.md" }),
+  schema: careerSchema,
+});
+
+const scholarshipSchema = z.object({
+  title: z.string().min(1),
+  short: z.string().optional(),
+  type: z.string().min(1),
+  institution: z.string().min(1),
+  description: z.string().min(1).optional(),
+  website: z.url(),
+  sources: z
+    .array(
+      z.object({
+        label: z.string().min(1),
+        url: z.url(),
+      }),
+    )
+    .default([]),
+  /** Vocabulario alineado con `BecaLevel` de src/lib/scholarships.ts. */
+  level: z
+    .array(
+      z.enum(["grado", "posgrado", "tecnico", "diplomado", "educacion-media"]),
+    )
+    .default([]),
+  /** Resumen en una línea; montos anclados a índices se escriben en la unidad estable (ej. "2 BPC mensuales"), sin pesos hardcodeados. */
+  amount: z.string().min(1).optional(),
+  /** Fecha ISO puntual de cierre (YYYY-MM-DD) o "" si solo se conoce la ventana recurrente. */
+  applicationDeadline: z.string().optional(),
+  /** Link directo de postulación, distinto de `website`. */
+  applicationUrl: z.url().optional(),
+  renewable: z.boolean().default(false),
+  tags: z.array(z.string()).default([]),
+  draft: z.boolean().default(false),
+  createdAt: z.string().optional(),
+  updatedAt: z.string().optional(),
+  /** Injected by sectionsLoader (not part of the markdown frontmatter). */
+  sections: z
+    .array(z.object({ id: z.string(), label: z.string(), html: z.string() }))
+    .default([]),
+  introHtml: z.string().optional(),
+});
+
+export type ScholarshipEntry = z.infer<typeof scholarshipSchema>;
+
+const scholarshipsCollection = defineCollection({
+  loader: sectionsLoader({
+    base: "./src/content/scholarships",
+    pattern: "**/*.md",
+  }),
+  schema: ({ image }) =>
+    scholarshipSchema.extend({
+      image: image().optional(),
+    }),
 });
 
 export const collections = {
-  educacion: educacionCollection,
+  careers: careersCollection,
   institutions: institutionsCollection,
+  scholarships: scholarshipsCollection,
 };

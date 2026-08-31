@@ -1,0 +1,56 @@
+---
+title: "Maestría en Informática"
+similar:
+  - informatica-pedeciba-doctorado-udelar
+  - tecnico-en-informatica-ude
+  - analista-en-informatica-ucu
+  - licenciatura-en-informatica-um
+  - tecnologo-en-informatica-utec
+  - ingenieria-en-computacion-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=8"
+location: "Facultad de Ingeniería, Montevideo"
+description: "En el marco del Reglamento General de las Maestrías del PEDECIBA, la Maestríaen Informática constituye un primer nivel de afianzamiento y profundización en el áreadel conocimiento, con carácter de Posgrado. Sigue a una etapa previa de formaciónbásica y general y procura, principalmente, la satisfacción de los siguientes objetivos:· Familiarización con el manejo activo y creativo del conocimiento· Complementación de conocimientos· Perfeccionamiento de la"
+startDate: ""
+applicationDeadline: "Facultad de Ingeniería"
+tags:
+  - informatica
+  - software
+  - programacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=8'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=8'
+---
+
+## Resumen
+
+### Objetivo
+
+En el marco del Reglamento General de las Maestrías del PEDECIBA, la Maestría en Informática constituye un primer nivel de afianzamiento y profundización en el área del conocimiento, con carácter de Posgrado. Sigue a una etapa previa de formación básica y general y procura, principalmente, la satisfacción de los siguientes objetivos: · Familiarización con el manejo activo y creativo del conocimiento · Complementación de conocimientos · Perfeccionamiento de la capacidad para la transmisión de conocimientos.
+
+### Referentes académicos
+
+Coordinador: Dr. Eduardo Fernández Departamento o unidad: Instituto de computación Mail: eduardof@fing.edu.uy Coordinador Alterno: Dr. Antonio Mauttone Departamento o unidad: Instituto de computación Mail: mauttone@fing.edu.uy
+
+## Ingreso
+
+### Reglamento
+
+Se prevé que los estudios de Magíster en Informática tengan una duración de dos años lectivos. Dicha duración sólo podrá exceder los cuatro años, en casos excepcionales, con la autorización expresa de la Comisión Directiva. Durante estos estudios el alumno cumplirá con un plan individual acordado con su Director Académico y aprobado por la Comisión de Postgrado. Los planes individuales estarán integrados por al menos 60 créditos de actividad programada, y la realización de una tesis de Maestría valorada en 100 créditos. La actividad programada se puede integrar con: Cursos regulares e intensivos, y estudios dirigidos. Seminarios. Pasantías. Actividades especiales: proyectos, trabajos de desarrollo, trabajos de laboratorio, etc. La Comisión de Postgrado podrá asignar créditos por cursos y otras actividades realizadas previamente al ingreso a la Maestría. En particular, si la carrera de grado del estudiante superara los 360 créditos, se le podrá reconocer créditos excedentes. Reglamento completo: https://www.pedeciba.edu.uy/es/reglamento/reglamento-de-posgrados-en-informatica-del-programa-para-el-desarrollo-de-las-ciencias-basicas/ Plan de estudios: https://www.pedeciba.edu.uy/es/reglamento/plan-de-estudios-de-la-maestria-en-informatica-del-programa-para-el-desarrollo-de-las-ciencias-basicas/ Disposiciones complementarias al reglamento: https://www.pedeciba.edu.uy/es/reglamento/disposiciones-complementarias-al-reglamento-de-posgrados-en-informatica/ Criterios de la Comisión de Posgrado para la validación de créditos: https://www.pedeciba.edu.uy/es/reglamento/criterios-de-la-comision-de-posgrado-para-la-validacion-de-creditos-area-informatica/
+
+### Requisitos de Ingreso
+
+Poseer un título de grado en Computación otorgado por la Universidad de la República cuyo plan de estudios conste de al menos 360 créditos, o haber realizado otros estudios que, a juicio de la Comisión de Postgrado, acrediten una formación que permita la realización y aprovechamiento del Plan de Estudios de la Maestría. • la aceptación por parte de un Director Académico reconocido por la Comisión de Postgrado. Enviar por correo a pedeciba_inf@fing.edu.uy la siguiente documentación: Cédula de identidad (frente y dorso). Nota firmada solicitando ingreso al programa. Currículum vitae. Título de grado (frente y dorso) y escolaridad. Plan de Trabajo de Maestría, se encuentra en la página web (https://www.pedeciba.edu.uy/es/documento/formulario-para-presentarplan-de-trabajo-de-maestria-en-infromatica/) y debe estar firmado por el estudiante, el Director Académico y Director de Tesis (éste último si corresponde). Nota firmada del Director Académico y Director de Tesis (éste último si corresponde) aceptando su rol. Formulario de propiedad intelectual completo y firmado por el estudiante y el Director de Tesis (si corresponde). Nota: En caso de querer incluir un Director de Tesis o un Co-Director de tesis a futuro, se deberá enviar: una nota del Director Académico solicitándolo, una nota del DT o Co- DT aceptando y en caso de que sea externo a PEDECIBA Informática se deberá adjuntar CV. Todos los documentos que llevan firma, deben de ser originales (se puede utilizar firma digital validada o de lo contrario enviar los escaneos y entregar los originales en la secretaría del área)

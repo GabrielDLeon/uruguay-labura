@@ -1,0 +1,71 @@
+---
+title: "Doctorado en Ciencias Agrarias"
+similar:
+  - ciencias-agrarias-maestria-udelar
+  - agronomia-especializacion-udelar
+  - agronomia-maestria-udelar
+  - ingeniero-agronomo-udelar
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - tecnico-en-ciencias-veterinarias-ude
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "doctorado"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=20"
+location: "Facultad de Agronomía, Montevideo"
+description: "​El Programa de Doctorado en Ciencias Agrarias ofrece la posibilidad de continuar los estudios de Posgrado mediante una orientación académica que combina formación teórica general y especializada en investigación en campos específicos dentro de las áreas de: Ciencias Animales, Ciencias Vegetales, Ci"
+startDate: ""
+applicationDeadline: "Unidad de Posgrados y Educación Permanente - Facultad de Agronomía"
+tags:
+  - agronomia
+  - produccion-animal
+  - produccion-vegetal
+  - medio-ambiente
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=20'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=1&idPosgrado=20'
+---
+
+## Resumen
+
+### Objetivo
+
+​El Programa de Doctorado en Ciencias Agrarias ofrece la posibilidad de continuar los estudios de Posgrado mediante una orientación académica que combina formación teórica general y especializada en investigación en campos específicos dentro de las áreas de: Ciencias Animales, Ciencias Vegetales, Ciencias del Suelo, Ciencias Sociales, Bioestadística; Ofrece la oportunidad de generar nuevos conocimientos en temas relacionados a la realidad agropecuaria y agroindustrial del país, contribuyendo al progreso científico, tecnológico y social sustentable.
+
+### Perfil de egreso
+
+Los estudios de Doctorado en Ciencias Agrarias permiten alcanzar una formación de alto nivel en un área de conocimiento disciplinaria o interdisciplinaria, a través de una experiencia profesional en investigación original que permite desarrollar independencia intelectual y capacidad de orientación en investigación.
+
+### Referentes académicos
+
+Ing. Agr. (Dr.) Omar Borsani (direccion.upep@fagro.edu.uy) Director de la Unidad de Posgrados y Educación Permanente - Ing. Agr. Elisabeth Carrega (carrega@fagro.edu.uy) Coordinadora de Posgrados
+
+## Ingreso
+
+### Reglamento
+
+La actividad central del plan de Doctorado del estudiante es una tesis. El estudiante debe defender y aprobar su proyecto de tesis y en el correr de sus estudios presentar y aprobar dos seminarios de avance. Al menos dos artículos científicos, producto de su trabajo de tesis, deben estar aprobados para su publicación en alguna/s revista/s indexada/s y arbitrada/s. En el transcurso de los estudios, se requiere una actividad complementaria obligatoria, que consiste en una pasantía realizada en lugares de trabajo fuera del núcleo académico en el cual el estudiante está desarrollando su trabajo de tesis. Este programa es gobernado por el Comité Académico de Posgrados de la Facultad de Agronomía, con el asesoramiento de la Comisión de Doctorado.
+
+### Requisitos de Ingreso
+
+Es requisito ser graduado universitario y poseer un título de Maestría o formación equivalente, a juicio del Comité Académico de Posgrados de la Facultad de Agronomía. En casos particulares, el Comité Académico de Posgrados de la Facultad de Agronomía podrá evaluar la Maestría realizada por el postulante, para definir si es de carácter académico y permite continuar con estudios de Doctorado. Se debe presentar: Formulario de inscripción completo Fotocopia de cédula de identidad vigente Curriculum vitae del aspirante Documentación de título universitario y de posgrado por parte del aspirante Curriculum del codirector (si corresponde) Los postulantes que cuenten con títulos expedidos en el exterior o de nuestro país que no sean de la Universidad de la República, deberán presentar documentación que pruebe la cantidad de créditos mínima exigida (especificando cuantos corresponden a cursos tomados y cuantos al trabajo final de Maestría), documento de su tesis final de Maestría en formato electrónico y Reglamento del Programa de la Maestría realizada.
+
+## Plan de Estudio
+
+### Programa
+
+El Doctorado en Ciencias Agrarias no requiere cursos. La actividad central del plan de Doctorado del estudiante es una tesis. Se requiere una actividad complementaria obligatoria, que consiste en una pasantía realizada en lugares de trabajo fuera del núcleo académico en el cual el estudiante está desarrollando su trabajo de tesis.
+
+### Unidades curriculares
+
+El Doctorado en Ciencias Agrarias no requiere créditos.

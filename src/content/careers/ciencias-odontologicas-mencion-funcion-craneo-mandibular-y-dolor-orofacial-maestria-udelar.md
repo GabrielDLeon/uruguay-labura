@@ -1,0 +1,63 @@
+---
+title: "Maestría en Ciencias Odontológicas Mención Función Cráneo Mandibular y Dolor Orofacial"
+similar:
+  - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
+  - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
+  - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
+  - ciencias-odontologicas-doctorado-udelar
+  - maestria-en-rehabilitacion-oral-ucu
+  - implantologia-oral-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=8"
+location: "Facultad de Odontología, Montevideo"
+description: "PERFIL DEL EGRESADO a. Competencias generales 1- Desarrollar la capacidad de formular preguntas de investigación apropiadas asu área del conocimiento, en base a un pensamiento crítico.2- Procurar la obtención de respuestas a dichos problemas, utilizando unametodología científica apropiada, aplicando lineamientos éticos y experimentalesaceptados a nivel nacional e internacional.3- Tener la capacidad de diseñar, implementar, ejecutar y culminar proyectos"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - odontologia
+  - dolor-orofacial
+  - funcion-craneo-mandibular
+  - rehabilitacion-oral
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=8'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=8'
+---
+
+## Resumen
+
+### Objetivo
+
+PERFIL DEL EGRESADO a. Competencias generales 1- Desarrollar la capacidad de formular preguntas de investigación apropiadas a su área del conocimiento, en base a un pensamiento crítico. 2- Procurar la obtención de respuestas a dichos problemas, utilizando una metodología científica apropiada, aplicando lineamientos éticos y experimentales aceptados a nivel nacional e internacional. 3- Tener la capacidad de diseñar, implementar, ejecutar y culminar proyectos de investigación que permitan resolver los problemas de investigación propuestos. 4- Desarrollar la habilidad de trabajar con una visión interdisciplinaria, integrando equipos con docentes e investigadores de otras disciplinas. 5- Desarrollar la capacidad de analizar críticamente trabajos de investigación en su área del conocimiento, aprendiendo tanto a dar como a recibir críticas con una mirada positiva, tendiente al mejoramiento ético, personal y científico. 6- Tener la habilidad de desarrollar sus tareas con una perspectiva creativa, tendiente a solucionar problemas científicos en el área de la salud que puedan impactar positivamente en la sociedad en su conjunto. b- Competencias específicas. 1- Comprender los aspectos neurofisiológicos, biomecánicos y patológicos de la función cráneo-mandibular y el dolor orofacial. 2- Conocer y comprender, desde una visión multidisciplinaria, las diversas perspectivas históricas, sociales, teóricas y experimentales que han influenciado ésta área del conocimiento. 3- Conocer los aspectos epidemiológicos relativos a la salud de la población en esta área del conocimiento, comprendiendo sus necesidades y las expectativas institucionales en relación a esta temática. Desarrollar la capacidad de plantear hipótesis en ésta área del conocimiento, verificarlas o rechazarlas implementando proyectos de investigación pertinentes, sobre la base de una visión altamente integrada fisiológica, biomecánica y sico-social.
+
+### Referentes académicos
+
+Prof. PhD. Dr. Marcelo Kreiner
+
+## Ingreso
+
+### Reglamento
+
+https://odon.edu.uy/sitio/wp-content/uploads/2024/11/REGLAMENTO-DE-LA-MAESTRIA-V.-4_9_20.pdf
+
+### Requisitos de Ingreso
+
+https://odon.edu.uy/sitio/maestria/#1723657492244-595a43fd-c615
+
+## Plan de Estudio
+
+### Programa
+
+https://odon.edu.uy/sitio/wp-content/uploads/2024/11/MENCION-FUNCION-CRANEO-MANDIBULAR.pdf

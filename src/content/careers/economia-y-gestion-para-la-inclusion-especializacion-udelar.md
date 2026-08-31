@@ -1,0 +1,72 @@
+---
+title: "Especialización en Economía y Gestión para la Inclusión"
+similar:
+  - economia-y-gestion-bancaria-especializacion-udelar
+  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
+  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
+  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
+  - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
+  - licenciatura-en-economia-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=82"
+location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
+description: "Contribuir al desarrollo y la inclusión a través de la generación de conocimientos y capacidades en profesionales de distintas disciplinas que actúen fundamentalmente en los ámbitos del cooperativismo, la creación y el desarrollo de empresas, el desarrollo territorial y la inclusión financiera."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - economia
+  - economia-social
+  - cooperativismo
+  - desarrollo-territorial
+  - inclusion-financiera
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=82'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=82'
+---
+
+## Resumen
+
+### Objetivo
+
+Contribuir al desarrollo y la inclusión a través de la generación de conocimientos y capacidades en profesionales de distintas disciplinas que actúen fundamentalmente en los ámbitos del cooperativismo, la creación y el desarrollo de empresas, el desarrollo territorial y la inclusión financiera. Objetivos Específicos: Aportar a la formación en los conceptos teóricos así como en el conocimiento de la realidad nacional y comparada en la especialidad que escoja Desarrollar capacidades de análisis y gestión para el apoyo a iniciativas de desarrollo inclusivo en los ámbitos de acción que se incluyen en esta propuesta.
+
+### Perfil de egreso
+
+Las asignaturas que integran los cursos obligatorios y opcionales se presentan a título enunciativo y no taxativo de forma de flexibilizar la especialización de acuerdo al desarrollo del conocimiento y dinámica de las situaciones. La currícula será abierta previendo la incorporación permanente de asignaturas acorde a las nuevas temáticas que surjan o a la profundización de aquellos temas que, aunque contemplados, el nivel de complejidad se acreciente en algún momento determinado. PERFIL DE LOS EGRESADO S La formación está dirigida principalmente a graduados universitarios de cualquier disciplina y se regirá por el Artículo 1⁰ de la Ordenanza de Posgrados. El Posgrado cuenta con cuatro opciones de especialización: Cooperativismo, Creación y Desarrollo de Empresas, Desarrollo Territorial e Inclusión Financiera. PERFIL GENERAL DEL EGRESADO (común a todos los ejes) El egresado contará con conocimientos sobre los desarrollos teóricos recientes referidos a las formas organizacionales, instrumentos y herramientas que promueven el desarrollo inclusivo, así como sobre las estrategias, políticas, instrumentos y herramientas de gestión utilizadas en la especialidad que seleccione. A su vez, tendrá una formación integral e integrada en capacidades de análisis, diseño, planificación, gestión y evaluación -desde una perspectiva de desarrollo- de políticas, planes, programas, proyectos y servicios vinculada al ámbito en que se especialice. PERFIL DEL EGRESADO CON OPCIÓN EN CREACIÓN Y DESARROLLO DE EMPRESAS Esta opción aporta al egresado conocimientos sobre la cultura, el entorno y el ecosistema emprendedor, así como sobre el proceso de creación y desarrollo de empresas y los diversos actores y servicios de apoyo al mismo. El Posgrado le permitirá desarrollar capacidades para diseñar, implementar, gestionar y evaluar estrategias, planes, programas, proyectos, acciones e instituciones de promoción y apoyo a micro, pequeñas y medianas empresas, insertándose tanto en entidades públicas como privadas. PERFIL DEL EGRESADO CON OPCIÓN COOPERATIVISMO Esta especialización desarrolla el conocimiento de las cooperativas –en sus diversas modalidades- y sus particularidades, así como sus fortalezas y debilidades relativas en el contexto de economías mixtas. A su vez, permite el desarrollo de capacidades profesionales para desempeñarse en el sector con una perspectiva de desarrollo inclusivo, enfrentando los desafíos de la gestión asociativa, sus aspectos de liderazgo, toma de decisiones y control de la gestión económica y social. PERFIL DEL EGRESADO CON OPCIÓN EN DESARROLLO TERRITORIAL La especialización en Desarrollo Territorial aportará conocimientos que permitan generar una capacidad de mirada de conjunto de las actividades económicas y sociales, en particular, las vinculadas al cooperativismo, las micro, pequeñas y medianas empresas y la inclusión financiera dentro de un marco territorial específico. El egresado podrá analizar, identificar, promover, diseñar, implementar y evaluar estrategias, políticas y acciones para promover el desarrollo económico y social. PERFIL DEL EGRESADO CON OPCIÓN EN INCLUSIÓN FINANCIERA El eje en Inclusión Financiera aporta el conocimiento de las estrategias, políticas, instrumentos, productos, servicios y modalidades que facilitan la inclusión financiera. En particular, se profundiza en las microfinanzas y entidades minoristas especializadas en la atención al sector de la micro y pequeña empresa y a las familias. El egresado desarrollará capacidades para la planificación, gestión y evaluación de estas instituciones, la definición de productos y servicios, la administración de su cartera y la medición y gestión de los riesgos que implica la atención a estos sectores.
+
+### Referentes académicos
+
+Prof. Master en Sociología Sebastián Goinheix
+
+### Docentes
+
+El cuerpo docente es uno de los factores mas importantes que asegura la calidad de este Programa de Posgrado. Está integrado por los más relevantes docentes nacionales, sumando el aporte de reconocidos catedráticos extranjeros provenientes de universidades con destaque internacional. Se podrá encontrar un detalle del plantel docente en el siguiente link: https://fcea.udelar.edu.uy/plantel-docente-economia-gestion-inclusion.html
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+El curso está destinado a personas con título universitario con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que reúnan los requisitos enunciados (sean o no profesionales universitarios), se hayan postulado oportunamente y sean aceptados por la Coordinación Académica del Posgrado, en base al curriculum personal de estudios, antecedentes y experiencia profesional. Para formalizar su postulación al Programa de Posgrados: https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html
+
+## Plan de Estudio
+
+### Programa
+
+Dicha titulación requiere de la aprobación de 60 créditos, de los cuales 10 corresponderán a un Trabajo Final. Para la definición de crédito se ha tenido en cuenta la Ordenanza de Posgrados de la Universidad de la República, en la que se establece que un crédito es equivalente a 15 horas de trabajo, incluyendo las horas de clase, el trabajo asistido y el trabajo individual, asumiendo que cada hora presencial requiere de al menos dos horas de trabajo individual. En este Posgrado, un crédito tiene como mínimo 5 horas de clases presenciales. El enfoque propuesto para el programa de formación en Economía y Gestión para la Inclusión se desarrolla en Unidades Curriculares comunes y otras específicas para cada una de las cuatro opciones de especialización. Para obtener el título de Posgrado en alguna de las cuatro Opciones se deberá: Cursar y aprobar las siguientes Unidades Curriculares comunes: Introducción a la Economía y Gestión para la Inclusión Herramientas de Economía y Gestión para la Inclusión I y II Principios de Teoría y Práctica de los cuatro Ejes temáticos (Cooperativismo, Creación y Desarrollo de Empresas, Desarrollo Territorial, Inclusión Financiera) Tópico I: Innovación de los cuatro Ejes temáticos 2. Además, cursar y aprobar: 8 créditos en el módulo temático correspondiente a la Opción elegida 5 créditos opcionales en cualquier otra Unidad Curricular 3. Realizar el trabajo final dentro de la Opción elegida Modalidad de clases La frecuencia de clases es de 3 veces por semana a excepción de las asignaturas a cargo de docentes extranjeros que podrán ser diferentes. Cada asignatura se desarrolla en sesiones de 3 horas cada una dependiendo de la carga horaria de la asignatura, en horario preferentemente de 19 a 22 hs. Las clases se dictarán en modalidad híbrida, con alumnos en forma presencial y otros en modalidad virtual sincrónica a través de la aplicación zoom. Tenemos salas equipadas para tal fin. En particular, se espera que los alumnos del interior cursen en modalidad virtual sincrónica (pudiendo asistir presencial a algunas clases si pueden) y que los alumnos de Montevideo asistan mayormente en forma presencial. Se pueden determinar algunas actividades de presencialidad obligatoria que se programarán con suficiente tiempo.
+
+### Unidades curriculares
+
+UNIDADES CURRICULARES OBLIGATORIAS Introducción a la Economía y Gestión para la Inclusión - 5 créditos Herramientas de Economía y Gestión para la Inclusión I y II - 4 créditos Principios de Teoría y Práctica de los cuatro Ejes temáticos (uno por Opción) - 20 créditos Tópico I (uno por Opción) - 8 créditos UNIDADES CURRICULARES OPCIONALES Tópico II (específico por Opción) - 3 créditos Tópico III (específico por Opción) - 5 créditos Tópico - 5 créditos TRABAJO FINAL (específico por Opción) Las inscripciones se realizan cada 2 años.

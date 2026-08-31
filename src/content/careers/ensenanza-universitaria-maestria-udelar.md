@@ -1,0 +1,63 @@
+---
+title: "Maestría en Enseñanza Universitaria"
+similar:
+  - ensenanza-universitaria-especializacion-udelar
+  - especializacion-en-educacion-superior-tecnologica-profesional-utec
+  - licenciatura-en-educacion-ucu
+  - didactica-para-ensenanza-media-especializacion-udelar
+  - didactica-para-ensenanza-primaria-especializacion-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=98"
+location: "Facultad de Humanidades y Ciencias de la Educación, Montevideo"
+description: "La Comisión Sectorial de Enseñanza (CSE) desarrolla conjuntamente con el ÁreaSocial y Artística desde el año 2006 el Programa de Especialización y Maestría enEnseñanza Universitaria, dirigido a docentes en actividad de los niveles universitario yterciario."
+startDate: ""
+applicationDeadline: "Facultad de Humanidades"
+tags:
+  - educacion
+  - educacion-superior
+  - pedagogia
+  - didactica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=98'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=98'
+---
+
+## Resumen
+
+### Objetivo
+
+La Comisión Sectorial de Enseñanza (CSE) desarrolla conjuntamente con el Área Social y Artística desde el año 2006 el Programa de Especialización y Maestría en Enseñanza Universitaria, dirigido a docentes en actividad de los niveles universitario y terciario. Su objetivo primordial es iniciar a los docentes en la investigación educativa a nivel superior, entendiendo el campo pedagógico-didáctico universitario como un área de conocimiento multidisciplinar, de entrecruce de disciplinas. Se concibe la formación pedagógica no disociada de los contenidos académicos y profesionales, esto es, articulada al componente epistemológico propio de cada disciplina. Las líneas de investigación del posgrado comprenden las temáticas de políticas de enseñanza superior, didáctica universitaria y problemas de la enseñanza.
+
+### Perfil de egreso
+
+Su objetivo primordial es formar investigadores en el área de la pedagogía y la didáctica universitaria, entendida como un campo de conocimiento multidisciplinar, en el que se entrecruzan las disciplinas y no se disocian los contenidos del campo profesional, haciendo referencia al componente epistemológico propio de cada disciplina.
+
+## Ingreso
+
+### Reglamento
+
+Reglamento: Requisitos: Para cursar el posgrado se requiere cumplir con los requerimientos establecidos por la Ordenanza de las Carreras de Posgrado de la Universidad de la República. En tal sentido, serán destinatarios de este posgrado los graduados universitarios o personas que, excepcionalmente, acrediten formación equivalente (Art. 1º), y que se encuentren ejerciendo actividades de docencia. En el caso de la ANEP se deberá contar con alguno de los siguientes títulos: Maestro de Educación Primaria, Profesor de Educación Media, Maestro Técnico de Educación Técnico Profesional, Educador Social; y acreditar docencia actual en los institutos de formación docente.
+
+### Requisitos de Ingreso
+
+1. Cualquier persona que posea cualquier título de grado (incluidas reválidas) 2. Cualquier persona que sea egresada de alguna carrera de grado del área de conocimiento del posgrado 3. Cualquier persona que sea egresada de la carrera de grado asociada al posgrado (incluida la reválida de la carrera de grado asociada)
+
+## Plan de Estudio
+
+### Programa
+
+El programa de Maestría en Enseñanda Universitaria exige la aprobación de cursos y seminarios y la presentación de una tesis de maestría que será defendida ante un tibunal, en acto público.

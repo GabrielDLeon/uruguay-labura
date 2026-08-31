@@ -1,128 +1,86 @@
 ---
-import { getCollection } from "astro:content";
-import { Image } from "astro:assets";
-
 import Layout from "@/layouts/Layout.astro";
-import SearchModal from "@/components/search/SearchModal.astro";
+import Block from "@/components/Block.astro";
+import { Icon } from "astro-icon/components";
 import PageHeader from "@/components/PageHeader.astro";
-import { degreeTypeLabels, modalityLabels } from "@/lib/educacion";
-
-const entries = await getCollection(
-  "educacion",
-  ({ data }) => import.meta.env.DEV || !data.draft,
-);
-const institutions = await getCollection("institutions");
-const instMap = new Map(institutions.map((i) => [i.id, i.data]));
-
-entries.sort((a, b) => a.data.title.localeCompare(b.data.title, "es"));
+import PagefindIndex from "@/components/PagefindIndex.astro";
 ---
 
 <Layout
   title="Educación en Uruguay"
   description="Explora postgrados, maestrias, especializaciones y otras opciones de educacion superior en Uruguay."
 >
-  <PageHeader
+  <PagefindIndex
     title="Educación en Uruguay"
-    description="Recopilación de Postgrados, Maestrías, Especializaciones y otras opciones de formación superior disponibles en el país. Un único lugar para quienes buscan seguir creciendo profesionalmente."
+    description="Postgrados, maestrías, especializaciones y otras opciones de formación superior en Uruguay."
+    kind="pagina"
   />
 
-  <SearchModal />
+  <Block>
+    <PageHeader
+      title="Educación en Uruguay"
+      description="Recopilación de Postgrados, Maestrías, Especializaciones y otras opciones de formación superior disponibles en el país. Un único lugar para quienes buscan seguir creciendo profesionalmente."
+    />
 
-  <section class="overflow-x-auto">
-    <table class="table table-fixed w-full min-w-[900px]">
-      <colgroup>
-        <col class="w-28" />
-        <col />
-        <col class="w-32" />
-        <col class="w-28" />
-        <col class="w-24" />
-        <col class="w-36" />
-      </colgroup>
-      <thead>
-        <tr>
-          <th>Institución</th>
-          <th>Título</th>
-          <th>Tipo</th>
-          <th>Modalidad</th>
-          <th>Duración</th>
-          <th>Matrícula</th>
-        </tr>
-      </thead>
-      <tbody>
-        {
-          entries.map((entry) => {
-            const inst = entry.data.institution
-              ? instMap.get(entry.data.institution)
-              : null;
-            return (
-              <tr
-                onclick={`window.location.href='/educacion/${entry.id}'`}
-                onkeydown={`if(event.key==='Enter'||event.key===' '){event.preventDefault();window.location.href='/educacion/${entry.id}'}`}
-                tabindex="0"
-                role="link"
-                class="cursor-pointer hover:bg-[var(--muted)]"
-              >
-                <td class="truncate">
-                  {inst ? (
-                    <a
-                      href={`/educacion/instituciones/${entry.data.institution}`}
-                      class="hover:underline font-medium "
-                    >
-                      {inst?.logo && (
-                        <Image
-                          src={inst.logo}
-                          alt={inst.name}
-                          class="h-7 w-auto object-contain rounded inline-block mr-1"
-                        />
-                      )}
-                      {inst.short ?? entry.data.institutionName}
-                    </a>
-                  ) : (
-                    <span title={entry.data.institution}>
-                      {entry.data.institution}
-                    </span>
-                  )}
-                </td>
-                <td>
-                  <div class="font-semibold">
-                    <span>{entry.data.title}</span>
-                  </div>
-                  <div class="text-muted-foreground text-xs">
-                    {entry.data.area}
-                  </div>
-                </td>
-                <td>
-                  <span class="badge-outline text-xs">
-                    {degreeTypeLabels[entry.data.degreeType] ??
-                      entry.data.degreeType}
-                  </span>
-                </td>
-                <td>
-                  <span class="badge-outline text-xs">
-                    {modalityLabels[entry.data.modality] ?? entry.data.modality}
-                  </span>
-                </td>
-                <td class="whitespace-nowrap ">{entry.data.duration}</td>
-                <td>
-                  {entry.data.cost === "Gratuita" ? (
-                    <span class="text-muted-foreground">-</span>
-                  ) : (
-                    entry.data.cost
-                  )}
-                </td>
-              </tr>
-            );
-          })
-        }
-      </tbody>
-    </table>
+    <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <a
+        href="/educacion/carreras"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+      >
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon name="mdi:school-outline" class="size-5" aria-hidden="true" />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Carreras</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Programas de grado, posgrado y formación técnica ofrecidos por
+            universidades e instituciones de educación superior en Uruguay.
+          </p>
+        </div>
+      </a>
 
-    {
-      entries.length === 0 ? (
-        <p class="text-muted-foreground mt-4 text-sm">
-          No hay programas registrados por el momento.
-        </p>
-      ) : null
-    }
-  </section>
+      <a
+        href="/educacion/instituciones"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+      >
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon name="mdi:domain" class="size-5" aria-hidden="true" />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Instituciones</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Universidades e instituciones de educación superior en Uruguay.
+            Explorá las instituciones para conocer sus programas, ubicaciones e
+            información de contacto.
+          </p>
+        </div>
+      </a>
+
+      <a
+        href="/educacion/becas"
+        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
+      >
+        <span
+          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+        >
+          <Icon
+            name="mdi:hand-coin-outline"
+            class="size-5"
+            aria-hidden="true"
+          />
+        </span>
+        <div>
+          <h2 class="text-lg font-semibold text-foreground">Becas</h2>
+          <p class="mt-1 text-sm text-muted-foreground">
+            Recopilación de las principales becas disponibles en Uruguay para
+            estudiantes de grado, posgrado y educación media.
+          </p>
+        </div>
+      </a>
+    </div>
+  </Block>
 </Layout>

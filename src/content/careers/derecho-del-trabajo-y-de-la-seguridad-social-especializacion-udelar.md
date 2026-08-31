@@ -1,0 +1,67 @@
+---
+title: "Especialización en Derecho del Trabajo y de la Seguridad Social"
+similar:
+  - derecho-del-trabajo-y-de-la-seguridad-social-maestria-udelar
+  - postgrado-en-derecho-del-trabajo-aplicado-um
+  - derecho-procesal-especializacion-udelar
+  - derecho-comercial-especializacion-udelar
+  - derecho-orientancion-derecho-comercial-maestria-udelar
+  - derecho-internacional-publico-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=7"
+location: "Facultad de Derecho"
+description: "La Carrera se orienta a lograr un abogado especializado en derecho del trabajo y de laseguridad social, que no pierda de vista la vinculación existente entre el derecho socialy los grandes temas jurídicos, en especialcon el derecho de los derechos humanos ylas libertades, ni con aspectos de otras disciplinas sociales como la sociología, laeconomìa, la filosofìa, la historia y la ciencia polìtica.El Especialista deberá estar preparado para ejercer las"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - derecho
+  - derecho-laboral
+  - seguridad-social
+  - derechos-humanos
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=7'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=14&idPosgrado=7'
+---
+
+## Resumen
+
+### Objetivo
+
+La Carrera se orienta a lograr un abogado especializado en derecho del trabajo y de la seguridad social, que no pierda de vista la vinculación existente entre el derecho social y los grandes temas jurídicos, en especialcon el derecho de los derechos humanos y las libertades, ni con aspectos de otras disciplinas sociales como la sociología, la economìa, la filosofìa, la historia y la ciencia polìtica. El Especialista deberá estar preparado para ejercer las diversas profesiones o actividades del jurista propias en esta rama del derecho, entre las que cabe señalar: el asesoramiento a órganos del gobierno y a organismos internacionales o transnacionales; la inspección del Trabajo; el asesoramiento a legisladores y órganos legislativos; el asesoramiento a empresas públicas y privadas; el asesoramiento a sindicatos, federaciones y confederaciones, sean estos de empleadores o de trabajadores, el asesoramiento a organismos paritarios a nivel de la empresa; el asesoramiento o la integración a organismos tripartitos a diferentes niveles, la actuación como jueces del Poder Judicial en la materia, la actuación como asesores de las partes o como componedores en conflictos individuales y colectivos de trabajo, el asesoramiento de las partes en la negociación colectiva eb sus diversas manifestaciones y modalidades, la asistencia a las partes en procesos judiciales , etc. La existencia de materias optativas permite, sin que se pierdan de vista los objetivos generales, que se logre una capacitación más especializada hacia ciertas formas de ejercicio profesional. El título de Especialista en Derecho del Trabajo y de la Seguridad Social, se otorgará a quienes aprueben la totalidad de las asignaturas indicadas como obligatorias en el Plan de Estudios de esa Carrera, asistan a todas las conferencias o clases para graduados que se indiquen como obligatorias y aprueben un número de asignaturas opcionales, talleres o seminarios que le permitan totalizar por lo menos 69 créditos.
+
+### Referentes académicos
+
+Dr. Gustavo Gauthier
+
+### Docentes
+
+DOCENTES DE LA FACULTAD DE DERECHO Udelar Jorge Rosenbaum Hugo Barretto Mario Garmendia Gustavo Gauthier Rosina Rossi Cristina Mangarelli Daoiz Uriarte Juan Rasso Delgue Alejandro Castello Oscar Sarlo Marcela Vigna Pablo Guerra (Prof. de Facultad de Ciencias Sociales) Cesar Failache (Prof. de Facultad de Economía) Graciela Lescano ( Prof. de Facultad Ciencias Sociales)
+
+## Ingreso
+
+### Reglamento
+
+En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. Cada módulo tendrá una instancia evaluatoria, la cual puede constar de una monogafía, examen o prueba en Plataforma EVA.
+
+### Requisitos de Ingreso
+
+Ser Abogado o Escribano Público con las asignaturas aprobadas Derecho del Trabajo y de la Seguridad Social, y Taller de Derecho del Trabajo y de la Seguridad Social.
+
+## Plan de Estudio
+
+### Programa
+
+TEORIA GENERAL DEL DERECHO (20 horas presenciales, 2 créditos) TEORIA GENERAL DEL DERECHO DEL TRABAJO (20 horas presenciales, 3 créditos) EVOLUCIÓN DEL PENSAMIENTO IUSLABORALISTA (20 horas presenciales, 3 créditos) DERECHO INDIVIDUAL Y PROCESAL 1 Y 2 ( 40 horas presenciales c/u, 6 créditos) DERECHO COLECTIVO DEL TRABAJO 1 Y 2 (40 horas presenciales c/u, 6 créditos) DERECHO INTERNACIONAL DEL TRABAJO (40 horas presenciales c/u, 6 créditos) DERECHO DE LA SEGURIDAD SOCIAL 1 Y 2 ( 30 horas presenciales c/u , 5 créditos) SOCIOLOGIA DEL TRABAJO ( 20 horas presenciales, 2 créditos) ECONOMÍA DEL TRABAJO ( 20 horas presenciales, 2 créditos) Además necesitarán de aprobar 17 créditos de materias opcionales que se dictaran a lo largo de 3 semestres, estas materias son de actualización para el profesional. Podrán también cursar las materias que son obligatorias para la Maestría tomandose como materias opcionales para la Especialización.

@@ -1,0 +1,62 @@
+---
+title: "Tecnólogo en Manejo de Sistemas de Producción Lechera"
+short: "Tecnólogo en Producción Lechera"
+similar:
+  - tecnologo-en-sistemas-integrados-de-produccion-agropecuaria-udelar
+  - ingeniero-agronomo-udelar
+  - agronomia-especializacion-udelar
+  - agronomia-maestria-udelar
+  - ciencias-agrarias-maestria-udelar
+  - ingenieria-de-produccion-udelar
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "tecnologo"
+area: "Alimentos"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No informada"
+duration: "2 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-manejo-de-sistemas-de-produccion-lechera/"
+contactEmail: "secretaria.tmspl@utec.edu.uy"
+location: "Nueva Helvecia, Colonia (Escuela Superior de Lechería CETP-UTU)"
+accreditation: "UTEC"
+description: "Tecnólogo en Manejo de Sistemas de Producción Lechera de UTEC, carrera conjunta con DGETP-UTU. Formación dual con prácticas remuneradas en empresas. Gestión operativa de sistemas lecheros."
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+tags:
+  - agronomia
+  - lecheria
+  - produccion-animal
+  - agropecuario
+  - gestion-de-operaciones
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Esta carrera conjunta entre DGETP-UTU y UTEC forma profesionales con alto nivel de especialización en el manejo operativo/productivo de los Sistemas de Producción Lechera. Se brinda en modalidad de alternancia entre empresas formadoras y la institución educativa, con prácticas remuneradas.
+
+Existe la posibilidad de cursar la carrera en modalidad de internado. Tiene una duración de 2 años y está orientada a formar profesionales con fuerte perfil en monitoreo y control del sistema productivo.
+
+### Becas
+
+Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** y **prácticas remuneradas en empresas formadoras**.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de CES (Ciencias Agrarias, Ciencias Biológicas, Físico-Matemática, Matemática y Diseño)
+- Egresados de Bachilleratos Agrarios de DGETP-UTU
+
+### Proceso de Selección
+
+El ingreso es por **orden de preinscripción** y se realiza un **sorteo** en caso de que las postulaciones superen los cupos.
+
+## Plan de Estudio
+
+El plan de estudios se organiza en 4 semestres. Incluye unidades curriculares de producción animal, producción de forraje, gestión de sistemas lecheros, calidad de leche, desarrollo humano, y proyecto integrador.

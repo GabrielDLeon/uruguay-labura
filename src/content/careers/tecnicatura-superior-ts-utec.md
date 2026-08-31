@@ -1,0 +1,67 @@
+---
+title: "Técnico Superior Universitario en Tecnologías de la Información"
+short: "Técnico Superior Universitario en TI"
+similar:
+  - licenciatura-tecnologias-informacion-utec
+  - analista-en-tecnologias-de-la-informacion-ort
+  - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
+  - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
+  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-especializacion-udelar
+  - sistemas-de-informacion-y-tecnologias-de-gestion-de-datos-maestria-udelar
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "tecnicatura"
+area: "Tecnologías de la Información"
+modality: "hibrido"
+shift: "day"
+weeklyHours: "30 horas"
+duration: "2 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/"
+contactEmail:
+  - "secretaria.lti.itrso@utec.edu.uy"
+  - "secretaria.lti.itrcs@utec.edu.uy"
+  - "secretaria.lti.minas@utec.edu.uy"
+  - "secretaria.lti.melo@utec.edu.uy"
+location: "Durazno, Fray Bentos, Melo, Minas"
+accreditation: "UTEC"
+description: "Título intermedio de Técnico Superior en TI de UTEC, obtenible en dos años. Cubre programación, testing e infraestructura tecnológica con modalidad híbrida."
+draft: false
+createdAt: "2026-05-15 00:00:44"
+updatedAt: "2026-08-07 12:21:06"
+tags:
+  - informatica
+  - programacion
+  - testing
+  - calidad-de-software
+  - infraestructura
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Título Intermedio de Técnico/a Superior Universitario en Tecnologías de la Información se obtiene al culminar y aprobar los primeros cuatro semestres de la Licenciatura en Tecnologías de la Información. Esta tecnológicatura brinda una formación sólida en las áreas de Programación, Testing e Infraestructura tecnológica.
+
+La modalidad híbrida combina un alto componente virtual con instancias presenciales obligatorias. Los estudiantes adquieren competencias en programación, testing de software, administración de bases de datos y redes, y gestión de proyectos de TI.
+
+### Becas
+
+Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de cualquier orientación de Enseñanza Media Superior (Bachillerato) CES o DGETP-UTU
+- Computadora portátil con 16GB de RAM, procesador i5 o superior, 512GB de disco y webcam
+- Disponibilidad de 30 horas semanales de dedicación
+- Conexión a internet de banda ancha
+- Aprobación del curso inicial virtual
+- Cédula de identidad vigente
+- Carné de salud vigente
+
+### Proceso de Selección
+
+El ingreso requiere aprobar el **curso inicial virtual** con una nota mínima de **80/100**, el mismo proceso que la Licenciatura en TI. En caso de que las postulaciones superen el cupo, se realiza un **sorteo** entre los postulantes que aprobaron el curso.

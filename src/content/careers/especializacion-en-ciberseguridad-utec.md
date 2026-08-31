@@ -1,0 +1,89 @@
+---
+title: "Especialización en Ciberseguridad"
+similar:
+  - maestria-en-ciberseguridad-y-gestion-de-riesgos-tecnologicos-um
+  - analista-en-ciberseguridad-ude
+  - seguridad-informatica-maestria-udelar
+  - seguridad-informatica-especializacion-udelar
+  - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec
+  - ingenieria-telematica-um
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "especializacion"
+area: "Tecnologías de la Información"
+modality: "virtual"
+shift: "both"
+weeklyHours: "No informada"
+duration: "11 meses"
+cost: "USD 4000"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-ciberseguridad/"
+accreditation: "UTEC"
+description: "Especialización en Ciberseguridad de UTEC, en colaboración con la Universitat Oberta de Catalunya (UOC) y AGESIC. Formación de posgrado en modalidad online para proteger sistemas, redes y datos frente a amenazas cibernéticas."
+tags:
+  - ciberseguridad
+  - seguridad-informatica
+  - seguridad-de-la-informacion
+  - informatica
+  - redes
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La Especialización en Ciberseguridad de UTEC, en colaboración con la **Universitat Oberta de Catalunya (UOC)** y la participación de **AGESIC**, proporciona amplios conocimientos sobre la ciberseguridad en redes informáticas y sistemas corporativos. Se estudian los problemas y las soluciones empleadas para afrontar el cibercrimen, se examinan en profundidad los riesgos de ciberseguridad en las redes fijas e inalámbricas, y se analizan los mecanismos de protección particulares de cada sistema operativo.
+
+La demanda de profesionales de ciberseguridad está creciendo rápidamente. Las organizaciones de diversas industrias necesitan expertos calificados que puedan salvaguardar sus activos digitales y defenderse contra las ciberamenazas.
+
+El programa está especialmente dirigido a ingenieros, licenciados, personal con experiencia acreditada o graduados en el área de las Tecnologías de la Información y de las Comunicaciones.
+
+### Competencias del Egresado
+
+Los egresados serán capaces de:
+
+- Analizar y aplicar las técnicas básicas de prevención, protección y detección de ataques a un sistema informático.
+- Analizar y gestionar los riesgos de seguridad en el cloud.
+- Implantar estrategias de detección de vulnerabilidades y gestión de incidentes en el cloud.
+- Conocer los aspectos legales vinculados a la protección de datos en el cloud.
+- Establecer acuerdos con proveedores de cloud para asegurar el cumplimiento normativo y la protección de datos.
+- Evaluar y tomar decisiones sobre la selección y uso de herramientas y tecnologías de ciberseguridad y privacidad.
+- Identificar, examinar y evaluar los principales riesgos de un dominio informático y diseñar estrategias para gestionarlos.
+- Analizar la implementación y despliegue de soluciones criptográficas para validar su funcionamiento.
+- Conocer las herramientas y métodos de pentesting en los servidores de datos.
+- Fortalecer los diferentes tipos de bases de datos para asegurar la integridad, la disponibilidad y la confidencialidad de la información.
+- Realizar una configuración segura y robusta de un servidor GNU/Linux o Windows.
+- Mantener y controlar los sistemas informáticos, preparando ataques para encontrar malas configuraciones.
+
+### Salida Laboral
+
+- Seguridad informática
+- Ciberseguridad empresarial
+- Consultoría en seguridad TI
+- Gestión de riesgos y de incidentes de seguridad en el cloud
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Título de grado de una carrera de 4 años o más de duración, con apostilla obligatoria que incorpore código de verificación electrónica.
+- En caso de no contar con título de grado, se requiere experiencia profesional comprobable de al menos 2 años en el ámbito TIC, con carta de certificación de la empresa.
+
+**Se debe contar con:**
+
+- Conocimientos de redes, de sistemas operativos, comunicaciones WEB.
+- Conocimientos medios de programación: competencias para entender pequeños scripts o programar partes de una aplicación.
+- Conocimientos básicos de sistemas distribuidos.
+
+### Proceso de Postulación
+
+- Completar el formulario en la página web adjuntando: CV, carta de motivación, documento de identidad escaneado (frente y dorso) y título de grado escaneado.
+- Solo en caso de no contar con título de grado, se debe adjuntar además: fórmula 69A o constancia de egreso de UTU, autoinforme completo y carta de certificación de la empresa.
+- Luego de completado el formulario, desde la oficina de coordinación académica te contactarán para agendar una entrevista, que es excluyente para el proceso de admisión.
+
+### Costo y Becas
+
+El precio es de **USD 4000**, con bonificación del **15% por preinscripción anticipada** y **becas de hasta 50%.**

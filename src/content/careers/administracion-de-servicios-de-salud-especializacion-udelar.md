@@ -1,0 +1,59 @@
+---
+title: "Especialización en Administración de Servicios de Salud"
+similar:
+  - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
+  - gestion-de-servicios-de-salud-maestria-udelar
+  - gestion-de-servicios-de-salud-especializacion-udelar
+  - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
+  - salud-publica-especializacion-udelar
+  - psicologia-en-servicios-de-salud-especializacion-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=55"
+location: "Facultad de Medicina"
+description: "Especialización en Administración de Servicios de Salud, dictada por la Facultad de Medicina."
+startDate: ""
+applicationDeadline: "Escuela de Graduados Facultad de Medicina"
+tags:
+  - administracion
+  - salud-publica
+  - gestion-sanitaria
+  - gestion-de-salud
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=55'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=55'
+---
+
+## Resumen
+
+### Objetivo
+
+http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/ADMINISTRACI%C3%93N%20DE%20SERVICIOS%20DE%20SALUD.pdf
+
+### Referentes académicos
+
+Profesora Doctora Ana Sollazo
+
+## Ingreso
+
+### Reglamento
+
+Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+
+## Plan de Estudio
+
+### Programa
+
+http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/ADMINISTRACI%C3%93N%20DE%20SERVICIOS%20DE%20SALUD.pdf

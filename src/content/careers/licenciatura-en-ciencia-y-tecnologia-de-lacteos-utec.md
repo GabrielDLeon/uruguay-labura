@@ -1,0 +1,100 @@
+---
+title: "Licenciatura en Ciencia y Tecnología de Lácteos"
+short: "Lic. en Ciencia y Tecnología de Lácteos"
+similar:
+  - ciencia-y-tecnologia-de-alimentos-maestria-udelar
+  - ingenieria-en-alimentos-ucu
+  - ciencias-nutricionales-maestria-udelar
+  - ciencias-de-los-alimentos-y-salud-humana-maestria-udelar
+  - tecnico-en-procesos-y-analisis-quimico-utec
+  - tecnologo-quimico-utec
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "licenciatura"
+area: "Alimentos"
+modality: "hibrido"
+shift: "day"
+weeklyHours: "No informada"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ciencia-y-tecnologia-de-lacteos/"
+contactEmail: "secretaria.lctl@utec.edu.uy"
+location: "La Paz, Colonia (ITR Suroeste)"
+accreditation: "UTEC"
+description: "Licenciatura gratuita en Ciencia y Tecnología de Lácteos de UTEC, única en Uruguay. Procesamiento e industrialización de leche y productos lácteos. Semipresencial en La Paz, Colonia. Título intermedio de Tecnólogo."
+tags:
+  - alimentos
+  - ciencia-y-tecnologia-de-alimentos
+  - industria-alimentaria
+  - lacteos
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La **Licenciatura en Ciencia y Tecnología de Lácteos** es una carrera única en el país en la que los y las estudiantes pueden adquirir y perfeccionar competencias profesionales y transversales que les permiten jugar un rol protagónico en el dinámico mundo del **procesamiento e industrialización de leche y productos lácteos**, desarrollando una visión integrada de los sistemas productivos para mejorar la aptitud tecnológica de la leche y sus derivados.
+
+La carrera brinda una formación integral teórico-práctica desde un enfoque por competencias. Los y las estudiantes tienen la posibilidad de desarrollar nuevos productos, trabajar con diversas matrices y aplicar los conocimientos teóricos a los problemas existentes en esta área productiva.
+
+El objetivo general es formar profesionales especializados en ciencia y tecnología de lácteos que puedan atender las necesidades del sector productivo del país y de la región, considerando las necesidades actuales y crecientes de los consumidores en cuanto a aspectos nutricionales, de conveniencia, sensoriales y éticos.
+
+### Modalidad
+
+Las clases se dictan de lunes a viernes de **16:30 a 20:30 hs**, con prácticos presenciales y teóricos virtuales, en la sede de La Paz, Colonia. La carrera cuenta con instalaciones y equipamiento de primer nivel para docencia e investigación.
+
+### Título Intermedio
+
+La propuesta cuenta con un título intermedio de **Tecnólogo/a en Ciencia y Tecnología de Lácteos**, que permite a los estudiantes ingresar al mercado laboral con una titulación mientras continúan con la licenciatura.
+
+### Competencias del Egresado
+
+**Egresados del Tecnólogo** serán competentes para:
+
+- Gestionar y asesorar emprendimientos existentes en la mejora de productos y procesos tecnológicos utilizados en la industria láctea.
+- Conocer y manejar los procesos que se utilizan en la industria láctea.
+- Controlar la calidad e inocuidad de los productos lácteos y de los insumos utilizados para su elaboración.
+- Seleccionar y ejecutar las técnicas analíticas que se llevan a cabo para analizar los productos lácteos.
+
+**Egresados de la Licenciatura** serán competentes para:
+
+- Gestionar, implementar y asesorar emprendimientos del sector lácteo.
+- Diseñar, desarrollar, mejorar y optimizar productos y procesos tradicionales y/o innovadores para la industria láctea.
+- Controlar la calidad e inocuidad de los productos lácteos y de los insumos utilizados en su elaboración.
+- Asegurar la calidad, inocuidad y vida útil de los productos desde su producción hasta su consumo.
+- Garantizar que los procesos productivos se desarrollen en el marco de la sostenibilidad económica y ambiental.
+
+### Salida Laboral
+
+- Industria láctea
+- Control de calidad e inocuidad
+- I+D en productos lácteos
+- Emprendimientos en el sector lácteo
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados de Educación Media Superior del Consejo de Educación Secundaria (CES) en todas las diversificaciones.
+- Egresados de Educación Media Superior de la Dirección General de Educación Técnico Profesional (DGETP-UTU).
+- Esta carrera ofrece **continuidad de estudios** para egresados de: Tecnicatura en Industrias Lácteas (DGETP-UTU), Tecnólogo en Manejo de Sistemas de Producción de Leche (DGETP-UTU/UTEC), Tecnólogo Químico (DGETP-UTU/Udelar/UTEC) y Licenciatura en Análisis Alimentario (UTEC), permitiéndoles titularse al culminar entre dos y seis semestres según el caso.
+- Estudiantes avanzados de carreras terciarias y/o universitarias del área (procedimiento de convalidación).
+- Podrán preinscribirse los estudiantes del CIO en Ciencia y Tecnología de la UdelaR (Cenur Litoral Norte) con al menos 50 créditos aprobados.
+
+### Proceso de Preinscripción
+
+Las preinscripciones a las carreras de grado de UTEC inician generalmente en el mes de noviembre y se realizan a través de un formulario web. La documentación necesaria es la siguiente:
+
+- Cédula de identidad
+- Carné de salud vigente o constancia de que se encuentra en trámite
+- Pase de Enseñanza Media Superior (fórmula 69A de bachillerato o constancia de egreso del CES o DGETP-UTU)
+- Carta de motivación
+- Constancia de voto
+
+**Ingreso con asignaturas pendientes:** se permite que estudiantes con hasta tres asignaturas pendientes de Educación Media Superior se preinscriban e ingresen, debiendo acreditar la finalización total antes del 31 de julio del año de inicio de la carrera.
+
+En el caso de aquellas carreras que no poseen límite de cupos para el ingreso o cuyos cupos no son superados en el primer período de preinscripciones, se abre una nueva instancia en el período enero-febrero.

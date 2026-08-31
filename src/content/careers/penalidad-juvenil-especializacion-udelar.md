@@ -1,0 +1,72 @@
+---
+title: "Especialización en Penalidad Juvenil"
+similar:
+  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
+  - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
+  - postgrado-en-derecho-penal-economico-um
+  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
+  - maestria-en-ciencias-criminologico-forenses-ude
+  - abogacia-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=85"
+location: "Facultad de Ciencias Sociales"
+description: "Contribuir al tratamiento académico de la penalidad juvenil y a la formación de los profesionales vinculados y/o interesados en este campo temático, desde una perspectiva multidisciplinaria, asentada en la participación conjunta de diversos servicios universitarios."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - derecho
+  - derecho-penal
+  - ninos-y-adolescentes
+  - justicia-juvenil
+  - ciencias-sociales
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=85'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=85'
+---
+
+## Resumen
+
+### Objetivo
+
+Contribuir al tratamiento académico de la penalidad juvenil y a la formación de los profesionales vinculados y/o interesados en este campo temático, desde una perspectiva multidisciplinaria, asentada en la participación conjunta de diversos servicios universitarios.
+
+### Referentes académicos
+
+SANDRA LEOPOLD
+
+### Docentes
+
+Coordinación: Sandra Leopold Costábile y Carolina González Laurino Asistencia a la coordinación: Daniel Fessler Luis Eduardo Morás Daniel Díaz Martín Fernández Daniel Fessler Raquel Galeotti Carolina González Laurino Sandra Leopold Costábile Laura López Gallego Cecilia Montes
+
+## Ingreso
+
+### Reglamento
+
+El Diploma en penalidad juvenil constituye una propuesta de formación de posgrado que persigue como objetivo contribuir a la formación de profesionales vinculados al sistema penal juvenil (segmento judicial y ejecutivo) y organizaciones de la sociedad civil especializadas en la temática (organizaciones que trabajan en la ejecución de medidas no privativas de libertad y en la promoción y defensa de los derechos humanos). Tiene su fundamentación en la relevancia social que la temática adquiere en los últimos años en el país, así como en el lugar protagónico que la Universidad de la República está dispuesta a ocupar a los efectos de contribuir al estudio y a la búsqueda de soluciones de los problemas que, como éste, se definen de interés general. Esta formación de posgrado cuenta con el aval de UNICEF y la Casa Bertolt Brecht, previéndose la cooperación y el intercambio a los efectos de ampliar el plantel docente que implementará la propuesta con invitados extranjeros.
+
+### Requisitos de Ingreso
+
+POR EL MOMENTO NO HAY PERIODO DE POSTULACIÓN Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/ Por mas información sobre el posgrado: https://cienciassociales.edu.uy/diploma-en-penalidad-juvenil/
+
+## Plan de Estudio
+
+### Programa
+
+Organización curricular El Diploma cuenta con 9 asignaturas (ocho de 20 horas cada una y una de 10 horas) distribuidas en tres módulos temáticos (socio jurídico, socio histórico y cultural e intervenciones profesionales) y un seminario interdisciplinario (70 horas) que transversaliza los contenidos curriculares trabajados a lo largo de la especialización y brinda orientaciones metodológicas para la elaboración de la monografía final. Supone un año curricular de cursado de las asignaturas y el seminario interdisciplinario (240 horas, 48 créditos) que culminará con el trabajo de tutoría que orientará la monografía que constituirá el producto individual del egresado (100 horas, 20 créditos). Para la obtención del Diploma, se deberá registrar un total de 67 créditos, habiendo cumplido con el 80% de asistencia a clase en cada curso, aprobación de tres evaluaciones al finalizar cada módulo y la monografía final. Por más información: https://cienciassociales.edu.uy/diploma-en-penalidad-juvenil/
+
+### Unidades curriculares
+
+Módulo: Socio- Jurídico: Problemas sociales y control socio-juridico de la adolescencia Criminología y adolescencia Políticas de seguridad, Rafael Paternain 20 4 3 paradigmas de gestión y adolescentes Las adolescentes y el sistema de justicia Penal Juvenil Adolescencia, delito y castigo en perspectiva sociohistórica Etnografía de la adolescencia y las juventudes en Uruguay y América Latina: violencias, protecciones integrales y resistencias Adolescentes mujeres y sistema penal juvenil Los discursos expertos en la valoración de la infracción adolescente Justicia Juvenil y Prácticas Restaurativas Seminario interdisciplinarias Monografía

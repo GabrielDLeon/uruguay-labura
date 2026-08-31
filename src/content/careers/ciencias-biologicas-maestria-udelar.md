@@ -1,0 +1,59 @@
+---
+title: "Maestría en Ciencias Biológicas"
+similar:
+  - ciencias-biologicas-doctorado-udelar
+  - licenciatura-en-ciencias-biologicas-udelar
+  - licenciatura-en-biotecnologia-udelar
+  - licenciatura-biologia-humana-udelar
+  - genetica-medica-adultos-especializacion-udelar
+  - biotecnologia-maestria-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=46"
+location: "Facultad de Ciencias, Montevideo"
+description: "En el marco del Reglamento General de las Maestrías del PEDECIBA, la Maestríaconstituye un primer nivel de afianzamiento y profundización en unárea del conocimiento, con carácter de posgrado. Sigue a una etapa previa deformación básica y general y procura, principalmente, la satisfacción de lossiguientes objetivos:a) familiarización con el manejo activo y creativo del conocimientob) complementación de conocimientosc) perfeccionamiento de la capacidad para"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - biologia
+  - ciencias-naturales
+  - biologia-molecular
+  - genetica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=46'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=4&idPosgrado=46'
+---
+
+## Resumen
+
+### Objetivo
+
+En el marco del Reglamento General de las Maestrías del PEDECIBA, la Maestría constituye un primer nivel de afianzamiento y profundización en un área del conocimiento, con carácter de posgrado. Sigue a una etapa previa de formación básica y general y procura, principalmente, la satisfacción de los siguientes objetivos: a) familiarización con el manejo activo y creativo del conocimiento b) complementación de conocimientos c) perfeccionamiento de la capacidad para la transmisión de conocimientos
+
+### Referentes académicos
+
+Dra. Patricia Lagos (Coordinadora), DRA. Astrid Agorio (Coordinadora alterna)
+
+## Ingreso
+
+### Reglamento
+
+https://www.pedeciba.edu.uy/es/reglamento/reglamento-de-posgrado-en-ciencias-biologicas/
+
+## Plan de Estudio
+
+### Programa
+
+Se arma de acuerdo al tema de tesis elegido por el estudiante, en conjunto con su Director de tesis y se aprueba por la SIS.

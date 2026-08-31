@@ -1,0 +1,176 @@
+---
+title: "Analista en Marketing Digital y Comercio Electrónico"
+similar:
+  - analista-en-marketing-digital-ude
+  - analista-en-marketing-ude
+  - licenciatura-en-negocios-digitales-um
+  - licenciatura-en-negocios-digitales-ort
+  - licenciatura-en-comunicacion-y-marketing-ucu
+  - analista-en-publicidad-y-comunicacion-digital-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Administración y Negocios"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://facs.ort.edu.uy/analista-en-marketing-digital-y-comercio-electronico"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Analista en Marketing Digital y Comercio Electrónico forma personas capaces de implementar y potenciar la transformación digital de las organizaciones."
+tags:
+  - marketing
+  - marketing-digital
+  - comercio-electronico
+  - transformacion-digital
+  - negocios-digitales
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://facs.ort.edu.uy/analista-en-marketing-digital-y-comercio-electronico'
+  - label: 'Plan de estudios'
+    url: 'https://facs.ort.edu.uy/analista-en-marketing-digital-y-comercio-electronico/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Analista en Marketing Digital y Comercio Electrónico forma personas capaces de implementar y potenciar la transformación digital de las organizaciones.
+
+- Experiencias de trabajo para aplicar conocimientos en situaciones reales
+- Preparación para una variedad de roles en el campo digital y del e-commerce
+- Formación relevante en las habilidades más demandadas por el mercado
+
+La carrera forma profesionales capaces de implementar y potenciar la transformación digital que requieren actualmente los negocios.
+
+Con una fuerte base en las disciplinas de marketing, desarrolla el conocimiento y la práctica en las principales herramientas del marketing digital y del comercio electrónico para acelerar el crecimiento de cualquier empresa u organización en un mundo conectado y global.
+
+El programa de estudios tiene un enfoque práctico, orientado al desarrollo de soluciones para mercados cada vez más dinámicos y desafiantes, tomando casos de empresas reales, y realizando actividades con estas, lo que permite probar los conocimientos y herramientas vistos en clase.
+
+Hoy más que nunca, contar con conocimientos de marketing y comercio electrónico es algo muy valioso para el currículum de cualquier persona que desee ingresar al mercado laboral, expandir sus posibilidades o iniciar su propio emprendimiento.
+
+Además, la carrera le brinda habilidades y competencias claves como la resolución de problemas, el trabajo en equipo, la creatividad y la adaptabilidad.
+
+¡Inscribite hoy y destacá en tu carrera profesional!
+
+### Título Intermedio
+
+Asistente de Marketing
+
+### Títulos y Reconocimientos
+
+Al aprobar todas las materias del primer año de la carrera, los estudiantes obtienen el título intermedio de Asistente de Marketing. Una vez aprobadas todas las materias que componen los dos años de carrera, los estudiantes alcanzan el título de Analista en Marketing Digital y Comercio Electrónico.
+
+### Modalidad
+
+Presencial o semipresencial Todas las materias presenciales se pueden seguir en forma remota por HyFlex®. Con solo un clic, quienes optan por seguir las aulas en forma remota visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 2 años. Horarios de clase Matutino (para el comienzo de marzo): tres días a la semana, entre el lunes y el jueves, de 8:30 a 11:00. Nocturno (para los comienzos de marzo y agosto): tres días a la semana, entre el lunes y el jueves, de 19:30 a 22:00. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Educación Media Superior (EMS) completa. Esta carrera admite el ingreso condicional con hasta tres previas (por un año).
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Marketing de demanda**
+
+Introduce en el pensamiento y la filosofía del Marketing. Capacita en el proceso de identificación de insights accionables del consumidor y cómo este toma decisiones de compra en el customer journey. Se enfoca en la segmentación del mercado y selección del target.
+
+**Fundamentos de marketing digital y venta online**
+
+Trabaja la digitalización del marketing desde la comprensión del consumer journey. Presenta las principales herramientas e indicadores del marketing y venta online.
+
+**Planillas electrónicas para marketing**
+
+Entrena en el uso de planillas electrónicas y tablas dinámicas para analizar datos de marketing y presupuestación de proyectos.
+
+**Negociación y ventas en el mundo digital**
+
+Capacita en técnicas de negociación, comunicación y ventas en formato presencial y plataformas digitales. Entrena en la escucha activa, manejo de objeciones, asesoramiento y apoyo en el proceso de compra.
+
+#### 2.° Semestre
+
+**Marketing de oferta**
+
+Trabaja en el proceso de segmentación, elección del público objetivo y la propuesta de posicionamiento competitivo. Aborda las 4P del marketing mix: producto, precio, plaza, promoción alineados con dicho posicionamiento.
+
+**Comprensión del consumidor y su experiencia**
+
+Trabaja la metodología para investigar y comprender los intereses y preocupaciones de los consumidores, desde la definición de los objetivos hasta la interpretación de resultados. Se enfoca en describir la satisfacción y experiencia del consumidor con la marca para mejorarla.
+
+**Comunicaciones online y offline**
+
+Capacita en la definición del problema de comunicación a partir del plan de marketing. Aborda el plan publicitario -online y offline- en cuatro etapas: público meta, objetivos, mensaje-tono-medio, feedback.
+
+### 2.° año
+
+#### 3.er semestre
+
+**Ecommerce y venta automatizada**
+
+Comprende los elementos de diseño de un ecommerce, las plataformas, medios de pago, logística y personas.
+
+**Omnicanalidad y gestión de canales de venta**
+
+Trabaja el diseño de los canales y formatos de venta para facilitar el acceso al producto o servicio en un contexto de compra omnicanal. Integra tecnologías de ventas físicas, digitales e híbridas.
+
+**Marketing digital en buscadores**
+
+Comprende las estrategias de SEO y SEM para lograr captación, conversión y fidelización de clientes a través de herramientas como retargeting, ads, emailing y bases de datos y A/B testing.
+
+**Materias electivas**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Gestión de la experiencia del cliente Gestión de marketing de servicios Gestión de precios y promociones Indicadores para la gestión comercial Marketing digital y publicidad turística Trade marketing y gestión de categorías
+
+#### 4.º semestre
+
+**Marketplaces y plataformas**
+
+Se enfoca en cómo utilizar plataformas y marketplaces para optimizar la comercialización de productos y servicios.
+
+**Materias electivas**
+
+Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Gestión de la experiencia del cliente Gestión de marketing de servicios Gestión de precios y promociones Indicadores para la gestión comercial Marketing digital y publicidad turística Trade marketing y gestión de categorías
+
+**Métricas y analítica digital**
+
+Aborda el uso de las principales métricas en los objetivos y estrategias de marketing. Capacita en el uso de Google Analytics y optimización de campañas.
+
+**Marketing de contenidos y redes sociales**
+
+Trabaja la escucha social para comprender intereses de los consumidores y caracteriza las diferentes redes sociales para la comunicación y la venta.

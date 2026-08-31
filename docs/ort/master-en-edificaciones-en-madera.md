@@ -1,0 +1,88 @@
+# Master en Edificaciones en Madera
+
+## Metadata
+
+- Nombre oficial: Master en Edificaciones en Madera
+- Tipo: Maestría
+- Área: Arquitectura
+- Modalidad: Híbrido (presencial con opción virtual HyFlex)
+- Turno: No encontrado
+- Duración: Un año y medio de cursos, además de un Proyecto final (según la página oficial). Nota: el JSON-LD del sitio indica 2 años, hay información contradictoria entre fuentes.
+- Créditos: No encontrado
+- Carga horaria semanal: No encontrado
+- Costo: Arancelado (universidad privada). No se publica el valor en la página oficial.
+- Idioma: Español
+- Sedes / ITR donde se dicta: No especificado en la página oficial de la carrera. La universidad cuenta con dos campus en Montevideo: Campus Centro (Cuareim 1451) y Campus Pocitos (Bulevar España 2633).
+- Cupos: No encontrado
+- Título intermedio: No aplica (no se documenta un título intermedio para este postgrado en la página oficial)
+- Proceso de selección: Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+- Requisitos de ingreso: Los postulantes al Master en Edificaciones en Madera deben ser graduados de carreras universitarias de grado vinculadas a la Arquitectura, la Ingeniería Civil u otras ramas de la Ingeniería. La admisión y selección de candidatos son llevadas a cabo por un Comité Académico de Selección. Este comité evaluará el currículum, trayectoria académica, experiencia profesional e involucramiento social de cada aspirante. Los candidatos podrán ser citados a entrevistas de admisión para complementar la información presentada. Estudiantes del exterior: Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en la bedelía de la Facultad de Arquitectura de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+- Perfil de egreso: Perfil de los graduados Al finalizar el Master en Edificaciones en Madera, el graduado habrá adquirido una formación técnica y práctica avanzada en el diseño, el cálculo, la construcción y la gestión de proyectos que empleen la madera como material estructural. Será capaz de dominar el diseño arquitectónico y la construcción empleando distintos sistemas constructivos en madera, desarrollar proyectos de edificación industrializada en madera, evaluar impactos ambientales asociados al ciclo de vida de los proyectos y gestionar integralmente proyectos de arquitectura en madera, desde la planificación hasta la ejecución y supervisión. Los conocimientos adquiridos serán de aplicación tanto en el ámbito de la arquitectura como en el de la ingeniería y la industria de la construcción sostenible.
+- Salida laboral: Perfil de los graduados Al finalizar el Master en Edificaciones en Madera, el graduado habrá adquirido una formación técnica y práctica avanzada en el diseño, el cálculo, la construcción y la gestión de proyectos que empleen la madera como material estructural. Será capaz de dominar el diseño arquitectónico y la construcción empleando distintos sistemas constructivos en madera, desarrollar proyectos de edificación industrializada en madera, evaluar impactos ambientales asociados al ciclo de vida de los proyectos y gestionar integralmente proyectos de arquitectura en madera, desde la planificación hasta la ejecución y supervisión. Los conocimientos adquiridos serán de aplicación tanto en el ámbito de la arquitectura como en el de la ingeniería y la industria de la construcción sostenible.
+- Becas disponibles: Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante. La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+- Página oficial: https://fa.ort.edu.uy/master-en-edificaciones-en-madera
+
+## Resumen
+
+Formate como profesional en construcción en madera. Dominá el diseño, la evaluación de impactos ambientales, el uso de energías renovables y más.
+
+- Construí el futuro con el material más versátil del siglo XXI: la madera
+- Liderá en sostenibilidad, innovación y eficiencia energética en la construcción
+- Desarrollá tus habilidades de liderazgo y gestión de proyectos de arquitectura en madera
+- Desarrollar competencias avanzadas en sistemas constructivos de madera.
+- Capacitar en la industrialización de la construcción en madera.
+- Fomentar la evaluación de impactos ambientales asociados al ciclo de vida de los proyectos en madera.
+- Desarrollar habilidades de liderazgo y gestión de proyectos de construcción en madera.
+- Promover la innovación arquitectónica, la arquitectura en madera y el diseño sostenible utilizando la madera como material central.
+- Porque en el mundo de hoy, en permanente cambio, los desafíos que enfrentan los diferentes actores que operan en el sector de la construcción sostenible son cada vez más complejos.
+- Porque la madera es un material renovable que contribuye a la mitigación del cambio climático, siendo clave en la construcción sostenible.
+- Porque la industrialización y prefabricación en madera permiten mejorar la eficiencia en los procesos constructivos, reduciendo costos y tiempos de ejecución.
+- Porque se requiere una mayor especialización, actualización y complementación de los conocimientos profesionales en el uso de la madera en la construcción para liderar proyectos innovadores y sostenibles.
+
+El Master en Edificaciones en Madera es un programa académico de la Facultad de Arquitectura de la Universidad ORT Uruguay.
+
+Está enfocado en formar profesionales altamente capacitados en el diseño, construcción y gestión de proyectos que utilizan la madera como material estructural, respondiendo a las necesidades actuales del mercado en cuanto a sostenibilidad, innovación y eficiencia energética en la construcción.
+
+El master capacitará a los profesionales para:
+
+Para obtener la titulación, el estudiante deberá cursar y aprobar todas las materias obligatorias que integran los ejes de conocimiento del programa, así como presentar y aprobar el Proyecto Final.
+
+Es un programa dirigido a arquitectos, ingenieros civiles y profesionales de otras ramas de la ingeniería.
+
+¿Por qué un Master en Edificaciones en Madera?
+
+## Plan de Estudio
+
+1.er bimestre Sector forestal y transformación mecánica de la madera El curso tiene como propósito que los participantes comprendan el proceso de transformación mecánica de la madera en productos para la construcción , evaluando tanto sus fortalezas como sus desafíos en términos de durabilidad ante factores bióticos y abióticos. A través de un enfoque práctico, se exploran las características de los recursos forestales disponibles a nivel global y nacional, y se analizan los procesos de secado y protección, esenciales para asegurar la calidad y longevidad del material. Productos y sistemas estructurales de madera Esta asignatura tiene como objetivo que los participantes comprendan en profundidad las propiedades estructurales de la madera y los productos de ingeniería de madera para aplicaciones constructivas. Se abordan los aspectos físicos, mecánicos y químicos del material, así como los métodos de caracterización y los ensayos que determinan su idoneidad estructural. Además, se exploran las técnicas para la durabilidad y protección de la madera y se introducen los sistemas estructurales utilizados en la construcción moderna, con un enfoque en las tendencias internacionales en arquitectura de madera. 2.o bimestre Sistemas constructivos y física de la construcción A través de un enfoque práctico y técnico, este curso capacita a los estudiantes en la selección y análisis de sistemas constructivos en madera , con énfasis en los detalles que determinan la eficiencia energética, el confort y la protección contra incendios. Además, se examinan los principios de acondicionamiento acústico y térmico, así como las soluciones constructivas necesarias para enfrentar los desafíos ambientales y climáticos en edificios de madera . Diseño estructural en madera 1 Introduce a los estudiantes en el diseño y cálculo de estructuras de madera de mediano y gran porte , abordando sistemas de pilar-viga y madera laminada cruzada (CLT). Se centra en los principios de cálculo estructural según el método de los estados límite, con referencia al Eurocódigo 5, y explora criterios de diseño que garantizan la seguridad y durabilidad en condiciones extremas, incluyendo resistencia al fuego. 3.er bimestre Anteproyecto de arquitectura en madera Taller que desafía a los estudiantes a desarrollar anteproyectos avanzados que exploren la versatilidad de la madera como material arquitectónico, enfocándose en su potencial para crear espacios habitables y sostenibles . A través del análisis de propiedades estructurales y constructivas, se fomenta una comprensión profunda de la madera y sus derivados, brindando herramientas esenciales para integrar sistemas constructivos en proyectos de alto rendimiento energético y bajo impacto ambiental. Energías renovables Esta asignatura proporciona a los estudiantes las competencias para diseñar y calcular instalaciones de energías renovables aplicadas a proyectos arquitectónicos . Se exploran fuentes como la solar, eólica, biomasa y geotérmica, considerando tanto la generación de energía térmica como eléctrica. A través de un enfoque práctico, los participantes aprenden a integrar soluciones sostenibles que optimizan la eficiencia energética en el diseño arquitectónico, contribuyendo a una arquitectura de bajo impacto ambiental. 4.o bimestre Evaluación y cuantificación de los impactos ambientales Enfocado en una arquitectura sostenible, este curso permite a los estudiantes analizar los efectos ambientales de los sistemas constructivos en madera mediante herramientas como el Análisis del Ciclo de Vida (ACV) y la Huella de Carbono (HC). A través de técnicas precisas para cuantificar impactos, se busca integrar criterios de evaluación ambiental en el diseño, promoviendo edificaciones de menor impacto ecológico y alineadas con las normas internacionales. Diseño estructural en madera 2 Con un enfoque en los entramados ligeros, este curso guía a los estudiantes en el diseño y cálculo de estructuras de madera para edificaciones de pequeña escala y edificios de hasta seis niveles . Se profundiza en los principios del Eurocódigo 5, cubriendo aspectos clave como el comportamiento estructural, la resistencia al viento y el diseño de uniones, orientando a los participantes hacia soluciones seguras y eficientes para construcciones en altura. 5.o a 8.o bimestre Industrialización de la construcción en madera Este curso prepara a los estudiantes para liderar la transformación de la industria de la construcción a través de la industrialización en madera, posicionándola como un recurso clave en la modernización del sector. Con un enfoque multidisciplinario, los participantes adquieren competencias para desarrollar proyectos industrializados que integren innovación, sostenibilidad y eficiencia, promoviendo un cambio fundamental en las prácticas tradicionales de construcción. Proyecto Final E sta asignatura práctica culmina el programa mediante la realización de un proyecto estructural en madera, integrando todos los conocimientos adquiridos . Los estudiantes desarrollan una propuesta completa que incluye desde el diseño y cálculo estructural hasta la planificación y metodología de montaje, aplicando herramientas avanzadas de análisis y diseño para consolidar una visión integral del proceso constructivo .
+
+## Requisitos de ingreso (detalle)
+
+Los postulantes al Master en Edificaciones en Madera deben ser graduados de carreras universitarias de grado vinculadas a la Arquitectura, la Ingeniería Civil u otras ramas de la Ingeniería. La admisión y selección de candidatos son llevadas a cabo por un Comité Académico de Selección. Este comité evaluará el currículum, trayectoria académica, experiencia profesional e involucramiento social de cada aspirante. Los candidatos podrán ser citados a entrevistas de admisión para complementar la información presentada. Estudiantes del exterior: Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en la bedelía de la Facultad de Arquitectura de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+## Modalidad de cursado (detalle)
+
+El Master en Edificaciones en Madera se dicta en forma presencial con aula expandida – HyFlex®. HyFlex® es una experiencia educativa híbrida y flexible que permite a los estudiantes su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las principales evaluaciones se realizan en forma presencial.
+
+## Duración y horarios (detalle)
+
+Duración Un año y medio de cursos, además de un Proyecto final. Se puede cursar hasta en 3 años. Horarios de clase Lunes, martes y jueves, de 18:30 a 22:30 h. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+## Títulos y reconocimientos
+
+El título de Master en Edificaciones en Madera se encuentra en trámite de reconocimiento por el Ministerio de Educación y Cultura.
+
+## Requisito de graduación
+
+Al finalizar las materias previstas en el plan de estudios, el estudiante debe elaborar un proyecto final donde consolida los conocimientos adquiridos a lo largo del programa.
+
+## Becas (detalle)
+
+La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
+
+## Fuentes
+
+- [Página oficial de la carrera](https://fa.ort.edu.uy/master-en-edificaciones-en-madera)
+- [Plan de estudios](https://fa.ort.edu.uy/master-en-edificaciones-en-madera/plan-de-estudios)
+- [Listado de postgrados](https://www.ort.edu.uy/postgrados)
+- [Información de becas](https://www.ort.edu.uy/becas/becas-para-postgrados)
+- [Universidad ORT Uruguay](https://www.ort.edu.uy)

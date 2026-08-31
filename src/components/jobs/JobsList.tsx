@@ -1,12 +1,14 @@
 import { Icon } from "@iconify/react/offline";
 
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
+import SaveButton from "@/components/jobs/SaveButton";
+import ShareButton from "@/components/jobs/ShareButton";
+import { formatDateShort, formatRelative } from "@/lib/dates";
+
 import {
   MAX_TITLE_LENGTH,
-  formatDate,
-  formatRelative,
   shorten,
-  statusClass,
+  statusVariant,
 } from "@/components/jobs/jobs";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
@@ -25,11 +27,11 @@ export default function JobsList({ jobs }: Props) {
               href={job.detailUrl}
               target="_blank"
               rel="noreferrer"
-              className="badge-outline"
+  className="badge" data-variant="outline"
             >
               {job.callNumber}
             </a>
-            <span className={statusClass(job.status)}>{job.status}</span>
+            <span className="badge" data-variant={statusVariant(job.status)}>{job.status}</span>
             {job.isNew ? <span className="badge">Nuevo</span> : null}
           </header>
           <section>
@@ -53,7 +55,7 @@ export default function JobsList({ jobs }: Props) {
                   className="shrink-0"
                   aria-hidden="true"
                 />
-                Apertura: {formatDate(job.openingDate)}
+                Apertura: {formatDateShort(job.openingDate)}
               </span>
               <span className="inline-flex items-center gap-1">
                 <Icon
@@ -69,9 +71,9 @@ export default function JobsList({ jobs }: Props) {
               <span>Inciso: {job.inciso ?? "Sin dato"}</span>
             </div>
           </section>
-          <footer>
+          <footer className="flex items-center gap-2">
             <a
-              className="btn btn-sm inline-flex items-center gap-1"
+  className="btn" data-size="sm"
               href={job.applyUrl ?? job.detailUrl}
               target="_blank"
               rel="noreferrer"
@@ -85,6 +87,13 @@ export default function JobsList({ jobs }: Props) {
                 aria-hidden="true"
               />
             </a>
+            <span className="ml-auto flex items-center gap-0.5">
+              <SaveButton jobId={job.id} />
+              <ShareButton
+                url={job.applyUrl ?? job.detailUrl}
+                title={job.title}
+              />
+            </span>
           </footer>
         </article>
       ))}

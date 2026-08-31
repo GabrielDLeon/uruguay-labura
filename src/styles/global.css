@@ -1,9 +1,10 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 @import "basecoat-css";
+@import "@fontsource-variable/inter/wght.css";
 
 @theme {
-  --font-sans: "Inter", "Inter Fallback", sans-serif;
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
 }
 
 :root {
@@ -39,7 +40,7 @@
   --pagefind-ui-border-width: 2px;
   --pagefind-ui-border-radius: 0.5rem;
   --pagefind-ui-image-border-radius: 0.5rem;
-  --pagefind-ui-font: "Inter", "Inter Fallback", sans-serif;
+  --pagefind-ui-font: "Inter Variable", sans-serif;
   --map-highlight: #ef4444;
   --map-default: #e5e7eb;
   --map-stroke: #f5f5f5;
@@ -86,19 +87,110 @@
 
 body {
   min-height: 100vh;
+  font-family: 'Inter Variable', sans-serif;
 }
 
-#search-trigger {
-  cursor: pointer;
+#search-dialog-input::-webkit-search-cancel-button,
+#search-dialog-input::-webkit-search-decoration {
+  display: none;
 }
 
-.command-dialog [role="menuitem"] {
-  white-space: normal;
-  align-items: flex-start;
+#search-dialog-input {
+  -moz-appearance: none;
+  appearance: none;
 }
 
-.command-dialog [role="menuitem"] .truncate {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+#search-dialog::backdrop {
+  background: rgb(0 0 0 / 0.3);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+#search-results[data-empty] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 6rem;
+}
+
+#search-results[data-empty]::before {
+  content: attr(data-empty);
+  font-size: 0.875rem;
+  color: var(--muted-foreground);
+}
+
+#search-results [role="option"].active {
+  background: var(--accent);
+}
+
+#search-results [role="option"].active .badge--carrera,
+#search-results [role="option"].active .badge--institucion,
+#search-results [role="option"].active .badge--beca,
+#search-results [role="option"].active .badge--pagina {
+  opacity: 1;
+}
+
+/* Tinted badges (custom, not in Basecoat) */
+.badge--carrera,
+.badge--institucion,
+.badge--beca,
+.badge--pagina,
+.badge[data-variant="success"] {
+  --badge-tint: var(--color-blue-600);
+  --badge-fg: var(--color-blue-700);
+  background: color-mix(in oklch, var(--badge-tint) 15%, transparent);
+  color: var(--badge-fg);
+  border-color: color-mix(in oklch, var(--badge-tint) 30%, transparent);
+}
+
+.badge--carrera,
+.badge--institucion,
+.badge--beca,
+.badge--pagina {
+  border-radius: 9999px;
+}
+
+.badge--institucion {
+  --badge-tint: var(--color-amber-600);
+  --badge-fg: var(--color-amber-700);
+}
+
+.badge--beca {
+  --badge-tint: var(--color-violet-600);
+  --badge-fg: var(--color-violet-700);
+}
+
+.badge--pagina {
+  --badge-tint: var(--color-orange-600);
+  --badge-fg: var(--color-orange-700);
+}
+
+.badge[data-variant="success"] {
+  --badge-tint: var(--color-green-600);
+  --badge-fg: var(--color-green-700);
+}
+
+.dark .badge--carrera {
+  --badge-tint: var(--color-blue-400);
+  --badge-fg: var(--color-blue-300);
+}
+
+.dark .badge--institucion {
+  --badge-tint: var(--color-amber-400);
+  --badge-fg: var(--color-amber-300);
+}
+
+.dark .badge--beca {
+  --badge-tint: var(--color-violet-400);
+  --badge-fg: var(--color-violet-300);
+}
+
+.dark .badge--pagina {
+  --badge-tint: var(--color-orange-400);
+  --badge-fg: var(--color-orange-300);
+}
+
+.dark .badge[data-variant="success"] {
+  --badge-tint: var(--color-green-400);
+  --badge-fg: var(--color-green-300);
 }

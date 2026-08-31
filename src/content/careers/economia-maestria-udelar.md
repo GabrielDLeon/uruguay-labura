@@ -1,0 +1,74 @@
+---
+title: "Maestría en Economía"
+similar:
+  - economia-fcs-especializacion-udelar
+  - licenciatura-en-economia-um
+  - economia-para-no-economistas-especializacion-udelar
+  - licenciatura-en-economia-udelar
+  - maestria-en-economia-um
+  - licenciatura-en-economia-ort
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Social y Artística"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=80"
+location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
+description: "El objetivo general al que apunta esta propuesta es completar la formación superior ofrecida por la FCEA en el área de Economía, con un nivel cuaternario que permita a los graduados en esa disciplina disponer de los mayores niveles de calidad y cobertura curricular a los que se pueda acceder en el país y estar en condiciones de ingresar directamente en cursos de doctorado en el exterior, o en los futuros que se organicen en Uruguay."
+startDate: ""
+applicationDeadline: ""
+tags:
+  - economia
+  - analisis-economico
+  - politica-economica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=80'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=80'
+---
+
+## Resumen
+
+### Objetivo
+
+El objetivo general al que apunta esta propuesta es completar la formación superior ofrecida por la FCEA en el área de Economía, con un nivel cuaternario que permita a los graduados en esa disciplina disponer de los mayores niveles de calidad y cobertura curricular a los que se pueda acceder en el país y estar en condiciones de ingresar directamente en cursos de doctorado en el exterior, o en los futuros que se organicen en Uruguay.
+
+### Perfil de egreso
+
+La formación del magíster habilitará para la realización de un abanico de actividades en un conjunto de áreas que involucran la actividad docente, de investigación y en forma subsidiaria también la profesional. En tanto la Licenciatura en Economía brinda una formación básica para ejercer , entre otras, funciones de análisis, asesoramiento, investigación y enseñanza de pregrado, la Maestría tiene como objetivo el abordaje de tópicos más cercanos a la frontera del conocimiento en cada una de las áreas académicas, así como una formación más completa para el desempeño académico especializado. Las actividad es que el magíster podrá desarrollar con mayor nivel de profundidad y especialización que el licenciado, son las siguientes: 1. Realización de labores académicas de investigación y enseñanza, pudiendo desarrollarlas en forma autónoma y dirigiendo equipos de trabajo. En este sentido estará en condiciones de desarrollar: Análisis de la coyuntura macroeconómica nacional, regional e internacional atendiendo al comportamiento de los mercados de bienes y servicios, de trabajo, monetarios, financieros, cambiarios y externos. Análisis de la dinámica de largo plazo, o sea, del proceso de evolución económica del país en términos de desarrollo económico-social a nivel global y sectorial en los ámbitos técnico-productivos, de empleo, de distribución del ingreso, de intercambio, de consumo y monetario-financieros. Evaluación de las políticas públicas en los ámbitos social, tributario, de servicios públicos, monetario, crediticio, cambiario y de ingresos, y en los sectores agropecuario, industrial, bancario, comercial, del transporte, energético, y de otros servicios, etc. Encargarse de cursos de economía teórica global o especializada a nivel de grado y formar parte de los respectivos equipos docentes en el ámbito de los posgrados. Formar parte de equipos interdisciplinarios dedicados a investigar los problemas relevantes de la sociedad uruguaya. 2. Realización de tareas profesionales en el ámbito público y privado que impliquen actividades de investigación, diagnóstico y planteo de soluciones a los problemas detectados.
+
+### Referentes académicos
+
+Prof. Rodrigo Ceni
+
+### Docentes
+
+Plantel Docente Permanente: https://fcea.udelar.edu.uy/plantel-docente/plantel-docente-permanente.html Plantel Docente Visitante: https://fcea.udelar.edu.uy/plantel-docente/plantel-docente-visitante.html
+
+## Ingreso
+
+### Reglamento
+
+REGLAMENTO Se podrá acceder por el link: https://fcea.udelar.edu.uy/plan-de-estudios/reglamento.html
+
+### Requisitos de Ingreso
+
+MAS INFORMACIÓN https://fcea.udelar.edu.uy/inscripciones-y-admision/ingreso-al-programa.html
+
+## Plan de Estudio
+
+### Programa
+
+PROGRAMA / UNIDADES CURRICULARES Se puede acceder al Programa de las asignaturas a travez del link: https://fcea.udelar.edu.uy/calendario-y-cronograma/cronograma-de-materias.html El Programa de Posgrado en Economía brinda un título intermedio denominado Diploma en Economía. Se trata de un diploma de posgrado que corresponde a un certificado intermedio de acreditación de estudios que requiere la obtención de por lo menos 60 créditos en actividades programadas (sin exigencia de tesis).
+
+### Unidades curriculares
+
+Para acceder al Plan de estudios les dejamos el siguiente link: https://fcea.udelar.edu.uy/plan-de-estudios/estructura-del-programa.html

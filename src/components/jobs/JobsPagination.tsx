@@ -66,7 +66,7 @@ export default function JobsPagination({
           <li>
             <button
               type="button"
-              className="btn-sm-ghost"
+              className="btn" data-variant="ghost" data-size="sm"
               disabled={page <= 1}
               onClick={() => onPageChange(page - 1)}
             >
@@ -91,9 +91,9 @@ export default function JobsPagination({
               <li key={p}>
                 <button
                   type="button"
-                  className={
-                    p === page ? 'btn-sm-icon-outline' : 'btn-sm-icon-ghost'
-                  }
+                  className="btn"
+                  data-variant={p === page ? 'outline' : 'ghost'}
+                  data-size="icon-sm"
                   onClick={() => onPageChange(p)}
                 >
                   {p}
@@ -104,7 +104,7 @@ export default function JobsPagination({
           <li>
             <button
               type="button"
-              className="btn-sm-ghost"
+              className="btn" data-variant="ghost" data-size="sm"
               disabled={page >= totalPages}
               onClick={() => onPageChange(page + 1)}
             >

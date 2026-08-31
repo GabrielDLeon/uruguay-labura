@@ -1,26 +1,19 @@
 // @ts-check
-import { defineConfig, fontProviders } from "astro/config";
+import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
 import icon from "astro-icon";
 import pagefind from "astro-pagefind";
-import mdx from "@astrojs/mdx";
-import remarkTabs from "./src/lib/remark-tabs.js";
 import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 
 export default defineConfig({
   site: "https://uruguaylaburos.uy",
-  integrations: [react(), sitemap(), icon(), pagefind(), mdx({ remarkPlugins: [remarkTabs] })],
-  fonts: [
-    {
-      provider: fontProviders.fontsource(),
-      name: "Inter",
-      cssVariable: "--font-inter",
-      weights: [400, 500, 600, 700],
-      styles: ["normal"],
-    },
-  ],
+  integrations: [react(), sitemap(), icon(), pagefind()],
+  experimental: {
+    // Reuse the output of the previous build so unchanged static pages are not rendered again.
+    incrementalBuild: true,
+  },
   vite: {
     plugins: [tailwindcss(), prebuildJobsPlugin()],
     optimizeDeps: {

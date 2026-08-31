@@ -1,0 +1,95 @@
+---
+title: "Licenciatura en Ingeniería de Datos e Inteligencia Artificial"
+short: "Lic. en Ingeniería de Datos e IA"
+similar:
+  - ingenieria-de-datos-e-inteligencia-artificial-um
+  - diploma-en-inteligencia-artificial-aplicada-ude
+  - inteligencia-artificial-y-ciencia-de-datos-ucu
+  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
+  - analista-en-ciberseguridad-ude
+  - maestria-en-robotica-e-inteligencia-artificial-utec
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "licenciatura"
+area: "Tecnologías de la Información"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No informada"
+duration: "4 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial/"
+contactEmail: "secretaria.lidia@utec.edu.uy"
+location: "Rivera (ITR Norte)"
+accreditation: "UTEC"
+description: "Licenciatura gratuita en Ingeniería de Datos e IA de UTEC (LIDIA), presencial en Rivera. Almacenamiento y procesamiento de datos, cloud, IA, IoT y ciberseguridad. Título intermedio de Tecnólogo en Análisis y Gestión de Datos."
+tags:
+  - ciencia-de-datos
+  - inteligencia-artificial
+  - informatica
+  - computacion-en-la-nube
+  - internet-de-las-cosas
+  - ciberseguridad
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Esta carrera ofrece conocimiento especializado con foco en áreas clave que están en constante evolución en el entorno tecnológico: desde el **almacenamiento y procesamiento de datos** a través de la infraestructura en la nube para gestionar altos volúmenes de información, hasta el campo de la **inteligencia artificial** que da vida a sistemas autónomos y predictivos. También explora el universo del **Internet de las Cosas (IoT)**, la **ciberseguridad** y la protección de datos.
+
+A medida que las organizaciones dependen cada vez más del procesamiento y análisis de grandes cantidades de datos para tomar decisiones efectivas, la necesidad de profesionales competentes en estas áreas crece.
+
+### Modalidad
+
+La carrera se dicta en **modalidad presencial en horario diurno**, en la sede de Rivera. Para el primer año, el horario se concentra en el período vespertino (pudiendo realizarse algunas actividades en el horario matutino en caso de ser necesario). Para los años posteriores, se alterna entre el horario matutino y vespertino.
+
+### Título Intermedio
+
+La carrera cuenta con el título intermedio de **Tecnólogo en Análisis y Gestión de Datos** al completar el cuarto semestre.
+
+### Competencias del Egresado
+
+Los egresados de esta carrera serán competentes para:
+
+- Aplicar matemática, estadística, minería de datos y técnicas de creación de modelos predictivos para obtener información, predecir comportamientos y generar valor a partir de los datos.
+- Diseñar, construir, poner en funcionamiento, asegurar y monitorear sistemas de procesamiento y análisis de datos.
+- Desarrollar sistemas que aprendan mediante la experiencia y el uso de datos.
+
+### Salida Laboral
+
+- Ciencia de datos e inteligencia artificial
+- Infraestructura cloud y procesamiento de datos
+- IoT y ciberseguridad
+- Analítica de datos
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Acreditar Educación Media Superior aprobada, en cualquiera de las orientaciones disponibles en el sistema educativo.
+- También podrán ingresar quienes se encuadren en alguna de las previsiones de los Arts. 3, 4 y 5 del Reglamento General de Estudios de la UTEC.
+
+### Proceso de Admisión
+
+Se realizará un **curso de admisión con actividades presenciales** para todos los postulantes, al final del cual se realizará un **examen diagnóstico**. No se requiere aprobar el examen para ingresar a la carrera; sin embargo, su realización y la participación en las actividades presenciales son requisitos indispensables.
+
+### Proceso de Preinscripción
+
+**Postulantes con bachillerato realizado en Uruguay:**
+
+- Cédula de identidad vigente.
+- Carné de salud vigente o constancia de que está en trámite.
+- Pase de la institución correspondiente (Fórmula 69A para CES o Constancia de Egreso para UTU).
+- Constancia de voto.
+
+**Postulantes con bachillerato realizado en el extranjero:**
+
+- Documento de identidad vigente o pasaporte.
+- Carné de salud vigente o constancia de que está en trámite.
+- Comprobante de estudios secundarios finalizados, debidamente apostillado o legalizado. Si no está redactado en español, deberá ser traducido por un traductor público nacional (Ley 15.441).
+
+Las preinscripciones a las carreras de grado de UTEC inician generalmente en el mes de noviembre y se realizan a través de un formulario web.

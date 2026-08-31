@@ -1,0 +1,51 @@
+---
+title: "Bioquímico Clínico"
+similar:
+  - licenciatura-en-bioquimica-udelar
+  - licenciatura-en-laboratorio-clinico-udelar
+  - quimica-farmaceutica-udelar
+  - ciclo-en-biologia-bioquimica-udelar
+  - laboratorio-de-patologia-clinica-especializacion-udelar
+  - quimico-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "carrera"
+area: "Ciencias de la Salud"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fq.edu.uy/?q=es/node/618"
+location: "Facultad de Química; Salto"
+description: "Es un profesional con sólidos conocimientos en análisis clínicos, tanto en lo relativo a las metodologías aplicadas en Bioquímica, Microbiología, Histología, Inmunología y Toxicología como en el conocimiento de la fisiopatología de los seres vivos. El bioquímico clínico estará capacitado para diseñar, desarrollar, planificar, aplicar, reali"
+startDate: ""
+applicationDeadline: ""
+credits: 450
+tags:
+  - quimica
+  - bioquimica
+  - bioquimica-clinica
+  - laboratorio-clinico
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fq.edu.uy/?q=es/node/618'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/bioquimico-clinico'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Es un profesional con sólidos conocimientos en análisis clínicos, tanto en lo relativo a las metodologías aplicadas en Bioquímica, Microbiología, Histología, Inmunología y Toxicología como en el conocimiento de la fisiopatología de los seres vivos. El bioquímico clínico estará capacitado para diseñar, desarrollar, planificar, aplicar, realizar e interpretar las antedichas metodología de laboratorio utilizadas en el estudio de los seres vivos y de su relación con el medio ambiente, así como en la producción de medios y reactivos necesarios para llevar a cabo dichas metodologías. Estos profesionales están capacitados para trabajar en las siguientes áreas: Salud Humana: Obtención de muestras, su procesamiento, realización, interpretación y control de calidad de los análisis clínicos y pruebas funcionales relacionadas con el estado de salud o enfermedad como en el pronóstico, seguimiento terapéutico y prevención de enfermedades. Salud Pública: Integración de equipos multidisciplinarios destinados a la planificación, ejecución y elaboración de campañas sanitarias, programas de sanidad ambiental, prevención de enfermedades y registros de información epidemiológica. Planificación y diseño de la metodología y análisis correspondientes. Control de calidad de reactivos para diagnóstico. Evaluación y control de laboratorios públicos y privados dedicados a esta área. Controles de procesos y esterilización. Toxicología y Bioquímica legal: Análisis de fármacos, metales pesados, gases en muestras biológicas cuya presencia es riesgo de intoxicación y seguimiento de su eliminación. Análisis relacionados con la investigación pericial legal. Biotecnología: Control de procesos de fermentación, producción de metabolitos microbianos útiles y asesoramientos de nuevas tecnologías relacionadas con la bioquímica industrial. Obtención y control de materiales biológicos (vacunas, sueros, derivados sanguíneos, etc.)
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, orientación Científica, opción Ingeniería. Orientación Biológica, opción Medicina o Agronomía. Bachillerato Bicultural (Liceo Alemán). Bachillerato Diversificado Científico, orientación Físico-Matemática, Ciencias Biológicas, Ciencias Agrarias (Plan Reformulación 2006). Bachillerato Ciencias de la Vida y la Salud: opción Salud y Deporte y opción Recursos Naturales y Medio Ambiente (Plan 2003). Egresados DGETP-UTU que cumplan determinadas condiciones, ver requisitos https://www.fq.edu.uy//es/node/60 Se dicta en Montevideo y se puede cursar solo primer año en el Centro Universitario Regional Litoral Norte, sede Salto.

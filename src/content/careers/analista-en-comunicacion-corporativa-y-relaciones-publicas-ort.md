@@ -1,0 +1,183 @@
+---
+title: "Analista en Comunicación Corporativa y Relaciones Públicas"
+similar:
+  - tecnico-en-relaciones-publicas-y-organizacion-de-eventos-ort
+  - diploma-en-reputacion-corporativa-y-sostenibilidad-ucu
+  - licenciatura-en-comunicacion-empresarial-ort
+  - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
+  - licenciatura-en-comunicacion-ucu
+  - maestria-en-comunicacion-organizacional-ucu
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Comunicación"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fc.ort.edu.uy/comunicacion-corporativa-relaciones-publicas"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Capacitate para definir, ejecutar y evaluar estrategias de comunicación corporativa y relaciones públicas en diferentes empresas y organizaciones."
+tags:
+  - comunicacion
+  - comunicacion-organizacional
+  - comunicacion-corporativa
+  - relaciones-publicas
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fc.ort.edu.uy/comunicacion-corporativa-relaciones-publicas'
+  - label: 'Plan de estudios'
+    url: 'https://fc.ort.edu.uy/comunicacion-corporativa-relaciones-publicas/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Capacitate para definir, ejecutar y evaluar estrategias de comunicación corporativa y relaciones públicas en diferentes empresas y organizaciones.
+
+- Preparación para situaciones de crisis desde la comunicación corporativa
+- Habilidades para interactuar con los medios y gestionar la información
+- Estrategias para mejorar la comunicación interna
+
+En entornos y mercados en permanente cambio, los desafíos para el Analista en Comunicación Corporativa y Relaciones Públicas implican intervenir en la cultura, la identidad y la comunicación interna de la organización, así como trabajar sobre la imagen, los eventos y las relaciones responsables con la comunidad, la prensa y el gobierno.
+
+La gestión estratégica de la comunicación en la vida de las empresas e instituciones modernas es una práctica imprescindible para su desarrollo a mediano y largo plazo.
+
+En entornos y mercados en permanente cambio, los desafíos para el Analista en Comunicación Corporativa y Relaciones Públicas son cada vez mayores. De su intervención en la consolidación de la cultura, la identidad, la imagen, la notoriedad y la reputación dependerá que la institución alcance sus objetivos, dado que las organizaciones del siglo XXI no pueden competir ni sobrevivir sin el permiso de sus públicos.
+
+¿Qué es la comunicación corporativa?
+
+Es la gestión profesional y estratégica de la comunicación de las organizaciones, sean de la dimensión y la naturaleza más plural que podamos concebir: desde una entidad pequeña, un emprendimiento, un partido político, un hospital del Estado o una cadena de supermercados.
+
+¿Por qué una organización necesita gestionar su comunicación?
+
+Para alcanzar sus objetivos de manera eficiente. Hoy en día, si las organizaciones no gestionan profesionalmente su comunicación, no pueden sobrevivir, ni desarrollarse, ni competir; en todo caso, mueren.
+
+En la comunicación interna se trabaja sobre el sistema de valores, la cultura de la organización, la construcción de identidad y los procesos ligados a motivación, liderazgos y equipos, haciendo énfasis en el formato cara a cara, más allá de la mediatización tecnológica.
+
+En el ámbito de la comunicación externa, se abre un gran abanico: se hace hincapié en las relaciones con la prensa, las relaciones públicas, la producción de eventos, la negociación y el manejo de crisis, las relaciones con la comunidad, la sustentabilidad, la responsabilidad social en sentido amplio.
+
+Debe existir coherencia entre todas las actividades comunicativas de la empresa, siempre siguiendo los objetivos globales: a pesar de que los distintos ejes implican actividades, tácticas e instrumentos diferentes, no hay que perder de vista que deben funcionar en consonancia.
+
+### Títulos y Reconocimientos
+
+Los estudiantes que aprueben las 16 materias obligatorias obtienen el título de Analista en Comunicación Corporativa y Relaciones Públicas.
+
+### Modalidad
+
+Presencial. Las materias presenciales se pueden seguir en forma remota por HyFlex®. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones personales o laborales. Con solo un clic, quienes optan por seguir las aulas en forma remota, visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 2 años de cursos. Horarios de clase Lunes a jueves de 18:30 a 21:30. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+2.° año de Educación Media Superior (EMS) completo. Esta carrera admite el ingreso condicional con hasta tres previas (por un año).
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Expresión oral y escrita**
+
+Introduce en la producción profesional de textos escritos y presentaciones orales. Enseña las reglas gramaticales que el dominio de la redacción requiere, así como los conceptos clave en la composición de textos empresariales e institucionales. Pone en práctica las habilidades y destrezas de la comunicación oral, mediante el análisis y el ejercicio de formatos como el monólogo, el coloquio, el debate y la mesa redonda. Enfatiza en las técnicas fundamentales de la argumentación.
+
+**Fundamentos de las relaciones públicas**
+
+Presenta los principios y fundamentos profesionales de las relaciones públicas para empresas, corporaciones, gobierno y organizaciones sin fines de lucro. Abarca la historia, organización y alcance del campo; su articulación en las ciencias de la comunicación y las ciencias sociales; sus principales áreas y los roles específicos de la disciplina en contextos diversos de aplicación (instituciones de bien público, empresas privadas, organismos oficiales). Analiza las diferencias entre las relaciones públicas y el marketing, la publicidad y la propaganda. Define el ámbito de ejercicio de la profesión en nuestro medio.
+
+**Cultura e identidad corporativa**
+
+Analiza el significado, valor y alcance vital de la matriz cultural en el desarrollo de las organizaciones, integrando los conocimientos necesarios para reconocer, analizar y diferenciar los diversos tipos de cultura empresarial a partir de sus ritos, creencias, valores, mitos, códigos, climas y procesos organizacionales de todo tipo. Sobre el reconocimiento y análisis de la cultura se integran las herramientas necesarias para intervenir sobre la identidad de la organización mediante acciones y programas estratégicos que fortalezcan su imagen corporativa en los diferentes públicos.
+
+**Marketing**
+
+Presenta los componentes de la gestión de marketing: sus variables y conceptos básicos (necesidad, deseo, demanda, intercambio), el mercado y su segmentación, el producto y su precio y los sistemas de distribución, información y comunicación. A partir de exposiciones docentes y ejercicios prácticos, el alumno analiza campañas de publicidad y relaciones públicas con el objetivo de satisfacer eficientemente las demandas de los clientes.
+
+#### 2.° semestre
+
+**Redacción institucional**
+
+Entrena en la práctica de la redacción para el cliente mediante la aplicación de formatos típicos de relaciones públicas y comunicación corporativa (comunicados de prensa, newsletters, gacetillas, circulares, afiches, brochures, editoriales y perfiles, entre otros). Privilegia la concisión, claridad y organización en la redacción. Entrena en la producción de noticias y entrevistas y en el manejo de fuentes y géneros de opinión. Destaca la adecuación del estilo a los diversos públicos. Contempla los formatos más usados en prensa, radio, TV, internet y redes sociales.
+
+**Planificación de eventos, patrocinio y mecenazgo**
+
+Capacita en la planificación y gestión de eventos privados y públicos, locales y regionales, académicos y empresariales. Analiza tipos específicos: congresos, convenciones, conferencias, exhibiciones, fiestas, muestras, ferias y concursos. Enfatiza en la administración de recursos y en la difusión. Integra las actividades de patrocinio y mecenazgo empresarial, cultural, deportivo y social.
+
+**Gestión de la comunicación interna**
+
+Desarrolla una mirada crítica y analítica sobre los procesos de comunicación interna y su articulación a los objetivos globales de la organización. Presenta el panorama de las prácticas —estrategias, metodologías y técnicas— diversas de comunicación interna, estimulando la capacidad de evaluarlas y de diseñar intervenciones que mejoren la vida (el clima y el desempeño) de la empresa o institución. En ejercicios prácticos se atiende especialmente la coherencia entre la gestión de la comunicación interna y la externa como condición insoslayable para un adecuado desempeño empresarial y una gestión exitosa sobre la reputación.
+
+**Planificación y gestión de las relaciones públicas**
+
+Analiza la función del relacionista público como articulador que agrega valor a los objetivos organizacionales y cuya labor es imprescindible en la gestión global de la organización. Integra las tendencias que afectan a las corporaciones hoy en asuntos públicos, crisis, relaciones laborales. Examina las prácticas de fundraising en contextos empresariales privados y gubernamentales. Planifica, desarrolla y evalúa campañas mediante ejercicios de simulación y estudio de casos reales.
+
+### 2.° año
+
+#### 3.er semestre
+
+**Ética profesional y relaciones con la prensa**
+
+Integra herramientas analíticas y de aplicación sobre el vínculo de la organización con los medios y, en especial, con la prensa. Abarca medios tradicionales (prensa, radio, TV) y los nuevos medios, en el marco de campañas de gestión concretas. Incluye el diseño de mapas de medios y bases de datos, imparte métodos de relación con los periodistas y capacita en la producción de conferencias de prensa y media tours. Articula esta área de gestión con el lobbying, los asuntos públicos y la producción de eventos. Aborda los dilemas éticos que atañen la relación de las organizaciones con la prensa.
+
+**Campaña de relaciones públicas y marca persona**
+
+El objetivo es aplicar estratégicamente, en el desarrollo de una campaña, las técnicas y las herramientas adquiridas en los cursos previos de las Relaciones Públicas. Sobre la base de una perspectiva integral, de un alcance sistémico más complejo, se estimula al estudiante a que adquiera las competencias necesarias para el diseño e implementación de una campaña integral de RRPP, entrenando el sentido de adecuación de toda acción al contexto y capital comunicacional de la empresa y su sector de actividad. En este marco, se abre un espacio específico al desarrollo de la “Marca personal”, para que el estudiante aprenda a gestionarla de forma estratégica, para sí mismo o para clientes, y así logre posicionarse en el mundo personal y laboral, en entornos cada vez más competitivos y cambiantes.
+
+**Comunicación organizacional**
+
+Analiza las formas y estructuras, las características y las funciones de la comunicación interna y externa de una organización. Abarca temas clave como el grupo, el liderazgo, la motivación, el clima, los canales formales e informales, el cambio organizacional y la gestión de los vínculos entre las áreas, departamentos y los sujetos de la empresa o institución. Enfatiza en los esquemas interpersonales (cara a cara y mediados), así como en los grupales, intergrupales y massmediáticos e interactivos en redes sociales.
+
+**Producción de eventos, ceremonial y protocolo**
+
+Imparte los fundamentos clave de las disciplinas del comportamiento en sociedad que son estratégicas para las organizaciones —protocolo, ceremonial y etiqueta, entre otros—, cubriendo tanto el ámbito empresarial como el diplomático y el gubernamental. Destaca la incidencia del ceremonial y el protocolo en la conducta, el clima, los vínculos y la reputación de las organizaciones. Visualiza y organiza la práctica protocolar en la producción y evaluación de diferente tipo de eventos empresariales, en el contexto de la estrategia general de la organización.
+
+#### 4.° semestre
+
+**Comunicación online y social media**
+
+Esta asignatura apunta a introducir al estudiante en el mundo de los medios digitales, con una mirada profunda hacia las mejores prácticas para desempeñarse en un ámbito que es lenguaje corriente dentro de lo que es el ecosistema/espacio de la comunicación publicitaria. Apunta a entender que el mundo digital es muy amplio y debemos educar nuestra mirada para saber dónde y por qué comunicar de acuerdo a cada situación y objetivos.
+
+**Plan de comunicación corporativa**
+
+Integra los conocimientos y destrezas aprendidos y aplicados durante la carrera en un programa completo de gestión comunicacional para una organización elegida por el alumno y avalada por los profesores. El desarrollo y la defensa del programa implican el dominio de los componentes, metodologías y soportes clave que un programa estratégico de comunicación debe contener para garantizar una gestión exitosa.
+
+**Lobbying y asuntos públicos**
+
+Presenta el escenario público (estructura, actores involucrados y funciones) y el rol del Estado como el árbitro de la interrelación entre los distintos actores sociales. Pone el foco en el diseño, la ejecución y evaluación de acciones y planes de gestión de asuntos públicos, integrando las herramientas para gestionar vínculos profesionales con los diversos ámbitos de gobierno, aparatos administrativos, instituciones de interés público, entidades internacionales, asociaciones sin fines de lucro y partidos políticos, entre otras organizaciones. Pone especial atención a la gestión de asuntos públicos en contextos de crisis o conflicto y entrena en la aplicación de herramientas estratégicas para el manejo profesional de las situaciones de riesgo que pueden presentarse.
+
+**Negociación y resolución de conflictos**
+
+Estudia la función de las relaciones públicas en situaciones de crisis de la organización (sucesos imprevistos accidentales), abarcando la prevención, el manejo y la resolución del conflicto. Examina las estrategias y teorías de la negociación y el manejo de conflicto, con énfasis en las aptitudes y habilidades comunicacionales presentes en la vida cotidiana de una organización. Analiza la disputa laboral, la confrontación entre grupos de interés y el conflicto entre la empresa y sus accionistas, entre otros.

@@ -1,0 +1,49 @@
+---
+title: "Maestría en Matemática"
+similar:
+  - licenciatura-en-matematica-udelar
+  - ciclo-de-matematica-udelar
+  - matematica-doctorado-udelar
+  - ingenieria-matematica-maestria-udelar
+  - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
+  - profesorado-de-matematica-um
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=50"
+location: "Facultad de Ciencias, Montevideo"
+description: "REGLAMENTO DE LA MAESTRÍA EN MATEMÁTICA (APROBADO POR EL CDC EL 13/10/09 Y PUBLICADO EN EL DIARIO OFICIAL 18/11/09) 1. DESCRIPCIÓN GENERAL 1.1 Ingreso . Podrán ingresar a la maestría aquellos estudiante s que acrediten poseer una formación equivalente a la de un Licenciado en Matemática de la Univer"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - matematica
+  - ciencias-exactas
+  - algebra
+  - analisis-matematico
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=50'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=4&idPosgrado=50'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+REGLAMENTO DE LA MAESTRÍA EN MATEMÁTICA (APROBADO POR EL CDC EL 13/10/09 Y PUBLICADO EN EL DIARIO OFICIAL 18/11/09) 1. DESCRIPCIÓN GENERAL 1.1 Ingreso . Podrán ingresar a la maestría aquellos estudiante s que acrediten poseer una formación equivalente a la de un Licenciado en Matemática de la Univer
+
+## Ingreso
+
+### Reglamento
+
+REGLAMENTO DE LA MAESTRÍA EN MATEMÁTICA (APROBADO POR EL CDC EL 13/10/09 Y PUBLICADO EN EL DIARIO OFICIAL 18/11/09) 1. DESCRIPCIÓN GENERAL 1.1 Ingreso . Podrán ingresar a la maestría aquellos estudiante s que acrediten poseer una formación equivalente a la de un Licenciado en Matemática de la Universidad de la República. Esta equivalencia será evaluada por la C omisión de Posgrado y deberá ser aprobada por el Consejo Científico. Cuando se consi dere que la formación básica del candidato no alcanza el nivel requerido, se podrá e xigir la realización de estudios de nivelación, previos a la admisión. 1.2 Título . Se otorgará el título de Magíster en Matemática a quienes cumplan con los requisitos de estudios descritos más abajo. 1.3 Plan del estudiante . Los planes individuales se integrarán con cursos semestrales, seminarios, otras actividades aprobadas por la comi sión de posgrado, y un trabajo de tesis.El estudiante habrá de obtener un mínimo de 1 10 créditos. La unidad de medida de las actividades de posgrado es el crédito, unidad q ue tiene en cuenta las horas de trabajo que requiere una asignatura para su adecuada asimil ación durante el desarrollo del curso correspondiente, incluyendo en estas horas las que corresponden a las clases y trabajo asistido, y las de trabajo estrictamente individual . Un crédito, equivale a quince horas de trabajo, entendido en la forma señalada, en concord ancia con el artículo 8 de la ORDENANZA DE LAS CARRERAS DE POSGRADO (Res. Nº 9 de l CDC de fecha 25/09/01). Al trabajo de tesis se le asignará un va lor mínimo de 50 créditos Cada estudiante elaborará un trabajo de tesis cuyo núcleo deberá constituir un trabajo científico relevante que implique un aporte persona l y lo ponga en contacto con problemas de investigación o aplicación de la matem ática. La tesis deberá ser presentada por escrito y defendida en una exposició n oral frente a un Tribunal designado por la Comisión Directiva del PEDECIBA. E l Tribunal juzgará y dará la calificación de “no aprobada”, "aprobada", o “aprob ada con mención” o sugerirá la realización de trabajos complementarios. Antes de transcurrido el primer año desde su ingres o al programa, el estudiante propondrá junto con el orientador a la Comisión de Posgrado un plan de trabajo orientado a la elaboración de la tesis, de acuerdo con el reglamento general de maestría y el reglamento de categorías del personal del PEDE CIBA. Para la aprobación de este plan de trabajo, el Consejo Científico se asesorará con la Comisión de Posgrado 2. COMISIÓN DE POSGRADO El Consejo Científico designará una Comisión de Pos grado integrada por tres profesores de reconocida actuación académica en el área y un e studiante de posgrado. Compete a esta comisión: • Asesorar al Consejo Científico sobre la admisión de estudiantes al Plan. • Avalar el Plan Individual de cada estudiante, de acuerdo a lo descrito en 2.3. • Avalar el Plan de nivelación para aquellos estudi antes que lo requieran.

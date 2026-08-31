@@ -1,0 +1,155 @@
+---
+title: "Administrador de Servidores y Aplicaciones"
+similar:
+  - analista-en-infraestructura-informatica-ort
+  - tecnologo-en-informatica-udelar
+  - tecnologo-en-informatica-utec
+  - especializacion-en-ciberseguridad-utec
+  - ingenieria-en-telecomunicaciones-ucu
+  - ingenieria-en-telecomunicaciones-ort
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "tecnicatura"
+area: "Ingeniería"
+modality: "presencial"
+shift: "both"
+weeklyHours: "No especificado"
+duration: "2 años"
+cost: "Arancelado"
+language: "Español"
+website: "https://fi.ort.edu.uy/administrador-de-servidores-y-aplicaciones"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Administrador de Servidores y Aplicaciones en la Universidad ORT Uruguay forma técnicos para administrar servidores Windows y Linux y servicios de red."
+tags:
+  - informatica
+  - administracion-de-sistemas
+  - servidores
+  - redes
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://fi.ort.edu.uy/administrador-de-servidores-y-aplicaciones'
+  - label: 'Plan de estudios'
+    url: 'https://fi.ort.edu.uy/administrador-de-servidores-y-aplicaciones/plan-de-estudios'
+  - label: 'Listado de tecnicaturas'
+    url: 'https://www.ort.edu.uy/tecnicaturas'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Administrador de Servidores y Aplicaciones en la Universidad ORT Uruguay forma técnicos para administrar servidores Windows y Linux y servicios de red.
+
+- Preparación para trabajar en conjunto con desarrolladores de software
+- Metodología de enseñanza que incluye actividades basadas en casos reales
+- Adopción de mejores prácticas de mercados regionales e internacionales
+
+La carrera forma técnicos capacitados para administrar y configurar servidores en ambientes Windows y Linux, que posean los conocimientos necesarios para administrar los principales servicios de red y de aplicaciones, tales como como bases de datos, servicios web y correo electrónico empresarial.
+
+La importancia del software en todos los ámbitos del negocio requiere que el administrador de servidores y aplicaciones sea capaz de trabajar en conjunto con desarrolladores de software, para generarles un ambiente de trabajo seguro y confiable para sus operaciones.
+
+Los graduados están capacitados para diseñar, configurar, implementar y administrar soluciones de infraestructura en ambientes Windows y Linux, alineados con las necesidades de desarrollo y ejecución de software, en ambientes físicos y virtuales (DevOps).
+
+La metodología de enseñanza promueve el trabajo sobre casos reales y toma como referencia las mejores prácticas de los mercados regionales e internacionales.
+
+Con un perfil construido a partir del aprendizaje a través de la práctica y la actualización continua, los graduados de Administrador de Servidores y Aplicaciones adquieren los conocimientos y desarrollan las habilidades para diseñar y configurar equipos de redes de datos de área local, configurar routers y switches Cisco, y programar entornos de desarrollo, testing y producción de software.
+
+Actualmente, el mercado requiere especialistas que tengan otras habilidades además de configurar dispositivos, proveer soporte de aplicaciones a usuarios o administrar servidores y redes de comunicación.
+
+Metodología
+
+La metodología de enseñanza tiene un enfoque basado en el trabajo sobre casos reales y toma como referencia las mejores prácticas del mercado regional e internacional
+
+El uso de laboratorios es intenso, lo que permite llevar la teoría a un marco práctico como método para la asimilación del conocimiento y el desarrollo de habilidades.
+
+A lo largo de la carrera los estudiantes tienen talleres en los que se presentan diferentes tecnologías, con el fin de adquirir habilidades específicas de aplicación directa en el mercado laboral.
+
+### Título Intermedio
+
+Administrador/a de Servidores y Aplicaciones
+
+### Títulos y Reconocimientos
+
+Al finalizar la carrera el estudiante obtiene el título de Administrador/a de Servidores y Aplicaciones.
+
+### Modalidad
+
+Presencial con virtualidad. La carrera se dicta mayoritariamente en formato presencial. Algunas materias/instancias pueden dictarse en modalidad virtual.
+
+### Duración y Horarios
+
+Duración 2 años. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 Nocturno: lunes a jueves de 19:30 a 22:30. * Semestre 1 y 2: tres días a la semana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Valor de las Cuotas
+
+El valor final de las cuotas varía en función de distintos factores, como por ejemplo: Si te inscribís a todas las materias o a algunas materias del semestre en cuestión. Si te postulaste a una beca o no. Si te corresponde algún beneficio (descuento por familiares, cursado de más de una carrera a la vez, etc.). Si aplicás a alguno de los convenios de ORT con diferentes organizaciones. Los valores finales de las cuotas se informan en una entrevista personal a través de los asesores académicos. e informarte sobre los distintos aspectos de la carrera.
+
+### Becas
+
+La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+1.er año de Educación Media Superior (EMS) completo. 1.er año de Bachillerato Tecnológico de cualquier orientación, o formación equivalente. Esta carrera admite el ingreso condicional con hasta tres previas (por un año).
+
+### Proceso de Selección
+
+Ingreso directo (no requiere sorteo ni proceso de selección).
+
+## Plan de Estudio
+
+### 1.er año
+
+#### 1.er semestre
+
+**Pensamiento computacional**
+
+A través de una experiencia de aprendizaje lúdica y motivadora, mediante el uso intensivo de robots mBots, la materia capacita al estudiante en técnicas de resolución de problemas, trabajando en los conceptos de abstracción, descomposición, reconocimiento de patrones lógicos y algoritmia, con el objetivo de lograr soluciones cuyas instrucciones puedan ser ejecutadas por un computador.
+
+**Configuración de Windows y utilitarios**
+
+A través de actividades teórico-prácticas, el estudiante adquiere conocimientos y habilidades para la instalación y configuración del sistema operativo Windows a nivel cliente, en un entorno de red cableada o inalámbrica. Realiza búsquedas de información técnica y su interpretación crítica. Utiliza herramientas de Windows y programas utilitarios de otros fabricantes para resolver problemas de configuración y respaldo de información. Instala software de productividad personal, tales como MS Office, correo electrónico, navegadores y antivirus, y accede a aplicaciones en la nube.
+
+#### 2.º semestre
+
+**Fundamentos de ciberseguridad**
+
+Materia dedicada a concientizar tempranamente en temas de seguridad informática y de la información. Presenta al estudiante los conceptos, terminología, tipos de amenazas y vías a través de las cuales un ataque puede comprometer la operación o el contenido de una red corporativa. A su vez, introduce los paradigmas que permiten construir soluciones empresariales robustas y seguras, de alta demanda.
+
+**Administración de servidores Windows**
+
+Durante el curso el estudiante aprende cómo las organizaciones intercambian información y aplicaciones utilizando las redes y servidores como medio. Enseña a instalar y configurar el sistema operativo Windows Server, administrar usuarios y permisos, y automatizar procedimientos mediante directivas de grupo (group policies). Administra y supervisa servidores DHCP y DNS, resolviendo diferentes casos de estudio de la vida real.
+
+### 2.º año
+
+#### 3.er semestre
+
+**Administración de servidores Linux**
+
+El sistema operativo Linux está presente en la mayoría de las empresas por sus características de seguridad, gestión eficiente de los recursos y flexibilidad, además del soporte a múltiples lenguajes de programación. En un entorno abierto, es adecuado para servidores de aplicaciones web y de bases de datos. Durante el curso, el estudiante adquiere conocimientos y habilidades prácticas concretas relativas al uso de la interfaz de comandos y las herramientas que provee Linux. Administra cuentas de usuario, la memoria y CPU del servidor, el almacenamiento, la red y los sistemas de archivos. Realiza la configuración básica de un servidor web Apache y FTP, teniendo en cuenta aspectos relativos a la seguridad.
+
+**Aplicaciones en servidores Windows**
+
+Además de la administración del sistema operativo y los servicios de red, las empresas utilizan la infraestructura para ejecutar aplicaciones de producción y de gestión. Presenta los conceptos y capacita para instalar y administrar aplicaciones de servidores de uso extendido en las empresas, como servicio de correo electrónico y de administración de bases de datos, entre otros (SQL, Exchange). Al culminar el curso, el estudiante está capacitado para administrar redes y aplicaciones Windows.
+
+#### 4.º semestre
+
+**Programación para DevOps**
+
+Enseña a programar shell scripts para aprovechar toda la potencia de los sistemas operativos Linux, automatizando configuraciones y operaciones, mejorando el rendimiento, la gestión remota y simplificando las tareas de administración. Durante el curso, el estudiante aprenderá la estructura del shell de Linux, su ambiente y principales características, y los fundamentos del scripting en el shell bash. Realizará operaciones aritméticas en shell scripts, creará scripts interactivos e incorporará diferentes funciones tales como el control de flujo y la toma de decisiones. El curso contempla también una introducción a las sentencias y sintaxis de Python, un poderoso lenguaje de scripting de uso extendido en la administración de sistemas, la creación de sitios web y el desarrollo de aplicaciones móviles.
+
+**Redes 1**
+
+Con énfasis en Ethernet, aborda el estudio de la topología de redes, los protocolos, los diferentes estándares, el equipamiento y la medida de tráfico, con el propósito de poder diseñar y configurar una red de área local segura que satisfaga los requerimientos del cliente. Aborda los protocolos TCP/IP y los estándares asociados que se aplican, tales como: direccionamiento IPv4, IPv6, TCP, UDP.

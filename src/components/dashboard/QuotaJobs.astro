@@ -1,0 +1,73 @@
+---
+import type { QuotaJobsCounts } from "@/types/jobs"
+import { Icon } from "astro-icon/components"
+
+export interface Props {
+  quotas: QuotaJobsCounts
+}
+
+const { quotas } = Astro.props
+
+const quotaItems = [
+  {
+    key: "discapacidad",
+    label: "Discapacidad",
+    count: quotas.discapacidad,
+    icon: "mdi:wheelchair-accessibility",
+    color: "text-blue-600 dark:text-blue-400",
+    bgColor: "bg-blue-100 dark:bg-blue-900/30",
+  },
+  {
+    key: "afrodescendientes",
+    label: "Afrodescendientes",
+    count: quotas.afrodescendientes,
+    icon: "mdi:account-group",
+    color: "text-green-600 dark:text-green-400",
+    bgColor: "bg-green-100 dark:bg-green-900/30",
+  },
+  {
+    key: "trans",
+    label: "Trans",
+    count: quotas.trans,
+    icon: "mdi:gender-transgender",
+    color: "text-purple-600 dark:text-purple-400",
+    bgColor: "bg-purple-100 dark:bg-purple-900/30",
+  },
+  {
+    key: "victimas",
+    label: "Víctimas delitos violentos",
+    count: quotas.victimas,
+    icon: "mdi:shield-account",
+    color: "text-amber-600 dark:text-amber-400",
+    bgColor: "bg-amber-100 dark:bg-amber-900/30",
+  },
+]
+
+const totalQuotaJobs = Object.values(quotas).reduce((s, c) => s + c, 0)
+---
+
+<section>
+  <h3 class="text-lg font-semibold text-foreground mb-4">Llamados con cupo</h3>
+
+  <div class="grid grid-cols-2 gap-3">
+    {
+      quotaItems.map((item) => (
+        <div
+          class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center"
+        >
+          <div
+            class={`mx-auto mb-2 flex size-10 items-center justify-center rounded-full ${item.bgColor}`}
+          >
+            <Icon name={item.icon} class={`size-5 ${item.color}`} aria-hidden="true" />
+          </div>
+          <p class="text-2xl font-semibold text-foreground">{item.count}</p>
+          <p class="mt-0.5 text-xs text-muted-foreground">{item.label}</p>
+        </div>
+      ))
+    }
+  </div>
+
+  <p class="mt-3 text-center text-xs text-muted-foreground">
+    Total: {totalQuotaJobs} llamados con cupo
+  </p>
+</section>

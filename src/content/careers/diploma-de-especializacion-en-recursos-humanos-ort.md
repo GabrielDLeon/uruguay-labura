@@ -1,0 +1,181 @@
+---
+title: "Diploma de Especialización en Recursos Humanos"
+similar:
+  - master-en-direccion-de-recursos-humanos-ort
+  - analista-en-recursos-humanos-ude
+  - licenciatura-en-recursos-humanos-ude
+  - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
+  - licenciatura-en-gestion-de-talento-humano-um
+  - licenciatura-en-gestion-humana-y-relaciones-laborales-ucu
+institutionName: "Universidad ORT Uruguay"
+institution: "ort"
+degreeType: "especializacion"
+area: "Administración y Negocios"
+modality: "hibrido"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "1 año"
+cost: "Arancelado"
+language: "Español"
+website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-recursos-humanos"
+location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
+description: "Promueve el enfoque estratégico de la gestión de recursos humanos a partir del análisis del entorno y del entendimiento de los objetivos organizacionales."
+tags:
+  - recursos-humanos
+  - gestion-de-personas
+  - cultura-organizacional
+  - planificacion-estrategica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial de la carrera'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-recursos-humanos'
+  - label: 'Plan de estudios'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-recursos-humanos/plan-de-estudios'
+  - label: 'Listado de postgrados'
+    url: 'https://www.ort.edu.uy/postgrados'
+  - label: 'Información de becas'
+    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados/facs'
+  - label: 'Universidad ORT Uruguay'
+    url: 'https://www.ort.edu.uy'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Promueve el enfoque estratégico de la gestión de recursos humanos a partir del análisis del entorno y del entendimiento de los objetivos organizacionales.
+
+- Formación centrada en añadir valor al negocio a través de las personas
+- Orientación hacia roles de dirección o gerencia de recursos humanos
+- Metodología de aprendizaje enfocada en la solución de problemas reales
+
+Es un postgrado que prepara profesionales de diferentes áreas para ejercer la función de recursos humanos, centrada en añadir valor al negocio a través de la gestión de personas.
+
+Se trata de un programa de postgrado líder en formación de capital humano, gracias a su calidad y alto nivel, así como a la experiencia de sus docentes, la orientación práctica del conocimiento que brinda y el enfoque internacional que se refleja en el contenido de sus programas.
+
+Es el único postgrado en recursos humanos de Uruguay presente en Eduniversal Masters Ranking, ubicado entre los mejores 25 de América Latina.
+
+El diploma cuenta con profesores internacionales y locales que brindan una perspectiva global y de vanguardia sobre la gestión de personas, con formación académica y experiencia profesional en consultoría, dirección o gerencia de recursos humanos.
+
+Una vez finalizado el primer año, los participantes pueden continuar estudiando y obtener el Master en Dirección de Recursos Humanos o el MBA con orientación recursos humanos.
+
+Programa líder: es el programa líder en formación de capital humano, gracias a su calidad y alto nivel, así como a la experiencia de sus docentes, la orientación práctica del conocimiento que brinda y el enfoque internacional que se refleja en el contenido de sus programas.
+
+Reconocimiento internacional: es el único postgrado en recursos humanos de Uruguay presente en Eduniversal Masters Ranking, entre los mejores 25 de América Latina.
+
+Permite continuar estudiando: el Diploma es el primer año del Master en Dirección de Recursos Humanos, por lo que siempre podrás continuar estudios hacia dicho programa o el MBA con orientación recursos humanos.
+
+Destacado plantel docente: profesores internacionales y locales que brindan una perspectiva global y de vanguardia sobre la gestión de personas, con formación académica y experiencia profesional en consultoría, dirección o gerencia de recursos humanos.
+
+Formato personalizado: permite cursarse en forma intensiva en un año o extendida en un máximo de dos años, acompasando los requerimientos de la vida laboral y personal.
+
+Comunidad Alumni
+
+Los graduados del postgrado forman parte de su Comunidad Alumni de la Escuela de Postgrados en Negocios – EPN, la cual lleva más de 30 años formando líderes, referentes y tomadores de decisiones de organizaciones del país y del exterior. Con eventos de networking y de formación continua, la EPN busca proyectar la carrera de sus estudiantes y graduados a través de la construcción de vínculos profesionales y académicos.
+
+### Títulos y Reconocimientos
+
+El Diploma de Especialización en Recursos Humanos fue reconocido por resolución del Ministerio de Educación y Cultura del 1.° de octubre de 2014. Este postgrado forma parte del primer año del Master en Dirección de Recursos Humanos, calificado como uno de los 25 mejores de América Latina, según Eduniversal Masters.
+
+### Modalidad
+
+Presencial - HyFlex® Todas las materias presenciales se pueden cursar en modalidad online (HyFlex®). Con solo un clic, quienes optan por la modalidad virtual visualizan el salón desde dentro y desde distintas perspectivas. Asimismo, siguen la clase de manera simultánea a sus compañeros y pueden interactuar con ellos y con los docentes. HyFlex® es una experiencia educativa híbrida y flexible que busca potenciar el rol protagónico de los estudiantes y su participación activa ante eventuales limitaciones de movilidad por razones sanitarias, personales o laborales. Las evaluaciones principales se realizan en forma presencial.
+
+### Duración y Horarios
+
+Duración 1 año. Horarios de clase Lunes a miércoles de 19:00 a 21:30 horas. Cuatro talleres intensivos al año que pueden incluir jueves y/o viernes por la mañana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+
+### Becas
+
+Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
+
+### Comunidades
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Requisitos Ser graduado de una carrera universitaria reconocida por las autoridades del país. Demostrar al menos tres años de experiencia profesional relevante. Postulación al programa y recomendación del Tribunal Académico. Estudiantes del exterior Los estudiantes que culminaron una carrera universitaria en el exterior deben presentar copia notarial del título académico apostillado. Se deberá entregar dicha constancia en Bedelía de Postgrados en Negocios de la Universidad ORT Uruguay, lo que habilita el inicio de los estudios de postgrado.
+
+### Proceso de Selección
+
+Proceso de postulación con selección: evaluación de antecedentes, entrevistas y/o pruebas específicas.
+
+## Plan de Estudio
+
+### 1.er año
+
+#### Abril-Junio
+
+**Marco legal del trabajo**
+
+Analiza los principios generales del derecho laboral y la normativa vigente en derechos y obligaciones de empleados y empleadores tanto a nivel individual como colectivo.
+
+**Atracción y desarrollo del talento**
+
+Analiza crítica y estratégicamente los procesos de atracción y selección de personal. Presenta en forma teórica y práctica las diferentes etapas y alternativas que componen un proceso de selección, desde el desarrollo de la marca empleadora, la previsión de la oferta y demanda de los recursos humanos hasta las diferentes modalidades de contratación, tando desde la óptica de un gerente de línea como de un consultor o seleccionador independiente.
+
+**Persona, organización y estrategia**
+
+Brinda conocimientos sobre la función y aportes desarrollados por la Psicología Laboral para la comprensión y análisis del comportamiento humano en el trabajo. Aborda el estudio de los fenómenos psicológicos configurados por la peculiar interacción dinámica existente entre la persona y la organización, considerando los principales atributos de la personalidad que influyen en el comportamiento, percepción y personalidad, satisfacción, motivación y desempeño laboral, la subjetividad del perceptor y sus efectos en la dinámica cotidiana de la organización, satisfacción, motivación y desempeño laboral.
+
+#### Junio (intensivo)
+
+**Taller de comunicación**
+
+Capacita para identificar los factores que puedan dificultar una comunicación efectiva y aplica conductas y técnicas que permitan su resolución. Desarrolla con énfasis la capacidad de comprender los principios y técnicas de la comunicación eficaz, reconocer la presencia de factores que la impiden y cómo actuar de forma proactiva, de escuchar y comprender, hacer preguntas para liderar la comunicación, manejar los componentes no verbales, dar retroalimentación y realizar presentaciones orales efectivas.
+
+**Tecnología y recursos humanos**
+
+Tiene como objetivo introducir a los estudiantes en el manejo de las redes sociales en los procesos de atracción y selección del talento, a través de actividades como: conocer las redes diferentes sociales más eficaces en Recursos Humanos 2.0, publicar anuncios de empleo en redes sociales, automatización de procesos de selección, monitoreo de la reputación digital de la empresa.
+
+#### Julio-Setiembre
+
+**Equipos, colaboración e influencia**
+
+El comportamiento de las organizaciones es algo más que el conjunto de los comportamientos individuales. El curso analiza el comportamiento de los grupos que interactúan, sus conflictos como fuerzas positivas o disfuncionales, sus manejos y resolución; el poder, sus fuentes y sus aplicaciones a la hora de alcanzar las metas organizacionales; el liderazgo, formal e informal, diagnosticando su eficacia a la luz de diversas teorías modernas.
+
+**Relaciones laborales y negociación colectiva**
+
+Estudia los modelos conceptuales de las relaciones laborales, la participación de los diferentes actores del sistema de relaciones laborales, las negociaciones y convenios colectivos, así como las organizaciones sindicales y de empleadores y sus medios de acción, considerando el nuevo contexto de relaciones laborales uruguayas.
+
+**Compensación y beneficios**
+
+Estudia las vinculaciones de los sistemas de remuneración y beneficios con las demás políticas y herramientas técnicas de la gestión de recursos humanos. Profundiza en el estudio de las diferentes formas de compensación tales como remuneraciones fijas, variables, participación en utilidades, pago por habilidades y/o competencias, y planes de retribución por productividad.
+
+#### Setiembre (intensivo)
+
+**Taller de negociación**
+
+Estudia aspectos conceptuales y prácticos de la negociación interpersonal. Entrena en los elementos conceptuales necesarios para comprender el rol y la importancia de las instancias de negociación. Desarrolla el proceso de comunicación y el manejo de las diversas técnicas de presentación personal y colectiva. Profundiza en la preparación y realización de negociaciones con respecto a los recursos humanos, utilizando juegos de negociación, simulación de situaciones y estudio de diversos modelos de negociación. Aborda el rol del negociador desde lo experiencial y conductual, con un gran énfasis en negociaciones colectivas laborales y su encuadre legal.
+
+#### Octubre-Diciembre
+
+**Resultados y analítica de recursos humanos**
+
+Desarrolla un enfoque integrado para la medición y monitoreo de la contribución de la función de los recursos humanos a la creación de valor. Presenta y analiza distintos enfoques de medición, con casos prácticos que permitan entender los distintos pasos a seguir para el diseño de un sistema de medición efectivo.
+
+**Práctica profesional en recursos humanos**
+
+Define la participación de la función de recursos humanos y/o del departamento de recursos humanos dentro de la estructura de la organización y capacita en las prácticas habituales de administración de personal tales como liquidación de haberes y seguridad y salud laboral.
+
+**Dirección estratégica del capital humano**
+
+Estudia aspectos conceptuales y prácticos de la negociación interpersonal. Entrena en los elementos conceptuales necesarios para comprender el rol y la importancia de las instancias de negociación. Desarrolla el proceso de comunicación y el manejo de las diversas técnicas de presentación personal y colectiva. Profundiza en la preparación y realización de negociaciones a nivel de los recursos humanos, utilizando juegos de negociación, simulación de situaciones y estudio de diversos modelos de negociación. Aborda el rol del negociador desde lo experiencial y conductual, con un gran énfasis en negociaciones colectivas laborales y su encuadre legal.
+
+#### Febrero-Marzo
+
+**Sostenibilidad y gestión responsable**
+
+Integra la responsabilidad social con la estrategia corporativa, explorando las consecuencias políticas de la decisiones de inversión. Capacita para mejorar el desempeño económico y al mismo tiempo contribuir a la sociedad.
+
+**Tecnología y recursos humanos avanzado**
+
+En la materia se abordará el estado actual de las aplicaciones de la inteligencia artificial en los negocios, así como los riesgos y oportunidades en Recursos Humanos. Se profundizará en automatizaciones y agentes, así como en mejores prácticas para aumentar la productividad personal y laboral en el área de los Recursos Humanos.
+
+**Proyecto integrador**
+
+Créditos: 10.

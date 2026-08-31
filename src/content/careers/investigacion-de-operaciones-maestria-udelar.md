@@ -1,0 +1,63 @@
+---
+title: "Maestría en Investigación de Operaciones"
+similar:
+  - optimizacion-especializacion-udelar
+  - ingenieria-fisico-matematica-udelar
+  - licenciatura-en-estadistica-udelar
+  - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
+  - matematica-doctorado-udelar
+  - licenciatura-en-matematica-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "maestria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=60"
+location: "Facultad de Ingeniería, Montevideo"
+description: "La Maestría en Investigación de Operaciones se dirige a egresados de diversasdisciplinas que deseen especializarse en el área, capacitándolos para poder analizar yresolver problemas mediante su modelado simbólico. Específicamente se espera quepuedan desarrollar y validar formulaciones simbólico/matemático-computacionales,desarrollar y aplicar mètodos de solución, obtener y validar sus datos, e interpretar susresultados, para apoyar la toma de decisiones"
+startDate: ""
+applicationDeadline: ""
+tags:
+  - investigacion-de-operaciones
+  - matematica
+  - estadistica
+  - optimizacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=60'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=60'
+---
+
+## Resumen
+
+### Objetivo
+
+La Maestría en Investigación de Operaciones se dirige a egresados de diversas disciplinas que deseen especializarse en el área, capacitándolos para poder analizar y resolver problemas mediante su modelado simbólico. Específicamente se espera que puedan desarrollar y validar formulaciones simbólico/matemático-computacionales, desarrollar y aplicar mètodos de solución, obtener y validar sus datos, e interpretar sus resultados, para apoyar la toma de decisiones en problemas reales complejos. Los cursos de alto nivel en el área procuran el estudio en profundidad de las tècnicas màs actuales y relevantes en la Investigaciòn de operaciones. El trabajo de tesis se orienta al manejo activo y creativo del conocimiento en el marco de un tema concreto o aplicaciòn específica, incluyendo el empleo de bibliografía internacional actualizada y especializadoa. Se busca la formación en el área, de profesionales que conformen recursos humanos capaces de afrontar y resolver necesidades de la sociedad.
+
+### Perfil de egreso
+
+El egresado adquirirá una formación concentrada en el área de la Investigación de Operaciones que lo capacitará para el manejo activo y creativo del conocimiento. Será capaz de aplicar en su actividad la metodología de la Investigación de Operaciones, así como utilizar en profundidad y solvencia técnicas de modelado, evaluación y optimización en un contexto de toma de decisiones. Los elementos metodológicos adquiridos en su formación le permitirán abordar nuevas áreas y tecnologías, utilizando, y si es necesario, adaptando las mismas para la resolución de problemas de interés en su actividad académica o profesional .
+
+### Referentes académicos
+
+Libertad Tansini libertad@fing.edu.uy
+
+## Ingreso
+
+### Reglamento
+
+El perfil de ingreso deseado consiste en poseer una formación que incluya los siguientes aspectos: el análisis de problemas, el manejo de abstracciones simbólicas, el manejo de herramientas matemáticas de base tales como el análisis, el álgebra, la probabilidad y la estadística, y la matemática discreta; el manejo de herramientas informáticas de base tales como el diseño de algoritmos, la programación, el diseño de sistemas de información; y poseer nociones sobre la estructura y la toma de decisiones dentro de organizaciones complejas. Concretamente, podrán ingresar quienes cuenten con un título de grado otorgado por la Universidad de la República cuyo plan de estudios conste de al menos 360 créditos y que cuente con una base de contenidos vinculados al perfil de ingreso que permitan el aprovechamiento del plan, o haber realizado otros estudios que, a juicio de la SCAPA-IO acrediten una formación que permita la realización y aprovechamiento del Plan de Estudios de la Maestría. La SCAPA-IO podrá proponer la realización de cursos de nivelación en caso de ser necesario.
+
+## Plan de Estudio
+
+### Programa
+
+La duración prevista de las actividades de la Maestría se estima en dos años; en lo relativo a los máximos y posibilidades de prórrogas de dicha duración se estará sujeto al Reglamento General de las Actividades de Posgrado y de Educación Permanente de la Facultad de Ingeniería. Los planes de trabajo de los estudiantes de la Maestría comprenderán las llamadas actividades programadas y la realización de una tesis. Para cada generación de estudiantes, la SCAPA-IO podrá formular a título indicativo propuestas de plan de formación con sus respectivas orientaciones, que serán puestas a conocimiento de la CAP. Las actividades programadas (cursos, seminarios, estudios dirigidos, pasantías y participación en proyectos,etc.) deben cubrir un mínimo de 60 créditos (el crédito es la unidad de medida de la carga de trabajo en los planes de estudio de la Facultad de Ingeniería, y equivale a quince horas de dedicación por parte del estudiante). Todas las actividades programadas deberán contar con alguna forma de evaluación de los conocimientos adquiridos. La actividad programada deberá cubrir el mínimo de horas presenciales exigido por la Ordenanza de las Carreras de Posgrado de la Universidad de la República. La SCAPA-IO podrá proponer asignar créditos por cursos y otras actividades realizadas previamente al ingreso a la Maestría. En particular, si la carrera de grado del estudiante superara los 360 créditos, se le podrá reconocer un máximo de 30 créditos excedentes obtenidos en el grado en asignaturas de contenido relacionado con la Maestría. Las materias centrales indicativas de la Maestría en Investigación de Operaciones son las siguientes: •Modelos Combinatorios: teoría de grafos, flujos en redes, problemas de localización, transporte y ruteo. •Modelos Estocásticos: filas de espera, procesos estocásticos, redes neuronales, métodos de aprendizaje, estadística paramétrica y no paramétrica, métodos de clasificación y de agrupamiento de datos, pronósticos. •Simulación de Sistemas:simulación a eventos discretos, simulación continua, métodos de Monte Carlo y quasi-Monte Carlo. •Optimización: programación lineal y no lineal en variables continuas y enteras, optimización multi-objetivo y en varios niveles, métodos heurísticos. •Ciencias de la Administración:teoría general de sistemas, gestión de proyectos,reingeniería de proyectos, métodos multi-criterio para toma de decisiones, gestión de la cadena de suministros, gestión de riesgos, teoría de juegos. • Métodos de Estructuración de Problemas: desarrollo y análisis de opciones estratégicas, metodología de sistemas suaves, enfoque de opciones estratégicas. Se requerirá que la actividad programada comprenda un mínimo de 40 créditos en las materias centrales. Tesis El estudiante deberá contar con un Director de Tesis, que deberá ser nombrado por la SCAPA-IO a lo sumo un año después del ingreso a la Maestría. El tema de la tesis se definirá en mutuo acuerdo entre el estudiante y el Director de Tesis,debiendo ser comunicado a la SCAPA-IO para supara su validación. El trabajo de tesis tendrá un valor de 60 créditos

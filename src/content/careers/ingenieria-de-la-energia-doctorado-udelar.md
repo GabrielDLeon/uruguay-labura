@@ -1,0 +1,62 @@
+---
+title: "Doctorado en Ingeniería de la Energía"
+similar:
+  - ingenieria-en-mecanica-de-los-fluidos-aplicada-doctorado-udelar
+  - ingenieria-de-la-energia-maestria-udelar
+  - ingenieria-de-la-energia-especializacion-udelar
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-en-energias-renovables-utec
+  - ingenieria-electrica-ort
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "doctorado"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=99"
+location: "Facultad de Ingeniería, Montevideo"
+description: "El objetivo general de la carrera de Doctorado es aumentar la generación de los recursos humanos capaces de Incorporar y desarrollar conocimientos tecnológicos de primer nivel en el campo de la Energía, que posibiliten el desarrollo productivo del país y permitan adoptar nuevos enfoques que garanticen un uso sustentable de los recursos naturales."
+startDate: ""
+applicationDeadline: "Facultad de ingeniería"
+tags:
+  - energia
+  - ingenieria
+  - generacion-de-energia
+  - energias-renovables
+  - eficiencia-energetica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=99'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=99'
+---
+
+## Resumen
+
+### Objetivo
+
+El objetivo general de la carrera de Doctorado es aumentar la generación de los recursos humanos capaces de Incorporar y desarrollar conocimientos tecnológicos de primer nivel en el campo de la Energía, que posibiliten el desarrollo productivo del país y permitan adoptar nuevos enfoques que garanticen un uso sustentable de los recursos naturales. El objetivo especifico de la carrera del Doctorado constituye el nivel superior de formación de posgrado en el area de conocimiento de la Energía. Su objetivo es asegurar la formación de investigadores con un alto nivel, que permita el desarrollo de investigación original en el país, así como la Incorporación al mismo de la tecnologia mas avanzada en esta área
+
+### Perfil de egreso
+
+El egresado adquirirá una formación superior en el área Energía que lo capacitará para: abordar nuevos temas y tecnologías con profundidad y solvencia, empleando los elementos metodológicos adquiridos en su formación. que le permitirá el desarrollo de investigación original y la creación de nuevo conocimiento científico y tecnológico. abordar de manera critica la bibliografía internacional actualizada en el tema elegido y de acompañar el desarrollo del área, debiendo alcanzar durante el desarrollo de sus estudios de posgrado el estado del arte en la especialidad escogida abordar los aspectos Sociales y económicos asociados a la aplicación y utilización de tecnologías energéticas desde una perspectiva que incluya una concepción del desarrollo nacional evaluando el impacto en distintas variables sociales económicas y medioambientales
+
+### Referentes académicos
+
+José Cataldo, Instituto de Mecánica de los Fluidos e Ingeniería Ambiental, jcataldo@fing.edu.uy
+
+## Ingreso
+
+### Reglamento
+
+El posgrado es gestionado por la Sub Comisión de Posgrado del Área en Ingeniería de la Energía (SCAPA-E). Los cursos son de asistencia libre y para su aprobación se requiere rendir una prueba de evaluación de conocimientos
+
+### Requisitos de Ingreso
+
+P oseer título de Magíster en Ingeniería de la Energía, otorgado por la Facultad de Ingeniería de la Universidad de la República, u otra Maestría cuya formación en Energía, a juicio de la SCAPA-E, sea suficiente para realizar la carrera de Doctorado. Con carácter excepcional la SCAPA-E podrá recomendar a la CAP-FING el ingreso a la carrera de Doctorado de candidatos que teniendo el nivel de grado en Ingeniería, demuestren una actividad de carácter científico y/o de innovación tecnológica suficiente y acreditada, que permitan la realización del Doctorado. En este último caso, durante el desarrollo del Doctorado el candidato deberá realizar una actividad programada equivalente a la de la Maestría en Ingeniería de la Energía.

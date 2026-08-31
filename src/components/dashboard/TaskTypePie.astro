@@ -1,0 +1,110 @@
+---
+import type { TaskTypeEntry } from "@/types/jobs"
+
+export interface Props {
+  distribution: TaskTypeEntry[]
+}
+
+const { distribution } = Astro.props
+
+// Color palette for the pie slices
+const COLORS = [
+  "#f97316", // orange
+  "#eab308", // yellow
+  "#84cc16", // lime
+  "#22c55e", // green
+  "#14b8a6", // teal
+  "#06b6d4", // cyan
+  "#3b82f6", // blue
+  "#6366f1", // indigo
+  "#8b5cf6", // violet
+  "#a855f7", // purple
+  "#d946ef", // fuchsia
+  "#ec4899", // pink
+  "#f43f5e", // rose
+  "#64748b", // slate
+  "#78716c", // stone
+  "#a8a29e", // neutral
+  "#d6d3d1", // warm-gray
+  "#9ca3af", // gray
+]
+
+const topItems = distribution.slice(0, 12)
+const others = distribution.slice(12)
+const othersCount = others.reduce((sum, d) => sum + d.count, 0)
+const othersPct = others.reduce((sum, d) => sum + d.percentage, 0)
+
+const pieItems = othersCount > 0
+  ? [...topItems, { name: "Otros", count: othersCount, percentage: Math.round(othersPct * 10) / 10 }]
+  : topItems
+
+// Build SVG donut paths using conic-gradient approach - simpler with conic-gradient in CSS
+// We'll use a CSS conic-gradient approach for the donut chart
+function buildConicGradient(items: typeof pieItems, colors: string[]): string {
+  let cumulative = 0
+  const stops: string[] = []
+  const total = items.reduce((s, d) => s + d.count, 0)
+
+  for (let i = 0; i < items.length; i++) {
+    const item = items[i]
+    const pct = (item.count / total) * 100
+    if (pct === 0) continue
+    const color = colors[i % colors.length]
+    const start = cumulative
+    const end = cumulative + pct
+    stops.push(`${color} ${start}% ${end}%`)
+    cumulative = end
+  }
+
+  return `conic-gradient(${stops.join(", ")})`
+}
+
+const gradientStyle = buildConicGradient(pieItems, COLORS)
+---
+
+<section>
+  <h3 class="text-lg font-semibold text-foreground mb-4">Distribución por tipo de tarea</h3>
+
+  <div class="flex flex-col items-center gap-6 sm:flex-row sm:items-start">
+    <!-- Donut chart -->
+    <div class="relative shrink-0">
+      <div
+        class="size-44 rounded-full"
+        style={{ background: gradientStyle }}
+      ></div>
+      <!-- Inner hole for donut effect -->
+      <div
+        class="absolute inset-0 flex items-center justify-center"
+      >
+        <div class="flex size-24 items-center justify-center rounded-full bg-[var(--card-bg)]">
+          <div class="text-center">
+            <p class="text-2xl font-semibold text-foreground leading-none">
+              {pieItems.reduce((s, d) => s + d.count, 0)}
+            </p>
+            <p class="text-xs text-muted-foreground mt-0.5">total</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Legend -->
+    <div class="flex-1 min-w-0 space-y-1.5 self-center sm:self-auto">
+      {
+        pieItems.map((item, i) => (
+          <div class="flex items-center gap-2 text-sm">
+            <span
+              class="inline-block size-3 shrink-0 rounded-sm"
+              style={{
+                backgroundColor: COLORS[i % COLORS.length],
+              }}
+            ></span>
+            <span class="flex-1 text-foreground truncate">{item.name}</span>
+            <span class="shrink-0 text-muted-foreground tabular-nums">
+              {item.count} ({item.percentage}%)
+            </span>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>

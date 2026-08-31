@@ -1,0 +1,52 @@
+---
+title: "Licenciatura en Lenguajes y Medios Audiovisuales"
+similar:
+  - tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital-utec
+  - licenciatura-en-animacion-y-videojuegos-ort
+  - licenciatura-en-cine-ucu
+  - tecnico-en-realizacion-audiovisual-ort
+  - licenciatura-en-artes-visuales-ucu
+  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "licenciatura"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-lenguajes-y-medios-audiovisuales/"
+location: "Maldonado"
+description: "Se procurará que sus egresados obtengan a lo largo de la carrera: - Conocimiento de las diferentes etapas que involucra una producción audiovisual en sus diversas manifestaciones, con especial interés en cinematografía, videojuegos y animación, que le permitan abordar diferentes emprendimientos en el campo audiovisual con profundidad y solvencia creativa, técnica y humana."
+startDate: ""
+applicationDeadline: ""
+credits: 360
+tags:
+  - audiovisual
+  - cine
+  - animacion
+  - videojuegos
+  - produccion-audiovisual
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-lenguajes-y-medios-audiovisuales/'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/licenciatura-en-lenguajes-y-medios-audiovisuales'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+Se procurará que sus egresados obtengan a lo largo de la carrera: - Conocimiento de las diferentes etapas que involucra una producción audiovisual en sus diversas manifestaciones, con especial interés en cinematografía, videojuegos y animación, que le permitan abordar diferentes emprendimientos en el campo audiovisual con profundidad y solvencia creativa, técnica y humana. - Profunda reflexión crítica en relación a los contenidos, metodologías, formas de distribución y producción del medio audiovisual, contemplando el aporte formativo a su destinatario. - Una actitud de investigación permanente, experimentadora, como base fundamental para la profundización en las posibilidades expresivas del lenguaje, incorporando la duda como dinamizadora del proceso. - Capacidad y formación en el trabajo colectivo como forma de abordar proyectos que requieran del trabajo en equipo.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU.

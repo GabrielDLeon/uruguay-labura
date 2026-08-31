@@ -1,0 +1,101 @@
+---
+title: "Ingeniería en Energías Renovables"
+short: "Ing. en Energías Renovables"
+similar:
+  - tecnologo-en-energias-renovables-utec
+  - ingenieria-de-la-energia-especializacion-udelar
+  - ingenieria-de-la-energia-maestria-udelar
+  - ingenieria-de-la-energia-doctorado-udelar
+  - ingenieria-en-sistemas-electricos-de-potencia-ucu
+  - ingenieria-electrica-ort
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "ingenieria"
+area: "Sostenibilidad ambiental"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No informada"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-energias-renovables/"
+contactEmail: "secretaria.ier@utec.edu.uy"
+location: "Durazno (ITR Centro-Sur)"
+accreditation: "UTEC"
+description: "Ingeniería gratuita en Energías Renovables de UTEC, presencial en Durazno. Formación para promover, diseñar, implementar y administrar el uso de energía limpia. Especializaciones en energía solar y eólica. Título intermedio de Tecnólogo."
+tags:
+  - ingenieria
+  - energia
+  - energias-renovables
+  - energia-solar
+  - energia-eolica
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La Ingeniería en Energías Renovables se orienta a la formación de profesionales que promuevan, diseñen, implementen y administren el uso de **energía limpia** a partir de fuentes primarias de energía, como son la energía solar, eólica e hidráulica, desde la perspectiva de un desarrollo humano y productivo sustentable en todo el territorio.
+
+Esta carrera tiene **dos especializaciones para el título de ingeniero: energía solar y eólica**. Además, es posible obtener el **título intermedio de Tecnólogo en Energías Renovables al culminar el sexto semestre**.
+
+### Título Intermedio y Especializaciones
+
+- **Título intermedio:** Tecnólogo en Energías Renovables, al culminar el sexto semestre.
+- **Especializaciones de ingeniería:** energía solar y eólica.
+
+### Competencias del Egresado
+
+**Egresados del Tecnólogo** serán competentes para:
+
+- Implementación y mantenimiento de instalaciones de generación de energías renovables (EERR), mejorando la eficiencia energética y asegurando el cumplimiento del marco legal vigente y la normativa de seguridad.
+- Desarrollo e implementación de medidas de seguridad y manejo de riesgo.
+- Implementar proyectos en el ámbito de la energía eólica integrando equipos de megaproyectos.
+- Implementar proyectos de energía solar fotovoltaica-térmica en pequeña escala para la atención de la demanda residencial, de servicios y/o comercial.
+
+**Egresados de la Ingeniería** serán competentes para:
+
+- Diseño y optimización de sistemas e instalaciones de generación de energías renovables, mejorando la eficiencia energética y asegurando el cumplimiento de la normativa aplicable.
+- Asesorar a empresas, industrias locales y tomadores de decisión en el uso de energías renovables (tecnológico, ambiental, económico y legal).
+- Gestión de sistemas de energías renovables.
+- Investigación, innovación y desarrollo de emprendimientos científicos, tecnológicos y de ingeniería en las áreas de competencia.
+
+### Salida Laboral
+
+- Energía solar y eólica
+- Eficiencia energética
+- Asesoramiento técnico y normativo en energías renovables
+- Gestión de proyectos energéticos
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+**Tramo inicial (1° al 6° semestre):**
+
+Egresados del Consejo de Educación Secundaria (CES) de las orientaciones Físico-Matemática, Matemática y Diseño, Ciencias Agrarias, Social Económica y Ciencias Biológicas (o planes equivalentes).
+
+Egresados de la Dirección General de Educación Técnico Profesional (DGETP-UTU) de las siguientes opciones: EMT Construcción, EMT Química y termodinámica, EMT Informática, EMT Administración, EMT Electro-Electrónica, EMT Electromecánica, EMT Maquinista naval, EMT Aeronáutica, EMT Energías Renovables, BP Electrónica, BP Construcción, BP Energías Renovables, BP Electrotecnia, FINEST BP Electroelectrónica, FINEST BP Energía Renovables (o planes equivalentes).
+
+**Requisitos de ingreso al tramo de Ingeniería (séptimo semestre):**
+
+- Egresados del Tecnólogo en Energías Renovables - Opción Eólica o Solar (UTEC).
+- Estudiantes de carreras universitarias con estudios incompletos de Licenciatura en Física (opción Física - UdelaR) o Ingenierías, con 274 créditos como mínimo aprobados (previo Plan de Enlace).
+- Ingenieros Tecnológicos del CETP-UTU de las orientaciones Electrónica, Electrotecnia y Aeronáutica (a través del Plan de Enlace).
+- Ingenieros, en cualquiera de sus orientaciones, egresados de carreras universitarias (a través del Plan de Enlace).
+- Egresados del Profesorado en Física y de Matemática del CFE/ANEP (a través del Plan de Enlace).
+
+### Proceso de Preinscripción
+
+Las preinscripciones a las carreras de grado de UTEC inician generalmente en el mes de noviembre y se realizan a través de un formulario web. La documentación necesaria es la siguiente:
+
+- Cédula de identidad
+- Carné de salud vigente o constancia de que se encuentra en trámite
+- Pase de Enseñanza Media Superior (fórmula 69A de bachillerato o constancia de egreso del CES o DGETP-UTU)
+- Carta de motivación
+- Constancia de voto
+
+En el caso de aquellas carreras que no poseen límite de cupos para el ingreso o cuyos cupos no son superados en el primer período de preinscripciones, se abre una nueva instancia en el período enero-febrero.

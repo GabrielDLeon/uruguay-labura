@@ -1,0 +1,99 @@
+---
+title: "Ingeniería en Mecatrónica"
+short: "Ing. en Mecatrónica"
+similar:
+  - ingenieria-en-control-y-automatica-utec
+  - tecnologo-en-mecatronica-industrial-utec
+  - tecnologo-en-mecatronica-utec
+  - ingenieria-mecanica-doctorado-udelar
+  - ingenieria-mecanica-maestria-udelar
+  - ingenieria-en-electronica-ort
+institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
+institution: "utec"
+degreeType: "ingenieria"
+area: "Mecatrónica, Logística y Biomédica"
+modality: "hibrido"
+shift: "night"
+weeklyHours: "No informada"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-mecatronica/"
+contactEmail: "secretaria.imec@utec.edu.uy"
+location: "Fray Bentos (ITR Suroeste)"
+accreditation: "UTEC"
+description: "Ingeniería gratuita en Mecatrónica de UTEC, semipresencial en Fray Bentos. Combina ingeniería mecánica, electrónica e informática para automatizar equipos, procesos y productos. Título intermedio de Tecnólogo en Mecatrónica."
+tags:
+  - mecatronica
+  - ingenieria-mecanica
+  - electronica
+  - automatizacion
+  - automatizacion-industrial
+  - ingenieria
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+La carrera de Ingeniería en Mecatrónica combina sinérgicamente la **ingeniería mecánica, electrónica e informática** para formar profesionales capaces de idear, desarrollar, optimizar y automatizar equipos, procesos y productos, con conocimientos que les permitan adaptarse rápidamente a un clima organizacional, preservando la productividad y competitividad de las empresas e industrias, la seguridad de las personas y el medio ambiente.
+
+### Modalidad
+
+La modalidad de la carrera es **semipresencial**. Durante el semestre, se debe asistir a **cuatro jornadas presenciales** aproximadamente, con clases que van desde las 12:00 a las 22:00. Las evaluaciones parciales y exámenes también son presenciales, con dos períodos de evaluaciones por semestre. El resto de las clases regulares se pueden seguir de manera virtual en el horario de 17:30 a 22:30.
+
+### Título Intermedio
+
+Al finalizar el tercer año, el estudiante puede acceder a la titulación intermedia de **Tecnólogo/a en Mecatrónica** (titulación compartida con DGETP-UTU).
+
+### Competencias del Egresado
+
+**Egresados del Tecnólogo** serán competentes para:
+
+- Implementar software y hardware específicos para el correcto desempeño de procesos industriales.
+- Verificar la capacidad operacional de los sistemas mecatrónicos en planta usando sistemas de monitoreo.
+- Instalar y poner en servicio sistemas mecatrónicos considerando normas de calidad, seguridad y medio ambiente.
+- Ejecutar planes de mantenimiento (preventivos y correctivos) diseñados por especialistas.
+- Fabricar equipos, sistemas y procesos mecatrónicos de acuerdo con el diseño.
+- Fabricar prototipos para sistemas y procesos mecatrónicos.
+- Reconocer paradigmas tecnológicos tradicionales e innovadores presentes en una infraestructura o equipamiento industrial.
+
+**Egresados de la Ingeniería** serán competentes para:
+
+- Seleccionar con criterio técnico, económico y ambiental software y hardware para el correcto desempeño de procesos industriales.
+- Establecer planes de relevamiento de procesos, seguimiento y registro de actividades operacionales de sistemas mecatrónicos.
+- Diseñar/dirigir planes para la instalación y puesta en servicio de sistemas mecatrónicos considerando normas de calidad, seguridad y medio ambiente.
+- Diseñar planes de mantenimiento (preventivos y correctivos) y gestionar metodologías de mantenimiento basadas en la confiabilidad.
+- Evaluar técnica y económicamente la gestión del mantenimiento de acuerdo con normativas nacionales e internacionales.
+
+### Salida Laboral
+
+- Automatización industrial
+- Mantenimiento y gestión de sistemas mecatrónicos
+- Diseño e integración de equipos y procesos
+- Industria manufacturera
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+- Egresados del Consejo de Educación Secundaria (CES) de las siguientes opciones: Físico-Matemática, Matemática y Diseño, Ciencias Biológicas o Ciencias Agrarias.
+- Egresados de la Educación Media Tecnológica de la DGETP-UTU en las siguientes opciones: Agraria, Electro-Electrónica, Electromecánica, Electromecánica Automotriz, Maquinista Naval, Aeronáutica, Sistema de Aeronaves, Sistema Motopropulsor, Aviónica, Informática, Energías Renovables, Robótica y Telecomunicaciones, Termodinámica, Química Básica Industrial, Construcción o Automatización Industrial (o planes equivalentes).
+- Egresados del Bachillerato Profesional de la DGETP-UTU en: Instalaciones Eléctricas, Energías Renovables - Biomasa, Soporte Informático, Electrónica, Mecánica Agrícola, Mecánica General, Mecánica Automotriz, Construcción de Embarcaciones o Agroforestal (o planes equivalentes).
+- Podrán preinscribirse los estudiantes del Ciclo Inicial Optativo (CIO) en Ciencia y Tecnología de la UdelaR (CENUR) con al menos 50 créditos aprobados.
+- Egresados del Tecnólogo en Mecatrónica Industrial (UTEC) acceden directamente al tramo de Ingeniería Mecatrónica.
+
+### Proceso de Preinscripción
+
+Las preinscripciones a las carreras de grado de UTEC inician generalmente en el mes de noviembre y se realizan a través de un formulario web. La documentación necesaria es la siguiente:
+
+- Cédula de identidad
+- Carné de salud vigente o constancia de que se encuentra en trámite
+- Pase de Enseñanza Media Superior (fórmula 69A de bachillerato o constancia de egreso del CES o DGETP-UTU)
+- Carta de motivación
+- Constancia de voto
+
+En el caso de aquellas carreras que no poseen límite de cupos para el ingreso o cuyos cupos no son superados en el primer período de preinscripciones, se abre una nueva instancia en el período enero-febrero.

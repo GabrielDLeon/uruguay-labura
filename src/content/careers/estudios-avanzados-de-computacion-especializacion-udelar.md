@@ -1,0 +1,60 @@
+---
+title: "Especialización en Estudios Avanzados de Computación"
+similar:
+  - ingenieria-en-computacion-maestria-udelar
+  - ingenieria-en-computacion-udelar
+  - licenciatura-en-computacion-udelar
+  - ingenieria-de-software-maestria-udelar
+  - ingenieria-de-software-especializacion-udelar
+  - tecnicatura-en-desarrollador-de-software-ucu
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "especializacion"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+cost: "Arancelada"
+language: "Español"
+website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=81"
+location: "Facultad de Ingeniería, Montevideo"
+description: "El Diploma de Especialización \\\\\"Estudios Avanzados en Computación\\\\\" se dirigea profesionales en esta disciplina, que deseen actualizar y ampliar sus conocimientosen áreas de gran desarrollo reciente. Apunta a lograr profesionales capaces de encararcon solvencia la resolución de problemas de relativa importancia en elárea, complementando los elementos informativos y metodológicos que adquirió en elgrado."
+startDate: ""
+applicationDeadline: "Facultad de Ingeniería"
+tags:
+  - informatica
+  - software
+  - programacion
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Catálogo de Posgrados Udelar (CAP)'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=81'
+  - label: 'Ficha PDF'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=81'
+---
+
+## Resumen
+
+### Objetivo
+
+El Diploma de Especialización \\"Estudios Avanzados en Computación\\" se dirige a profesionales en esta disciplina, que deseen actualizar y ampliar sus conocimientos en áreas de gran desarrollo reciente. Apunta a lograr profesionales capaces de encarar con solvencia la resolución de problemas de relativa importancia en el área, complementando los elementos informativos y metodológicos que adquirió en el grado. Se busca promover la actualización de los conocimientos en las distintas áreas de la Ingeniería de Computación, así como generar recursos humanos capaces de afrontar y resolver las necesidades de la sociedad uruguaya.
+
+### Perfil de egreso
+
+El egresado adquirirá la capacidad de aplicar con profundidad y solvencia en su actividad profesional los temas de estudio incluidos en el Diploma; asimismo, adquirirá los elementos metodológicos que junto con la capacidad de abordar bibliografía especializada, le permitan comprender y emplear las nuevas tecnologías para la resolución de problemas en su actividad profesional.
+
+### Referentes académicos
+
+Diego Vallespir
+
+## Ingreso
+
+### Reglamento
+
+Las candidaturas deberán ser presentadas a la SCAPA-Informática, quien deberá elevar un informe a la CAP sugiriendo la aprobación o no de la candidatura.La Sub Comisión Académica de Posgrado de Informática (SCAPA - Informática) supervisará las actividades ligadas al desarrollo del Diploma de Especialización Estudios Avanzados en Computación; sin perjuicio de las competencias que correspondan a la Comisión Académica de Posgrado (CAP) y al Consejo de la Facultad de Ingeniería. La SCAPA-Informática nombrará para cada generación de estudiantes un Director de Estudios, responsable de la organización de las actividades y de la orientación a los estudiantes.
+
+### Requisitos de Ingreso
+
+Podrán acceder al Diploma de Especialización quienes posean título de Ingeniero en Computación otorgado por la Universidad de la República u otros estudios que, a juicio de la SCAPA-Informática, acrediten una formación que permitan la realización y aprovechamiento del Diploma. La SCAPA-Informática podrá proponer la realización de cursos de nivelación en caso de ser necesario

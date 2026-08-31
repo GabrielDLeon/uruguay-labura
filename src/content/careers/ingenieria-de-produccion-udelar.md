@@ -1,0 +1,52 @@
+---
+title: "Ingeniería de Producción"
+similar:
+  - ingenieria-industrial-mecanica-udelar
+  - ingenieria-industrial-ucu
+  - ingenieria-industrial-um
+  - ingenieria-civil-udelar
+  - tecnologo-industrial-mecanico-udelar
+  - ingenieria-fisico-matematica-udelar
+institutionName: "Universidad de la República (UDELAR)"
+institution: "udelar"
+degreeType: "ingenieria"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+modality: "presencial"
+shift: "day"
+weeklyHours: "No especificado"
+duration: "5 años"
+cost: "Gratuita"
+language: "Español"
+website: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n"
+location: "Facultad de Ingeniería"
+description: "El Ingeniero de Producción integrará los conocimientos de Ciencia, Tecnología y Administración, y estará capacitado para desarrollar, gestionar y optimizar sistemas de producción de bienes y servicios. Asimismo, actuará sobre sistemas que involucren recursos materiales, financieros y humanos, integr"
+startDate: ""
+applicationDeadline: ""
+credits: 450
+tags:
+  - ingenieria-industrial
+  - ingenieria
+  - procesos-industriales
+  - gestion-de-operaciones
+  - programa-roberto-rocca
+draft: true
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-08-07 12:21:06"
+sources:
+  - label: 'Página oficial'
+    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n'
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/ingenieria-de-produccion'
+---
+
+## Resumen
+
+### Sobre la Carrera
+
+El Ingeniero de Producción integrará los conocimientos de Ciencia, Tecnología y Administración, y estará capacitado para desarrollar, gestionar y optimizar sistemas de producción de bienes y servicios. Asimismo, actuará sobre sistemas que involucren recursos materiales, financieros y humanos, integrándolos para lograr los objetivos planificados, considerando siempre el impacto sobre el entorno social y el ambiente. La Carrera de Ingeniería de Producción se compone de los siguientes ejes: Básico: INGENIERÍA y TECNOLOGÍA: tiene como objetivo el dotar de conocimiento base y transversal con otras carreras de Facultad de Ingeniería. Además de cubrir áreas como Matemática, Física y Química, se contemplan por ejemplo las siguientes disciplinas: Termodinámica Fenómenos de Transporte Fluidodinámica Electrotecnia Mecánica Ingeniería Ambiental Ingeniería de Software Específico: OPERACIONES: área específica de la carrera la cual busca abordar problemáticas por ejemplo dentro de los siguientes rubros: Programación y Planificación (Productos, Procesos, Tareas, Calendario, Recursos) Almacenamiento, Manejo de Inventarios Logística Tráfico, Ruteo, Distribución Asignación de Recursos HERRAMIENTAS COMPUTACIONALES PARA TOMA DE DECISIONES: área específica de la carrera que integra conocimientos de las siguientes disciplinas: Investigación de Operaciones Modelado Matemático Optimización Programación Matemática Algoritmos de Optimización GERENCIAMIENTO Y ADMINISTRACIÓN: área específica de la carrera que tiene como objetivo brindar capacidades base de gestión por ejemplo en los siguientes rubros: Producción, Tiempos Costos, Inversiones Calidad, Seguridad en el Trabajo. Proyectos Recursos Humanos en la Producción de Bienes y Servicios
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Haber egresado del Bachillerato Diversificado de Enseñanza Secundaria, opción Físico-Matemática. Bachillerato Tecnológico (DGETP-UTU) de Procesamiento y Mantenimiento Informático, Termodinámica, Electromecánica y Electrónica (planes 1997), Mecánica Automotriz (Plan 1998), Diseño y Tecnología de la Construcción (Plan 1999). Oficiales del Ejército (Escuela Militar), egresados de la Escuela Militar de Aeronáutica, egresados de la Escuela Naval.
