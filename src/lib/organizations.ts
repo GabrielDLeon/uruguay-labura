@@ -71,6 +71,44 @@ const organizationFullNames: Record<string, string> = {
   utec: "Universidad Tecnologica",
 };
 
+const organizationLogos: Record<string, string> = {
+  "universidad de la republica": "/org-logos/udelar.webp",
+  udelar: "/org-logos/udelar.webp",
+  "universidad tecnologica": "/org-logos/utec.webp",
+  utec: "/org-logos/utec.webp",
+  "banco de prevision social": "/org-logos/bps.png",
+  bps: "/org-logos/bps.png",
+  "banco hipotecario del uruguay": "/org-logos/bhu.png",
+  bhu: "/org-logos/bhu.png",
+  "administracion de las obras sanitarias del estado": "/org-logos/ose.png",
+  ose: "/org-logos/ose.png",
+  "intendencia de canelones": "/org-logos/canelones.png",
+  "intendencia de soriano": "/org-logos/soriano.png",
+  "intendencia de san jose": "/org-logos/san-jose.png",
+  "administracion nacional de educacion publica": "/org-logos/anep.png",
+  anep: "/org-logos/anep.png",
+  "administracion de servicios de salud del estado": "/org-logos/asse.jpg",
+  asse: "/org-logos/asse.jpg",
+  "ministerio de economia y finanzas": "/org-logos/escudo-presidencia.png",
+  mef: "/org-logos/escudo-presidencia.png",
+  "ministerio de vivienda y ordenamiento territorial": "/org-logos/escudo-presidencia.png",
+  mvot: "/org-logos/escudo-presidencia.png",
+  "ministerio de educacion y cultura": "/org-logos/escudo-presidencia.png",
+  mec: "/org-logos/escudo-presidencia.png",
+  "ministerio de transporte y obras publicas": "/org-logos/escudo-presidencia.png",
+  mtop: "/org-logos/escudo-presidencia.png",
+  "ministerio de defensa nacional": "/org-logos/escudo-presidencia.png",
+  mdn: "/org-logos/escudo-presidencia.png",
+  "ministerio de desarrollo social": "/org-logos/escudo-presidencia.png",
+  mides: "/org-logos/escudo-presidencia.png",
+  "ministerio del interior": "/org-logos/escudo-presidencia.png",
+};
+
+export function getOrganizationLogo(organization: string) {
+  const normalized = normalizeText(organization);
+  return organizationLogos[normalized] ?? null;
+}
+
 export function normalizeText(text: string) {
   return text
     .toLowerCase()

@@ -23,6 +23,16 @@ export async function fetchAndProcessJobs(sourceUrl) {
     return trimmed.length > 0 ? trimmed : null;
   }
 
+  function normalizeLocation(value) {
+    const text = toNullableString(value);
+    if (!text) return null;
+    const cleaned = text
+      .replace(/^departamento\s+de\s+/i, "")
+      .replace(/[.]+$/, "")
+      .trim();
+    return cleaned.length > 0 ? cleaned : null;
+  }
+
   function normalizeText(value) {
     return value
       .normalize("NFD")
@@ -116,7 +126,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
       callNumber,
       title,
       position: toNullableString(rawJob.cargo),
-      location: toNullableString(rawJob.lugar),
+      location: normalizeLocation(rawJob.lugar),
       organization: toNullableString(rawJob.organization),
       subOrganization: toNullableString(rawJob.sub_organization),
       department: null,

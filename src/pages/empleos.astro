@@ -16,7 +16,7 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
     kind="pagina"
   />
 
-  <Block>
+  <Block class="border-b border-border">
     <PageHeader title="Llamados laborales de Uruguay">
       El siguiente listado es una recopilación semanal de los concursos
       actualmente disponibles y activos del sitio
@@ -28,7 +28,9 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
         >Uruguay Concursa</a
       >. El proyecto busca mejorar la experiencia de los usuarios.
     </PageHeader>
+  </Block>
 
+  <Block>
     <JobsBoard
       client:load
       initialQuery={Astro.url.searchParams.get("q") ?? ""}

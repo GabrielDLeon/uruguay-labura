@@ -18,6 +18,7 @@ import useJobs from "@/components/jobs/useJobs";
 import {
   getOrganizationAbbreviation,
   getOrganizationFullName,
+  getOrganizationLogo,
   getOrganizationSearchText,
 } from "@/lib/organizations";
 
@@ -171,6 +172,7 @@ export default function JobsBoard({
           label: abbreviation,
           description: abbreviation === fullName ? undefined : fullName,
           searchText: getOrganizationSearchText(organizationName),
+          logo: getOrganizationLogo(organizationName),
         };
       });
   }, [jobs]);
@@ -283,7 +285,8 @@ export default function JobsBoard({
 
   return (
     <section className="flex flex-col gap-6">
-      <JobsFilters
+      <div className="-mx-4 border-b border-border px-4 pb-6 sm:-mx-6 sm:px-6">
+        <JobsFilters
         query={query}
         callNumber={callNumber}
         organization={organization}
@@ -304,7 +307,8 @@ export default function JobsBoard({
         onDiscapacidadChange={handleDiscapacidadChange}
         onTransChange={handleTransChange}
         onVictimasChange={handleVictimasChange}
-      />
+        />
+      </div>
 
       {hasNoResults ? (
         <p className="text-muted-foreground text-sm">

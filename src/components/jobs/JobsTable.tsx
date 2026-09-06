@@ -1,4 +1,6 @@
-import OrganizationLabel from "@/components/jobs/OrganizationLabel";
+import OrgLogo from "@/components/jobs/OrgLogo";
+import { Icon } from "@iconify/react/offline";
+
 import SaveButton from "@/components/jobs/SaveButton";
 import ShareButton from "@/components/jobs/ShareButton";
 import { formatDateShort, formatRelative } from "@/lib/dates";
@@ -9,11 +11,14 @@ import {
   TAG_LABELS,
   shorten,
 } from "@/components/jobs/jobs";
+import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
 
 interface Props {
   jobs: JobRecord[];
 }
+
+const SHOW_TAGS = false;
 
 export default function JobsTable({ jobs }: Props) {
   return (
@@ -22,8 +27,10 @@ export default function JobsTable({ jobs }: Props) {
         <table className="table table-fixed w-full min-w-[900px]">
           <colgroup>
             <col className="w-24" />
-            <col />
-            <col className="w-78" />
+            <col className="w-10" />
+            <col className="w-80" />
+            {SHOW_TAGS ? <col className="w-78" /> : null}
+            <col className="w-32" />
             <col className="w-28" />
             <col className="w-28" />
             <col className="w-20" />
@@ -31,8 +38,10 @@ export default function JobsTable({ jobs }: Props) {
           <thead>
             <tr>
               <th>Llamado</th>
+              <th><span className="sr-only">Organismo</span></th>
               <th>Título</th>
-              <th>Tags</th>
+              {SHOW_TAGS ? <th>Tags</th> : null}
+              <th>Lugar</th>
               <th>Apertura</th>
               <th>Cierre</th>
               <th className="text-center"><span className="sr-only">Acciones</span></th>
@@ -40,25 +49,14 @@ export default function JobsTable({ jobs }: Props) {
           </thead>
           <tbody>
             {jobs.map((job) => (
-              <tr
-                key={job.id}
-                onClick={() =>
-                  window.open(job.applyUrl ?? job.detailUrl, "_blank")
-                }
-                onKeyDown={(e) => {
-                  if (e.key === "Enter" || e.key === " ") {
-                    e.preventDefault();
-                    window.open(job.applyUrl ?? job.detailUrl, "_blank");
-                  }
-                }}
-                tabIndex={0}
-                role="link"
-                className="cursor-pointer hover:bg-[var(--muted)]"
-              >
+              <tr key={job.id} className="hover:bg-[var(--muted)]">
                 <td className="whitespace-nowrap">
                   <span className="badge inline-flex items-center" data-variant="outline">
                     {job.callNumber}
                   </span>
+                </td>
+                <td>
+                  <OrgLogo organization={job.organization} />
                 </td>
                 <td>
                   <div className="font-semibold">
@@ -66,36 +64,29 @@ export default function JobsTable({ jobs }: Props) {
                       {shorten(job.title, MAX_TITLE_LENGTH)}
                     </span>
                   </div>
-                  {job.position && job.position !== job.title ? (
-                    <div
-                      className="text-muted-foreground truncate text-xs"
-                      title={job.position}
-                    >
-                      {job.position}
-                    </div>
-                  ) : null}
                   <div
                     className="text-muted-foreground truncate text-xs"
-                    title={`${job.organization ?? "Sin dato"}${job.subOrganization ? ` (${job.subOrganization})` : ""}${job.location ? ` - ${job.location}` : ""}`}
+                    title={`${job.organization ?? "Sin dato"}${job.subOrganization ? ` - ${job.subOrganization}` : ""}`}
                   >
-                    <OrganizationLabel
-                      organization={job.organization}
-                      subOrganization={job.subOrganization}
-                    />
-                    {job.location ? ` - ${job.location}` : null}
+                    {job.subOrganization ?? "Sin dato"}
                   </div>
                 </td>
-                <td
-                  className="truncate"
-                  title={job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((t) => TAG_LABELS[t] ?? t).join(", ")}
-                >
-                  <span className="inline-flex gap-1">
-                    {job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((tag) => (
-                      <span key={tag} className="badge text-xs" data-variant="outline">
-                        {TAG_LABELS[tag] ?? tag}
-                      </span>
-                    ))}
-                  </span>
+                {SHOW_TAGS ? (
+                  <td
+                    className="truncate"
+                    title={job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((t) => TAG_LABELS[t] ?? t).join(", ")}
+                  >
+                    <span className="inline-flex gap-1">
+                      {job.tags.filter((t) => !HIDDEN_TAGS.has(t)).map((tag) => (
+                        <span key={tag} className="badge text-xs" data-variant="outline">
+                          {TAG_LABELS[tag] ?? tag}
+                        </span>
+                      ))}
+                    </span>
+                  </td>
+                ) : null}
+                <td className="truncate text-xs" title={job.location ?? undefined}>
+                  {job.location ?? "—"}
                 </td>
                 <td className="whitespace-nowrap">
                   {formatDateShort(job.openingDate)}
@@ -109,11 +100,23 @@ export default function JobsTable({ jobs }: Props) {
                 <td className="whitespace-nowrap">
                   <span
                     className="inline-flex items-center gap-0.5"
-                    onClick={(e) => e.stopPropagation()}
-                    onKeyDown={(e) => e.stopPropagation()}
                     role="toolbar"
                     aria-label="Acciones"
                   >
+                    <a
+                      href={job.applyUrl ?? job.detailUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                      title="Abrir llamado"
+                      aria-label="Abrir llamado"
+                      className="text-muted-foreground hover:text-foreground hover:bg-muted inline-flex items-center justify-center rounded p-1 transition-colors"
+                    >
+                      <Icon
+                        icon={appIcons.externalLink}
+                        width="18"
+                        height="18"
+                      />
+                    </a>
                     <SaveButton jobId={job.id} />
                     <ShareButton
                       url={job.applyUrl ?? job.detailUrl}

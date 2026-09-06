@@ -1,6 +1,6 @@
 import { Icon } from "@iconify/react/offline";
 
-import OrganizationLabel from "@/components/jobs/OrganizationLabel";
+import OrgLogo from "@/components/jobs/OrgLogo";
 import SaveButton from "@/components/jobs/SaveButton";
 import ShareButton from "@/components/jobs/ShareButton";
 import { formatDateShort, formatRelative } from "@/lib/dates";
@@ -23,6 +23,7 @@ export default function JobsList({ jobs }: Props) {
       {jobs.map((job) => (
         <article key={job.id} className="card">
           <header className="flex flex-wrap items-center gap-2">
+            <OrgLogo organization={job.organization} />
             <a
               href={job.detailUrl}
               target="_blank"
@@ -40,19 +41,11 @@ export default function JobsList({ jobs }: Props) {
                 {shorten(job.title, MAX_TITLE_LENGTH)}
               </span>
             </h3>
-            {job.position && job.position !== job.title ? (
-              <p
-                className="text-muted-foreground mt-1 truncate text-sm"
-                title={job.position}
-              >
-                {job.position}
-              </p>
-            ) : null}
-            <p className="text-muted-foreground mt-1 text-sm">
-              <OrganizationLabel
-                organization={job.organization}
-                subOrganization={job.subOrganization}
-              />
+            <p
+              className="text-muted-foreground mt-1 truncate text-sm"
+              title={`${job.organization ?? "Sin dato"}${job.subOrganization ? ` - ${job.subOrganization}` : ""}`}
+            >
+              {job.subOrganization ?? "Sin dato"}
               {job.location ? ` - ${job.location}` : null}
             </p>
             <div className="text-muted-foreground mt-3 grid grid-cols-2 gap-2 text-xs">
