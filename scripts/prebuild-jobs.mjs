@@ -100,6 +100,14 @@ export async function fetchAndProcessJobs(sourceUrl) {
       typeof rawJob.total_positions === "number"
         ? rawJob.total_positions
         : null;
+    const documents = Array.isArray(rawJob.documentos)
+      ? rawJob.documentos
+          .map((item) => ({
+            id: toNullableString(String(item?.id ?? "")) ?? "",
+            name: toNullableString(item?.nombre) ?? "",
+          }))
+          .filter((item) => item.id.length > 0 && item.name.length > 0)
+      : [];
 
     return {
       id: `${sourceName}-${sourceJobId}`,
@@ -107,6 +115,8 @@ export async function fetchAndProcessJobs(sourceUrl) {
       sourceJobId,
       callNumber,
       title,
+      position: toNullableString(rawJob.cargo),
+      location: toNullableString(rawJob.lugar),
       organization: toNullableString(rawJob.organization),
       subOrganization: toNullableString(rawJob.sub_organization),
       department: null,
@@ -126,6 +136,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
       vinculoType,
       totalPositions,
       tags: Array.isArray(rawJob.tags) ? rawJob.tags : [],
+      documents,
       detailUrl: `${jobUrlBase}${sourceJobId}`,
       applyUrl: `${jobUrlBase}${sourceJobId}`,
       scrapedAt: nowIso,

@@ -193,11 +193,14 @@ export default function JobsBoard({
         const haystack = normalize(
           [
             job.title,
+            job.position,
             job.callNumber,
             job.organization,
             job.subOrganization,
             job.locality,
+            job.location,
             job.taskType,
+            job.tags.join(" "),
           ]
             .filter(Boolean)
             .join(" "),

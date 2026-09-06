@@ -66,14 +66,23 @@ export default function JobsTable({ jobs }: Props) {
                       {shorten(job.title, MAX_TITLE_LENGTH)}
                     </span>
                   </div>
+                  {job.position && job.position !== job.title ? (
+                    <div
+                      className="text-muted-foreground truncate text-xs"
+                      title={job.position}
+                    >
+                      {job.position}
+                    </div>
+                  ) : null}
                   <div
                     className="text-muted-foreground truncate text-xs"
-                    title={`${job.organization ?? "Sin dato"}${job.subOrganization ? ` (${job.subOrganization})` : ""}`}
+                    title={`${job.organization ?? "Sin dato"}${job.subOrganization ? ` (${job.subOrganization})` : ""}${job.location ? ` - ${job.location}` : ""}`}
                   >
                     <OrganizationLabel
                       organization={job.organization}
                       subOrganization={job.subOrganization}
                     />
+                    {job.location ? ` - ${job.location}` : null}
                   </div>
                 </td>
                 <td

@@ -42,12 +42,19 @@ const dashboardSchema = z.object({
   evolution: z.array(evolutionSnapshotSchema),
 });
 
+const documentSchema = z.object({
+  id: z.string().min(1),
+  name: z.string().min(1),
+});
+
 export const jobSchema = z.object({
   id: z.string().min(1),
   source: z.string().min(1),
   sourceJobId: z.string().min(1),
   callNumber: z.string().min(1),
   title: z.string().min(1),
+  position: z.string().nullable(),
+  location: z.string().nullable(),
   organization: z.string().nullable(),
   subOrganization: z.string().nullable(),
   department: z.string().nullable(),
@@ -67,6 +74,7 @@ export const jobSchema = z.object({
   vinculoType: z.string().nullable(),
   totalPositions: z.number().nullable(),
   tags: z.array(z.string()),
+  documents: z.array(documentSchema).default([]),
   detailUrl: z.url(),
   applyUrl: z.url().nullable(),
   scrapedAt: z.string(),

@@ -88,6 +88,7 @@ export const TAG_LABELS: Record<string, string> = {
   medicina_emergencia: "Emergencia",
   medicina_fisica_rehab: "Med. Física y Rehab.",
   infectologia: "Infectología",
+  kinesiologia: "Kinesiología",
   veterinaria: "Veterinaria",
   administracion_salud: "Adm. Salud",
 }

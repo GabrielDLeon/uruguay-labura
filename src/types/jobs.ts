@@ -7,12 +7,19 @@ export interface JobQuotaFlags {
   victimasDelitosViolentos: boolean;
 }
 
+export interface JobDocument {
+  id: string;
+  name: string;
+}
+
 export interface JobRecord {
   id: string;
   source: string;
   sourceJobId: string;
   callNumber: string;
   title: string;
+  position: string | null;
+  location: string | null;
   organization: string | null;
   subOrganization: string | null;
   department: string | null;
@@ -27,6 +34,7 @@ export interface JobRecord {
   vinculoType: string | null;
   totalPositions: number | null;
   tags: string[];
+  documents: JobDocument[];
   detailUrl: string;
   applyUrl: string | null;
   scrapedAt: string;

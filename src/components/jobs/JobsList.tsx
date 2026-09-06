@@ -40,11 +40,20 @@ export default function JobsList({ jobs }: Props) {
                 {shorten(job.title, MAX_TITLE_LENGTH)}
               </span>
             </h3>
+            {job.position && job.position !== job.title ? (
+              <p
+                className="text-muted-foreground mt-1 truncate text-sm"
+                title={job.position}
+              >
+                {job.position}
+              </p>
+            ) : null}
             <p className="text-muted-foreground mt-1 text-sm">
               <OrganizationLabel
                 organization={job.organization}
                 subOrganization={job.subOrganization}
               />
+              {job.location ? ` - ${job.location}` : null}
             </p>
             <div className="text-muted-foreground mt-3 grid grid-cols-2 gap-2 text-xs">
               <span className="inline-flex items-center gap-1">
