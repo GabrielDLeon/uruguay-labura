@@ -1,11 +1,16 @@
 import "dotenv/config";
+import { existsSync } from "node:fs";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const sourceUrl = process.env.SOURCE_URL;
-if (!sourceUrl) {
-  throw new Error("SOURCE_URL no definida en .env");
+const rootDir = process.cwd();
+const outputPath = path.join(rootDir, "src/data/jobs.generated.json");
+const datasetExists = existsSync(outputPath);
+
+if (!sourceUrl && !datasetExists) {
+  throw new Error("SOURCE_URL no definida en .env y no existe dataset previo");
 }
 
 export async function fetchAndProcessJobs(sourceUrl) {
@@ -323,5 +328,9 @@ function computeDashboard(jobs, nowIso) {
 
 const isMainModule = process.argv[1] === fileURLToPath(import.meta.url);
 if (isMainModule) {
-  await fetchAndProcessJobs(sourceUrl);
+  if (!sourceUrl && datasetExists) {
+    console.log("[prebuild-jobs] No SOURCE_URL, using existing dataset");
+  } else {
+    await fetchAndProcessJobs(sourceUrl);
+  }
 }

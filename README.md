@@ -1,39 +1,94 @@
 # Uruguay Labura
 
-Sitio estático para centralizar llamados laborales en Uruguay. Actualmente solo cuenta con los llamados de Uruguay Concursa.
+Uruguay Labura es un sitio web que centraliza el acceso a oportunidades laborales y educativas en Uruguay.
 
-## Motivación
+Actualmente, la información sobre llamados laborales y oferta educativa se encuentra dispersa en decenas de sitios institucionales, con interfaces dispares que dificultan la búsqueda y la comparación. Este proyecto reúne esa oferta en un único directorio con búsqueda, filtros y fichas comparables.
 
-La experiencia de usuario del sitio de Uruguay Concursa me pareció compleja. Esta es una solución 1:1 pero enfocada en mejor UX.
+El contenido educativo como lo son carreras, instituciones y becas; constituyen el núcleo del sitio y se mantiene como contenido curado dentro del repositorio. Los llamados laborales se incorporan por agregación de fuentes externas, actualmente Uruguay Concursa. El sitio no gestiona postulaciones: cada ficha enlaza a la fuente oficial correspondiente.
+
+## Alcance
+
+- **Educación:** directorio de carreras, instituciones y becas en `src/content/` (~860 carreras, instituciones y becas). Las fichas de carrera generan pestañas automáticamente a partir de encabezados `##` (Resumen, Ingreso, Plan de Estudio, Fuentes).
+- **Empleo:** vista centralizada de llamados de Uruguay Concursa con filtros, generada durante el build en `src/data/jobs.generated.json`.
 
 ## Stack
 
-- Astro 6.1
-- React 19
-- Tailwind + Basecoat
+- Astro 7 + React 19
+- Tailwind CSS v4 + Basecoat
+- Pagefind, astro-seo + sitemap
 
-## Comandos
+## Instalación
 
-- `pnpm install`
-- `pnpm dev`
-- `pnpm build`
-- `pnpm check`
-
-## Configuración
-
-El proyecto usa un script de scraping que se ejecuta automáticamente en build. Requiere la variable de entorno `SOURCE_URL` apuntando al JSON con los datos.
+Requisitos: Node 20+ y pnpm.
 
 ```bash
-SOURCE_URL=https://gist.githubusercontent.com/GabrielDLeon/152fb922300190a5c43ecf0318ed0ce2/raw/022d358f8aebcb36187fa182078b2aa20513c083/concursos.json pnpm build
+pnpm install
+cp .env.example .env
+pnpm dev
 ```
 
-## Contribuir
+### Variables de entorno
 
-Haz fork del repo, crea una rama con tus cambios y abre un PR.
+| Variable      | Requerida | Descripción                                                                       |
+| ------------- | --------- | --------------------------------------------------------------------------------- |
+| `SOURCE_URL`  | No\*      | URL del JSON con llamados. \*Obligatoria solo si no existe `jobs.generated.json`. |
+| `AUTH_TOKEN`  | No        | Token Bearer opcional, solo si la fuente lo requiere.                             |
+| `SHOW_DRAFTS` | No        | `true` para visualizar contenido con `draft: true`. Valor por defecto: `false`.   |
 
-## Deploy
+Ver `.env.example` para el formato.
 
-- **Producción**: https://uruguay-labura.pages.dev/
+### Comandos
+
+| Comando             | Descripción                                               |
+| ------------------- | --------------------------------------------------------- |
+| `pnpm dev`          | Servidor de desarrollo.                                   |
+| `pnpm build`        | Build de producción (incluye obtención de llamados).      |
+| `pnpm preview`      | Previsualización del build.                               |
+| `pnpm check`        | Verificación de tipos (Astro + TypeScript estricto).      |
+| `pnpm scrape:jobs`  | Regeneración de `jobs.generated.json` sin build completo. |
+| `pnpm check:dates`  | Verificación de fechas del contenido.                     |
+| `pnpm update:dates` | Actualización de fechas del contenido.                    |
+
+## Contribución
+
+Repositorio público y colaborativo. Cualquier persona puede abrir un pull request; todos son revisados. No se requiere autorización previa.
+
+### Tipos de aporte
+
+- **Contenido:** alta o corrección de carreras, instituciones o becas en `src/content/`. No requiere conocimientos de programación.
+- **Código:** corrección de errores, nuevas funcionalidades o refactorización.
+- **Documentación:** mejoras a la documentación o a este README.
+
+Indicar el tipo en el pull request según `.github/PULL_REQUEST_TEMPLATE.md`.
+
+### Procedimiento
+
+1. Crear un fork del repositorio y una rama (`git checkout -b feat/nueva-funcionalidad`).
+2. Verificar los cambios localmente (`pnpm dev`).
+3. Ejecutar `pnpm check` si se modificó código o frontmatter.
+4. Abrir un pull request contra `main` con descripción, tipo de cambio y capturas en caso de cambios visuales.
+
+El template del pull request incluye la lista de verificación, el issue relacionado y la evidencia requerida.
+
+### Convenciones
+
+- TypeScript estricto, imports con alias `@/*` y formato con Prettier (`pnpm prettier --write .`).
+- Contenido: frontmatter válido según `src/content.config.ts` y secciones con `##` según `docs/content-guide.md`.
+- Vocabulario del dominio (`CONTEXT.md`): **llamado** (no concurso ni puesto), **carrera** (no curso ni programa), **beca**, **institución**, **nivel**, **tipo de grado**. Aplica a issues, pull requests y contenido.
+
+## Estructura del proyecto
+
+```
+src/
+├── content/          # carreras, instituciones, becas (Markdown + frontmatter)
+├── content.config.ts # schemas Zod de las colecciones
+├── data/             # jobs.generated.json (llamados, generado en build)
+├── pages/            # rutas (empleos, educacion, carreras, acerca)
+├── components/       # componentes Astro/React
+└── lib/              # utilidades (tabs, carreras, etc.)
+scripts/              # prebuild-jobs, normalización y mantenimiento de contenido
+docs/                 # content-guide y documentación por fuente (udelar, utec, ort)
+```
 
 ## Licencia
 
