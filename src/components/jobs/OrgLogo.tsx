@@ -19,14 +19,14 @@ export default function OrgLogo({ organization }: Props) {
   const label = organization ?? "Sin dato";
 
   return (
-    <span className="inline-flex h-8 w-8 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-white">
+    <span className="inline-flex h-8 w-8 shrink-0 items-center justify-center overflow-hidden rounded-md">
       {logo ? (
         <img
           src={logo}
           alt={label}
           title={label}
           loading="lazy"
-          className="max-h-full max-w-full object-contain"
+          className="max-h-full max-w-full rounded-md object-contain"
         />
       ) : (
         <span

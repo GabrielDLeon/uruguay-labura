@@ -19,7 +19,6 @@ import mapMarkerOutline from "@iconify-icons/mdi/map-marker-outline.js";
 import numeric from "@iconify-icons/mdi/numeric.js";
 import openInNew from "@iconify-icons/mdi/open-in-new.js";
 import schoolOutline from "@iconify-icons/mdi/school-outline.js";
-import shareVariant from "@iconify-icons/mdi/share-variant.js";
 import tagOutline from "@iconify-icons/mdi/tag-outline.js";
 
 export const appIcons = {
@@ -41,7 +40,6 @@ export const appIcons = {
   school: schoolOutline,
   scholarship: handCoinOutline,
   search: magnify,
-  share: shareVariant,
   status: informationOutline,
   tag: tagOutline,
   taskType: briefcaseOutline,

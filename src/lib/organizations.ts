@@ -1,3 +1,15 @@
+import anepLogo from "@/assets/institutions/anep-logo.webp";
+import asseLogo from "@/assets/institutions/asse-logo.webp";
+import bhuLogo from "@/assets/institutions/bhu-logo.webp";
+import bpsLogo from "@/assets/institutions/bps-logo.webp";
+import canelonesLogo from "@/assets/institutions/canelones-logo.webp";
+import ministerioLogo from "@/assets/institutions/ministerio-logo.webp";
+import oseLogo from "@/assets/institutions/ose-logo.webp";
+import sanJoseLogo from "@/assets/institutions/san-jose-logo.webp";
+import sorianoLogo from "@/assets/institutions/soriano-logo.webp";
+import udelarLogo from "@/assets/institutions/udelar-logo.webp";
+import utecLogo from "@/assets/institutions/utec-logo.webp";
+
 const organizationAbbreviations: Record<string, string> = {
   "administracion de las obras sanitarias del estado": "OSE",
   "administracion de los ferrocarriles del estado": "AFE",
@@ -72,36 +84,36 @@ const organizationFullNames: Record<string, string> = {
 };
 
 const organizationLogos: Record<string, string> = {
-  "universidad de la republica": "/org-logos/udelar.webp",
-  udelar: "/org-logos/udelar.webp",
-  "universidad tecnologica": "/org-logos/utec.webp",
-  utec: "/org-logos/utec.webp",
-  "banco de prevision social": "/org-logos/bps.png",
-  bps: "/org-logos/bps.png",
-  "banco hipotecario del uruguay": "/org-logos/bhu.png",
-  bhu: "/org-logos/bhu.png",
-  "administracion de las obras sanitarias del estado": "/org-logos/ose.png",
-  ose: "/org-logos/ose.png",
-  "intendencia de canelones": "/org-logos/canelones.png",
-  "intendencia de soriano": "/org-logos/soriano.png",
-  "intendencia de san jose": "/org-logos/san-jose.png",
-  "administracion nacional de educacion publica": "/org-logos/anep.png",
-  anep: "/org-logos/anep.png",
-  "administracion de servicios de salud del estado": "/org-logos/asse.jpg",
-  asse: "/org-logos/asse.jpg",
-  "ministerio de economia y finanzas": "/org-logos/escudo-presidencia.png",
-  mef: "/org-logos/escudo-presidencia.png",
-  "ministerio de vivienda y ordenamiento territorial": "/org-logos/escudo-presidencia.png",
-  mvot: "/org-logos/escudo-presidencia.png",
-  "ministerio de educacion y cultura": "/org-logos/escudo-presidencia.png",
-  mec: "/org-logos/escudo-presidencia.png",
-  "ministerio de transporte y obras publicas": "/org-logos/escudo-presidencia.png",
-  mtop: "/org-logos/escudo-presidencia.png",
-  "ministerio de defensa nacional": "/org-logos/escudo-presidencia.png",
-  mdn: "/org-logos/escudo-presidencia.png",
-  "ministerio de desarrollo social": "/org-logos/escudo-presidencia.png",
-  mides: "/org-logos/escudo-presidencia.png",
-  "ministerio del interior": "/org-logos/escudo-presidencia.png",
+  "universidad de la republica": udelarLogo.src,
+  udelar: udelarLogo.src,
+  "universidad tecnologica": utecLogo.src,
+  utec: utecLogo.src,
+  "banco de prevision social": bpsLogo.src,
+  bps: bpsLogo.src,
+  "banco hipotecario del uruguay": bhuLogo.src,
+  bhu: bhuLogo.src,
+  "administracion de las obras sanitarias del estado": oseLogo.src,
+  ose: oseLogo.src,
+  "intendencia de canelones": canelonesLogo.src,
+  "intendencia de soriano": sorianoLogo.src,
+  "intendencia de san jose": sanJoseLogo.src,
+  "administracion nacional de educacion publica": anepLogo.src,
+  anep: anepLogo.src,
+  "administracion de servicios de salud del estado": asseLogo.src,
+  asse: asseLogo.src,
+  "ministerio de economia y finanzas": ministerioLogo.src,
+  mef: ministerioLogo.src,
+  "ministerio de vivienda y ordenamiento territorial": ministerioLogo.src,
+  mvot: ministerioLogo.src,
+  "ministerio de educacion y cultura": ministerioLogo.src,
+  mec: ministerioLogo.src,
+  "ministerio de transporte y obras publicas": ministerioLogo.src,
+  mtop: ministerioLogo.src,
+  "ministerio de defensa nacional": ministerioLogo.src,
+  mdn: ministerioLogo.src,
+  "ministerio de desarrollo social": ministerioLogo.src,
+  mides: ministerioLogo.src,
+  "ministerio del interior": ministerioLogo.src,
 };
 
 export function getOrganizationLogo(organization: string) {

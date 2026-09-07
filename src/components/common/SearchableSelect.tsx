@@ -106,7 +106,7 @@ export default function SearchableSelect({
               src={selected.logo}
               alt=""
               aria-hidden="true"
-              className="h-5 w-5 shrink-0 rounded bg-white object-contain"
+              className="h-5 w-5 shrink-0 rounded object-contain"
             />
           ) : null}
           <span className="truncate">{selected?.label ?? allLabel}</span>
@@ -171,7 +171,7 @@ export default function SearchableSelect({
                     src={option.logo}
                     alt=""
                     aria-hidden="true"
-                    className="h-6 w-6 shrink-0 rounded bg-white object-contain"
+                    className="h-6 w-6 shrink-0 rounded object-contain"
                   />
                 ) : null}
                 <div className="flex min-w-0 flex-col items-start gap-0">

@@ -1,10 +1,10 @@
+import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
 import type { JobRecord } from "@/types/jobs";
 
 export const MAX_TITLE_LENGTH = 110;
 export const ITEMS_PER_PAGE = 25;
 export const MIN_CALL_NUMBER_CHARS = 2;
 
-/** Tags que no se muestran en la columna de la tabla (siguen funcionando para búsqueda y filtros). */
 export const HIDDEN_TAGS = new Set(["salud"]);
 
 export function normalize(text: string | null | undefined) {
@@ -91,10 +91,29 @@ export const TAG_LABELS: Record<string, string> = {
   kinesiologia: "Kinesiología",
   veterinaria: "Veterinaria",
   administracion_salud: "Adm. Salud",
+};
+
+export type JobDisplayStatus = "abierto" | "cerrado";
+
+export const DISPLAY_STATUS_LABELS: Record<JobDisplayStatus, string> = {
+  abierto: "Abierto",
+  cerrado: "Cerrado",
+};
+
+export function getDisplayStatus(job: JobRecord): JobDisplayStatus {
+  if (job.status === "cerrado") return "cerrado";
+  if (job.status === "abierto") return "abierto";
+
+  const today = startOfToday();
+  const closing = parseDate(job.closingDate);
+
+  if (!closing || startOfDay(closing) >= today) return "abierto";
+
+  return "cerrado";
 }
 
-export function statusVariant(status: JobRecord["status"]) {
-  if (status === "abierto") return "secondary";
-  if (status === "cerrado") return "destructive";
-  return "outline";
+export function isUpcoming(job: JobRecord): boolean {
+  const opening = parseDate(job.openingDate);
+
+  return Boolean(opening && startOfDay(opening) > startOfToday());
 }
