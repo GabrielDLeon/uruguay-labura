@@ -64,19 +64,19 @@ export const jobSchema = z.object({
   status: z.enum(["abierto", "cerrado", "otro"]),
   openingDate: z.string().nullable(),
   closingDate: z.string().nullable(),
-  isNew: z.boolean(),
   quotas: z.object({
     afrodescendientes: z.boolean(),
     discapacidad: z.boolean(),
     trans: z.boolean(),
     victimasDelitosViolentos: z.boolean(),
   }),
-  vinculoType: z.string().nullable(),
+  contractType: z.string().nullable(),
   totalPositions: z.number().nullable(),
   tags: z.array(z.string()),
   documents: z.array(documentSchema).default([]),
-  detailUrl: z.url(),
+  origin: z.url(),
   applyUrl: z.url().nullable(),
+  applyEmail: z.string().nullable(),
   scrapedAt: z.string(),
 });
 

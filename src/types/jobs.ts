@@ -29,14 +29,14 @@ export interface JobRecord {
   status: JobStatus;
   openingDate: string | null;
   closingDate: string | null;
-  isNew: boolean;
   quotas: JobQuotaFlags;
-  vinculoType: string | null;
+  contractType: string | null;
   totalPositions: number | null;
   tags: string[];
   documents: JobDocument[];
-  detailUrl: string;
+  origin: string;
   applyUrl: string | null;
+  applyEmail: string | null;
   scrapedAt: string;
 }
 

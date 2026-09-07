@@ -29,7 +29,7 @@ export default function JobsList({ jobs }: Props) {
             <header className="flex flex-wrap items-center gap-2">
               <OrgLogo organization={job.organization} />
               <a
-                href={job.detailUrl}
+                href={job.origin}
                 target="_blank"
                 rel="noreferrer"
                 className="badge"
@@ -44,7 +44,23 @@ export default function JobsList({ jobs }: Props) {
               ) : (
                 <JobStatusBadge status={displayStatus} />
               )}
-              {job.isNew ? <span className="badge">Nuevo</span> : null}
+              {job.applyEmail ? (
+                <a
+                  href={`mailto:${job.applyEmail}`}
+                  className="badge"
+                  data-variant="outline"
+                  title={`Postular por email: ${job.applyEmail}`}
+                >
+                  <Icon
+                    icon={appIcons.email}
+                    width="14"
+                    height="14"
+                    className="shrink-0"
+                    aria-hidden="true"
+                  />
+                  {job.applyEmail}
+                </a>
+              ) : null}
             </header>
             <section>
               <h3 className="text-base font-semibold">
@@ -78,7 +94,7 @@ export default function JobsList({ jobs }: Props) {
               <a
                 className="btn"
                 data-size="sm"
-                href={job.applyUrl ?? job.detailUrl}
+                href={job.applyUrl ?? job.origin}
                 target="_blank"
                 rel="noreferrer"
               >

@@ -54,7 +54,7 @@ const closingSoon = dataset.jobs
             const relative = job.closingDate ? formatRelative(job.closingDate) : null
             return (
               <a
-                href={job.applyUrl ?? job.detailUrl}
+                href={job.applyUrl ?? job.origin}
                 target="_blank"
                 rel="noopener noreferrer"
                 class="flex items-start gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-3 transition-colors hover:bg-[var(--muted)]"

@@ -48,6 +48,7 @@ export const TAG_LABELS: Record<string, string> = {
   especializado: "Especializado",
   directivo: "Directivo",
   operativo: "Operativo",
+  supervision: "Supervisión",
   cardiologia: "Cardiología",
   neurologia: "Neurología",
   traumatologia: "Traumatología",

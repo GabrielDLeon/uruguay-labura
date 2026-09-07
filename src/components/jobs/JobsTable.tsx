@@ -134,7 +134,7 @@ export default function JobsTable({ jobs }: Props) {
                       aria-label="Acciones"
                     >
                       <a
-                        href={job.applyUrl ?? job.detailUrl}
+                        href={job.applyUrl ?? job.origin}
                         target="_blank"
                         rel="noreferrer"
                         title="Abrir llamado"

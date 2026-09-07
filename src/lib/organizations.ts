@@ -5,9 +5,11 @@ import bpsLogo from "@/assets/institutions/bps-logo.webp";
 import canelonesLogo from "@/assets/institutions/canelones-logo.webp";
 import ministerioLogo from "@/assets/institutions/ministerio-logo.webp";
 import oseLogo from "@/assets/institutions/ose-logo.webp";
+import ortLogo from "@/assets/institutions/ort-logo.webp";
 import sanJoseLogo from "@/assets/institutions/san-jose-logo.webp";
 import sorianoLogo from "@/assets/institutions/soriano-logo.webp";
 import udelarLogo from "@/assets/institutions/udelar-logo.webp";
+import ucuLogo from "@/assets/institutions/ucu-logo.webp";
 import utecLogo from "@/assets/institutions/utec-logo.webp";
 
 const organizationAbbreviations: Record<string, string> = {
@@ -34,6 +36,8 @@ const organizationAbbreviations: Record<string, string> = {
   "presidencia de la republica": "Presidencia",
   "unidad reguladora de servicios de energia y agua": "URSEA",
   "universidad de la republica": "Udelar",
+  "universidad catolica del uruguay": "UCU",
+  "universidad ort uruguay": "ORT",
   "universidad tecnologica": "UTEC",
   afe: "AFE",
   ancap: "ANCAP",
@@ -53,6 +57,8 @@ const organizationAbbreviations: Record<string, string> = {
   mtss: "MTSS",
   mvot: "MVOT",
   ose: "OSE",
+  ort: "ORT",
+  ucu: "UCU",
   ursea: "URSEA",
   ute: "UTE",
   utec: "UTEC",
@@ -77,6 +83,8 @@ const organizationFullNames: Record<string, string> = {
   mtss: "Ministerio de Trabajo y Seguridad Social",
   mvot: "Ministerio de Vivienda y Ordenamiento Territorial",
   ose: "Administracion de las Obras Sanitarias del Estado",
+  ort: "Universidad ORT Uruguay",
+  ucu: "Universidad Catolica del Uruguay",
   udelar: "Universidad de la Republica",
   ursea: "Unidad Reguladora de Servicios de Energia y Agua",
   ute: "Administracion Nacional de Usinas y Trasmisiones Electricas",
@@ -94,6 +102,10 @@ const organizationLogos: Record<string, string> = {
   bhu: bhuLogo.src,
   "administracion de las obras sanitarias del estado": oseLogo.src,
   ose: oseLogo.src,
+  "universidad ort uruguay": ortLogo.src,
+  ort: ortLogo.src,
+  "universidad catolica del uruguay": ucuLogo.src,
+  ucu: ucuLogo.src,
   "intendencia de canelones": canelonesLogo.src,
   "intendencia de soriano": sorianoLogo.src,
   "intendencia de san jose": sanJoseLogo.src,

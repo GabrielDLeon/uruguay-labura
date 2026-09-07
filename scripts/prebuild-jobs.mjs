@@ -11,8 +11,7 @@ if (!sourceUrl) {
 export async function fetchAndProcessJobs(sourceUrl) {
   const rootDir = process.cwd();
   const outputPath = path.join(rootDir, "src/data/jobs.generated.json");
-  const sourceName = "uruguay-concursa";
-  const jobUrlBase = "https://www.uruguayconcursa.gub.uy/llamado/";
+  const ucJobUrlBase = "https://www.uruguayconcursa.gub.uy/llamado/";
 
   function toNullableString(value) {
     if (typeof value !== "string") {
@@ -55,24 +54,6 @@ export async function fetchAndProcessJobs(sourceUrl) {
     return "otro";
   }
 
-  function isRecent(openingDateIso, nowIso) {
-    if (!openingDateIso) {
-      return false;
-    }
-
-    const openingDate = new Date(`${openingDateIso}T00:00:00.000Z`);
-    const now = new Date(nowIso);
-
-    if (Number.isNaN(openingDate.getTime()) || Number.isNaN(now.getTime())) {
-      return false;
-    }
-
-    const diffInMs = now.getTime() - openingDate.getTime();
-    const sevenDaysInMs = 7 * 24 * 60 * 60 * 1000;
-
-    return diffInMs >= 0 && diffInMs <= sevenDaysInMs;
-  }
-
   function flattenRawJobs(payload) {
     if (!payload || typeof payload !== "object") {
       throw new Error("Invalid gist payload: root must be an object");
@@ -95,6 +76,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
     const sourceJobId = toNullableString(rawJob.source_job_id);
     const callNumber = toNullableString(rawJob.call_number);
     const title = toNullableString(rawJob.title);
+    const source = toNullableString(rawJob.source) ?? "uruguay-concursa";
     const statusRaw = toNullableString(rawJob.status) ?? "otro";
 
     if (!sourceJobId || !callNumber || !title) {
@@ -105,11 +87,17 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
     const openingDate = toNullableString(rawJob.opening_date);
     const closingDate = toNullableString(rawJob.closing_date);
-    const vinculoType = toNullableString(rawJob.link_type);
+    const contractType = toNullableString(rawJob.link_type);
     const totalPositions =
       typeof rawJob.total_positions === "number"
         ? rawJob.total_positions
         : null;
+    // Origen por fuente: UC usa su ficha; ORT/UCU traen su URL propia (PDF).
+    const origin =
+      toNullableString(rawJob.detail_url) ?? `${ucJobUrlBase}${sourceJobId}`;
+    // Postulación: link específico si hay, si no el origen (UC y ORT: ficha/PDF).
+    const applyUrl = toNullableString(rawJob.apply_url) ?? origin;
+    const applyEmail = toNullableString(rawJob.apply_email);
     const documents = Array.isArray(rawJob.documentos)
       ? rawJob.documentos
           .map((item) => ({
@@ -120,8 +108,8 @@ export async function fetchAndProcessJobs(sourceUrl) {
       : [];
 
     return {
-      id: `${sourceName}-${sourceJobId}`,
-      source: sourceName,
+      id: `${source}-${sourceJobId}`,
+      source,
       sourceJobId,
       callNumber,
       title,
@@ -136,19 +124,19 @@ export async function fetchAndProcessJobs(sourceUrl) {
       status: normalizeStatus(statusRaw),
       openingDate,
       closingDate,
-      isNew: isRecent(openingDate, nowIso),
       quotas: {
         afrodescendientes: Boolean(rawJob.quota_afro),
         discapacidad: Boolean(rawJob.quota_disability),
         trans: Boolean(rawJob.quota_trans),
         victimasDelitosViolentos: Boolean(rawJob.quota_victims),
       },
-      vinculoType,
+      contractType,
       totalPositions,
       tags: Array.isArray(rawJob.tags) ? rawJob.tags : [],
       documents,
-      detailUrl: `${jobUrlBase}${sourceJobId}`,
-      applyUrl: `${jobUrlBase}${sourceJobId}`,
+      origin,
+      applyUrl,
+      applyEmail,
       scrapedAt: nowIso,
     };
   }
@@ -237,7 +225,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
   const dashboard = computeDashboard(jobs, nowIso);
 
   const normalized = {
-    source: sourceName,
+    source: "multiple",
     scrapedAt: nowIso,
     total: jobs.length,
     jobs,
