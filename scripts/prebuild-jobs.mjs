@@ -22,36 +22,16 @@ export async function fetchAndProcessJobs(sourceUrl) {
     return trimmed.length > 0 ? trimmed : null;
   }
 
-  function normalizeLocation(value) {
-    const text = toNullableString(value);
-    if (!text) return null;
-    const cleaned = text
-      .replace(/^departamento\s+de\s+/i, "")
-      .replace(/[.]+$/, "")
-      .trim();
-    return cleaned.length > 0 ? cleaned : null;
-  }
-
-  function normalizeText(value) {
-    return value
-      .normalize("NFD")
-      .replace(/\p{Diacritic}/gu, "")
-      .toLowerCase()
-      .trim();
-  }
-
-  function normalizeStatus(rawStatus) {
-    const status = normalizeText(rawStatus);
-
-    if (status === "abierto") {
-      return "abierto";
-    }
-
-    if (status === "cerrado") {
-      return "cerrado";
-    }
-
-    return "otro";
+  function passthroughModalidad(value) {
+    if (Array.isArray(value)) return value.map((v) => String(v)).filter(Boolean);
+    if (typeof value !== "string") return [];
+    const trimmed = value.trim();
+    if (!trimmed) return [];
+    try {
+      const parsed = JSON.parse(trimmed);
+      if (Array.isArray(parsed)) return parsed.map((v) => String(v)).filter(Boolean);
+    } catch { /* plain string */ }
+    return [trimmed];
   }
 
   function flattenRawJobs(payload) {
@@ -75,9 +55,11 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
     const sourceJobId = toNullableString(rawJob.source_job_id);
     const callNumber = toNullableString(rawJob.call_number);
-    const title = toNullableString(rawJob.title);
+    // Prefer scraper-owned clean fields, fall back to raw (scraper owns quality).
+    const title = toNullableString(rawJob.title_clean) ?? toNullableString(rawJob.title);
+    const titleRaw = toNullableString(rawJob.title);
     const source = toNullableString(rawJob.source) ?? "uruguay-concursa";
-    const statusRaw = toNullableString(rawJob.status) ?? "otro";
+    const status = toNullableString(rawJob.status) ?? "otro";
 
     if (!sourceJobId || !callNumber || !title) {
       throw new Error(
@@ -113,15 +95,18 @@ export async function fetchAndProcessJobs(sourceUrl) {
       sourceJobId,
       callNumber,
       title,
-      position: toNullableString(rawJob.cargo),
-      location: normalizeLocation(rawJob.lugar),
+      titleRaw,
+      position: toNullableString(rawJob.cargo_clean) ?? toNullableString(rawJob.cargo),
+      location: toNullableString(rawJob.lugar),
+      modalidad: passthroughModalidad(rawJob.modalidad),
+      grado: toNullableString(rawJob.grado),
       organization: toNullableString(rawJob.organization),
       subOrganization: toNullableString(rawJob.sub_organization),
       department: null,
       locality: null,
       inciso: null,
       taskType: toNullableString(rawJob.task_type),
-      status: normalizeStatus(statusRaw),
+      status,
       openingDate,
       closingDate,
       quotas: {
@@ -244,7 +229,7 @@ function computeDashboard(jobs, nowIso) {
   const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
 
   function isActive(job) {
-    if (job.status !== "abierto") return false;
+    if (String(job.status || "").toLowerCase() !== "abierto") return false;
     if (!job.closingDate) return true;
     const closing = new Date(job.closingDate);
     const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());
