@@ -1,6 +1,7 @@
 ---
 import type { JobsDataset, JobRecord } from "@/types/jobs"
 import jobsData from "@/data/jobs.generated.json"
+import { getDisplayStatus } from "@/components/jobs/jobs"
 import { parseDate, startOfDay, startOfToday } from "@/lib/dates"
 
 const dataset = jobsData as unknown as JobsDataset
@@ -8,7 +9,7 @@ const dataset = jobsData as unknown as JobsDataset
 const todayStart = startOfToday()
 
 const activeJobs = dataset.jobs.filter((job: JobRecord) => {
-  if (job.status !== "abierto" && job.status !== "proximo") return false
+  if (getDisplayStatus(job) !== "abierto") return false
   if (!job.closingDate) return true
   const closing = parseDate(job.closingDate)
   if (!closing) return true

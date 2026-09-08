@@ -94,17 +94,15 @@ export const TAG_LABELS: Record<string, string> = {
   administracion_salud: "Adm. Salud",
 };
 
-export type JobDisplayStatus = "abierto" | "proximo" | "cerrado";
+export type JobDisplayStatus = "abierto" | "cerrado";
 
 export const DISPLAY_STATUS_LABELS: Record<JobDisplayStatus, string> = {
   abierto: "Abierto",
-  proximo: "Próximo",
   cerrado: "Cerrado",
 };
 
 export function getDisplayStatus(job: JobRecord): JobDisplayStatus {
   if (job.status === "cerrado") return "cerrado";
-  if (job.status === "proximo") return "proximo";
   if (job.status === "abierto") return "abierto";
 
   const today = startOfToday();

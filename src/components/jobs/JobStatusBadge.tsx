@@ -3,7 +3,6 @@ import { DISPLAY_STATUS_LABELS } from "@/components/jobs/jobs";
 
 const STATUS_STYLES: Record<JobDisplayStatus, string> = {
   abierto: "border-emerald-600/30 bg-emerald-600/15 text-emerald-700",
-  proximo: "border-amber-600/30 bg-amber-600/15 text-amber-700",
   cerrado: "border-red-600/30 bg-red-600/15 text-red-700",
 };
 

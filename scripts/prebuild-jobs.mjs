@@ -46,7 +46,6 @@ export async function fetchAndProcessJobs(sourceUrl) {
     const status = normalizeText(rawStatus ?? "");
     if (status === "abierto") return "abierto";
     if (status === "cerrado") return "cerrado";
-    if (status === "proximo") return "proximo";
     return "otro";
   }
 
