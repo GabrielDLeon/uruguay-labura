@@ -61,7 +61,7 @@ export const jobSchema = z.object({
   locality: z.string().nullable(),
   inciso: z.string().nullable(),
   taskType: z.string().nullable(),
-  status: z.enum(["abierto", "cerrado", "otro"]),
+  status: z.enum(["abierto", "cerrado", "proximo", "otro"]),
   openingDate: z.string().nullable(),
   closingDate: z.string().nullable(),
   quotas: z.object({

@@ -8,7 +8,7 @@ const dataset = jobsData as unknown as JobsDataset
 const todayStart = startOfToday()
 
 const activeJobs = dataset.jobs.filter((job: JobRecord) => {
-  if (job.status !== "abierto") return false
+  if (job.status !== "abierto" && job.status !== "proximo") return false
   if (!job.closingDate) return true
   const closing = parseDate(job.closingDate)
   if (!closing) return true

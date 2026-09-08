@@ -1,4 +1,4 @@
-export type JobStatus = "abierto" | "cerrado" | "otro";
+export type JobStatus = "abierto" | "cerrado" | "proximo" | "otro";
 
 export interface JobQuotaFlags {
   afrodescendientes: boolean;
