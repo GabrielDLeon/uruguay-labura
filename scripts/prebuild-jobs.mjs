@@ -55,9 +55,9 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
     const sourceJobId = toNullableString(rawJob.source_job_id);
     const callNumber = toNullableString(rawJob.call_number);
-    // Prefer scraper-owned clean fields, fall back to raw (scraper owns quality).
-    const title = toNullableString(rawJob.title_clean) ?? toNullableString(rawJob.title);
-    const titleRaw = toNullableString(rawJob.title);
+    // Scraper owns quality: title is clean, title_original is raw.
+    const title = toNullableString(rawJob.title);
+    const titleRaw = toNullableString(rawJob.title_original);
     const source = toNullableString(rawJob.source) ?? "uruguay-concursa";
     const status = toNullableString(rawJob.status) ?? "otro";
 
@@ -96,7 +96,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
       callNumber,
       title,
       titleRaw,
-      position: toNullableString(rawJob.cargo_clean) ?? toNullableString(rawJob.cargo),
+      position: toNullableString(rawJob.cargo),
       location: toNullableString(rawJob.lugar),
       modalidad: passthroughModalidad(rawJob.modalidad),
       grado: toNullableString(rawJob.grado),
