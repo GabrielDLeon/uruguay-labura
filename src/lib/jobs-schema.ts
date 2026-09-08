@@ -42,12 +42,19 @@ const dashboardSchema = z.object({
   evolution: z.array(evolutionSnapshotSchema),
 });
 
+const documentSchema = z.object({
+  id: z.string().min(1),
+  name: z.string().min(1),
+});
+
 export const jobSchema = z.object({
   id: z.string().min(1),
   source: z.string().min(1),
   sourceJobId: z.string().min(1),
   callNumber: z.string().min(1),
   title: z.string().min(1),
+  position: z.string().nullable(),
+  location: z.string().nullable(),
   organization: z.string().nullable(),
   subOrganization: z.string().nullable(),
   department: z.string().nullable(),
@@ -57,18 +64,19 @@ export const jobSchema = z.object({
   status: z.enum(["abierto", "cerrado", "otro"]),
   openingDate: z.string().nullable(),
   closingDate: z.string().nullable(),
-  isNew: z.boolean(),
   quotas: z.object({
     afrodescendientes: z.boolean(),
     discapacidad: z.boolean(),
     trans: z.boolean(),
     victimasDelitosViolentos: z.boolean(),
   }),
-  vinculoType: z.string().nullable(),
+  contractType: z.string().nullable(),
   totalPositions: z.number().nullable(),
   tags: z.array(z.string()),
-  detailUrl: z.url(),
+  documents: z.array(documentSchema).default([]),
+  origin: z.url(),
   applyUrl: z.url().nullable(),
+  applyEmail: z.string().nullable(),
   scrapedAt: z.string(),
 });
 

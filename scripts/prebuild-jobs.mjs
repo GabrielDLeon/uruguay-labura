@@ -16,8 +16,7 @@ if (!sourceUrl && !datasetExists) {
 export async function fetchAndProcessJobs(sourceUrl) {
   const rootDir = process.cwd();
   const outputPath = path.join(rootDir, "src/data/jobs.generated.json");
-  const sourceName = "uruguay-concursa";
-  const jobUrlBase = "https://www.uruguayconcursa.gub.uy/llamado/";
+  const ucJobUrlBase = "https://www.uruguayconcursa.gub.uy/llamado/";
 
   function toNullableString(value) {
     if (typeof value !== "string") {
@@ -26,6 +25,18 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
     const trimmed = value.trim();
     return trimmed.length > 0 ? trimmed : null;
+  }
+
+  function passthroughModalidad(value) {
+    if (Array.isArray(value)) return value.map((v) => String(v)).filter(Boolean);
+    if (typeof value !== "string") return [];
+    const trimmed = value.trim();
+    if (!trimmed) return [];
+    try {
+      const parsed = JSON.parse(trimmed);
+      if (Array.isArray(parsed)) return parsed.map((v) => String(v)).filter(Boolean);
+    } catch { /* plain string */ }
+    return [trimmed];
   }
 
   function normalizeText(value) {
@@ -37,35 +48,10 @@ export async function fetchAndProcessJobs(sourceUrl) {
   }
 
   function normalizeStatus(rawStatus) {
-    const status = normalizeText(rawStatus);
-
-    if (status === "abierto") {
-      return "abierto";
-    }
-
-    if (status === "cerrado") {
-      return "cerrado";
-    }
-
+    const status = normalizeText(rawStatus ?? "");
+    if (status === "abierto") return "abierto";
+    if (status === "cerrado") return "cerrado";
     return "otro";
-  }
-
-  function isRecent(openingDateIso, nowIso) {
-    if (!openingDateIso) {
-      return false;
-    }
-
-    const openingDate = new Date(`${openingDateIso}T00:00:00.000Z`);
-    const now = new Date(nowIso);
-
-    if (Number.isNaN(openingDate.getTime()) || Number.isNaN(now.getTime())) {
-      return false;
-    }
-
-    const diffInMs = now.getTime() - openingDate.getTime();
-    const sevenDaysInMs = 7 * 24 * 60 * 60 * 1000;
-
-    return diffInMs >= 0 && diffInMs <= sevenDaysInMs;
   }
 
   function flattenRawJobs(payload) {
@@ -89,8 +75,11 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
     const sourceJobId = toNullableString(rawJob.source_job_id);
     const callNumber = toNullableString(rawJob.call_number);
+    // Scraper owns quality: title is clean, title_original is raw.
     const title = toNullableString(rawJob.title);
-    const statusRaw = toNullableString(rawJob.status) ?? "otro";
+    const titleRaw = toNullableString(rawJob.title_original);
+    const source = toNullableString(rawJob.source) ?? "uruguay-concursa";
+    const status = normalizeStatus(rawJob.status);
 
     if (!sourceJobId || !callNumber || !title) {
       throw new Error(
@@ -100,39 +89,59 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
     const openingDate = toNullableString(rawJob.opening_date);
     const closingDate = toNullableString(rawJob.closing_date);
-    const vinculoType = toNullableString(rawJob.link_type);
+    const contractType = toNullableString(rawJob.link_type);
     const totalPositions =
       typeof rawJob.total_positions === "number"
         ? rawJob.total_positions
         : null;
+    // Origen por fuente: UC usa su ficha; ORT/UCU traen su URL propia (PDF).
+    const origin =
+      toNullableString(rawJob.detail_url) ?? `${ucJobUrlBase}${sourceJobId}`;
+    // Postulación: link específico si hay, si no el origen (UC y ORT: ficha/PDF).
+    const applyUrl = toNullableString(rawJob.apply_url) ?? origin;
+    const applyEmail = toNullableString(rawJob.apply_email);
+    const documents = Array.isArray(rawJob.documentos)
+      ? rawJob.documentos
+          .map((item) => ({
+            id: toNullableString(String(item?.id ?? "")) ?? "",
+            name: toNullableString(item?.nombre) ?? "",
+          }))
+          .filter((item) => item.id.length > 0 && item.name.length > 0)
+      : [];
 
     return {
-      id: `${sourceName}-${sourceJobId}`,
-      source: sourceName,
+      id: `${source}-${sourceJobId}`,
+      source,
       sourceJobId,
       callNumber,
       title,
+      titleRaw,
+      position: toNullableString(rawJob.cargo),
+      location: toNullableString(rawJob.lugar),
+      modalidad: passthroughModalidad(rawJob.modalidad),
+      grado: toNullableString(rawJob.grado),
       organization: toNullableString(rawJob.organization),
       subOrganization: toNullableString(rawJob.sub_organization),
       department: null,
       locality: null,
       inciso: null,
       taskType: toNullableString(rawJob.task_type),
-      status: normalizeStatus(statusRaw),
+      status,
       openingDate,
       closingDate,
-      isNew: isRecent(openingDate, nowIso),
       quotas: {
         afrodescendientes: Boolean(rawJob.quota_afro),
         discapacidad: Boolean(rawJob.quota_disability),
         trans: Boolean(rawJob.quota_trans),
         victimasDelitosViolentos: Boolean(rawJob.quota_victims),
       },
-      vinculoType,
+      contractType,
       totalPositions,
       tags: Array.isArray(rawJob.tags) ? rawJob.tags : [],
-      detailUrl: `${jobUrlBase}${sourceJobId}`,
-      applyUrl: `${jobUrlBase}${sourceJobId}`,
+      documents,
+      origin,
+      applyUrl,
+      applyEmail,
       scrapedAt: nowIso,
     };
   }
@@ -221,7 +230,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
   const dashboard = computeDashboard(jobs, nowIso);
 
   const normalized = {
-    source: sourceName,
+    source: "multiple",
     scrapedAt: nowIso,
     total: jobs.length,
     jobs,
@@ -240,7 +249,7 @@ function computeDashboard(jobs, nowIso) {
   const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
 
   function isActive(job) {
-    if (job.status !== "abierto") return false;
+    if (String(job.status || "").toLowerCase() !== "abierto") return false;
     if (!job.closingDate) return true;
     const closing = new Date(job.closingDate);
     const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());

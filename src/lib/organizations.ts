@@ -1,3 +1,17 @@
+import anepLogo from "@/assets/institutions/anep-logo.webp";
+import asseLogo from "@/assets/institutions/asse-logo.webp";
+import bhuLogo from "@/assets/institutions/bhu-logo.webp";
+import bpsLogo from "@/assets/institutions/bps-logo.webp";
+import canelonesLogo from "@/assets/institutions/canelones-logo.webp";
+import ministerioLogo from "@/assets/institutions/ministerio-logo.webp";
+import oseLogo from "@/assets/institutions/ose-logo.webp";
+import ortLogo from "@/assets/institutions/ort-logo.webp";
+import sanJoseLogo from "@/assets/institutions/san-jose-logo.webp";
+import sorianoLogo from "@/assets/institutions/soriano-logo.webp";
+import udelarLogo from "@/assets/institutions/udelar-logo.webp";
+import ucuLogo from "@/assets/institutions/ucu-logo.webp";
+import utecLogo from "@/assets/institutions/utec-logo.webp";
+
 const organizationAbbreviations: Record<string, string> = {
   "administracion de las obras sanitarias del estado": "OSE",
   "administracion de los ferrocarriles del estado": "AFE",
@@ -22,6 +36,8 @@ const organizationAbbreviations: Record<string, string> = {
   "presidencia de la republica": "Presidencia",
   "unidad reguladora de servicios de energia y agua": "URSEA",
   "universidad de la republica": "Udelar",
+  "universidad catolica del uruguay": "UCU",
+  "universidad ort uruguay": "ORT",
   "universidad tecnologica": "UTEC",
   afe: "AFE",
   ancap: "ANCAP",
@@ -41,6 +57,8 @@ const organizationAbbreviations: Record<string, string> = {
   mtss: "MTSS",
   mvot: "MVOT",
   ose: "OSE",
+  ort: "ORT",
+  ucu: "UCU",
   ursea: "URSEA",
   ute: "UTE",
   utec: "UTEC",
@@ -65,11 +83,55 @@ const organizationFullNames: Record<string, string> = {
   mtss: "Ministerio de Trabajo y Seguridad Social",
   mvot: "Ministerio de Vivienda y Ordenamiento Territorial",
   ose: "Administracion de las Obras Sanitarias del Estado",
+  ort: "Universidad ORT Uruguay",
+  ucu: "Universidad Catolica del Uruguay",
   udelar: "Universidad de la Republica",
   ursea: "Unidad Reguladora de Servicios de Energia y Agua",
   ute: "Administracion Nacional de Usinas y Trasmisiones Electricas",
   utec: "Universidad Tecnologica",
 };
+
+const organizationLogos: Record<string, string> = {
+  "universidad de la republica": udelarLogo.src,
+  udelar: udelarLogo.src,
+  "universidad tecnologica": utecLogo.src,
+  utec: utecLogo.src,
+  "banco de prevision social": bpsLogo.src,
+  bps: bpsLogo.src,
+  "banco hipotecario del uruguay": bhuLogo.src,
+  bhu: bhuLogo.src,
+  "administracion de las obras sanitarias del estado": oseLogo.src,
+  ose: oseLogo.src,
+  "universidad ort uruguay": ortLogo.src,
+  ort: ortLogo.src,
+  "universidad catolica del uruguay": ucuLogo.src,
+  ucu: ucuLogo.src,
+  "intendencia de canelones": canelonesLogo.src,
+  "intendencia de soriano": sorianoLogo.src,
+  "intendencia de san jose": sanJoseLogo.src,
+  "administracion nacional de educacion publica": anepLogo.src,
+  anep: anepLogo.src,
+  "administracion de servicios de salud del estado": asseLogo.src,
+  asse: asseLogo.src,
+  "ministerio de economia y finanzas": ministerioLogo.src,
+  mef: ministerioLogo.src,
+  "ministerio de vivienda y ordenamiento territorial": ministerioLogo.src,
+  mvot: ministerioLogo.src,
+  "ministerio de educacion y cultura": ministerioLogo.src,
+  mec: ministerioLogo.src,
+  "ministerio de transporte y obras publicas": ministerioLogo.src,
+  mtop: ministerioLogo.src,
+  "ministerio de defensa nacional": ministerioLogo.src,
+  mdn: ministerioLogo.src,
+  "ministerio de desarrollo social": ministerioLogo.src,
+  mides: ministerioLogo.src,
+  "ministerio del interior": ministerioLogo.src,
+};
+
+export function getOrganizationLogo(organization: string) {
+  const normalized = normalizeText(organization);
+  return organizationLogos[normalized] ?? null;
+}
 
 export function normalizeText(text: string) {
   return text

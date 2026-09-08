@@ -2,6 +2,7 @@
 import type { JobsDataset, JobRecord } from "@/types/jobs"
 import jobsData from "@/data/jobs.generated.json"
 import { Icon } from "astro-icon/components"
+import { getDisplayStatus } from "@/components/jobs/jobs"
 import {
   addDays,
   formatRelative,
@@ -17,7 +18,7 @@ const sevenDaysFromNow = addDays(todayStart, 7)
 
 const closingSoon = dataset.jobs
   .filter((job: JobRecord) => {
-    if (job.status !== "abierto") return false
+    if (getDisplayStatus(job) !== "abierto") return false
     if (!job.closingDate) return false
     const closing = parseDate(job.closingDate)
     if (!closing) return false
@@ -54,7 +55,7 @@ const closingSoon = dataset.jobs
             const relative = job.closingDate ? formatRelative(job.closingDate) : null
             return (
               <a
-                href={job.applyUrl ?? job.detailUrl}
+                href={job.applyUrl ?? job.origin}
                 target="_blank"
                 rel="noopener noreferrer"
                 class="flex items-start gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-3 transition-colors hover:bg-[var(--muted)]"

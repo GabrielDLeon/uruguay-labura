@@ -7,6 +7,7 @@ export interface SearchableSelectOption {
   label: string;
   description?: string;
   searchText?: string;
+  logo?: string | null;
 }
 
 interface Props {
@@ -93,13 +94,23 @@ export default function SearchableSelect({
     <div id={id} className="select relative" ref={rootRef}>
       <button
         type="button"
-        className="flex w-full items-center justify-between"
+        className="flex w-full items-center justify-between gap-2"
         aria-haspopup="listbox"
         aria-expanded={open}
         aria-controls={`${id}-listbox`}
         onClick={() => setOpen((current) => !current)}
       >
-        <span className="truncate">{selected?.label ?? allLabel}</span>
+        <span className="flex min-w-0 flex-1 items-center gap-2">
+          {selected?.logo ? (
+            <img
+              src={selected.logo}
+              alt=""
+              aria-hidden="true"
+              className="h-5 w-5 shrink-0 rounded object-contain"
+            />
+          ) : null}
+          <span className="truncate">{selected?.label ?? allLabel}</span>
+        </span>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -152,17 +163,27 @@ export default function SearchableSelect({
                 role="option"
                 data-value={option.value}
                 aria-selected={value === option.value}
-                className="flex min-w-0 cursor-pointer flex-col items-start gap-0 text-left"
+                className="flex min-w-0 cursor-pointer flex-row items-center gap-2 text-left"
                 onClick={() => selectValue(option.value)}
               >
-                <span className="truncate text-sm font-medium">
-                  {option.label}
-                </span>
-                {option.description ? (
-                  <span className="text-muted-foreground truncate text-xs">
-                    {option.description}
-                  </span>
+                {option.logo ? (
+                  <img
+                    src={option.logo}
+                    alt=""
+                    aria-hidden="true"
+                    className="h-6 w-6 shrink-0 rounded object-contain"
+                  />
                 ) : null}
+                <div className="flex min-w-0 flex-col items-start gap-0">
+                  <span className="truncate text-sm font-medium">
+                    {option.label}
+                  </span>
+                  {option.description ? (
+                    <span className="text-muted-foreground truncate text-xs">
+                      {option.description}
+                    </span>
+                  ) : null}
+                </div>
               </div>
             ))}
 
