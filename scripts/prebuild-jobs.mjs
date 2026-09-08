@@ -34,6 +34,21 @@ export async function fetchAndProcessJobs(sourceUrl) {
     return [trimmed];
   }
 
+  function normalizeText(value) {
+    return value
+      .normalize("NFD")
+      .replace(/\p{Diacritic}/gu, "")
+      .toLowerCase()
+      .trim();
+  }
+
+  function normalizeStatus(rawStatus) {
+    const status = normalizeText(rawStatus ?? "");
+    if (status === "abierto") return "abierto";
+    if (status === "cerrado") return "cerrado";
+    return "otro";
+  }
+
   function flattenRawJobs(payload) {
     if (!payload || typeof payload !== "object") {
       throw new Error("Invalid gist payload: root must be an object");
@@ -59,7 +74,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
     const title = toNullableString(rawJob.title);
     const titleRaw = toNullableString(rawJob.title_original);
     const source = toNullableString(rawJob.source) ?? "uruguay-concursa";
-    const status = toNullableString(rawJob.status) ?? "otro";
+    const status = normalizeStatus(rawJob.status);
 
     if (!sourceJobId || !callNumber || !title) {
       throw new Error(
