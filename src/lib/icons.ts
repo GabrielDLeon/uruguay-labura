@@ -5,6 +5,7 @@ import calendarEnd from "@iconify-icons/mdi/calendar-end.js";
 import calendarStart from "@iconify-icons/mdi/calendar-start.js";
 import check from "@iconify-icons/mdi/check.js";
 import clockOutline from "@iconify-icons/mdi/clock-outline.js";
+import accountGroupOutline from "@iconify-icons/mdi/account-group-outline.js";
 import compassOutline from "@iconify-icons/mdi/compass-outline.js";
 import creditCardOutline from "@iconify-icons/mdi/credit-card-outline.js";
 import domain from "@iconify-icons/mdi/domain.js";
@@ -16,7 +17,6 @@ import heartOutline from "@iconify-icons/mdi/heart-outline.js";
 import informationOutline from "@iconify-icons/mdi/information-outline.js";
 import magnify from "@iconify-icons/mdi/magnify.js";
 import mapMarkerOutline from "@iconify-icons/mdi/map-marker-outline.js";
-import numeric from "@iconify-icons/mdi/numeric.js";
 import openInNew from "@iconify-icons/mdi/open-in-new.js";
 import schoolOutline from "@iconify-icons/mdi/school-outline.js";
 import tagOutline from "@iconify-icons/mdi/tag-outline.js";
@@ -24,12 +24,12 @@ import tagOutline from "@iconify-icons/mdi/tag-outline.js";
 export const appIcons = {
   book: bookOpenOutline,
   bookmark: bookmarkOutline,
-  callNumber: numeric,
   check,
   closingDate: calendarEnd,
   cost: creditCardOutline,
   department: mapMarkerOutline,
   email: emailOutline,
+  quota: accountGroupOutline,
   externalLink: openInNew,
   heart,
   heartOutline,

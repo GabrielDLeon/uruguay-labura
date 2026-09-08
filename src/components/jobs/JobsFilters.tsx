@@ -1,15 +1,20 @@
 import { Icon } from "@iconify/react/offline";
 
+import MultiSelect from "@/components/common/MultiSelect";
 import SearchableSelect, {
   type SearchableSelectOption,
 } from "@/components/common/SearchableSelect";
 import { appIcons } from "@/lib/icons";
 
-import { formatDateShort } from "@/lib/dates";
+const QUOTA_OPTIONS = [
+  { value: "afro", label: "Afrodescendientes" },
+  { value: "discapacidad", label: "Discapacidad" },
+  { value: "trans", label: "Personas trans" },
+  { value: "victimas", label: "Victimas delitos violentos" },
+];
 
 interface Props {
   query: string;
-  callNumber: string;
   organization: string;
   taskType: string;
   afro: boolean;
@@ -18,10 +23,7 @@ interface Props {
   victimas: boolean;
   organizationOptions: SearchableSelectOption[];
   taskTypeOptions: SearchableSelectOption[];
-  filteredCount: number;
-  scrapedAt: string | null;
   onQueryChange: (value: string) => void;
-  onCallNumberChange: (value: string) => void;
   onOrganizationChange: (value: string) => void;
   onTaskTypeChange: (value: string) => void;
   onAfroChange: (value: boolean) => void;
@@ -32,7 +34,6 @@ interface Props {
 
 export default function JobsFilters({
   query,
-  callNumber,
   organization,
   taskType,
   afro,
@@ -41,10 +42,7 @@ export default function JobsFilters({
   victimas,
   organizationOptions,
   taskTypeOptions,
-  filteredCount,
-  scrapedAt,
   onQueryChange,
-  onCallNumberChange,
   onOrganizationChange,
   onTaskTypeChange,
   onAfroChange,
@@ -52,58 +50,49 @@ export default function JobsFilters({
   onTransChange,
   onVictimasChange,
 }: Props) {
+  const selectedQuotas = [
+    afro ? "afro" : null,
+    discapacidad ? "discapacidad" : null,
+    trans ? "trans" : null,
+    victimas ? "victimas" : null,
+  ].filter((value): value is string => value !== null);
+
+  const handleQuotasChange = (nextValues: string[]) => {
+    onAfroChange(nextValues.includes("afro"));
+    onDiscapacidadChange(nextValues.includes("discapacidad"));
+    onTransChange(nextValues.includes("trans"));
+    onVictimasChange(nextValues.includes("victimas"));
+  };
+
   return (
     <div className="card bg-transparent overflow-visible">
       <section className="form grid gap-4">
-        <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-5">
-          <div role="group" className="field lg:col-span-2">
-            <label
-              className="inline-flex items-center gap-2"
-              htmlFor="job-search"
-            >
-              <Icon
-                icon={appIcons.search}
-                width="16"
-                height="16"
-                className="shrink-0"
-                aria-hidden="true"
-              />
-              Buscar
-            </label>
-            <input
-              id="job-search"
-              type="text"
-              className="input"
-              placeholder="Titulo, organismo o suborganismo"
-              value={query}
-              onChange={(event) => onQueryChange(event.target.value)}
+        <div role="group" className="field">
+          <label
+            className="inline-flex items-center gap-2"
+            htmlFor="job-search"
+          >
+            <Icon
+              icon={appIcons.search}
+              width="16"
+              height="16"
+              className="shrink-0"
+              aria-hidden="true"
             />
-          </div>
+            Buscar
+          </label>
+          <input
+            id="job-search"
+            type="text"
+            autoFocus
+            className="input"
+            placeholder="Titulo, organismo, suborganismo o N de llamado"
+            value={query}
+            onChange={(event) => onQueryChange(event.target.value)}
+          />
+        </div>
 
-          <div role="group" className="field">
-            <label
-              className="inline-flex items-center gap-2"
-              htmlFor="job-call-number"
-            >
-              <Icon
-                icon={appIcons.callNumber}
-                width="16"
-                height="16"
-                className="shrink-0"
-                aria-hidden="true"
-              />
-              N de llamado
-            </label>
-            <input
-              id="job-call-number"
-              type="text"
-              className="input"
-              placeholder="0015/2026"
-              value={callNumber}
-              onChange={(event) => onCallNumberChange(event.target.value)}
-            />
-          </div>
-
+        <div className="grid gap-3 md:grid-cols-3">
           <div role="group" className="field">
             <label
               className="inline-flex items-center gap-2"
@@ -151,77 +140,29 @@ export default function JobsFilters({
               onChange={onTaskTypeChange}
             />
           </div>
-        </div>
 
-        <fieldset className="fieldset gap-2">
-          <legend>Cupos</legend>
-          <div className="grid gap-2 text-sm sm:grid-cols-2 lg:grid-cols-5">
-            <div role="group" className="field" data-orientation="horizontal">
-              <input
-                id="quota-afro"
-                type="checkbox"
-                className="input"
-                checked={afro}
-                onChange={(event) => onAfroChange(event.target.checked)}
-              />
-              <label htmlFor="quota-afro">Afrodescendientes</label>
-            </div>
-            <div role="group" className="field" data-orientation="horizontal">
-              <input
-                id="quota-discapacidad"
-                type="checkbox"
-                className="input"
-                checked={discapacidad}
-                onChange={(event) => onDiscapacidadChange(event.target.checked)}
-              />
-              <label htmlFor="quota-discapacidad">Discapacidad</label>
-            </div>
-            <div role="group" className="field" data-orientation="horizontal">
-              <input
-                id="quota-trans"
-                type="checkbox"
-                className="input"
-                checked={trans}
-                onChange={(event) => onTransChange(event.target.checked)}
-              />
-              <label htmlFor="quota-trans">Personas trans</label>
-            </div>
-            <div role="group" className="field" data-orientation="horizontal">
-              <input
-                id="quota-victimas"
-                type="checkbox"
-                className="input"
-                checked={victimas}
-                onChange={(event) => onVictimasChange(event.target.checked)}
-              />
-              <label htmlFor="quota-victimas">Victimas delitos violentos</label>
-            </div>
-          </div>
-        </fieldset>
-
-        <div className="flex flex-wrap items-center gap-2 text-sm">
-          <span className="badge inline-flex items-center gap-1" data-variant="secondary">
-            <Icon
-              icon={appIcons.jobsCount}
-              width="14"
-              height="14"
-              className="shrink-0"
-              aria-hidden="true"
-            />
-            {filteredCount} resultados
-          </span>
-          {scrapedAt ? (
-            <span className="text-muted-foreground inline-flex items-center gap-1">
+          <div role="group" className="field">
+            <label
+              className="inline-flex items-center gap-2"
+              htmlFor="job-quotas"
+            >
               <Icon
-                icon={appIcons.updatedAt}
-                width="14"
-                height="14"
+                icon={appIcons.quota}
+                width="16"
+                height="16"
                 className="shrink-0"
                 aria-hidden="true"
               />
-              Actualizado: {formatDateShort(scrapedAt)}
-            </span>
-          ) : null}
+              Cupos
+            </label>
+            <MultiSelect
+              id="job-quotas"
+              values={selectedQuotas}
+              options={QUOTA_OPTIONS}
+              allLabel="Todos"
+              onChange={handleQuotasChange}
+            />
+          </div>
         </div>
       </section>
     </div>

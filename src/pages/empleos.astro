@@ -4,6 +4,22 @@ import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import PageHeader from "@/components/PageHeader.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
+import { Icon } from "astro-icon/components";
+import jobsDataset from "@/data/jobs.generated.json";
+import {
+  formatDateShort,
+  parseDate,
+  startOfDay,
+  startOfToday,
+} from "@/lib/dates";
+
+const today = startOfToday();
+const activeJobs = jobsDataset.jobs.filter((job) => {
+  if (!job.closingDate) return true;
+  const closing = parseDate(job.closingDate);
+  if (!closing) return true;
+  return startOfDay(closing) >= today;
+});
 ---
 
 <Layout
@@ -28,13 +44,35 @@ import PagefindIndex from "@/components/PagefindIndex.astro";
         >Uruguay Concursa</a
       >. El proyecto busca mejorar la experiencia de los usuarios.
     </PageHeader>
+
+    <div class="flex flex-wrap items-center gap-2 text-sm">
+      <span class="badge inline-flex items-center gap-1" data-variant="secondary">
+        <Icon
+          name="mdi:format-list-bulleted"
+          width="14"
+          height="14"
+          class="shrink-0"
+          aria-hidden="true"
+        />
+        {activeJobs.length} llamados activos
+      </span>
+      <span class="text-muted-foreground inline-flex items-center gap-1">
+        <Icon
+          name="mdi:clock-outline"
+          width="14"
+          height="14"
+          class="shrink-0"
+          aria-hidden="true"
+        />
+        Actualizado: {formatDateShort(jobsDataset.scrapedAt)}
+      </span>
+    </div>
   </Block>
 
   <Block>
     <JobsBoard
       client:load
       initialQuery={Astro.url.searchParams.get("q") ?? ""}
-      initialCallNumber={Astro.url.searchParams.get("call") ?? ""}
       initialOrganization={Astro.url.searchParams.get("org") ?? ""}
       initialTaskType={Astro.url.searchParams.get("type") ?? ""}
       initialAfro={Astro.url.searchParams.get("afro") === "1"}

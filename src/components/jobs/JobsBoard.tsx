@@ -8,12 +8,7 @@ import JobsList from "@/components/jobs/JobsList";
 import JobsPagination from "@/components/jobs/JobsPagination";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
 import JobsTable from "@/components/jobs/JobsTable";
-import {
-  MIN_CALL_NUMBER_CHARS,
-  ITEMS_PER_PAGE,
-  cleanOption,
-  normalize,
-} from "@/components/jobs/jobs";
+import { ITEMS_PER_PAGE, cleanOption, normalize } from "@/components/jobs/jobs";
 import useJobs from "@/components/jobs/useJobs";
 import {
   getOrganizationAbbreviation,
@@ -24,7 +19,6 @@ import {
 
 interface JobsBoardProps {
   initialQuery?: string;
-  initialCallNumber?: string;
   initialOrganization?: string;
   initialTaskType?: string;
   initialAfro?: boolean;
@@ -36,7 +30,6 @@ interface JobsBoardProps {
 
 export default function JobsBoard({
   initialQuery = "",
-  initialCallNumber = "",
   initialOrganization = "",
   initialTaskType = "",
   initialAfro = false,
@@ -45,10 +38,9 @@ export default function JobsBoard({
   initialVictimas = false,
   initialPage = 1,
 }: JobsBoardProps) {
-  const { jobs, scrapedAt, loadError, isLoading, retry } = useJobs();
+  const { jobs, loadError, isLoading, retry } = useJobs();
 
   const [query, setQuery] = useState(initialQuery);
-  const [callNumber, setCallNumber] = useState(initialCallNumber);
   const [organization, setOrganization] = useState(initialOrganization);
   const [taskType, setTaskType] = useState(initialTaskType);
   const [afro, setAfro] = useState(initialAfro);
@@ -63,10 +55,6 @@ export default function JobsBoard({
 
   const handleQueryChange = (value: string) => {
     setQuery(value);
-    setPage(1);
-  };
-  const handleCallNumberChange = (value: string) => {
-    setCallNumber(value);
     setPage(1);
   };
   const handleOrganizationChange = (value: string) => {
@@ -95,10 +83,6 @@ export default function JobsBoard({
   };
 
   const deferredQuery = useDeferredValue(query);
-  const deferredCallNumber = useDeferredValue(callNumber);
-  const normalizedCallNumber = normalize(deferredCallNumber).trim();
-  const hasCallNumberFilter =
-    normalizedCallNumber.length >= MIN_CALL_NUMBER_CHARS;
 
   useEffect(() => {
     const mediaQuery = window.matchMedia("(min-width: 768px)");
@@ -118,7 +102,6 @@ export default function JobsBoard({
   useEffect(() => {
     const params = new URLSearchParams();
     if (query) params.set("q", query);
-    if (callNumber) params.set("call", callNumber);
     if (organization) params.set("org", organization);
     if (taskType) params.set("type", taskType);
     if (afro) params.set("afro", "1");
@@ -132,7 +115,6 @@ export default function JobsBoard({
     history.replaceState(null, "", newURL);
   }, [
     query,
-    callNumber,
     organization,
     taskType,
     afro,
@@ -146,7 +128,6 @@ export default function JobsBoard({
     const onPopState = () => {
       const params = new URLSearchParams(window.location.search);
       setQuery(params.get("q") ?? "");
-      setCallNumber(params.get("call") ?? "");
       setOrganization(params.get("org") ?? "");
       setTaskType(params.get("type") ?? "");
       setAfro(params.get("afro") === "1");
@@ -188,7 +169,6 @@ export default function JobsBoard({
 
   const filtered = useMemo(() => {
     const text = normalize(deferredQuery);
-    const targetCallNumber = normalizedCallNumber;
 
     return jobs.filter((job) => {
       if (text) {
@@ -210,13 +190,6 @@ export default function JobsBoard({
         if (!haystack.includes(text)) {
           return false;
         }
-      }
-
-      if (
-        hasCallNumberFilter &&
-        !normalize(job.callNumber).includes(targetCallNumber)
-      ) {
-        return false;
       }
 
       if (organization && cleanOption(job.organization) !== organization) {
@@ -248,8 +221,6 @@ export default function JobsBoard({
   }, [
     jobs,
     deferredQuery,
-    normalizedCallNumber,
-    hasCallNumberFilter,
     organization,
     taskType,
     afro,
@@ -287,26 +258,22 @@ export default function JobsBoard({
     <section className="flex flex-col gap-6">
       <div className="-mx-4 border-b border-border px-4 pb-6 sm:-mx-6 sm:px-6">
         <JobsFilters
-        query={query}
-        callNumber={callNumber}
-        organization={organization}
-        taskType={taskType}
-        afro={afro}
-        discapacidad={discapacidad}
-        trans={trans}
-        victimas={victimas}
-        organizationOptions={organizationOptions}
-        taskTypeOptions={taskTypeOptions}
-        filteredCount={filtered.length}
-        scrapedAt={scrapedAt}
-        onQueryChange={handleQueryChange}
-        onCallNumberChange={handleCallNumberChange}
-        onOrganizationChange={handleOrganizationChange}
-        onTaskTypeChange={handleTaskTypeChange}
-        onAfroChange={handleAfroChange}
-        onDiscapacidadChange={handleDiscapacidadChange}
-        onTransChange={handleTransChange}
-        onVictimasChange={handleVictimasChange}
+          query={query}
+          organization={organization}
+          taskType={taskType}
+          afro={afro}
+          discapacidad={discapacidad}
+          trans={trans}
+          victimas={victimas}
+          organizationOptions={organizationOptions}
+          taskTypeOptions={taskTypeOptions}
+          onQueryChange={handleQueryChange}
+          onOrganizationChange={handleOrganizationChange}
+          onTaskTypeChange={handleTaskTypeChange}
+          onAfroChange={handleAfroChange}
+          onDiscapacidadChange={handleDiscapacidadChange}
+          onTransChange={handleTransChange}
+          onVictimasChange={handleVictimasChange}
         />
       </div>
 
