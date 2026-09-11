@@ -86,7 +86,6 @@ export default function JobsFilters({
             type="text"
             autoFocus
             className="input"
-            placeholder="Titulo, organismo, suborganismo o N de llamado"
             value={query}
             onChange={(event) => onQueryChange(event.target.value)}
           />
