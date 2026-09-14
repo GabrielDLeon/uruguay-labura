@@ -18,8 +18,8 @@ sources:
     url: "https://erasmus-plus.ec.europa.eu/sites/default/files/2024-11/handbook-erasmus-icm_oct24-v6_1_en_0.pdf"
   - label: "ORT Uruguay - Erasmus+ ICM"
     url: "https://www.ort.edu.uy/area-internacional/erasmus"
-  - label: "UDELAR - Convocatoria Erasmus+ KA171 (UAM 2025/26)"
-    url: "https://www.fder.edu.uy/node/7988"
+  - label: "UDELAR - Convocatoria Erasmus+ KA171 (Almería 2025/26)"
+    url: "https://www.fing.edu.uy/sites/default/files/2025-09/convocatoria-erasmus-ka171-almeria-2025-2026.pdf"
 tags:
   - "internacional"
   - "movilidad"
@@ -28,27 +28,29 @@ tags:
   - "unión europea"
 draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-13 01:26:42"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
 
 Uruguay es **país socio** de Erasmus+ (no país del programa): los estudiantes uruguayos acceden a través de la acción **International Credit Mobility (KA171)**, en proyectos bilaterales que una universidad europea con fondos Erasmus+ mantiene con una universidad uruguaya. No hay postulación directa ante la UE: cada universidad abre sus propias convocatorias internas.
 
-- **Estipendio mensual:** 800-900 €/mes según el país de destino (800 € para Turquía, Croacia, Polonia…; 850 € para España…; 900 € para Finlandia, Suecia, Países Bajos, Alemania…). Ejemplos reales: ORT-Sabanci (Turquía) 800 €/mes; ORT-Valladolid y UDELAR-UAM (España) 850 €/mes.
+- **Estipendio mensual:** 800-900 €/mes según el país de destino y la convocatoria (ejemplos de convocatorias pasadas: 800 € para Turquía, Croacia, Polonia…; 850 € para España…; 900 € para Finlandia, Suecia, Países Bajos, Alemania…). Ejemplos reales: ORT-Sabanci (Turquía) 800 €/mes; ORT-Valladolid (España) 850 €/mes; UDELAR-Almería (España) 850 €/mes. Cada llamado fija su monto.
 - **Ayuda de viaje:** monto único según tramos de distancia. Uruguay-España (más de 8.000 km): 1.735 €.
 - **Exoneración de tasas** universitarias en la universidad de destino (ORT también exonera en su casa).
-- **Top-up de 250 €/mes** adicional para estudiantes con menos oportunidades.
+- **Top-up de 250 €/mes** adicional para estudiantes con menos oportunidades (según bases de cada convocatoria, sujeto a documentación y presupuesto).
 
-El seguro médico y de viaje **no está garantizado**: depende de cada proyecto. La convocatoria ORT-Valladolid 2026-27 lo incluye, pero la UDELAR-UAM exige que el estudiante contrate su propia póliza.
+El seguro médico y de viaje **no está garantizado**: varía por proyecto y varias convocatorias exigen que el estudiante contrate su propia póliza a su costo (por ejemplo, UDELAR-Almería). Verificar las bases de cada convocatoria.
 
 **Duración:** típicamente un semestre académico (5 meses); la movilidad de estudios puede ir de 2 a 12 meses por ciclo.
+
+La ayuda es una contribución parcial: no cubre todos los gastos (visa y seguro suelen ser a costo del estudiante).
 
 **Destinos típicos:** España, Finlandia, Países Bajos, Suecia y Turquía, documentados en convocatorias de ORT; cada proyecto define sus destinos y plazas.
 
 ## Requisitos
 
-**A quién está dirigida:** estudiantes de grado y posgrado de universidades uruguayas que participan en proyectos Erasmus+ KA171 (ORT, UDELAR, UM, entre otras). Cada convocatoria fija sus propios criterios; los habituales son:
+**A quién está dirigida:** estudiantes de grado y posgrado de universidades uruguayas que participan en proyectos Erasmus+ KA171 (ORT, UDELAR, entre otras). Cada convocatoria fija sus propios criterios; los habituales son:
 
 - Estar matriculado como estudiante regular y no cursar el último semestre de la carrera.
 - Promedio destacado: ORT exige PAC mayor o igual a 85 (escala propia); UDELAR exige al menos el 50% de los créditos de la carrera aprobados. No existe un promedio único universal.
@@ -64,4 +66,4 @@ El pago de la beca se realiza **en destino, una vez iniciada la movilidad**: el 
 
 ## Fechas y Plazas
 
-No hay fecha única: cada universidad abre convocatorias según los proyectos KA171 activos. Ejemplos recientes: ORT-Valladolid 2026-27 cerró el 5 de mayo de 2026; UDELAR-UAM 2025/26 recibió postulaciones hasta agosto de 2025. Hay que consultar la oficina internacional de cada universidad.
+No hay fecha única: cada universidad abre convocatorias según los proyectos KA171 activos. Ejemplos recientes: ORT-Valladolid 2026-27 cerró el 5 de mayo de 2026; UDELAR-Almería 2025/26 recibió postulaciones hasta el 7 de octubre de 2025. Hay que consultar la oficina internacional de cada universidad.

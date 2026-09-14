@@ -25,21 +25,21 @@ tags:
   - "grado"
 draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-13 01:24:06"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
 
 Apoyo económico mensual de **2 BPC** para estudiantes de carreras terciarias públicas. **No hay cupos**: todos los que cumplen los criterios reciben la beca.
 
-- Dirigida a hogares de bajos ingresos (1.er y 2.º quintil).
+- Dirigida a hogares de bajos ingresos (evaluación socioeconómica e Índice de Vulnerabilidad Estudiantil, IVEs).
 - El monto se indexa a la Base de Prestaciones y Contribuciones (BPC) y se actualiza anualmente por decreto.
 - 10.451 becas otorgadas en 2025 (185.463 acumuladas; 85-92% a estudiantes de primera generación universitaria).
 - **Incompatible** con otra beca económica (Bienestar Universitario, UTE, ANTEL, etc.).
 
 ### Renovación
 
-La beca se renueva año a año mientras se mantengan las condiciones. Para renovar se exige un **avance mínimo de escolaridad**: 50% de los créditos aprobados en carreras universitarias y 40% en carreras técnicas (DGETP-UTU, UTEC y carreras técnicas de UDELAR). Quienes renuevan reciben hasta 10 pagos al año.
+La beca se renueva año a año mientras se mantengan las condiciones. Para renovar se exige un **avance mínimo de escolaridad**: 50% de los créditos aprobados en carreras universitarias y 40% en carreras técnicas (DGETP-UTU, UTEC y carreras técnicas de UDELAR). Quienes ya cursan con beca reciben hasta 10 pagos al año; quienes ingresan por primera vez reciben 8 pagos.
 
 ## Requisitos
 
@@ -58,5 +58,5 @@ En línea a través del [Portal de Estudiantes](https://becas.fondodesolidaridad
 
 ## Fechas y Plazas
 
-- **Nuevas solicitudes:** inscripciones desde el 1.° de noviembre en el Portal de Estudiantes.
-- **Renovaciones:** del 2 de enero al 28 de febrero.
+- **Nuevas solicitudes:** inscripciones desde el 1.° de noviembre en el Portal de Estudiantes (hasta fin de febrero).
+- **Renovaciones:** del 2 de enero al 28 de febrero, por Autogestión con ID Uruguay.

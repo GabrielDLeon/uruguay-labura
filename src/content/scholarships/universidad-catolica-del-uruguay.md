@@ -8,8 +8,9 @@ website: "https://carreras.ucu.edu.uy/categoria/Concurso-de-Becas-357"
 amount: "30% a 100% de la matrícula según beca"
 level:
   - "grado"
-renewable: false
-applicationDeadline: ""
+renewable: true
+applicationDeadline: "2026-09-30"
+applicationUrl: "https://carreras.ucu.edu.uy/Carreras/POSTULACIONES-uc94"
 sources:
   - label: "UCU - Concurso de Becas"
     url: "https://carreras.ucu.edu.uy/categoria/Concurso-de-Becas-357"
@@ -19,7 +20,7 @@ tags:
   - "grado"
 draft: false
 createdAt: "2026-08-13 12:00:00"
-updatedAt: "2026-08-13 12:00:00"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
@@ -36,6 +37,7 @@ El Concurso de Becas de la UCU reúne cuatro becas de grado para nuevos estudian
 - El concurso entrega más de 400 becas por año a nuevos estudiantes de grado, para premiar la excelencia académica y/o apoyar económicamente.
 - Se puede postular al mismo tiempo a distintos tipos de beca, siempre que se cumplan los requisitos de cada una.
 - La adjudicación se define por la prueba del concurso (razonamiento matemático y comprensión lectora) y, en las becas Dámaso Antonio Larrañaga y CEU, también por la evaluación socioeconómica.
+- La beca se mantiene durante toda la carrera (no requiere renovación anual).
 
 ## Requisitos
 

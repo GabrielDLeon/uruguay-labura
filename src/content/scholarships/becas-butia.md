@@ -9,7 +9,8 @@ amount: "$13.000 a $25.000 anuales (2026) según el nivel"
 level:
   - "educacion-media"
 renewable: false
-applicationDeadline: ""
+applicationDeadline: "2026-03-16"
+applicationUrl: "https://becas.edu.uy/"
 sources:
   - label: "Becas Uruguay - Acerca de la Beca"
     url: "https://becas.edu.uy/acerca-de-la-beca"
@@ -29,7 +30,7 @@ tags:
   - "ceibal"
 draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-13 01:26:40"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
@@ -43,28 +44,31 @@ Montos anuales (2026), pagados en **9 cuotas mensuales entre abril y diciembre**
 | 2° Educación Media Superior | $21.000 |
 | 3° Educación Media Superior | $25.000 |
 
-- Cobro con tarjeta asociada a una cuenta BROU: mayores de 14 años en cuenta personal; menores de 14 a través de un referente adulto declarado.
-- El pago mensual está condicionado al cumplimiento del acuerdo educativo: ante un incumplimiento el pago se suspende, pero se reintegra si la situación se corrige.
+- Cobro con tarjeta asociada a una cuenta BROU: mayores de 14 años en cuenta personal; menores de 14 años continúan cobrando por BPS.
+- El pago mensual está condicionado al cumplimiento del acuerdo educativo: ante un incumplimiento el pago se suspende (ver guía del usuario para condiciones de reintegro).
 - 22.000 estudiantes beneficiarios en 2026 (con un presupuesto de $400 millones); en 2025 fueron 14.700. La meta del quinquenio es llegar a 70.000 estudiantes en 2029 (1 de cada 4 estudiantes de educación media).
-- Compatible con otras ayudas del Estado, como las Asignaciones Familiares.
+- En Educación Media Básica el monto subió de $10.000 (2025) a $13.000 (2026).
+- La compatibilidad con otras ayudas del Estado debe consultarse en cada caso en la guía del usuario.
 
 ## Requisitos
 
 **A quién está dirigida:** estudiantes de 11 a 21 años en centros públicos de educación media.
 
-- Edad: entre 11 y 21 años cumplidos al 30 de abril del año de postulación.
+- Edad: entre 11 y 21 años (verificar fecha de corte en la guía del usuario del año de postulación).
 - Estar cursando o por cursar educación media (básica o superior) en un centro público: liceos de Secundaria, UTU (Escuela Técnica, Agraria, CEA o CEC), Programa Uruguay Estudia, Áreas Pedagógicas o Escuelas Rurales con Ciclo Básico.
 - Aceptar el acuerdo educativo: asistir a clase, cumplir con las actividades y mantener buena conducta. El pago mensual depende del cumplimiento de este compromiso.
 - La selección prioriza por Índice de Carencias Críticas (ICC) del hogar, valida la inscripción en el centro educativo y aplica acciones afirmativas para estudiantes afrodescendientes, trans y personas en situación de discapacidad. El programa integra además a adolescentes de INAU, CECAP y del Programa Calles del MIDES.
 
 ## Cómo Postular
 
-Online en [becas.edu.uy](https://becas.edu.uy/), iniciando sesión con el usuario y la contraseña de Ceibal (CREA). La postulación es anual: quienes ya se postularon otros años reutilizan sus datos y reenvían el formulario.
+Online en [becas.edu.uy](https://becas.edu.uy/). La postulación es anual: quienes ya se postularon otros años reutilizan sus datos y reenvían el formulario.
 
-Los resultados se publican en el mismo portal **desde el 20 de abril** y también se comunican a los centros educativos.
+Los resultados se publican en el mismo portal en abril y también se comunican a los centros educativos.
+
+Consultas: 0800 2342 / *2342 (lun–vie 8–18 h).
 
 ## Fechas y Plazas
 
-- Convocatoria 2026: del 21 de noviembre de 2025 al 16 de marzo de 2026.
+- Convocatoria 2026 (cerrada): de noviembre de 2025 al 16 de marzo de 2026.
 - Pagos: 9 cuotas mensuales de abril a diciembre.
-- Resultados: desde el 20 de abril.
+- Resultados: en abril.

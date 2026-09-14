@@ -3,31 +3,32 @@ title: "Becas Universidad de Montevideo (UM)"
 type: "Beca privada por rendimiento académico y necesidad socioeconómica"
 institution: "Universidad de Montevideo (UM)"
 image: "../../assets/institutions/um-logo.webp"
-description: "Tres becas de grado para ingresantes a la UM: Beca UM (70% de la matrícula), Beca a la Excelencia (60%) y Beca Interior (40%)."
+description: "Tres becas de grado para ingresantes a la UM: Beca UM (70% de la matrícula), Beca a la Excelencia (50%) y Beca Interior (40%)."
 website: "https://www.um.edu.uy/beca-um"
 amount: "40% a 70% de la matrícula según beca"
 level:
   - "grado"
 renewable: true
-applicationDeadline: ""
+applicationDeadline: "2026-09-30"
+applicationUrl: "https://www.um.edu.uy/beca-excelencia"
 sources:
   - label: "UM - Admisiones y Becas"
     url: "https://www.um.edu.uy/admisiones-becas"
   - label: "UM - Beca UM (70%)"
     url: "https://www.um.edu.uy/beca-um"
-  - label: "UM - Beca a la Excelencia (60%)"
+  - label: "UM - Beca a la Excelencia (50%)"
     url: "https://www.um.edu.uy/beca-excelencia"
   - label: "UM - Beca Interior (40%)"
     url: "https://www.um.edu.uy/beca-interior"
-  - label: "UM - Bases y condiciones Beca UM 2026"
-    url: "https://www.um.edu.uy/sites/default/files/documentos/2026-05/BASES%20Y%20CONDICIONES%20BECA%20UM%202026.pdf.pdf"
+  - label: "UM - Bases y condiciones Beca UM 2026 (ver página de la beca)"
+    url: "https://www.um.edu.uy/beca-um"
 tags:
   - "privada"
   - "um"
   - "grado"
 draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-13 01:26:42"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
@@ -36,15 +37,15 @@ Becas parciales de la matrícula para estudiantes ingresantes a carreras de grad
 
 | Beca | Cobertura | Cierre de postulación |
 |---|---|---|
-| Beca UM (preuniversitaria) | 70% de la matrícula | 30 de junio |
-| Beca a la Excelencia | 60% de la matrícula | 31 de julio |
-| Beca Interior | 40% de la matrícula | 31 de agosto |
+| Beca UM (preuniversitaria) | 70% de la matrícula | 30 de junio (convocatoria 2026 cerrada) |
+| Beca a la Excelencia | 50% de la matrícula | 30 de septiembre |
+| Beca Interior | 40% de la matrícula | 31 de agosto (convocatoria 2026 cerrada) |
 
 - La **Beca Interior** es acumulable con el descuento al interior de la UM.
 
 ### Renovación
 
-- **Beca UM:** se renueva anualmente manteniendo un promedio de 8 o superior en la escolaridad UM (bases 2026).
+- **Beca UM:** se renueva anualmente manteniendo un promedio de 8 o superior en la escolaridad UM (según bases publicadas en la página de la beca).
 - **Beca Interior:** se renueva manteniendo un promedio de 9 en la escolaridad UM.
 - **Beca a la Excelencia:** la UM no publica condiciones de renovación en su página oficial.
 
@@ -64,6 +65,6 @@ Becas parciales de la matrícula para estudiantes ingresantes a carreras de grad
 
 ## Fechas y Plazas
 
-- **Beca UM:** hasta el 30 de junio; la final es presencial en la última semana de julio.
-- **Beca a la Excelencia:** hasta el 31 de julio.
-- **Beca Interior:** hasta el 31 de agosto.
+- **Beca UM:** hasta el 30 de junio (convocatoria 2026 cerrada); la final es presencial en la última semana de julio.
+- **Beca a la Excelencia:** hasta el 30 de septiembre.
+- **Beca Interior:** hasta el 31 de agosto (convocatoria 2026 cerrada).

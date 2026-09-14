@@ -96,7 +96,18 @@ const becaRules: Record<string, BecaRule> = {
     degreeLevels: ["grado"],
   },
   "programa-roberto-rocca": {
-    tags: ["programa-roberto-rocca"],
+    institutions: ["udelar", "ucu", "um", "ort", "ude"],
+    degreeLevels: ["grado"],
+    titleIncludes: [
+      "ingenier",
+      "computaci",
+      "contador",
+      "administraci",
+      "econom",
+      "negocios",
+      "relaciones internacionales",
+      "recursos h",
+    ],
   },
   anii: {
     degreeLevels: ["posgrado"],

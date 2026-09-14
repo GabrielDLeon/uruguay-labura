@@ -25,7 +25,7 @@ tags:
   - "grado"
 draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-13 01:26:42"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
@@ -44,7 +44,7 @@ Bienestar Universitario (SCIBU) ofrece **ocho tipos de becas** para estudiantes 
 | Laptop | Préstamo anual de una computadora | Préstamo |
 
 - **Apoyo Económico**, **Alojamiento** y **Guardería** se pagan mensualmente: de mayo a diciembre para quienes acceden por primera vez y de marzo a diciembre para quienes renuevan.
-- Los montos se indexan a la Base de Prestaciones y Contribuciones (BPC), que se actualiza anualmente por decreto.
+- Los montos se indexan a la Base de Prestaciones y Contribuciones (BPC), que se actualiza anualmente por decreto (BPC 2026: $6.864; 2 BPC = $13.728 a valores de enero 2026).
 - El pago se realiza por transferencia a una cuenta bancaria a nombre del estudiante.
 
 ### Renovación
@@ -55,7 +55,7 @@ La beca se renueva año a año presentando la solicitud en el período de renova
 
 **A quién está dirigida:** estudiantes inscriptos en carreras de grado de UDELAR de todo el país, con vulnerabilidad socioeconómica.
 
-- Edad máxima de **27 años** para la primera solicitud; existe un llamado especial "extraedad" para mayores de 28 años, con cupo del 4%.
+- Edad máxima de **27 años** para la primera solicitud; existe un llamado especial "extraedad" para mayores de 28 años (ver cupos y condiciones en el reglamento vigente).
 - Certificar la situación económica: declaración jurada con los ingresos y la situación de vivienda del núcleo familiar.
 - Asistir a la entrevista con el equipo de Trabajo Social; la solicitud solo se considera completa después de la entrevista.
 - No haber tenido ni tener beca de Bienestar Universitario (categoría "Primera vez cursando").
@@ -63,7 +63,7 @@ La beca se renueva año a año presentando la solicitud en el período de renova
 
 ## Cómo Postular
 
-La inscripción es **centralizada**: un único formulario en línea en el [Portal de Becas de SCIBU](https://sigeva.udelar.edu.uy/eva/udelar/homeScibu), según la categoría de acceso. Se adjunta la documentación (escolaridad, ingresos del hogar, situación de vivienda) y luego se agenda la entrevista con Trabajo Social.
+La inscripción es **centralizada**: un único formulario en línea en el [Portal de Becas de SCIBU](https://sigeva.udelar.edu.uy/eva/udelar/homeScibu) (puerta de entrada: becas.udelar.edu.uy), según la categoría de acceso. Se adjunta la documentación (escolaridad, ingresos del hogar, situación de vivienda) y luego se agenda la entrevista con Trabajo Social.
 
 ### Categorías de acceso
 

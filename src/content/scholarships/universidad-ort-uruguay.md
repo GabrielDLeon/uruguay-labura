@@ -9,8 +9,8 @@ applicationUrl: "https://admisiones.ort.edu.uy/"
 amount: "Hasta 100% de la matrícula según el fondo"
 level:
   - "grado"
-renewable: false
-applicationDeadline: ""
+renewable: true
+applicationDeadline: "2026-10-19"
 sources:
   - label: "ORT - Becas para carreras universitarias"
     url: "https://www.ort.edu.uy/becas/becas-para-carreras-universitarias"
@@ -26,7 +26,7 @@ tags:
   - "grado"
 draft: false
 createdAt: "2026-08-13 12:00:00"
-updatedAt: "2026-08-13 12:00:00"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
@@ -44,7 +44,7 @@ ORT Uruguay ofrece varios fondos de becas para carreras universitarias de grado,
 | Beca Olimpíada de Física | 100% |
 | Beca Olimpíada de Matemática | 100% |
 
-- Las becas se otorgan por un período equivalente a 1,5 veces la duración formal de la carrera (por ejemplo, 6 años para una carrera de 4) y no requieren renovación durante ese período, manteniendo un rendimiento académico aceptable.
+- Las becas FEXA, FBC, de Reválidas, Mujer y Olímpicas se mantienen durante toda la carrera (hasta 1,5 veces su duración formal) con rendimiento académico aceptable, sin trámite anual de renovación.
 - Los fondos FEXA y FBC no aplican a quienes revalidan estudios para continuar su carrera en ORT.
 - Existen también fondos excepcionales para estudiantes activos — Fondo de Becas de Extensión (FBX) y Fondo de Becas Sociales (FBS) — que sí se renuevan anualmente, y becas parciales a través de concursos y desafíos profesionales.
 
@@ -91,6 +91,6 @@ En línea a través de [admisiones.ort.edu.uy](https://admisiones.ort.edu.uy/), 
 
 ## Fechas y Plazas
 
-- FEXA y FBC, comienzo de marzo de 2027: postulaciones del 6 de julio al 17 de agosto de 2026; examen PAA el 21 de agosto de 2026; resultados a partir del 4 de septiembre de 2026.
+- FEXA y FBC, comienzo de marzo de 2027: postulaciones del 17 de agosto al 19 de octubre de 2026; examen PAA el 23 de octubre de 2026; resultados a partir del 6 de noviembre de 2026.
 - La PAA se toma en junio, julio, agosto, octubre y noviembre del año anterior al comienzo, y en febrero y marzo del año de comienzo. Para el comienzo de agosto, en junio, julio y agosto.
 - Beca Concursable Mujer y becas olímpicas: asignación anual para el comienzo de marzo.

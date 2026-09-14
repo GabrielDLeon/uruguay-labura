@@ -5,7 +5,7 @@ institution: "Agencia Nacional de Investigación e Innovación (ANII)"
 image: "../../assets/institutions/anii-logo.webp"
 description: "Estipendios mensuales para maestrías, doctorados y posdoctorados en Uruguay y en el exterior. Montos actualizados a valores 2026."
 website: "https://anii.org.uy/"
-applicationUrl: "https://www.anii.org.uy/apoyos/formacion/"
+applicationUrl: "https://anii.org.uy/apoyos/formacion/276/programa-de-becas-de-posgrado-nacional"
 amount: "Estipendio mensual según modalidad (valores 2026)"
 level:
   - "posgrado"
@@ -22,8 +22,10 @@ sources:
     url: "https://anii.org.uy/apoyos/formacion/6/becas-de-posdoctorado-nacional"
   - label: "ANII - Doctorados en el Exterior en Áreas Estratégicas"
     url: "https://anii.org.uy/apoyos/formacion/410/doctorados-en-el-exterior-en-areas-estrategicas"
-  - label: "ANII - Reglamento General del Sistema Nacional de Becas"
-    url: "https://anii.org.uy/upcms/files/listado-documentos/documentos/snb-reglamento-general-11-agosto-2020.pdf"
+  - label: "ANII - Reglamento del Sistema Nacional de Becas (2023)"
+    url: "https://anii.org.uy/upcms/files/llamados/documentos/reglamento-sistema-nacional-de-becas-vf-20230329-vf-1-.pdf"
+  - label: "ANII - Bases 2026 de Posgrados Nacionales"
+    url: "https://anii.org.uy/upcms/files/llamados/documentos/1787065740_bases-posgrados-nacionales-2026-vf-1-.pdf"
   - label: "ANII - Bases 2025 de Posgrados Nacionales"
     url: "https://anii.org.uy/upcms/files/llamados/documentos/bases-posgrados-nacionales-2025.pdf"
 tags:
@@ -34,7 +36,7 @@ tags:
   - "investigación"
 draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-13 01:26:40"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
 ## Cobertura
@@ -43,14 +45,15 @@ Estipendio mensual directo al becario, según la modalidad (montos fijados por r
 
 | Modalidad | Estipendio mensual | Duración |
 |---|---|---|
-| Maestría nacional | $36.263 (2026) | hasta 24 meses |
-| Doctorado nacional | $56.706 (2026) | hasta 36 meses (hasta 48 en casos excepcionales) |
+| Maestría nacional | $36.319 (2026) | hasta 24 meses |
+| Doctorado nacional | $59.486 (2026) | hasta 36 meses (hasta 48 en casos excepcionales) |
 | Posdoctorado nacional | hasta $67.995 (aporte de ANII) | hasta 24 meses |
 | Doctorado en el exterior | variable, según destino y convenio | hasta 36 meses (hasta 48 en casos excepcionales) |
 
-- Los montos se actualizan cada año por resolución: en 2025 la maestría pagaba $34.986 y el doctorado $54.711 (2026: +3,65%).
-- El **posdoctorado nacional** es cofinanciado: ANII aporta hasta el 80% del costo mensual (tope $67.995) y la institución postulante cubre el resto. Está dirigido a científicos uruguayos o extranjeros radicados al menos 3 años en el exterior; el último llamado fue en 2024.
+- Los montos se actualizan cada año por resolución (valores 2026 según Bases 2026).
+- El **posdoctorado nacional** es cofinanciado: ANII aporta hasta el 80% del costo mensual (tope $67.995) y la institución postulante cubre el resto. Está dirigido a científicos uruguayos o extranjeros radicados al menos 3 años en el exterior; se otorga por llamados específicos (el último fue en 2024, verificar convocatoria vigente).
 - Las becas de posgrado nacional son **incompatibles con otro financiamiento equivalente nacional**.
+- En líneas agropecuarias y de sostenibilidad existe un beneficio adicional del 25% para radicación en el interior (ver Bases 2026).
 
 ## Requisitos
 
@@ -65,16 +68,16 @@ Estipendio mensual directo al becario, según la modalidad (montos fijados por r
 
 ### Compromiso de retorno (doctorados en el exterior)
 
-Quienes estudian en el exterior deben, al finalizar la beca, retornar a Uruguay y residir en el país por un período que **duplica el tiempo de residencia en el extranjero** (por ejemplo, una beca de 36 meses con 24 en el exterior exige 60 meses de residencia en Uruguay). Existen alternativas de contraprestación evaluadas por ANII.
+Quienes estudian en el exterior deben, al finalizar la beca, retornar a Uruguay y residir en el país por un período que **duplica el tiempo de residencia en el extranjero** (por ejemplo, una beca de 36 meses con 24 en el exterior exige 60 meses de residencia en Uruguay). Existen alternativas de contraprestación evaluadas por ANII (ver reglamento y bases del llamado correspondiente).
 
 ## Cómo Postular
 
-En línea a través del sitio de [ANII - Formación](https://www.anii.org.uy/apoyos/formacion/).
+En línea a través del sitio de [ANII - Formación](https://anii.org.uy/apoyos/formacion/).
 
 **Documentación:** inscripción o carta de aceptación del programa de posgrado, plan de formación (maestría) o plan de trabajo (doctorado) y carta de conformidad del orientador.
 
 ## Fechas y Plazas
 
 - Llamado 2025: bases publicadas el 17 de julio, postulaciones hasta el 21 de agosto de 2025.
-- Llamado 2026: la información preliminar oficial anuncia la apertura en **agosto de 2026** (sin fecha de cierre publicada al momento de la actualización).
+- Llamado 2026: apertura el 18 de agosto de 2026, cierre el 16 de septiembre de 2026 a las 14:00, extendido al 30 de septiembre.
 - Resoluciones publicadas en diciembre; confirmación de aceptación hasta el 10 de febrero; la beca se inicia con el año lectivo (febrero-marzo).

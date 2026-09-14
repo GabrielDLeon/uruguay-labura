@@ -107,19 +107,33 @@ draft: false                            # opcional, default false
 
 Las becas se modelan como una colección independiente en `src/content/scholarships/`.
 
-Frontmatter de una beca:
+Frontmatter de una beca (schema `scholarshipSchema` en `src/content.config.ts`):
 
 ```yaml
 title: "Fondo de Solidaridad"
 type: "Beca económica estatal nacional"
 institution: "Fondo de Solidaridad"
 description: "Descripción corta para SEO..."   # opcional
-website: "https://..."
+website: "https://..."                        # sitio oficial del programa
+applicationUrl: "https://..."                 # link directo de postulación, distinto de website (opcional)
+amount: "2 BPC mensuales"                      # opcional; montos anclados a índices en unidad estable (ej. BPC), sin $ hardcodeados
+level: ["grado"]                               # enum: grado, posgrado, tecnico, diplomado, educacion-media
+renewable: true                                  # default false; true si se renueva o se mantiene toda la carrera con rendimiento
+applicationDeadline: "2026-09-30"              # fecha ISO o "" si solo hay ventana recurrente
+sources:                                         # links oficiales de respaldo
+  - label: "Sitio oficial"
+    url: "https://..."
 tags:
   - "estatal"
   - "udelar"
 draft: false
 ```
+
+Reglas:
+
+- `amount` en BPC/€/U$S según la fuente; si se da equivalencia en $UY, fecharla ("a valores enero 2026").
+- `applicationDeadline` con fecha real cuando la convocatoria la tenga (aunque el body describa varias ediciones); `""` solo si es ventana recurrente sin fecha fija.
+- `renewable: true` para becas que se mantienen toda la carrera con rendimiento (privadas) o se renuevan año a año (estatales).
 
 El contenido detallado (cobertura, audiencia, requisitos, cómo postular) va en el **body** con secciones `##`.
 
