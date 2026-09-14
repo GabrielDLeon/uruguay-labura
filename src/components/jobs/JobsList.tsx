@@ -28,15 +28,6 @@ export default function JobsList({ jobs }: Props) {
           <article key={job.id} className="card">
             <header className="flex flex-wrap items-center gap-2">
               <OrgLogo organization={job.organization} />
-              <a
-                href={job.origin}
-                target="_blank"
-                rel="noreferrer"
-                className="badge"
-                data-variant="outline"
-              >
-                {job.callNumber}
-              </a>
               {isUpcoming(job) ? (
                 <span className="text-muted-foreground text-xs">
                   Abre {formatDateShort(job.openingDate)}

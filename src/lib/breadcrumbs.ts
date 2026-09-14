@@ -10,6 +10,8 @@ const SECTION_LABELS: Record<string, string> = {
   "/educacion/carreras": "Carreras",
   "/educacion/instituciones": "Instituciones",
   "/empleos": "Empleos",
+  "/empleos/datos": "Datos",
+  "/empleos/guardados": "Guardados",
   "/carreras": "Carreras",
   "/acerca": "Acerca",
 };

@@ -28,7 +28,6 @@ export default function JobsTable({ jobs }: Props) {
       <section className="overflow-x-auto">
         <table className="table table-fixed w-full min-w-[900px]">
           <colgroup>
-            <col className="w-24" />
             <col className="w-10" />
             <col className="w-80" />
             {SHOW_TAGS ? <col className="w-78" /> : null}
@@ -39,7 +38,6 @@ export default function JobsTable({ jobs }: Props) {
           </colgroup>
           <thead>
             <tr>
-              <th>Llamado</th>
               <th>
                 <span className="sr-only">Organismo</span>
               </th>
@@ -59,14 +57,6 @@ export default function JobsTable({ jobs }: Props) {
 
               return (
                 <tr key={job.id} className="hover:bg-[var(--muted)]">
-                  <td className="whitespace-nowrap">
-                    <span
-                      className="badge inline-flex items-center"
-                      data-variant="outline"
-                    >
-                      {job.callNumber}
-                    </span>
-                  </td>
                   <td>
                     <OrgLogo organization={job.organization} />
                   </td>

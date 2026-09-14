@@ -66,6 +66,19 @@ const activeJobs = jobsDataset.jobs.filter((job) => {
         />
         Actualizado: {formatDateShort(jobsDataset.scrapedAt)}
       </span>
+      <a
+        href="/empleos/datos"
+        class="inline-flex items-center gap-1 underline decoration-dotted underline-offset-3 hover:text-foreground"
+      >
+        <Icon
+          name="mdi:chart-bar"
+          width="14"
+          height="14"
+          class="shrink-0"
+          aria-hidden="true"
+        />
+        Ver datos
+      </a>
     </div>
   </Block>
 

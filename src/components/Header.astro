@@ -10,8 +10,13 @@ import SearchModal from "@/components/search/SearchModal.astro";
 >
   <div class="mx-auto w-full max-w-7xl px-4 sm:px-6">
     <div class="flex items-center gap-2 py-3 sm:gap-4 sm:py-4">
-      <a href="/" class="text-base font-semibold text-foreground sm:text-lg">
-        🇺🇾 Labura
+      <a
+        href="/"
+        class="inline-flex items-center gap-2 text-base font-semibold text-foreground sm:text-lg"
+      >
+        <span aria-hidden="true" class="size-4 rounded-[3px] bg-[#87CEEB]"
+        ></span>
+        Labura
       </a>
 
       <nav class="hidden items-center gap-1 text-sm sm:flex">
@@ -24,6 +29,10 @@ import SearchModal from "@/components/search/SearchModal.astro";
           <a href="/empleos" role="menuitem">
             <Icon name="mdi:briefcase-outline" size={16} aria-hidden="true" />
             Todos los llamados
+          </a>
+          <a href="/empleos/datos" role="menuitem">
+            <Icon name="mdi:chart-bar" size={16} aria-hidden="true" />
+            Datos
           </a>
           <a href="/empleos/guardados" role="menuitem">
             <Icon name="mdi:heart-outline" size={16} aria-hidden="true" />

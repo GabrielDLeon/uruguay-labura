@@ -112,23 +112,29 @@ import { Icon } from "astro-icon/components";
     </div>
   </div>
 
-  <!-- Línea inferior full-width -->
+  <!-- Aviso legal -->
   <div class="border-t border-[var(--color-border)]">
     <div
-      class="mx-auto w-full max-w-7xl px-4 py-4 text-xs text-muted-foreground sm:flex sm:items-center sm:justify-between sm:px-6"
+      class="mx-auto flex w-full max-w-7xl flex-col gap-3 px-4 py-4 text-xs text-muted-foreground sm:px-6"
     >
-      <p>Uruguay Labura. Proyecto en evolución.</p>
-      <p>
-        Creado por{" "}
-        <a
-          href="https://github.com/gabrieldleon"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="transition-colors hover:text-foreground"
-        >
-          Gabriel de León
-        </a>
+      <p class="max-w-3xl leading-relaxed">
+        Directorio independiente, sin afiliación oficial. Logos de sus
+        titulares.
       </p>
+      <div class="sm:flex sm:items-center sm:justify-between">
+        <p>Uruguay Labura. Proyecto en evolución.</p>
+        <p>
+          Creado por{" "}
+          <a
+            href="https://github.com/gabrieldleon"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="transition-colors hover:text-foreground"
+          >
+            Gabriel de León
+          </a>
+        </p>
+      </div>
     </div>
   </div>
 </footer>

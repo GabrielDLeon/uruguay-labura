@@ -1,17 +1,36 @@
 ---
 import Layout from "@/layouts/Layout.astro";
-import Block from "@/components/Block.astro";
 import { Icon } from "astro-icon/components";
-import PageHeader from "@/components/PageHeader.astro";
-import HomeStats from "@/components/HomeStats.astro";
-import ClosingSoon from "@/components/ClosingSoon.astro";
-import DashboardSection from "@/components/dashboard/DashboardSection.astro";
+import { getCollection } from "astro:content";
+import HomeHero from "@/components/home/HomeHero.astro";
+import PatternDivider from "@/components/home/PatternDivider.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
-import type { JobsDataset } from "@/types/jobs";
+import { getDisplayStatus } from "@/components/jobs/jobs";
+import type { JobsDataset, JobRecord } from "@/types/jobs";
 import jobsData from "@/data/jobs.generated.json";
+import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
 
 const dataset = jobsData as unknown as JobsDataset;
-const dashboard = dataset.dashboard;
+
+const todayStart = startOfToday();
+
+const activeJobs = dataset.jobs.filter((job: JobRecord) => {
+  if (getDisplayStatus(job) !== "abierto") return false;
+  if (!job.closingDate) return true;
+  const closing = parseDate(job.closingDate);
+  if (!closing) return true;
+  return startOfDay(closing) >= todayStart;
+});
+
+const uniqueOrganizations = new Set(
+  activeJobs.map((j) => j.organization).filter(Boolean),
+);
+const totalPositions = activeJobs.reduce(
+  (sum, j) => sum + (j.totalPositions ?? 0),
+  0,
+);
+
+const careers = await getCollection("careers");
 ---
 
 <Layout
@@ -24,86 +43,178 @@ const dashboard = dataset.dashboard;
     kind="pagina"
   />
 
-  <Block>
-    <PageHeader
-      title="Uruguay Labura"
-      description="Directorio centralizado de llamados laborales y oportunidades educativas en Uruguay. Seleccioná una sección para empezar."
-    />
+  <HomeHero />
 
-    <div class="mt-8 grid gap-6 sm:grid-cols-2">
-      <a
-        href="/empleos"
-        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
-      >
-        <span
-          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+  <section class="border-b border-border" aria-label="Números del directorio">
+    <div class="grid grid-cols-2 sm:grid-cols-4">
+      <div class="border-r border-border px-4 py-5 text-center sm:py-6">
+        <p
+          class="font-mono text-2xl font-semibold text-foreground tabular-nums sm:text-3xl"
+          data-count={activeJobs.length}
         >
-          <Icon
-            name="mdi:briefcase-outline"
-            class="size-5"
-            aria-hidden="true"
-          />
-        </span>
-        <div>
-          <h2 class="text-lg font-semibold text-foreground">Empleos</h2>
-          <p class="mt-1 text-sm text-muted-foreground">
-            Llamados laborales de Uruguay Concursa con filtros y vista
-            centralizada.
-          </p>
-        </div>
-      </a>
-
-      <a
-        href="/educacion"
-        class="group flex flex-col gap-3 rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 transition-colors hover:border-[var(--color-accent)]"
-      >
-        <span
-          class="flex size-10 items-center justify-center rounded-lg border border-[var(--color-border)] bg-[var(--muted)] text-foreground transition-colors group-hover:bg-[var(--color-accent)]/10"
+          {activeJobs.length}
+        </p>
+        <p class="mt-1 text-xs text-muted-foreground">Llamados activos</p>
+      </div>
+      <div class="px-4 py-5 text-center sm:border-r sm:border-border sm:py-6">
+        <p
+          class="font-mono text-2xl font-semibold text-foreground tabular-nums sm:text-3xl"
+          data-count={uniqueOrganizations.size}
         >
-          <Icon name="mdi:school-outline" class="size-5" aria-hidden="true" />
-        </span>
-        <div>
-          <h2 class="text-lg font-semibold text-foreground">Educación</h2>
-          <p class="mt-1 text-sm text-muted-foreground">
-            Postgrados, maestrías, especializaciones y otras opciones de
-            formación superior en Uruguay.
-          </p>
-        </div>
-      </a>
+          {uniqueOrganizations.size}
+        </p>
+        <p class="mt-1 text-xs text-muted-foreground">Organismos</p>
+      </div>
+      <div
+        class="border-t border-r border-border px-4 py-5 text-center sm:border-t-0 sm:py-6"
+      >
+        <p
+          class="font-mono text-2xl font-semibold text-foreground tabular-nums sm:text-3xl"
+          data-count={totalPositions > 0 ? totalPositions : undefined}
+        >
+          {totalPositions > 0 ? totalPositions : "-"}
+        </p>
+        <p class="mt-1 text-xs text-muted-foreground">Puestos totales</p>
+      </div>
+      <div
+        class="border-t border-border px-4 py-5 text-center sm:border-t-0 sm:py-6"
+      >
+        <p
+          class="font-mono text-2xl font-semibold text-foreground tabular-nums sm:text-3xl"
+          data-count={careers.length}
+        >
+          {careers.length}
+        </p>
+        <p class="mt-1 text-xs text-muted-foreground">Programas educativos</p>
+      </div>
     </div>
+  </section>
 
-    <HomeStats />
+  <script is:inline>
+    (() => {
+      const els = document.querySelectorAll("[data-count]");
+      if (!els.length) return;
+      const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+      const animate = (el) => {
+        const target = Number(el.getAttribute("data-count"));
+        if (!Number.isFinite(target)) return;
+        if (reduce) return;
+        const dur = 1000;
+        const start = performance.now();
+        const tick = (now) => {
+          const t = Math.min((now - start) / dur, 1);
+          const eased = 1 - Math.pow(1 - t, 3);
+          el.textContent = Math.round(target * eased).toLocaleString("es-UY");
+          if (t < 1) requestAnimationFrame(tick);
+        };
+        requestAnimationFrame(tick);
+      };
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) {
+            animate(e.target);
+            io.unobserve(e.target);
+          }
+        });
+      });
+      els.forEach((el) => io.observe(el));
+    })();
+  </script>
 
-    <ClosingSoon />
+  <PatternDivider />
 
-    {dashboard && <DashboardSection dashboard={dashboard} />}
-
-    <section class="my-12">
-      <a
-        href="/acerca"
-        class="group flex flex-col gap-3 rounded-lg border border-border bg-card p-6 transition-colors hover:border-accent sm:flex-row sm:items-center sm:justify-between"
-      >
-        <div>
-          <h2 class="text-lg font-semibold text-foreground">
-            Sobre el Proyecto
-          </h2>
-          <p class="mt-1 max-w-2xl text-sm text-muted-foreground">
-            La historia, la motivación y las metas de Uruguay Labura: por qué
-            nace y hacia dónde apunta.
-          </p>
+  <section
+    class="grid border-b border-border sm:grid-cols-2"
+    aria-label="Secciones"
+  >
+    <a
+      href="/empleos"
+      class="group flex flex-col justify-between gap-6 border-b border-border bg-card p-6 sm:border-r sm:border-b-0 sm:p-8"
+    >
+      <div>
+        <div class="flex items-center justify-between">
+          <span
+            class="flex size-10 items-center justify-center rounded-lg border border-border bg-muted text-foreground"
+          >
+            <Icon
+              name="mdi:briefcase-outline"
+              class="size-5"
+              aria-hidden="true"
+            />
+          </span>
+          <span class="badge" data-variant="secondary">
+            {activeJobs.length} abiertos
+          </span>
         </div>
-        <span
-          class="inline-flex shrink-0 items-center gap-2 rounded-lg border border-border bg-card px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-foreground hover:text-background"
-          aria-hidden="true"
-        >
-          Conocer más
-          <Icon
-            name="mdi:arrow-right"
-            class="size-4 transition-transform group-hover:translate-x-0.5"
-            aria-hidden="true"
-          />
-        </span>
-      </a>
-    </section>
-  </Block>
+        <h2 class="mt-6 text-2xl font-semibold tracking-tight text-foreground">
+          Empleos
+        </h2>
+        <p class="mt-2 max-w-md text-sm text-muted-foreground">
+          Llamados de Uruguay Concursa con filtros, guardados y vista
+          centralizada. Postulás siempre en el sitio oficial.
+        </p>
+      </div>
+      <span
+        class="inline-flex items-center gap-2 text-sm font-medium text-foreground"
+      >
+        Explorar llamados
+        <Icon name="mdi:arrow-right" class="size-4" aria-hidden="true" />
+      </span>
+    </a>
+
+    <a
+      href="/educacion"
+      class="group flex flex-col justify-between gap-6 bg-card p-6 sm:p-8"
+    >
+      <div>
+        <div class="flex items-center justify-between">
+          <span
+            class="flex size-10 items-center justify-center rounded-lg border border-border bg-muted text-foreground"
+          >
+            <Icon name="mdi:school-outline" class="size-5" aria-hidden="true" />
+          </span>
+          <span class="badge" data-variant="secondary">
+            {careers.length} programas
+          </span>
+        </div>
+        <h2 class="mt-6 text-2xl font-semibold tracking-tight text-foreground">
+          Educación
+        </h2>
+        <p class="mt-2 max-w-md text-sm text-muted-foreground">
+          Carreras, instituciones y becas para seguir creciendo profesionalmente
+          en Uruguay.
+        </p>
+      </div>
+      <span
+        class="inline-flex items-center gap-2 text-sm font-medium text-foreground"
+      >
+        Explorar educación
+        <Icon name="mdi:arrow-right" class="size-4" aria-hidden="true" />
+      </span>
+    </a>
+  </section>
+
+  <PatternDivider />
+
+  <section class="border-b border-border">
+    <a
+      href="/acerca"
+      class="group flex flex-col gap-3 p-6 sm:flex-row sm:items-center sm:justify-between sm:p-8"
+    >
+      <div>
+        <h2 class="text-lg font-semibold text-foreground">Sobre el proyecto</h2>
+        <p class="mt-1 max-w-2xl text-sm text-muted-foreground">
+          La historia, la motivación y las metas de Uruguay Labura: por qué nace
+          y hacia dónde apunta.
+        </p>
+      </div>
+      <span
+        class="inline-flex shrink-0 items-center gap-2 text-sm font-medium text-foreground"
+        aria-hidden="true"
+      >
+        Conocer más
+        <Icon name="mdi:arrow-right" class="size-4" aria-hidden="true" />
+      </span>
+    </a>
+  </section>
 </Layout>

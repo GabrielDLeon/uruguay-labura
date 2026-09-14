@@ -245,13 +245,18 @@ export async function fetchAndProcessJobs(sourceUrl) {
 }
 
 function computeDashboard(jobs, nowIso) {
-  const now = new Date(nowIso);
+  function parseLocalDate(value) {
+    const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(value ?? "").trim());
+    if (match) return new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
+    return new Date(value);
+  }
+  const now = parseLocalDate(nowIso);
   const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
 
   function isActive(job) {
     if (String(job.status || "").toLowerCase() !== "abierto") return false;
     if (!job.closingDate) return true;
-    const closing = new Date(job.closingDate);
+    const closing = parseLocalDate(job.closingDate);
     const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());
     return closeDay >= todayStart;
   }
@@ -301,7 +306,7 @@ function computeDashboard(jobs, nowIso) {
   const closingByDate = new Map();
   for (const job of activeJobs) {
     if (job.closingDate) {
-      const closing = new Date(job.closingDate);
+      const closing = parseLocalDate(job.closingDate);
       const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());
       if (closeDay >= todayStart && closeDay <= sevenDaysFromNow) {
         const key = job.closingDate;

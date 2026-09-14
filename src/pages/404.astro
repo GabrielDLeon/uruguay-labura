@@ -1,23 +1,51 @@
 ---
-import Layout from "@/layouts/Layout.astro";
-import Block from "@/components/Block.astro";
+import Layout from '@/layouts/Layout.astro'
+import { Icon } from 'astro-icon/components'
 ---
 
 <Layout
-  title="Pagina no encontrada"
-  description="La pagina que estabas buscando no existe"
+  title="Página no encontrada"
+  description="La página que estabas buscando no existe o fue movida."
 >
-  <Block>
+  <section
+    class="relative overflow-hidden"
+    data-pagefind-ignore="all"
+  >
     <div
-      class="rounded-xl border border-[var(--border-subtle)] bg-[var(--card-bg)] p-6"
-      data-pagefind-ignore="all"
+      aria-hidden="true"
+      class="pointer-events-none absolute inset-y-0 left-0 w-1/4"
+      style="background-image: repeating-linear-gradient(-45deg, var(--border) 0 1px, transparent 1px 10px); mask-image: linear-gradient(to right, black 20%, transparent 100%); -webkit-mask-image: linear-gradient(to right, black 20%, transparent 100%);"
     >
-      <h2 class="text-2xl font-semibold text-[var(--color-foreground)]">
-        Error 404
-      </h2>
-      <p class="mt-2 text-[var(--color-muted-foreground)]">
-        No encontramos la pagina solicitada.
-      </p>
     </div>
-  </Block>
+    <div
+      aria-hidden="true"
+      class="pointer-events-none absolute inset-y-0 right-0 w-1/4"
+      style="background-image: repeating-linear-gradient(45deg, var(--border) 0 1px, transparent 1px 10px); mask-image: linear-gradient(to left, black 20%, transparent 100%); -webkit-mask-image: linear-gradient(to left, black 20%, transparent 100%);"
+    >
+    </div>
+
+    <div class="relative mx-auto max-w-2xl px-4 py-14 text-center sm:py-20">
+      <p
+        aria-hidden="true"
+        class="font-mono text-7xl font-semibold tracking-tighter text-foreground tabular-nums select-none sm:text-8xl"
+      >
+        404
+      </p>
+      <h1
+        class="mt-4 text-3xl font-semibold tracking-tight text-balance text-foreground sm:text-4xl"
+      >
+        Te fuiste del mapa
+      </h1>
+      <p class="mx-auto mt-4 max-w-md text-base text-muted-foreground">
+        La página que buscás no existe o fue movida. Capaz el llamado cerró,
+        cambió la URL o hubo un error de tipeo.
+      </p>
+      <div class="mt-8 flex justify-center">
+        <a href="/" class="btn" data-variant="ghost">
+          <Icon name="mdi:chevron-left" class="size-4" aria-hidden="true" />
+          Volver al inicio
+        </a>
+      </div>
+    </div>
+  </section>
 </Layout>
