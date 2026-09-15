@@ -5,8 +5,7 @@ logo: "../../assets/institutions/udelar-logo.webp"
 color: "#004F92"
 type: "public"
 website: "https://udelar.edu.uy"
-contactEmail: "informacion@udelar.edu.uy"
-phone: "+598 2408 9200"
+phone: "+598 2400 1918"
 location: "Montevideo"
 tags:
   - "gratuita"
@@ -25,6 +24,8 @@ departments:
   - "Rocha"
   - "Treinta y Tres"
   - "Lavalleja"
+  - "Colonia"
+  - "Soriano"
 campuses:
   - name: "Rectorado (Edificio Central)"
     location: "Montevideo"
@@ -82,7 +83,7 @@ campuses:
     address: "Av. Italia s/n esq. Las Heras, Montevideo"
   - name: "Instituto Superior de Educación Física (ISEF)"
     location: "Montevideo"
-    address: "Parque Batlle (Av. Américo Ricaldoni s/n), Montevideo"
+    address: "Senda López Testa s/n, Parque Batlle, Montevideo"
   - name: "Cenur Litoral Norte – Sede Salto"
     location: "Salto"
     address: "Gral. Rivera 1350, Salto"
@@ -117,13 +118,14 @@ campuses:
     location: "Lavalleja"
     address: "Juan José Morosoli y Pierina Monasterolo s/n, Minas"
 description: "Principal institución pública y gratuita de educación superior e investigación de Uruguay."
+founded: 1849
 isActive: true
 createdAt: "2026-05-14 20:08:25"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
-La Universidad de la República (UDELAR) es la universidad más antigua y grande de Uruguay, fundada en 1849. Es una institución pública y gratuita que atiende a la mayoría de los estudiantes de educación superior del país.
+La Universidad de la República (UDELAR) es la universidad más antigua y grande de Uruguay. Es una institución pública y gratuita que atiende a la mayoría de los estudiantes de educación superior del país.
 
-La UDELAR está organizada en múltiples facultades y escuelas repartidas entre Montevideo y el interior del país, incluida la Regional Norte en Salto. Ofrece una amplia gama de carreras de grado y posgrado en todas las áreas del conocimiento: derecho, medicina, ingeniería, humanidades, ciencias, economía, arquitectura, ciencias sociales y más.
+La UDELAR está organizada en múltiples facultades y escuelas repartidas entre Montevideo y el interior del país, a través de los Cenur Litoral Norte, Noreste y Este. Ofrece una amplia gama de carreras de grado y posgrado en todas las áreas del conocimiento: derecho, medicina, ingeniería, humanidades, ciencias, economía, arquitectura, ciencias sociales y más.
 
-Como universidad pública, la UDELAR cumple un rol central en la producción de investigación y el desarrollo cultural de Uruguay. Es financiada por el Estado y ofrece educación gratuita a todos los estudiantes que cumplen los requisitos de ingreso.
+Como universidad pública, la UDELAR cumple un rol central en la producción de investigación y el desarrollo cultural de Uruguay. Es financiada por el Estado y ofrece educación gratuita con ingreso abierto.

@@ -17,7 +17,7 @@ tags:
 departments:
   - "Durazno"
   - "Rivera"
-  - "Rio Negro"
+  - "Río Negro"
   - "Lavalleja"
   - "Maldonado"
   - "San José"
@@ -27,6 +27,9 @@ departments:
   - "Florida"
   - "Colonia"
 campuses:
+  - name: "Sede administrativa"
+    location: "Montevideo"
+    address: "Av. Italia 6201, Montevideo"
   - name: "ITR Centro-Sur (Sede Durazno)"
     location: "Durazno"
     address: "Francisco Antonio Maciel s/n esq. Luis Morquio, Durazno"
@@ -35,19 +38,19 @@ campuses:
     address: "Gral. José G. Artigas 456-490, San José de Mayo"
   - name: "Sede Florida"
     location: "Florida"
-    address: "José Batlle y Ordóñez y 18 de Julio, Florida"
+    address: "Casa de los Deportes (nodo Florida), Florida"
   - name: "ITR Suroeste (Sede Fray Bentos)"
-    location: "Rio Negro"
+    location: "Río Negro"
     address: "Barrio Anglo (ex Frigorífico Anglo), Fray Bentos"
   - name: "Sede Paysandú"
     location: "Paysandú"
-    address: "Polo Tecnológico (ex ANCAP) y ex Paylana, Paysandú"
+    address: "Av. Salto 919 y Polo Tecnológico, Paysandú"
   - name: "Sede Mercedes"
     location: "Soriano"
     address: "Leandro Gómez 797 esq. Ituzaingó, Mercedes"
-  - name: "Sede Colonia"
+  - name: "Sede Colonia (Nueva Helvecia)"
     location: "Colonia"
-    address: "La Paz (ex-Destilería Rosario de ANCAP), Colonia"
+    address: "Camino A. Malcom s/n, Nueva Helvecia, Colonia (ex-Destilería Rosario de ANCAP)"
   - name: "ITR Norte (Sede Rivera)"
     location: "Rivera"
     address: "Polo de Educación Superior, Ruta 5 (Guido Machado Brum), Rivera"
@@ -57,17 +60,18 @@ campuses:
   - name: "ITR Este (Sede Minas)"
     location: "Lavalleja"
     address: "Treinta y Tres 774 esq. Sarandí, Minas"
-  - name: "Sede Maldonado"
+  - name: "Sede Maldonado (co-sede en CURE)"
     location: "Maldonado"
-    address: "CURE, Tacuarembó entre Bvar. Artigas y Av. Aparicio Saravia, Maldonado"
+    address: "CURE Maldonado, Tacuarembó entre Bvar. Artigas y Av. Aparicio Saravia, Maldonado"
 description: "Somos una universidad uruguaya, pública, gratuita, de perfil tecnológico, ubicada en el interior del país, orientada a la investigación e innovación."
+founded: 2012
 isActive: true
 createdAt: "2026-05-15 00:00:44"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-14 00:00:00"
 ---
 
-UTEC es la Universidad Tecnológica del Uruguay, una propuesta de educación terciaria universitaria pública de perfil tecnológico, orientada a la investigación y la innovación. Fundada en 2012, tiene entre sus objetivos centrales hacer más equitativo el acceso a la oferta educativa en el interior del país.
+UTEC es la Universidad Tecnológica del Uruguay, una propuesta de educación terciaria universitaria pública de perfil tecnológico, orientada a la investigación y la innovación. Tiene entre sus objetivos centrales hacer más equitativo el acceso a la oferta educativa en el interior del país.
 
-UTEC opera a través de Institutos Tecnológicos Regionales (ITR) distribuidos en todo el territorio uruguayo, ofreciendo carreras de grado y posgrado en áreas como tecnologías de la información, mecatrónica, logística, energías renovables, biotecnología, alimentos y mas. La universidad se caracteriza por su modelo educativo innovador, con un fuerte componente práctico y vinculación con el sector productivo.
+UTEC opera a través de Institutos Tecnológicos Regionales (ITR) distribuidos en todo el territorio uruguayo, ofreciendo carreras de grado y posgrado en áreas como tecnologías de la información, mecatrónica, logística, energías renovables, biotecnología, alimentos y más. La universidad se caracteriza por su modelo educativo innovador, con un fuerte componente práctico y vinculación con el sector productivo.
 
-Con sedes en Durazno, Rivera, Fray Bentos, Minas, Maldonado, San José, Paysandú, Mercedes, Melo, Florida y Colonia, UTEC llega a estudiantes de los 19 departamentos del país, siendo muchos de ellos la primera generación universitaria en sus familias.
+Con sedes en Durazno, Rivera, Fray Bentos, Minas, Maldonado, San José, Paysandú, Mercedes, Melo, Florida y Colonia (Nueva Helvecia), UTEC recibe estudiantes de todo el país.

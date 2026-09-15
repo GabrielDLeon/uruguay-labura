@@ -103,6 +103,30 @@ becas:
 draft: false                            # opcional, default false
 ```
 
+## Colección institutions
+
+Las instituciones usan datos estructurados en el frontmatter; el body queda para narrativa sin cifras duras.
+
+```yaml
+name: "Universidad ORT Uruguay"
+short: "ORT"                               # opcional
+type: "private"                            # enum: public, private
+website: "https://www.ort.edu.uy"
+contactEmail: "info@..."                   # opcional, solo si está publicado
+phone: "+598 ..."                         # central oficial
+founded: 1942                              # opcional, solo alimenta foundingDate del JSON-LD
+campuses:                                  # sede = nombre + localidad + dirección
+  - name: "Campus Centro"
+    location: "Montevideo"
+    address: "Cuareim 1451, Montevideo"
+```
+
+Reglas:
+
+- Nada de años de fundación ni conteos en el prose: descripción cualitativa.
+- Toda cifra lleva fuente o se marca como aproximada.
+- El sidebar renderiza Contacto y Presencia. No se renderizan Facultades, Cifras ni Tags.
+
 ## Colección scholarships
 
 Las becas se modelan como una colección independiente en `src/content/scholarships/`.

@@ -87,6 +87,9 @@ const organization = {
         },
       }
     : {}),
+  ...(entry.data.founded
+    ? { foundingDate: String(entry.data.founded) }
+    : {}),
   ...(contactPoint ? { contactPoint } : {}),
 };
 
@@ -176,8 +179,7 @@ const jsonLd = {
     <div class="grid md:grid-cols-3">
       <aside class="h-full md:order-2 md:border-l mb-8 md:mb-0">
         <Block class="flex h-full flex-col gap-8">
-          <AsideSection title="Contacto">
-            <div class="flex flex-col gap-2">
+          <AsideSection title="Contacto">            <div class="flex flex-col gap-2">
               <a
                 href={entry.data.website}
                 target="_blank"
@@ -222,20 +224,6 @@ const jsonLd = {
           >
             <UruguayMap highlighted={locationsToIds(entry.data.departments)} />
           </AsideSection>
-
-          {
-            entry.data.tags.length > 0 ? (
-              <AsideSection title="Tags">
-                <div class="flex flex-wrap gap-1">
-                  {entry.data.tags.map((tag) => (
-                    <span class="badge text-xs" data-variant="outline">
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-              </AsideSection>
-            ) : null
-          }
 
           <div class="flex flex-col gap-2">
             <LastUpdated

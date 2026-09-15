@@ -25,6 +25,8 @@ const institutionSchema = z.object({
   description: z.string().optional(),
   color: z.string().optional(),
   campuses: z.array(campusSchema).default([]),
+  /** Año de fundación (solo alimenta `foundingDate` del JSON-LD; no se muestra en la ficha). */
+  founded: z.number().int().min(1500).max(2100).optional(),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
 });
