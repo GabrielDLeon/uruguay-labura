@@ -3,9 +3,13 @@ import asseLogo from "@/assets/institutions/asse-logo.webp";
 import bhuLogo from "@/assets/institutions/bhu-logo.webp";
 import bpsLogo from "@/assets/institutions/bps-logo.webp";
 import canelonesLogo from "@/assets/institutions/canelones-logo.webp";
+import floridaLogo from "@/assets/institutions/florida-logo.webp";
+import incLogo from "@/assets/institutions/inc-logo.webp";
 import ministerioLogo from "@/assets/institutions/ministerio-logo.webp";
 import oseLogo from "@/assets/institutions/ose-logo.webp";
 import ortLogo from "@/assets/institutions/ort-logo.webp";
+import rioNegroLogo from "@/assets/institutions/rio-negro-logo.webp";
+import rochaLogo from "@/assets/institutions/rocha-logo.webp";
 import sanJoseLogo from "@/assets/institutions/san-jose-logo.webp";
 import sorianoLogo from "@/assets/institutions/soriano-logo.webp";
 import udelarLogo from "@/assets/institutions/udelar-logo.webp";
@@ -107,8 +111,13 @@ const organizationLogos: Record<string, string> = {
   "universidad catolica del uruguay": ucuLogo.src,
   ucu: ucuLogo.src,
   "intendencia de canelones": canelonesLogo.src,
+  "intendencia de florida": floridaLogo.src,
+  "intendencia de rio negro": rioNegroLogo.src,
+  "intendencia de rocha": rochaLogo.src,
   "intendencia de soriano": sorianoLogo.src,
   "intendencia de san jose": sanJoseLogo.src,
+  "instituto nacional de colonizacion": incLogo.src,
+  inc: incLogo.src,
   "administracion nacional de educacion publica": anepLogo.src,
   anep: anepLogo.src,
   "administracion de servicios de salud del estado": asseLogo.src,
@@ -126,6 +135,7 @@ const organizationLogos: Record<string, string> = {
   "ministerio de desarrollo social": ministerioLogo.src,
   mides: ministerioLogo.src,
   "ministerio del interior": ministerioLogo.src,
+  "presidencia de la republica": ministerioLogo.src,
 };
 
 export function getOrganizationLogo(organization: string) {
