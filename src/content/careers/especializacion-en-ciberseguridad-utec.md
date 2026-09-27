@@ -18,6 +18,7 @@ duration: "11 meses"
 cost: "USD 4000"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-ciberseguridad/"
+contactEmail: "especializacion.ciberseguridad@utec.edu.uy"
 accreditation: "UTEC"
 description: "Especialización en Ciberseguridad de UTEC, en colaboración con la Universitat Oberta de Catalunya (UOC) y AGESIC. Formación de posgrado en modalidad online para proteger sistemas, redes y datos frente a amenazas cibernéticas."
 tags:
@@ -26,9 +27,14 @@ tags:
   - seguridad-de-la-informacion
   - informatica
   - redes
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-ciberseguridad/"
+  - label: "Noticia oficial UTEC (contacto del programa)"
+    url: "https://utec.edu.uy/en/article/la-especializacion-en-ciberseguridad-de-utec-seguira-formando-profesionales-para-prevenir-amenazas/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 ---
 
 ## Resumen

@@ -2,7 +2,7 @@
 title: "Técnico Superior Universitario en Tecnologías de la Información"
 short: "Técnico Superior Universitario en TI"
 similar:
-  - licenciatura-tecnologias-informacion-utec
+  - licenciatura-en-tecnologias-de-la-informacion-utec
   - analista-en-tecnologias-de-la-informacion-ort
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar
@@ -27,9 +27,12 @@ contactEmail:
 location: "Durazno, Fray Bentos, Melo, Minas"
 accreditation: "UTEC"
 description: "Título intermedio de Técnico Superior en TI de UTEC, obtenible en dos años. Cubre programación, testing e infraestructura tecnológica con modalidad híbrida."
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/"
 draft: false
 createdAt: "2026-05-15 00:00:44"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - informatica
   - programacion

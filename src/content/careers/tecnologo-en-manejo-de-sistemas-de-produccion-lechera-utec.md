@@ -23,9 +23,12 @@ contactEmail: "secretaria.tmspl@utec.edu.uy"
 location: "Nueva Helvecia, Colonia (Escuela Superior de Lechería CETP-UTU)"
 accreditation: "UTEC"
 description: "Tecnólogo en Manejo de Sistemas de Producción Lechera de UTEC, carrera conjunta con DGETP-UTU. Formación dual con prácticas remuneradas en empresas. Gestión operativa de sistemas lecheros."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-manejo-de-sistemas-de-produccion-lechera/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - agronomia
   - lecheria

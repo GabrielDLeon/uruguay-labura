@@ -21,9 +21,12 @@ website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-logistica/"
 location: "Rivera (ITR Norte), Fray Bentos (ITR Suroeste)"
 accreditation: "UTEC"
 description: "Tecnólogo en Logística, título intermedio de la Ingeniería en Logística de UTEC. Análisis y gestión de procesos logísticos y cadenas de suministro."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-logistica/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - logistica
   - cadena-de-suministros

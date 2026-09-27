@@ -27,9 +27,12 @@ tags:
   - gestion-de-destinos
   - turismo-sostenible
   - sostenibilidad
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-turismo-sostenible/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 ---
 
 ## Resumen

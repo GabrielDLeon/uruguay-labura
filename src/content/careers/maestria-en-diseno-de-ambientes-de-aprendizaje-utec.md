@@ -19,6 +19,7 @@ duration: "2 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/maestria-en-diseno-de-ambientes-de-aprendizaje/"
+contactEmail: "daa@utec.edu.uy"
 accreditation: "UTEC"
 startDate: "marzo 2027"
 description: "Maestría gratuita en Diseño de Ambientes de Aprendizaje de UTEC, en modalidad online. Formación en diseño de ambientes innovadores de aprendizaje con énfasis en Innovación Educativa o Lenguas y Estudios Interculturales. Título intermedio de Especialista."
@@ -27,9 +28,12 @@ tags:
   - diseno
   - innovacion-educativa
   - diseno-de-espacios
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/posgrado/maestria-en-diseno-de-ambientes-de-aprendizaje/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 ---
 
 ## Resumen

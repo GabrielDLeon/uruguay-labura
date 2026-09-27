@@ -15,16 +15,21 @@ area: "Tecnologías de la Información"
 modality: "presencial"
 shift: "both"
 weeklyHours: "No informada"
-duration: "2 años"
+duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-analisis-y-gestion-de-datos/"
 location: "Rivera (ITR Norte)"
 accreditation: "UTEC"
 description: "Tecnólogo en Análisis y Gestión de Datos, título intermedio de la Licenciatura en Ingeniería de Datos e IA de UTEC. Técnicas de análisis de datos y gestión de bases de datos."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-analisis-y-gestion-de-datos/"
+  - label: "Plan de estudios oficial UTEC (PDF)"
+    url: "https://utec.edu.uy/uploads/plan/a903ba19999c4d910d9ad0fc502c38ba75ad4146.pdf"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - ciencia-de-datos
   - base-de-datos
@@ -36,7 +41,7 @@ tags:
 
 ### Sobre la Carrera
 
-El Tecnólogo en Análisis y Gestión de Datos es el título intermedio de la Licenciatura en Ingeniería de Datos e Inteligencia Artificial, obtenido al completar el cuarto semestre.
+El Tecnólogo en Análisis y Gestión de Datos es el título intermedio de la Licenciatura en Ingeniería de Datos e Inteligencia Artificial, obtenido al completar el sexto semestre (3 años, 240 créditos).
 
 ### Título Intermedio
 

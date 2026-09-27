@@ -22,9 +22,12 @@ website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-jazz-y-musica-c
 location: "Mercedes, Soriano (ITR Suroeste)"
 accreditation: "UTEC"
 description: "Tecnólogo en Jazz y Música Creativa, título intermedio de la Licenciatura en Jazz y Música Creativa de UTEC. Interpretación, composición y producción musical."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-jazz-y-musica-creativa/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - musica
   - interpretacion-musical

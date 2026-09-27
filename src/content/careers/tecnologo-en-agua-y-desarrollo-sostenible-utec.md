@@ -22,9 +22,12 @@ website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-agua-y-desarrol
 location: "Durazno (ITR Centro-Sur), Melo (ITR Este)"
 accreditation: "UTEC"
 description: "Tecnólogo en Agua y Desarrollo Sostenible, título intermedio de la Ingeniería en Agua y Desarrollo Sostenible de UTEC. Riego, drenaje y tratamiento de efluentes."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-agua-y-desarrollo-sostenible/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - agua
   - recursos-hidricos

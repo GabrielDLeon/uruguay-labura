@@ -19,7 +19,6 @@ duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial/"
-contactEmail: "secretaria.lidia@utec.edu.uy"
 location: "Rivera (ITR Norte)"
 accreditation: "UTEC"
 description: "Licenciatura gratuita en Ingeniería de Datos e IA de UTEC (LIDIA), presencial en Rivera. Almacenamiento y procesamiento de datos, cloud, IA, IoT y ciberseguridad. Título intermedio de Tecnólogo en Análisis y Gestión de Datos."
@@ -30,9 +29,14 @@ tags:
   - computacion-en-la-nube
   - internet-de-las-cosas
   - ciberseguridad
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial/"
+  - label: "Plan de estudios oficial UTEC (PDF)"
+    url: "https://utec.edu.uy/uploads/plan/a903ba19999c4d910d9ad0fc502c38ba75ad4146.pdf"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 ---
 
 ## Resumen
@@ -49,7 +53,7 @@ La carrera se dicta en **modalidad presencial en horario diurno**, en la sede de
 
 ### Título Intermedio
 
-La carrera cuenta con el título intermedio de **Tecnólogo en Análisis y Gestión de Datos** al completar el cuarto semestre.
+La carrera cuenta con el título intermedio de **Tecnólogo en Análisis y Gestión de Datos** al completar el sexto semestre (3 años, 240 créditos).
 
 ### Competencias del Egresado
 

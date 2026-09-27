@@ -13,16 +13,22 @@ institution: "utec"
 degreeType: "tecnologo"
 area: "Tecnologías de la Información"
 modality: "presencial"
-shift: "day"
+shift: "night"
 weeklyHours: "No informada"
+duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-analisis-y-desarrollo-de-sistemas/"
+contactEmail: "secretaria.tads@utec.edu.uy"
+location: "Santana do Livramento (IFSUL, Brasil)"
 accreditation: "UTEC"
 description: "Tecnólogo en Análisis y Desarrollo de Sistemas de UTEC. Formación en análisis, diseño y desarrollo de sistemas informáticos."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-analisis-y-desarrollo-de-sistemas/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - informatica
   - software

@@ -15,15 +15,19 @@ area: "Alimentos"
 modality: "presencial"
 shift: "day"
 weeklyHours: "No informada"
+duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-quimico/"
 location: "Paysandú (ITR Suroeste)"
 accreditation: "UTEC"
 description: "Tecnólogo Químico de UTEC, ofrecido en conjunto con DGETP-UTU y Udelar. Química aplicada a procesos industriales y alimentarios."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carrera/tecnologo-quimico/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - quimica
   - quimica-industrial

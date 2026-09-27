@@ -21,9 +21,12 @@ website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-energias-renova
 location: "Durazno (ITR Centro-Sur)"
 accreditation: "UTEC"
 description: "Tecnólogo en Energías Renovables, título intermedio de la Ingeniería en Energías Renovables de UTEC. Menciones en energía solar o eólica. Implementación de instalaciones de energías renovables."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-energias-renovables/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - energia
   - energias-renovables

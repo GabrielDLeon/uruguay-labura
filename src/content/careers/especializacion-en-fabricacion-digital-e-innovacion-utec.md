@@ -18,17 +18,18 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-fabricacion-digital-e-innovacion/"
 contactEmail: "fabricaciondigital@utec.edu.uy"
 accreditation: "UTEC"
-startDate: "24 de agosto de 2026"
-applicationDeadline: "31 de agosto de 2026"
 description: "Especialización en Fabricación Digital e Innovación de UTEC, en colaboración con Fab Lab Barcelona (IAAC) y Fab Lab ESAN de la Universidad ESAN de Perú. Formación híbrida para liderar procesos de innovación con tecnologías de fabricación digital."
 tags:
   - innovacion
   - fabricacion-digital
   - manufactura
   - impresion-3d
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-fabricacion-digital-e-innovacion/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 ---
 
 ## Resumen
@@ -41,7 +42,7 @@ Es un posgrado impulsado por la **Universidad Tecnológica de Uruguay** en colab
 
 Se basa en un modelo de aprendizaje distribuido que combina la educación en línea y la práctica, conectando a una comunidad global de agentes de cambio con innovadores locales para abordar diversos desafíos.
 
-**Próximo comienzo: 24 de agosto 2026.**
+**Última cohorte: agosto de 2026 (preinscripción cerrada).**
 
 ### Modalidad
 
@@ -108,6 +109,6 @@ El período de preinscripciones finaliza el **31 de agosto de 2026**.
 ### Costo y Becas
 
 - El costo total del programa es de **USD 4500**.
-- Es posible acceder a un **20% de descuento por preinscripción anticipada** para quienes postulen hasta el 31 de julio de 2026.
+- Es posible acceder a un **20% de descuento por preinscripción anticipada** para quienes postulen hasta el 20 de agosto de 2026.
 - Es posible acceder a diferentes **planes de financiación** y becas.
 - Los descuentos no son acumulables con otros beneficios o becas. Los costos, descuentos y becas aplican exclusivamente para postulaciones en Uruguay.

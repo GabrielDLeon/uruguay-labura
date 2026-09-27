@@ -6,7 +6,7 @@ similar:
   - tecnicatura-en-desarrollador-de-software-ucu
   - ingenieria-en-computacion-maestria-udelar
   - tecnologo-en-analisis-y-gestion-de-datos-utec
-  - licenciatura-tecnologias-informacion-utec
+  - licenciatura-en-tecnologias-de-la-informacion-utec
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

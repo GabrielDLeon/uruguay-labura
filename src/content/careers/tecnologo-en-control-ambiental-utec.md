@@ -18,11 +18,15 @@ weeklyHours: "No informada"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-control-ambiental/"
+location: "Paysandú (ITR Suroeste), Durazno (ITR Centro-Sur)"
 accreditation: "UTEC"
 description: "Tecnólogo en Control Ambiental de UTEC. Gestión y control ambiental en industrias y organismos públicos, con enfoque en sostenibilidad y cumplimiento normativo."
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-control-ambiental/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 tags:
   - medio-ambiente
   - gestion-ambiental
@@ -44,4 +48,4 @@ Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transport
 
 ### Requisitos de Ingreso
 
-La información sobre los requisitos de ingreso no se encuentra publicada en el sitio oficial de UTEC. Consultá la página oficial de la carrera para conocer el proceso de postulación.
+El ingreso es restringido: está dirigido a egresados del Técnico en Control Ambiental de DGETP-UTU. Según UTEC, esta formación no abrirá preinscripciones hasta nuevo aviso. Consultá la página oficial de la carrera para conocer el proceso de postulación.

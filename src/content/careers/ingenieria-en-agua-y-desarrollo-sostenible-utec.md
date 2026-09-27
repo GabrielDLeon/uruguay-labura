@@ -19,6 +19,7 @@ duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-agua-y-desarrollo-sostenible/"
+contactEmail: "secretaria.iagua@utec.edu.uy"
 location: "Durazno (ITR Centro-Sur), Melo (ITR Este - Cerro Largo)"
 accreditation: "UTEC"
 description: "Ingeniería gratuita en Agua y Desarrollo Sostenible de UTEC. Uso racional de los recursos hídricos y tratamiento de efluentes en los sectores agropecuario y agroindustrial. Semipresencial en Durazno y Melo. Título intermedio de Tecnólogo."
@@ -28,9 +29,12 @@ tags:
   - recursos-hidricos
   - ingenieria-hidraulica
   - sostenibilidad
-draft: true
+sources:
+  - label: "Ficha oficial UTEC"
+    url: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-agua-y-desarrollo-sostenible/"
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-27 22:30:00"
 ---
 
 ## Resumen
