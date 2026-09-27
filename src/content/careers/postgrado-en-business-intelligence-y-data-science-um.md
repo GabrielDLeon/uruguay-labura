@@ -5,7 +5,7 @@ similar:
   - licenciatura-en-business-analytics-ucu
   - postgrado-en-analitica-de-negocios-um
   - maestria-en-finanzas-um
-  - master-en-business-analytics-ort
+  - master-in-business-analytics-ort
   - postgrado-en-ciencia-de-datos-para-finanzas-um
 institutionName: "Universidad de Montevideo"
 institution: "um"

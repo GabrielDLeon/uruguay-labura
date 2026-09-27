@@ -2,7 +2,7 @@
 title: "Maestría en Cine Latinoamericano"
 similar:
   - licenciatura-en-cine-ucu
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
   - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
   - tecnico-en-realizacion-audiovisual-ort
   - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar

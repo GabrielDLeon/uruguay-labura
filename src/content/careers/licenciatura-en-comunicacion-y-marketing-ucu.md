@@ -2,11 +2,11 @@
 title: "Licenciatura en Comunicación y Marketing"
 similar:
   - master-en-direccion-de-comunicacion-y-marketing-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - licenciatura-en-marketing-um
   - licenciatura-en-marketing-y-estrategia-comercial-ucu
   - analista-en-marketing-digital-y-comercio-electronico-ort
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
+  - licenciatura-en-comunicacion-analitica-de-datos-e-innovacion-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "carrera"

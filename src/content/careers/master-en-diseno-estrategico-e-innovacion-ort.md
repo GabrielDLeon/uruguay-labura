@@ -11,9 +11,8 @@ institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
 area: "Comunicación"
-modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+modality: "hibrido"
+shift: "night"
 duration: "25 meses"
 cost: "Arancelado"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - experiencia-de-usuario
   - innovacion
   - gestion-de-la-innovacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fc.ort.edu.uy/escuela-de-postgrados/master-en-diseno-estrategico-e-innovacion'
@@ -62,7 +61,7 @@ Su formación multidisciplinar les permitirá abordar los desafíos complejos de
 
 ### Títulos y Reconocimientos
 
-El título de Master en Diseño Estratégico e Innovación se encuentra en trámite de reconocimiento por el Ministerio de Educación y Cultura. El Diploma de Especialización en Diseño de Experiencia de Usuario es un título que se obtiene al completar el primer año de formación del Master en Diseño Estratégico e Innovación, incorporando una materia electiva adicional.
+El título de Master en Diseño Estratégico e Innovación fue reconocido por el Ministerio de Educación y Cultura por resolución del 14/04/2026. El Diploma de Especialización en Diseño de Experiencia de Usuario es un título que se obtiene al completar el primer año de formación del Master en Diseño Estratégico e Innovación, incorporando una materia electiva adicional.
 
 ### Modalidad
 

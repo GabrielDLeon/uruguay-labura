@@ -13,7 +13,6 @@ degreeType: "tecnicatura"
 area: "Administración y Negocios"
 modality: "hibrido"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelado"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - comercio-electronico
   - transformacion-digital
   - negocios-digitales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://facs.ort.edu.uy/analista-en-marketing-digital-y-comercio-electronico'
@@ -79,7 +78,7 @@ Presencial o semipresencial Todas las materias presenciales se pueden seguir en 
 
 ### Duración y Horarios
 
-Duración 2 años. Horarios de clase Matutino (para el comienzo de marzo): tres días a la semana, entre el lunes y el jueves, de 8:30 a 11:00. Nocturno (para los comienzos de marzo y agosto): tres días a la semana, entre el lunes y el jueves, de 19:30 a 22:00. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 2 años. Horarios de clase Matutino (para el comienzo de marzo): tres días a la semana, entre el lunes y el jueves, en opción A de 8:00 a 10:30 o B de 10:30 a 13:00. Vespertino: tres días a la semana de 17:00 a 19:30. Nocturno (para los comienzos de marzo y agosto): tres días a la semana, entre el lunes y el jueves, de 19:30 a 22:00. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ### Valor de las Cuotas
 

@@ -1,7 +1,7 @@
 ---
 title: "Licenciatura en Marketing"
 similar:
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - licenciatura-en-marketing-y-estrategia-comercial-ucu
   - licenciatura-en-comunicacion-y-marketing-ucu
   - analista-en-marketing-ude

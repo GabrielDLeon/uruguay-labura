@@ -6,7 +6,7 @@ similar:
   - maestria-en-comunicacion-organizacional-ucu
   - licenciatura-en-comunicacion-ucu
   - licenciatura-en-comunicacion-global-ort
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - comunicacion-corporativa-relaciones-publicas-ort
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

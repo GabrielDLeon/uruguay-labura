@@ -1,7 +1,7 @@
 ---
 title: "Licenciatura en Business Analytics"
 similar:
-  - master-en-business-analytics-ort
+  - master-in-business-analytics-ort
   - postgrado-en-business-intelligence-y-data-science-um
   - postgrado-en-analitica-de-negocios-um
   - diploma-de-especializacion-en-analitica-de-negocios-ort

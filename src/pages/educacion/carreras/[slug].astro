@@ -80,7 +80,9 @@ const detailItems = [
   },
   {
     label: "Turno",
-    value: shiftLabels[entry.data.shift] ?? entry.data.shift,
+    value: entry.data.shift
+      ? (shiftLabels[entry.data.shift] ?? entry.data.shift)
+      : undefined,
   },
   { label: "Créditos", value: entry.data.credits },
   { label: "Costo", value: entry.data.cost },

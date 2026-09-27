@@ -13,7 +13,6 @@ degreeType: "tecnicatura"
 area: "Arquitectura"
 modality: "hibrido"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelado"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - interiorismo
   - diseno-de-espacios
   - creatividad
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fa.ort.edu.uy/tecnico-en-diseno-de-interiores'
@@ -101,7 +100,7 @@ Esta carrera se dicta en forma presencial en aula expandida. Todas las materias 
 
 ### Duración y Horarios
 
-Duración 2 años de cursos. Horarios de clase Vespertino: lunes a jueves de 17:00 a 19:00 h (último semestre de 16:00 a 19:00 h) Nocturno: lunes a jueves de 19:00 a 21:00 h (último semestre de 19:00 a 22:00 h) La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 2 años de cursos. Horarios de clase Vespertino: lunes a jueves de 16:00 a 19:00 h Nocturno: lunes a jueves de 19:00 a 22:00 h La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ### Valor de las Cuotas
 

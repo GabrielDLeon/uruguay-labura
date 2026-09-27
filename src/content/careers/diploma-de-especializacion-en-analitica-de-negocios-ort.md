@@ -3,7 +3,7 @@ title: "Diploma de Especialización en Analítica de Negocios"
 similar:
   - postgrado-en-analitica-de-negocios-um
   - licenciatura-en-business-analytics-ucu
-  - master-en-business-analytics-ort
+  - master-in-business-analytics-ort
   - licenciatura-en-datos-y-negocios-ucu
   - licenciatura-en-ciencia-de-datos-para-negocios-um
   - postgrado-en-business-intelligence-y-data-science-um
@@ -12,8 +12,7 @@ institution: "ort"
 degreeType: "especializacion"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "1 año"
 cost: "Arancelado"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - ciencia-de-datos
   - analitica-de-negocios
   - business-intelligence
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-analitica-de-negocios'

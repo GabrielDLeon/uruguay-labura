@@ -12,8 +12,7 @@ institution: "ort"
 degreeType: "especializacion"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "day"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "1 año"
 cost: "Arancelado"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - gestion-de-personas
   - cultura-organizacional
   - planificacion-estrategica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-recursos-humanos'

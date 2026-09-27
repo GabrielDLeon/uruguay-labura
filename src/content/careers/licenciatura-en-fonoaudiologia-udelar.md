@@ -5,7 +5,7 @@ similar:
   - maestria-en-humanizacion-de-la-salud-ucu
   - licenciatura-en-comunicacion-udelar
   - otorrinolaringologia-especializacion-udelar
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
   - licenciatura-en-comunicacion-global-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

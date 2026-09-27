@@ -5,16 +5,15 @@ similar:
   - master-en-diseno-estrategico-e-innovacion-ort
   - gestion-de-innovacion-maestria-udelar
   - licenciatura-en-comunicacion-udelar
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - comunicacion-corporativa-relaciones-publicas-ort
   - maestria-en-comunicacion-organizacional-ucu
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"
 area: "Comunicación"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "25 meses"
+shift: "night"
+duration: "18 meses + Proyecto Final"
 cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-creatividad-innovacion-y-comunicacion"
@@ -26,9 +25,9 @@ tags:
   - creatividad
   - comunicacion
   - gestion-de-la-innovacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fc.ort.edu.uy/escuela-de-postgrados/master-en-creatividad-innovacion-y-comunicacion'

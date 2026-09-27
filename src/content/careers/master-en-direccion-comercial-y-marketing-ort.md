@@ -12,8 +12,7 @@ institution: "ort"
 degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "18 meses"
 cost: "Arancelado"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - gestion-comercial
   - estrategia-comercial
   - negocios
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://facs.ort.edu.uy/escuela-de-postgrados/master-en-direccion-comercial-y-marketing'

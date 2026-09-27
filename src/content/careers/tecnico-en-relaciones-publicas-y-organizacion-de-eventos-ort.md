@@ -1,7 +1,7 @@
 ---
 title: "Técnico en Relaciones Públicas y Organización de Eventos"
 similar:
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - comunicacion-corporativa-relaciones-publicas-ort
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
   - licenciatura-en-comunicacion-ucu
   - maestria-en-comunicacion-organizacional-ucu
@@ -12,9 +12,8 @@ institution: "ort"
 degreeType: "tecnicatura"
 area: "Comunicación"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "18 meses"
+shift: "night"
+duration: "Tres semestres + Práctica Profesional"
 cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/tecnico-en-relaciones-publicas-y-organizacion-de-eventos"
@@ -26,9 +25,9 @@ tags:
   - relaciones-publicas
   - eventos
   - comunicacion-organizacional
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fc.ort.edu.uy/tecnico-en-relaciones-publicas-y-organizacion-de-eventos'

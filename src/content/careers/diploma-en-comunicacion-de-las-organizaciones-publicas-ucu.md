@@ -3,7 +3,7 @@ title: "Diploma en Comunicación de las Organizaciones Públicas"
 similar:
   - maestria-en-politicas-publicas-ucu
   - postgrado-en-comunicacion-politica-um
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - comunicacion-corporativa-relaciones-publicas-ort
   - gestion-financiera-en-instituciones-publicas-especializacion-udelar
   - maestria-en-administracion-publica-ucu
   - maestria-en-ciencia-politica-maestria-udelar

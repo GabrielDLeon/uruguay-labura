@@ -2,10 +2,10 @@
 title: "Licenciatura en Comunicación"
 similar:
   - licenciatura-en-comunicacion-ucu
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - analista-en-publicidad-y-comunicacion-digital-ort
-  - licenciatura-en-comunicacion-periodistica-y-creacion-de-contenidos-ort
+  - licenciatura-en-comunicacion-periodismo-ort
   - licenciatura-en-comunicacion-y-marketing-ucu
 institutionName: "Universidad de Montevideo"
 institution: "um"

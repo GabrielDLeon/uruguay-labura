@@ -12,8 +12,7 @@ institution: "ort"
 degreeType: "tecnicatura"
 area: "Arquitectura"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "day"
 duration: "2 años"
 cost: "Arancelado"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - diseno-de-espacios
   - diseno
   - arquitectura
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fa.ort.edu.uy/tecnico-en-paisajismo'
@@ -69,7 +68,7 @@ Es una carrera dirigida a:
 
 Modalidad de cursado
 
-Los cursos están estructurados de manera presencial, semipresencial y remota. Sin embargo, se encuentra habilitada la opción de cursar totalmente online. Esta medida surgió como respuesta a la emergencia sanitaria, y permite contar con docentes que trabajan en el exterior y dar respuesta a estudiantes del interior. Las clases presenciales también se podrán seguir de manera remota. Los docentes dictan las clases en el campus Pocitos de la Universidad ORT Uruguay y el estudiante puede elegir si asiste a clase en el salón o se conecta de forma remota.
+Los cursos están estructurados de manera presencial, semipresencial y remota. Las clases presenciales también se pueden seguir de manera remota (HyFlex®). Los docentes dictan las clases en el campus Pocitos de la Universidad ORT Uruguay y el estudiante puede elegir si asiste a clase en el salón o se conecta de forma remota.
 
 Las clases remotas contarán con videoconferencias y contenidos online que estarán disponibles de manera permanente a través de la plataforma de apoyo Aulas.
 

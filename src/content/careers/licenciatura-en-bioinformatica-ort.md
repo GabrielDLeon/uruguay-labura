@@ -13,22 +13,21 @@ degreeType: "licenciatura"
 area: "Ingeniería"
 modality: "hibrido"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/licenciatura-en-bioinformatica"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Licenciatura en Bioinformática de ORT Uruguay. Diseñada para formar profesionales capaces de integrar conocimientos de biología, informática y estadística para resolver problemas complejos."
 tags:
   - bioinformatica
   - biologia
   - informatica
   - estadistica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fi.ort.edu.uy/licenciatura-en-bioinformatica'

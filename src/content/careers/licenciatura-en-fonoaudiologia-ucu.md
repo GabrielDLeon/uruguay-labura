@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-fonoaudiologia-udelar
   - maestria-en-humanizacion-de-la-salud-ucu
   - otorrinolaringologia-especializacion-udelar
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - licenciatura-en-cine-ucu
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

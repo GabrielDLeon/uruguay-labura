@@ -12,8 +12,7 @@ institution: "ort"
 degreeType: "tecnicatura"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "18 meses"
 cost: "Arancelado"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - logistica
   - cadena-de-suministros
   - gestion-de-operaciones
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro'
@@ -82,7 +81,7 @@ Presencial o semipresencial Todas las materias presenciales se pueden seguir en 
 
 ### Duración y Horarios
 
-Duración Un año y medio Horarios de clase Tres veces por semana entre lunes y jueves, de 19:30 a 22:00. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración Un año y medio Horarios de clase Tres veces por semana entre lunes y jueves, en turno vespertino de 17:00 a 19:30 y nocturno de 19:30 a 22:00. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ### Valor de las Cuotas
 

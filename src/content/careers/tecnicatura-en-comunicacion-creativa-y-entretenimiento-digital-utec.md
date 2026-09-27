@@ -4,7 +4,7 @@ short: "Tecnicatura en Comunicación Creativa"
 similar:
   - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
   - licenciatura-en-animacion-y-videojuegos-ort
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
   - licenciatura-en-comunicacion-ucu
   - licenciatura-en-comunicacion-y-marketing-ucu
   - tecnico-en-diseno-de-sonido-ort

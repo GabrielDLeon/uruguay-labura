@@ -1,7 +1,7 @@
 ---
 title: "Diploma en Reputación Corporativa y Sostenibilidad"
 similar:
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - comunicacion-corporativa-relaciones-publicas-ort
   - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
   - maestria-profesional-en-evaluacion-transformadora-para-la-sostenibilidad-utec
   - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec

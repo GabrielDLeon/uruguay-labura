@@ -3,7 +3,7 @@ title: "Licenciatura en Cine"
 similar:
   - tecnico-en-realizacion-audiovisual-ort
   - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
   - cine-latinoamericano-maestria-udelar
   - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
   - licenciatura-en-comunicacion-um

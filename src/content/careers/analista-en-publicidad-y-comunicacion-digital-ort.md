@@ -1,7 +1,7 @@
 ---
 title: "Analista en Publicidad y Comunicación Digital"
 similar:
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - analista-en-marketing-ude
   - licenciatura-en-marketing-ude
   - licenciatura-en-comunicacion-um
@@ -12,8 +12,7 @@ institution: "ort"
 degreeType: "tecnicatura"
 area: "Comunicación"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "2 años"
 cost: "Arancelado"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - publicidad
   - comunicacion-digital
   - marketing-digital
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fc.ort.edu.uy/analista-en-publicidad-y-comunicacion-digital'

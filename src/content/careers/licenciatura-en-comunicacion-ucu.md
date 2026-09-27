@@ -2,10 +2,10 @@
 title: "Licenciatura en Comunicación"
 similar:
   - licenciatura-en-comunicacion-um
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - maestria-en-comunicacion-organizacional-ucu
-  - licenciatura-en-comunicacion-periodistica-y-creacion-de-contenidos-ort
+  - licenciatura-en-comunicacion-periodismo-ort
   - licenciatura-en-comunicacion-y-marketing-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"

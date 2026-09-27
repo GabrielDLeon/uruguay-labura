@@ -13,7 +13,6 @@ degreeType: "especializacion"
 area: "Ingeniería"
 modality: "hibrido"
 shift: "night"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelado"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - sistemas-de-informacion
   - arquitectura-empresarial
   - gestion-de-proyectos-it
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fi.ort.edu.uy/diploma-de-especializacion-en-gestion-de-sistemas-de-informacion'

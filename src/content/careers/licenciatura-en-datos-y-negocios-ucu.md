@@ -4,7 +4,7 @@ similar:
   - licenciatura-en-ciencia-de-datos-para-negocios-um
   - postgrado-en-analitica-de-negocios-um
   - licenciatura-en-business-analytics-ucu
-  - master-en-business-analytics-ort
+  - master-in-business-analytics-ort
   - diploma-de-especializacion-en-analitica-de-negocios-ort
   - postgrado-en-negocios-ude
 institutionName: "Universidad Católica del Uruguay"

@@ -4,7 +4,7 @@ similar:
   - informacion-y-comunicacion-maestria-udelar
   - licenciatura-en-comunicacion-udelar
   - diploma-de-especializacion-en-direccion-de-comunicacion-ort
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - comunicacion-corporativa-relaciones-publicas-ort
   - diploma-avanzado-en-comunicacion-ambiente-y-sostenibilidad-um
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
 institutionName: "Universidad de la República (UDELAR)"

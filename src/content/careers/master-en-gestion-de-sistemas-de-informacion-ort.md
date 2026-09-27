@@ -13,7 +13,6 @@ degreeType: "maestria"
 area: "Ingeniería"
 modality: "hibrido"
 shift: "night"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelado"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - transformacion-digital
   - gestion-del-cambio
   - administracion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fi.ort.edu.uy/master-en-gestion-de-sistemas-de-informacion'

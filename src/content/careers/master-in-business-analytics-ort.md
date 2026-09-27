@@ -1,5 +1,5 @@
 ---
-title: "Master en Business Analytics"
+title: "Master in Business Analytics"
 similar:
   - licenciatura-en-business-analytics-ucu
   - postgrado-en-business-intelligence-y-data-science-um
@@ -12,14 +12,13 @@ institution: "ort"
 degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "18 meses"
+shift: "night"
+duration: "12 meses + Proyecto Final"
 cost: "Arancelado"
 language: "Español"
-website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-business-analytics"
+website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-in-business-analytics"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Master en Business Analytics de ORT Uruguay. En la Escuela de Negocios formamos líderes de datos: profesionales que conectan el rigor analítico con la visión estratégica del negocio."
 tags:
   - negocios
@@ -27,14 +26,14 @@ tags:
   - analitica-de-negocios
   - business-intelligence
   - toma-de-decisiones
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
-    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/master-en-business-analytics'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/master-in-business-analytics'
   - label: 'Plan de estudios'
-    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/master-en-business-analytics/plan-de-estudios'
+    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/master-in-business-analytics/plan-de-estudios'
   - label: 'Listado de postgrados'
     url: 'https://www.ort.edu.uy/postgrados'
   - label: 'Información de becas'

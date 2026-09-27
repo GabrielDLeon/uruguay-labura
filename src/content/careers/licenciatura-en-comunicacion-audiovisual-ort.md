@@ -6,16 +6,15 @@ similar:
   - licenciatura-en-comunicacion-ucu
   - licenciatura-en-cine-ucu
   - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"
 area: "Comunicación"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
-credits: 180
+credits: 240
 cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-audiovisual"
@@ -28,9 +27,9 @@ tags:
   - cine
   - television
   - publicidad
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://fc.ort.edu.uy/licenciatura-en-comunicacion-audiovisual'

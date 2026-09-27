@@ -12,8 +12,6 @@ institution: "ort"
 degreeType: "diplomado"
 area: "Educación"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelado"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - gestion-educativa
   - planificacion-estrategica
   - liderazgo-educativo
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 00:30:00"
 sources:
   - label: 'Página oficial de la carrera'
     url: 'https://ie.ort.edu.uy/diploma-en-planificacion-y-gestion-educativa'

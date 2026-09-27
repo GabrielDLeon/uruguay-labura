@@ -5,7 +5,7 @@ similar:
   - licenciatura-en-comunicacion-y-marketing-ucu
   - licenciatura-en-comunicacion-udelar
   - licenciatura-en-comunicacion-global-ort
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - maestria-en-direccion-de-comunicacion-um
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"

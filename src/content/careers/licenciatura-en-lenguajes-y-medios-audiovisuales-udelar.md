@@ -6,7 +6,7 @@ similar:
   - licenciatura-en-cine-ucu
   - tecnico-en-realizacion-audiovisual-ort
   - licenciatura-en-artes-visuales-ucu
-  - licenciatura-en-comunicacion-audiovisual-y-cinematografica-ort
+  - licenciatura-en-comunicacion-audiovisual-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

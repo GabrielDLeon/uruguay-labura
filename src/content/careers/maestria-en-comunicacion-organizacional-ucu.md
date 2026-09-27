@@ -6,7 +6,7 @@ similar:
   - licenciatura-en-comunicacion-global-ort
   - master-en-direccion-de-comunicacion-y-marketing-ort
   - licenciatura-en-comunicacion-ucu
-  - analista-en-comunicacion-corporativa-y-relaciones-publicas-ort
+  - comunicacion-corporativa-relaciones-publicas-ort
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

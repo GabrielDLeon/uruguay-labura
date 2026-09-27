@@ -2,7 +2,7 @@
 title: "Licenciatura en Marketing"
 similar:
   - analista-en-marketing-ude
-  - licenciatura-en-comunicacion-publicitaria-y-marketing-ort
+  - licenciatura-en-comunicacion-publicidad-y-marketing-ort
   - analista-en-publicidad-y-comunicacion-digital-ort
   - postgrado-ejecutivo-experto-en-direccion-de-marketing-ude
   - licenciatura-en-marketing-um

@@ -5,7 +5,7 @@ similar:
   - licenciatura-en-ingenieria-de-medios-udelar
   - informacion-y-comunicacion-maestria-udelar
   - licenciatura-en-arte-digital-y-electronico-udelar
-  - licenciatura-en-comunicacion-y-analitica-de-datos-ort
+  - licenciatura-en-comunicacion-analitica-de-datos-e-innovacion-ort
   - master-en-creatividad-innovacion-y-comunicacion-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
