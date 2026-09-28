@@ -4,7 +4,6 @@ similar:
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - medicina-del-deporte-especializacion-udelar
-  - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - educacion-fisica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"

@@ -3,7 +3,6 @@ title: "Maestría en Historia"
 similar:
   - historia-udelar
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
-  - carnaval-y-patrimonio-especializacion-udelar
   - licenciatura-en-humanidades-um
   - patrimonio-documental-historia-y-gestion-maestria-udelar
   - patrimonio-documental-historia-y-gestion-especializacion-udelar

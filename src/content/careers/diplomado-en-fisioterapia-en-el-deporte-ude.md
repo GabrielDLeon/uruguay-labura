@@ -6,7 +6,6 @@ similar:
   - licenciatura-en-fisioterapia-udelar
   - maestria-en-fisioterapia-traumatologica-ucu
   - medicina-del-deporte-especializacion-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

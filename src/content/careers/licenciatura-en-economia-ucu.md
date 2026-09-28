@@ -6,7 +6,6 @@ similar:
   - licenciatura-en-economia-um
   - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
   - licenciatura-en-economia-ort
-  - economia-para-no-economistas-especializacion-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

@@ -5,7 +5,6 @@ similar:
   - licenciatura-en-ciencia-politica-ucu
   - ciencia-politica-doctorado-udelar
   - postgrado-en-comunicacion-politica-um
-  - politicas-y-gestion-publica-maestria-udelar
   - historia-politica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

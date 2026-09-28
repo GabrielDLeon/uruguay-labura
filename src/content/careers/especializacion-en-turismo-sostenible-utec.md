@@ -2,7 +2,6 @@
 title: "Especialización en Turismo Sostenible"
 similar:
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - licenciatura-en-turismo-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
   - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec
@@ -13,7 +12,6 @@ degreeType: "especializacion"
 area: "Sostenibilidad ambiental"
 modality: "virtual"
 shift: "both"
-weeklyHours: "No informada"
 duration: "9 meses"
 cost: "USD 1500"
 language: "Español"

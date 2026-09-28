@@ -2,7 +2,6 @@
 title: "Especialización en Estrategias de Intervención en Usos Problemáticos de Drogas"
 similar:
   - psicogerontologia-especializacion-udelar
-  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
   - salud-mental-y-psiquiatria-especializacion-udelar
   - intervencion-familiar-especializacion-udelar
   - salud-mental-maestria-udelar

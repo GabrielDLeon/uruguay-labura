@@ -2,7 +2,6 @@
 title: "Especialización en Matemática Mención Enseñanza y Mención Tecnología"
 similar:
   - profesorado-de-matematica-um
-  - didactica-para-ensenanza-media-especializacion-udelar
   - didactica-para-ensenanza-primaria-especializacion-udelar
   - licenciatura-en-matematica-udelar
   - ensenanza-de-lenguas-mencion-espanol-como-lengua-extranjera-o-portugues-como-lengua-extranjera-especializacion-udelar

@@ -1,7 +1,6 @@
 ---
 title: "Tecnicatura en Deportes"
 similar:
-  - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - diplomado-en-fisioterapia-en-el-deporte-ude
   - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude

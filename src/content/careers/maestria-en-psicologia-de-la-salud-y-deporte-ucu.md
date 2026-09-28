@@ -5,7 +5,6 @@ similar:
   - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - medicina-del-deporte-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
-  - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"

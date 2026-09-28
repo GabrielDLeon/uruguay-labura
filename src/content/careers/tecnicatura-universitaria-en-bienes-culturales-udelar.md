@@ -2,7 +2,6 @@
 title: "Tecnicatura Universitaria en Bienes Culturales"
 similar:
   - politicas-culturales-maestria-udelar
-  - carnaval-y-patrimonio-especializacion-udelar
   - gestion-cultural-especializacion-udelar
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
   - tecnicatura-en-tecnologias-de-la-imagen-fotografica-udelar

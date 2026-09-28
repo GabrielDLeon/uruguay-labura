@@ -4,7 +4,6 @@ similar:
   - ensenanza-universitaria-especializacion-udelar
   - especializacion-en-educacion-superior-tecnologica-profesional-utec
   - licenciatura-en-educacion-ucu
-  - didactica-para-ensenanza-media-especializacion-udelar
   - didactica-para-ensenanza-primaria-especializacion-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

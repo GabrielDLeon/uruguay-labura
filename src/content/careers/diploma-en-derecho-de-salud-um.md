@@ -3,7 +3,6 @@ title: "Diploma en Derecho de Salud"
 similar:
   - psicologia-en-servicios-de-salud-especializacion-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
-  - ciclo-area-salud-udelar
   - maestria-en-salud-publica-ude
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
   - derecho-comercial-especializacion-udelar

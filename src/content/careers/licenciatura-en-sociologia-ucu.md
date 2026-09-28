@@ -5,7 +5,6 @@ similar:
   - sociologia-maestria-udelar
   - licenciatura-en-sociologia-udelar
   - sociologia-doctorado-udelar
-  - investigacion-social-aplicada-especializacion-udelar
   - licenciatura-en-ciencias-sociales-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"

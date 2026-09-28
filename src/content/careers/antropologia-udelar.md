@@ -6,7 +6,6 @@ similar:
   - licenciatura-en-ciencias-sociales-udelar
   - licenciatura-en-filosofia-ucu
   - abogacia-udelar
-  - ciclo-area-social-y-artistica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

@@ -6,7 +6,6 @@ similar:
   - licenciatura-en-direccion-orquestal-udelar
   - licenciatura-en-musica-udelar
   - licenciatura-en-interpretacion-musical-udelar
-  - ciclo-de-introduccion-la-musica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

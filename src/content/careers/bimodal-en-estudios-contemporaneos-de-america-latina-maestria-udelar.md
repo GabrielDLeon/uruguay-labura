@@ -1,7 +1,6 @@
 ---
 title: "Maestría en Bimodal en Estudios Contemporáneos de América Latina"
 similar:
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
   - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
   - demografia-y-estudios-de-poblacion-maestria-udelar
   - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar

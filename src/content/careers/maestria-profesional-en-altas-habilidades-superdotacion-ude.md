@@ -6,7 +6,6 @@ similar:
   - diploma-en-diseno-y-desarrollo-curricular-ucu
   - maestria-en-educacion-y-desarrollo-profesional-docente-um
   - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
-  - dificultades-de-aprendizaje-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"

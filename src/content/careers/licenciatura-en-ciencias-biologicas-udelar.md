@@ -6,7 +6,6 @@ similar:
   - ciencias-cognitivas-maestria-udelar
   - licenciatura-en-ciencias-del-comportamiento-ucu
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
-  - ciclo-cientifico-tecnologico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

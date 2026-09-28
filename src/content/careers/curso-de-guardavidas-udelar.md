@@ -6,7 +6,6 @@ similar:
   - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - educacion-fisica-maestria-udelar
-  - licenciatura-en-educacion-fisica-rivera-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

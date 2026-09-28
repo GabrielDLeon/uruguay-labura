@@ -2,7 +2,6 @@
 title: "Licenciatura en Psicopedagogía"
 similar:
   - licenciatura-en-psicopedagogia-semipresencial-ucu
-  - dificultades-de-aprendizaje-especializacion-udelar
   - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
   - maestria-en-curriculum-y-aprendizaje-ucu
 institutionName: "Universidad Católica del Uruguay"

@@ -5,7 +5,6 @@ similar:
   - ingenieria-fisico-matematica-udelar
   - ingenieria-matematica-maestria-udelar
   - bioinformatica-especializacion-udelar
-  - ciclo-de-matematica-udelar
   - licenciatura-en-estadistica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

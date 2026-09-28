@@ -3,7 +3,6 @@ title: "Maestría en Bioinformática"
 similar:
   - bioinformatica-especializacion-udelar
   - licenciatura-en-bioinformatica-ort
-  - ciclo-en-biologia-bioquimica-udelar
   - ciencias-biologicas-maestria-udelar
   - ciencias-biologicas-doctorado-udelar
   - ingenieria-matematica-maestria-udelar

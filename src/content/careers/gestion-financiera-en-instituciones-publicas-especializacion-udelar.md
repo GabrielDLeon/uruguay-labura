@@ -1,7 +1,6 @@
 ---
 title: "Especialización en Gestión Financiera en Instituciones Públicas"
 similar:
-  - politicas-y-gestion-publica-maestria-udelar
   - maestria-en-politicas-publicas-ucu
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
   - master-en-direccion-financiera-ort

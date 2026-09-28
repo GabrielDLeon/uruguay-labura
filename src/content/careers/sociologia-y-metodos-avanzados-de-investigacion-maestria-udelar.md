@@ -3,7 +3,6 @@ title: "Maestría en Sociología y Métodos Avanzados de Investigación"
 similar:
   - licenciatura-en-sociologia-ucu
   - sociologia-maestria-udelar
-  - investigacion-social-aplicada-especializacion-udelar
   - licenciatura-en-sociologia-udelar
   - sociologia-doctorado-udelar
   - investigacion-de-operaciones-maestria-udelar

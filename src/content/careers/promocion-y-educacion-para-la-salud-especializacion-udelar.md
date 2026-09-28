@@ -5,7 +5,6 @@ similar:
   - salud-familiar-y-comunitaria-especializacion-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - gestion-de-servicios-de-salud-especializacion-udelar
-  - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

@@ -3,7 +3,6 @@ title: "Diploma en Métodos de Investigación y Análisis de Datos"
 similar:
   - tecnologo-en-analisis-y-gestion-de-datos-utec
   - licenciatura-en-business-analytics-ucu
-  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
   - licenciatura-en-datos-y-negocios-ucu
   - postgrado-en-analitica-de-negocios-um
   - licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial-utec

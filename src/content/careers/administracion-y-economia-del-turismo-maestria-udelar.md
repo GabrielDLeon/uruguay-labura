@@ -1,7 +1,6 @@
 ---
 title: "Maestría en Administración y Economía del Turismo"
 similar:
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - licenciatura-binacional-en-turismo-udelar
   - especializacion-en-turismo-sostenible-utec

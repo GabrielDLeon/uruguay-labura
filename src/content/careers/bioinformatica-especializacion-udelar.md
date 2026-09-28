@@ -4,7 +4,6 @@ similar:
   - bioinformatica-maestria-udelar
   - licenciatura-en-bioinformatica-ort
   - ingenieria-matematica-maestria-udelar
-  - ciclo-en-biologia-bioquimica-udelar
   - licenciatura-en-ingenieria-biologica-udelar
   - optimizacion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

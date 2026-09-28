@@ -6,7 +6,6 @@ similar:
   - mba-senior-um
   - gerencia-y-administracion-mba-maestria-udelar
   - transformacion-organizacional-especializacion-udelar
-  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "maestria"

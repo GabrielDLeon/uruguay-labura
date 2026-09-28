@@ -1,10 +1,7 @@
 ---
 title: "Especialización en Economía y Gestión para la Inclusión"
 similar:
-  - economia-y-gestion-bancaria-especializacion-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
   - licenciatura-en-economia-udelar
 institutionName: "Universidad de la República (UDELAR)"

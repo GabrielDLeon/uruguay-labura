@@ -1,7 +1,6 @@
 ---
 title: "Licenciatura en Educación Física, Deporte y Recreación"
 similar:
-  - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - educacion-fisica-maestria-udelar
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu

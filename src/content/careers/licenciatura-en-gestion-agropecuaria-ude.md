@@ -4,7 +4,6 @@ similar:
   - costos-y-gestion-empresarial-con-apoyo-de-iapuco-argentina-especializacion-udelar
   - tecnico-agropecuario-ude
   - licenciatura-en-business-analytics-ucu
-  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
   - licenciatura-en-economia-agricola-y-gestion-de-agronegocios-udelar
   - postgrado-en-gestion-contable-um
 institutionName: "Universidad de la Empresa"

@@ -4,7 +4,6 @@ similar:
   - enfermedades-infecciosas-especializacion-udelar
   - parasitologia-y-micologia-medica-especializacion-udelar
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
-  - ciclo-area-salud-udelar
   - licenciatura-biologia-humana-udelar
   - bioinformatica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

@@ -1,12 +1,8 @@
 ---
 title: "Especialización en Políticas Sociales"
 similar:
-  - genero-y-politicas-publicas-especializacion-udelar
-  - afrodescendencia-y-politicas-publicas-especializacion-udelar
-  - jovenes-juventud-y-politicas-publicas-especializacion-udelar
   - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
-  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

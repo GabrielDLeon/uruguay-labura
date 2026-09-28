@@ -1,7 +1,6 @@
 ---
 title: "Maestría en Administración Pública"
 similar:
-  - politicas-y-gestion-publica-maestria-udelar
   - maestria-en-politicas-publicas-ucu
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
   - ciencia-politica-maestria-udelar

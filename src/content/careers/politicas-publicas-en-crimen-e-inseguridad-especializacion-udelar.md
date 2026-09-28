@@ -1,10 +1,6 @@
 ---
 title: "Especialización en Políticas Públicas en Crimen e Inseguridad"
 similar:
-  - genero-y-politicas-publicas-especializacion-udelar
-  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
-  - afrodescendencia-y-politicas-publicas-especializacion-udelar
-  - jovenes-juventud-y-politicas-publicas-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
   - maestria-en-politicas-publicas-ucu
 institutionName: "Universidad de la República (UDELAR)"

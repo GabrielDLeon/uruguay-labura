@@ -14,7 +14,6 @@ degreeType: "tecnicatura"
 area: "Educación, innovación y tecnología"
 modality: "hibrido"
 shift: "day"
-weeklyHours: "No informada"
 duration: "2 años"
 credits: 188
 cost: "Gratuita"

@@ -3,7 +3,6 @@ title: "Doctorado en Química, Orientación Educación en Química"
 similar:
   - quimica-orientacion-educacion-en-quimica-maestria-udelar
   - didactica-para-ensenanza-primaria-especializacion-udelar
-  - didactica-para-ensenanza-media-especializacion-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
   - licenciatura-en-educacion-ucu
   - doctorado-en-educacion-ude

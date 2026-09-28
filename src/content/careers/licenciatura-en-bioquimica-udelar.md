@@ -1,7 +1,6 @@
 ---
 title: "Licenciatura en Bioquímica"
 similar:
-  - ciclo-en-biologia-bioquimica-udelar
   - bioquimico-clinico-udelar
   - programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria-utec
   - licenciatura-en-biotecnologia-udelar

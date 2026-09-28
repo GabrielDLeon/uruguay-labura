@@ -6,7 +6,6 @@ similar:
   - diploma-en-educacion-ort
   - doctorado-en-educacion-ude
   - maestria-en-educacion-ude
-  - licenciatura-en-educacion-fisica-rivera-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "diplomado"

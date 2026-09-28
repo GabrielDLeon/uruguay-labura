@@ -5,7 +5,6 @@ similar:
   - postgrado-en-derecho-contractual-um
   - postgrado-en-derecho-de-familia-um
   - notariado-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
   - maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

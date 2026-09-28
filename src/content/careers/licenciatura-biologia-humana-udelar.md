@@ -23,7 +23,6 @@ tags:
   - salud
   - genetica
 similar:
-  - ciclo-en-biologia-bioquimica-udelar
   - licenciatura-en-ingenieria-biologica-udelar
   - licenciatura-en-biotecnologia-udelar
   - ciencias-biologicas-doctorado-udelar

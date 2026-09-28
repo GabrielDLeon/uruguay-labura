@@ -23,7 +23,6 @@ tags:
   - analisis-matematico
 similar:
   - matematica-maestria-udelar
-  - ciclo-de-matematica-udelar
   - matematica-doctorado-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
   - ingenieria-fisico-matematica-udelar

@@ -2,7 +2,6 @@
 title: "Licenciatura en Economía"
 similar:
   - licenciatura-en-economia-ucu
-  - economia-maestria-fcs-udelar
   - maestria-en-economia-um
   - licenciatura-en-economia-ort
   - economia-fcs-especializacion-udelar

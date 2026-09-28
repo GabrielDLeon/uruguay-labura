@@ -4,7 +4,6 @@ similar:
   - licenciatura-en-bioquimica-udelar
   - licenciatura-en-laboratorio-clinico-udelar
   - quimica-farmaceutica-udelar
-  - ciclo-en-biologia-bioquimica-udelar
   - laboratorio-de-patologia-clinica-especializacion-udelar
   - quimico-udelar
 institutionName: "Universidad de la República (UDELAR)"

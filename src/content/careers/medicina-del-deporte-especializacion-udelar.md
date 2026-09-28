@@ -6,7 +6,6 @@ similar:
   - diplomado-en-fisioterapia-en-el-deporte-ude
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
   - educacion-fisica-maestria-udelar
-  - licenciatura-en-educacion-fisica-rivera-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

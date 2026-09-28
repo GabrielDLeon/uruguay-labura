@@ -1,7 +1,6 @@
 ---
 title: "Doctorado en Matemática"
 similar:
-  - ciclo-de-matematica-udelar
   - licenciatura-en-matematica-udelar
   - matematica-maestria-udelar
   - licenciatura-en-estadistica-udelar

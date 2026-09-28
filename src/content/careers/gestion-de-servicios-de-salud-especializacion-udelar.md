@@ -4,7 +4,6 @@ similar:
   - gestion-de-servicios-de-salud-maestria-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
   - administracion-de-servicios-de-salud-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - maestria-en-gestion-y-salud-publica-ucu
   - psicoterapia-en-los-servicios-de-salud-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

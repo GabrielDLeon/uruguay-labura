@@ -3,7 +3,6 @@ title: "Especialización en Economía (fcs)"
 similar:
   - economia-maestria-udelar
   - licenciatura-en-economia-um
-  - economia-para-no-economistas-especializacion-udelar
   - licenciatura-en-economia-udelar
   - licenciatura-en-economia-ort
   - licenciatura-en-economia-ucu

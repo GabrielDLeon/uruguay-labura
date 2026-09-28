@@ -5,7 +5,6 @@ similar:
   - gestion-de-innovacion-maestria-udelar
   - gestion-de-tecnologias-especializacion-udelar
   - tecnologo-en-gestion-universitaria-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - gerencia-de-servicios-de-alimentacion-colectiva-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"

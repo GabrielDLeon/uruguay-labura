@@ -4,7 +4,6 @@ similar:
   - licenciatura-en-turismo-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - especializacion-en-turismo-sostenible-utec
   - tecnico-en-gestion-turistica-y-hotelera-ort
 institutionName: "Universidad de la República (UDELAR)"

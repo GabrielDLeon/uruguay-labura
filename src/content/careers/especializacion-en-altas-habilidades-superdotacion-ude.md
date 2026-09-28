@@ -4,7 +4,6 @@ similar:
   - maestria-profesional-en-altas-habilidades-superdotacion-ude
   - maestria-academica-en-altas-habilidades-superdotacion-ude
   - diploma-en-diseno-y-desarrollo-curricular-ucu
-  - dificultades-de-aprendizaje-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

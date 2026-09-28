@@ -1,7 +1,6 @@
 ---
 title: "Especialización en Penalidad Juvenil"
 similar:
-  - politicas-de-drogas-regulacion-y-control-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
   - postgrado-en-derecho-penal-economico-um
   - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar

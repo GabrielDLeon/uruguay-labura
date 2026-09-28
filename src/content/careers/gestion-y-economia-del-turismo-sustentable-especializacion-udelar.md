@@ -1,12 +1,10 @@
 ---
 title: "Especialización en Gestión y Economía del Turismo Sustentable"
 similar:
-  - gestion-y-economia-del-turismo-sustentable-maestria-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
   - especializacion-en-turismo-sostenible-utec
   - licenciatura-en-turismo-udelar
   - licenciatura-binacional-en-turismo-udelar
-  - economia-derecho-y-gestion-del-deporte-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

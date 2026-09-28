@@ -1,7 +1,6 @@
 ---
 title: "Maestría en Ciencias Humanas"
 similar:
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
   - fundamentos-de-trabajo-social-especializacion-udelar
   - psicologia-social-maestria-udelar
   - antropologia-udelar

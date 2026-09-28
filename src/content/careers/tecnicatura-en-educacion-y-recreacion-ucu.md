@@ -4,7 +4,6 @@ similar:
   - licenciatura-en-recreacion-educativa-ucu
   - licenciatura-en-educacion-ucu
   - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
-  - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - licenciatura-en-educacion-inicial-ucu
 institutionName: "Universidad Católica del Uruguay"

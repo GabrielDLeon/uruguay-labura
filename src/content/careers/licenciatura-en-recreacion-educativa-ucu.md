@@ -5,7 +5,6 @@ similar:
   - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - maestria-en-liderazgo-y-gestion-educativa-ucu
   - licenciatura-en-educacion-ucu
-  - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"

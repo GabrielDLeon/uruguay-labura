@@ -6,7 +6,6 @@ similar:
   - tecnicatura-en-direccion-de-coros-udelar
   - productor-musical-ort
   - licenciatura-en-musica-udelar
-  - ciclo-de-introduccion-la-musica-udelar
   - licenciatura-en-interpretacion-musical-udelar
 institutionName: "Universidad Tecnológica del Uruguay (UTEC)"
 institution: "utec"
@@ -14,7 +13,6 @@ degreeType: "tecnologo"
 area: "Innovación y Emprendimientos"
 modality: "hibrido"
 shift: "day"
-weeklyHours: "No informada"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"

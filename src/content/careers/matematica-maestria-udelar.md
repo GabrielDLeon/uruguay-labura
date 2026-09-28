@@ -2,7 +2,6 @@
 title: "Maestría en Matemática"
 similar:
   - licenciatura-en-matematica-udelar
-  - ciclo-de-matematica-udelar
   - matematica-doctorado-udelar
   - ingenieria-matematica-maestria-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar

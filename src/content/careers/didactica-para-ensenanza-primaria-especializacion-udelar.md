@@ -1,7 +1,6 @@
 ---
 title: "Especialización en Didáctica para Enseñanza Primaria"
 similar:
-  - didactica-para-ensenanza-media-especializacion-udelar
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
   - ensenanza-universitaria-especializacion-udelar
   - quimica-orientacion-educacion-en-quimica-doctorado-udelar

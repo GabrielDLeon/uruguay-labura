@@ -6,7 +6,6 @@ similar:
   - transformacion-organizacional-especializacion-udelar
   - diploma-de-postgrado-en-educacion-emocional-um
   - mba-senior-um
-  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

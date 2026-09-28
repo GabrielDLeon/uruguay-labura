@@ -2,7 +2,6 @@
 title: "Maestría en Neuropsicología del Desarrollo y Aprendizaje"
 similar:
   - maestria-en-atencion-temprana-ucu
-  - dificultades-de-aprendizaje-especializacion-udelar
   - licenciatura-en-psicopedagogia-semipresencial-ucu
   - licenciatura-en-psicopedagogia-ucu
   - licenciatura-en-psicomotricidad-ucu

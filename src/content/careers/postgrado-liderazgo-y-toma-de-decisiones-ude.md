@@ -3,7 +3,6 @@ title: "Postgrado Ejecutivo Experto en Liderazgo y Toma de Decisiones"
 similar:
   - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
   - postgrado-ejecutivo-experto-en-direccion-de-personas-ude
-  - modelos-y-metodos-toma-de-decisiones-gerenciales-especializacion-udelar
   - postgrado-en-gestion-contable-um
   - licenciatura-en-recursos-humanos-ude
   - diploma-de-postgrado-en-educacion-emocional-um

@@ -5,7 +5,6 @@ similar:
   - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
   - magisterio-um
   - maestria-en-educacion-y-desarrollo-profesional-docente-um
-  - didactica-para-ensenanza-media-especializacion-udelar
   - didactica-para-ensenanza-primaria-especializacion-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"

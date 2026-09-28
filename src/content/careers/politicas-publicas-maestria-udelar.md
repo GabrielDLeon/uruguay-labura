@@ -1,12 +1,9 @@
 ---
 title: "Maestría en Políticas Públicas"
 similar:
-  - genero-y-politicas-publicas-especializacion-udelar
   - maestria-en-politicas-publicas-ucu
-  - politicas-y-gestion-publica-maestria-udelar
   - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
-  - afrodescendencia-y-politicas-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

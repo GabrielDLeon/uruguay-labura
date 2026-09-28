@@ -4,7 +4,6 @@ similar:
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
   - master-en-derecho-administrativo-economico-um
   - postgrado-en-derecho-administrativo-economico-um
-  - politicas-y-gestion-publica-maestria-udelar
   - maestria-en-administracion-publica-ucu
   - gestion-financiera-en-instituciones-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

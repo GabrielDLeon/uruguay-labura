@@ -6,7 +6,6 @@ similar:
   - tecnicatura-en-interpretacion-perfil-canto-guitarra-piano-udelar
   - tecnologo-en-jazz-y-musica-creativa-utec
   - licenciatura-en-jazz-y-musica-creativa-utec
-  - ciclo-de-introduccion-la-musica-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"

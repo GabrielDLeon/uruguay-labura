@@ -6,7 +6,6 @@ similar:
   - licenciatura-en-sociologia-ucu
   - sociologia-doctorado-udelar
   - politicas-publicas-maestria-udelar
-  - genero-y-politicas-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

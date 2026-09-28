@@ -5,7 +5,6 @@ similar:
   - ciencias-sociales-c-esp-en-poblacion-doctorado-udelar
   - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
   - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - ciencias-humanas-opcion-estudios-agrarios-latinoamericanos-especializacion-udelar
   - estudios-internacionales-sistema-internacional-e-integracion-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

@@ -2,9 +2,6 @@
 title: "Maestría en Derechos de la Infancia y Políticas Públicas"
 similar:
   - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
-  - afrodescendencia-y-politicas-publicas-especializacion-udelar
-  - genero-y-politicas-publicas-especializacion-udelar
-  - jovenes-juventud-y-politicas-publicas-especializacion-udelar
   - maestria-en-politicas-publicas-ucu
   - politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"

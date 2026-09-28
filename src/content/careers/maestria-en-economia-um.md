@@ -6,7 +6,6 @@ similar:
   - licenciatura-en-economia-ort
   - postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas-um
   - economia-doctorado-udelar
-  - economia-maestria-fcs-udelar
 institutionName: "Universidad de Montevideo"
 institution: "um"
 degreeType: "maestria"

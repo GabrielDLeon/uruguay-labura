@@ -6,7 +6,6 @@ similar:
   - maestria-en-economia-um
   - economia-fcs-especializacion-udelar
   - economia-maestria-udelar
-  - economia-para-no-economistas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "doctorado"

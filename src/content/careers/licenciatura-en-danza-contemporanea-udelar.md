@@ -5,7 +5,6 @@ similar:
   - dramaturgia-udelar
   - licenciatura-en-artes-visuales-ucu
   - gestion-cultural-especializacion-udelar
-  - ciclo-area-social-y-artistica-udelar
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

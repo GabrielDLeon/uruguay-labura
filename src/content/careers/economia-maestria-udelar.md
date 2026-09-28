@@ -3,7 +3,6 @@ title: "Maestría en Economía"
 similar:
   - economia-fcs-especializacion-udelar
   - licenciatura-en-economia-um
-  - economia-para-no-economistas-especializacion-udelar
   - licenciatura-en-economia-udelar
   - maestria-en-economia-um
   - licenciatura-en-economia-ort

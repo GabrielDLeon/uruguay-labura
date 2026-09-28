@@ -1,7 +1,6 @@
 ---
 title: "Especialización en Intervención en el Patrimonio Arquitectónico"
 similar:
-  - carnaval-y-patrimonio-especializacion-udelar
   - arquitectura-doctorado-udelar
   - arquitectura-en-madera-especializacion-udelar
   - construccion-de-obras-de-arquitectura-especializacion-udelar
