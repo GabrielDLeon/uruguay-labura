@@ -33,6 +33,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=80'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=80'
+  - label: 'Programa conjunto FCS+FCEA 2025'
+    url: 'https://www.fcea.udelar.edu.uy/institucional/novedades/8319-lanzamiento-de-la-maestria-en-economia-2025.html'
 ---
 
 ## Resumen

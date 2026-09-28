@@ -1,5 +1,5 @@
 ---
-title: "Maestría en Maestria y en Politicas Públicas"
+title: "Maestría en Políticas Públicas"
 similar:
   - genero-y-politicas-publicas-especializacion-udelar
   - maestria-en-politicas-publicas-ucu

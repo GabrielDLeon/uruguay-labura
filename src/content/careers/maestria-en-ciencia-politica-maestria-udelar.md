@@ -1,5 +1,5 @@
 ---
-title: "Maestría en Maestria en Ciencia Política"
+title: "Maestría en Ciencia Política"
 similar:
   - licenciatura-en-ciencia-politica-udelar
   - licenciatura-en-ciencia-politica-ucu

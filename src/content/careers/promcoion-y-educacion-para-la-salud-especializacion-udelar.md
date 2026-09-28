@@ -1,5 +1,5 @@
 ---
-title: "Especialización en Promcoión y Educación para la Salud"
+title: "Especialización en Promoción y Educación para la Salud"
 similar:
   - psicologia-en-servicios-de-salud-especializacion-udelar
   - salud-familiar-y-comunitaria-especializacion-udelar

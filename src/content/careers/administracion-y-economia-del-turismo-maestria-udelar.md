@@ -34,6 +34,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=76'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=76'
+  - label: 'CAP (antecedente: denominación anterior, no vigente)'
+    url: 'https://www.cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idPosgrado=93&idServicio=5'
 ---
 
 ## Resumen
