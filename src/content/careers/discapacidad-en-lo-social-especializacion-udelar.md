@@ -51,10 +51,6 @@ Al finalizar el Diploma en "Discapacidad en lo social", se encontrará con u pro
 
 MARIA NOEL MIGUEZ
 
-### Docentes
-
-Mag. Alfonsina Angelino ​Dra. María José Bagnato Dra. Andrea Benvenuto Dr. Gildas Bregain Dra. Mónica De Martino Dra. Verónica Filardo Dra. María Noel Míguez Dra. Agustina Palacios Dra. Silvia Rivero Dr. Adrian Scribano Mag. Indiana Vallejos Mag. Andrea Viera
-
 ### Presentación
 
 El diploma «Discapacidad en lo social» del Departamento de Trabajo Social de la Facultad de Ciencias Sociales busca dar respuesta a la cada vez mayor demanda de conocimiento de la discapacidad desde el modelo social y brindar componentes de especialización en torno a la temática en la intervención en lo social, así como herramientas para la producción de conocimiento que pueden orientar hacia estudios de posgrados más avanzados. Además, este posgrado propone una mirada transnacional (Uruguay, Argentina, Francia y Colombia) e interdisciplinaria (Trabajo Social, Psicología, Historia, Filosofía, Sociología, Derecho, Ingeniería, Pedagogía, entre otras) desde el equipo docente, lo cual potencia los procesos de enseñanza y aprendizaje y los vínculos a nivel nacional y a nivel internacional. Se aspira, de esta manera, a generar una instancia de formación de posgrado, con especificidad en la discapacidad, que potencie el análisis crítico de la temática desde distintas disciplinas que intervienen y/o investigan. Podrán postularse egresados/as de educación terciaria apuntando a la mayor confluencia de disciplinas en el estudiantado, de manera de enriquecer y potenciar el diálogo de saberes. Por más información: https://cienciassociales.edu.uy/diploma-en-discapacidad-en-lo-social/

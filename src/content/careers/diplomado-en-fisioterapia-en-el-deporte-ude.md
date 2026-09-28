@@ -60,22 +60,6 @@ El programa tiene una duración de 3 meses (última cohorte publicada: setiembre
 
 La metodología combina una fuerte formación teórica con un gran énfasis en la aplicación de los conocimientos a través de la ejecución continua de trabajos y prácticas, apoyadas por entidades y empresas del sector como BTL Medical Uruguay, BHG Uruguay, la Asociación de Fisioterapeutas del Uruguay (AFU) o Biosistemas.
 
-### Docentes
-
-El diplomado cuenta con un cuerpo docente de primer nivel, conformado por profesionales referentes del ámbito clínico, académico y deportivo, tanto de Uruguay como del exterior. Cada módulo es impartido por expertos con experiencia en alto rendimiento, rehabilitación deportiva y ciencias aplicadas al deporte, entre quienes se destacan:
-
-- Lic. Luis Alberto Pinasco, fisioterapeuta de las selecciones nacionales juveniles y mayores de fútbol.
-- Lic. Federico Fagúndez Joaquim, especialista en rehabilitación deportiva y osteopatía.
-- Lic. Federico Durandeau, referente en Reeducación Postural Global (RPG) y biomecánica.
-- Lic. Ignacio Birriel Moreira, preparador físico internacional.
-- Lic. Andrea Brun, osteópata y fisioterapeuta con trayectoria en la Mutual de Futbolistas Profesionales.
-- Lic. Florencia Orozco, nutricionista deportiva de las selecciones uruguayas de rugby.
-- Prof. Dr. (HC) Oscar Ronzio, presidente de World Physiotherapy South America Region.
-- Dr. Mario Pagano, médico deportivo con más de 40 años de experiencia en fútbol y básquet.
-- Lic. Nicolás Bava y Lic. Sebastián Cardozo, psicólogos especialistas en Psicología del Deporte.
-- Lic. Juan Manuel Fonseca, fisioterapeuta con participación en Juegos Panamericanos y Olímpicos.
-- Lic. Lourdes Legelen, especialista en fisioterapia deportiva con trayectoria en selecciones y arbitrajes FIFA/CONMEBOL.
-
 ## Ingreso
 
 ### Requisitos de Ingreso

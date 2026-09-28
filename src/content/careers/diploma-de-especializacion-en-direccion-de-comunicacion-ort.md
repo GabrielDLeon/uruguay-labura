@@ -77,7 +77,6 @@ Duración Un año (puede cursarse hasta en dos años). Horarios de clase Frecuen
 
 La Escuela de Postgrados y Actualización en Comunicación y Diseño ofrece fondos de becas para facilitar el acceso de profesionales con alto potencial a sus programas. Incluye apoyos para emprendedores, jóvenes talentos, candidatos con necesidad financiera, estudiantes del interior y estudiantes internacionales.
 
-### Comunidades
 
 ## Ingreso
 

@@ -48,10 +48,6 @@ Contribuir al tratamiento académico de la penalidad juvenil y a la formación d
 
 SANDRA LEOPOLD
 
-### Docentes
-
-Coordinación: Sandra Leopold Costábile y Carolina González Laurino Asistencia a la coordinación: Daniel Fessler Luis Eduardo Morás Daniel Díaz Martín Fernández Daniel Fessler Raquel Galeotti Carolina González Laurino Sandra Leopold Costábile Laura López Gallego Cecilia Montes
-
 ### Presentación
 
 El Diploma en penalidad juvenil constituye una propuesta de formación de posgrado que persigue como objetivo contribuir a la formación de profesionales vinculados al sistema penal juvenil (segmento judicial y ejecutivo) y organizaciones de la sociedad civil especializadas en la temática (organizaciones que trabajan en la ejecución de medidas no privativas de libertad y en la promoción y defensa de los derechos humanos). Tiene su fundamentación en la relevancia social que la temática adquiere en los últimos años en el país, así como en el lugar protagónico que la Universidad de la República está dispuesta a ocupar a los efectos de contribuir al estudio y a la búsqueda de soluciones de los problemas que, como éste, se definen de interés general. Esta formación de posgrado cuenta con el aval de UNICEF y la Casa Bertolt Brecht, previéndose la cooperación y el intercambio a los efectos de ampliar el plantel docente que implementará la propuesta con invitados extranjeros.

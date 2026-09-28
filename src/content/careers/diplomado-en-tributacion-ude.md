@@ -55,10 +55,6 @@ El diplomado se dicta en modalidad virtual y presencial (Montevideo), con partic
 
 El programa tiene una duración total de 64 horas. Las clases se dictan el viernes en la tarde y el sábado por la mañana. La fecha de inicio es a consultar.
 
-### Docentes
-
-El cuerpo docente está integrado por el Cr. Daniel Aguirre, la Ec. Gabriela Comas, la Cra. Paola Cena, el Cr. José Durquet, el Cr. Danilo Minutti, el Cr. Esteban Quintas, la Cra. Carmen Sforza y la Cra. María Noel Vidal, y otros profesionales invitados.
-
 ## Plan de Estudio
 
 ### Módulos

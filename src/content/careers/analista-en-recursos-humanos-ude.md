@@ -50,10 +50,6 @@ La metodología combina la formación teórica con un gran énfasis en la aplica
 
 Los conocimientos y habilidades de la carrera le brindan al profesional la capacidad para trabajar en equipo, asumir el rol de líder dentro de un grupo de trabajo, relacionarse con su entorno, adaptarse a los cambios y trabajar de forma metódica bajo presión.
 
-### Docentes
-
-La carrera cuenta con un equipo docente altamente calificado, con un alto nivel de especialización y una vasta experiencia profesional en el área de la gerencia de empresas.
-
 ### Modalidad
 
 El programa se ofrece en las sedes de la UDE (Montevideo, Punta del Este, Colonia, Ciudad de la Costa y La Paloma) y a través del Campus Virtual, con inscripciones abiertas y plazas disponibles en Montevideo y en el campus virtual.

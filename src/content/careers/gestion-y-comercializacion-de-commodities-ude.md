@@ -54,10 +54,6 @@ Al completar el programa se obtiene el título de **Diploma de Posgrado en Gesti
 
 El programa se desarrolla de mayo a setiembre, con una carga horaria de 70 horas. Las clases se dictan virtualmente los jueves y viernes de 17:00 a 21:00 (horario de Uruguay).
 
-### Docentes
-
-Principales docentes: Ing. Agr. Juan Marcos Olivero, Lic. Jeremías Battistoni, Ing. Agr. Carlos Poullier, Ing. Agr. Nicolás Udaquiola, Lic. Diego Ponti, Lic. Diego Pasi, Lic. Martina Sabini, Ing. Agr. Gonzalo Ducos.
-
 ## Ingreso
 
 ### Requisitos de Ingreso

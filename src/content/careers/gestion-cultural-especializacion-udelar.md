@@ -47,10 +47,6 @@ La Especialización en Gestión Cultural tiene como objetivo la formación de pe
 
 Lic. Rosario Radakovich
 
-### Docentes
-
-Se podrá encontrar un detalle del plantel docente en el siguiente link: https://fcea.udelar.edu.uy/plantel-docente-esp-gestion-cultural.html
-
 ## Ingreso
 
 ### Requisitos de Ingreso

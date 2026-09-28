@@ -47,10 +47,6 @@ La Maestría en Trabajo Social se inscribe en el proceso universitario de consol
 
 CECILIA ESPASANDIN Y NATALIA MAGNONE
 
-### Docentes
-
-Coordinador: Natalia Magnone
-
 ### Presentación
 
 La Maestría en Trabajo Social se inscribe en el proceso universitario de consolidación de cursos de posgrado destinados a perfeccionar la formación y el nivel académico de la Educación Superior, y por ello comporta un claro perfil académico. La Maestría es de carácter gratuito.

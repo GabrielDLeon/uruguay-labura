@@ -45,10 +45,6 @@ El egresado adquirirá una formación superior en el área de la Construcción d
 
 Director Académico: Mag. Arq. Fernando Tomeo; Comité Académico: Mag. Arq. Fernanda Moreira; Mag. Arq. V¡irginia Casañas; Mag. Arq. Fernando Garcìa Amén; Mag. Arq. Lucia Anzalone
 
-### Docentes
-
-Ariel Beltrand Diego Capandeguy Gemma Rodriguez Luis Fernadez Luco Atilio Morquio Luciana Mirón Graciela Lesino Silvana Flores Larsen Laura Alemán Jorge Rasner Gustavo Sanchez Raul Zerbino Eduardo Isatto Mary Mendez Pablo Frontini Juan José Fontana Fernanda Moreira Carola Romay Fernando Tomeo Jorge Gambini
-
 ## Ingreso
 
 ### Requisitos de Ingreso

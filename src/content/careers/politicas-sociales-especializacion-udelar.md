@@ -42,10 +42,6 @@ El Diploma de Especialización en Políticas Sociales, se plantea los siguientes
 
 Ximena Baraibar y Laura Paulo
 
-### Docentes
-
-- Profa. Mag. Ximena Baráibar - Prof. Dr. Pablo Bentura - Prof. Mag. Cecilia Blezio - Prof. Dr. Reto Bertoni - Prof. Mag. Agustín Canzani - Prof. Dr. Gerardo Caetano - Profa. Mag. Adela Claramunt - Prof. Mag. Martín Koolhaas - Prof. Dra. Sandra Leopold - Prof. Mag. Christian Mirza - Prof. Dr. Luis E. Morás - Profa. Dra. Elizabeth Ortega - Profa. Dra. Mariana Paredes - Profa. Mtr. Laura Paulo - Profa. Lic. Carmen Varela - Profa. Dra Laura Vecinday
-
 ### Presentación
 
 La complejidad de la cuestión social, inscripta en los procesos de transformación del sistema capitalista, se traduce en una gran diversidad de problemáticas sociales. Las dinámicas y características del mundo del trabajo así como de las familias, propias de la sociedad industrial, se han modificado planteando nuevos desafíos. Asimismo en los últimos años, en América Latina y específicamente en el Uruguay, se asiste a una ampliación y diversificación de intervenciones y ensayos de respuestas desde el Estado, a estas problemáticas. De esta forma, el campo de las Políticas Sociales se consolida como una de las preocupaciones compartidas por distintos actores de la comunidad profesional y académica. Por otra parte, el Departamento de Trabajo Social asume un necesario compromiso con la realidad, que implica profundizar los conocimientos y generar condiciones para promover procesos de transformación desde una perspectiva crítica. Lo señalado se traduce –entre otros aspectos- en el desarrollo de una oferta permanente de formación en pos graduación (Educación Permanente, Diplomas, Maestría y Doctorado).

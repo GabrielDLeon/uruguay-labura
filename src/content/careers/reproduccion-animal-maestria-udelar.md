@@ -40,10 +40,6 @@ sources:
 
 Maestría del Programa de Posgrado de la Facultad de Veterinaria con orientación en Reproducción Animal. Forma investigadores con una tesis científica y un plan de cursos generales y específicos de la orientación, acordado con el Director de Tesis.
 
-### Docentes
-
-El Cuerpo Docente de Posgrados se encuentra en: http://www.fvet.edu.uy/index.php/ensenanzaposgrados/posgrados/organizacion/investigadores-del-programa
-
 ## Ingreso
 
 ### Requisitos de Ingreso

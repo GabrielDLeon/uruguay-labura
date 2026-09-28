@@ -108,7 +108,6 @@ Duración 18 meses. Horarios de clase Lunes a jueves de 19:00 a 21:30 h. La Univ
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
 
-### Comunidades
 
 ## Ingreso
 

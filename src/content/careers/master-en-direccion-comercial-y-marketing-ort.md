@@ -94,7 +94,6 @@ Duración 18 meses. Horarios de clase Los cursos se dictan de martes a jueves de
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
 
-### Comunidades
 
 ## Ingreso
 

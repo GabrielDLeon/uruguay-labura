@@ -44,10 +44,6 @@ En el marco del Reglamento General de posgrado del PEDECIBA y de la Ordenanza de
 
 Dra. Patricia Lagos (Coordinadora), Dra. Astrid Agorio(Coordinadora alterna)
 
-### Docentes
-
-Dra. María José ALBO Dr. Alejandro D'ANATRO Dra. Carla KRUK Dra. Valentina FRANCO - Ecología y Evolución Dra. Dinorah PAN y Dra. María MOREL - Microbiología Dr. Marcelo LOUREIRO, Dr. Marco Antonio BENAMÚ y Dra. Valentina MUJICA - Zoología
-
 ## Ingreso
 
 ### Reglamento

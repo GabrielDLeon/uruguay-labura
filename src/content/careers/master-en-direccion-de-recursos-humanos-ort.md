@@ -81,7 +81,6 @@ Duración 18 meses. Horarios de clase Lunes a miércoles de 19:00 a 21:30 (hora 
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
 
-### Comunidades
 
 ## Ingreso
 

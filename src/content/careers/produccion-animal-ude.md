@@ -56,12 +56,6 @@ El programa se dicta íntegramente en modalidad virtual, con clases en línea lo
 
 El programa se desarrolla de mayo a octubre, con una carga horaria de 120 horas.
 
-### Docentes
-
-Principales docentes de Argentina: Ing. Agr. Juan Insúa, Ing. Agr. Germán Berone, Ing. Agr. Alejandra Marino, Ing. Agr. Jorge Castaño, Dr. Federico Hozbor, Dr. Anselmo Odeón, Dr. Julio Burges, Dr. Germán Cantón, Lic. Laura Pouzo.
-
-Principales docentes de Uruguay: Ing. Agr. Diego Gimeno, Ing. Agr. Alejandro La Manna, Ing. Agr. Juan Manuel Clariget.
-
 ## Ingreso
 
 ### Requisitos de Ingreso

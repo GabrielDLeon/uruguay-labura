@@ -49,10 +49,6 @@ Está destinado a graduados universitarios que provengan de diferentes áreas, i
 
 Ali Saadoun - Cristina Cabrera
 
-### Docentes
-
-El cuerpo de profesores de esta Maestría son docentes especializados de la UdelaR y del extranjero con antecedentes en el desarrollo de otros posgrados existentes en el país, de cursos de posgrado, de programas de cooperación internacional.
-
 ## Ingreso
 
 ### Reglamento

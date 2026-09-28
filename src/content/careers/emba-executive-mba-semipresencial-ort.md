@@ -83,7 +83,6 @@ Duración 18 meses. Horarios de clase Tres clases virtuales cada dos semanas. Un
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
 
-### Comunidades
 
 ## Ingreso
 

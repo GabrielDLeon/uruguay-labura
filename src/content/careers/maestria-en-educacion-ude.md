@@ -51,10 +51,6 @@ El programa tiene como objetivos generales formar investigadores y profesionales
 
 Desde el Programa de Formación Avanzada en Educación (PFAE) de la Facultad de Ciencias de la Educación se articulan las competencias medulares para cada uno de los niveles de formación de postgrado (Especialización, Maestría y Doctorado). A nivel de maestría, el perfil de egreso se define en las siguientes áreas de dominio, de acuerdo a los objetivos generales: generar conocimientos que aporten soluciones nuevas a los problemas identificados en el contexto educativo local o regional — o que mejoren las existentes — de manera individual o en equipo, y liderar acciones de formación de docentes orientadas a mejorar las prácticas docentes a partir de un proceso reflexivo, incorporando la experiencia y la innovación educativa como motor de las transformaciones del sistema.
 
-### Docentes
-
-El cuadro docente está integrado por un calificado grupo de investigadores activos, con producción reciente y amplia experiencia docente, provenientes tanto de la región como residentes en el país.
-
 ### Modalidad
 
 La maestría combina seminarios semanales, producción autónoma en plataforma y actividades académicas de presencialidad. Las actividades de presencialidad obligatoria en la sede de Montevideo se realizan solamente durante el mes de enero o julio, considerando las necesidades específicas de educadores y profesionales de la educación.

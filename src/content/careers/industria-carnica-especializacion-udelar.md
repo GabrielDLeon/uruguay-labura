@@ -49,10 +49,6 @@ El egresado de la Especialización en Industria Cárnica habrá desarrollado y a
 
 Facultad de Agronomía, Facultad de Veterinaria, Facultad de Ciencias Sociales, Facultad de Ciencias Económicas y Administración
 
-### Docentes
-
-Los docentes de referencia y coordinación son: Módulo I: Ing. Agr. (PhD.) Federico García (fgarcia@fagro.edu.uy) Módulo II: Ing. Agr. (Dra.) M. Cristina Cabrera (mcab@fagro.edu.uy) DMV (Dra.) Cristina Lopez (lopezlailavet@gmail.com) Módulo III: DMV (Dra.) Cristina Lopez (lopezlailavet@gmail.com) Módulo IV: Ing. Agr. (PhD.) Federico García (fgarcia@fagro.edu.uy) Cont. Pub. (Dr.) Christian Kuster (christiankusternieves@gmail.com)
-
 ## Ingreso
 
 ### Reglamento

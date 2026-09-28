@@ -75,7 +75,6 @@ Duración El postgrado tiene una duración total de tres años. Horarios de clas
 
 La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
 
-### Comunidades
 
 ## Ingreso
 

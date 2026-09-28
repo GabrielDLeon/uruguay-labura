@@ -48,10 +48,6 @@ El egresado adquirirá una formación superior en el área de Intervención en e
 
 Coordinador Académico: Dr.Arq. William Rey Ashfield; Comité Académico: Dra. Arq. Carola Romay; Mag. Arq. Pablo Canen; Arq. Andrés Mazzini
 
-### Docentes
-
-Dr. Arq. William Rey Ashfield Mag.Arq.Carola Romay Mag. Arq. Laura Alemán Mag. Arq. Pablo Canén Arq. Marcelo Gualano Arq. Gianella Mussio Arq. Andrés Mazzini Arq. Christian Kustcher Lic. Jacqueline Geymonat Bonino Arq. Alejandro Héctor Novacovsky
-
 ## Ingreso
 
 ### Requisitos de Ingreso

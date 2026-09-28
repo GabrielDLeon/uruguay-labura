@@ -79,7 +79,6 @@ Duración 3 años. Para completar el doctorado en este lapso mínimo es necesari
 
 La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
 
-### Comunidades
 
 ## Ingreso
 

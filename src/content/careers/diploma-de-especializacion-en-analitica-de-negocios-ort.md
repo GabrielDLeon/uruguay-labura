@@ -98,7 +98,6 @@ Duración 1 año. Horarios de clase Los cursos obligatorios se dictan por lo gen
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
 
-### Comunidades
 
 ## Ingreso
 

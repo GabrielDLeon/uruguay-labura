@@ -51,10 +51,6 @@ Se espera contar, a la hora del egreso, con un cuerpo profesional especialmente 
 
 MONICA DE MARTINO
 
-### Docentes
-
-Docentes de la Facultad de Ciencias Sociales Dra. Karina Batthyani Mag. Mateo Berri Dra. Wanda Cabella Mag. Carla Calce Dra. Mónica De Martino Mag. Cecilia Espasandín Dra. Natalia Genta Dra. Clara Márquez Mag. Gabriela Pacci Dra. Laura Paulo
-
 ### Presentación
 
 El Diploma de Especialización en Intervención Familiar tuvo su primera edición en 1994 bajo la responsabilidad del Área de Infancia y Familia del Departamento de Trabajo Social. Desde el año 2004 está orientado a profesionales de distintas disciplinas, interesados en el amplio campo temático de familia, políticas sociales e intervenciones profesionales. Se propone un abordaje centrado en las familias como entidades sociales históricamente situadas, responsables de la reproducción social entendida en forma amplia. Del mismo modo, los debates profesionales de orden teórico-metodológico y técnico-operativo y sus respectivos desafíos éticos, son un eje fundamental en su propuesta curricular. Persigue la continua formación de los diversos agentes profesionales que trabajan en variadas temáticas afines al campo familiar así como también generar un espacio de producción, difusión y debate de los conocimientos que se conjugan y producen durante el cursado. Por más información: https://cienciassociales.edu.uy/wp-content/uploads/2019/10/REGLAMENTO-DIPLOMA-FAMILIA-2013.pdf

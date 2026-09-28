@@ -58,10 +58,6 @@ La Facultad cuenta con un campo experimental ubicado en el departamento de Canel
 
 El Departamento de Prácticas y Pasantías de la Facultad ofrece diferentes opciones de pasantías en organizaciones y empresas públicas y privadas, donde estudiantes y egresados pueden llevar a la práctica los conocimientos adquiridos y prepararse para su futura inserción laboral.
 
-### Cuerpo Docente
-
-La carrera cuenta con un equipo docente calificado, con alto nivel de especialización y, como característica de la Universidad de la Empresa, con amplia experiencia profesional en el área.
-
 ### Duración y Horarios
 
 La carrera tiene una duración de 2 años, organizados en 4 semestres.

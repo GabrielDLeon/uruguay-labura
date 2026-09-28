@@ -82,7 +82,6 @@ Duración 1 año. Horarios de clase Las clases se dictan de martes a jueves de 1
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
 
-### Comunidades
 
 ## Ingreso
 

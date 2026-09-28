@@ -50,10 +50,6 @@ Se espera que los egresados de la MHP tengan un perfil fuertemente orientado a l
 
 Pablo Ferreira - Diego Grauer
 
-### Docentes
-
-Coordinación: Pablo Ferreira - Asistente de la Coordinación: Diego Grauer -
-
 ### Presentación
 
 La Maestría en Historia Política (MHP) de la Universidad de la República es un programa académico que se desarrolla en la Facultad de Ciencias Sociales bajo la responsabilidad de su Departamento de Ciencia Política (ICP), en colaboración con el Centro de Estudios Interdisciplinarios Uruguayos (CEIU) y el Departamento de Historia del Uruguay (DHU) de la Facultad de Humanidades y Ciencias de la Educación, y con el Área de Investigación Histórica del Archivo General de la Universidad de la República (AGU). El cursado transcurre durante dos años lectivos, organizados en cuatro semestres, con clases de tres horas de duración en horario nocturno. La carga horaria total de la Maestría es de 504 horas presenciales (equivalentes a 145 créditos), de los cuales el 70% es de carácter obligatorio y el resto optativo, a seleccionar por el estudiante (en consulta con su tutor) preferentemente según su correspondencia con la temática de la tesis a desarrollar. La modalidad de los cursos es presencial, con un requisito de asistencia mínima del 75% del total de clases dictadas. https://cienciassociales.edu.uy/wp-content/uploads/2019/08/Reglamento-Especial-de-la-Maestr%c3%ada-en-Historia-Pol%c3%adtica.pdf

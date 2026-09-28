@@ -50,10 +50,6 @@ sources:
 
 Investigadores en ciencias del lenguaje, docencia especializado en enseñanza del español
 
-### Docentes
-
-Prof. Adj. Marcelo Taibo (coordinador); Dra. Sylvia Costa; Lic. Marisa Malcuori; Lic. Cristina Píppolo.
-
 ## Ingreso
 
 ### Convocatoria

@@ -53,10 +53,6 @@ El programa busca propiciar el estudio de referenciales teóricos sobre la ident
 
 Se espera que el estudiante desarrolle competencias tales como: conocer las bases epistemológicas relativas a las AH/SD y los principales conceptos teóricos del campo; comprender las posibles diferencias del desarrollo de las personas con AH/SD y sus aspectos socioemocionales; evidenciar la relación entre las AH/SD y la creatividad y conocer las formas de identificación; aplicar e interpretar instrumentos de identificación de niños y adolescentes con AH/SD en el contexto escolar y de adultos dentro y fuera de la enseñanza, elaborando los informes correspondientes; desarrollar alternativas de atención educativa para estudiantes con AH/SD; adquirir contenidos básicos de escritura académica para la elaboración del Informe de Identificación y del artículo científico; elaborar un artículo científico publicable evaluado por pares, y contribuir en la elaboración de propuestas de atención educativa o intervenciones en instituciones públicas o privadas y en la construcción de políticas públicas para esta población.
 
-### Docentes
-
-El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la maestría es la Dra. Susana Pérez Barrera.
-
 ### Modalidad
 
 La maestría es una carrera stricto sensu cuya cursada se organiza en cuatro períodos presenciales, complementada con actividades académicas autónomas.

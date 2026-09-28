@@ -54,10 +54,6 @@ Con un perfil profesional, la persona egresada puede actuar en campos como la as
 
 Se espera que el estudiante desarrolle competencias como: dominar las bases epistemológicas relativas a las AH/SD y los principales conceptos teóricos del campo; reconocer las posibles diferencias del desarrollo en personas con AH/SD, los aspectos socioemocionales y las variables de género, así como la importancia que cumple la familia y/o los responsables de niños y adolescentes en el proceso de identificación y soporte; evidenciar la relación entre las AH/SD y la creatividad; aplicar e interpretar el proceso de identificación de niños y adolescentes con AH/SD en el contexto escolar y de adultos dentro y fuera de la enseñanza; elaborar informes y devolutivas a partir de instrumentos de identificación y de entrevistas con niños/as, adolescentes, sus responsables, docentes y otros profesionales; diseñar alternativas de atención educativa; adquirir contenidos básicos de metodología de la investigación educativa y de escritura académica; elaborar un proyecto o producto que atienda las demandas de estudiantes o adultos identificados, defendiéndolo públicamente ante un tribunal, y contribuir en la elaboración de propuestas de atención educativa o intervenciones en instituciones públicas o privadas y en la construcción de políticas públicas.
 
-### Docentes
-
-El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la maestría es la Dra. Susana Pérez Barrera.
-
 ### Modalidad
 
 La maestría es una carrera stricto sensu con perfil profesional, cuya cursada se organiza en cuatro períodos presenciales, complementados con actividades académicas autónomas.

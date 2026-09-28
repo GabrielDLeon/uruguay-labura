@@ -49,10 +49,6 @@ La Maestría en Derechos de Infancia y políticas públicas está dirigida, en p
 
 Prof. Tit. Psic. Víctor Giorgi y Prof. Tit. Dra. Gabriela Etchebehere.
 
-### Docentes
-
-El equipo docente de la maestría está compuesto por los profesionales más calificados que cuenten las Facultades responsables de esta propuesta, así como por Expertos de UNICEF y profesores invitados nacionales e internacionales. Los docentes nacionales pertenecientes a la Universidad de la República deberán ubicarse entre los Grados 3 al 5 como dispone la Ordenanza de Postgrados de la Universidad de la República.
-
 ## Ingreso
 
 ### Plan de estudios

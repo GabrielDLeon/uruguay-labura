@@ -48,10 +48,6 @@ El objetivo de la Maestría en Sociología y Métodos Avanzados de Investigació
 
 JOAQUIN CARDELLIAC
 
-### Docentes
-
-Marcelo Boado Alberto Riella Karina Batthyany Tabaré Fernandez Verónica Filardo Mariela Quiñones Geyser Margel Gabriel Errandonea Pablo Hein Marcos Supervielle Diego Piñeiro Ana Rivoir Miguel Serna Francisco Pucci
-
 ### Presentación
 
 La Maestría en Sociología y Métodos Avanzados de Investigación aplicados se regirá por el Reglamento de Posgrados de la Facultad de Ciencias Sociales, que se ajusta a la Ordenanza de Posgrados de UdelaR. Se emite un solo título de Magister en Sociología y Métodos Avanzados de Investigación. Se detalla normativas, procedimientos, programación de actividades y exámenes, tesis y tutorías, en su Instructivo general para docentes y alumnos.

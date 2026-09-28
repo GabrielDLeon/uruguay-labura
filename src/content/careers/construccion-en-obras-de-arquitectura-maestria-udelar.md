@@ -45,10 +45,6 @@ OBJETIVOS DEL PROGRAMA La Maestría en Construcción de Obras de Arquitectura ti
 
 Director Académico: Mag. Arq. Fernando Tomeo; Comité Académico: Mag. Arq. Lucía Anzalone; Mag. Arq. V¡rginia Casañas; Mag. Arq. Fernando Garcìa Amén; Mag. Arq. Fernanda Moreira
 
-### Docentes
-
-Ariel Beltrand Diego Capandeguy Gemma Rodriguez Luis Fernadez Luco Atilio Morquio Luciana Mirón Graciela Lesino Silvana Flores Larsen Laura Alemán Jorge Rasner Gustavo Sanchez Raul Zerbino Eduardo Isatto Mary Mendez Pablo Frontini Juan José Fontana Fernanda Moreira Carola Romay Fernando Tomeo Jorge Gambini
-
 ## Ingreso
 
 ### Requisitos de Ingreso

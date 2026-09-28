@@ -62,12 +62,6 @@ El programa se dicta íntegramente en modalidad virtual, a través del Campus Vi
 
 La formación se desarrolla de abril a octubre, con una carga horaria de 150 horas.
 
-### Docentes
-
-Principales docentes de Argentina: Dr. Carlos Steiger, Ing. Agr. Juan Marcos Olivero, Dra. Silvana Cerini, Lic. Mariana Pellegrini, Lic. Adriano Mandolesi, Lic. Karina Soto.
-
-Principales docentes de Uruguay: Ing. Agr. Julio Preve, Cr. Pablo Moyal, Cra. María José González.
-
 ## Ingreso
 
 ### Requisitos de Ingreso

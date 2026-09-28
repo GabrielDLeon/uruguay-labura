@@ -54,10 +54,6 @@ Se espera que el estudiante haya desarrollado las siguientes competencias:
 - Adquirir contenidos básicos de escritura académica que contribuyan a la elaboración del Informe de Identificación y del artículo científico.
 - Contribuir en la elaboración de propuestas de atención educativa o intervenciones en instituciones públicas o privadas y en la construcción de políticas públicas para esta población.
 
-### Docentes
-
-El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores, nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la Especialización es la Dra. Susana Pérez Barrera.
-
 ### Modalidad
 
 La cursada se realiza en dos períodos presenciales. Una vez concluida la cursada, los estudiantes tienen un plazo de tres meses para presentar un artículo científico publicable relacionado al tema, que se envía para evaluación por pares.

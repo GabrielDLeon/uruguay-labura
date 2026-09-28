@@ -71,7 +71,6 @@ Duración Los seminarios y talleres se cursan en tres años. La tesis no podrá 
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
 
-### Comunidades
 
 ## Ingreso
 

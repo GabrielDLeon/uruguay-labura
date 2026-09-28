@@ -52,10 +52,6 @@ Los egresados tendrán un perfil adecuado para desempeñarse como académicos pe
 
 Miguel SERNA
 
-### Docentes
-
-El Programa está dirigido por la Comisión Académica de Doctorado (CAD) integrada por los coordinadores de los referidos doctorados. Los Directores de tesis, Directores académicos, docentes y/o integrantes de los tribunales en el Programa deberán poseer título de Doctor o equivalente y acreditar una alta dedicación a la tarea de investigación.
-
 ### Presentación
 
 El Programa de Doctorado de la Facultad de Ciencias Sociales tiene como meta la formación de académicos de alto nivel de especialización. Ello se logra a través de un programa competitivo en términos de capacitación científica de tercer ciclo, con especial énfasis en la obtención de una formación de excelencia en la investigación el área seleccionada. En consecuencia, el Programa se centra en la elaboración de una tesis que deberá constituir un trabajo original -teórico o aplicado-, que aporte a la literatura nuevos elementos. https://cienciassociales.edu.uy/wp-content/uploads/2020/02/Normativa_Doctorado_FCS.pdf

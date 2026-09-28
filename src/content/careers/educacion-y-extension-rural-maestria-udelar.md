@@ -51,10 +51,6 @@ Los egresados serán competentes para: proponer y desarrollar investigaciones so
 
 Título universitario de grado, con un Director de Tesis del programa y un plan de trabajo; la admisión la resuelve el Comité Académico del programa. La inscripción se realiza en la Oficina de Posgrado de Facultad de Veterinaria.
 
-### Docentes
-
-El Cuerpo Docente de Posgrados se encuentra en: http://www.fvet.edu.uy/index.php/ensenanzaposgrados/posgrados/organizacion/investigadores-del-programa (Ver Hoja Maestría en Ed. y Ext. Rural)
-
 ## Plan de Estudio
 
 ### Programa

@@ -47,10 +47,6 @@ Perfil del programa DCA El Doctorado en Ciencias Ambientales es una instancia de
 
 Prof. Daniel Panario, Dra. Claudia Rodríguez. Dr. Gustavo Nagy, Dra. Anaclara Guido
 
-### Docentes
-
-Referentes académicos: Prof. Daniel Panario Dra. Claudia Rodríguez Dr. Gustavo Nagy Dra. Anaclara Guido
-
 ## Ingreso
 
 ### Reglamento

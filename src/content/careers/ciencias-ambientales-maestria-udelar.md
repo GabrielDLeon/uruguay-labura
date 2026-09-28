@@ -45,10 +45,6 @@ OBJETIVOS El programa de Maestría en Ciencias Ambientales es un programa de pos
 
 Prof. Daniel Panario; Dra.Claudia Rodríguez, Dr. Gustavo Nagy, Dra. Anaclara Guido
 
-### Docentes
-
-Referentes académicos: Prof. Daniel Panario Dra. Claudia Rodríguez Dr. Gustavo Nagy Dra. Anaclara Guido
-
 ## Ingreso
 
 ### Reglamento

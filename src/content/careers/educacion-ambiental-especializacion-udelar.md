@@ -48,10 +48,6 @@ El programa de Especialización y Maestría en Educación Ambiental aspira a con
 
 Fernando Pesce, Ana Domínguez, Marcel Achkar
 
-### Docentes
-
-Dr. Marcel Achkar Dr. Rafael Arocena Dra. Alice Altesor Dr. Alejandro Brazeiro Dr. Daniel Conde Dra. Ana Domínguez Dra. Gabriela Eguren Dr. Carlos Martínez Dr. Gustavo Naguy Dr. Walter Norbis Ing. Agr. Daniel Panario Dr.. Fernando Pesce Dra. Claudia Rodríguez
-
 ## Ingreso
 
 ### Reglamento

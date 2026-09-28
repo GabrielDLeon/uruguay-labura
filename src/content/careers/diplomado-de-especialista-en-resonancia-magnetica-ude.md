@@ -48,10 +48,6 @@ El diplomado se cursa en modalidad 100 % virtual a través del Campus Virtual de
 
 La duración del programa es de 4 meses, organizados en cinco módulos temáticos.
 
-### Docentes
-
-El cuerpo docente está integrado por profesionales de la imagenología: Lic. Sergio Aparicio, Lic. Mario Camargo, Lic. Federico Furtado y Lic. Victor Veiga.
-
 ## Ingreso
 
 ### Requisitos de Ingreso

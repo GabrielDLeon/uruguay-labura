@@ -49,10 +49,6 @@ PERFIL DE EGRESO Permitirá a los egresados: a) Conocer los fundamentos biofísi
 
 Prof. Daniel Panario, Dra. Claudia Rodríguez Dr. Gustavo Nagy, Dra. Anaclara Guido
 
-### Docentes
-
-Referentes académicos: Prof. Daniel Panario Dra. Claudia Rodríguez Dr. Gustavo Nagy Dra. Anaclara Guido
-
 ## Ingreso
 
 ### Reglamento

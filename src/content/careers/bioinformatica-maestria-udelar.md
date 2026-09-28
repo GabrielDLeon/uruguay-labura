@@ -44,10 +44,6 @@ La Maestría en Bioinformática es un programa de posgrado del Pedeciba y la UDE
 
 Dr. Mauricio Vega
 
-### Docentes
-
-Integrantes Comisión: Área Química : Mauricio Vega (Titular y Coordinador), Federico Iribarne (Suplente) Área Informática : Guillermo Dufort y Álvarez (Titular y Coordinador Alterno), Gastón Notte (Suplente) Área Biología : Luisa Berná (Titular), Pablo Smircich (Suplente) Área Física : Daniel Freire (Titular), NIcolás Casaballe (Suplente) Área Matemática : Federico Dalmao (Titular), Juan Kalemkerian (Suplente) Estudiantes : Agustina Añasco (Titular), Joaquín Pereira (Suplente) Invitado en representación de los Egresados : Martín Sóñora
-
 ## Ingreso
 
 ### Reglamento
