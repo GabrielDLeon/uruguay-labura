@@ -41,7 +41,6 @@ sources:
     url: 'https://www.rivera.udelar.edu.uy/educacion-fisica/'
   - label: 'Sede o facultad (fuente anterior)'
     url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/licenciatura-en-educacion-fisica/'
->>>>>>> feat/udelar-slugs
 ---
 
 ## Resumen
