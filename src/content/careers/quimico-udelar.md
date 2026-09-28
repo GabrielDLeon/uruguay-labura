@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "carrera"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/quimico"
 location: "Facultad de Química; Paysandú; Salto"
-description: "El Químico estará capacitado para trabajar en todas las áreas de la química con el objeto de: desarrollar o mejorar productos de aplicación industrial, agropecuaria, alimentaria, medioambiental u otros en concordancia con sus estudios. desarrollar, seleccionar, adaptar y mantener tecnologías de síntesis, biosíntesis, análisis y gestión de calidad de productos clasificables en las áreas químicas y anexas."
-startDate: ""
-applicationDeadline: ""
+description: "El Químico trabaja en todas las áreas de la química: desarrolla productos de aplicación industrial, agropecuaria, alimentaria y medioambiental, adapta tecnologías de síntesis y análisis, dirige laboratorios, crea empresas de base química y actúa como asesor, consultor y perito. Orientaciones: sin orientación, Calidad, Materiales o Agrícola y Medio Ambiente."
 credits: 450
 tags:
   - quimica
   - quimica-industrial
   - quimica-analitica
   - quimica-organica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

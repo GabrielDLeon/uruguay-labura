@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-hemoterapia"
 location: "Facultad de Medicina; Paysandú"
 description: "Es el profesional de la salud que realiza la obtención, estudio inmunohematológico y serológico, procesamiento manual o mecánico, conservación y transfusión de la sangre humana, componentes, derivados y productos recombinantes de acuerdo con las técnicas al más alto nivel nacional e internacional."
-startDate: ""
-applicationDeadline: ""
 tags:
   - medicina
   - hemoterapia
   - hematologia
   - transfusion
   - laboratorio-clinico
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,8 +32,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-hemoterapia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-hemoterapia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-hemoterapia'
 ---
 
 ## Resumen
@@ -45,6 +39,10 @@ sources:
 ### Sobre la Carrera
 
 Es el profesional de la salud que realiza la obtención, estudio inmunohematológico y serológico, procesamiento manual o mecánico, conservación y transfusión de la sangre humana, componentes, derivados y productos recombinantes de acuerdo con las técnicas al más alto nivel nacional e internacional.
+
+### Duración y cursado
+
+**Duración:** 3 años (2840 horas) · **Sedes:** Facultad de Medicina (Montevideo) y Paysandú · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

@@ -11,42 +11,40 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-economia"
 location: "Facultad de Ciencias Económicas y de Administración"
-description: "Quienes egresen de la Licenciatura en Economía poseen el dominio práctico de los marcos teóricos, las herramientas analíticas y los métodos aplicados en la disciplina y en sus campos específicos. Tiene una visión crítica y creativa para adquirir nuevos conocimientos y generar nuevas ideas. Quienes egresen de la Licenciatura en Economía podrán trabajar en las siguientes áreas: Financiera, Empresarial y de Políticas Públicas."
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Licenciatura en Economía de 4 años (360 créditos, Plan 2012) en la FCEA. Domina marcos teóricos, herramientas analíticas y métodos aplicados, con salida en finanzas, empresas, políticas públicas y la academia."
 tags:
   - economia
   - analisis-economico
   - econometria
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fcea.udelar.edu.uy/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-economia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fcea.udelar.edu.uy/'
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-economia"
+  - label: "Página oficial"
+    url: "https://fcea.udelar.edu.uy/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Quienes egresen de la Licenciatura en Economía poseen el dominio práctico de los marcos teóricos, las herramientas analíticas y los métodos aplicados en la disciplina y en sus campos específicos. Tiene una visión crítica y creativa para adquirir nuevos conocimientos y generar nuevas ideas. Quienes egresen de la Licenciatura en Economía podrán trabajar en las siguientes áreas: Financiera, Empresarial y de Políticas Públicas. Se podrán desarrollar también en el campo académico. Los conocimientos adquiridos permiten generar y compartir conocimiento científico y diseñar, implementar y evaluar políticas y programas públicos o de empresas, proyectos privados y de otras organizaciones. También podrán analizar la coyuntura macroeconómica y de economías sectoriales o regionales, así como del entorno económico, sin perder de vista los aspectos sociales y éticos. La fortaleza de la formación está fundada en la combinación de excelencia académica y diversidad de ideas, tanto desde la perspectiva de los intereses personales como de la visión del mundo de cada estudiante. La calidad profesional adquirida permite enfrentar con éxito exigentes estudios de postgrado, y también insertarse laboralmente en los ámbitos público y privado. Las capacidades adquiridas permiten desarrollar una amplia gama de actividades, desde participar en la reflexión sobre un problema hasta apoyar en la formulación de un plan de acción. De acuerdo al perfil elegido, quien egresa está capacitado para colaborar en la formulación, implementación y análisis de políticas públicas (fiscal, laboral o de salud), en el asesoramiento a empresas privadas (en temas de inversión o financieros) y otras organizaciones, así como para iniciar una trayectoria académica orientada a la generación y transmisión de conocimiento científico. En esta línea, y en el marco del Plan de Estudios 2012, se construyeron "trayectorias sugeridas" para cuatro perfiles de egreso de los economistas, los cuales están vinculados a su desempeño laboral en las siguientes áreas de actuación profesional: Políticas públicas Financiero Empresarial Académico
+Quienes egresan poseen el dominio práctico de los marcos teóricos, las herramientas analíticas y los métodos aplicados de la disciplina, con visión crítica y creativa para generar conocimiento e ideas.
+
+Trabajan en las áreas financiera, empresarial y de políticas públicas, o en el campo académico: diseñan, implementan y evalúan políticas y programas públicos o privados, analizan la coyuntura macroeconómica y sectorial, y el Plan 2012 ofrece trayectorias sugeridas en cuatro perfiles: políticas públicas, financiero, empresarial y académico.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Sin previas. Cuenta con dos períodos de inscripción al año. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Ver requisitos: https://fcea.udelar.edu.uy/ingreso-a-fcea.html
+- Sin previas: egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- Dos períodos de inscripción al año.
+- Ver requisitos: https://fcea.udelar.edu.uy/ingreso-a-fcea.html.

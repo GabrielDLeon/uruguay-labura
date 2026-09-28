@@ -12,35 +12,31 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+credits: 80
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=76"
 location: "Facultad de Medicina"
-description: "Especialización en Neurodesarrollo, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: ""
+description: "Especialización en Neurodesarrollo (1 año, 80 créditos) de la Facultad de Medicina (Udelar). Se dicta bajo el formato de Diplomatura. Requiere tesis. La postulación es continua y la inscripción está en curso."
 tags:
   - medicina
   - neurodesarrollo
   - neurologia
   - pediatria
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=76'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=76'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/2-Diplomaturas/NEURODESARROLLO.pdf
+Especialización en Neurodesarrollo (1 año, 80 créditos) de la Facultad de Medicina (Udelar). Se dicta bajo el formato de Diplomatura. Requiere tesis. La postulación es continua y la inscripción está en curso. Se desarrolla en: Hospital Pereira Rossell, Neuropediatria.
 
 ### Referentes académicos
 
@@ -48,12 +44,10 @@ Gabriel Gonzalez
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Escuela de Graduados de la Facultad de Medicina. La postulación es continua y la inscripción está en curso.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/2-Diplomaturas/NEURODESARROLLO.pdf
+- Hospital Pereira Rossell, Neuropediatria — Tel.: 27093597

@@ -7,21 +7,17 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-oftalmologia"
 location: "Facultad de Medicina"
-description: "Los Licenciados en Oftalmología están capacitados para realizar exámenes de rutina como: medida capacidad visual, medida tensión ocular y manejo de aparatos: refractómetros, lensómetros y todos aquellos que sean incorporados a la consulta oftalmológica. Realiza en exclusividad estudios contribuyente"
-startDate: ""
-applicationDeadline: ""
+description: "Los Licenciados en Oftalmología están capacitados para realizar exámenes de rutina como: medida capacidad visual, medida tensión ocular y manejo de aparatos: refractómetros, lensómetros y todos aquellos que sean incorporados a la consulta oftalmológica. Realiza en exclusividad estudios contribuyentes a la valoración del estado funcional del paciente tales como: estudio diplopia, estudios motores y sensoriales incluyendo medidas pre y post operatorias del estrabismo, discriminación cromática, adaptometría, Amsler, campo visual con todas las técnicas utilizadas: convencionales, automatizadas y/o computarizadas. Rehabilitación en pacientes con visión subnormal para su inserción en el medio. Responsable de la recuperación visual del niño estrábico. Colabora integrando el equipo multidisciplinario en la profilaxis de la salud visual. Se capacita para instrumentaciones en cirugías de oftalmología encargándose de todo instrumental y material quirúrgico de la especialidad."
 tags:
   - medicina
   - oftalmologia
   - optometria
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -29,8 +25,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-oftalmologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-oftalmologia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-oftalmologia'
 ---
 
 ## Resumen
@@ -38,6 +32,10 @@ sources:
 ### Sobre la Carrera
 
 Los Licenciados en Oftalmología están capacitados para realizar exámenes de rutina como: medida capacidad visual, medida tensión ocular y manejo de aparatos: refractómetros, lensómetros y todos aquellos que sean incorporados a la consulta oftalmológica. Realiza en exclusividad estudios contribuyentes a la valoración del estado funcional del paciente tales como: estudio diplopia, estudios motores y sensoriales incluyendo medidas pre y post operatorias del estrabismo, discriminación cromática, adaptometría, Amsler, campo visual con todas las técnicas utilizadas: convencionales, automatizadas y/o computarizadas. Rehabilitación en pacientes con visión subnormal para su inserción en el medio. Responsable de la recuperación visual del niño estrábico. Colabora integrando el equipo multidisciplinario en la profilaxis de la salud visual. Se capacita para instrumentaciones en cirugías de oftalmología encargándose de todo instrumental y material quirúrgico de la especialidad.
+
+### Duración y cursado
+
+**Duración:** 4 años (3733 horas) · **Sede:** Facultad de Medicina (Montevideo) · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

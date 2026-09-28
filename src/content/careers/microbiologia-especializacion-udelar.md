@@ -11,48 +11,42 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+credits: 845
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=33"
 location: "Facultad de Medicina"
-description: "Especialización en Microbiología, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: "Escuela de Graduados Facultad de Medicina"
+description: "Especialización en Microbiología (3 años, 845 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso."
 tags:
   - medicina
   - microbiologia
   - bacteriologia
   - biologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=33'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=33'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/MICROBIOLOG%C3%8DA.pdf
+Especialización en Microbiología (3 años, 845 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso. Se desarrolla en: Instituto De Higiene.
 
 ### Referentes académicos
 
-Profesro Doctor G. Algorta
+Profesor Doctor G. Algorta
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Escuela de Graduados de la Facultad de Medicina. La postulación es continua y la inscripción está en curso.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/MICROBIOLOG%C3%8DA.pdf
+- Instituto De Higiene — Tel.: 24875795

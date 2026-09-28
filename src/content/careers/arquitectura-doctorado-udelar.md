@@ -12,20 +12,20 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+credits: 430
+contactEmail: "posgradoyep@fadu.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=99"
 location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
-description: "OBJETIVOS Son objetivos del Doctorado en Arquitectura promover la formación de recursos humanos con capacidad para desarrollar conocimientos de primer nivel y adoptar nuevos enfoques en el pensamiento del diseño con particular énfasis en lo arquitectónico."
-startDate: ""
-applicationDeadline: ""
+description: "Doctorado gratuito de 3 años (430 créditos) que forma investigadores con capacidad para desarrollar conocimiento original y nuevos enfoques en el pensamiento del diseño arquitectónico. Inscripción en curso."
+applicationDeadline: "2026-10-01"
 tags:
   - arquitectura
   - diseno-arquitectonico
   - diseno
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -60,3 +60,17 @@ ADMISIÓN Y SELECCIÓN DE CANDIDATOS Podrán acceder al Programa de Doctorado de
 ### Programa
 
 Actividad Programada: La Actividad Programada mínima se compone de un Seminario de Técnicas de Investigación y un Coloquio Doctoral, instancias de carácter obligatorio para todos aquellos candidatos admitidos al programa. Seminario de Técnicas de Investigación – 75 horas presenciales, 15 créditos El Seminario de Técnicas de Investigación constituye una instancia preparatoria para la realización de la Tesis y el núcleo metodológico específico del programa de Doctorado en Arquitectura. Será su objetivo la profundización de cuestiones teóricas, metodológicas y técnicas, relevantes y necesarias para la investigación a desarrollar en la tesis doctoral, y la discusión hacia un abordaje epistemológico propio de las disciplinas proyectuales que la Facultad de Arquitectura nuclea. Coloquio Doctoral – 75 horas presenciales, 15 créditos El Coloquio Doctoral es una instancia colectiva de intercambio académico.Está destinado a analizar problemas metodológicos aplicados mediante el estudio de las cuestiones que plantea el proceso de investigación y el análisis de experiencias concretas de trabajo, dando cuenta de aspectos comunes y de la diversidad de enfoques y estrategias concurrentes. Estará organizado en dos etapas. La etapa inicial estará orientada a exponermetodologías de investigación aplicadas a casos específicos. La segunda etapa estará dirigida al seguimiento y evaluación periódica de la formulación de los temas de tesis de los estudiantes.
+
+## Inscripción
+
+### Convocatoria
+
+Inscripción en curso hasta el 01/10/2026. La postulación es on-line en el sitio web de la Facultad de Arquitectura (Casa Centenario, Sarmiento 2340, Montevideo).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

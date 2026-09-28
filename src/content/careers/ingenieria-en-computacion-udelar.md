@@ -10,17 +10,15 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "ingenieria"
-area: "Tecnologías de la Información"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "40 horas"
 duration: "5 años"
 credits: 450
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-en-computacion"
-description: "Ingeniería en Computación de 5 años ofrecida por la Facultad de Ingeniería de UDELAR en el CENUR Litoral Norte, sedes Paysandú y Salto."
-location: "Paysandú, Salto"
+description: "La formación del ingeniero en computación apunta a una cobertura amplia y coherente en la planificación, desarrollo, mantenimiento y aplicación de sistemas computarizados. El egresado adquiere una formación amplia en Computación con eventual profundización en alguna subárea, capaz de desarrollar sistemas y de integrarse a proyectos de mayor porte. Se dicta en la Facultad de Ingeniería (Montevideo) y en el Cenur Litoral Norte (Paysandú y Salto)."
+location: "Facultad de Ingeniería; Paysandú; Salto"
 accreditation: "UDELAR"
 tags:
   - informatica
@@ -30,7 +28,12 @@ tags:
   - programa-roberto-rocca
 draft: false
 createdAt: "2026-06-01 00:29:35"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
+sources:
+  - label: 'Ficha Udelar'
+    url: 'https://udelar.edu.uy/carrera/ingenieria-en-computacion'
+  - label: 'Facultad de Ingeniería'
+    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-en-computaci%C3%B3n'
 ---
 
 ## Resumen
@@ -52,17 +55,12 @@ Durante la carrera se pueden obtener los siguientes títulos:
 
 Al culminar la Ingeniería, el egresado puede continuar su formación en programas de posgrado.
 
-### Comunidades
-
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-- Egresados de Educación Media Superior (Bachillerato) o del Ciclo Inicial Optativo Científico Tecnológico (CIO-CT)
-- Los estudiantes que no cumplan los requisitos pueden inscribirse al CIO-CT y luego ingresar a la carrera
+- Bachillerato Diversificado de Enseñanza Secundaria, opción Físico-Matemática.
+- Bachillerato Tecnológico (DGETP-UTU) de Procesamiento y Mantenimiento Informático, Termodinámica, Electromecánica y Electrónica, Mecánica Automotriz, Diseño y Tecnología de la Construcción.
+- Oficiales del Ejército (Escuela Militar), egresados de la Escuela Militar de Aeronáutica y de la Escuela Naval.
 
-### Ciclo Inicial Optativo
-
-Los estudiantes que no cumplan los requisitos directos de ingreso pueden inscribirse al **Ciclo Inicial Optativo Científico Tecnológico (CIO-CT)**. Una vez alcanzados 80 créditos, pueden ingresar a Ingeniería en Computación.
-
-Las unidades curriculares del CIO-CT trayectoria Licenciatura en Computación incluyen Cálculo, Álgebra Lineal, Matemática Discreta y Programación 1, entre otras.
+La carrera completa se dicta en la Facultad de Ingeniería (Montevideo). En el Cenur Litoral Norte (Paysandú y Salto) el dictado se habilita de forma progresiva: consultar la oferta vigente en la sede.

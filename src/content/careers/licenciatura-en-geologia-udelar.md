@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-geologia"
 location: "Facultad de Ciencias"
 description: "Las personas que egresan de la Licenciatura en Geología poseen una formación que les permite el estudio integral y a todas las escalas del subsuelo y los materiales que lo componen, así como la evolución geológica de nuestro planeta."
-startDate: ""
-applicationDeadline: ""
 credits: 360
 tags:
   - geologia
   - ciencias-de-la-tierra
   - mineralogia
   - hidrogeologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

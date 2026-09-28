@@ -12,35 +12,31 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "18 meses"
+credits: 291
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=73"
 location: "Facultad de Medicina"
-description: "Especialización en Transplante de Progenitores Hematopéyicos, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: ""
+description: "Especialización en Transplante de Progenitores Hematopéyicos (18 meses, 291 créditos) de la Facultad de Medicina (Udelar). Se dicta bajo el formato de Diplomatura. Requiere tesis. La postulación es periódica; el catálogo no publica llamado con fecha de cierre vigente."
 tags:
   - medicina
   - hematologia
   - oncologia
   - transplantes
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=73'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=73'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/2-Diplomaturas/TRANSPLANTE%20DE%20PROGENITORES%20HEMATOPOY%C3%89TICOS.pdf
+Especialización en Transplante de Progenitores Hematopéyicos (18 meses, 291 créditos) de la Facultad de Medicina (Udelar). Se dicta bajo el formato de Diplomatura. Requiere tesis. La postulación es periódica; el catálogo no publica llamado con fecha de cierre vigente. Se desarrolla en: Hospital de Clínicas, piso 8.
 
 ### Referentes académicos
 
@@ -48,12 +44,10 @@ Liliam Diaz
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Escuela de Graduados de la Facultad de Medicina. La postulación es periódica; el catálogo no publica llamado con fecha de cierre vigente.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/2-Diplomaturas/TRANSPLANTE%20DE%20PROGENITORES%20HEMATOPOY%C3%89TICOS.pdf
+- Hospital de Clínicas, piso 8 — Tel.: 24871515 / interno 2568

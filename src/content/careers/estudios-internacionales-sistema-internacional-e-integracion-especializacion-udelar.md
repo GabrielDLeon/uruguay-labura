@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
 cost: "Arancelada"
+credits: 94
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=88"
-location: "Facultad de Ciencias Sociales"
-description: "Objetivo General Especializar a docentes, investigadores, analistas y tomadores de decisión en el campo de las Relaciones Internacionales y otras Ciencias Sociales en general, de las tendencias más salientes en las relaciones internacionales contemporáneas y de los desarrollos científicos alcanzados"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Diploma de Especialización en Estudios Internacionales (1 año, 94 créditos). Especializa a docentes, investigadores, analistas y tomadores de decisión en las tendencias de las relaciones internacionales contemporáneas y sus desarrollos científicos. Arancelado ($U 54.000), con tesis."
 tags:
   - ciencias-sociales
   - relaciones-internacionales
   - integracion-regional
   - diplomacia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +32,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=88'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=88'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -50,15 +50,15 @@ Los estudiantes que aprueben todos los cursos y la monografía final obtendrán 
 
 Nicolas Pose - Damian Rodriguez
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 El diploma de posgrados en Estudios Internacionales se dicta desde el año 1995 y es organizado por el Programa en Estudios Internacionales de la Facultad de Ciencias Sociales de la Universidad de la República. Esta propuesta académica está orientada a docentes, investigadores, analistas en interesados en el estudio de los problemas inherentes a las relaciones internacionales.
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

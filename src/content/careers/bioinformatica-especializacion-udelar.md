@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+credits: 60
+contactEmail: "bioinformatica@pedeciba.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=53"
-location: "Facultad de Ciencias, Montevideo"
-description: "La Bioinformática es una aproximación científica netamente multidisciplinaria que se encuentra en la interfase entre varias disciplinas científicas tradicionales, tales como Biología, Informática, Matemática, Química y Física. Los importantes avances registrados en la tecnología computacional permiten el acceso a sofisticadas herramientas informáticas para organi"
-startDate: ""
-applicationDeadline: "Facultad de Ciencias inicia expediente y Facultad de Ingeniería contin"
+location: "Facultad de Ciencias, Facultad de Medicina, Facultad de Química, Facultad de Ingeniería, Montevideo"
+description: "Diploma gratuito de 1 año (60 créditos) en bioinformática: uso de herramientas informáticas para organizar y analizar información biológica y bioquímica (genómica, proteínas, transcriptómica). Programa PEDECIBA compartido por Ciencias, Medicina, Química e Ingeniería. Sin convocatoria vigente."
 tags:
   - bioinformatica
   - biologia
   - informatica
   - computacion-cientifica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -50,3 +49,19 @@ Dr. Álvaro Martín (Coordinador académico)
 ### Programa
 
 http://www.pedeciba.edu.uy/bioinformatica/documentos/DIPLOMA_DE_ESPECIALIZACION_EN_BIOINFORMATICA.pdf
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título universitario de grado en áreas afines (Biología, Informática, Matemática, Química, Física o Medicina) y aceptación de un orientador del programa, según el Reglamento General de Posgrados del PEDECIBA.
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 01/07/2017–31/07/2017). El expediente se inicia en Facultad de Ciencias y continúa en Facultad de Ingeniería.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

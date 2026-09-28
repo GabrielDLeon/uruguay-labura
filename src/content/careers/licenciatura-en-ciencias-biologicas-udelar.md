@@ -11,23 +11,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-ciencias-biologicas"
 location: "Facultad de Ciencias"
-description: "El perfil más específico dependerá de la orientación: Biofísica: estudia los procesos físicos asociados al funcionamiento de los seres vivos como el funcionamiento de las redes neuronales en los sistemas cognitivos (cerebro y resto del sistema nervioso), o la entrada y salida de sustancias a través de las membranas en las células."
-startDate: ""
-applicationDeadline: ""
+description: "Forma profesionales en orientaciones como biofísica, biología celular y molecular, biomatemática, botánica, ecología, etología, evolución, genética, limnología, microbiología, neurociencias, oceanografía, zoología, fisiología y nutrición, biotecnología y paleontología."
 credits: 360
 tags:
   - biologia
   - ciencias-naturales
   - biofisica
   - neurociencias
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

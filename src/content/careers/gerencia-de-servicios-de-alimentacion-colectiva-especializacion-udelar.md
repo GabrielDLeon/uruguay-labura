@@ -12,30 +12,29 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=18&idPosgrado=98"
 location: "Escuela de Nutrición"
-description: "Desarrollar competencias profesionales de gestión para liderar procesos de cambio e innovación organizacional que contribuyan a los objetivos de calidad de los servicios de alimentación colectiva, desde una perspectiva ética y de reflexión crítica."
-startDate: ""
-applicationDeadline: ""
+description: "Especialización de 18 meses (60 créditos, 40 cupos) que forma Licenciados en Nutrición en la gerencia de servicios de alimentación colectiva."
 tags:
   - administracion
   - gestion
   - alimentacion
   - industria-alimentaria
-draft: true
-createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=18&idPosgrado=98'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=18&idPosgrado=98'
+    url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=18&idPosgrado=98
+  - label: 'Ficha del programa en el CAP (PDF)'
+    url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=18&idPosgrado=98
+  - label: 'Posgrados de la Escuela de Nutrición'
+    url: https://www.nutricion.edu.uy/?page_id=1381
+draft: false
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-09-28 21:00:00"
 ---
-
 ## Resumen
 
 ### Objetivo
@@ -46,18 +45,23 @@ Desarrollar competencias profesionales de gestión para liderar procesos de camb
 
 El Centro de Posgrado de la Escuela de Nutrición, se propone la creación de una especialización en Gerencia en Servicios de Alimentación Colectiva dirigida a Licenciadas y Licenciados en Nutrición, buscando que el egresado fortalezca sus competencias en gestión para contribuir a la transformación de los servicios de alimentación en organizaciones modernas y exitosas. A su vez, se promoverá la aplicación del método científico para la investigación y el diseño de proyectos de mejora para elevar la calidad del servicio de las instituciones en las cuales se desempeñe. El perfil del Especialista en Gerencia en Servicios de Alimentación Colectiva será predominantemente profesional; las actividades programadas y los trabajos a desarrollar se orientarán hacia el área de la gestión.
 
-### Referentes académicos
+### Plan de estudios
 
-Prof. Claudia Suarez
+- **Duración:** 18 meses.
+- **Créditos:** 60 créditos de cursos.
+- **Plan de estudios:** 2019.
+- **Título otorgado:** Especialista en Gerencia de Servicios de Alimentación Colectiva.
+- **Requiere tesis.**
+El programa de la especialización se estructura en torno a dos ejes: Un componente de formación teórica con 5 módulos temáticos. Un componente de formación práctica que comprende la experiencia de campo del especialista La duración prevista es de 3 semestres incluyendo la realización de un trabajo final, con una carga horaria total de 900 horas y 60 créditos.
 
 ## Ingreso
 
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
-Formulario de inscripción Curriculum Vitae Carta de motivación
+- Formulario de inscripción.
+- Curriculum vitae.
+- Carta de motivación.
 
-## Plan de Estudio
+### Inscripción
 
-### Unidades curriculares
-
-El programa de la especialización se estructura en torno a dos ejes: Un componente de formación teórica con 5 módulos temáticos Un componente de formación práctica que comprende la experiencia de campo del especialista La duración prevista es de 3 semestres incluyendo la realización de un trabajo final, con una carga horaria total de 900 horas y 60 créditos.
+Inscripción en la Escuela de Nutrición (Montevideo). Sin convocatoria vigente publicada en el CAP (estado de inscripción: no definido). Cupos: 40.

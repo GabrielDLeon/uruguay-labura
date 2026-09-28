@@ -11,24 +11,24 @@ institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
-modality: "presencial"
+modality: "hibrido"
 shift: "day"
-weeklyHours: "No especificado"
+duration: "30 meses"
+credits: 139
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=81"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "OBJETIVO GENERAL: El objetivo general de la Maestría en Finanzas es ofrecer formación superior de nivelcuaternario en el área de Finanzas, que permita a los graduados disponer de losmayores niveles de calidad y cobertura curricular a los que se pueda acceder en elpaís y estar en condiciones de ingresar directamente en cursos de doctorado en elexterior, o en los futuros que se organicen en Uruguay."
-startDate: ""
-applicationDeadline: ""
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Magíster en Finanzas (139 créditos con tesis): formación cuaternaria en finanzas corporativas y economía financiera, con nivel para continuar doctorados y desempeñarse en organizaciones públicas y privadas y en políticas financieras. Clases mixtas, preferentemente en horario matutino."
 tags:
   - finanzas
   - finanzas-corporativas
   - inversiones
   - mercado-de-capitales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=81'
@@ -40,32 +40,26 @@ sources:
 
 ### Objetivo
 
-OBJETIVO GENERAL: El objetivo general de la Maestría en Finanzas es ofrecer formación superior de nivel cuaternario en el área de Finanzas, que permita a los graduados disponer de los mayores niveles de calidad y cobertura curricular a los que se pueda acceder en el país y estar en condiciones de ingresar directamente en cursos de doctorado en el exterior, o en los futuros que se organicen en Uruguay. El Magister en Finanzas contará con la capacitad para desempeñarse tanto en organizaciones públicas como en organizaciones privadas así como en la definición de políticas en el área financiera, tanto a nivel de empresas y organizaciones, como a nivel macroeconómico . Tendrá asimismo la capacidad para visualizar a las Finanzas como una disciplina asociada, no solo a la Administración Financiera sino también a la Economía Financiera . En particular, se pretende con esta propuesta alcanzar los siguientes objetivos específicos: Que los participantes puedan acceder a un elevado nivel científico y técnico profesional en los aspectos esenciales de las Finanzas a partir de un núcleo básico de asignaturas. Que, sobre la base de una formación en la frontera del conocimiento, los participantes puedan actualizar y profundizar en aspectos específicos en base a las opciones presentadas a través de un conjunto de asignaturas elegibles. Que los participantes puedan acceder a un nivel de formación similar al que obtendrían al egresar de una Maestría en universidades de reconocido prestigio internacional con especialización en Finanzas y asimismo estar en condiciones de continuarlos a nivel de Doctorado. Que los participantes se encuentren en condiciones de responder con eficacia y eficiencia a las exigencias de la actividad profesional, en posiciones directivas o gerenciales de nivel superior en el área de Finanzas. Que cuenten con una formación sólida para desempeñar tareas docentes y de investigación en Finanzas. Que puedan interactuar con profesionales de diversas formaciones, aportando valor desde sus conocimientos financieros específicos. Adquirir destrezas en el manejo del software financiero BLOOMBERG el cual permite interiorizarse de la actividad de los mercados financieros globales, completando la formación académica, y facilita el acceso y el procesamiento de la información para la generación de trabajos de investigación. Normal 0 21 false false false ES-UY X-NONE X-NONE
+Ofrecer formación superior cuaternaria en Finanzas con la mayor calidad y cobertura del país, habilitando el ingreso a doctorados, con dominio de la administración financiera y la economía financiera a nivel de empresas y macroeconómico.
 
 ### Perfil de egreso
 
-El Magister en Finanzas estará capacitado para desarrollar con mayor nivel de profundidad y especialización las siguientes actividades dentro de una organización: Establecer y sistematizar los objetivos y las políticas generales en materia de obtención o utilización de recursos en el área de Finanzas. Ejercer funciones directivas como conductor y tomador de decisiones necesarias para la consecución de las políticas establecidas en el área. Integrar la función directiva en materia de Finanzas con el resto de las áreas de la organización, concibiendo a esta última en su globalidad y buscando direccionar las políticas específicas en materia de Finanzas hacia la misión y visión de la organización. Con este marco, el magister contará, tanto con la capacidad para diagnosticar los problemas que atentan contra la eficacia y eficiencia organizacional y gerenciar los cambios necesarios en su área de especialidad así como con la capacidad para definir, diseñar e implantar sistemas elaborados de información tendientes a apoyar la toma de decisiones gerenciales.
-
-### Referentes académicos
-
-Prof. Cr. Esteban Lemes
-
-### Docentes
-
-El cuerpo docente es uno de los factores más importantes que asegura la calidad del Programa de Maestría. Está integrado por un destacado grupo de docentes locales y del exterior, con sólida formación académica, antecedentes docentes y fuerte experiencia práctica. Se complementan los contenidos académicos con el planteamiento de temas de interés, abordados porinvitados con experiencia en temas profesionales específicos. Se podrá encontrar un detalle del plantel docente en el siguiente link: https://fcea.udelar.edu.uy/plantel-docente-maestria-finanzas.html
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-Los requisitos para postularse a la Maestría en Finanzas son: Haber obtenido un grado universitario en la Universidad de la República o en otra Universidad de nivel reconocido, en carreras de al menos cuatro años de duración. Preferentemente tener experiencia laboral. Tener conocimientos del idioma inglés (como mínimo a nivel de lectura). Para formalizar su postulación al Programa de Posgrados: https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html
+Magísteres capaces de fijar objetivos y políticas del área financiera, conducir decisiones, integrar finanzas con la misión global de la organización, diagnosticar problemas de eficacia y diseñar sistemas de gestión financiera.
 
 ## Plan de Estudio
 
 ### Programa
 
-La Maestría en Finanzas tendrá dos grupos: 1. Para la obtención de la Maestría en Finanzas para quienes no hayan cursado el Posgrado de Especialización en Finanzas: La Maestría en Finanzas tendrá una duración de dos años de cursos, más un trabajo final. Para la obtención del título de Magíster en Finanzas se requiere la aprobación de 139 créditos , equivaliendo cada crédito a 15 horas de trabajo. Los 139 créditos necesarios para completar la maestría se distribuirán de la siguiente manera: Asignaturas Obligatorias del Núcleo Básico: 51 créditos Asignaturas Opcionales: 48 créditos Seminario sobre tópicos de metodología de la investigación: 10 créditos Tesis: 30 créditos Modalidad de clases Las clases de la Maestría en Finanzas se brindarán en modalidad mixta, en su mayoría en forma presencial con algunas instancias en forma virtual sincrónica. Los residentes en el interior o exterior del país podrán realizar todas las asignaturas en forma virtual sincrónica a través de la aplicación zoom en salones especialmente equipados para tales fines. Días y horarios de clase: las clases se desarrollarán preferentemente en horario matutino de 8:00 a 10:30 horas.
+Dos años de cursos más tesis, 139 créditos: 51 del núcleo básico, 48 de opcionales, 10 del seminario de metodología de investigación y 30 de tesis (quienes ya cursaron la Especialización en Finanzas tienen un recorrido abreviado).
 
-### Unidades curriculares
+Modalidad mixta, mayormente presencial con instancias virtuales sincrónicas; el interior y exterior cursan en virtual sincrónico. Clases preferentemente en horario matutino de 8:00 a 10:30.
 
-Las asignaturas obligatorias del Núcleo Básico son las siguientes: Métodos Cuantitativos Contexto Macroeconómico de la Firma Taller de Tributación y Sociedades Comerciales Administración Financiera de la Empresa Finanzas Internacionales Economía Financiera Riesgos Financieros e Instrumentos Derivados Finanzas en Países Emergentes Responsabilidad Social de la Empresa y Ética de las Organizaciones Las asignaturas opcionales – a título enunciativo -, son las siguientes (*): Administración de la Liquidez y del Capital del Trabajo Mercados e Instrumentos Financieros Finanzas de Instituciones Financieras Valuación de Empresas Taller de Titularización Economías Emergentes y Funcionamiento de los Mercados Financieros: Casos Prácticos Aplicados a la Gestión de Deuda y de Riesgos Macroeconómicos de Uruguay Gestión de Riesgo Finanzas Comportamentales Gestión del Patrimonio en la Empresa Familiar Taller de Manejo de Renta Fija Bloomberg Modelos Portafolios de Renta Fija Formulación Evaluación de Proyectos Política y Estrategia Empresarial Marco Jurídico de las Operaciones de Financiamiento (*) O ferta que se ajusta en forma anual
+## Ingreso
+
+### Requisitos de Ingreso
+
+Destinado a graduados universitarios (o con formación equivalente) con un mínimo de 4 años de estudios. El título de grado puede pertenecer a la Universidad de la República, a universidades del exterior de nivel reconocido o a universidades del país con nivel de educación superior. La admisión la resuelve la Dirección Académica del posgrado en base a escolaridad, antecedentes y experiencia profesional.
+
+### Inscripción y arancel
+
+Posgrado arancelado: monto total publicado en CAP de $ 742.700 (pesos uruguayos, referencia 2026; verificar actualización). Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy. Último período de inscripción publicado: 22/10/2024 al 29/03/2025. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en el Centro de Posgrados.

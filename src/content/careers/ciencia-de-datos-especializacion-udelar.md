@@ -1,34 +1,26 @@
 ---
 title: "Especialización en Ciencia de Datos"
-similar:
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - inteligencia-artificial-y-ciencia-de-datos-ucu
-  - ciencia-de-datos-aplicada-maestria-udelar
-  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
-  - ingenieria-de-datos-e-inteligencia-artificial-um
-  - maestria-en-ciencia-de-datos-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=52"
 location: "Facultad de Ingeniería, Montevideo"
-description: "El diploma de Especialización en Ciencia de Datos se dirige a profesionalesinteresados en la temática, que deseen especializarse en el análisis de datos y lainteligencia artificial. La formación de grado en general encara aspectos técnicos y lasolución de problemas de cada área específica."
-startDate: ""
-applicationDeadline: "Facultad de Ingenieria"
+description: "El diploma de Especialización en Ciencia de Datos se dirige a profesionales interesados en la temática, que deseen especializarse en el análisis de datos y la inteligencia artificial. La formación de grado en general encara aspectos técnicos y la solución de problemas de cada área específica."
+contactEmail: "cpap@fing.edu.uy"
 tags:
   - ciencia-de-datos
   - inteligencia-artificial
   - machine-learning
   - informatica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=52'
@@ -46,22 +38,27 @@ El diploma de Especialización en Ciencia de Datos se dirige a profesionales int
 
 Un profesional de ciencia de datos es aquella persona que aplica con solvencia las metodologías de la ciencia de datos. Cuenta con formación en estadística y computación, siendo capaz de modelar problemas reales en forma creativa y abstracta. El egresado adquirirá la capacidad de aplicar con solvencia los temas de estudio incluidos en la Especialización en un amplio rango de áreas de aplicación. Asimismo, adquirirá los elementos metodológicos que junto con la capacidad de abordar bibliografía especializada, le permitan comprender y emplear las nuevas tecnologías para el análisis de datos en su actividad profesional. Se espera que el egresado de esta especialización tenga la capacidad para: Recopilar, procesar y extraer valor de fuentes de datos heterogéneas. Abstraer y formular hipótesis de forma creativa para extraer conocimiento, que puedan responderse mediante el análisis de datos. Identificar, seleccionar y aplicar los métodos más apropiados de análisis de datos y aprendizaje automático al problema específico. Dominar la tecnología necesaria para analizar datos mediante paquetes de software especializados y procesar los datos que los mismos requieren. Mantenerse actualizado en la bibliografía referente a los puntos anteriores. Presentar sus conclusiones, en forma visual y escrita, a los no científicos de datos.
 
-### Referentes académicos
+### Datos del programa
 
-Dra Ing Aiala Rosá aialar@fing.edu.uy
+- **Título otorgado:** Especialista en Ciencia de Datos
+- **Plan de estudios:** 2020
+- **Duración:** 18 meses
+- **Créditos:** 60 (60 de cursos)
+- **Tesis:** No
+- **Postulación:** Continua, sin fecha de cierre (inscripción en curso según CAP)
+- **Costo:** Arancelada (Monto para estudiantes con nacionalidad uruguaya: $U 300.000 Monto para estudiantes sin nacionalidad uruguaya: $U 300.000)
+- **Ficha CAP actualizada:** 24/03/2026
 
 ## Ingreso
 
-### Reglamento
+### Requisitos de ingreso
 
-Se requiere el 80% de asistencia para la aprobación de los cursos y un mínimo de 3 en la escala de calificaciones y un máximo de 12. Estructura de gobierno que rige el posgrado: -Director de Instituto. Pro Director de Posgrados Scapa Informática. Referentes de carreras de posgrado.
+Podrán ingresar al diploma de Especialización Ciencia de Datos quienes cumplan con al menos una de las siguientes condiciones:
+- Condición 1: Contar con un título de grado en carreras que incluyan formación en matemática e informática, otorgado por la Universidad de la República de al menos 360 créditos.
+- Condición 2: Contar con formación equivalente que, a juicio de la Comisión de Posgrado, permita la realización y aprovechamiento del Plan de Estudios del diploma de Especialización en Ciencia de Datos o Maestría en Ciencia de Datos Aplicada.
 
-### Requisitos de Ingreso
+### Inscripción y contacto
 
-Podrán ingresar al diploma de Especialización Ciencia de Datos quienes cumplan con al menos una de las siguientes condiciones: *Condición 1: Contar con un título de grado en carreras que incluyan formación en matemática e informática, otorgado por la Universidad de la República de al menos 360 créditos. *Condición 2: Contar con formación equivalente que, a juicio de la Comisión de Posgrado, permita la realización y aprovechamiento del Plan de Estudios del diploma de Especialización en Ciencia de Datos o Maestría en Ciencia de Datos Aplicada.
-
-## Plan de Estudio
-
-### Unidades curriculares
-
-Análisis de Datos Interrelacionados Análisis de Textos Análisis en series temporales Análisis Multidimensional de Grandes Volúmenes de Datos Análisis Multivariado Computacional Aprendizaje Automático Aplicado Bases de Datos de Grafos Calidad e Integración de Datos Fundamentos de informática urbana: análisis y procesamiento de datos Introducción a la estadística usando software Modelado y procesamiento de grandes volúmenes de datos Optimización Aplicada Técnicas de aprendizaje automático Visualización de Datos Fundamentos y herramientas para Minería de Procesos de Negocio
+Inscripción: Facultad de Ingenieria.
+Contacto: cpap@fing.edu.uy.
+La inscripción se encuentra en curso, sin fecha de cierre (verificado en CAP).

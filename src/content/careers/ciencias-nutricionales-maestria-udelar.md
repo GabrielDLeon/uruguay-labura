@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+contactEmail: "dae@fcien.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=98"
-location: "Facultad de Agronomía, Montevideo"
+location: "Facultad de Ciencias, Facultad de Agronomía (Montevideo)"
 description: "​El programa de Maestría en Ciencias Nutricionales (MCNut) tiene como objetivo consolidar investigadores o profesionales de alto nivel en la generación y aplicación del conocimiento en nutrición y su interfase con el hombre o el animal, con la calidad nutricional de los productos de origen animal o vegetal y con el ambiente."
-startDate: ""
-applicationDeadline: ""
 tags:
   - nutricion
   - nutricion-animal
   - alimentos
   - ciencia-y-tecnologia-de-alimentos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -73,3 +72,13 @@ El Plan de Estudios de la Maestría tiene una duración de 2 años y está const
 ### Unidades curriculares
 
 http://fisionut.fcien.edu.uy/cursos.htm
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en Facultad de Ciencias (Bedelía: dae@fcien.edu.uy) y Facultad de Agronomía.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

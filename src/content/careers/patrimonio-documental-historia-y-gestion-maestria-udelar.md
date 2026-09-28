@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+cost: "Gratuita"
+credits: 90
+contactEmail: "coordinacion.posgrados@fic.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=96&idPosgrado=98"
-location: "Facultad de Información y Comunicación"
-description: "Brindar herramientas que permitan una mejora de los procesos de formación eninvestigación, tomando en cuenta las necesidades del país respecto a la recuperación,conservación y difusión del patrimonio documental histórico. Profundizar la capacitación y formación continua de profesionales a partir de lacomplementación de enfoques en relación al patrimonio documental en sus diversosformatos."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Información y Comunicación, Montevideo"
+description: "Maestría en Patrimonio Documental: Historia y Gestión (90 créditos: 60 curriculares y 30 de tesis), de la FIC. Mejora la formación en investigación para la recuperación, conservación y difusión del patrimonio documental histórico, con capacitación continua y estrategias de difusión de acervos. Gratuita, con tesis. Última postulación: setiembre-octubre de 2021."
 tags:
   - historia
   - patrimonio-documental
   - archivologia
   - gestion-documental
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

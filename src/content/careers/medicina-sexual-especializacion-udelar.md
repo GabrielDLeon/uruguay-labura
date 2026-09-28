@@ -12,34 +12,30 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 80
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=63"
 location: "Facultad de Medicina"
-description: "Especialización en Medicina Sexual, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: ""
+description: "Especialización en Medicina Sexual (2 años, 80 créditos) de la Facultad de Medicina (Udelar). Se dicta bajo el formato de Diplomatura. Requiere tesis. La postulación es periódica; el catálogo no publica llamado con fecha de cierre vigente."
 tags:
   - medicina
   - medicina-sexual
   - salud-sexual
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=63'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=63'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/2-Diplomaturas/MEDICINA%20SEXUAL.pdf
+Especialización en Medicina Sexual (2 años, 80 créditos) de la Facultad de Medicina (Udelar). Se dicta bajo el formato de Diplomatura. Requiere tesis. La postulación es periódica; el catálogo no publica llamado con fecha de cierre vigente. Se desarrolla en: Pereira Rossell, Clínica Ginecotológica A.
 
 ### Referentes académicos
 
@@ -47,12 +43,10 @@ Profesor Doctor Leonel Briozzo
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Escuela de Graduados de la Facultad de Medicina. La postulación es periódica; el catálogo no publica llamado con fecha de cierre vigente.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/2-Diplomaturas/MEDICINA%20SEXUAL.pdf
+- Pereira Rossell, Clínica Ginecotológica A — Tel.: 27099122

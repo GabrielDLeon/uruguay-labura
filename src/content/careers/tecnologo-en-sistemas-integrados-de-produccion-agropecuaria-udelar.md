@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-sistemas-integrados-de-produccion-agropecuaria"
 location: "Cerro Largo"
-description: "El egresado estará capacitado para colaborar con actividades de extensión, asistencia técnica e investigación relacionados a la implantación y gerenciamiento de sistemas silvopastoriles. El profesional estará capacitado a elaborar, aplicar y monitorear programas profilácticos e higiénicos en la producción animal, y reali"
-startDate: ""
-applicationDeadline: ""
+description: "El egresado estará capacitado para colaborar con actividades de extensión, asistencia técnica e investigación relacionados a la implantación y gerenciamiento de sistemas silvopastoriles. El profesional estará capacitado a elaborar, aplicar y monitorear programas profilácticos e higiénicos en la producción animal, y realizar vigilancia epidemiológica de la situación sanitaria de los animales."
 credits: 270
 tags:
   - agronomia
@@ -29,9 +25,9 @@ tags:
   - produccion-animal
   - produccion-vegetal
   - silvicultura
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/tecnologo-en-sistemas-integrados-de-produc'

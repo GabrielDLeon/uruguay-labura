@@ -11,20 +11,19 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+cost: "Gratuita"
+credits: 318
+contactEmail: "cad@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=98"
-location: "Facultad de Ciencias Sociales"
-description: "El Programa de Doctorado es un programa estratégico de la Facultad de Ciencias Sociales iniciado en el año 2005, que consolida su estructura académica y se suma a los planes de desarrollo de la Universidad de la República mediante el establecimiento del tercer nivel de formación universitaria."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Doctorado en Economía (3 años, 318 créditos). Programa estratégico de tercer nivel de la Facultad de Ciencias Sociales, orientado a la producción de investigación original en economía. Gratuito, con tesis."
 tags:
   - economia
   - analisis-economico
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -32,6 +31,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=98'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=98'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Doctorado en Economía – FCS'
+    url: 'https://cienciassociales.edu.uy/departamento-de-economia/ensenanza-de-posgrado/doctorado-en-economia/'
 ---
 
 ## Resumen
@@ -52,15 +55,15 @@ LEANDRO ZIPITRIA - LUIS FRONES
 
 El Programa está dirigido por la Comisión Académica de Doctorado (CAD) integrada por los coordinadores de los referidos doctorados. Los Directores de tesis, Directores académicos, docentes y/o integrantes de los tribunales en el Programa deberán poseer título de Doctor o equivalente y acreditar una alta dedicación a la tarea de investigación.
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 El Programa de Doctorado de la Facultad de Ciencias Sociales tiene como meta la formación de académicos de alto nivel de especialización. Ello se logra a través de un programa competitivo en términos de capacitación científica de tercer ciclo, con especial énfasis en la obtención de una formación de excelencia en la investigación el área seleccionada. En consecuencia, el Programa se centra en la elaboración de una tesis que deberá constituir un trabajo original -teórico o aplicado-, que aporte a la literatura nuevos elementos. https://cienciassociales.edu.uy/wp-content/uploads/2020/02/Normativa_Doctorado_FCS.pdf
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

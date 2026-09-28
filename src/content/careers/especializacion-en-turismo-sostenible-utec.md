@@ -1,7 +1,6 @@
 ---
 title: "Especialización en Turismo Sostenible"
 similar:
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - licenciatura-en-turismo-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
   - programa-de-posgrado-en-agua-y-desarrollo-sostenible-utec

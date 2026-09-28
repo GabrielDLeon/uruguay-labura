@@ -1,5 +1,5 @@
 ---
-title: "Especialización en Discapacidad en Lo Social"
+title: "Especialización en Discapacidad en lo social"
 similar:
   - licenciatura-en-trabajo-social-udelar
   - licenciatura-en-trabajo-social-ucu
@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
 cost: "Arancelada"
+credits: 88
+contactEmail: "diploma.discapacidad@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=83"
-location: "Facultad de Ciencias Sociales"
-description: "Objetivo General : Generar procesos de enseñanza-aprendizaje en torno a la discapacidad como construcción social desde y para la investigación y/o intervención. Objetivos Específicos: • Promover el análisis de la temática de la discapacidad en su procesualidad y devenir nacional, latinoamericano y e"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Diploma de Especialización en Discapacidad en lo social (2 años, 88 créditos). Genera procesos de enseñanza-aprendizaje sobre la discapacidad como construcción social, para la investigación y la intervención, con análisis crítico nacional, latinoamericano y europeo. Arancelado ($U 68.000), con tesis."
 tags:
   - ciencias-sociales
   - discapacidad
   - inclusion-social
   - intervencion-social
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +33,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=83'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=83'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -54,15 +55,15 @@ MARIA NOEL MIGUEZ
 
 Mag. Alfonsina Angelino ​Dra. María José Bagnato Dra. Andrea Benvenuto Dr. Gildas Bregain Dra. Mónica De Martino Dra. Verónica Filardo Dra. María Noel Míguez Dra. Agustina Palacios Dra. Silvia Rivero Dr. Adrian Scribano Mag. Indiana Vallejos Mag. Andrea Viera
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 El diploma «Discapacidad en lo social» del Departamento de Trabajo Social de la Facultad de Ciencias Sociales busca dar respuesta a la cada vez mayor demanda de conocimiento de la discapacidad desde el modelo social y brindar componentes de especialización en torno a la temática en la intervención en lo social, así como herramientas para la producción de conocimiento que pueden orientar hacia estudios de posgrados más avanzados. Además, este posgrado propone una mirada transnacional (Uruguay, Argentina, Francia y Colombia) e interdisciplinaria (Trabajo Social, Psicología, Historia, Filosofía, Sociología, Derecho, Ingeniería, Pedagogía, entre otras) desde el equipo docente, lo cual potencia los procesos de enseñanza y aprendizaje y los vínculos a nivel nacional y a nivel internacional. Se aspira, de esta manera, a generar una instancia de formación de posgrado, con especificidad en la discapacidad, que potencie el análisis crítico de la temática desde distintas disciplinas que intervienen y/o investigan. Podrán postularse egresados/as de educación terciaria apuntando a la mayor confluencia de disciplinas en el estudiantado, de manera de enriquecer y potenciar el diálogo de saberes. Por más información: https://cienciassociales.edu.uy/diploma-en-discapacidad-en-lo-social/
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

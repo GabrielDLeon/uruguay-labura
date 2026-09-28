@@ -12,41 +12,38 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/filosofia"
 location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "Se propone formar investigadores que sean capaces de intervenir activa, crítica y propositivamente en procesos educativos de las más diversas características. Para ello, se propone centrar la formación en el estudio de la especificidad de los fenómenos educativos, a partir de una sólida preparación en investigación y enseñan"
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Licenciatura en Filosofía de 4 años (360 créditos, Plan 2010) en la FHCE. Fomenta el espíritu crítico, la autonomía de criterio, la amplitud metodológica y el trabajo interdisciplinario, con trayectoria curricular flexible e inserción en ámbitos diversos."
 tags:
   - filosofia
   - humanidades
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fhce.edu.uy/licenciatura-en-filosofia/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/filosofia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fhce.edu.uy/licenciatura-en-filosofia/'
+    url: "https://udelar.edu.uy/carrera/filosofia"
+  - label: "Página oficial"
+    url: "https://fhce.edu.uy/licenciatura-en-filosofia/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Se propone formar investigadores que sean capaces de intervenir activa, crítica y propositivamente en procesos educativos de las más diversas características. Para ello, se propone centrar la formación en el estudio de la especificidad de los fenómenos educativos, a partir de una sólida preparación en investigación y enseñanza. El egresado estará en condiciones de intervenir profesionalmente en los campos de la educación formal y no formal en toda su extensión, tanto desde la investigación de los fenómenos educativos; la enseñanza en aspectos vinculados a su formación particular; la asesoría en temas educativos en instituciones y organizaciones; los procesos vinculados a la concepción, implementación y evaluación de políticas educativas; el diseño curricular en su más amplia expresión y la coordinación de proyectos educativos.
+La licenciatura procura fomentar en el egresado el espíritu crítico, la autonomía de criterio, la amplitud metodológica, la capacidad de trabajo interdisciplinario y la responsabilidad social, para desarrollar actividades específicas con plenitud técnica y ética.
+
+La formación se basa en una trayectoria curricular flexible (Plan 2010) que promueve egresados capaces de insertarse en los más diversos ámbitos, con vocación de participar en la construcción del desarrollo integral del país.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Egresados de Magisterio, INET, IPA o Udelar.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- También egresados de Magisterio, INET, IPA o Udelar.

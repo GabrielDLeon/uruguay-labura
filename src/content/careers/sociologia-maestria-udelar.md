@@ -5,28 +5,26 @@ similar:
   - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
   - licenciatura-en-sociologia-ucu
   - sociologia-doctorado-udelar
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 180
+contactEmail: "maestria.soc@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=37"
-location: "Facultad de Ciencias Sociales"
-description: "La Maestría en Sociología tiene como objetivo formar profesionales al más alto nivel académico en el país en el campo de la investigación social y de las teorías sociológicas contemporáneas, que los habiliten para desempeñarse como expertos en los ámbitos de formulación, diseño y gestión de políticas y programas de desarrollo social en organismos públicos y privados nacionales e internacionales."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría en Sociología (2 años, 180 créditos). Forma profesionales del más alto nivel académico en investigación social y teorías sociológicas contemporáneas, habilitados como expertos en formulación, diseño y gestión de políticas y programas de desarrollo social. Gratuita, con tesis."
 tags:
   - sociologia
   - ciencias-sociales
   - investigacion-social
   - politicas-publicas
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +32,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=37'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=37'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -50,13 +50,13 @@ PABLO HEIN - MARIA JULIA ACOSTA
 
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 
 ### Programa
 
-El programa está organizado en cuatro semestres. Los dos primeros tienen una mayor carga en teorías y ofrecen una profundización en las orientaciones teóricas contemporáneas y aplicadas a las líneas de investigación del Departamento de Sociología. Los dos últimos están diseñados para lograr un avance sistemático en la elaboración de las tesis, por ello la mayor carga metodológica y de talleres de tesis. El objetivo de la Maestría es ofrecer una formación en conocimientos contemporáneos actualizados, y a la vez ofrecer que el/la estudiante modele su perfil propio. Para ello los módulos tienen créditos mínimos pero no máximos. Por mas información: https://cienciassociales.edu.uy/departamentos/departamento-de-sociologia/maestria-en-sociologia/
+El programa está organizado en cuatro semestres. Los dos primeros tienen una mayor carga en teorías y ofrecen una profundización en las orientaciones teóricas contemporáneas y aplicadas a las líneas de investigación del Departamento de Sociología. Los dos últimos están diseñados para lograr un avance sistemático en la elaboración de las tesis, por ello la mayor carga metodológica y de talleres de tesis. El objetivo de la Maestría es ofrecer una formación en conocimientos contemporáneos actualizados, y a la vez ofrecer que el/la estudiante modele su perfil propio. Para ello los módulos tienen créditos mínimos pero no máximos. Por más información: https://cienciassociales.edu.uy/departamentos/departamento-de-sociologia/maestria-en-sociologia/
 
 ### Unidades curriculares
 

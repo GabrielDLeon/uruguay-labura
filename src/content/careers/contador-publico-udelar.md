@@ -12,17 +12,13 @@ institution: "udelar"
 degreeType: "carrera"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/contador-publico"
 location: "Facultad de Ciencias Económicas y de Administración"
-description: "Quienes egresen tendrán la capacidad de participar en el diseño, implementación y aplicación de sistemas tributarios, así como asesorar en esta materia a las organizaciones. También podrán ser parte de la evolución y desarrollo de sociedades y asociaciones y podrán realizar peritajes y actuar en pro"
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Carrera de Contador Público de 4 años (360 créditos) en la FCEA. Forma profesionales capaces de diseñar sistemas contables y tributarios, auditar estados financieros, realizar peritajes y asesorar organizaciones públicas y privadas."
 tags:
   - contabilidad
   - tributacion
@@ -30,26 +26,30 @@ tags:
   - asesoramiento-empresarial
   - peritaje
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/7538-contador-publico-2024.html'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/contador-publico'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/7538-contador-publico-2024.html'
+    url: "https://udelar.edu.uy/carrera/contador-publico"
+  - label: "Página oficial"
+    url: "https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/7538-contador-publico-2024.html"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Quienes egresen tendrán la capacidad de participar en el diseño, implementación y aplicación de sistemas tributarios, así como asesorar en esta materia a las organizaciones. También podrán ser parte de la evolución y desarrollo de sociedades y asociaciones y podrán realizar peritajes y actuar en procedimientos judiciales que refieran a la actividad de una empresa, liquidaciones y rendiciones de cuentas. Además podrán monitorear y evaluar los procesos de información y control y participar en la preparación, revisión y análisis de estados financieros. Podrán trabajar en organismos estatales e integrar equipos multidisciplinarios, así como iniciar una trayectoria académica. Campos de actuación profesional: Concebir, diseñar, implantar y administrar sistemas de registración, información y control, considerando los recursos humanos y tecnológicos más adecuados para ello. Asesorar a la dirección de las organizaciones en la interpretación de la información y presentarla adecuadamente para terceras personas interesadas. Monitorear, evaluar y opinar sobre los procesos de información y control. Participar en la preparación, revisión y análisis de estados proyectados. Efectuar trabajos de revisión y evaluación de la información contable emitiendo los informes correspondientes, de acuerdo a las normas profesionales y legales. Asesorar en materia tributaria a todo tipo de organización. Participar en el diseño e implementación de sistemas tributarios. Intervenir en la constitución, fusión, escisión, liquidación y disolución de sociedades y asociaciones. Integrar equipos multidisciplinarios con el objetivo de preparar y evaluar proyectos de inversión. Asesorar en la aplicación de técnicas de adopción de decisiones a nivel empresarial. Asesorar a la dirección de las organizaciones sobre la necesidad de determinar los posibles efectos que sus decisiones pueden ocasionar en el medio social y ambiental en que las mismas tienen lugar, así como en su capital humano. Realizar los trabajos que la legislación encomienda al/a Contador/a Público/a en el ámbito judicial y extrajudicial, tales como peritajes, actuaciones en procedimientos judiciales que refieran a la materia contable, liquidaciones y rendiciones de cuenta. Actuar a nivel de organismos estatales en todas las actividades cuya participación está establecida en el derecho positivo y en aquellas funciones relacionadas con las actividades de las organizaciones referidas en los puntos anteriores. Iniciar una trayectoria académica orientada a la generación y transmisión de conocimiento científico.
+Quienes egresan participan en el diseño, implementación y aplicación de sistemas tributarios y asesoran en la materia; intervienen en la evolución de sociedades y asociaciones; realizan peritajes y actúan en procedimientos judiciales sobre la actividad empresarial, liquidaciones y rendiciones de cuentas.
+
+Monitorean y evalúan procesos de información y control, y participan en la preparación, revisión y análisis de estados financieros. Pueden trabajar en organismos estatales, integrar equipos multidisciplinarios e iniciar trayectoria académica.
+
+El título otorgado es **Contador Público**.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Sin previas. Cuenta con dos períodos de inscripción al año. Egresado de cualquier Bachillerato (Secundaria o DGETP-UTU). Ampliar información: https://fcea.udelar.edu.uy/ingreso-a-fcea.html
+- Sin previas: egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- Dos períodos de inscripción al año.
+- Ampliar información: https://fcea.udelar.edu.uy/ingreso-a-fcea.html.

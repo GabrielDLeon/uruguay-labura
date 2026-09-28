@@ -11,22 +11,20 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+credits: 260
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=20"
-location: "Facultad de Química"
-description: "Maestrías y Doctorados: No se dispone de planes de estudio aprobados para estas titulaciones, pero se está trabajando activamente en los mismos y se encuentran en vías de aprobación, en éstos se establece el perfil de los egresados (Nº de expediente: 004091-000088-22, Integrado con Número Expe+: 101160-001771-20)."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Química, Montevideo"
+description: "Doctorado gratuito en Química con orientación en Educación en Química (planes de estudio en vías de aprobación): forma investigadores para la enseñanza e investigación educativa en química, con tesis. Postulación continua."
 tags:
   - quimica
   - educacion
   - ensenanza-de-ciencias
   - didactica
   - formacion-docente
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -69,3 +67,13 @@ Estructura del plan de estudio. Los planes de estudios tanto en lo relativo a cu
 ### Unidades curriculares
 
 El estudiante deberá cumplir con un plan de trabajo individual mínimo de 260 créditos (1 crédito = 15 horas de trabajo) integrados por la Actividad Programada y un trabajo de Tesis. El plan deberá incluir un Director Académico y un Director de Tesis. La Actividad Programada deberá reunir un mínimo de 60 créditos, de los cuales al menos 50 créditos serán de cursos de posgrado y los restantes podrán ser acreditados por pasantías u otras actividades formativas. La misma deberá definirse en acuerdo entre el Director Académico y el estudiante, y deberá equilibrarse de manera que el estudiante profundice en su formación fundamental y adquiera los conocimientos necesarios para abordar la realización de la Tesis exitosamente. El Programa curricular contendrá alguna de las siguientes materias centrales: • Química Analítica • Química Biológica • Fisicoquímica • Química Inorgánica • Química Orgánica Los créditos de las actividades programadas realizadas por el estudiante durante su Maestría serán asignados automáticamente como créditos correspondientes al Doctorado. En el caso de que la formación haya sido adquirida en instituciones externas a Udelar, deberá cumplirse previamente con el procedimiento previsto en la normativa imperante en materia de reválidas, y en caso de corresponder con lo previsto en convenios de cotutela o movilidad. El trabajo de Tesis será individual y tendrá una dedicación de 200 créditos, siendo la duración mínima de los estudios de 3 años. En la elaboración de la Tesis, el estudiante deberá alcanzar el estado del arte y desarrollar un análisis en profundidad del tema elegido. El manuscrito de la Tesis deberá contener una correcta exposición del tema encarado, una discusión de la bibliografía internacional actualizada, y deberá incluir los detalles necesarios para la comprensión de los objetivos perseguidos y de los resultados y conclusiones alcanzadas durante el trabajo. La Tesis deberá ser defendida públicamente frente a un tribunal. Los requisitos específicos del plan de trabajo, Director Académico y de Tesis, y tribunal evaluador, se especifican en el Reglamento de las Carreras de Postgrado de la Facultad de Química. (https://www.fq.edu.uy/sites/default/files/sites/all/themes/professional_theme/images/Reglamento%202022.pdf).
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en Facultad de Química (planes de estudio en vías de aprobación).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

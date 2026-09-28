@@ -12,29 +12,23 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-psicologia"
 location: "Facultad de Psicología; Paysandú; Salto"
-description: "Desde una perspectiva crítica, el licenciado en Psicología reconocerá la necesidad de la deconstrucción de los problemas de interés general con los actores sociales implicados, reconociendo la característica política del saber universitario y el lugar de poder que le es asignado desde el campo social."
-startDate: ""
-applicationDeadline: ""
+description: "Desde una perspectiva crítica, el licenciado en Psicología reconocerá la necesidad de la deconstrucción de los problemas de interés general con los actores sociales implicados, reconociendo la característica política del saber universitario y el lugar de poder que le es asignado desde el campo social. Se apuntará a la producción de conocimientos originales vinculados a la Psicología, desarrollando un trabajo en diálogo con otros saberes, contribuyendo a generar una actitud interdisciplinaria para abordar las diferentes problemáticas."
 credits: 320
 tags:
   - psicologia
   - ciencias-sociales
   - psicologia-social
   - salud-mental
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Página oficial'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-psicologia'
-  - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-psicologia'
 ---
 
@@ -43,6 +37,10 @@ sources:
 ### Sobre la Carrera
 
 Desde una perspectiva crítica, el licenciado en Psicología reconocerá la necesidad de la deconstrucción de los problemas de interés general con los actores sociales implicados, reconociendo la característica política del saber universitario y el lugar de poder que le es asignado desde el campo social. Se apuntará a la producción de conocimientos originales vinculados a la Psicología, desarrollando un trabajo en diálogo con otros saberes, contribuyendo a generar una actitud interdisciplinaria para abordar las diferentes problemáticas.
+
+### Duración y cursado
+
+**Duración:** 5 años (320 créditos) · **Sedes:** Facultad de Psicología (Montevideo), Salto y Paysandú · **Costo:** Gratuita.
 
 ## Ingreso
 

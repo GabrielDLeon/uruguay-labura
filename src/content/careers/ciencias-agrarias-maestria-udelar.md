@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+cost: "Gratuita"
+contactEmail: "upep@fagro.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=21"
 location: "Facultad de Agronomía, Montevideo"
-description: "El objetivo general consiste en la formación de recursos humanos capacitados paracomprender los procesos del sector agropecuario a través de una profundización en laformación teórica y metodológica, la actualización de los conocimientos y laestimulación del aprendizaje autónomo y la iniciativa personal de los maestrandos.El egresado estará especial aunque no únicamente capacitado para participar enactividades de investigación y a la vez identificar,"
-startDate: ""
-applicationDeadline: "Unidad de Posgrados y Educación Permanente - Facultad de Agronomía"
+description: "Maestría gratuita de 2 años (100 créditos) que profundiza la formación teórica y metodológica en Ciencias Agrarias, con tesis de investigación. Prepara para investigar y proponer soluciones a la problemática del sector agropecuario."
 tags:
   - agronomia
   - agropecuario
   - produccion-animal
   - produccion-vegetal
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -69,3 +68,17 @@ Los estudiantes deben completar un mínimo de 100 créditos, de los cuales 60 co
 ### Unidades curriculares
 
 Los estudiantes deben completar un mínimo de 100 créditos, de los cuales 60 corresponden a cursos y actividades programadas (seminarios I y II) y 40 a trabajo de tesis. Los estudiantes deben tomar un mínimo de 12 créditos de cursos generales. No se encuentran definidas otras unidades curriculares obligatorias.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación por llamados específicos; sin convocatoria vigente (último período: 15/10/2025–15/11/2025). La inscripción se realiza en la Unidad de Posgrados y Educación Permanente de la Facultad de Agronomía (Av. Garzón 780, primer piso, Montevideo).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Unidad de Posgrados y Educación Permanente: upep@fagro.edu.uy (tel. 099 75 30 70).

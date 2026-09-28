@@ -12,47 +12,48 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "36 meses"
+credits: 320
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=92"
 location: "Facultad de Odontología, Montevideo"
-description: "Doctorado en Ciencias Odontológicas, dictado por la Facultad de Odontología."
-startDate: ""
-applicationDeadline: ""
+description: "Doctorado de 36 meses (200 créditos de cursos más tesis, Plan 2019) para la formación de investigadores capaces de producir conocimiento original en ciencias odontológicas. Otorga el título de Doctor en Ciencias Odontológicas."
 tags:
   - odontologia
   - salud-bucal
   - salud
-draft: true
-createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=92'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=92'
+    url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=92
+  - label: 'Ficha del programa en el CAP (PDF)'
+    url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=92
+  - label: 'Doctorado en Ciencias Odontológicas (FO)'
+    url: https://odon.edu.uy/sitio/doctorado/
+draft: false
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-09-28 21:00:00"
 ---
-
 ## Resumen
 
-### Sobre la Carrera
+### Plan de estudios
 
-Doctorado en Ciencias Odontológicas, dictado por la Facultad de Odontología.
+- **Duración:** 36 meses.
+- **Créditos:** 200 créditos de cursos más 120 créditos de tesis.
+- **Plan de estudios:** 2019.
+- **Título otorgado:** Doctor en Ciencias Odontológicas.
+- **Requiere tesis.**
 
 ## Ingreso
 
-### Reglamento
+### Requisitos de ingreso
 
-https://odon.edu.uy/sitio/wp-content/uploads/2024/11/REGLAMENTO-DE-LA-MAESTRIA-V.-4_9_20.pdf
+Contar con título de Magíster o méritos equivalentes, tener conocimiento de inglés (comprensión lectora y oral) y presentar un proyecto de investigación con un director de tesis que lo avale. La selección la realiza el Consejo de la Facultad a propuesta de la Escuela de Graduados.
 
-### Requisitos de Ingreso
+### Inscripción
 
-https://odon.edu.uy/sitio/maestria/#1723657492244-595a43fd-c615
+Inscripción en la Facultad de Odontología - Escuela de Graduados. Sin convocatoria vigente publicada en el CAP (estado de inscripción: no definido).
 
-## Plan de Estudio
+### Contacto
 
-### Programa
-
-https://odon.edu.uy/sitio/wp-content/uploads/2024/11/OPCION-ODONTOPEDIATRIA.pdf
+Consultas: escueladegraduados@odon.edu.uy (tel. 2487 3048 / 2487 2719, int. 151); bedeliaposgrados@odon.edu.uy (SGAE, actas, defensas y título). Atención presencial de lunes a viernes de 9 a 13 y de 13:30 a 15:30 h. Facultad de Odontología, Las Heras 1925, Montevideo.

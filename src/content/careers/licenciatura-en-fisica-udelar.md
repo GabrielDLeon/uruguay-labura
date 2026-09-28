@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-fisica"
 location: "Facultad de Ciencias"
-description: "Las personas que egresan de la Licenciatura en Física son profesionales que conjugan una comprensión profunda de los conceptos y principios de la física con una capacidad para aplicarlos en la práctica a fenómenos naturales y procesos tecnológicos. Poseen habilidades y destrezas para plantear, anali"
-startDate: ""
-applicationDeadline: ""
+description: "Las personas que egresan conjugan una comprensión profunda de los conceptos y principios de la física con la capacidad de aplicarlos a fenómenos naturales y procesos tecnológicos. Plantean, analizan y resuelven problemas teóricos y experimentales, construyen modelos y actúan con creatividad, ética profesional y rigor científico."
 credits: 360
 tags:
   - fisica
   - ciencias-exactas
   - astrofisica
   - fisica-nuclear
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

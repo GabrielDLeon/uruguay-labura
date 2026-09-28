@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-de-alimentos"
 location: "Facultad de Química"
-description: "El Ingeniero en Alimentos participa en la adecuación de modelos y métodos a la realidad de las organizaciones vinculadas al sector alimentario, para definir las características de sus problemas en el contexto científico-técnico, económico y socio-político en que actúa. Los egresados están capacitado"
-startDate: ""
-applicationDeadline: ""
+description: "El Ingeniero en Alimentos adecúa modelos y métodos a la realidad de las organizaciones del sector alimentario. Participa en el diseño y dirección de procesos y plantas de producción, la formulación de productos, la gestión de la calidad, la selección y mantenimiento de equipos, y las decisiones en políticas alimentarias."
 credits: 450
 tags:
   - ingenieria-en-alimentos
@@ -29,7 +25,7 @@ tags:
   - industria-alimentaria
   - tecnologia-de-alimentos
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

@@ -12,20 +12,19 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+cost: "Gratuita"
+credits: 178
+contactEmail: "cad@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=56"
-location: "Facultad de Ciencias Sociales"
-description: "El Programa de Doctorado es un programa estratégico de la Facultad de Ciencias Sociales iniciado en el año 2005, que consolida su estructura académica y se suma a los planes de desarrollo de la Universidad de la República mediante el establecimiento del tercer nivel de formación universitaria."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Doctorado en Ciencias Sociales con especialización en Trabajo Social (3 años, 178 créditos; título de Doctor en Trabajo Social). Programa estratégico de tercer nivel de la Facultad de Ciencias Sociales, orientado a la producción de investigación original en trabajo social. Gratuito, con tesis."
 tags:
   - ciencias-sociales
   - trabajo-social
   - intervencion-social
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -33,6 +32,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=56'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=56'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Doctorado en Ciencias Sociales – FCS'
+    url: 'https://cienciassociales.edu.uy/doctorado-en-ciencias-sociales/'
 ---
 
 ## Resumen
@@ -53,15 +56,15 @@ SANDRA LEOPOLD
 
 El Programa está dirigido por la Comisión Académica de Doctorado (CAD) integrada por los coordinadores de los referidos doctorados. Los Directores de tesis, Directores académicos, docentes y/o integrantes de los tribunales en el Programa deberán poseer título de Doctor o equivalente y acreditar una alta dedicación a la tarea de investigación.
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 El Programa de Doctorado de la Facultad de Ciencias Sociales tiene como meta la formación de académicos de alto nivel de especialización. Ello se logra a través de un programa competitivo en términos de capacitación científica de tercer ciclo, con especial énfasis en la obtención de una formación de excelencia en la investigación el área seleccionada. En consecuencia, el Programa se centra en la elaboración de una tesis que deberá constituir un trabajo original -teórico o aplicado-, que aporte a la literatura nuevos elementos. https://cienciassociales.edu.uy/wp-content/uploads/2020/02/Normativa_Doctorado_FCS.pdf
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-POR EL MOMENTO NO HAY PERIODO DE POSTULACIÓN La inscripción de aspirantes se hará a través del formulario de inscripción tanto para postulaciones por primera vez como para reinscripciones. Para postulaciones por primera vez requisitos específicos: Curriculum Vitae completo y declaración jurada de los méritos. Títulos de Licenciatura y Maestría con sus respectivas escolaridades o documentación que acredite formacio´n equivalente, deacuerdo con los requisitos del programa de Doctorado en Ciencias Sociales. Copia de la cédula de Identidad, pasaporte o documento del país de origen. Anteproyecto de investigación de tesis de doctorado, con el siguiente contenido: justificación y objetivos; antecedentes teóricos y/o emìricos; métodología; bibliografía preliminar. El anteproyecto tendrá una extensión máxima de 10 páginas en tamaño A4, interlineado 1.5, margenes 2.5 cm., letra Time New Roman 12. Carta de aceptación del Director/a de tesis acompañada de su curriculum Vitae. En los casos en que los postulantes no cuenten con un Director/a de tesis, podrán consultar a la coordinación de los programas de los Doctorado respecto a quien puede avalar la postulación. Justificación de la importancia del Doctorado para su trayectoria académica y/o profesional, con particular mención a su adscripción institucional y disponibilidad de tiempo para realizar el programa (hasta 300 palabras). ​ En caso de reinscripciones , los postulantes deberán presentar la escolaridad, un informe de avance de la tesis, el plan de finalización de la misma y nota de aval del Director/a. ​ La CAD elevará al Consejo de Facultad una propuesta de selección de candidatos a los Doctorados específicos, de acuerdo a lo estipulado en el Programa de Doctorado de la FCS y en los Programas de cada disciplina y especialización. De ser necesario, se realizarán entrevistas con los aspirantes. ​Inicio: Mayo 2024
+**Sin convocatoria vigente.** La inscripción de aspirantes se hará a través del formulario de inscripción tanto para postulaciones por primera vez como para reinscripciones. Para postulaciones por primera vez requisitos específicos: Curriculum Vitae completo y declaración jurada de los méritos. Títulos de Licenciatura y Maestría con sus respectivas escolaridades o documentación que acredite formacio´n equivalente, deacuerdo con los requisitos del programa de Doctorado en Ciencias Sociales. Copia de la cédula de Identidad, pasaporte o documento del país de origen. Anteproyecto de investigación de tesis de doctorado, con el siguiente contenido: justificación y objetivos; antecedentes teóricos y/o emìricos; métodología; bibliografía preliminar. El anteproyecto tendrá una extensión máxima de 10 páginas en tamaño A4, interlineado 1.5, margenes 2.5 cm., letra Time New Roman 12. Carta de aceptación del Director/a de tesis acompañada de su curriculum Vitae. En los casos en que los postulantes no cuenten con un Director/a de tesis, podrán consultar a la coordinación de los programas de los Doctorado respecto a quien puede avalar la postulación. Justificación de la importancia del Doctorado para su trayectoria académica y/o profesional, con particular mención a su adscripción institucional y disponibilidad de tiempo para realizar el programa (hasta 300 palabras). ​ En caso de reinscripciones , los postulantes deberán presentar la escolaridad, un informe de avance de la tesis, el plan de finalización de la misma y nota de aval del Director/a. ​ La CAD elevará al Consejo de Facultad una propuesta de selección de candidatos a los Doctorados específicos, de acuerdo a lo estipulado en el Programa de Doctorado de la FCS y en los Programas de cada disciplina y especialización. De ser necesario, se realizarán entrevistas con los aspirantes. ​Inicio: Mayo 2024
 
 ## Plan de Estudio
 

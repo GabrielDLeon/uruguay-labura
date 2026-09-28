@@ -12,21 +12,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+credits: 60
+cost: "Gratuita"
+contactEmail: "upep@fagro.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=22"
 location: "Facultad de Agronomía, Montevideo"
-description: "Formar graduados con dominio de temas o áreas dentro de una profesión o de un campo de aplicación. Buscan ampliar la capacitación profesional con profundidad y/o extensión; en particular, a través de una formación que incluya prácticas profesionales."
-startDate: ""
-applicationDeadline: "Unidad de Posgrado y Educación Permanente - Facultad de Agronomía"
+description: "Diploma gratuito de 1 año (60 créditos) para profesionales que formulan, gestionan e implementan proyectos de desarrollo rural en ámbitos públicos y privados. Postulación anual."
+applicationDeadline: "2027-11-15"
 tags:
   - desarrollo-rural
   - agronomia
   - ciencias-sociales
   - desarrollo-sostenible
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -40,11 +40,11 @@ sources:
 
 ### Objetivo
 
-Formar graduados con dominio de temas o áreas dentro de una profesión o de un campo de aplicación. Buscan ampliar la capacitación profesional con profundidad y/o extensión; en particular, a través de una formación que incluya prácticas profesionales.
+El Diploma en Desarrollo Rural Sustentable propone un trayecto de formación profesional de 1 año destinado a los profesionales que desempeñan tareas relacionadas a la formulación, gestión e implementación de proyectos de desarrollo rural, tanto en ámbitos públicos como privados.
 
 ### Perfil de egreso
 
-Las carreras de especialización son programas de posgrado profesional de un año de duración, con el objetivo de perfeccionar al estudiante en el dominio de un área determinada dentro de la profesión agronómica o de un campo de aplicación de varias profesiones vinculadas al sector agroalimentario. El diploma en Desarrollo Rural Sustentable propone un trayecto de formación profesional destinado a los profesionales que desempeñan tareas relacionadas a la formulación, gestión e implementación de proyectos de desarrollo rural, tanto en ámbitos públicos como privados.
+Las carreras de especialización son programas de posgrado profesional de un año de duración, con el objetivo de perfeccionar al estudiante en el dominio de un área determinada dentro de la profesión agronómica o de un campo de aplicación de varias profesiones vinculadas al sector agroalimentario.
 
 ### Referentes académicos
 
@@ -69,3 +69,17 @@ Los estudiantes deben completar un mínimo de 60 créditos, de los cuales 50 cor
 ### Unidades curriculares
 
 Los estudiantes deben completar un mínimo de 60 créditos, de los cuales 50 corresponden a cursos y actividades programadas (seminario I) y 10 a un trabajo final. La currícula del Diploma en Desarrollo Rural Sustentable está diseñada para aprovechar secuencialmente los contenidos de los cursos recomendados, combinados de manera flexible con cursos optativos y tópicos especiales que el estudiante va optando según su interés y el tema de su trabajo final. Cada estudiante debe elaborar su plan de estudios para completar el Diploma en Desarrollo Rural Sustentable incluyendo un mínimo de 35 créditos dentro de esta oferta.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación periódica anual. Próximo período de inscripción: del 15/10/2027 al 15/11/2027. La inscripción se realiza en la Unidad de Posgrados y Educación Permanente de la Facultad de Agronomía (Av. Garzón 780, primer piso, Montevideo).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Unidad de Posgrados y Educación Permanente: upep@fagro.edu.uy (tel. 099 75 30 70).

@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+credits: 60
+contactEmail: "upep@fagro.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=23"
-location: "Facultad de Agronomía, Montevideo"
-description: "El objetivo general del programa es preparar a profesionales universitarios, con distintas formaciones de grado, para insertarse en los procesos y toma de decisiones propias de sector industrial. En virtud de ello se platean los siguientes objetivos específicos : Profundizar el conocimiento de los d"
-startDate: ""
-applicationDeadline: "Facultad de Agronomía"
+location: "Facultad de Veterinaria, Facultad de Agronomía (Montevideo)"
+description: "Especialización arancelada de 2 años (60 créditos) en Industria Cárnica, compartida por Veterinaria y Agronomía: prepara profesionales para procesos, decisiones y gestión estratégica del sector cárnico. Sin convocatoria vigente."
 tags:
   - alimentos
   - carnes
   - industria-alimentaria
   - tecnologia-de-alimentos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -73,3 +72,17 @@ Requiere cursar y aprobar cuatro módulos, de 15 créditos cada uno. Este progra
 ### Unidades curriculares
 
 Módulo I: Políticas Públicas en el Sector Cárnico. Módulo II: Sistemas de Producción y Valorización de la Carne. Módulo III: Productos y Procesos de la Industria Frigorífica. Módulo IV: Economía y Negocios en la Industria Cárnica.
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 15/03/2022–08/04/2022). Inscripción en Facultad de Agronomía (Unidad de Posgrados y Educación Permanente, upep@fagro.edu.uy).
+
+### Costo
+
+El programa cobra derechos universitarios: 30.000 unidades indexadas (UI).
+
+### Contacto
+
+Oficina de Posgrado de Facultad de Veterinaria: upep@fagro.edu.uy (atención al público de 10:00 a 12:00 y de 13:30 a 16:30).

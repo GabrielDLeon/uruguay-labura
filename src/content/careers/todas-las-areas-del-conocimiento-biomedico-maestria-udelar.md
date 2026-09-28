@@ -12,37 +12,33 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=2"
 location: "Facultad de Medicina"
-description: "Maestría en todas las áreas del conocimiento biomédico, dictada por la Facultad de Medicina de la Universidad de la República (UDELAR). Programa de posgrado de 24 meses de duración y 100 créditos de cursos, según el catálogo de posgrados."
-startDate: ""
-applicationDeadline: ""
+description: "Maestría en Todas las Áreas del Conocimiento Biomédico (2 años, 100 créditos) de la Facultad de Medicina (Udelar). No requiere tesis. El catálogo no publica información de llamado vigente."
 tags:
   - salud
   - biomedicina
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=2'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=2'
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Maestría en todas las áreas del conocimiento biomédico, dictada por la Facultad de Medicina de la Universidad de la República (UDELAR). Programa de posgrado de 24 meses de duración y 100 créditos de cursos, según el catálogo de posgrados.
+Maestría en Todas las Áreas del Conocimiento Biomédico (2 años, 100 créditos) de la Facultad de Medicina (Udelar). No requiere tesis. El catálogo no publica información de llamado vigente.
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se gestiona a través de la Facultad de Medicina. El catálogo no publica información de llamado vigente.

@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "18 meses"
+cost: "Gratuita"
+credits: 60
+contactEmail: "coordinacion.posgrados@fic.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=96&idPosgrado=97"
-location: "Facultad de Información y Comunicación"
-description: "Brindar herramientas que permitan una mejora de los procesos de formación eninvestigación, tomando en cuenta las necesidades del país respecto a la recuperación,conservación y difusión del patrimonio documental histórico. Profundizar la capacitación y formación continua de profesionales a partir de lacomplementación de enfoques en relación al patrimonio documental en sus diversosformatos."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Información y Comunicación, Montevideo"
+description: "Especialización en Patrimonio Documental: Historia y Gestión (18 meses, 60 créditos), de la FIC. Mejora la formación en investigación para la recuperación, conservación y difusión del patrimonio documental histórico, con capacitación continua y estrategias de difusión de acervos. Gratuita, con tesis. Última postulación: octubre de 2023."
 tags:
   - historia
   - patrimonio-documental
   - archivologia
   - gestion-documental
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

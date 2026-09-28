@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingeniero-agronomo"
 location: "Facultad de Agronomía; Salto"
 description: "Puede definirse al Ingeniero Agrónomo como el profesional universitario preparado para comprender, manejar, mejorar y transformar sistemas de producción agropecuarios con el objeto de servir al bienestar social y al desarrollo nacional sostenido. Se dicta en Montevideo y en el Centro Universitario Regional Litoral Norte, sede Salto (opción: Agrícola-ganadera)."
-startDate: ""
-applicationDeadline: ""
 credits: 450
 tags:
   - agronomia
@@ -29,9 +25,9 @@ tags:
   - produccion-animal
   - produccion-vegetal
   - ingenieria-agronomica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/'

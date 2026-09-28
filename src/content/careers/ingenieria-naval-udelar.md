@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-naval"
 location: "Facultad de Ingeniería"
-description: "El ingeniero naval está capacitado para la construcción de material naval flotante: barcos mercantes, buques pesqueros, buques de uso militar de pequeño desplazamiento, plataformas, embarcaciones especiales, embarcaciones deportivas, etcétera. A partir de su formación, posee la capacidad de dirigir"
-startDate: ""
-applicationDeadline: ""
+description: "Capacitado para la construcción de material naval flotante: barcos mercantes, buques pesqueros y militares de pequeño desplazamiento, plataformas y embarcaciones especiales y deportivas. Dirige construcciones y reparaciones navales, administra diques y astilleros y asesora a armadores."
 credits: 450
 tags:
   - ingenieria-naval
   - industria-naval
   - ingenieria
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

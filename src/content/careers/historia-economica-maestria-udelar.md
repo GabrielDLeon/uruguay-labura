@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 198
+contactEmail: "phes@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=34"
-location: "Facultad de Ciencias Sociales"
-description: "El programa de Historia Económica y Social tiene como objetivo contribuir al desarrollo de las ciencias sociales en el plano de la historia económica y social, combinando erudición histórica, ambición teórica y precisión metodológica. El Consejo e Facultad de Ciencias Sociales aprobó la creación del Diploma y la Maestría en Historia Económica el 19 de febrero de 1998."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría y Diploma en Historia Económica (2 años, 198 créditos). Contribuye al desarrollo de las ciencias sociales en historia económica y social, combinando erudición histórica, ambición teórica y precisión metodológica. Gratuita, con tesis."
 tags:
   - historia
   - historia-economica
   - historia-social
   - economia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +33,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=34'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=34'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -50,7 +51,7 @@ CECILIA LARA
 
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

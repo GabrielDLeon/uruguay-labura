@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-fisico-matematica"
 location: "Facultad de Ingeniería"
-description: "El Ingeniero Físico-Matemático estará capacitado para analizar problemas, diseñar ensayos, construir modelos físico-matemáticos y realizar simulaciones computacionales con el fin de buscar soluciones a diversos problemas científicos y tecnológicos. También podrá ayudar a encontrar, especialmente den"
-startDate: ""
-applicationDeadline: ""
+description: "Capacitado para analizar problemas, diseñar ensayos, construir modelos físico-matemáticos y realizar simulaciones computacionales en busca de soluciones científicas y tecnológicas. Es un nexo entre la Física, la Matemática y la Tecnología, con formación más profunda en ciencias básicas que las ingenierías tradicionales."
 credits: 450
 tags:
   - fisica
@@ -29,7 +25,7 @@ tags:
   - ingenieria
   - computacion-cientifica
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

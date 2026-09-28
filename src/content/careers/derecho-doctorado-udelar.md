@@ -12,22 +12,21 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "4 años"
+credits: 207
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=92"
 location: "Facultad de Derecho, Montevideo"
-description: "Los principales objetivos de la iniciativa formularda van dirigidos a : a) generar los dispositivos y posibilidades materiales para la obtención del grado académico de Doctor a quienes, por sus condiciones intelectuales, inquietudes vocacionales y capacidades académicas, aspiren postulen y sean aceptados para cursar esta carrera de posgrado, asignando especial prevalencia a la formación metodológica para la investigación, con particular consideración de"
-startDate: ""
-applicationDeadline: "posgrado@fder.edu.uy"
+contactEmail: "posgrado@fder.edu.uy"
+description: "Doctor en Derecho (207 créditos, sin cobro de derechos universitarios): programa académico centrado en la tesis (180 créditos), con formación metodológica, epistemológica y semiológica y cursos anuales de teoría, seminarios de tesis y pre-defensa pública."
 tags:
   - derecho
   - ciencias-juridicas
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=92'
@@ -39,24 +38,24 @@ sources:
 
 ### Objetivo
 
-Los principales objetivos de la iniciativa formularda van dirigidos a : a) generar los dispositivos y posibilidades materiales para la obtención del grado académico de Doctor a quienes, por sus condiciones intelectuales, inquietudes vocacionales y capacidades académicas, aspiren postulen y sean aceptados para cursar esta carrera de posgrado, asignando especial prevalencia a la formación metodológica para la investigación, con particular consideración de los abordajes epistemológicos, lógicos y semiológicos, coordinados en un diseño acorde con los objetivos del emprendimiento (para lo cual incluye módulos específicos de incumbencia), b) contribuir a desarrollar un colectivo de académicos.
+Generar las condiciones materiales para obtener el grado de Doctor, con prevalencia de la formación metodológica para la investigación (abordajes epistemológicos, lógicos y semiológicos) y contribuir a un colectivo académico en Derecho.
 
 ### Perfil de egreso
 
-El título a expedir es Doctor en Derecho, el cual es de carácter académico.
+El título de Doctor en Derecho es de carácter académico.
 
-### Referentes académicos
+## Plan de Estudio
 
-COMISIÓN DE DOCTORADO
+### Programa
+
+Cuatro años y 207 créditos formativos (27 de cursos y 180 de elaboración y defensa de tesis), Plan 2019, con 10 cupos. Cursos anuales: Teoría y Epistemología (60 horas), Seminarios de Tesis (proyecto, metodología, lógica y argumentación, aspectos formales), seminario sobre el tema de tesis, pre-defensa pública con terna evaluadora, aval del director, segunda lectura y defensa pública ante tribunal de 5 miembros (2 externos al programa).
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Podrán postularse al programa de Doctorado aquellas personas que tengan al menos un tìtulo de Magister. Asimismo también podrán hacerlo los docentes con Grados 4 y 5 .
+Título de magíster como mínimo; también pueden postularse docentes con grados 4 y 5. Inscripción escribiendo a posgrado@fder.edu.uy.
 
-## Plan de Estudio
+### Inscripción y arancel
 
-### Unidades curriculares
-
-MALLA CURRICULAR 1 CONTENIDO El total de créditos formativos del programa es de 206. De ellos, 180 corresponden a la elaboración y defensa de la tesis. Sin embargo, los doctorandos deberán cursar las asignaturas del curriculum que se detalla a continuación. Los cursos serán ofrecidos en forma anual. El contenido de la grilla que se presenta, podrá ser ajustado por disposición de la Comisión de Posgrado. 2 DESARROLLO 2.1 Teoría y Epistemología. 60 horas. El Doctorado en Derecho posee requerimientos epistemológicos específicos en correspondencia con la particular naturaleza científico humanista que la disciplina tiene. En tal sentido incluirá el Doctorado formación Metodológica y Semiológica para sus cursantes. En lo concerniente a la cuestión metodológica se dispondrá el estudio valorativo de los abordajes inductivos y de los abordajes deductivos con que se propone, desde diversas escuelas de pensamiento, la comprensión del fenómeno jurídico a cabalidad y la relación que ambas maneras de aproximación cognoscente guardan, de modo respectivo, con el pensamiento casuístico y con el pensamiento sistemático. En toda instancia se enfatizará sobre la trascendencia del pensamiento abstracto proponiendo a partir de ello la discusión y el debate críticos sobre su empleo como instrumento para el conocimiento en Derecho. En lo que posee relación con la cuestión Lingüística se incluirá de manera necesaria: a. el estudio de la Semiótica como Teoría del Lenguaje en general y del Lenguaje Jurídico en particular, recorriendo el vínculo entre el Signo y su Significado (Semántica); entre el Signo y los restantes Signos (Sintáctica) y entre el Signo y sus Operadores (Pragmática); b. el estudio de los planos sígnico y discursivo del Lenguaje en su vínculo con los Fenómenos Jurídicos y Sociales; y c. el estudio de la Teoría del Lenguaje y su especial relevancia para la creación de Modelos de Investigación en Derecho y en Ciencias Sociales. 2.2 Seminario de Tesis 1 – Aspectos preparatorios. 20 horas El diseño del proyecto consiste en la etapa preparatoria de la investigación propiamente dicha. Refiere a la concepción del plan a través del cual el investigador dará respuesta a las preguntas formuladas. El Seminario de Tesis I tiene como objeto que el candidato revise y eventualmente ajuste o fortalezca el proyecto elaborado en su postulación, para que los objetivos y el marco teórico sean coherentes con el diseño, estableciendo claramente los límites y alcance de la investigación. En particular, se analizará el recorte del objeto de estudio, los objetivos y las estrategias metodológicas seleccionadas. 2.3 Seminario de Tesis 2 – Aspectos metodológicos. 20 horas Incluirá el acompañamiento y perfeccionamiento en la aplicación de las principales herramientas metodológicas utilizables en trabajos de investigación en el área escogida, entre otros: relevamiento empírico jurisprudencial y/o factual, manejo de bibliografía y bases de datos, estudios comparativos, análisis de textos, sistematización teóricodoctrinaria. Técnicas e instrumentos de investigación en el campo social. 2.4 Seminario sobre tema objeto de tesis – 10 horas Dictado de un curso de posgrado en el área temática de la investigación del doctorando. Esta actividad podrá sustituirse por la presentación y realización de una ponencia aceptada en evento científico del exterior que se verifique durante el período de investigación y producción de la tesis doctoral y recaiga sobre la temática similar al objeto de la tesis. 2.5 Seminario de Tesis 3 – Lógica y argumentación (Optativo - 10 hs./aula) Orientado a analizar los avances alcanzados, en particular la organización, selección de las técnicas utilizadas y recursos para el procesamiento lógico argumentativo, así como el análisis de los criterios de validación en concordancia con el diseño metodológico seleccionado. 2.6 Seminario de Tesis 4 – Aspectos formales (Optativo - 10 hs./aula) Aspectos formales del texto de una tesis y normas de citación. Advertencia del plagio y falta de originalidad de la investigación y la tesis. 2.7 Presentación avances. Pre defensa (Obligatorio - 0 créditos) Exposición pública en acto formal en el ámbito del Instituto o Sala Docente (con comentarios y preguntas del auditorio). La Comisión de Posgrado designará una terna para realizar un informe sobre la exposición y pre defensa. 2.8 Aval del Director de Tesis (Obligatorio - 0 créditos) Requisito preceptivo mediante formulario protocolizado. 2.9 Segunda lectura (Obligatorio - 0 créditos) Requisito preceptivo. El lector será designado por la Comisión de Posgrado. 2.10 Defensa deTesis (Obligatorio – completa los 180 créditos) Acto público ante Tribunal con cinco miembros, de los cuales dos serán externos al Programa de Doctorado (y uno de ellos, además, deberá ser preferentemente de fuera de la Facultad de Derecho).
+Sin cobro de derechos universitarios (doctorado gratuito). Escuela de Posgrados, Facultad de Derecho (Av. 18 de Julio 1824, Montevideo) — posgrado@fder.edu.uy. Último período publicado: 03/03/2025 al 27/02/2026. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en la Escuela de Posgrados.

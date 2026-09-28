@@ -12,24 +12,20 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-artes-plasticas-y-visuales"
 location: "Rivera"
 description: "Estar capacitado/a en el manejo de las técnicas, lenguajes y demás saberes que propician la interpretación, recepción, y producción artística, atendiendo en especial las dimensiones éticas y estéticas."
-startDate: ""
-applicationDeadline: ""
 credits: 240
 tags:
   - arte
   - artes-visuales
   - artes-plasticas
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.rivera.udelar.edu.uy/artesplasticasyvisuales/'

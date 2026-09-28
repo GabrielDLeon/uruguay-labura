@@ -7,23 +7,19 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-cartografia"
 location: "Facultad de Ingeniería"
 description: "Los egresados tendrán la capacidad de resolver problemas cartográficos prácticos y participar activamente en la planificación y puesta en marcha de proyectos cartográficos, así como en la generación y dirección de emprendimientos dedicados a la obtención de productos cartográficos e incorporación y análisis de Información digital, y en la operación y diseño de sistemas de información geográfica para resolver problemas espaciales."
-startDate: ""
-applicationDeadline: ""
 credits: 180
 tags:
   - cartografia
   - topografia
   - sistemas-de-informacion-geografica
   - sig
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

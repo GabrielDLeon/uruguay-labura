@@ -12,25 +12,21 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-tecnologias-de-la-imagen-fotografica"
 location: "Paysandú"
-description: "La Tecnicatura en Tecnologías de la Imagen Fotográfica propicia el estudio de las técnicas, su diversidad creativa y usabilidad, en relación a la producción fotográfica tradicional (analógica) y las de más reciente irrupción (digital), en procura de una formación integral y crítica del estudiante. El técnico universitario en tecnologías de la imagen fotográfica: - será capa"
-startDate: ""
-applicationDeadline: ""
+description: "La Tecnicatura en Tecnologías de la Imagen Fotográfica propicia el estudio de las técnicas, su diversidad creativa y usabilidad, en relación a la producción fotográfica tradicional (analógica) y las de más reciente irrupción (digital), en procura de una formación integral y crítica del estudiante. Sus egresados desarrollan productos fotográficos acorde a principios éticos y estéticos, con capacidad de incidir en el medio social e interactuar con profesionales de otras áreas."
 credits: 240
 tags:
   - fotografia
   - arte
   - audiovisual
   - tecnologia-de-la-imagen
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-tecnologias-de-la-imagen-fotografic'

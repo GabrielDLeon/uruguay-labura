@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-radioterapia"
 location: "Facultad de Medicina"
 description: "Es el profesional universitario capacitado para el manejo de radiaciones ionizantes con fines terapéuticos y/o imagenológicos a los efectos de localización y verificación tanto en radioterapia externa como en braquiterapia."
-startDate: ""
-applicationDeadline: ""
 tags:
   - salud
   - radioterapia
   - oncologia
   - fisica-medica
   - tecnologia-medica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,8 +32,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioterapia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-radioterapia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioterapia'
 ---
 
 ## Resumen
@@ -45,6 +39,10 @@ sources:
 ### Sobre la Carrera
 
 Es el profesional universitario capacitado para el manejo de radiaciones ionizantes con fines terapéuticos y/o imagenológicos a los efectos de localización y verificación tanto en radioterapia externa como en braquiterapia.
+
+### Duración y cursado
+
+**Duración:** 3 años (3025 horas) · **Sede:** Facultad de Medicina (Montevideo) · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

@@ -12,20 +12,18 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=98"
-location: "Facultad de Ciencias"
+location: "Facultad de Ingeniería, Facultad de Ciencias, Facultad de Psicología, Montevideo"
 description: "Título otorgado: “Magíster en Ciencias Cognitivas” Perfil del egresado El egresado de la maestría en ciencias cognitivas deberá poseer una comprensión general de nociones fundamentales de algunas disciplinas distintas a la de su formación de grado."
-startDate: ""
-applicationDeadline: ""
 tags:
   - ciencias-cognitivas
   - psicologia
   - neurociencias
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -54,3 +52,19 @@ Dr. Leonel Gómez, Dr. Alejandro Maiche, Dr. Juan Carlos Valle Lisboa, Dra. Alej
 ### Programa
 
 Cursos organizados por CICEA Fundamentos de Ciencias Cognitivas y Neurociencia Cognitiva y Computacional El objetivo es mostrar las raíces filosóficas y las condiciones históricas que dieron origen a la perspectiva cognitiva y su aporte a la comprensión de los fenómenos mentales. El curso se basa en la presentación de artículos clásicos de Ciencias Cognitivas por parte de los estudiantes en forma de Seminario e incluirá instancias de clases teóricas. Docentes: Leonel Gómez­Sena, Juan Carlos Valle Lisboa, Alejandra Carboni, Alejandro Maiche, Gonzalo Tejera
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título universitario de grado y aceptación de un orientador del programa, según el Reglamento General de Posgrados del PEDECIBA. El programa es interdisciplinario (Ingeniería, Ciencias y Psicología) y requiere manejar nociones de disciplinas distintas a la formación de grado.
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 01/02/2024–29/02/2024). Inscripción en Bedelía de Facultad de Ciencias.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

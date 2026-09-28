@@ -8,24 +8,23 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=55"
-location: "Facultad de Ingeniería"
-description: "Al culminar los cursos de la Especialización, el egresado del programa será capaz de: Exponer con solvencia los principios básicos y fundamentos teóricos que semanejan en SST en su estado actual. Hacer uso de los fundamentos actuales teóricos y principales características de laGestión de la Prevención de Pérdidas en las organizaciones."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ingeniería; Facultad de Química"
+description: "Al culminar los cursos de la Especialización, el egresado del programa será capaz de: Exponer con solvencia los principios básicos y fundamentos teóricos que se manejan en SST en su estado actual. Hacer uso de los fundamentos actuales teóricos y principales características de la Gestión de la Prevención de Pérdidas en las organizaciones."
+contactEmail: "inscdesst@fq.edu.uy"
 tags:
   - seguridad-y-salud-en-el-trabajo
   - salud-ocupacional
   - medicina-del-trabajo
   - seguridad-industrial
   - higiene-industrial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=55'
@@ -37,32 +36,31 @@ sources:
 
 ### Objetivo
 
-Al culminar los cursos de la Especialización, el egresado del programa será capaz de: Exponer con solvencia los principios básicos y fundamentos teóricos que se manejan en SST en su estado actual. Hacer uso de los fundamentos actuales teóricos y principales características de la Gestión de la Prevención de Pérdidas en las organizaciones. Establecer, utilizando los fundamentos teóricos, Programas de Gestión de SST ajustados a las características de la organización de que se trate. Integrar en la etapa de proyecto las previsiones de Seguridad en el Diseño atendiendo a los potenciales peligros de la instalación o proceso. Evaluar condiciones de SST en organizaciones, procesos, instalaciones, etc.; y elaborar planes de mejora / adecuación de acuerdo a las mejores prácticas reconocidas. http://www.fq.edu.uy/sites/default/files/archivos/161101PublicDiarioOficial.pdf
+Al culminar los cursos de la Especialización, el egresado del programa será capaz de: Exponer con solvencia los principios básicos y fundamentos teóricos que se manejan en SST en su estado actual. Hacer uso de los fundamentos actuales teóricos y principales características de la Gestión de la Prevención de Pérdidas en las organizaciones. Establecer, utilizando los fundamentos teóricos, Programas de Gestión de SST ajustados a las características de la organización de que se trate. Integrar en la etapa de proyecto las previsiones de Seguridad en el Diseño atendiendo a los potenciales peligros de la instalación o proceso. Evaluar condiciones de SST en organizaciones, procesos, instalaciones, etc.; y elaborar planes de mejora / adecuación de acuerdo a las mejores prácticas reconocidas. DiarioOficial.pdf.
 
 ### Perfil de egreso
 
-Al culminar los cursos de la Especialización, el egresado del programa será capaz de: Exponer con solvencia los principios básicos y fundamentos teóricos que se manejan en SST en su estado actual. Hacer uso de los fundamentos actuales teóricos y principales características de la Gestión de la Prevención de Pérdidas en las organizaciones. Establecer, utilizando los fundamentos teóricos, Programas de Gestión de SST ajustados a las características de la organización de que se trate. Integrar en la etapa de proyecto las previsiones de Seguridad en el Diseño atendiendo a los potenciales peligros de la instalación o proceso. Evaluar condiciones de SST en organizaciones, procesos, instalaciones, etc.; y elaborar planes de mejora / adecuación de acuerdo a las mejores prácticas reconocidas. http://www.fq.edu.uy/sites/default/files/archivos/161101PublicDiarioOficial.pdf
+Al culminar los cursos de la Especialización, el egresado del programa será capaz de: Exponer con solvencia los principios básicos y fundamentos teóricos que se manejan en SST en su estado actual. Hacer uso de los fundamentos actuales teóricos y principales características de la Gestión de la Prevención de Pérdidas en las organizaciones. Establecer, utilizando los fundamentos teóricos, Programas de Gestión de SST ajustados a las características de la organización de que se trate. Integrar en la etapa de proyecto las previsiones de Seguridad en el Diseño atendiendo a los potenciales peligros de la instalación o proceso. Evaluar condiciones de SST en organizaciones, procesos, instalaciones, etc.; y elaborar planes de mejora / adecuación de acuerdo a las mejores prácticas reconocidas.
 
-### Referentes académicos
+### Datos del programa
 
-Mario Furest, Milton Vázquez, Mariella Terán y Enrique Pandolfi.
+- **Título otorgado:** Especialista en Seguridad y Salud en el Trabajo
+- **Plan de estudios:** 2016
+- **Duración:** 1 año (12 meses)
+- **Créditos:** 60 (60 de cursos)
+- **Tesis:** No
+- **Postulación:** Continua, sin fecha de cierre (inscripción en curso según CAP)
+- **Costo:** Arancelada (Monto para estudiantes con nacionalidad uruguaya: UI 37.800 Monto para estudiantes sin nacionalidad uruguaya: UI 37.800)
+- **Ficha CAP actualizada:** 29/05/2025
 
 ## Ingreso
 
-### Reglamento
-
-El estudiante deberá cumplir un plan de trabajo mínimo consistente en 60 créditos logrados a través de una Actividad Programada y un Trabajo Final. Esta Actividad Programada podrá estar constituida por cursos, estudios dirigidos y monografías. La especialización concluirá con un trabajo final. (http://www.fq.edu.uy/sites/default/files/archivos/161101PublicDiarioOficial.pdf).
-
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
 Podrán ingresar a la Especialización en Seguridad y Salud en el Trabajo quienes posean un título universitario de las siguientes carreras: Ingeniería Química, Ingeniería de los Alimentos, Ingeniería Industrial Mecánica, Ingeniería Naval, Ingeniería Eléctrica, Ingeniería Civil, Agrimensura, Químico Farmacéutico, Químico, Bioquímico Clínico, Licenciado en Química, Arquitectura o tengan antecedentes académicos suficientes a juicio de la CG -SST. Aquellos aspirantes que a juicio de la CG - SST necesiten completar actividades previas, de manera de asegurar un completo aprovechamiento de las actividades de la Especialización, deberán realizar estas actividades de nivelación antes de ser requeridas por los cursos del programa. Las actividades de nivelación no generarán créditos para la obtención del posgrado.
 
-## Plan de Estudio
+### Inscripción y contacto
 
-### Programa
-
-El estudiante deberá cumplir un plan de trabajo mínimo consistente en 60 créditos logrados a través de una Actividad Programada y un Trabajo Final. Esta Actividad Programada podrá estar constituida por cursos, estudios dirigidos y monografías. La especialización concluirá con un trabajo final. (http://www.fq.edu.uy/sites/default/files/archivos/161101PublicDiarioOficial.pdf).
-
-### Unidades curriculares
-
-La información de cartelera y el cronograma del curso pueden consultarse para cada especialista en los siguientes links: Especialista en Seguridad y Salud en el Trabajo: https://www.fq.edu.uy//es/node/730
+Inscripción: Facultad de Química - Sección Posgrado.
+Contacto: inscdesst@fq.edu.uy.
+La inscripción se encuentra en curso, sin fecha de cierre (verificado en CAP).

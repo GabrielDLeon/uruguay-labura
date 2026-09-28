@@ -9,46 +9,47 @@ similar:
   - licenciatura-en-arte-digital-y-electronico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
-degreeType: "licenciatura"
+degreeType: "tecnicatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "2 años"
+credits: 180
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/dramaturgia"
 location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "La Escuela Multidisciplinaria de Arte Dramático EMAD, unidad asociada al Instituto Escuela Nacional de Bellas Artes IENBA, a través del convenio firmado en julio de 2013 entre la Intendencia de Montevideo y la Universidad de la República Udelar, junto con la Facultad de Humanidades y Ciencias de la Educación FHCE en respuesta a la preocupación de dar unidad y mayor fuer"
-startDate: ""
-applicationDeadline: ""
-credits: 180
+description: "Tecnicatura Universitaria en Dramaturgia de 2 años (180 créditos), carrera corta compartida entre la FHCE y la Escuela Multidisciplinaria de Arte Dramático (EMAD). Cupos limitados y sin inscripciones todos los años."
 tags:
   - arte
   - artes-escenicas
   - teatro
   - dramaturgia
   - literatura
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fhce.edu.uy/tecnicatura-universitaria-en-dramaturgia/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/dramaturgia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fhce.edu.uy/tecnicatura-universitaria-en-dramaturgia/'
+    url: "https://udelar.edu.uy/carrera/dramaturgia"
+  - label: "Página oficial"
+    url: "https://fhce.edu.uy/tecnicatura-universitaria-en-dramaturgia/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-La Escuela Multidisciplinaria de Arte Dramático EMAD, unidad asociada al Instituto Escuela Nacional de Bellas Artes IENBA, a través del convenio firmado en julio de 2013 entre la Intendencia de Montevideo y la Universidad de la República Udelar, junto con la Facultad de Humanidades y Ciencias de la Educación FHCE en respuesta a la preocupación de dar unidad y mayor fuerza al estudio de la evolución cultural del país, desde diferentes enfoques disciplinarios y en perspectivas plurales, decidió implementar una carrera corta en el campo de la dramaturgia, en este caso, gestionada en conjunto con la FHCE. Carrera compartida con la Escuela Multidisciplinaria de Arte Dramático. No se abren inscripciones todos los años, cupos limitados.
+Carrera corta en dramaturgia gestionada en conjunto por la FHCE y la Escuela Multidisciplinaria de Arte Dramático (EMAD), unidad asociada al IENBA por convenio entre la Intendencia de Montevideo y Udelar.
+
+Busca dar unidad y fuerza al estudio de la evolución cultural del país desde enfoques disciplinarios plurales.
+
+El título otorgado es **Técnico Universitario en Dramaturgia**. Carrera compartida con la EMAD.
+
+**Nota:** No se abren inscripciones todos los años; cupos limitados.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP UTU. Egresados de Magisterio, INET, IPA o Udelar. Presentar una escena de autoría propia de teatro y otra escena seleccionada de una obra teatral clásica o contemporánea, y justificar la selección.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU (también Magisterio, INET, IPA o Udelar).
+- Presentar una escena de autoría propia y otra de una obra clásica o contemporánea, justificando la selección.

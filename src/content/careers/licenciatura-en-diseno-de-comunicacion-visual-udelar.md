@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-diseno-de-comunicacion-visual"
 location: "Facultad de Arquitectura, Diseño y Urbanismo"
-description: "Es un profesional con conocimientos, capacidad y habilidad para actuar en cuestiones vinculadas a: Diseño de piezas gráficas Diseño editorial Diseño de instalaciones efímeras Diseño de comunicación publicitaria Diseño multimedia Diseño de envases y embalajes Proyectos de señalética Proyectos de sist"
-startDate: ""
-applicationDeadline: ""
+description: "Forma profesionales capaces de actuar en diseño de piezas gráficas, diseño editorial, instalaciones efímeras, comunicación publicitaria, multimedia, envases y embalajes, señalética, sistemas de identidad, sistemas de información y proyectos multidisciplinarios de diseño."
 credits: 363
 tags:
   - diseno-grafico
@@ -29,7 +25,7 @@ tags:
   - comunicacion-visual
   - diseno-editorial
   - publicidad
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

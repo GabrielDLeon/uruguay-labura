@@ -1,28 +1,28 @@
 ---
 title: "Licenciatura en Ciencias de la Atmósfera"
-similar: []
+similar:
+  - licenciatura-en-fisica-udelar
+  - licenciatura-en-matematica-udelar
+  - licenciatura-en-geografia-udelar
+  - licenciatura-en-astronomia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-ciencias-de-la-atmosfera"
 location: "Facultad de Ciencias"
-description: "Las personas que egresan de la Licenciatura en Ciencias de la Atmósfera cuentan con las capacidades para plantear y atender problemas en meteorología sinóptica, observación y predicción del tiempo, climatología y variabilidad climática, con énfasis en la región del sudeste de Sudamérica. Manejan con familiaridad la jerarquía de modelos del tiempo y el clima (dinámicos, numéricos, estadísticos o combinaciones)."
-startDate: ""
-applicationDeadline: ""
+description: "Las personas que egresan cuentan con capacidades para plantear y atender problemas en meteorología sinóptica, observación y predicción del tiempo, climatología y variabilidad climática, con énfasis en el sudeste de Sudamérica. Manejan modelos del tiempo y el clima, del cambio climático global a la contaminación atmosférica. Carrera compartida entre Ciencias e Ingeniería."
 credits: 360
 tags:
   - meteorologia
   - climatologia
   - ciencias-de-la-atmosfera
   - cambio-climatico
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

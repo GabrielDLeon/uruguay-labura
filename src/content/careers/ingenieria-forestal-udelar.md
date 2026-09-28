@@ -1,5 +1,5 @@
 ---
-title: "Ingenieria Forestal"
+title: "Ingeniería Forestal"
 similar:
   - tecnico-forestal-ude
   - tecnologo-en-madera-udelar
@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-forestal"
 location: "Tacuarembó"
-description: "El egresado comprenderá una sólida formación en las ciencias básicas necesarias para su desempeño científico profesional. Deberá presentar un profundo conocimiento del funcionamiento de las plantas como organismos vivos, así como también un amplio conocimiento de los procesos de elaboración y transformación industrial de productos de origen forestal incluyendo conocimiento de máquinas y equipos permitiendo de esta manera que el egresado actúe de manera"
-startDate: ""
-applicationDeadline: ""
+description: "El egresado comprenderá una sólida formación en las ciencias básicas necesarias para su desempeño científico profesional. Deberá presentar un profundo conocimiento del funcionamiento de las plantas como organismos vivos, así como también un amplio conocimiento de los procesos de elaboración y transformación industrial de productos de origen forestal incluyendo conocimiento de máquinas y equipos permitiendo de esta manera que el egresado actúe de manera crítica y creativa para encontrar la solución al problema detectado."
 credits: 450
 tags:
   - ingenieria-forestal
@@ -29,9 +25,9 @@ tags:
   - silvicultura
   - produccion-forestal
   - agronomia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.tacuarembo.udelar.edu.uy/ingenieria-forestal-tacuarembo/'

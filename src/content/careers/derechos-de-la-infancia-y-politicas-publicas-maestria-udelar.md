@@ -1,7 +1,6 @@
 ---
 title: "Maestría en Derechos de la Infancia y Políticas Públicas"
 similar:
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - maestria-en-politicas-publicas-ucu
   - politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -9,29 +8,31 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 140
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=54"
-location: "Facultad de Ciencias Sociales, Montevideo"
-description: "OBJETIVO GENERAL Contribuir desde el ámbito académico a la formación de docentes, e investigadores que contribuyan a la evaluación y diseño de políticas públicas que garanticen la aplicación de la Convención Internacional de los DD.NN."
-startDate: ""
-applicationDeadline: "Formulario web de Facultad de Psicología."
+location: "Facultad de Psicología, Montevideo"
+description: "Maestría en Derechos de la Infancia y Políticas Públicas (2 años, 140 créditos), cogestionada por las facultades de Derecho, Psicología, Medicina y Ciencias Sociales (gestiona Psicología). Forma docentes e investigadores que contribuyan a evaluar y diseñar políticas públicas que garanticen la Convención Internacional de los Derechos del Niño. Gratuita, con tesis y cupos limitados (40)."
 tags:
   - ciencias-sociales
   - derecho
   - politicas-publicas
   - derechos-humanos
   - ninos-y-adolescentes
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=62'
+    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=54'
   - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=62'
+    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=54'
+  - label: 'Plan y malla curricular (PDF, Facultad de Psicología)'
+    url: 'https://www.psico.edu.uy/sites/default/files/2025-02/Plan%20y%20malla%20curricular%20de%20la%20MDIPP%20con%20ajustes%202017.pdf'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -54,9 +55,9 @@ El equipo docente de la maestría está compuesto por los profesionales más cal
 
 ## Ingreso
 
-### Reglamento
+### Plan de estudios
 
-https://www.psico.edu.uy/sites/default/files/2025-02/Plan%20y%20malla%20curricular%20de%20la%20MDIPP%20con%20ajustes%202017.pdf
+[Plan y malla curricular (PDF, Facultad de Psicología)](https://www.psico.edu.uy/sites/default/files/2025-02/Plan%20y%20malla%20curricular%20de%20la%20MDIPP%20con%20ajustes%202017.pdf)
 
 ### Requisitos de Ingreso
 

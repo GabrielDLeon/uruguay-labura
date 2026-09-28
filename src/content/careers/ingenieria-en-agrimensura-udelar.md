@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-en-agrimensura"
 location: "Facultad de Ingeniería"
-description: "La carrera de Ingeniería en Agrimensura apunta a formar un profesional integral y moderno de acuerdo a las necesidades de la sociedad. Se busca formar el pensamiento crítico, enfocado en resolver problemas atendiendo a los nuevos desafíos a los que la sociedad, la ciencia y la tecnología nos enfrenta y nos demanda. Su formación tiene por objetivo todo lo concerniente a la medición, determinación, control de empla"
-startDate: ""
-applicationDeadline: ""
+description: "Forma un profesional integral y moderno orientado a la medición, determinación, control de emplazamientos geométricos espaciales y modelización del territorio, tanto en su realización como en el diseño de su aplicación, en coordinación con las demás ciencias y técnicas."
 credits: 450
 tags:
   - agrimensura
   - topografia
   - cartografia
   - ingenieria
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

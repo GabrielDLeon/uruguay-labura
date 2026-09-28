@@ -12,22 +12,20 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+credits: 260
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=22"
-location: "Facultad de Química"
-description: "Los estudios de posgrado de Doctorado en Química deben promover la actualización yla profundización de los conocimientos en las distintas ramas de la Química, formarprofesionales con capacidad demostrada de afrontar con creatividad los problemasde la Química, formar recursos humanos para la investigación y el desarrollo científico,y promover el avance de la Química como disciplina.Los objetivos apuntados se lograrán por la realización de un trabajo de"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Química, Montevideo"
+description: "Doctorado gratuito de 3 años (260 créditos) en Química: actualiza y profundiza los conocimientos en las distintas ramas, forma investigadores con creatividad para resolver problemas y promueve el avance de la disciplina, con tesis original. Postulación continua."
 tags:
   - quimica
   - ciencias-exactas
   - quimica-organica
   - quimica-analitica
   - quimica-inorganica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -70,3 +68,13 @@ Estructura del plan de estudio. Los planes de estudios tanto en lo relativo a cu
 ### Unidades curriculares
 
 El estudiante deberá cumplir con un plan de trabajo individual mínimo de 260 créditos (1 crédito = 15 horas de trabajo) integrados por la Actividad Programada y un trabajo de Tesis. El plan deberá incluir un Director Académico y un Director de Tesis. La Actividad Programada deberá reunir un mínimo de 60 créditos, de los cuales al menos 50 créditos serán de cursos de posgrado y los restantes podrán ser acreditados por pasantías u otras actividades formativas. La misma deberá definirse en acuerdo entre el Director Académico y el estudiante, y deberá equilibrarse de manera que el estudiante profundice en su formación fundamental y adquiera los conocimientos necesarios para abordar la realización de la Tesis exitosamente. El Programa curricular contendrá alguna de las siguientes materias centrales: • Química Analítica • Química Biológica • Fisicoquímica • Química Inorgánica • Química Orgánica Los créditos de las actividades programadas realizadas por el estudiante durante su Maestría serán asignados automáticamente como créditos correspondientes al Doctorado. En el caso de que la formación haya sido adquirida en instituciones externas a Udelar, deberá cumplirse previamente con el procedimiento previsto en la normativa imperante en materia de reválidas, y en caso de corresponder con lo previsto en convenios de cotutela o movilidad. El trabajo de Tesis será individual y tendrá una dedicación de 200 créditos, siendo la duración mínima de los estudios de 3 años. En la elaboración de la Tesis, el estudiante deberá alcanzar el estado del arte y desarrollar un análisis en profundidad del tema elegido. El manuscrito de la Tesis deberá contener una correcta exposición del tema encarado, una discusión de la bibliografía internacional actualizada, y deberá incluir los detalles necesarios para la comprensión de los objetivos perseguidos y de los resultados y conclusiones alcanzadas durante el trabajo. La Tesis deberá ser defendida públicamente frente a un tribunal. Los requisitos específicos del plan de trabajo, Director Académico y de Tesis, y tribunal evaluador, se especifican en el Reglamento de las Carreras de Postgrado de la Facultad de Química. (https://www.fq.edu.uy/sites/default/files/sites/all/themes/professional_theme/images/Reglamento%202022.pdf).
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en la Sección Posgrado de Facultad de Química.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

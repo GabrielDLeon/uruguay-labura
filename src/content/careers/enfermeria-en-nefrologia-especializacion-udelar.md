@@ -12,29 +12,27 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=95"
-location: "Facultad de Enfermería"
-description: "Especializar a Licenciados en Enfermería en Nefrología, para lograr una atenciónintegral oportuna y humana, abordando las tecnologías propias de la especialidad, yenseñanza de la terapéutica, que exigen de una especialización.Profundizar la formación Profesional en el manejo activo y creativo de conocimientosen la atención al usuario nefrológico con un enfoque integral, articulando lainformaciónclínica, paraclínica e instrumental que incluya la"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Enfermería, Montevideo"
+description: "Especialización de 900 horas (60 créditos) que forma Licenciados en Enfermería en el cuidado del paciente nefrológico, con 540 horas de práctica en servicios nefrológicos."
 tags:
   - enfermeria
   - nefrologia
   - cuidados
-draft: true
-createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=95'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=95'
+    url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=95
+  - label: 'Ficha del programa en el CAP (PDF)'
+    url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=95
+  - label: 'Centro de Posgrado de Enfermería'
+    url: https://www.fenf.edu.uy/ensenanza/posgrado/
+draft: false
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-09-28 21:00:00"
 ---
-
 ## Resumen
 
 ### Objetivo
@@ -45,30 +43,18 @@ Especializar a Licenciados en Enfermería en Nefrología, para lograr una atenci
 
 Los profesionales Especialistas en Enfermería en Nefrología proporcionarán cuidados enfermeros a individuos con enfermedad renal en todas sus etapas, a nivel individual y colectivo. Agilizarán la toma de decisiones mediante una metodología fundamentada en los avances producidos en el campo de los cuidados de la salud, la ética y la evidencia científica lograda a través de la actividad de investigación directamente relacionada con la práctica asistencial. Asimismo, por ser expertos en dicha área serán eficaces gestores de caso en el ámbito institucional o en el equipo de salud en cualquier aspecto relacionado.
 
-### Referentes académicos
+### Plan de estudios
 
-Prof. Phd Agda Virginia Aquino Lic. Esp Paola Lemaire
-
-### Docentes
-
-Prof. Agda Phd Virginia Aquino Prof. Agda Paola Lemaire
+- **Créditos:** 60.
+Esta Especialidad se desarrollará en el Centro de Posgrado de la Facultad de Enfermería con un total de 900 horas - 60 cr. (24 cr. Teóricos, 36 cr. Práctica)
+195 hs teóricas Asignaturas propias a la especialidad 13 cr. 30 hs metodología científica 2 cr. 15 hs bioética 1cr. 15 hs epidemiología 1cr. 75 hs trabajo final. 5cr. 540 hs prácticas 36 cr. Optativas Inglés 30 hs 2cr. o Portugués 30 hs 2cr. o Informática 30 hs 2cr.
 
 ## Ingreso
 
-### Reglamento
-
-REGLAMENTO DEL PROGRAMA ESPECIALIDADES CAPITULO I: DE LOS REQUISITOS DE INGRESO. ART. 1: Podrán ingresar a la Especialidad: a) Licenciadas/os en Enfermería con título otorgado por la Universidad de la República. b) Licenciados/as en Enfermería con título otorgado por otras instituciones nacionales o extranjeras de nivel terciario, revalidado o reconocido por la Universidad de la República o por el Ministerio de Educación y Cultura.
-
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
 a) Licenciadas/os en Enfermería con título otorgado por la Universidad de la República. b) Licenciados/as en Enfermería con título otorgado por otras instituciones nacionales o extranjeras de nivel terciario, revalidado o reconocido por la Universidad de la República o por el Ministerio de Educación y Cultura.
 
-## Plan de Estudio
+### Inscripción
 
-### Programa
-
-Esta Especialidad se desarrollará en el Centro de Posgrado de la Facultad de Enfermería con un total de 900 horas - 60 cr. (24 cr. Teóricos, 36 cr. Practica)
-
-### Unidades curriculares
-
-195 hs teóricas Asignaturas propias a la especialidad 13 cr. 30 hs metodología científica 2 cr. 15 hs biética 1cr. 15 hs epidemiología 1cr. 75 hs trabajo final. 5cr. 540 hs prácticas 36 cr. Optativas Inglés 30 hs 2cr. o Portugués 30 hs 2cr. o Informática 30 hs 2cr.
+Inscripción en el Centro de Posgrado de la Facultad de Enfermería (Montevideo). Sin convocatoria vigente publicada en el CAP (estado de inscripción: no definido).

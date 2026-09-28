@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-quimica"
 location: "Facultad de Ingeniería; Salto"
-description: "Es un profesional con sólidos conocimientos de la ingeniería de los procesos destinados al óptimo aprovechamiento de la materia y la energía, compatibles con un desarrollo sustentable, en los cuales se trata la materia para efectuar en ella un cambio, ya sea en su estado, en su contenido de energía o en su composición. En el ejercicio profesional, el Ing. Químico será capa"
-startDate: ""
-applicationDeadline: ""
+description: "Profesional con sólidos conocimientos de la ingeniería de los procesos para el óptimo aprovechamiento de la materia y la energía con desarrollo sustentable. Diseña, evalúa, implanta y opera tecnologías de la industria de procesos y está capacitado para la investigación y el desarrollo. Carrera compartida entre Ingeniería y Química, con primer año en Salto."
 credits: 450
 tags:
   - ingenieria-quimica
@@ -30,7 +26,7 @@ tags:
   - quimica-industrial
   - procesos-industriales
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

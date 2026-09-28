@@ -12,22 +12,18 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-nutricion"
 location: "Escuela de Nutrición"
-description: "Es un profesional capaz de evaluar el estado nutricional de la población a nivel colectivo e individual, administrar programas de alimentación, nutrición y educación, realizar investigación en estas áreas, e integrarse a equipos multiprofesionales para incidir significativamente en la situación alim"
-startDate: ""
-applicationDeadline: ""
+description: "Es un profesional capaz de evaluar el estado nutricional de la población a nivel colectivo e individual, administrar programas de alimentación, nutrición y educación, realizar investigación en estas áreas, e integrarse a equipos multiprofesionales para incidir significativamente en la situación alimentario nutricional mediante acciones de prevención, promoción y atención. Dos grandes aspectos son motivo de preocupación: dar respuesta institucional a la situación alimentario-nutricional que afecta al país y, por otro lado, formar un profesional capaz de instalarse en esa realidad para transformarla. Se dicta en Montevideo. En el Centro Universitario Regional Litoral Norte, sede Paysandú, se puede hacer el Ciclo IV \"Desempeño Profesional\" este ciclo forma parte del área de formación Práctico-investigativo y corresponde al último año de la carrera, conformado por la Práctica Profesional (PP) y el Trabajo Final de Grado (TFG)."
 credits: 360
 tags:
   - nutricion
   - alimentacion
   - salud-publica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,8 +31,6 @@ sources:
     url: 'https://www.nutricion.edu.uy/?page_id=654'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-nutricion'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.nutricion.edu.uy/?page_id=654'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 Es un profesional capaz de evaluar el estado nutricional de la población a nivel colectivo e individual, administrar programas de alimentación, nutrición y educación, realizar investigación en estas áreas, e integrarse a equipos multiprofesionales para incidir significativamente en la situación alimentario nutricional mediante acciones de prevención, promoción y atención. Dos grandes aspectos son motivo de preocupación: dar respuesta institucional a la situación alimentario-nutricional que afecta al país y, por otro lado, formar un profesional capaz de instalarse en esa realidad para transformarla. Se dicta en Montevideo. En el Centro Universitario Regional Litoral Norte, sede Paysandú, se puede hacer el Ciclo IV "Desempeño Profesional" este ciclo forma parte del área de formación Práctico-investigativo y corresponde al último año de la carrera, conformado por la Práctica Profesional (PP) y el Trabajo Final de Grado (TFG).
+
+### Duración y cursado
+
+**Duración:** 4 años (360 créditos) · **Sede:** Escuela de Nutrición (Montevideo) · **Costo:** Gratuita.
 
 ## Ingreso
 

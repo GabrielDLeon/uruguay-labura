@@ -12,25 +12,21 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-madera"
 location: "Rivera"
-description: "Los egresados podrán desarrollar tareas vinculadas a tecnologías relacionadas con la cosecha forestal y la ingeniería industrial maderera, en mantenimiento, producción o gestión, de complejidad relativa, así como integrarse al trabajo en equipo para la realización de las mismas actividades en situac"
-startDate: ""
-applicationDeadline: ""
+description: "Los egresados podrán desarrollar tareas vinculadas a tecnologías relacionadas con la cosecha forestal y la ingeniería industrial maderera, en mantenimiento, producción o gestión, de complejidad relativa, así como integrarse al trabajo en equipo para la realización de las mismas actividades en situaciones de mayor complejidad, tanto por sus características como por su escala."
 credits: 270
 tags:
   - tecnologia-de-la-madera
   - ingenieria-industrial
   - forestal
   - procesos-industriales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.rivera.udelar.edu.uy/tecnologo-en-madera/'

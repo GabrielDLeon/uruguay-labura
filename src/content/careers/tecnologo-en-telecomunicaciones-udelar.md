@@ -11,23 +11,19 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "2,5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-telecomunicaciones"
 location: "Facultad de Ingeniería; Rocha"
-description: "Tiene capacidades para asistir en el diseño y el despliegue de sistemas de telecomunicaciones y para realizar su mantenimiento y administración. Podrá participar como técnico calificado en tareas de desarrollo de proyectos en el área de las telecomunicaciones, integrándose al trabajo colectivo y mul"
-startDate: ""
-applicationDeadline: ""
+description: "Asiste en el diseño y el despliegue de sistemas de telecomunicaciones y realiza su mantenimiento y administración. Participa como técnico calificado en proyectos del área, con formación en telecomunicaciones, aplicaciones telemáticas y base físico-matemática para continuar estudios. Se dicta en la sede Rocha del CURE."
 credits: 200
 tags:
   - telecomunicaciones
   - redes
   - telematica
   - comunicaciones-inalambricas
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

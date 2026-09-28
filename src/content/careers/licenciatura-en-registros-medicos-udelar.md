@@ -7,22 +7,18 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-registros-medicos"
-location: "Facultad de Medicina"
-description: "Está capacitado para planificar, organizar, y dirigir una Unidad de Registros Médicos en cualquier tipo de institución, así como realizar investigaciones en cualquier área de la comunidad. Participará con el equipo de salud en investigaciones que se realicen en el área integrando principalmente los"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Medicina; Paysandú"
+description: "Está capacitado para planificar, organizar, y dirigir una Unidad de Registros Médicos en cualquier tipo de institución, así como realizar investigaciones en cualquier área de la comunidad. Participará con el equipo de salud en investigaciones que se realicen en el área integrando principalmente los comités del cuerpo médico que analizan y valoran cuantitativamente y cualitativamente la atención brindada al paciente. Título intermedio: Tecnólogo en Registros Médicos"
 tags:
   - salud
   - registros-medicos
   - salud-digital
   - gestion-de-datos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -30,8 +26,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-registros-medicos'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-registros-medicos'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-registros-medicos'
 ---
 
 ## Resumen
@@ -39,6 +33,10 @@ sources:
 ### Sobre la Carrera
 
 Está capacitado para planificar, organizar, y dirigir una Unidad de Registros Médicos en cualquier tipo de institución, así como realizar investigaciones en cualquier área de la comunidad. Participará con el equipo de salud en investigaciones que se realicen en el área integrando principalmente los comités del cuerpo médico que analizan y valoran cuantitativamente y cualitativamente la atención brindada al paciente. Título intermedio: Tecnólogo en Registros Médicos
+
+### Duración y cursado
+
+**Duración:** 4 años (4030 horas) · **Sedes:** Facultad de Medicina (Montevideo) y Paysandú · **Costo:** Gratuita. Ingreso por prueba según cupos. Otorga el título intermedio de Tecnólogo en Registros Médicos.
 
 ## Ingreso
 

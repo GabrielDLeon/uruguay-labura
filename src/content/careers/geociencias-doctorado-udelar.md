@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+credits: 310
+contactEmail: "analiaf@pedeciba.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=97"
-location: "Facultad de Ciencias"
-description: "Definición y objetivos En el marco del Reglamento General de Doctorados del PEDECIBA, el Doctorado en Geociencias constituye el nivel superior de afianzamiento y profundización en una disciplina geocientífica. Su objetivo central es capacitar al aspirante para desarrollar la investigación original p"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias, Montevideo"
+description: "Doctorado gratuito de 3 años (310 créditos) en Geociencias (PEDECIBA): capacita para la investigación original sobre el sistema Tierra y sus recursos, y para orientar investigaciones. Sin convocatoria vigente."
 tags:
   - geologia
   - ciencias-de-la-tierra
   - geofisica
   - geoquimica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -51,8 +50,22 @@ Miembros del Consejo Científico: Dres. Ofelia Gutiérrez (Coordinadora), Pablo 
 
 https://www.pedeciba.edu.uy/es/reglamento/reglamento-doctorado-geociencias-1/
 
+### Requisitos de Ingreso
+
+Título de Maestría en Geociencias o formación equivalente, con un orientador del programa y un plan de trabajo de tesis, según el Reglamento General de Doctorados del PEDECIBA.
+
 ## Plan de Estudio
 
 ### Programa
 
 www.pedeciba.edu.uy/es/reglamento/plan-de-estudios-doctorado-geociencias/
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (sin último período publicado). Inscripción en Bedelía de Facultad de Ciencias y en la Secretaría PEDECIBA Geociencias (analiaf@pedeciba.edu.uy).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

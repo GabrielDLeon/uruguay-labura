@@ -12,35 +12,31 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "4 años"
+credits: 1126
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=54"
 location: "Facultad de Medicina"
-description: "Especialización en Traumatología y Ortopedia, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: "Facultad de Medicina"
+description: "Especialización en Traumatología y Ortopedia (4 años, 1126 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso."
 tags:
   - medicina
   - traumatologia
   - ortopedia
   - rehabilitacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=54'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=54'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/TRAUMATOLOG%C3%8DA%20Y%20ORTOPEDIA.pdf
+Especialización en Traumatología y Ortopedia (4 años, 1126 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso. Se desarrolla en: Edificio de Asse.
 
 ### Referentes académicos
 
@@ -48,12 +44,10 @@ Profesor Doctor L. Francescoli
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Facultad de Medicina. La postulación es continua y la inscripción está en curso.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/TRAUMATOLOG%C3%8DA%20Y%20ORTOPEDIA.pdf
+- Edificio de Asse — Tel.: 24830650 / Interno 319

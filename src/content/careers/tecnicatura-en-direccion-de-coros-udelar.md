@@ -9,27 +9,23 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
-area: "Sin clasificar"
+area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-direccion-de-coros"
 location: "Salto"
 description: "El objetivo de la tecnicatura es contribuir a la formación de docentes a fin de incrementar la capacidad docente musical de la región. Se brindan al estudiante conocimientos y habilidades básicas y sólidas en interpretación o dirección de conjuntos, así como en aspectos fundamentales de la teoría de la música, que le permitan desarrollar las herramientas fundamentales para su desempeño como músico."
-startDate: ""
-applicationDeadline: ""
 tags:
   - musica
   - direccion-de-orquesta
   - interpretacion-musical
   - educacion-musical
   - formacion-docente
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-direccion-coros'

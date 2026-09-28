@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
+credits: 60
+contactEmail: "inscderf@fq.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=91"
-location: "Facultad de Química"
-description: "El objetivo del DERF es complementar la formación de profesionales que requieran capacitación adicional para desarrollar su actividad profesional en el campo de la Radiofarmacia, en los ámbitos asistenciales, tecnológicos, de investigación y desarrollo. (Anexo1 Reglamento del Diploma Especialista en Radiofarmacia (http://www.fq.edu.uy/sites/default/files/archivos/RADIOFARMACIA%20reglamento0.pdf)."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Química, Montevideo"
+description: "El objetivo del DERF es complementar la formación de profesionales que requieran capacitación adicional para desarrollar su actividad profesional en el campo de la Radiofarmacia, en los ámbitos asistenciales, tecnológicos, de investigación y desarrollo. (Anexo1 Reglamento del Diploma Especialista en Radiofarmacia."
 tags:
   - farmacia
   - medicina-nuclear
   - radiofarmacia
   - farmacia-hospitalaria
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -69,3 +68,13 @@ Para la obtención del DERF se deberá reunir 60 créditos y estarán distribuid
 ### Unidades curriculares
 
 La información de cartelera y el cronograma del curso pueden consultarse para cada especialista en los siguientes links: Especialista en Radiofarmacia: https://www.fq.edu.uy//es/node/624
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en la Sección Posgrado de Facultad de Química (inscderf@fq.edu.uy, tel. 2924 1925 int. 1203).
+
+### Costo
+
+El programa cobra derechos universitarios: 30.000 unidades indexadas (UI).

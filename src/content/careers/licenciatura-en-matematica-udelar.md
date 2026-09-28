@@ -5,16 +5,12 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-matematica"
 location: "Facultad de Ciencias"
-description: "Las personas que egresan de la Licenciatura en Matemática están en condiciones de utilizar los métodos, herramientas y entrenamiento adquiridos para acometer de manera conveniente y aguda problemas de distinta índole, especialmente complejos e inusuales. También pueden iniciarse en la investigación"
-startDate: ""
-applicationDeadline: ""
+description: "Las personas que egresan están en condiciones de usar los métodos, herramientas y entrenamiento adquiridos para acometer problemas de distinta índole, especialmente complejos e inusuales. Pueden iniciarse en la investigación científica y realizar actividades de docencia."
 credits: 360
 tags:
   - matematica
@@ -27,7 +23,7 @@ similar:
   - matematica-mencion-ensenanza-y-mencion-tecnologia-especializacion-udelar
   - ingenieria-fisico-matematica-udelar
   - ingenieria-matematica-maestria-udelar
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

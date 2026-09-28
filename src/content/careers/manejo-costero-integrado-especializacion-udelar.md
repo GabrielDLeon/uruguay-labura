@@ -12,22 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 63
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=96"
-location: "Facultad de Arquitectura Diseño y Urbanismo, Maldonado"
+location: "Centro Universitario Regional del Este (Maldonado); Montevideo"
 description: "El Programa de Posgrado en Manejo Costero Integrado del Cono Sur (MCISur) es un programa de carácter interdisciplinario apoyado por las Facultades de Arquitectura, Diseño y Urbanismo, Ciencias, Ciencias Sociales, Derecho, Ingeniería y el Centro Universitario Regional del Este (CURE) de la Universidad de la República (UdelaR)."
-startDate: ""
-applicationDeadline: "Centro Universitario Regional del Este (CURE-Maldonado)"
 tags:
   - manejo-costero
   - medio-ambiente
   - ciencias-del-mar
   - gestion-ambiental
   - ciencias-sociales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -66,3 +64,13 @@ Los Requisitos para postular a la Maestría en Manejo Costero Integrado son: 1) 
 ### Programa
 
 La Maestría cuenta con tres Módulos (Módulo Obligatorio, un Módulo de Taller y un Espacio Curricular Flexible) organizados en asignaturas a lo largo de tres semestres. Cada asignatura tendrá una evaluación específica para su aprobación. La Maestría implica un mínimo de 70 créditos de actividades curriculares y 30 créditos de tesis. Para la obtención del titulo como Especialista en Manejo Costero Integrado es necesaria la aprobación de la totalidad de los créditos de la Maestría (sin tesis). La VIII edición del Programa de Posgrado en MCI se desarrollará con actividades presenciales en el Centro Universitario Regional del Este (CURE), Sede Maldonado, y en las Facultades de Ingeniería y Arquitectura, Diseño y Urbanismo en Montevideo para el Módulo Obligatorio. Además de la asistencia a cursos se requiere la participación en trabajos de campo, que se coordinarán con anticipación a su realización. Los cursos del Espacio Curricular Flexible serán dictados en los distintos servicios universitarios que forman parte del programa. Para la obtención de los títulos será obligatoria la asistencia a las actividades presenciales del programa.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación periódica cada 2 años; sin convocatoria vigente (sin último período publicado). Actividades presenciales en el CURE Maldonado y en Montevideo.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

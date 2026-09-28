@@ -1,5 +1,5 @@
 ---
-title: "Maestría en Gerencia y Administración (mba)"
+title: "Maestría en Gerencia y Administración (MBA)"
 similar:
   - mba-senior-um
   - master-en-administracion-de-empresas-mba-ort
@@ -11,24 +11,23 @@ institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
-modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+modality: "hibrido"
+duration: "30 meses"
+credits: 175
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=83"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "El objetivo general al que apunta esta propuesta es brindar una formación superior en el área de la Administración y de la Gerencia tanto a los egresados de la FCEA como de otras Facultades de nivel reconocido con un nivel cuaternario que permita a los graduados disponer de los mayores niveles de calidad y cobertura curricular a los que se pueda acceder en el país para estar en condiciones de desempeñarse en cargos ejecutivos de alto nivel así como poder"
-startDate: ""
-applicationDeadline: ""
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Magíster en Gerencia y Administración, MBA de Udelar (175 créditos con tesis): formación superior en administración y dirección para cargos ejecutivos de alto nivel, con núcleo básico, áreas de concentración en segundo año y tesis. Dictado mixto presencial y virtual."
 tags:
   - administracion
   - direccion-de-empresas
   - mba
   - habilidades-gerenciales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=83'
@@ -40,28 +39,26 @@ sources:
 
 ### Objetivo
 
-El objetivo general al que apunta esta propuesta es brindar una formación superior en el área de la Administración y de la Gerencia tanto a los egresados de la FCEA como de otras Facultades de nivel reconocido con un nivel cuaternario que permita a los graduados disponer de los mayores niveles de calidad y cobertura curricular a los que se pueda acceder en el país para estar en condiciones de desempeñarse en cargos ejecutivos de alto nivel así como poder continuar luego estudios de doctorado en el exterior o en los futuros que se organizaran en Uruguay. En particular, se pretende con esta propuesta alcanzar los siguientes objetivos específicos: Que los participantes puedan acceder a un elevado nivel científico y técnico profesional en los aspectos esenciales de la administración y dirección de empresas y organizaciones en general. Que, sobre la base de una formación global en la frontera del conocimiento, los participantes puedan actualizar y profundizar en aspectos específicos dentro de cada una de las áreas de especialización o de concentración. Que los participantes puedan acceder a un nivel de formación similar al que obtendrían al egresar de una Maestría en universidades de reconocido prestigio internacional con especialización en la disciplina correspondiente al área de concentración de sus estudios y asimismo estar en condiciones de continuarlos a nivel de Doctorado. Que los participantes se encuentren en condiciones de responder con eficacia y eficiencia a las exigencias de la actividad profesional, en posiciones directivas o gerenciales de nivel superior. Que cuenten con una formación sólida para desempeñar tareas docentes y de investigación en ciencias de la administración y, en particular, en la disciplina correspondiente al área de concentración de sus estudios de Maestría en la que realizarán la labor de tesis final. Normal 0 21 false false false ES-UY X-NONE X-NONE
+Brindar formación superior en administración y gerencia a egresados de FCEA y de otras facultades, con nivel científico-técnico en la frontera del conocimiento para desempeñarse en cargos ejecutivos de alto nivel y continuar estudios de doctorado.
 
 ### Perfil de egreso
 
-Para completar la Maestría el participante deberá: Asistir, como mínimo, al 80% de las clases de cada asignatura; Aprobar las pruebas de conocimientos y trabajos prácticos de cada asignatura, Realizar la Tesis a satisfación del tribunal examinador. Para la obtención del título de Master en Gerencia y Administración se requiere la aprobación de 175 créditos, donde cada crédito equivale a 15 horas de trabajo. El título que se otorgará será el de Master en Gerencia y Administración (MBA), donde en caso de corresponder se establecerá el área de concentración realizada.
-
-### Referentes académicos
-
-Profesora Cra. María Messina
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-El curso está destinado a personas con título universitario con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que reúnan los requisitos enunciados (sean o no profesionales universitarios), se hayan postulado oportunamente y sean aceptados por la Dirección Académica, en base al curriculum personal de estudios, antecedentes y experiencia profesional. Para formalizar su postulación al Programa de Posgrados: https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html
+Para titularse se requiere 80 % de asistencia por asignatura, aprobar pruebas y trabajos y defender la tesis. El título de Master en Gerencia y Administración (MBA) indica el área de concentración cuando corresponde.
 
 ## Plan de Estudio
 
 ### Programa
 
-Asignaturas La Maestría se estructura con un núcleo curricular básico en el primer año, diversas áreas de concentración en el segundo año y un trabajo final de tesis. El núcleo básico de la Maestría proporciona la formación en las áreas esenciales de la administración con vistas a la formación específica del segundo año. La Maestría en Gerencia y Administración -MBA- se compone de 175 créditos, los cuales se destribuyen de la siguiente manera: Asignatura Obligatorias del Núcleo Básico y Electivas: 129 créditos; Seminario sobre tópicos de metodología de la investigación: 10 créditos; Tesis: 36 créditos. El trabajo final de Tesis estará referido a un tema dentro del área de concentración correspondiente a la especialización de la Maestría, consistirá en un aporte que demuestre rigor y destreza en el manejo conceptual y metodológico, y familiaridad con el estado actual del conocimiento en la o las disciplinas del caso. Para que en el título de Master en Gerencia y Administración (MBA) conste un área específica de concentración se deberán completar por lo menos 28 créditos de asignaturas electivas en la misma área de concentración (Finanzas, Marketing, Salud, Sistemas de Información o Costos) y el trabajo final deberá realizarse en esa misma área. Se podrá autorizar a que los participantes estructuren su maestría de acuerdo a sus vocaciones o necesidades emanadas de su actividad profesional, sin que exista un área de concentración definida. En este caso, el título a otorgar no hará referencia a la existencia de un área de concentración. Modalidad de clases Las asignaturas obligatorias se desarrollan tres veces por semana y las electivas en una frecuencia variable dependiendo del área de conocimiento seleccionada. El MBA se brindará en modalidad mixta, algunos cursos se realizarán en forma virtual sincrónica a través de la aplicación zoom y otros completamente en forma presencial. Normal 0 21 false false false ES-UY X-NONE X-NONE
+Treinta meses y 175 créditos: 129 de asignaturas obligatorias del núcleo básico y electivas, 10 del seminario de metodología de investigación y 36 de tesis, referida al área de concentración con rigor conceptual y metodológico. Los 63 créditos de cursos de la Especialización en Administración son reconocibles en el MBA.
 
-### Unidades curriculares
+Obligatorias tres veces por semana (electivas con frecuencia variable). Modalidad mixta: algunos cursos virtuales sincrónicos por videoconferencia y otros totalmente presenciales.
 
-ESTRUCTURA DEL PROGRAMA: Para la obtención del título de Master en Gerencia y Administración se requiere la aprobación de 175 créditos, equivaliendo cada crédito a 15 horas de trabajo. Los 175 créditos necesarios para completar la maestría se distribuirán de la siguiente manera: Asignaturas Obligatorias del Núcleo Básico y Electivas: 129 créditos Seminario sobre tópicos de metodología de la investigación: 10 créditos Tesis: 36 créditos
+## Ingreso
+
+### Requisitos de Ingreso
+
+Destinado a graduados universitarios (o con formación equivalente) con un mínimo de 4 años de estudios. El título de grado puede pertenecer a la Universidad de la República, a universidades del exterior de nivel reconocido o a universidades del país con nivel de educación superior. La admisión la resuelve la Dirección Académica del posgrado en base a escolaridad, antecedentes y experiencia profesional.
+
+### Inscripción y arancel
+
+Posgrado arancelado: monto total publicado en CAP de $ 891.800 (pesos uruguayos, referencia 2026; verificar actualización). Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy. Último período de inscripción publicado: 22/10/2024 al 17/03/2025. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en el Centro de Posgrados.

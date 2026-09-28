@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 70
+contactEmail: "posgradoyep@fadu.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=7"
-location: "Facultad de Arquitectura Diseño y Urbanismo"
-description: "OBJETIVOS DE LA PROPUESTA EDUCATIVA 1_ Otorgar formación de posgrado (especialización) en el proyecto de mobiliario, propendiendo a la formación de profesionales especializados en el diseño de objetos de equipamiento fijo y móvil, referido a un espacio arquitectónico definido o con independencia de"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
+description: "Especialización arancelada de 18 meses (70 créditos) en proyecto de mobiliario: forma profesionales en diseño de equipamiento fijo y móvil, con representación, materiales, ergonomía, gestión y tesina con prototipo. Sin convocatoria vigente."
 tags:
   - diseno
   - diseno-de-productos
   - diseno-de-mobiliario
   - diseno-industrial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -61,3 +60,17 @@ El posgrado tendrá una estructura de 9 cursos de distinta carga horaria de acue
 ### Unidades curriculares
 
 01_ [P] representación del mobiliario 02_ [P] proyecto (incluye la fabricación del prototipo) 03_ [T] materiales y procedimientos 04_ [T] técnicas de fabricación y producción 05_ [T] ergonomía 06_ [T] gestión del diseño 07_ [T/H] puertas adentro, interioridad y espacio doméstico en el siglo XX 08_ [T/H] historia del mobiliario moderno 09_ [T/H] atributos del mueble 10_ [T o T/H] tesina
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 04/04/2022–22/05/2022). Postulación on-line en www.fadu.edu.uy/inscripciones/.
+
+### Costo
+
+El programa cobra derechos universitarios: $U 150.000.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

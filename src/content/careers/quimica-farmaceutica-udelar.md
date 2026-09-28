@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "carrera"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/quimica-farmaceutica"
 location: "Facultad de Química; Salto"
 description: "Es el profesional de la salud con sólidos conocimientos relacionados con el medicamento y productos afines así como con la interacción de sustancias químicas con los seres vivos sanos o enfermos. Es un profesional tanto capacitado para integrarse a equipos multidisciplinarios en el área de la Salud, como comprometido con la satisfacción de las necesidades de la sociedad relativas a la salud y a la calidad de vida de sus integrantes."
-startDate: ""
-applicationDeadline: ""
 credits: 450
 tags:
   - quimica-farmaceutica
   - farmacia
   - quimica
   - farmacologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

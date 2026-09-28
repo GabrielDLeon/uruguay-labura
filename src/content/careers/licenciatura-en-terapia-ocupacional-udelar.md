@@ -12,22 +12,18 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-terapia-ocupacional"
 location: "Facultad de Medicina"
-description: "El terapeuta ocupacional es miembro activo del equipo de rehabilitación interdisciplinario tiene como objetivos la promoción, prevención, asistencia y rehabilitación de las funciones que le permiten al hombre ser independiente y tener autonomía para: autocuidarse o cuidar de otros, trasladarse o trasladar a otros, jugar, divertirse, trabajar y conseguir los recursos para mantener su calidad de vida, la de su familia y la comunidad donde vive."
-startDate: ""
-applicationDeadline: ""
+description: "El terapeuta ocupacional es miembro activo del equipo de rehabilitación interdisciplinario tiene como objetivos la promoción, prevención, asistencia y rehabilitación de las funciones que le permiten al hombre ser independiente y tener autonomía para: autocuidarse o cuidar de otros, trasladarse o trasladar a otros, jugar, divertirse, trabajar y conseguir los recursos para mantener su calidad de vida, la de su familia y la comunidad donde vive. El desempeño profesional tiene lugar en distintos contextos de la sociedad como ser instituciones de salud, de educación, programas sociales y comunitarios, programas para mejorar la independencia de las personas en el ámbito laboral, familiar y social."
 tags:
   - terapia-ocupacional
   - rehabilitacion
   - salud
   - cuidados
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,8 +31,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-terapia-ocupacional'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-terapia-ocupacional'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-terapia-ocupacional'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 El terapeuta ocupacional es miembro activo del equipo de rehabilitación interdisciplinario tiene como objetivos la promoción, prevención, asistencia y rehabilitación de las funciones que le permiten al hombre ser independiente y tener autonomía para: autocuidarse o cuidar de otros, trasladarse o trasladar a otros, jugar, divertirse, trabajar y conseguir los recursos para mantener su calidad de vida, la de su familia y la comunidad donde vive. El desempeño profesional tiene lugar en distintos contextos de la sociedad como ser instituciones de salud, de educación, programas sociales y comunitarios, programas para mejorar la independencia de las personas en el ámbito laboral, familiar y social.
+
+### Duración y cursado
+
+**Duración:** 4 años · **Sede:** Facultad de Medicina (Montevideo) · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

@@ -12,23 +12,22 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=50"
 location: "Facultad de Ingeniería, Montevideo"
-description: "La Especialización en Ingeniería Ambiental, de acuerdo con el artículo 2º de laOrdenanza de las Carreras de Posgrado tiene por objeto: Brindar una formación más especializada que la correspondiente a los cursos degrado en el área de la Ingeniería Ambiental. Profundizar la formación del graduado en el manejo activo y creativo delconocimiento."
-startDate: ""
-applicationDeadline: "Facultad de Ingeniería"
+description: "La Especialización en Ingeniería Ambiental, de acuerdo con el artículo 2º de la Ordenanza de las Carreras de Posgrado tiene por objeto: Brindar una formación más especializada que la correspondiente a los cursos de grado en el área de la Ingeniería Ambiental. Profundizar la formación del graduado en el manejo activo y creativo del conocimiento."
+contactEmail: "iocchiuzzi@fing.edu.uy"
 tags:
   - ingenieria-ambiental
   - ingenieria
   - medio-ambiente
   - gestion-ambiental
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=50'
@@ -46,18 +45,25 @@ La Especialización en Ingeniería Ambiental, de acuerdo con el artículo 2º de
 
 Exponer con solvencia los principios básicos y fundamentos teóricos que se manejan en la Ingeniería Ambiental en su estado actual. Conocer los fundamentos teóricos y principales características de las tecnologías ambientales más utilizadas en la actualidad, sus campos de aplicación, limitaciones y costos. Aplicar, utilizando los fundamentos teóricos, las nuevas tendencias en Ingeniería Ambiental, atendiendo a las exigencias del sector. Abordar los aspectos sociales y económicos asociados a la aplicación y utilización de tecnologías ambientales.
 
-### Referentes académicos
+### Datos del programa
 
-Liliana Borzacconi, Elizabeth Gonzalez, Mauricio Passeggi.
+- **Título otorgado:** Especialista en Ingeniería Ambiental
+- **Plan de estudios:** 2023
+- **Duración:** 18 meses
+- **Créditos:** 60 (60 de cursos)
+- **Tesis:** No
+- **Postulación:** Continua, sin fecha de cierre (inscripción en curso según CAP)
+- **Costo:** Arancelada según CAP (monto registrado 0,00; consultar montos vigentes)
+- **Ficha CAP actualizada:** 23/03/2026
 
 ## Ingreso
 
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
-Podrán ingresar a la Especialización en Ingeniería Ambiental quienes posean antecedentes académicos de acuerdo a lo expresado en el Artículo 13º del RGP-FING. Aquellos aspirantes que a juicio de la SCAPA-IAmb necesiten completar actividades previas, de manera de asegurar un completo aprovechamiento de las actividades del programa, deberán realizar estas actividades de nivelación antes de dar inicio a la actividad programada. Las actividades de nivelación no generarán créditos para la obtención de la Especialización
+Podrán ingresar a la Especialización en Ingeniería Ambiental quienes posean antecedentes académicos de acuerdo a lo expresado en el Artículo 13º del RGP-FING. Aquellos aspirantes que a juicio de la SCAPA-IAmb necesiten completar actividades previas, de manera de asegurar un completo aprovechamiento de las actividades del programa, deberán realizar estas actividades de nivelación antes de dar inicio a la actividad programada. Las actividades de nivelación no generarán créditos para la obtención de la Especialización.
 
-## Plan de Estudio
+### Inscripción y contacto
 
-### Unidades curriculares
-
-Manejo de la materia orgánica del suelo en sistemas productivos sostenibles en el Uruguay Toxicología Ambiental Ambiente, Sociedad y Desarrollo Control de Ruido Gestión Integral de Residuos Sólidos Urbanos Métodos de la Acústica Ambiental Contaminación atmosférica Transporte de sustancias en flujos a superficie libre Derecho Ambiental Ingeniería y Desarrollo DOSA Remoción de nutrientes Desinfección de aguas Evaluación de Impacto Ambiental Estadistica Aplicada en Hidraulica Ambiental Introducción al diseño de reactores Análisis estadístico de datos climáticos Microbiología Ambiental Hidrología Aplicada a la Ingeniería Ambiental Hidráulica de conducciones a superficie libre Estructura y funcionamiento de ecosistemas
+Inscripción: Facultad de ingeniería.
+Contacto: iocchiuzzi@fing.edu.uy.
+La inscripción se encuentra en curso, sin fecha de cierre (verificado en CAP).

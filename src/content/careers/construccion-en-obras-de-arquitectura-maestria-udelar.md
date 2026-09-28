@@ -1,5 +1,5 @@
 ---
-title: "Maestría en Construcción en Obras de Arquitectura"
+title: "Maestría en Construcción de Obras de Arquitectura"
 similar:
   - construccion-de-obras-de-arquitectura-especializacion-udelar
   - ingenieria-estructural-maestria-udelar
@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 120
+contactEmail: "posgradoyep@fadu.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=1"
 location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
-description: "OBJETIVOS DEL PROGRAMA La Maestría en Construcción de Obras de Arquitectura tiene por objetivo proporcionar una formación superior a la del grado, en el campo disciplinar específico del conocimiento que le compete. El objetivo de la Maestría es lograr que los egresados alcancen una formación superior, buscando prepararlos para que puedan disponer de las bases necesarias para la investigación tecnológica, profundi"
-startDate: ""
-applicationDeadline: ""
+description: "Maestría arancelada de 18 meses (120 créditos) en construcción de obras de arquitectura: formación superior con bases para la investigación tecnológica en desempeño y sustentabilidad, gestión y economía de la construcción, y tecnología de materiales. Sin convocatoria vigente."
 tags:
   - arquitectura
   - construccion
   - gestion-de-la-construccion
   - direccion-de-obras
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -61,3 +60,17 @@ Perfil de ingreso: Preferentemente Arquitectos e Ingenieros Civiles. Pudiendo se
 ### Programa
 
 Estructura básica del Programa Si bien en el Programa está contemplada la formación integral del alumno a nivel del Programa de Posgrado que se presenta, se puede también estructurar a partir de la definición de tres tipos de perfiles de formación de alumnos, cada uno relacionado a una de las siguientes líneas de investigación: Desempeño y sustentabilidad, Gestión y economía de la Construcción, Tecnología de los materiales, componentes y procesos constructivos. Las disciplinas se divididirán en tres períodos de aproximadamente cuatro meses. En cada período hay una disciplina obligatoria a cursar, siendo el resto opcionales. En el primer período se busca dar a los alumnos una visión general de las diferentes líneas de investigación y reafirmar el vínculo entre la creación y construcción arquitectónica, estando constituido por tres disciplinas opcionales (una de cada perfil), siendo obligatoria la disciplina de Arquitectura y Tecnología. En el segundo y tercer periodo, son ofrecidas disciplinas alternativas (opcionales), focalizadas en diferentes temas de investigación y como obligatorias la de Planeamiento y Evaluación de Experimentos y la de Epistemilogía y Metodología, respectivamente Así, al final del tercer periodo el alumno pasa a trabajar en su Tesis de Maestría 1er PERIODO Gerenciamiento en Construcción Desempeño de las Edificaciones Arquitectura y tecnología Materiales: estructura, propiedades,tecnología 2do PERIODO Patología de las Construcciones Edificios y comunidades sustentables Planeamiento y Evaluación de Experimentos A Gestión de Proyectos y Desarrollo de Productos 3er PERIODO Eficiencia energética en edificaciones Hormigones Especiales Epistemología y Metodología de investigación Desarrollo de Nuevos Materiales Métodos y técnicas para gerenciamiento en construcción Certificación ambiental de edificios Presupuestación y seguimiento de obras
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 31/03/2022–02/05/2022). Postulación on-line en el sitio web de la Facultad de Arquitectura.
+
+### Costo
+
+El programa cobra derechos universitarios: $U 210.000.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

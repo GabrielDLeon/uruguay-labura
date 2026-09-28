@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 160
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=48"
 location: "Facultad de Ciencias, Montevideo"
 description: "OBJETIVOS El Programa de Maestría aspira a formar personas capaces de: a) hacer uso de sus conocimientos en Física y asesorar sobre su utilización en aplicaciones de carácter científico y tecnológico. b) enseñarla a nivel universitario y, eventualmente, contribuir al mejoramiento de la enseñanza de la Física en otros niveles. c) colaborar en proyectos de investigación en Física Básica y Aplicada."
-startDate: ""
-applicationDeadline: "Secretaría de Posgrado del IPES"
 tags:
   - fisica
   - ciencias-exactas
   - astrofisica
   - fisica-nuclear
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -61,3 +59,13 @@ Podrán ingresar a la Maestría los licenciados en Física de la Universidad de 
 ### Programa
 
 Dado que las condiciones de ingreso presuponen que el estudiante ya ha adquirido una amplia formación básica en Física, los cursos están destinados al estudio con mayor profundidad o al desarrollo de aplicaciones en las diversas subáreas. Un curso semestral de seis horas semanales es equivalente a 15 créditos quedando a criterio de la Comisión el número de créditos a adjudicar a otro tipo de curso. El estudiante deberá aprobar un total de 60 créditos. 30 créditos corresponden a cursos básicos (a definir por la Comisión de Postgrados) y 30 créditos a cursos optativos. La selección de estos cursos será realizada por el estudiante en conjunto con la Comisión de Postgrados Al terminar cada curso, los estudiantes rendirán un examen ante un tribunal designado por la Comisión de Postgrados del cual formará parte, en lo posible, el profesor del curso. El tribunal juzgará el resultado del examen conjuntamente con otro elemento de juicio aportado por el profesor y asignará las calificaciones de acuerdo a: Excelente, Bueno, Aceptable y Reprobado.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en Bedelía de Facultad de Ciencias.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

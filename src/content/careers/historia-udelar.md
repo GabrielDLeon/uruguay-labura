@@ -12,41 +12,38 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/historia"
 location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "El egresado de la Licenciatura en Historia estará capacitado para diseñar y desarrollar proyectos de investigación básica y aplicada en forma independiente o en equipos de trabajo de índole disciplinaria o interdisciplinaria. Trabajará profesionalmente en forma autónoma o vinculado a instituciones públicas o privadas. Podrá actuar, asimismo, en la enseñan"
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Licenciatura en Historia de 4 años (360 créditos) en la FHCE. Capacita para diseñar y desarrollar investigación histórica básica y aplicada, en forma autónoma o en instituciones, más enseñanza, asesoría, promoción cultural y extensión."
 tags:
   - historia
   - humanidades
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fhce.edu.uy/licenciatura-en-historia/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/historia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fhce.edu.uy/licenciatura-en-historia/'
+    url: "https://udelar.edu.uy/carrera/historia"
+  - label: "Página oficial"
+    url: "https://fhce.edu.uy/licenciatura-en-historia/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-El egresado de la Licenciatura en Historia estará capacitado para diseñar y desarrollar proyectos de investigación básica y aplicada en forma independiente o en equipos de trabajo de índole disciplinaria o interdisciplinaria. Trabajará profesionalmente en forma autónoma o vinculado a instituciones públicas o privadas. Podrá actuar, asimismo, en la enseñanza, la asesoría, la promoción cultural y las actividades de extensión, concurriendo a la difusión en ámbitos académicos y sociales amplios del conocimiento histórico sólidamente construido y adecuadamente expuesto. Su acción procurará contribuir a la comprensión de los procesos históricos mundiales, regionales y locales.
+El egresado está capacitado para diseñar y desarrollar proyectos de investigación básica y aplicada en forma independiente o en equipos disciplinarios e interdisciplinarios, en forma autónoma o vinculado a instituciones públicas o privadas.
+
+Actúa en la enseñanza, la asesoría, la promoción cultural y la extensión, difundiendo conocimiento histórico sólido en ámbitos académicos y sociales amplios, y contribuyendo a comprender los procesos históricos mundiales, regionales y locales.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Egresados de Magisterio, INET, IPA o Udelar.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- También egresados de Magisterio, INET, IPA o Udelar.

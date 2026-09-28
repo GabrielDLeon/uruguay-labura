@@ -4,7 +4,6 @@ similar:
   - bibliotecologia-udelar
   - maestria-en-historia-um
   - bimodal-en-estudios-contemporaneos-de-america-latina-maestria-udelar
-  - intervenciones-comunitarias-especializacion-udelar
   - antropologia-en-educacion-en-filosofia-en-historia-en-letras-en-linguistica-doctorado-udelar
   - abogacia-udelar
 institutionName: "Universidad Católica del Uruguay"

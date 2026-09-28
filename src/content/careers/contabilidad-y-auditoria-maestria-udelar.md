@@ -12,15 +12,14 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "30 meses"
+credits: 175
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=79"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "El posgrado en Contabilidad y/o Auditoria persigue entre otros que el profesionalprofundice: el estudio de la teoría contable el análisis de los distintos aspectos de la normativa contable nacional einternacional la profundización de la problemática referida a distintos tipos de entidades la elaboración de información para la gestión empresaria la actualización en el campo del control de los sistemas de información y gestiónde la entidad (auditoría)"
-startDate: ""
-applicationDeadline: ""
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Magíster en Contabilidad y Auditoría (175 créditos con tesis obligatoria): profundiza la teoría contable, la normativa nacional e internacional, la auditoría de estados financieros y de gestión y la metodología de investigación. Formación avanzada para el sector público y privado."
 tags:
   - contabilidad
   - auditoria
@@ -28,7 +27,7 @@ tags:
   - gestion-contable
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=79'
@@ -40,20 +39,24 @@ sources:
 
 ### Objetivo
 
-El posgrado en Contabilidad y/o Auditoria persigue entre otros que el profesional profundice: el estudio de la teoría contable el análisis de los distintos aspectos de la normativa contable nacional e internacional la profundización de la problemática referida a distintos tipos de entidades la elaboración de información para la gestión empresaria la actualización en el campo del control de los sistemas de información y gestión de la entidad (auditoría)
+Profundizar la teoría contable, la normativa contable nacional e internacional, la problemática de distintos tipos de entidades, la elaboración de información para la gestión y la actualización en control de sistemas de información y gestión (auditoría).
 
 ### Perfil de egreso
 
-Formar especialistas en el área del conocimiento mencionadas, que se puedan desarrollar tanto en el sector público como privado, de manera de lograra un fortalecimiento en la aplicación a nivel nacioanl de la normativa contable local, así como el conocimiento de la normativa internacional vigente, aún non adoptada por nuestro país, así como fortalecer también el área de auditoria y control del cumplimiento de dicha normativa a nivel local frente a la inexistencia de un organismo de control con una institucionalidad creible. También profundizará todos los avances tecnológicos en materia de sistemas de información y de reporte de información contable.
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-El curso está destinado a graduados universitarios o con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que, con los requisitos enunciados, se hayan postulado oportunamente y sean aceptados por la Coordinación Académica del Posgrado, en base al curriculum personal de estudios, antecedentes y experiencia profesional. El título de grado podrá pertenecer a la Universidad de la República, universidades del exterior de nivel reconocido, con programas y planes de estudio de nivel académico verificables o en universidades del país cuya currícula alcance un nivel de educación superior y no meramente terciaria.
+Especialistas para el sector público y privado, con dominio de la normativa local e internacional, del control de su cumplimiento y de los avances en sistemas de información y reporte contable.
 
 ## Plan de Estudio
 
 ### Programa
 
-ÁREAS DE CONOCIMIENTO: Teoría Contable - 20 créditos Nociones sobre sociedades comerciales - 5 créditos Sistemas de información y reportes financieros - 10 créditos Auditoría de estados financieros - 15 créditos Auditoría de Gestión - 10 créditos Investigación y Metodología de la Investigación - 10 créditos Taller de Actuación y Etica profesional - 10 créditos Otros créditos - 35 créditos Trabajo Final (tesis obligatoria) - 30 créditos
+Treinta meses y 175 créditos: Teoría Contable (20), Sociedades comerciales (5), Sistemas de información y reportes (10), Auditoría de estados financieros (15), Auditoría de Gestión (10), Investigación y Metodología (10), Taller de Actuación y Ética (10), otros créditos (35) y tesis obligatoria (30).
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Destinado a graduados universitarios (o con formación equivalente) con un mínimo de 4 años de estudios. El título de grado puede pertenecer a la Universidad de la República, a universidades del exterior de nivel reconocido o a universidades del país con nivel de educación superior. La admisión la resuelve la Dirección Académica del posgrado en base a escolaridad, antecedentes y experiencia profesional.
+
+### Inscripción y arancel
+
+El CAP indica cobro de derechos universitarios pero publica un monto de $ 0,00 (dato inconsistente) y un último período de inscripción de 2017, por lo que la ficha queda en revisión hasta confirmar arancel y convocatoria vigentes. Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en el Centro de Posgrados.

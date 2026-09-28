@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-imagenologia"
-location: "Río Negro Facultad de Medicina; Paysandú"
-description: "El licenciado en Imagenología es el profesional universitario capacitado especialmente para la operación de equipamiento imagenológico de diagnóstico basado en el uso de radiaciones ionizantes, así como de otros métodos que utilizan otros fundamentos físicos para la obtención de imágenes. Resulta in"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Medicina; Paysandú; Río Negro"
+description: "El licenciado en Imagenología es el profesional universitario capacitado especialmente para la operación de equipamiento imagenológico de diagnóstico basado en el uso de radiaciones ionizantes, así como de otros métodos que utilizan otros fundamentos físicos para la obtención de imágenes. Resulta inherente a su formación la capacitación en Protección Radiológica y Control de Calidad."
 tags:
   - imagenologia
   - diagnostico-por-imagenes
   - radiologia
   - tecnologia-medica
   - salud
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,8 +32,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-imagenologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-imagenologia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-imagenologia'
 ---
 
 ## Resumen
@@ -45,6 +39,10 @@ sources:
 ### Sobre la Carrera
 
 El licenciado en Imagenología es el profesional universitario capacitado especialmente para la operación de equipamiento imagenológico de diagnóstico basado en el uso de radiaciones ionizantes, así como de otros métodos que utilizan otros fundamentos físicos para la obtención de imágenes. Resulta inherente a su formación la capacitación en Protección Radiológica y Control de Calidad.
+
+### Duración y cursado
+
+**Duración:** 4 años (4070 horas) · **Sedes:** Facultad de Medicina (Montevideo) y Paysandú · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

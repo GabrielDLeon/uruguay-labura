@@ -11,23 +11,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+credits: 60
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=49"
 location: "Facultad de Ingeniería, Montevideo"
-description: "La Especialización en Optimización, de acuerdo con el artículo 2° de la Ordenanza delas Carreras de Posgrado de la Universidad de la República tiene por objeto: Brindar una formación más especializada que la correspondiente a los cursosde grado en el área de Optimización. Profundizar la formación del graduado en el manejo activo y creativo delconocimiento.Este "
-startDate: ""
-applicationDeadline: "Facultad de ingeniería"
+description: "La Especialización en Optimización, de acuerdo con el artículo 2° de la Ordenanza de las Carreras de Posgrado de la Universidad de la República tiene por objeto: Brindar una formación más especializada que la correspondiente a los cursos de grado en el área de Optimización. Profundizar la formación del graduado en el manejo activo y creativo del conocimiento."
 tags:
   - optimizacion
   - matematica
   - investigacion-de-operaciones
   - computacion-cientifica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=49'
@@ -45,12 +43,25 @@ La Especialización en Optimización, de acuerdo con el artículo 2° de la Orde
 
 Al culminar los cursos, el egresado del programa será capaz de: Exponer con solvencia la teoría de Optimización. Conocer sus aplicaciones, y abstraer la semántica de una realidad mediante modelos matemáticos de optimización. Llevar a la práctica el proceso de modelado matemático y optimización en problemas concretos sociales e industriales. Incorporar un proceso de mejora continua a la solución propuesta, que sea factible y a su vez se adapte a los presupuestos disponibles y restricciones reales.
 
-### Referentes académicos
+### Datos del programa
 
-Claudio Risso crisso@fing.edu.uy
+- **Título otorgado:** Especialista en Optimización
+- **Plan de estudios:** 2022
+- **Duración:** 1 año (12 meses)
+- **Créditos:** 60 (60 de cursos)
+- **Tesis:** No
+- **Postulación:** Continua, sin fecha de cierre (inscripción en curso según CAP)
+- **Costo:** Gratuita (sin cobro de derechos universitarios, según CAP)
+- **Ficha CAP actualizada:** 23/03/2026
 
 ## Ingreso
 
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
 Podrán ingresar a la carrera de Especialización en Optimización quienes posean antecedentesacadémicos de acuerdo a lo expresado en el Artículo 13º del RGP-FING, siendo la SCAPA-IO laresponsable de acreditar que la formación previa del aspirante permita la realización yaprovechamiento de su correspondiente programa de estudios. El perfil de ingreso deseado consiste en poseer una formación que incluya los siguientesaspectos: el análisis de problemas, el manejo de abstracciones simbólicas, el manejo deherramientas matemáticas de base tales como el análisis, el álgebra, la probabilidad y laestadística, y la matemática discreta; el manejo de herramientas informáticas de base tales comoel diseño de algoritmos, la programación, el diseño de sistemas de información; y poseernociones sobre la estructura y la toma de decisiones dentro de organizaciones complejas. Aquellos aspirantes que a juicio de la SCAPA-IO necesiten completar actividades previas, demanera de asegurar un completo aprovechamiento de las actividades del plan de estudios,deberán realizar estas actividades de nivelación inmediatamente después de haber sidoadmitidos al programa.
+
+### Inscripción y contacto
+
+Inscripción: Facultad de ingeniería.
+Por consultas, ver los datos de contacto en la ficha del programa en el Catálogo de Posgrados de Udelar.
+La inscripción se encuentra en curso, sin fecha de cierre (verificado en CAP).

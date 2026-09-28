@@ -12,21 +12,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
+credits: 60
 cost: "Arancelada"
+contactEmail: "upep@fagro.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=99"
 location: "Facultad de Agronomía, Montevideo"
 description: "Formar graduados con dominio de temas o áreas dentro de una profesión o de un campo de aplicación. Buscan ampliar la capacitación profesional con profundidad y/o extensión, en particular, a través de una formación que incluya prácticas profesionales."
-startDate: ""
-applicationDeadline: "Unidad de Posgrado y Educación Permanente - Facultad de Agronomía"
+applicationDeadline: "2027-11-15"
 tags:
   - agronomia
   - agropecuario
   - produccion-animal
   - produccion-vegetal
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -69,3 +69,17 @@ Los estudiantes deben completar un mínimo de 60 créditos, de los cuales 50 cor
 ### Unidades curriculares
 
 Los estudiantes deben completar un mínimo de 60 créditos, de los cuales 50 corresponden a cursos y actividades programadas (seminario I) y 10 a un trabajo final. No se encuentran definidas unidades curriculares obligatorias.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación periódica anual. Próximo período de inscripción: del 15/10/2027 al 15/11/2027. La inscripción se realiza en la Unidad de Posgrados y Educación Permanente de la Facultad de Agronomía (Av. Garzón 780, primer piso, Montevideo).
+
+### Costo
+
+El programa cobra derechos universitarios: 20.100 unidades indexadas (UI) para estudiantes uruguayos y extranjeros.
+
+### Contacto
+
+Unidad de Posgrados y Educación Permanente: upep@fagro.edu.uy (tel. 099 75 30 70).

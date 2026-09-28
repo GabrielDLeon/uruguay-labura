@@ -12,15 +12,13 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
 cost: "Arancelada"
+credits: 60
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=96"
 location: "Convenio A.N.E.P.- UdelaR"
-description: "Especialización en Educación y Desarrollo, dictada por la Universidad de la República (UDELAR) en convenio con A.N.E.P.."
-startDate: ""
-applicationDeadline: ""
+description: "Diploma de Especialización en Educación y Desarrollo (18 meses, 60 créditos), en convenio ANEP-Udelar."
 tags:
   - educacion
   - desarrollo
@@ -40,4 +38,12 @@ sources:
 
 ## Resumen
 
-Información no disponible en el catálogo de posgrados de Udelar.
+### Sobre el programa
+
+Diploma de Especialización en Educación y Desarrollo (18 meses, 60 créditos), en convenio ANEP-Udelar.
+
+## Ingreso
+
+### Convocatoria
+
+**Sin convocatoria vigente.**

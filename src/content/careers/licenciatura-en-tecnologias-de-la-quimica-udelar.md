@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-tecnologias-de-la-quimica"
 location: "Facultad de Química"
-description: "El Licenciado en Tecnologías de la Química es el profesional que se caracteriza por: a) Poseer sólidos conocimientos en las tecnologías de la química, con énfasis en ciencias moleculares, como por ejemplo, nanotecnología, biotecnología u otras tecnologías emergentes o consolidadas. b) Asesorar y col"
-startDate: ""
-applicationDeadline: ""
+description: "El Licenciado en Tecnologías de la Química posee sólidos conocimientos en tecnologías de la química con énfasis en ciencias moleculares, como nanotecnología y biotecnología. Asesora a los profesionales de las tecnologías farmacéutica y alimentaria con creatividad e impronta interdisciplinar. Orientaciones: Biotecnología o Nanotecnología."
 credits: 360
 tags:
   - quimica
@@ -29,7 +25,7 @@ tags:
   - nanotecnologia
   - biotecnologia
   - quimica-analitica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

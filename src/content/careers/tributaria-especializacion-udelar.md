@@ -11,24 +11,25 @@ institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
-modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+modality: "hibrido"
+shift: "both"
+weeklyHours: "6 horas"
+duration: "18 meses"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=90"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "Aportar elementos conceptuales y metodológicos en el campo de la Tributación queconstituyan herramientas para la actuación profesional especializada, ya sea comoasesor o decisor en entidades de negocios o como integrante de la AdministraciónTributaria, respecto de cuestiones locales o internacionales.ProgramaAsignaturasLa Especialización en Tributaria se estructura sobre la base de ocho módulos deasignaturas comunes y uno complementario abierto a las"
-startDate: ""
-applicationDeadline: ""
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Especialización en Tributaria (60 créditos): aporta elementos conceptuales y metodológicos para la actuación especializada como asesor, decisor o integrante de la Administración Tributaria, en cuestiones locales e internacionales. Tres opciones (Asesoramiento y Planificación, Administración Tributaria y Tributación Internacional), con turnos matutino y vespertino."
 tags:
   - tributacion
   - impuestos
   - derecho-tributario
   - tributacion-internacional
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=90'
@@ -40,28 +41,26 @@ sources:
 
 ### Objetivo
 
-Aportar elementos conceptuales y metodológicos en el campo de la Tributación que constituyan herramientas para la actuación profesional especializada, ya sea como asesor o decisor en entidades de negocios o como integrante de la Administración Tributaria, respecto de cuestiones locales o internacionales.
+Aportar elementos conceptuales y metodológicos en tributación como herramientas de actuación especializada: asesor o decisor en entidades de negocios e integrante de la Administración Tributaria, en cuestiones locales o internacionales.
 
-### Referentes académicos
+### Perfil de egreso
 
-Profesor Cr. Álvaro Romano
-
-### Docentes
-
-El cuerpo docente es uno de los factores mas importantes que asegura la calidad del Programa de Posgrado. Está integrado por los más relevantes docentes nacionales, sumando el aporte de reconocidos catedráticos extranjeros provenientes de universidades con destaque internacional. Se podrá encontrar un detalle del plantel docente en el siguiente link: https://fcea.udelar.edu.uy/plantel-docente-tributaria.html
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-El curso está destinado a graduados universitarios o con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que, con los requisitos enunciados, se hayan postulado oportunamente y sean aceptados por la Dirección Académica del Posgrado, en base al curriculum personal de estudios, antecedentes y experiencia profesional. El título de grado podrá pertenecer a la Universidad de la República, universidades del exterior de nivel reconocido, con programas y planes de estudio de nivel académico verificables o en universidades del país cuya currícula alcance un nivel de educación superior y no meramente terciaria. Para formalizar su postulación al Programa de Posgrados: https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html
+Especialistas que continúan a la Maestría en Tributaria si lo desean. Tres opciones: Asesoramiento, Planificación y Gestión Tributaria; Administración Tributaria; y Tributación Internacional, además de seminarios temáticos.
 
 ## Plan de Estudio
 
 ### Programa
 
-Asignaturas La Especialización en Tributaria se estructura sobre la base de ocho módulos de asignaturas comunes y uno complementario abierto a las opciones de Asesoramiento, Planificación y Gestión Tributaria; Administración Tributaria y Tributación Internacional y además Seminarios de distintos tópicos en materia de tributación. Luego de completada la Especialización en Tributaria aquellos participantes que quieran pueden continuar su formación en esta área del conocimiento realizando la Maestría en Tributaria. Modalidad de clases 6 horas semanales con sesiones de 3 horas cada una. En el turno matutino la modalidad de dictado será mixta con cursos que se realizarán en forma presencial y otros en forma virtual. En el turno vespertino los interesados al momento de inscribirse deberán elegir la modalidad de asistencia a clase: a) presencial, b) a distancia. En base a la cantidad de interesados se definirá si se abrirá un sólo grupo en formato híbrido (con estudiantes presenciales y otros virtuales en forma simultánea) en salones especialmente equipados para tales fines o si se abrirán 2 grupos uno totalmente presencial y otro virtual. Los residentes en el interior del país tendrán la posibilidad de realizar todo el curso en modalidad virtual sincrónica. Normal 0 21 false false false ES-UY X-NONE X-NONE
+Dieciocho meses y 60 créditos: ocho módulos comunes (marco constitucional, sistema uruguayo, administración tributaria, fiscalidad internacional y precios de transferencia, análisis económico, actividades especiales, administración comparada, planificación fiscal internacional), uno complementario por opción y seminarios.
 
-### Unidades curriculares
+Dos turnos de 6 horas semanales en sesiones de 3 horas. Turno matutino mixto (presencial y virtual); turno vespertino a elección (presencial o a distancia, con grupo híbrido o dos grupos según inscriptos). El interior puede cursar todo en virtual sincrónico.
 
-Los módulos son: Módulo I: Derecho Tributario: Marco Constitucional (previo módulo ii) Módulo II: Sistema Tributario Uruguayo (previo módulos vi, viii y x) Módulo III: Administración Tributaria (previo módulo ix) Módulo IV: Introducción a la Fiscalidad Internacional – Precios de Transferencia (Previo Módulo Xi) Módulo V: Análisis Económico de los Impuestos Módulo VI: Tributación en Actividades Especiales Módulo VII: Administración Tributaria Comparada Módulo VII: Planificación Fiscal Internacional Módulo IX: Opción: Administración Tributaria Módulo X: Opción: Asesoramiento, Planificación y Gestión Tributaria Módulo XI: Opción: Fiscalidad Internacional Luego de completada la Especialización en Tributaria aquellos participantes que quieran pueden continuar su formación en esta área del conocimiento realizando la Maestría en Tributaria.
+## Ingreso
+
+### Requisitos de Ingreso
+
+Graduados universitarios o con formación equivalente (Ordenanza de Posgrados, art. 1), preferentemente Contadores Públicos y Doctores en Derecho y Ciencias Sociales o Abogados, con apertura a otras disciplinas.
+
+### Inscripción y arancel
+
+Posgrado arancelado: monto total publicado en CAP de $ 430.700 (pesos uruguayos, referencia 2026; verificar actualización). Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy. Último período de inscripción publicado: 22/10/2024 al 07/03/2025. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en el Centro de Posgrados.

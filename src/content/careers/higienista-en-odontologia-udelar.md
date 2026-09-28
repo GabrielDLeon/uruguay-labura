@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/higienista-en-odontologia"
 location: "Facultad de Odontología"
-description: "La/el Higienista en Odontología cuenta con un propósito de función eminentemente educativo, preventivo y de promoción de la salud a nivel individual y comunitario. Aborda la problemática de la salud de la sociedad, participando activamente en su discusión y transformación. Planifica, ejecuta y evalúa programas comunitarios de promoción de salud bucal basado en la realidad y necesidades de la población."
-startDate: ""
-applicationDeadline: ""
+description: "La/el Higienista en Odontología cuenta con un propósito de función eminentemente educativo, preventivo y de promoción de la salud a nivel individual y comunitario. Aborda la problemática de la salud de la sociedad, participando activamente en su discusión y transformación. Planifica, ejecuta y evalúa programas comunitarios de promoción de salud bucal basado en la realidad y necesidades de la población. El trabajo del/a Higienista en Odontología será bajo la supervisión, orientación y responsabilidad técnica de la odontóloga u odontólogo."
 credits: 160
 tags:
   - odontologia
   - higiene-dental
   - salud-bucal
   - atencion-comunitaria
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,8 +32,6 @@ sources:
     url: 'https://odon.edu.uy/sitio/higienista-en-odontologia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/higienista-en-odontologia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://odon.edu.uy/sitio/higienista-en-odontologia/'
 ---
 
 ## Resumen
@@ -45,6 +39,10 @@ sources:
 ### Sobre la Carrera
 
 La/el Higienista en Odontología cuenta con un propósito de función eminentemente educativo, preventivo y de promoción de la salud a nivel individual y comunitario. Aborda la problemática de la salud de la sociedad, participando activamente en su discusión y transformación. Planifica, ejecuta y evalúa programas comunitarios de promoción de salud bucal basado en la realidad y necesidades de la población. El trabajo del/a Higienista en Odontología será bajo la supervisión, orientación y responsabilidad técnica de la odontóloga u odontólogo.
+
+### Duración y cursado
+
+**Duración:** 2 años (160 créditos) · **Sede:** Facultad de Odontología (Montevideo) · **Costo:** Gratuita.
 
 ## Ingreso
 

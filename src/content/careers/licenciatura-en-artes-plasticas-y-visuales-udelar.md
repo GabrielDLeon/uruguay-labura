@@ -12,39 +12,34 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://www.artes.udelar.edu.uy/carrera/licenciatura-en-artes-plasticas-y-visuales/"
 location: "Facultad de Artes"
-description: "El campo disciplinar de la carrera Tecnicatura en Artes Plásticas y Visuales, propician el estudio universitario de la diversidad de lenguajes que intervienen en el panorama contemporáneo de las artes plásticas y visuales. No solo en los aspectos de la producción artístico cultural, sino en el ámbito educativo."
-startDate: ""
-applicationDeadline: ""
+description: "Licenciatura en Artes Plásticas y Visuales en la Facultad de Artes. Formación integral como artista plástico con enseñanza activa: lenguajes plásticos y visuales contemporáneos, experimentación y ubicación en el medio social."
 tags:
   - arte
   - artes-visuales
   - artes-plasticas
   - arte-contemporaneo
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.artes.udelar.edu.uy/carrera/licenciatura-en-artes-plasticas-y-visuales/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-artes-artes-plasticas-y-visuales'
+    url: "https://www.artes.udelar.edu.uy/carrera/licenciatura-en-artes-plasticas-y-visuales/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-El campo disciplinar de la carrera Tecnicatura en Artes Plásticas y Visuales, propician el estudio universitario de la diversidad de lenguajes que intervienen en el panorama contemporáneo de las artes plásticas y visuales. No solo en los aspectos de la producción artístico cultural, sino en el ámbito educativo. Se concibe a la carrera no solo como vertiente tecnológica sino como resultado de las relaciones sociales implicadas en su producción, articulando en el necesario nivel académico propio de la actividad universitaria, sus tres vertientes: la transmisión de conocimientos, la creación de conocimiento a partir de la investigación y su relacionamiento social a través de la extensión.
+La licenciatura brinda formación integral como artista plástico a través de didácticas de enseñanza activa en los lenguajes de las artes plásticas y visuales.
+
+Propicia una plataforma experimental para la libre expresión, el desarrollo personal y la ubicación en el medio social, con el estudio de técnicas y creaciones a lo largo de la historia.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.

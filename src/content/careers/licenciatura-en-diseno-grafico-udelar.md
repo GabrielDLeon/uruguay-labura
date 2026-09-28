@@ -10,41 +10,36 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
-area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://www.artes.udelar.edu.uy/carrera/licenciatura-en-diseno-grafico/"
 location: "Facultad de Artes"
-description: "Licenciatura en Artes - Diseño Gráfico, ofrecida por la Universidad de la República (UDELAR)."
-startDate: ""
-applicationDeadline: ""
+description: "Licenciatura en Diseño Gráfico en la Facultad de Artes (Área de Artes Gráficas, Av. 18 de Julio 1772 piso 3). Enseñanza activa, investigación y extensión en producción gráfica, asistiendo con conocimiento técnico los proyectos de la carrera."
 tags:
   - diseno-grafico
   - diseno
   - arte
   - comunicacion-visual
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.artes.udelar.edu.uy/carrera/licenciatura-en-diseno-grafico/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-artes-diseno-grafico'
+    url: "https://www.artes.udelar.edu.uy/carrera/licenciatura-en-diseno-grafico/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Licenciatura en Artes - Diseño Gráfico, ofrecida por la Universidad de la República (UDELAR).
+El Área de Artes Gráficas desarrolla enseñanza activa, investigación y extensión, asistiendo con los conocimientos técnicos a los estudiantes en sus proyectos y actividades de producción gráfica.
+
+Su estructura curricular responde a los ciclos de formación del plan de estudios, con unidades de técnicas históricas y la Licenciatura en Artes-Diseño Gráfico.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.

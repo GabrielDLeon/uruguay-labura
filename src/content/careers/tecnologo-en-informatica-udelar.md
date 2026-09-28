@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-informatica"
-location: "Facultad de Ingeniería; Maldonado; Paysandú"
-description: "El Tecnólogo en Informática forma profesionales con las capacidades para actuar en el desarrollo, puesta en marcha, mantenimiento y administración de sistemas informáticos. La cercanía entre estudiantes y docentes es uno de los diferenciales de esta carrera, y un recurso de gran valor para quienes la cursan. Clases prácticas y metodología activas distinguen el proceso de enseñan"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ingeniería; Maldonado; Paysandú; San José"
+description: "El Tecnólogo en Informática actúa en el desarrollo, puesta en marcha, mantenimiento y administración de sistemas informáticos. Participa como programador y técnico calificado en desarrollo y testing de software, administración de bases de datos y redes, y construcción y evaluación de soluciones informáticas."
 credits: 252
 tags:
   - informatica
   - software
   - administracion-de-sistemas
   - soporte-tecnico
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,6 +32,8 @@ sources:
     url: 'https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-informatica'
+  - label: 'Carrera compartida (UTEC)'
+    url: 'https://utec.edu.uy/es/educacion/carrera/tecnologo-en-informatica/'
   - label: 'Sede o facultad (fuente anterior)'
     url: 'https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico'
 ---
@@ -44,7 +42,7 @@ sources:
 
 ### Sobre la Carrera
 
-El Tecnólogo en Informática forma profesionales con las capacidades para actuar en el desarrollo, puesta en marcha, mantenimiento y administración de sistemas informáticos. La cercanía entre estudiantes y docentes es uno de los diferenciales de esta carrera, y un recurso de gran valor para quienes la cursan. Clases prácticas y metodología activas distinguen el proceso de enseñanza y aprendizaje. Los egresados de esta carrera pueden participar como programadores y técnicos calificados en tareas de desarrollo de proyectos de variada complejidad. Serán competentes para el desarrollo y testing de software, la administración de infraestructuras de bases de datos y redes, y para construir y evaluar soluciones informáticas que abarquen tareas de construcción, pruebas y documentación integrando distintas tecnologías.
+El Tecnólogo en Informática forma profesionales con las capacidades para actuar en el desarrollo, puesta en marcha, mantenimiento y administración de sistemas informáticos. La cercanía entre estudiantes y docentes es uno de los diferenciales de esta carrera, y un recurso de gran valor para quienes la cursan. Clases prácticas y metodología activas distinguen el proceso de enseñanza y aprendizaje. Los egresados de esta carrera pueden participar como programadores y técnicos calificados en tareas de desarrollo de proyectos de variada complejidad. Serán competentes para el desarrollo y testing de software, la administración de infraestructuras de bases de datos y redes, y para construir y evaluar soluciones informáticas que abarquen tareas de construcción, pruebas y documentación integrando distintas tecnologías. Carrera compartida con UTEC y DGETP-UTU; se cursa en Montevideo, Maldonado, Paysandú y San José.
 
 ## Ingreso
 

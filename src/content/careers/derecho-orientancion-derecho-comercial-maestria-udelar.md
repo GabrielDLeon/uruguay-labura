@@ -1,5 +1,5 @@
 ---
-title: "Maestría en Derecho, Orientanción Derecho Comercial"
+title: "Maestría en Derecho Comercial"
 similar:
   - derecho-comercial-especializacion-udelar
   - derecho-del-trabajo-y-de-la-seguridad-social-especializacion-udelar
@@ -12,23 +12,22 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+credits: 134
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=1"
-location: "Facultad de Derecho"
-description: "La expansión y evolución constante del Derecho Comercial requiere la profundizaciónen su normativa, para su aplicación adecuada a las situaciones reales.Es por ello que la formación de los especialistas apunta, precisamente, a que éstospuedan desempeñarse y ejercer funciones relacionadas con la actividad comercial engeneral y de las empresas públicas, estatales y no estatales, y las empresas privadasen particular, como también desarrollar una práctica"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Derecho, Montevideo"
+contactEmail: "posgrado@fder.edu.uy"
+description: "Magíster en Derecho Comercial (134 créditos con tesis): profundiza la normativa comercial para empresas públicas y privadas y la práctica nacional, regional e internacional, con formación para la docencia superior y la investigación."
 tags:
   - derecho
   - derecho-comercial
   - negocios
   - asesoramiento-empresarial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=1'
@@ -40,28 +39,22 @@ sources:
 
 ### Objetivo
 
-La expansión y evolución constante del Derecho Comercial requiere la profundización en su normativa, para su aplicación adecuada a las situaciones reales. Es por ello que la formación de los especialistas apunta, precisamente, a que éstos puedan desempeñarse y ejercer funciones relacionadas con la actividad comercial en general y de las empresas públicas, estatales y no estatales, y las empresas privadas en particular, como también desarrollar una práctica profesional acorde a las exigencias del mercado nacional, regional e internacional. A su vez, la maestría proporciona formación e información a los cursantes de la misma proporcionándoles instrumentos adecuados para la realización de tareas académicas, particularmente en el campo de la enseñanza superior y la investigación del Derecho Comercial. Aspectos indispensables éstos para brindar - a partir de la profundización del conocimiento y la investigación - a los juristas en general, en cualquiera de las actividades en que éstos puedan desempeñarse, el soporte teórico que requieran en las misma.
-
-### Referentes académicos
-
-Dr. Enrique Falco
-
-### Docentes
-
-Dra. Eva Holz Dra. Rosa Poziomek Dra. Alicia Ferrer Dr. Alejandro Miller Dra. Beatriz Bugallo Dr. Israel Creimer Dr. Oscar Sarlo Dr. Horacio Rau Dr. Daniel Germán Dr. Enrique Falco Dr. Juan Dubra Dra. Mecedes Jimenez de Aréchaga Dr. Xavier De Mello
-
-## Ingreso
-
-### Reglamento
-
-En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. La instancia de evaluación en cada asignatura será de monografía, examen o prueba en Plataforma EVA.
-
-### Requisitos de Ingreso
-
-El postulante deberá ser egresado de Abogado o Escribano.
+El mismo núcleo que la Especialización, con nivel de maestría: especialistas para la actividad comercial en empresas públicas y privadas, práctica acorde al mercado nacional, regional e internacional, e instrumentos para la enseñanza superior y la investigación del Derecho Comercial.
 
 ## Plan de Estudio
 
-### Unidades curriculares
+### Programa
 
-Solución de controversias. Mediación, conciliación y arbitraje Derecho y economía Documentación y contabilidad Metodología de la investigación Inserción comercial del Uruguay. OMC. MERCOSUR Empresario societario Sociedades anónimas. La reorganización de la estructura empresarial Taller de jurisprudencia Competencia entre empresarios Empresarios y consumidores Propiedad intelectual La contratación del empresario mercantil Funcionamiento de los sistemas financieros Disfunciones en el cumplimiento de las obligaciones emergentes de los títulos valores. Remedios legales ante actos fraudulentos Problemas prácticos con los institutos de derecho concursal Taller de jurisprudencia sobre los módulos objeto de la Maestría Seminario de Tesis
+Dos años y 134 créditos (104 de cursos y 30 de tesis), Plan 2010, con 25 cupos por cohorte. Asistencia mínima del 70 % de las horas de clase.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título de abogado o Doctor en Derecho de la Facultad de Derecho de Udelar. También pueden ingresar abogados graduados en otras universidades nacionales o extranjeras que acrediten una razonable equivalencia con la carrera de Abogacía de la Facultad, además de licenciados de carreras afines según cada programa.
+
+### Inscripción y arancel
+
+Posgrado arancelado: 227,00 unidades reajustables (UR) en total (referencia CAP 2026; verificar actualización). Escuela de Posgrados, Facultad de Derecho (Av. 18 de Julio 1824, Montevideo) — posgrado@fder.edu.uy. Los llamados son anuales por cohortes (habitualmente con inscripciones entre octubre y marzo) a través del SGAE o bedelías (www.bedelias.edu.uy) según cada programa. Último período publicado: 01/10/2024 al 15/03/2025. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en la Escuela de Posgrados.
+
+Nota: el nombre del archivo contiene un error de tipeo ("orientancion"); no se renombra en esta pasada para no romper referencias. El título oficial es Magíster en Derecho Comercial.

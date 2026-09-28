@@ -12,23 +12,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=93"
-location: "Facultad de Derecho"
-description: "Este perfil profesional y académico, adecuadamente actualizado, es demandado de manera creciente por organismos gubernamentales, la actividad privada, las instituciones educativas y por organizaciones gubernamentales, comunitarias, no gubernamentales y privadas."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Derecho, Montevideo"
+contactEmail: "posgrado@fder.edu.uy"
+description: "Especialización en Derecho Internacional Público (2 años, Plan 2011): perfil profesional y académico actualizado, demandado por organismos gubernamentales, actividad privada, instituciones educativas y organizaciones de la sociedad civil."
 tags:
   - derecho
   - derecho-internacional
   - derecho-internacional-publico
   - derechos-humanos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=93'
@@ -38,30 +36,22 @@ sources:
 
 ## Resumen
 
-### Perfil de egreso
+### Objetivo
 
-Este perfil profesional y académico, adecuadamente actualizado, es demandado de manera creciente por organismos gubernamentales, la actividad privada, las instituciones educativas y por organizaciones gubernamentales, comunitarias, no gubernamentales y privadas.
-
-### Referentes académicos
-
-Dr. Enrique Hernández / Dr. Daniel Vignali
-
-### Docentes
-
-Dr. Enrique Hernández Sierra Dr. Daniel Vignali Dra. Ana María Pereyra Dr. Charles Chatterjee (Inglaterra) Dr. Heber Arbuet Dr. Whashington Baliero Dra. Magadalena Bas Dra. Mariana Blengio Valdés Dr. Wilson Fernández Luzuriaga Dr. Leonel Estevez Dra. Roxana Corbran Dra. María del Luján Flores Dra. Susana Mangana Dra. Raquel Ippoliti Esc. Oriana Piperno De la Rosa Dra. Pilar Trinidad (España) Dra. Angelines Cano (España)
-
-## Ingreso
-
-### Reglamento
-
-En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. La instancia de evaluación en cada asignatura será de monografía, examen o prueba en Plataforma EVA.
-
-### Requisitos de Ingreso
-
-El postulante a esta carrera deberá ser egresado de Abogado, Escribano o Licenciado en Relaciones Internacionales. También pueden postularse egresados de otras carreras que puedan ser consideradas por la Dirección Académica afin con el Posgrado.
+Formar especialistas en derecho internacional público con perfil profesional y académico actualizado, aptos para organismos gubernamentales, la actividad privada, la educación y las organizaciones gubernamentales, comunitarias, no gubernamentales y privadas.
 
 ## Plan de Estudio
 
-### Unidades curriculares
+### Programa
 
-Litiagación en el DIP Solución pacífica de las controversias - Arbitraje Seguridad colectiva: DIP y Terrorismo Derecho internacional de las inversiones Papel del ser humano en situaciones de coordinación Derecho internacional económico Técnicas de investigación Teoría general de las fuentes Taller de Tesis Sujetos y relaciones DIP / Derecho interno Responsabilidad internacional Evolución y nuevos aspectos del DIP Concepto, historia y fundamentos del DIP
+Dos años, Plan 2011, con 25 cupos por cohorte. La ficha CAP no publica la cantidad de créditos, por lo que este dato queda pendiente de confirmación. Asistencia mínima del 70 % de las horas de clase.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título de abogado o Doctor en Derecho de la Facultad de Derecho de Udelar. También pueden ingresar abogados graduados en otras universidades nacionales o extranjeras que acrediten una razonable equivalencia con la carrera de Abogacía de la Facultad, además de licenciados de carreras afines según cada programa.
+
+### Inscripción y arancel
+
+Posgrado arancelado: 135,00 unidades reajustables (UR) en total (referencia CAP 2026; verificar actualización). Escuela de Posgrados, Facultad de Derecho (Av. 18 de Julio 1824, Montevideo) — posgrado@fder.edu.uy. Inscripción por bedelías (www.bedelias.edu.uy). Último período publicado: 01/10/2025 al 15/03/2026. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en la Escuela de Posgrados.

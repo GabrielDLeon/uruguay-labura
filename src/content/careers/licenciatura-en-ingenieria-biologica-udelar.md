@@ -12,25 +12,22 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 credits: 360
 cost: "Gratuita"
 language: "Español"
-website: "https://udelar.edu.uy/carrera/licenciatura-en-ingenieria-biologica"
+website: "https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA"
+contactEmail: "ingenieriabiologica@cup.edu.uy"
 location: "Montevideo; Salto; Paysandú"
 description: "La Licenciatura en Ingeniería Biológica es una nueva carrera orientada a la formación de especialistas con un amplio campo de acción ya que aborda y combina prácticamente todas las ramas de la ciencia y sus aplicaciones. La Ingeniería Biológica trabaja en el vasto mundo de las ciencias de la vida, utilizando las herramientas analíticas de la ingeniería, la ciencia y la tecnología para el entendimiento y la resolución de problemas de biología y medicina."
-startDate: ""
-applicationDeadline: ""
 tags:
   - ingenieria-biologica
   - biologia
   - biotecnologia
   - biologia-molecular
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial FING'
     url: 'https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA'

@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-recursos-naturales"
 location: "Rivera"
 description: "Las personas que egresan de la Licenciatura en Recursos Naturales son profesionales con una sólida formación en los aspectos científicos relacionados con la estructura y funcionamiento de los sistemas ambientales, y en especial en aspectos técnicos de la gestión y desarrollo sustentable de los sistemas naturales."
-startDate: ""
-applicationDeadline: ""
 credits: 360
 tags:
   - recursos-naturales
@@ -29,9 +25,9 @@ tags:
   - medio-ambiente
   - gestion-ambiental
   - desarrollo-sostenible
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.rivera.udelar.edu.uy/recursos-naturales/'

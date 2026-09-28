@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 65
+contactEmail: "posgradoyep@fadu.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=3"
 location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
 description: "El egresado adquirirá una formación superior en el área de la Construcción de Obras de Arquitectura que lo capacitará para el manejo activo del conocimiento y para aplicar con profundidad y solvencia en su actividad profesional los temas de estudio incluidos en el Diploma. Asimismo, podrá adquirir elementos metodológicos que le permitirán abordar otros campos del conocimiento tecnológico y la resolución de problemas de interés en su actividad."
-startDate: ""
-applicationDeadline: ""
 tags:
   - arquitectura
   - construccion
   - gestion-de-la-construccion
   - direccion-de-obras
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -61,3 +60,17 @@ Perfil de ingreso: Preferentemente Arquitectos e Ingenieros Civiles. Pudiendo se
 ### Programa
 
 Las disciplinas se divididirán en tres períodos de aproximadamente cuatro meses. En cada período hay una disciplina obligatoria a cursar, siendo el resto opcionales. En el primer período se busca dar a los alumnos una visión general de las diferentes líneas de investigación y reafirmar el vínculo entre la creación y construcción. 1er PERIODO Gerenciamiento en Construcción Desempeño de las Edificaciones Arquitectura y tecnología Materiales: estructura, propiedades, tecnología 2do PERIODO Patología de las Construcciones Edificios y comunidades sustentables Planeamiento y Evaluación de Experimentos Gestión de Proyectos y Desarrollo de Productos 3er PERIODO Eficiencia energética en edificaciones Hormigones Especiales Desarrollo de Nuevos Materiales Métodos y técnicas para gerenciamiento en construcción Certificación ambiental de edificios Presupuestación y seguimiento de obras
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 01/09/2020–01/10/2020). Postulación on-line en el sitio web de la Facultad de Arquitectura.
+
+### Costo
+
+El programa cobra derechos universitarios: $U 75.000.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

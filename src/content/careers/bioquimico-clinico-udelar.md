@@ -9,25 +9,21 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "carrera"
-area: "Ciencias de la Salud"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/bioquimico-clinico"
 location: "Facultad de Química; Salto"
-description: "Es un profesional con sólidos conocimientos en análisis clínicos, tanto en lo relativo a las metodologías aplicadas en Bioquímica, Microbiología, Histología, Inmunología y Toxicología como en el conocimiento de la fisiopatología de los seres vivos. El bioquímico clínico estará capacitado para diseñar, desarrollar, planificar, aplicar, reali"
-startDate: ""
-applicationDeadline: ""
+description: "Profesional con sólidos conocimientos en análisis clínicos: metodologías de Bioquímica, Microbiología, Histología, Inmunología y Toxicología, y fisiopatología de los seres vivos. Diseña, aplica e interpreta metodologías de laboratorio y trabaja en salud humana, salud pública, toxicología y bioquímica legal, y biotecnología."
 credits: 450
 tags:
   - quimica
   - bioquimica
   - bioquimica-clinica
   - laboratorio-clinico
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

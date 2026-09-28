@@ -10,44 +10,43 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
-area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "30 meses"
+credits: 225
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-gestion-universitaria"
 location: "Facultad de Ciencias Económicas y de Administración"
-description: "Los egresados estarán capacitados para desempeñarse en instituciones de enseñanza terciaria tanto a nivel público como privado y en organismos públicos que ejercen funciones de supervisión de dicho nivel de enseñanza. Pueden intervenir en actividades de gestión y administración de estas institucione"
-startDate: ""
-applicationDeadline: ""
-credits: 225
+description: "Tecnólogo en Gestión Universitaria de 30 meses (225 créditos) en la FCEA. Forma gestores de instituciones de enseñanza terciaria públicas y privadas y de organismos de supervisión: planificación, coordinación, gestión de personas y negociación."
 tags:
   - administracion
   - gestion-educativa
   - educacion-superior
   - gestion-universitaria
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/243-tecnico-en-gestion-universitaria.html'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/tecnologo-en-gestion-universitaria'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/243-tecnico-en-gestion-universitaria.html'
+    url: "https://udelar.edu.uy/carrera/tecnologo-en-gestion-universitaria"
+  - label: "Página oficial"
+    url: "https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/243-tecnico-en-gestion-universitaria.html"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Los egresados estarán capacitados para desempeñarse en instituciones de enseñanza terciaria tanto a nivel público como privado y en organismos públicos que ejercen funciones de supervisión de dicho nivel de enseñanza. Pueden intervenir en actividades de gestión y administración de estas instituciones, en forma individual o como integrantes de equipos de trabajo. Se trata de tecnológos cuya responsabilidad básica será analizar las distintas situaciones que afecten a organizaciones educativas, plantear alternativas de solución para las mismas y participar en su resolución. Comprenden el rol de las organizaciones de enseñanza terciaria en nuestra sociedad, la vinculación entre la enseñanza, la investigación, la extensión y el desarrollo de otras actividades en el medio y conoce la responsabilidad que estas actividades implican tanto a nivel institucional como individual. Actúan en el marco de la mayor responsabilidad social, el compromiso ético y el respeto por los derechos humanos en un sentido amplio. Su formación fomenta su capacidad de análisis, el desarrollo del pensamiento lógico y crítico. Manejan en forma adecuada las tecnologías de la información y la comunicación, promueven el trabajo en equipo, la formación y la actualización permanente, la orientación y desarrollo de los funcionarios. Estas características se inscriben en un marco de responsabilidad social, de compromiso ético y de valoración y respeto de los derechos humanos en un sentido amplio. En particular, cuentan con habilidades para participar activamente en: - el desarrollo de los procesos de planificación institucional. - instancias de coordinación tanto en el ámbito interno como externo. - procesos de gestión de forma de colaborar en el cumplimiento eficiente de las metas organizacionales, cuidando los recursos involucrados en los mismos. - procesos de negociación. - procesos de gestión de personas, motivando y asegurando la equidad.
+Los egresados se desempeñan en instituciones de enseñanza terciaria públicas y privadas y en organismos que supervisan ese nivel: intervienen en la gestión y administración en forma individual o en equipos.
+
+Analizan situaciones que afectan a organizaciones educativas, plantean alternativas y participan en su resolución, con responsabilidad social, compromiso ético y respeto por los derechos humanos; manejan TIC, promueven el trabajo en equipo y la actualización permanente.
+
+Cuentan con habilidades para la planificación institucional, la coordinación interna y externa, la gestión eficiente de metas y recursos, la negociación y la gestión de personas con equidad.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Sin previas. Cuenta con dos períodos de inscripción al año. Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Egresado de instituciones terciarias habilitadas.
+- Sin previas: haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU, o de instituciones terciarias habilitadas.
+- Dos períodos de inscripción al año.

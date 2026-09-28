@@ -11,21 +11,17 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-laboratorio-clinico"
 location: "Facultad de Medicina; Paysandú"
-description: "El Licenciado en Laboratorio Clínico es el profesional universitario que realiza todos los procedimientos o técnicas analíticas que se desarrollan en el laboratorio clínico con fines preventivos, de diagnóstico o control terapéutico o evolutivo de las enfermedades. Posee conocimientos en materias bá"
-startDate: ""
-applicationDeadline: ""
+description: "El Licenciado en Laboratorio Clínico es el profesional universitario que realiza todos los procedimientos o técnicas analíticas que se desarrollan en el laboratorio clínico con fines preventivos, de diagnóstico o control terapéutico o evolutivo de las enfermedades. Posee conocimientos en materias básicas afines a la disciplina que le permiten comprender e interpretar los fundamentos de los procedimientos y técnicas que realiza e incluso elaborarlos; dominio del instrumental que maneja; información anátomo-fisio-patológica suficiente para valorar y ubicar la trascendencia de los actos que ejecuta, permitiéndole analizar la validez de los resultados que obtiene, dominio de la metodología científica que le posibilita la participación en equipos uni o multidisciplinarios de investigación básica o aplicada."
 tags:
   - salud
   - laboratorio-clinico
   - bioquimica-clinica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -33,8 +29,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-laboratorio-clinico'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-laboratorio-clinico'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-laboratorio-clinico'
 ---
 
 ## Resumen
@@ -42,6 +36,10 @@ sources:
 ### Sobre la Carrera
 
 El Licenciado en Laboratorio Clínico es el profesional universitario que realiza todos los procedimientos o técnicas analíticas que se desarrollan en el laboratorio clínico con fines preventivos, de diagnóstico o control terapéutico o evolutivo de las enfermedades. Posee conocimientos en materias básicas afines a la disciplina que le permiten comprender e interpretar los fundamentos de los procedimientos y técnicas que realiza e incluso elaborarlos; dominio del instrumental que maneja; información anátomo-fisio-patológica suficiente para valorar y ubicar la trascendencia de los actos que ejecuta, permitiéndole analizar la validez de los resultados que obtiene, dominio de la metodología científica que le posibilita la participación en equipos uni o multidisciplinarios de investigación básica o aplicada.
+
+### Duración y cursado
+
+**Duración:** 4 años (3880 horas) · **Sedes:** Facultad de Medicina (Montevideo) y Paysandú · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

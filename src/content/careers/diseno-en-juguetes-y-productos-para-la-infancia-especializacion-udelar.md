@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+contactEmail: "posgradoyep@fadu.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=94"
 location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
-description: "La Especialización en Diseño de Juguetes y Productos para la Infancia surge de laidentificación de antecedentes institucionales y de la detección de espacios propiciospara favorecer la especialización disciplinar desde una mirada sistémica sobre elcontexto que rodea la infancia."
-startDate: ""
-applicationDeadline: ""
+description: "Especialización arancelada de 2 años en diseño de juguetes y productos para la infancia, con abordaje integral e interdisciplinario del diseño, atento al desarrollo del niño, el ambiente y la innovación. Sin convocatoria vigente."
 tags:
   - diseno
   - diseno-de-productos
   - primera-infancia
   - ninos-y-adolescentes
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -55,3 +53,17 @@ Directoras Académicas: Dra. Arq. Rosita De Lisi / Lic. Carolina Poradosú - Com
 ### Requisitos de Ingreso
 
 Requisitos de ingreso Podrán acceder a la Especialización en Diseño en Juguetes y Productos para la infancia los graduados universitarios con Título expedido por la Facultad de Arquitectura, Diseño y Urbanismo de la Udelar, o quienes con título de grado pudieran acreditar, ante las autoridades académicas de la Especialización, una capacitación y formación previa que permita el aprovechamiento de la actividad en cuestión. Admisión y selección de los candidatos Las solicitudes de ingreso a esta Especialización serán evaluadas por el Comité Académico. Se considerarán los antecedentes del candidato y el perfil de la aspiración, evaluando la relevancia y pertinencia de la misma en el contexto del programa. El Consejo, a partir de informe de asesoramiento del Comité Académico, resolverá la admisión de cada candidato sobre la base de la evaluación integral de la aspiración y el informe de las autoridades académicas de la Especialización. Dichos ingresos estarán supeditados a la disponibilidad de recursos humanos y materiales necesarios para cumplir con las actividades a desarrollar de acuerdo al plan de estudios.
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (sin último período publicado). Postulación on-line en www.fadu.edu.uy/inscripciones/.
+
+### Costo
+
+El programa cobra derechos universitarios: $U 150.000.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

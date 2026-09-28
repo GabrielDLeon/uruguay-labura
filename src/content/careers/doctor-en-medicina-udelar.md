@@ -5,16 +5,12 @@ institution: "udelar"
 degreeType: "carrera"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "7 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/doctor-en-medicina"
 location: "Facultad de Medicina; Paysandú; Salto"
-description: "Un médico responsable, con sólida formación científica básico-clínica, capaz de realizar diagnósticos correctos, tomar decisiones clínicas precisas, capaz de comunicarse en su misión de prevenir, curar y derivar adecuadamente; profundamente humanista, crítico, preparado para investigar, educar y edu"
-startDate: ""
-applicationDeadline: ""
+description: "Un médico responsable, con sólida formación científica básico-clínica, capaz de realizar diagnósticos correctos, tomar decisiones clínicas precisas, capaz de comunicarse en su misión de prevenir, curar y derivar adecuadamente; profundamente humanista, crítico, preparado para investigar, educar y educarse, dispuesto siempre a aprender, proporcionándole durante su preparación las herramientas metodológicas imprescindibles a tal fin; comprometido con la ética, preparado conscientemente para trabajar en un sistema que priorice la atención primaria de la salud, adiestrado para interactuar armónicamente con los otros profesionales de la salud, que es en definitiva lo que demanda nuestra sociedad."
 credits: 741
 tags:
   - medicina
@@ -27,7 +23,7 @@ similar:
   - especializacion-en-medicina-de-emergencia-um
   - odontologia-ucu
   - hemoterapia-y-medicina-transfucional-especializacion-udelar
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,8 +31,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/dr-en-medicina'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/doctor-en-medicina'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/dr-en-medicina'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 Un médico responsable, con sólida formación científica básico-clínica, capaz de realizar diagnósticos correctos, tomar decisiones clínicas precisas, capaz de comunicarse en su misión de prevenir, curar y derivar adecuadamente; profundamente humanista, crítico, preparado para investigar, educar y educarse, dispuesto siempre a aprender, proporcionándole durante su preparación las herramientas metodológicas imprescindibles a tal fin; comprometido con la ética, preparado conscientemente para trabajar en un sistema que priorice la atención primaria de la salud, adiestrado para interactuar armónicamente con los otros profesionales de la salud, que es en definitiva lo que demanda nuestra sociedad.
+
+### Duración y cursado
+
+**Duración:** 7 años (741 créditos) · **Sedes:** Facultad de Medicina (Montevideo), Paysandú y Salto · **Costo:** Gratuita.
 
 ## Ingreso
 

@@ -2,28 +2,26 @@
 title: "Maestría en Políticas Públicas"
 similar:
   - maestria-en-politicas-publicas-ucu
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 120
+contactEmail: "politicaspublicas@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=95"
-location: "Facultad de Ciencias Sociales"
-description: "*La Maestría consta de un total de 120 créditos, 40 de los cuales corresponden alSeminario de Tesis y la elaboración del Trabajo Final (Tesis de Maestría).*El Diploma consta de 60 créditos, que incluye una propuesta de investigaciónelaborada a partir de los aprendizajes adquiridos.El "
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría en Políticas Públicas (2 años, 120 créditos), con título intermedio de Diploma en Políticas Públicas (60 créditos). Dirigida a profesionales universitarios que se desempeñen como asesores, analistas, decisores o gestores de políticas públicas en instituciones públicas o privadas; admite egresados de todas las carreras y habilita al doctorado. Gratuita, con tesis. Última postulación: 30 de abril al 31 de mayo de 2026."
 tags:
   - politicas-publicas
   - ciencias-sociales
   - gestion-publica
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -31,6 +29,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=95'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=95'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Maestría en Políticas Públicas – FCS'
+    url: 'https://cienciassociales.edu.uy/maestria-en-politicas-publicas/'
 ---
 
 ## Resumen
@@ -43,15 +45,15 @@ sources:
 
 ALEJANDRO MILANESI
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 La Maestría en Políticas Públicas, y su título intermedio, el Diploma en Políticas Públicas, son programas de posgrado a dictarse a partir del año 2017 bajo la responsabilidad académica del Departamento de Ciencia Política y el Departamento de Sociología de la Facultad de Ciencias Sociales. Estos programas están dirigidos a profesionales universitarios que se desempeñen o procuren desempeñarse como asesores o analistas de procesos de políticas públicas, decisores, gestores a nivel supranacional, nacional o regional, en instituciones públicas o privadas. Una vez egresados, estarán capacitados para desempeñar tareas calificadas de gestión y asesoramiento en el Estado, organizaciones supranacionales, gobiernos municipales y regionales y organismos para-estatales, sea como funcionarios públicos o profesionales contratados; como así también en organizaciones de la sociedad civil que se relacionen con las políticas públicas. La Maestría admite a egresados de todas las carreras universitarias e institutos de formación docente y habilita a continuar estudios a nivel de Doctorado en la Universidad de la República así como en instituciones extranjeras. El Programa comprende dos titulaciones: Maestría en Políticas Públicas, que otorgará el título de Magíster; y Diploma en Políticas Públicas, que otorgará el título de Diplomado.
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-Periodo de postulación: 30 de abril al 31 de mayo 2026 Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+Última postulación: 30 de abril al 31 de mayo de 2026 (cerrada). **Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

@@ -12,23 +12,22 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+credits: 100
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=95"
 location: "Facultad de Ingeniería, Montevideo"
-description: "La Maestría en Ingeniería Ambiental tiene por objetivo atender la necesidad de complementar y ampliar la formación académica y técnica de los profesionales, en el campo ambiental, asegurando una formación suficiente en los fundamentos básicos de las distintas disciplinas relacionadas y los conocimientos instrumentales necesarios para su aplicación. Se busca así lograr una mayor especiali"
-startDate: ""
-applicationDeadline: "Facultad de Ingeniería"
+description: "La Maestría en Ingeniería Ambiental tiene por objetivo atender la necesidad de complementar y ampliar la formación académica y técnica de los profesionales, en el campo ambiental, asegurando una formación suficiente en los fundamentos básicos de las distintas disciplinas relacionadas y los conocimientos instrumentales necesarios para su aplicación."
+contactEmail: "iocchiuzzi@fing.edu.uy"
 tags:
   - ingenieria-ambiental
   - ingenieria
   - medio-ambiente
   - gestion-ambiental
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=95'
@@ -46,18 +45,25 @@ La Maestría en Ingeniería Ambiental tiene por objetivo atender la necesidad de
 
 La formación contemplará una suficiente preparación en ciencias naturales y sociales relacionadas con los problemas de la Ingeniería Ambiental y conocimientos de técnicas de aplicación en un área o áreas específicas. La orientación general de la Maestría tenderá a generar capacidades para: Proyectar, construir y operar instalaciones de acondicionamiento y protección ambiental. Proyectar y controlar procesos físico-químico-biológicos. Conocer la problemática ambiental básica del país y la región y la normativa y medios de aplicación para su control. Abordar la bibliografía internacional referida a los problemas técnicos y científicos del área, de modo de poder acompañar el desarrollo de estas disciplinas. Establecer y mantener contactos con los centros de investigación pertinentes.
 
-### Referentes académicos
+### Datos del programa
 
-Liliana Borzacconi, Elizabeth Gonzalez, Mauricio Passeggi.
+- **Título otorgado:** Magíster en Ingeniería Ambiental
+- **Plan de estudios:** 2004
+- **Duración:** 2 años (24 meses)
+- **Créditos:** 100 (60 de cursos + 40 de tesis)
+- **Tesis:** Sí
+- **Postulación:** Continua, sin fecha de cierre (inscripción en curso según CAP)
+- **Costo:** Arancelada según CAP (monto registrado 0,00; consultar montos vigentes)
+- **Ficha CAP actualizada:** 23/03/2026
 
 ## Ingreso
 
-### Reglamento
+### Requisitos de ingreso
 
 Para postularse directamente al programa de Maestría se requiere poseer un diploma universitario que exija haber cursado al menos 5 años lectivos y además formación mínima en el grado en temas básicos de Ingeniería Ambiental o estudios y/o experiencias complementarias que avalen capacitación en estas temáticas. En el caso de que el aspirante no cumpliera con alguno de los requisitos anteriores la SCAPA deberá decidir acerca de la pertinencia de su postulación y eventualmente recomendar el complemento de formación necesario.
 
-## Plan de Estudio
+### Inscripción y contacto
 
-### Unidades curriculares
-
-Introducción al diseño de reactores Microbiología ambiental Hidrología aplicada a la ingeniería ambiental Hidráulica de conducciones a superficie libre Análisis estadísticos de datos climáticos Estadística aplicada en hidráulica ambiental Estructura y funcionamiento de ecosistemas Estructura y funcionamiento de ecosistemas Manejo de la materia orgánica del suelo en sistemas productivos sostenibles en el Uruguay Toxicología ambiental Contaminación atmosférica Transporte de sustancias en flujos a superficie libre Derecho ambiental Ambiente, sociedad y desarrollo Ingeniería y desarrollo DOSA Remoción de nutrientes Control de ruido Desinfección de aguas Evaluación de impacto ambiental Gestión integral de residuos sólidos urbanos Métodos de acústica ambiental
+Inscripción: Facultad de Ingeniería.
+Contacto: iocchiuzzi@fing.edu.uy.
+La inscripción se encuentra en curso, sin fecha de cierre (verificado en CAP).

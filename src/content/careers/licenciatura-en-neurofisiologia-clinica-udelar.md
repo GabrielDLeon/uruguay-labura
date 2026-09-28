@@ -12,22 +12,18 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-neurofisiologia-clinica"
 location: "Facultad de Medicina"
-description: "El Licenciado en Neurofisiología Clínica es el profesional que tiene el título habilitante. Su formación es teórica, teórico-práctica y práctica. Realiza procedimientos de valoración fisiológica en las áreas de electroencefalografía, potenciales evocados, poligrafías, polisomnografías, sistema nervi"
-startDate: ""
-applicationDeadline: ""
+description: "El Licenciado en Neurofisiología Clínica es el profesional que tiene el título habilitante. Su formación es teórica, teórico-práctica y práctica. Realiza procedimientos de valoración fisiológica en las áreas de electroencefalografía, potenciales evocados, poligrafías, polisomnografías, sistema nervioso periférico y otras que surjan en la especialidad. Realiza las técnicas de relevamiento necesarias para el diagnóstico, la investigación, asesoramiento y prevención de las afecciones del sistema nervioso."
 tags:
   - medicina
   - neurofisiologia-clinica
   - neurologia
   - neurociencias
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,8 +31,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neurofisiologia-clinica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-neurofisiologia-clinica'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neurofisiologia-clinica'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 El Licenciado en Neurofisiología Clínica es el profesional que tiene el título habilitante. Su formación es teórica, teórico-práctica y práctica. Realiza procedimientos de valoración fisiológica en las áreas de electroencefalografía, potenciales evocados, poligrafías, polisomnografías, sistema nervioso periférico y otras que surjan en la especialidad. Realiza las técnicas de relevamiento necesarias para el diagnóstico, la investigación, asesoramiento y prevención de las afecciones del sistema nervioso.
+
+### Duración y cursado
+
+**Duración:** 4 años (3674 horas) · **Sede:** Facultad de Medicina (Montevideo) · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

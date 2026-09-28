@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+cost: "Gratuita"
+credits: 60
+contactEmail: "humanidadesposgrados@gmail.com"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=95"
-location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "Objetivos generales 1. Contribuir a la formación docente de nivel de posgrado en el área de lenguas extranjeras. 2. Generar un cuerpo crítico de docentes e investigadores en el ámbito de las lenguas extranjeras en el Uruguay, a partir de una propuesta diferencial y flexible que pueda atender las necesidades emergentes del Sistema Nacional de Educación Pública (SNEP). Objetivos específicos 1. Proveer conocimientos teóricos fundamentales para la especiali"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Humanidades y Ciencias de la Educación, Montevideo"
+description: "Especialización en Enseñanza de Lenguas Extranjeras (1 año, 60 créditos), en convenio ANEP-Udelar. Contribuye a la formación docente de posgrado en lenguas extranjeras y a generar un cuerpo crítico de docentes e investigadores que atienda las necesidades del Sistema Nacional de Educación Pública. Gratuita, con tesis."
 tags:
   - educacion
   - formacion-docente
   - lenguas-extranjeras
   - ensenanza-de-lenguas
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -33,6 +32,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=95'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=95'
+  - label: 'Plan de estudios (PDF, FHCE)'
+    url: 'https://fhce.edu.uy/wp-content/uploads/2024/02/PlanDeEstudioMEL.pdf'
+  - label: 'Posgrados ANEP-Udelar – FHCE'
+    url: 'https://fhce.edu.uy/posgrados-anep-udelar/'
 ---
 
 ## Resumen

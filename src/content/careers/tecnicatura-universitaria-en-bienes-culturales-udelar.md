@@ -8,27 +8,23 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
-area: "Sin clasificar"
+area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "30 meses"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-universitaria-en-bienes-culturales"
 location: "Colonia; Paysandú; Tacuarembó"
-description: "El egresado estará preparado para promover -en el sentido de iniciar o activar acciones a los efectos de lograr su realización-: la localización, identificación, clasificación, conservación, preservación, apropiación social, protección legislativa, entre otras acciones, de Bienes Culturales, en el m"
-startDate: ""
-applicationDeadline: ""
+description: "El egresado estará preparado para promover -en el sentido de iniciar o activar acciones a los efectos de lograr su realización-: la localización, identificación, clasificación, conservación, preservación, apropiación social, protección legislativa, entre otras acciones, de Bienes Culturales, en el marco de los estudios humanísticos, culturales y sociales, con formación interdisciplinaria y menciones en Historia Regional y Local, Patrimonio y Museología."
 credits: 200
 tags:
   - arte
   - patrimonio-cultural
   - conservacion
   - gestion-cultural
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/'

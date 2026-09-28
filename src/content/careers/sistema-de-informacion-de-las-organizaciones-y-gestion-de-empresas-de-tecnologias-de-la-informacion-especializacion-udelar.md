@@ -1,5 +1,5 @@
 ---
-title: "Especialización en Sistema de Información de las Organizaciones y Gestión de Empresas de Tecnologías de la Información"
+title: "Especialización en Sistemas de Información de las Organizaciones y Gestión de Empresas de Tecnologías de la Información"
 similar:
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistemas-de-informacion-de-las-organizaciones-maestria-udelar
@@ -12,24 +12,27 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "12 meses"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=99"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "Contribuir a la profesionalización de la gestión de las organizaciones proveedorasde tecnologías de la información (TI). Contribuir a la profesionalización de la gestión de distintos tipos deorganizaciones mediante el uso y explotación efectivo de sus sistemas de informacióny la tecnología de la información. Aportar las habilidades requeridas para desarrollar el negocio tecnológico desdeel punto de vista comercial."
-startDate: ""
-applicationDeadline: ""
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Especialización en Sistemas de Información de las Organizaciones y Gestión de Empresas de TI (60 créditos): profesionaliza la gestión de proveedoras de tecnología y el uso estratégico de los sistemas de información. Es además el título intermedio de las maestrías en Gestión de Empresas de TI y en Sistemas de Información de las Organizaciones."
 tags:
   - administracion
   - gestion-empresarial
   - informatica
   - sistemas-de-informacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 22:20:00"
 sources:
+  - label: 'Oferta e inscripciones 2026 (FCEA)'
+    url: 'https://www.fcea.udelar.edu.uy/institucional/novedades/9130-postulaciones-2026.html'
+  - label: 'Posgrado en Sistemas de Información (FCEA)'
+    url: 'https://fcea.udelar.edu.uy/especializaciones-posgrados/sistemas-de-informacion-posgrado.html'
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=99'
   - label: 'Ficha PDF'
@@ -40,32 +43,24 @@ sources:
 
 ### Objetivo
 
-Contribuir a la profesionalización de la gestión de las organizaciones proveedoras de tecnologías de la información (TI). Contribuir a la profesionalización de la gestión de distintos tipos de organizaciones mediante el uso y explotación efectivo de sus sistemas de información y la tecnología de la información. Aportar las habilidades requeridas para desarrollar el negocio tecnológico desde el punto de vista comercial. Contribuir al perfeccionamiento y profesionalización de la gestión de los sistemas de información, desde la perspectiva de las ciencias de la administración. Complementar la formación universitaria especializada, con conocimientos en el uso y explotación de sistemas de información y tecnologías informáticas. Ofrecer las habilidades necesarias para identificar, desarrollar y gestionar los beneficios que la tecnología puede brindar como ventajas competitivas, de valor agregado y soluciones de negocios. Brindar a los participantes los conceptos básicos fundamentales y metodológicos de las técnicas existentes para especificar, planificar, ejecutar y controlar proyectos, con especialidad en proyectos de TI, a fin de que resulten exitosos. Aportar herramientas que apuntalen la internacionalización de las empresas de TI.
+Profesionalizar la gestión de las organizaciones proveedoras de TI y de las organizaciones usuarias mediante el uso efectivo de sistemas y tecnología de información; desarrollar el negocio tecnológico comercialmente y gestionar sus beneficios como ventajas competitivas desde las ciencias de la administración.
 
 ### Perfil de egreso
 
-Con conocimientos para gestionar empresas de TI y transformar el modelo de negocios tecnológico en una verdadera empresa. Capaces de participar en la formulación y dirección de proyectos, así como en la elaboración de planes estratégicos, políticas y programas vinculados a la función de comercialización en las empresas de TI. Profesionales preparados para integrar la tecnología informática con la misión y visión de la organización. Capacitados para diseñar, planificar, organizar, coordinar, administrar, dirigir y controlar los distintos aspectos vinculados a los recursos informáticos conforme a la estrategia organizacional. Visión y liderazgo para administrar proyectos de TIC según estrategia. Capaces de tomar decisiones estratégicas sobre los recursos y proyectos de TI, formados en competencias para la formulación y ejecución de dichas estrategias empresariales relacionadas con la innovación tecnológica.
-
-### Referentes académicos
-
-Profesor Cr. Gabriel Budiño
-
-### Docentes
-
-El cuerpo docente es uno de los factores mas importantes que asegura la calidad del Programa de Posgrado. Está integrado por un destacado grupo de docentes locales y del exterior, con sólida formación académica, antecedentes docentes y fuerte experiencia práctica. Se podrá encontrar un detalle del plantel docente en el siguiente link: https://fcea.udelar.edu.uy/sist-info-org-ti-plantel-docente.html
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-El curso está destinado a personas con título universitario con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que reúnan los requisitos enunciados (sean o no profesionales universitarios), se hayan postulado oportunamente y sean aceptados por la Coordinación Académica del Posgrado, en base al curriculum personal de estudios, antecedentes y experiencia profesional. Para formalizar su postulación al Programa de Posgrados: http://www.fcea.edu.uy/postulaciones/formulario-postulacion.html
+Profesionales que gestionan empresas de TI y transforman el modelo de negocio tecnológico, formulan y dirigen proyectos y planes estratégicos, integran la tecnología con la misión de la organización y deciden sobre recursos y proyectos de TI e innovación.
 
 ## Plan de Estudio
 
 ### Programa
 
-Normal 0 21 false false false ES-UY X-NONE X-NONE
+Doce meses y 60 créditos en cursos (sin tesis). La ficha CAP no publica el detalle del programa ni la modalidad de dictado, por lo que esta ficha queda en revisión en esos puntos. Funciona además como título intermedio de la Maestría en Gestión de Empresas de Tecnologías de la Información y de la Maestría en Sistemas de Información de las Organizaciones.
 
-### Unidades curriculares
+## Ingreso
 
-ÁREAS DE CONOCIMIENTO Los créditos mínimos por área de conocimiento serán los siguientes: Tecnologías de la Información: 22 créditos Gestión y Estrategia: 18 créditos Proyectos y Gestión Humana: 12 créditos Otros cursos y seminarios: 8 créditos
+### Requisitos de Ingreso
+
+Destinado a graduados universitarios (o con formación equivalente) con un mínimo de 4 años de estudios. El título de grado puede pertenecer a la Universidad de la República, a universidades del exterior de nivel reconocido o a universidades del país con nivel de educación superior. La admisión la resuelve la Dirección Académica del posgrado en base a escolaridad, antecedentes y experiencia profesional.
+
+### Inscripción y arancel
+
+Posgrado arancelado: $ 301.500 en total (página del Posgrado en FCEA, con matrícula inicial y 14 cuotas). Incluido en la oferta e inscripciones 2026 de FCEA. Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy.

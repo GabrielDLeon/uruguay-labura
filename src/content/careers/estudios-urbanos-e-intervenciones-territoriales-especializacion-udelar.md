@@ -12,22 +12,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
 cost: "Arancelada"
+credits: 79
+contactEmail: "diplomaestudiosurbanos@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=96"
-location: "Facultad de Ciencias Sociales"
-description: "Ofrecer un espacio para la actualización y renovación de conocimiento de losprofesionales que desarrollan sus prácticas vinculadas al hábitat, el territorio y lavivienda. Brindar herramientas teórico-metodológicas para el abordaje de lastemáticas estudiadas.Problematizar el uso de las actuales categorías utilizadas en el diseñoe implementación de políticas públicas y programas urbano-territoriales en el Uruguayy la regiónProgramaLa Especialización tiene"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Especialización en Estudios Urbanos e Intervenciones Territoriales (2 años, 79 créditos). Actualización para profesionales vinculados al hábitat, el territorio y la vivienda, con herramientas teórico-metodológicas y problematización de las políticas urbano-territoriales. Arancelada ($U 54.000), con tesis y cupos limitados (30)."
 tags:
   - ciencias-sociales
   - urbanismo
   - territorio
   - vivienda
   - ordenamiento-territorial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,6 +34,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=96'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=96'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -49,13 +50,13 @@ Beatriz Rocco
 
 ## Ingreso
 
-### Reglamento
+### Requisitos
 
 Es requisito para inscribirse al Diploma poder acreditar la posesión (o inminente obtención) de un título universitario o títulos o antecedentes académicos evaluados equivalentes, de conformidad con los artículos 8 y 10 del Reglamento de Posgrados de la Facultad de Ciencias Sociales. La asistencia a clase es obligatoria, los cursos se aprobarán mediante la asistencia al 80% o más de las actividades programadas. La evaluación de cada curso se realizará por medio de, como mínimo, una prueba final, cuyas características serán determinadas por cada docente en acuerdo con el Comité Académico.
 
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

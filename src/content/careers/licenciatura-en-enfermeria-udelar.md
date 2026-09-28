@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "54 meses"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-enfermeria"
-location: "Rivera Facultad de Enfermería; Rocha; Salto"
-description: "Conducir el proceso de atención que realiza el equipo de enfermería en los diferentes niveles de atención. Asumir la responsabilidad de la enseñanza de enfermería en todos los niveles de formación y participar en la enseñanza de acciones de salud dirigidas a la población. Administrar y en consecuenc"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Enfermería; Rivera; Rocha; Salto"
+description: "Conducir el proceso de atención que realiza el equipo de enfermería en los diferentes niveles de atención. Asumir la responsabilidad de la enseñanza de enfermería en todos los niveles de formación y participar en la enseñanza de acciones de salud dirigidas a la población. Administrar y en consecuencia dirigir los servicios docentes y asistenciales de enfermería. Promover y participar en la investigación en el área propia y de la salud en general. Formular diagnósticos de enfermería, tratamiento y evaluación de los mismos. Brindar cuidados directos de enfermería que demanden conocimientos y capacidad para tomar decisiones de inmediato. Planificar, organizar, dirigir y controlar los servicios de enfermería en instituciones públicas y privadas. Ejercer la dirección de divisiones y departamentos de enfermería en instituciones de asistencia médica. Promover y realizar programas de educación en servicio y de investigación. Evaluar la capacidad profesional del personal de enfermería en concursos, pruebas de ingreso, admisión, promoción, etcétera. Realizar la auditoria en enfermería. Evacuar consultas de enfermería. Como integrante del equipo de salud al Licenciado en Enfermería le compete: Participar en la determinación, ejecución y evaluación de las políticas, planes y programas de salud. Participar en la educación tendiente al mejoramiento de la salud de la población. Participar en la promoción, protección de la salud y prevención de la enfermedad, enfatizando la atención primaria de salud en los diferentes niveles de atención. Participar en la elaboración de proyectos de construcción y/o reformas de unidades de atención de salud."
 credits: 360
 tags:
   - enfermeria
   - cuidados
   - gestion-sanitaria
   - educacion-para-la-salud
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,8 +32,6 @@ sources:
     url: 'https://www.fenf.edu.uy/ensenanza/area-academica/departamento-de-educacion/carrera-de-grado/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-enfermeria'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fenf.edu.uy/ensenanza/area-academica/departamento-de-educacion/carrera-de-grado/'
 ---
 
 ## Resumen
@@ -45,6 +39,10 @@ sources:
 ### Sobre la Carrera
 
 Conducir el proceso de atención que realiza el equipo de enfermería en los diferentes niveles de atención. Asumir la responsabilidad de la enseñanza de enfermería en todos los niveles de formación y participar en la enseñanza de acciones de salud dirigidas a la población. Administrar y en consecuencia dirigir los servicios docentes y asistenciales de enfermería. Promover y participar en la investigación en el área propia y de la salud en general. Formular diagnósticos de enfermería, tratamiento y evaluación de los mismos. Brindar cuidados directos de enfermería que demanden conocimientos y capacidad para tomar decisiones de inmediato. Planificar, organizar, dirigir y controlar los servicios de enfermería en instituciones públicas y privadas. Ejercer la dirección de divisiones y departamentos de enfermería en instituciones de asistencia médica. Promover y realizar programas de educación en servicio y de investigación. Evaluar la capacidad profesional del personal de enfermería en concursos, pruebas de ingreso, admisión, promoción, etcétera. Realizar la auditoria en enfermería. Evacuar consultas de enfermería. Como integrante del equipo de salud al Licenciado en Enfermería le compete: Participar en la determinación, ejecución y evaluación de las políticas, planes y programas de salud. Participar en la educación tendiente al mejoramiento de la salud de la población. Participar en la promoción, protección de la salud y prevención de la enfermedad, enfatizando la atención primaria de salud en los diferentes niveles de atención. Participar en la elaboración de proyectos de construcción y/o reformas de unidades de atención de salud.
+
+### Duración y cursado
+
+**Duración:** 54 meses (360 créditos) · **Sedes:** Facultad de Enfermería (Montevideo), Rivera, Rocha y Salto · **Costo:** Gratuita.
 
 ## Ingreso
 

@@ -10,24 +10,24 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "18 meses"
+cost: "Gratuita"
+credits: 60
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=94"
 location: "Convenio A.N.E.P.- UdelaR"
-description: "Especialización en Geografía, dictada por la Universidad de la República (UDELAR) en convenio con A.N.E.P.."
-startDate: ""
-applicationDeadline: ""
+description: "Diploma de Especialización en Geografía (18 meses, 60 créditos en tres semestres y 900 horas), en convenio ANEP-Udelar. Gratuito, sin tesis. Modalidad presencial."
 tags:
   - geografia
   - ciencias-sociales
   - territorio
   - ordenamiento-territorial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 22:20:00"
 sources:
+  - label: 'Diploma de Posgrado en Geografía (ANEP)'
+    url: 'https://formacion.anep.edu.uy/node/533'
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=94'
   - label: 'Ficha PDF'
@@ -39,4 +39,12 @@ sources:
 
 ## Resumen
 
-Información no disponible en el catálogo de posgrados de Udelar.
+### Sobre el programa
+
+Diploma de Especialización en Geografía (18 meses, 60 créditos en tres semestres y 900 horas), en convenio ANEP-Udelar. Gratuito, sin tesis. Modalidad presencial (portal de formación ANEP).
+
+## Ingreso
+
+### Convocatoria
+
+Estado "En curso" en el portal de formación ANEP. Destinatarios: profesores de Geografía (ANEP) o licenciados en Geografía (Udelar).

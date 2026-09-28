@@ -8,23 +8,19 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
-area: "Ciencias de la Salud"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/auxiliar-de-farmacia-hospitalaria"
 location: "Facultad de Química"
-description: "El auxiliar de farmacia hospitalaria (AFH) es el colaborador del químico farmacéutico (QF) en la farmacia hospitalaria. La responsabilidad profesional del QF es intransferible y el AFH está bajo la supervisión y control permanente Las funciones del AFH son: - Poseer una visión global e integrada del sistema sanitario en sus aspectos organi"
-startDate: ""
-applicationDeadline: ""
+description: "El auxiliar de farmacia hospitalaria es el colaborador del químico farmacéutico en la farmacia hospitalaria, bajo su supervisión y control permanente. Participa en la logística del medicamento, el almacenamiento y la dispensación, la preparación de medicación para sala, la elaboración de preparados magistrales y oficinales, y la promoción de hábitos saludables."
 tags:
   - farmacia
   - farmacia-hospitalaria
   - salud
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+cost: "Gratuita"
+contactEmail: "upep@fagro.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=20"
 location: "Facultad de Agronomía, Montevideo"
-description: "​El Programa de Doctorado en Ciencias Agrarias ofrece la posibilidad de continuar los estudios de Posgrado mediante una orientación académica que combina formación teórica general y especializada en investigación en campos específicos dentro de las áreas de: Ciencias Animales, Ciencias Vegetales, Ci"
-startDate: ""
-applicationDeadline: "Unidad de Posgrados y Educación Permanente - Facultad de Agronomía"
+description: "Doctorado orientado a la investigación original en Ciencias Agrarias (Ciencias Animales, Vegetales, del Suelo, Sociales y Bioestadística), para generar nuevos conocimientos vinculados a la realidad agropecuaria y agroindustrial del país. Gratuito, con postulación continua."
 tags:
   - agronomia
   - produccion-animal
   - produccion-vegetal
   - medio-ambiente
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -68,4 +66,18 @@ El Doctorado en Ciencias Agrarias no requiere cursos. La actividad central del p
 
 ### Unidades curriculares
 
-El Doctorado en Ciencias Agrarias no requiere créditos.
+El Doctorado en Ciencias Agrarias no requiere cursos: la actividad central es la tesis, más una pasantía obligatoria fuera del núcleo académico donde se desarrolla el trabajo.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. La inscripción se realiza en la Unidad de Posgrados y Educación Permanente de la Facultad de Agronomía (Av. Garzón 780, primer piso, Montevideo). Se requiere título de grado universitario y título de Maestría (o formación equivalente a juicio del Comité Académico).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Unidad de Posgrados y Educación Permanente: upep@fagro.edu.uy (tel. 099 75 30 70).

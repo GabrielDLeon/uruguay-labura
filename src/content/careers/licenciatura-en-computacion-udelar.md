@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-computacion"
 location: "Facultad de Ingeniería"
-description: "La formación del licenciado apunta a completar requisitos mínimos de formación básica y tiene conocimientos específicos en subáreas de Computación (como por ejemplo Programación, Bases de datos y Arquitectura de Sistemas) o en otras disciplinas suficientes como para participar en tareas técnicas en proyectos del área o de carácter multidisciplinario. El título habilita el ingreso a carreras de posgrado en la Universidad de la República."
-startDate: ""
-applicationDeadline: ""
+description: "Completa la formación del Analista en Computación con un cuarto año de especialización en subáreas como Programación, Bases de datos y Arquitectura de Sistemas. Forma para tareas técnicas en proyectos del área o multidisciplinarios y habilita el ingreso a posgrados de la Universidad de la República."
 credits: 360
 tags:
   - informatica
@@ -29,7 +25,7 @@ tags:
   - base-de-datos
   - arquitectura-de-software
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

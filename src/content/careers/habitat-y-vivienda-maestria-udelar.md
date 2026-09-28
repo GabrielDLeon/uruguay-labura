@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 105
+contactEmail: "posgradoyep@fadu.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=92"
-location: "Facultad de Arquitectura Diseño y Urbanismo"
-description: "La Maestría en Hábitat y Vivienda tiene por objetivo complementar y ampliar la formación académica y técnica de los profesionales de distintas áreas de conocimiento en el campo de la vivienda y el hábitat, asegurando una formación suficiente en un cuerpo de conocimientos teóricos de carácter interdisciplinario y en los conocimientos instrumentales necesarios para su aplicación. Apunta a profundi"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
+description: "Maestría gratuita de 2 años (105 créditos) que amplía la formación académica y técnica en vivienda y hábitat, con enfoque interdisciplinario para la planificación, gestión y evaluación de políticas y proyectos habitacionales. Sin convocatoria vigente."
 tags:
   - arquitectura
   - urbanismo
   - habitat
   - vivienda
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -65,3 +64,17 @@ Requisitos Podrán acceder quienes posean títulos universitarios expedidos por 
 ### Unidades curriculares
 
 PRIMER SEMESTRE - Campos teórico-conceptuales en hábitat y vivienda - Resp. Dra. Arq. Alina del Castillo - Proceso de urbanización y políticas de suelo - Resp. Dr. Luis Baer (Arg) - Políticas públicas de vivienda y hábitat en Uruguay y América Latina - Resp. Prof. Arq. Salvador.Schelotto - Laboratorio de la vivienda colectiva contemporánea - Resp. Dr. Arq. Bernardo Martín SEGUNDO SEMESTRE - La gestión del stock construido: problemáticas y estrategias - Resp. Dr. Arq. Andrés Cabrera - La gestión del stock construido: investigación proyectual - Resp. Dr. Arq. Andrés Cabrera - Prácticas participativas y asesoramiento interdisciplinario para la producción y gestión del hábitat - Resp. José María López Medina (Esp.) - Producción del espacio residencial y formación de subjetividad - Resp. Dra. Psi. Alicia Rodríguez TERCER SEMESTRE - El sistema cooperativo de producción habitacional - Resp. Dr. Gustavo Machado - Precariedad socio-urbano-habitacional - Resp. Mag. Ma. Del Huerto Delgado - Hábitat Popular. Lecturas prefiguración y gestión. (Módulo 1) - Resp. Javier Fernández Castro (Arg.) - Un abordaje desde la investigación proyectual urbana. (Módulo 2) - Resp. Javier Fernández Castro (Arg.) CUARTO SEMESTRE - Epistemología y Metodología de la Investigación - Resp. Dra. Arq. Carmen Aroztegui - Seminario de Tesis (formulación) - Resp. Dra. Alina del Castillo
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 01/09/2023–01/10/2023). Postulación on-line en el sitio web de la Facultad de Arquitectura.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

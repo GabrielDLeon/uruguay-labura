@@ -11,16 +11,12 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-educacion-fisica"
 location: "Instituto Superior de Educación Física; Maldonado; Paysandú; Rivera"
-description: "El egresado está habilitado para el desempeño en el campo académico y profesional vinculado al diseño, implementación y evaluación de políticas y programas de Educación Física, Deporte y Recreación. La formación faculta al egresado a desarrollar su actividad con la comunidad, así como en instituciones educativas, deportivas, recreativas, artísticas y las vinculadas a la salud, en los distintos ámbitos y modalidades en los que se implementa la actividad"
-startDate: ""
-applicationDeadline: ""
+description: "El egresado está habilitado para el desempeño en el campo académico y profesional vinculado al diseño, implementación y evaluación de políticas y programas de Educación Física, Deporte y Recreación. La formación faculta al egresado a desarrollar su actividad con la comunidad, así como en instituciones educativas, deportivas, recreativas, artísticas y las vinculadas a la salud, en los distintos ámbitos y modalidades en los que se implementa la actividad profesional. Se espera un profesional comprometido con su labor y con sensibilidad hacia las problemáticas de la sociedad en su conjunto. Está formado para la enseñanza, la extensión y la investigación. Son objetos de conocimiento las siguientes áreas: Salud, Deporte, Tiempo Libre y Ocio y Prácticas Corporales."
 credits: 360
 tags:
   - educacion-fisica
@@ -28,18 +24,16 @@ tags:
   - actividad-fisica
   - recreacion
   - educacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Página oficial'
-    url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/licenciatura-en-educacion-fisica/'
+    url: 'https://isef.udelar.edu.uy/ensenanza/licenciatura-en-educacion-fisica/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-educacion-fisica'
   - label: 'Sede Rivera'
     url: 'https://www.rivera.udelar.edu.uy/educacion-fisica/'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/licenciatura-en-educacion-fisica/'
 ---
 
 ## Resumen
@@ -47,6 +41,10 @@ sources:
 ### Sobre la Carrera
 
 El egresado está habilitado para el desempeño en el campo académico y profesional vinculado al diseño, implementación y evaluación de políticas y programas de Educación Física, Deporte y Recreación. La formación faculta al egresado a desarrollar su actividad con la comunidad, así como en instituciones educativas, deportivas, recreativas, artísticas y las vinculadas a la salud, en los distintos ámbitos y modalidades en los que se implementa la actividad profesional. Se espera un profesional comprometido con su labor y con sensibilidad hacia las problemáticas de la sociedad en su conjunto. Está formado para la enseñanza, la extensión y la investigación. Son objetos de conocimiento las siguientes áreas: Salud, Deporte, Tiempo Libre y Ocio y Prácticas Corporales.
+
+### Duración y cursado
+
+**Duración:** 4 años (360 créditos, Plan 2017) · **Sedes:** ISEF (Montevideo), Paysandú, Maldonado y Rivera (opción Prácticas educativas) · **Costo:** Gratuita. Tiene cupos.
 
 ## Ingreso
 

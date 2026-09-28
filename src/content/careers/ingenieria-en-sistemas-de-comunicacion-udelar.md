@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-en-sistemas-de-comunicacion"
 location: "Facultad de Ingeniería"
-description: "El Ingeniero en Sistemas de Comunicación es un profesional con formación básica en los temas relacionados con las aplicaciones técnicas de las comunicaciones. El Ingeniero en Sistemas de Comunicación podrá diseñar, especificar, dirigir el desarrollo y poner en operación todo tipo de sistemas de comunicación."
-startDate: ""
-applicationDeadline: ""
+description: "Profesional con formación en las aplicaciones técnicas de las comunicaciones, capaz de diseñar, especificar, dirigir el desarrollo y poner en operación todo tipo de sistemas de comunicación: equipamiento, redes, aplicaciones y servicios. Profundiza en electrónica para comunicaciones, procesamiento de señales, aplicaciones y servicios, o redes de telecomunicaciones."
 credits: 450
 tags:
   - telecomunicaciones
   - ingenieria
   - redes
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

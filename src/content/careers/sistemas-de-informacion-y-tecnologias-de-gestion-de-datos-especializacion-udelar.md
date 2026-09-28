@@ -12,23 +12,22 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=65"
 location: "Facultad de Ingeniería, Montevideo"
-description: "El Diploma de Especialización en Sistemas de Información y tecnologías de gestión dedatos se dirige a profesionales en Informática, que deseen especializarse en el área deSistemas de Información. Este diploma tiene como objetivos el brindar una formaciónmucho más profunda y específica en temas de actualidad en el área, que la que sebrinda en el grado."
-startDate: ""
-applicationDeadline: ""
+description: "El Diploma de Especialización en Sistemas de Información y tecnologías de gestión de datos se dirige a profesionales en Informática, que deseen especializarse en el área de Sistemas de Información. Este diploma tiene como objetivos el brindar una formación mucho más profunda y específica en temas de actualidad en el área, que la que se brinda en el grado."
+contactEmail: "cpap@fing.edu.uy"
 tags:
   - sistemas-de-informacion
   - informatica
   - ciencia-de-datos
   - gestion-de-datos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=65'
@@ -40,32 +39,31 @@ sources:
 
 ### Objetivo
 
-El Diploma de Especialización en Sistemas de Información y tecnologías de gestión de datos se dirige a profesionales en Informática, que deseen especializarse en el área de Sistemas de Información. Este diploma tiene como objetivos el brindar una formación mucho más profunda y específica en temas de actualidad en el área, que la que se brinda en el grado. Apunta a lograr profesionales capaces de encarar con solvencia la resolución de problemas de importancia en el área, complementando los elementos informativos y metodológicos que adquirió en el grado. Se busca promover la adquisición de conocimientos profundos en e áreaen el área de Sistemas de Información a través del estudio sistemático de los distintos temas, así como generar recursos humanos capaces de afrontar y resolver las necesidades de la sociedad uruguaya a través de tecnologías de información.
+El Diploma de Especialización en Sistemas de Información y tecnologías de gestión de datos se dirige a profesionales en Informática, que deseen especializarse en el área de Sistemas de Información. Este diploma tiene como objetivos el brindar una formación mucho más profunda y específica en temas de actualidad en el área, que la que se brinda en el grado. Apunta a lograr profesionales capaces de encarar con solvencia la resolución de problemas de importancia en el área, complementando los elementos informativos y metodológicos que adquirió en el grado. Se busca promover la adquisición de conocimientos profundos en el área de Sistemas de Información a través del estudio sistemático de los distintos temas, así como generar recursos humanos capaces de afrontar y resolver las necesidades de la sociedad uruguaya a través de tecnologías de información.
 
 ### Perfil de egreso
 
-El egresado adquirirá la capacidad de aplicar con profundidad y solvencia en su actividad profesional los temas de estudio incluidos en el Diploma; asimismo, adquirirá los elementos metodológicos que junto con la capacidad de abordar bibliografía especializada, le permitan comprender y emplear las nuevas tecnologías para la resolución de problemas relativos a Sistemas de Información en su actividad profesional. Se espera que el egresado de este diploma tenga la capacidad para: Dominar las áreas fundamentales de Sistemas de Información Ser capaz de tomar decisiones éticas y practicar un comportamiento ético profesional Conocer las posibilidades existentes en cuanto al manejo de los datos y la información, de forma de poder evaluar las necesidades de cualquier organización y ofrecerle soluciones Implementar un plan estratégico para gestionar los sistemas de información en cualquier organización Ser capaz de comprender los distintos dominios de aplicación, optimizando la seleccióny aplicación del sistema de información Conocer encares, modelos, técnicas y tecnologías actuales para el diseño eimplementación de distintos tipos sistemas de información Aprender nuevos modelos, técnicas y tecnologías cuando estas emergen, y apreciar lanecesidad de ese desarrollo profesional continuo. Ser un integrante efectivo de un equipo, pudiendo interactuar con integrantes especializados en otros aspectos del software. Para esto, también tendrá la capacidad de comunicarse correctamente tanto de forma oral como escrita.3
+El egresado adquirirá la capacidad de aplicar con profundidad y solvencia en su actividad profesional los temas de estudio incluidos en el Diploma; asimismo, adquirirá los elementos metodológicos que junto con la capacidad de abordar bibliografía especializada, le permitan comprender y emplear las nuevas tecnologías para la resolución de problemas relativos a Sistemas de Información en su actividad profesional. Se espera que el egresado de este diploma tenga la capacidad para: Dominar las áreas fundamentales de Sistemas de Información. Ser capaz de tomar decisiones éticas y practicar un comportamiento ético profesional. Conocer las posibilidades existentes en cuanto al manejo de los datos y la información, de forma de poder evaluar las necesidades de cualquier organización y ofrecerle soluciones. Implementar un plan estratégico para gestionar los sistemas de información en cualquier organización. Ser capaz de comprender los distintos dominios de aplicación, optimizando la selección y aplicación del sistema de información. Conocer enfoques, modelos, técnicas y tecnologías actuales para el diseño e implementación de distintos tipos de sistemas de información. Aprender nuevos modelos, técnicas y tecnologías cuando estas emergen, y apreciar la necesidad de ese desarrollo profesional continuo.
 
-### Referentes académicos
+### Datos del programa
 
-Adriana Marotta amarotta@fing.edu.uy
+- **Título otorgado:** Especialista en Sistemas de Información y Tecnologías de Gestión de Datos
+- **Plan de estudios:** 2021
+- **Duración:** 18 meses
+- **Créditos:** 60 (60 de cursos)
+- **Tesis:** No
+- **Postulación:** Continua, sin fecha de cierre (inscripción en curso según CAP)
+- **Costo:** Arancelada (Monto para estudiantes con nacionalidad uruguaya: $U 300.000 Monto para estudiantes sin nacionalidad uruguaya: $U 300.000)
+- **Ficha CAP actualizada:** 24/03/2026
 
 ## Ingreso
 
-### Reglamento
-
-Se requiere el 80% de asistencia para la aprobación de los cursos y un mínimo de 3 en la escala de calificaciones y un máximo de 12. Estructura de gobierno que rige el posgrado: -Director de Instituto. Pro Director de Posgrados Scapa Informática. Referentes de carreras de posgrado.
-
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
 Condición 1: Contar con un título de grado, en informática, otorgado por la Universidad de la República de al menos 360 créditos. Ejemplo: Título de ingeniero en Computación. Condición 2: Contar con formación equivalente que, a juicio de la Comisión de Posgrado, permita la realización y aprovechamiento del Plan de Estudios del Diploma de Especialización en Sistemas de Información y Tecnologías de Gestión de Datos. En este caso, la SCAPA- Informática podrá proponer la realización de cursos de nivelación en caso de ser necesario.
 
-## Plan de Estudio
+### Inscripción y contacto
 
-### Programa
-
-Los cursos de este Diploma se organizan en Materias. Las Materias definen y organizan los distintos temas del diploma. Materias: Modelos de Datos y Sistemas avanzados Plataformas de Sistemas de Información Técnicas de procesamiento y explotación de datos Perspectivas emergentes en Sistemas de Información Ética y conducta profesional Áreas relacionadas con Sistemas de Información
-
-### Unidades curriculares
-
-Análisis Multidimensional de Grandes Volúmenes de Datos Analítica de Datos Social Arquitectura de Software Bases de Datos de Grafos Calidad de Datos Calidad e Integración de Datos Data Mining y Toma de Decisiones Desarrollo, Ejecución y Evaluación de Procesos de Negocio Fundamentos de la Web Semántica Fundamentos y herramientas para Minería de Procesos de Negocio Gestión de Calidad de Datos Gestión de la Información Gestión y Tecnologías de Procesos de Negocio Lenguajes y Tecnologías de la Web Semántica. Aplicaciones a Datos Abiertos Middleware para Sistemas de Información Administración de datos en la nube (Data management on the cloud) Análisis Semántico de Redes Sociales Calidad de Datos desde "small data" hacia "big data": desafíos y técnicas Datos Abiertos como Recursos Educativos Abiertos Ecosistemas de Datos Espaciales en la era de Internet de las Cosas Fundamentos y herramientas para Minería y Arqueología de Procesos de Negocio Gestión de Proyectos con el Modelo “Gestión 3.0” Gestión y Visualización de Grandes Volúmenes de Datos Modelos de procesos de gran tamaño y colecciones de modelos Pensamiento de Diseño: Teoría y práctica
+Inscripción: Facultad de Ingeniería.
+Contacto: cpap@fing.edu.uy.
+La inscripción se encuentra en curso, sin fecha de cierre (verificado en CAP).

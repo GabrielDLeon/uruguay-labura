@@ -12,47 +12,41 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "4 años"
+credits: 768
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=42"
 location: "Facultad de Medicina"
-description: "Especialización en Oncología Médica, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: "Escuela de Graduados Facultad de Medicina"
+description: "Especialización en Oncología Médica (4 años, 768 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso."
 tags:
   - medicina
   - oncologia
   - oncologia-medica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=42'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=42'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/ONCOLOGIA%20MEDICA%202012.pdf
+Especialización en Oncología Médica (4 años, 768 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso. Se desarrolla en: Hospital de Clínicas, planta baja.
 
 ### Referentes académicos
 
-Profesro Doctor L. Delgado
+Profesor Doctor L. Delgado
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Escuela de Graduados de la Facultad de Medicina. La postulación es continua y la inscripción está en curso.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/ONCOLOGIA%20MEDICA%202012.pdf
+- Hospital de Clínicas, planta baja — Tel.: 24872075

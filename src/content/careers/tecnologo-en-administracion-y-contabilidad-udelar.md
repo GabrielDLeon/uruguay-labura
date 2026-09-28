@@ -10,27 +10,23 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnologo"
-area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "2,5 años"
+duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-administracion-y-contabilidad"
 location: "Colonia; Soriano; Maldonado; Rocha; Tacuarembó; Treinta y Tres"
-description: "Las personas que egresen estarán capacitadas para: acceder a los cargos intermedios de una organización disponiendo de la capacitación específica para colaborar con especialistas en las áreas de administración y contabilidad. colaborar en la determinación y puesta en práctica de las técnicas y proce"
-startDate: ""
-applicationDeadline: ""
+description: "Las personas que egresen estarán capacitadas para: acceder a los cargos intermedios de una organización disponiendo de la capacitación específica para colaborar con especialistas en las áreas de administración y contabilidad. colaborar en la determinación y puesta en práctica de las técnicas y procedimientos de administración y contabilidad, y relevar y sistematizar datos para el diagnóstico de las organizaciones y el diseño de sus sistemas contables."
 credits: 225
 tags:
   - administracion
   - contabilidad
   - gestion-contable
   - administracion-de-empresas
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/ciclo-inicial-optativo-area-social/'

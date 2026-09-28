@@ -12,20 +12,19 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
+credits: 61
+contactEmail: "inscdefh@fq.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=24"
-location: "Facultad de Química"
-description: "El objetivo del DEFH es capacitar a los profesionales Químicos Farmacéuticos para desempeñar funciones en los ámbitos de actividad que se describen en el Anexo I del Reglamento del Diploma Especialista en Farmacia Hospitalaria (http://www.fq.edu.uy/sites/default/files/archivos/reglamento%20del%20DEFH0.pdf)"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Química, Montevideo"
+description: "Diploma arancelado de 1 año (61 créditos) que capacita a Químicos Farmacéuticos para desempeñarse en farmacia hospitalaria, según el reglamento del Diploma de Especialista en Farmacia Hospitalaria. Postulación continua."
 tags:
   - farmacia
   - farmacia-hospitalaria
   - farmacologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -68,3 +67,13 @@ Para la obtención del DEFH se deberá reunir 60 créditos en un período mínim
 ### Unidades curriculares
 
 La información de cartelera y el cronograma del curso pueden consultarse para en el siguiente link: https://www.fq.edu.uy//es/node/150
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en la Sección Posgrado de Facultad de Química (inscdefh@fq.edu.uy, tel. 2924 1925 int. 1203).
+
+### Costo
+
+El programa cobra derechos universitarios: 31.517 unidades indexadas (UI).

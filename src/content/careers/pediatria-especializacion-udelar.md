@@ -12,48 +12,44 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+credits: 576
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=46"
 location: "Facultad de Medicina"
-description: "Especialización en Pediatría, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: "Escuela de Graduados Facultad de Medicina"
+description: "Especialización en Pediatría (3 años, 576 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso."
 tags:
   - medicina
   - pediatria
   - ninos-y-adolescentes
   - primera-infancia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=46'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=46'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/PEDIATR%C3%8DA.pdf
+Especialización en Pediatría (3 años, 576 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso. Se desarrolla en: Hospital Pereira Rossell, Clínica Pediátrica "A"; Hospital Pereira Rossell, Clínica Pediátrica "B"; Hospital Pereira Rossell, Clínica Pediátrica "C".
 
 ### Referentes académicos
 
-Profa. Docta. C. Pirez (Clinica A), Prof. Doct. W. Perez (Clinica B), Prof. Doct. G. Giachetto (Clinica C)
+Profa. Docta. C. Pirez (Clínica A), Prof. Doct. W. Perez (Clínica B), Prof. Doct. G. Giachetto (Clínica C)
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Escuela de Graduados de la Facultad de Medicina. La postulación es continua y la inscripción está en curso.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/PEDIATR%C3%8DA.pdf
+- Hospital Pereira Rossell, Clínica Pediátrica "A" — Tel.: 27081335
+- Hospital Pereira Rossell, Clínica Pediátrica "B" — Tel.: 27097690
+- Hospital Pereira Rossell, Clínica Pediátrica "C" — Tel.: 27079522

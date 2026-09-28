@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-quimico"
 location: "Facultad de Química; Paysandú"
-description: "El egresado de esta carrera adquiere una formación que le permite conocer los fundamentos de las técnicas usuales en un laboratorio de control industrial y emplear criterios adecuados para: 1) Verificar y calibrar instrumentos de análisis 2) Realizar análisis físicos, químicos y microbióticos, empel"
-startDate: ""
-applicationDeadline: ""
+description: "Conoce los fundamentos de las técnicas de laboratorio de control industrial: verifica y calibra instrumentos, realiza análisis físicos, químicos y microbiológicos, valida técnicas analíticas, evalúa resultados, aplica aseguramiento y control de calidad y colabora en gestión ambiental."
 credits: 270
 tags:
   - quimica
   - quimica-analitica
   - microbiologia
   - control-de-calidad
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

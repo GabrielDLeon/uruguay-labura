@@ -12,15 +12,14 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "12 meses"
+credits: 80
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=78"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "El Posgrado en Auditoria persigue entre otros que el profesional profundice: el estudio de la teoría contable el análisis de los distintos aspectos de la normativa contable nacional einternacional la profundización de la problemática referida a distintos tipos de entidades la elaboración de información para la gestión empresaria la actualización en el campo del control de los sistemas de información y gestión "
-startDate: ""
-applicationDeadline: ""
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Posgrado de Especialización en Auditoría: profundiza la teoría y la normativa contable nacional e internacional, la auditoría de estados financieros y de gestión, la auditoría de entidades especiales y el control de los sistemas de información. Forma especialistas para el sector público y privado."
 tags:
   - contabilidad
   - auditoria
@@ -28,7 +27,7 @@ tags:
   - gestion-contable
 draft: true
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=78'
@@ -40,24 +39,24 @@ sources:
 
 ### Objetivo
 
-El Posgrado en Auditoria persigue entre otros que el profesional profundice: el estudio de la teoría contable el análisis de los distintos aspectos de la normativa contable nacional e internacional la profundización de la problemática referida a distintos tipos de entidades la elaboración de información para la gestión empresaria la actualización en el campo del control de los sistemas de información y gestión de la entidad (auditoría)
+Profundizar el estudio de la teoría contable, la normativa contable nacional e internacional, la problemática de distintos tipos de entidades, la elaboración de información para la gestión y la actualización en control de sistemas de información y gestión (auditoría).
 
 ### Perfil de egreso
 
-Formar especialistas en el área del conocimiento mencionadas, que se puedan desarrollar tanto en el sector público como privado, de manera de lograra un fortalecimiento en la aplicación a nivel nacioanl de la normativa contable local, así como el conocimiento de la normativa internacional vigente, aún non adoptada por nuestro país, así como fortalecer también el área de auditoria y control del cumplimiento de dicha normativa a nivel local frente a la inexistencia de un organismo de control con una institucionalidad creible. La especialización también profundizará el tratamiento de distintos tipos de entidades según su importancia relativa y el análisis básico de la gestión como instrumento necesario al elaborar o revisar estados financieros. También profundizará todos los avances tecnológicos en materia de sistemas de información y de reporte de información contable.
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-El curso está destinado a personas con título universitario con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que reúnan los requisitos enunciados (sean o no profesionales universitarios), se hayan postulado oportunamente y sean aceptados por la Coordinación Académica del Posgrado, en base al curriculum personal de estudios, antecedentes y experiencia profesional.
+Especialistas que se desempeñan en el sector público y privado, con dominio de la normativa contable local e internacional vigente, del control de su cumplimiento y del análisis de gestión como instrumento para elaborar o revisar estados financieros, incluyendo avances en sistemas de información y reporte contable.
 
 ## Plan de Estudio
 
 ### Programa
 
-POSGRADO CON ESPECIALIZACIÓN EN AUDITORIA ÁREAS DE CONOCIMIENTOS: Los créditos mínimos por área de conocimiento serán los siguientes: Teoría Contable - 15 créditos Derecho comercial y societario - 5 créditos Sistemas de información y reportes financieros - 5 créditos Auditoría de estados financieros - 20 créditos Auditoría de Gestión - 15 créditos Auditoría de entidades especiales - 10 créditos Auditoría de sistemas de información - 10 créditos
+Doce meses y 80 créditos en cursos (sin tesis): Teoría Contable (15), Derecho comercial y societario (5), Sistemas de información y reportes financieros (5), Auditoría de estados financieros (20), Auditoría de Gestión (15), Auditoría de entidades especiales (10) y Auditoría de sistemas de información (10).
 
-### Unidades curriculares
+## Ingreso
 
-Teoría Contable - 15 créditos Derecho comercial y societario - 5 créditos Sistemas de información y reportes financieros - 5 créditos Auditoría de estados financieros - 20 créditos Auditoría de Gestión - 15 créditos Auditoría de entidades especiales - 10 créditos Auditoría de sistemas de información - 10 créditos
+### Requisitos de Ingreso
+
+Destinado a graduados universitarios (o con formación equivalente) con un mínimo de 4 años de estudios. El título de grado puede pertenecer a la Universidad de la República, a universidades del exterior de nivel reconocido o a universidades del país con nivel de educación superior. La admisión la resuelve la Dirección Académica del posgrado en base a escolaridad, antecedentes y experiencia profesional.
+
+### Inscripción y arancel
+
+Posgrado arancelado: monto total publicado en CAP de $ 249.300 (pesos uruguayos, referencia 2026; verificar actualización). Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy. Atención: el último período de inscripción publicado en CAP es de febrero de 2018, por lo que la ficha queda en revisión hasta confirmar una nueva convocatoria. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en el Centro de Posgrados.

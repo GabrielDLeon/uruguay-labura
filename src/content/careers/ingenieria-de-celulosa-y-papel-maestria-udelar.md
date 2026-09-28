@@ -12,23 +12,22 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=73"
 location: "Facultad de Ingeniería, Montevideo"
-description: "La Maestría en Ingeniería de Celulosa y Papel tiene por objetivo atender la necesidadde complementar y profundizar la formación técnica, apoyada en una sólida basecientífica, de los profesionales en el área de ingeniería de producción de celulosa ypapel, logrando una mayor especialización que la que brindan actualmente los cursosde grado."
-startDate: ""
-applicationDeadline: "Facultad de Ingeniería"
+description: "La Maestría en Ingeniería de Celulosa y Papel tiene por objetivo atender la necesidad de complementar y profundizar la formación técnica, apoyada en una sólida base científica, de los profesionales en el área de ingeniería de producción de celulosa y papel, logrando una mayor especialización que la que brindan actualmente los cursos de grado."
+contactEmail: "forestales@fing.edu.uy"
 tags:
   - ingenieria
   - ingenieria-quimica
   - procesos-industriales
   - celulosa-y-papel
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=73'
@@ -46,16 +45,25 @@ La Maestría en Ingeniería de Celulosa y Papel tiene por objetivo atender la ne
 
 El egresado adquirirá una formación superior en el área de Ingeniería de Celulosa y Papel, que lo capacitará para: Abordar nuevos temas y tecnologías con profundidad y solvencia empleando los elementos metodológicos adquiridos en su formación, en el ejercicio profesional o en actividades académicas de investigación y desarrollo. Abordar de manera crítica la bibliografía internacional actualizada en el tema elegido y de acompañar el desarrollo del área, debiendo alcanzar durante el desarrollo de sus estudios de posgrado el estado del arte en la especialidad escogida. Manejar con solvencia los criterios técnicos para la evaluación, selección y/o aplicación de tecnologías ambientalmente sustentables para la fabricación de celulosa y papel.
 
-### Referentes académicos
+### Datos del programa
 
-María Noel Cabrera (ncabrera@fing.edu.uy), Leonardo Clavijo (lclavijo@fing.edu.uy), Lucía Xavier (luxavier@fing.edu.uy)
+- **Título otorgado:** Magíster en Ingeniería de Celulosa y Papel
+- **Plan de estudios:** 2007
+- **Duración:** 2 años (24 meses)
+- **Créditos:** 100 (60 de cursos + 40 de tesis)
+- **Tesis:** Sí
+- **Postulación:** Sin convocatoria definida a la fecha (consultar)
+- **Costo:** Gratuita (sin cobro de derechos universitarios, según CAP)
+- **Ficha CAP actualizada:** 19/03/2026
 
 ## Ingreso
 
-### Reglamento
-
-El aspirante deberá solicitar su ingreso a la SCAPA-ICP de acuerdo a los requisitos dispuestos en el Artículo 21º del RGP-FING, conjuntamente con la propuesta y aceptación escrita de un docente para desempeñarse como Director Académico. Se deberá adjuntar un plan primario de actividades avalado por el docente propuesto. La SCAPA-ICP recomendará a la CAP-FING la aceptación de la solicitud si a juicio de la SCAPA-ICP el aspirante presenta méritos suficientes y si existen recursos adecuados para completar las actividades de posgrado exitosamente. Los cursos no tienen requerimientos de asistencia. Para aprobarlos existen dos instancias de exámenes por curso. Los cursos de laboratorio requieren la realización de una actividad práctica presencial y la elaboración y defensa de un informe.
-
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
 La postulación es específica cuando se detecta un número mínimo de estudiantes para realizar el programa, siendo éste de 10 estudiantes. Las dos últimas postulaciones fueron en 2012 y en 2023. El período de postulación es de 1 mes durante el mes de junio, ya que la maestría comienza en agosto, al inicio del segundo semestre. Título Universitario (o formación equivalente), con formación universitaria en química, física y matemática. Puede ser necesario realizar cursos de nivelación cuando el aspirante no tenga formación en Ingeniería de Procesos.
+
+### Inscripción y contacto
+
+Inscripción: Facultad de Ingeniería.
+Contacto: forestales@fing.edu.uy.
+Sin convocatoria definida a la fecha; consultar por la vía de contacto.

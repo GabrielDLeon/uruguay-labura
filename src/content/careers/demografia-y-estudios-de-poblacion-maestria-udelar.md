@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 180
+contactEmail: "posgrados.poblacion@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=32"
-location: "Facultad de Ciencias Sociales"
-description: "El objetivo de la Maestría en Demografía y Estudios de Población es ofrecer una sólida capacitación teórico-metodológica en Demografía a profesionales de distintas disciplinas, así como analizar desde una perspectiva crítica los aspectos sociodemográficos del desarrollo económico y social."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría en Demografía y Estudios de Población (2 años, 180 créditos). Ofrece sólida capacitación teórico-metodológica en demografía a profesionales de distintas disciplinas y analiza con perspectiva crítica los aspectos sociodemográficos del desarrollo económico y social. Gratuita, con tesis."
 tags:
   - ciencias-sociales
   - demografia
   - analisis-sociodemografico
   - estadistica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -33,6 +32,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=32'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=32'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -55,13 +56,13 @@ Equipo docente: Julieta Bengochea Wanda Cabella Juan José Calvo Mariana Fernán
 
 ## Ingreso
 
-### Reglamento
+### Requisitos
 
 Ser graduado de nivel terciario o formación equivalente Presentar: curriculum vitae y breve justificación del interés en la realización de la Maestría en Demografía y Estudios de Población y/o el Diploma (máximo 500 palabras) Se evaluarán positivamente los conocimientos básicos de estadística La selección de los estudiantes se realizará en base a la evaluación del curriculum vitae y la justificación por el interés de la Maestría y/o Diploma. En caso de que el Comité de Selección considere necesario, se realizará una entrevista que complementará la evaluación.
 
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

@@ -12,42 +12,40 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 320
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/traductorado-publico-aleman"
 location: "Facultad de Derecho"
-description: "A partir del año 2023, se comenzará a implementar gradualmente la Licenciatura en Traducción Pública (en alemán, francés, inglés, italiano y portugués). Para cursar la licenciatura habrá que rendir una prueba de admisión en la lengua elegida. Las competencias adquiridas por el Lic. en Traducción Púb"
-startDate: ""
-applicationDeadline: ""
-credits: 320
+description: "Licenciatura en Traducción Pública (alemán) de 4 años (320 créditos) en la Facultad de Derecho. Habilita como traductor público y perito intérprete judicial, con prueba de admisión en el idioma."
 tags:
   - traduccion
   - idiomas
   - letras
   - lengua-alemana
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.fder.edu.uy/traductorado'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/traductorado-publico-aleman'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fder.edu.uy/traductorado'
+    url: "https://udelar.edu.uy/carrera/traductorado-publico-aleman"
+  - label: "Página oficial"
+    url: "https://www.fder.edu.uy/traductorado"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-A partir del año 2023, se comenzará a implementar gradualmente la Licenciatura en Traducción Pública (en alemán, francés, inglés, italiano y portugués). Para cursar la licenciatura habrá que rendir una prueba de admisión en la lengua elegida. Las competencias adquiridas por el Lic. en Traducción Pública, tanto en su lengua materna como en las de su especialización, serán ejercidas en el marco de la legislación vigente y le permitirán: a) desempeñarse como traductor en aquellas áreas en la que se prescriba su actuación; b) fungir como perito intérprete judicial, y c) utilizar las herramientas informáticas más recientes para desarrollar su profesión de manera solvente.
+Desde 2023 se implementa gradualmente la Licenciatura en Traducción Pública en cinco lenguas. Para cursarla hay que rendir una prueba de admisión en la lengua elegida.
+
+Las competencias del licenciado, en su lengua materna y en la de especialización, se ejercen en el marco de la legislación vigente y le permiten desempeñarse como traductor donde se prescriba su actuación, fungir como perito intérprete judicial y usar las herramientas informáticas más recientes.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Ver requisitos: https://www.fder.edu.uy/bedelia/futuros-estudiantes#requisitos Adicionalmente aprobar las pruebas de suficiencia en idioma extranjero.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- Aprobar las pruebas de suficiencia en el idioma extranjero elegido.
+- Ver requisitos en Bedelía: https://www.fder.edu.uy/bedelia/futuros-estudiantes#requisitos.

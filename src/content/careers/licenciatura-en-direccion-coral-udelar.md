@@ -12,39 +12,41 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://www.artes.udelar.edu.uy/carrera/licenciaturas-instituto-de-musica/"
 location: "Facultad de Artes"
-description: "El egresado de la EUM deberá poseer también sólidos conocimientos en materias (por ejemplo teóricas e históricas) que le permitan resolver de manera autónoma los problemas de carácter general que deba enfrentar. Esto se obtendrá a través de un conjunto de materias comunes (tronco común y materias troncales de licenciatura), que garanticen también un perfil común de formación para los egresados de las dos licenciaturas de la EUM."
-startDate: ""
-applicationDeadline: ""
+description: "Licenciatura en Música, orientación Dirección de Coros, de 5 años (360 créditos) en el Instituto de Música de la Facultad de Artes. Forma directores con sólida base teórica, histórica y técnica y compromiso con la música uruguaya y latinoamericana."
 tags:
   - musica
   - direccion-de-orquesta
   - canto
   - interpretacion-musical
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.artes.udelar.edu.uy/carrera/licenciaturas-instituto-de-musica/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-direccion-coral'
+    url: "https://www.artes.udelar.edu.uy/carrera/licenciaturas-instituto-de-musica/"
+  - label: "Licenciatura en Música (udelar.edu.uy)"
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-musica"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-El egresado de la EUM deberá poseer también sólidos conocimientos en materias (por ejemplo teóricas e históricas) que le permitan resolver de manera autónoma los problemas de carácter general que deba enfrentar. Esto se obtendrá a través de un conjunto de materias comunes (tronco común y materias troncales de licenciatura), que garanticen también un perfil común de formación para los egresados de las dos licenciaturas de la EUM. Es imprescindible que el egresado de la EUM posea también un conocimiento amplio de la realidad musical uruguaya y latinoamericana, como forma de reforzar la necesidad de su compromiso con la preservación y fortalecimiento de la identidad nacional y regional. Ello deberá buscarse desde la totalidad de las materias del plan de estudios, como por ejemplo en la selección del repertorio a estudiar, a conocer o en el trabajo de tipo teórico o analítico. El conocimiento de la realidad musical uruguaya y latinoamericana debe comprender necesariamente el conocimiento de la realidad de las músicas populares y tradicionales del país y la región. El egresado de la EUM deberá haber comprendido la importancia de la búsqueda del conocimiento. Ello estará reforzado por la necesidad de realizar un conjunto de actividades de iniciación a la investigación. Además, la participación en actividades de extensión permitirán al egresado lograr un acercamiento a la importancia de su relacionamiento con la sociedad en la cual está inserto, a la vez que podrán brindar una mirada en algunos aspectos de la gestión cultural. Opciones: Composición, Musicología, Dirección de Orquesta, Dirección de Coros.
+La Licenciatura en Música del Instituto de Música forma perfiles para la creación, la investigación, la dirección y la interpretación. La Dirección de Coros es una de sus orientaciones.
+
+El egresado posee sólidos conocimientos teóricos e históricos para resolver con autonomía los problemas de la profesión, conoce la realidad musical uruguaya y latinoamericana y realiza iniciación a la investigación y extensión.
+
+**Nota:** Comparte plan con la Licenciatura en Música (Instituto de Música, Facultad de Artes).
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Demostrar poseer conocimientos musicales mediante pruebas (Lectura y escritura musical e instrumento o canto) cuyas características son establecidas por el Consejo de Facultad de Artes.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- Demostrar conocimientos musicales en pruebas de admisión (lectura y escritura musical e instrumento o canto), establecidas por el Consejo de la Facultad de Artes.

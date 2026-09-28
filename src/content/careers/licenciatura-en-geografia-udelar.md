@@ -10,23 +10,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-geografia"
 location: "Facultad de Ciencias"
-description: "Las personas que egresan de la Licenciatura en Geografía poseen una formación integral en la comprensión e interpretación de procesos que producen el espacio geográfico y son producidos en él. Comprenden las dinámicas de los procesos socio-económicos y ambientales que determinan la organi"
-startDate: ""
-applicationDeadline: ""
+description: "Las personas que egresan poseen formación integral en la comprensión e interpretación de los procesos que producen el espacio geográfico. Integran las dinámicas socioeconómicas y ambientales en proyectos de investigación básica o aplicada para la planificación, gestión y ordenamiento integral del territorio."
 credits: 360
 tags:
   - geografia
   - ciencias-sociales
   - territorio
   - ordenamiento-territorial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

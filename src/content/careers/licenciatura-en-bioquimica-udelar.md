@@ -11,23 +11,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-bioquimica"
 location: "Facultad de Ciencias"
 description: "Estará preparado, en su egreso, a elegir según el interés del estudiante las siguientes orientaciones: Académica, Diagnóstico de Laboratorio en Salud Humana, Biotecnología, Bioquímica Vegetal, Bioquímica Alimentaria, y Bioquímica Ambiental."
-startDate: ""
-applicationDeadline: ""
 tags:
   - bioquimica
   - quimica
   - biologia
   - biotecnologia
   - laboratorio-clinico
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

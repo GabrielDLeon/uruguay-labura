@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-interpretacion-perfil-canto-guitarra-piano"
 location: "Salto"
 description: "Las tecnicaturas han logrado, en más de una década de existencia, una muy buena inserción laboral para sus egresados; han sido concebidas como una oportunidad de formar músicos conocedores de su propio medio para incidir en él como generadores de cultura en la propia región. Opciones: Guitarra, Piano, Canto. Objetivos: - Contribuir a la formación de docentes a fin de incrementar la capacidad docente musical de la región."
-startDate: ""
-applicationDeadline: ""
 tags:
   - musica
   - interpretacion-musical
   - canto
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://udelar.edu.uy/carrerasinterior/tecnicatura-en-interpretacion/'

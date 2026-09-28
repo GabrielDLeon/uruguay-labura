@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-de-produccion"
 location: "Facultad de Ingeniería"
-description: "El Ingeniero de Producción integrará los conocimientos de Ciencia, Tecnología y Administración, y estará capacitado para desarrollar, gestionar y optimizar sistemas de producción de bienes y servicios. Asimismo, actuará sobre sistemas que involucren recursos materiales, financieros y humanos, integr"
-startDate: ""
-applicationDeadline: ""
+description: "El Ingeniero de Producción integra Ciencia, Tecnología y Administración para desarrollar, gestionar y optimizar sistemas de producción de bienes y servicios. Actúa sobre recursos materiales, financieros y humanos en ingeniería y tecnología, operaciones, herramientas computacionales para la toma de decisiones, y gerenciamiento y administración."
 credits: 450
 tags:
   - ingenieria-industrial
@@ -29,7 +25,7 @@ tags:
   - procesos-industriales
   - gestion-de-operaciones
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

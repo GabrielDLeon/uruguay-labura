@@ -12,22 +12,18 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-instrumentacion-quirurgica"
 location: "Facultad de Medicina; Paysandú"
-description: "El Licenciado en Instrumentación Quirúrgica es el profesional universitario capacitado para la realización de todas las técnicas en el manejo y cuidado del instrumental y aparatología inherente a las diversas intervenciones quirúrgicas. Posee conocimientos en las materias básicas afines a la discipl"
-startDate: ""
-applicationDeadline: ""
+description: "El Licenciado en Instrumentación Quirúrgica es el profesional universitario capacitado para la realización de todas las técnicas en el manejo y cuidado del instrumental y aparatología inherente a las diversas intervenciones quirúrgicas. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que realiza. Dominio del instrumental que maneja, información anátomo-fisiopatológica suficiente para valorar y ubicar la trascendencia de los actos que ejecuta; pudiendo analizar la validez de los resultados que obtiene. Utiliza la metodología científica que le posibilita la participación en equipos uni o multidisciplinarios de investigación básica o aplicada. Administra los recursos humanos y materiales del Block Quirúrgico y el control de calidad del instrumental y materiales involucrados en la cirugía como también supervisa la esterilización de todo el material quirúrgico y la asepsia del quirófano."
 tags:
   - medicina
   - cirugia
   - instrumentacion-quirurgica
   - tecnologia-medica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,8 +31,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-instrumentacion-quirurgica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-instrumentacion-quirurgica'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-instrumentacion-quirurgica'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 El Licenciado en Instrumentación Quirúrgica es el profesional universitario capacitado para la realización de todas las técnicas en el manejo y cuidado del instrumental y aparatología inherente a las diversas intervenciones quirúrgicas. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que realiza. Dominio del instrumental que maneja, información anátomo-fisiopatológica suficiente para valorar y ubicar la trascendencia de los actos que ejecuta; pudiendo analizar la validez de los resultados que obtiene. Utiliza la metodología científica que le posibilita la participación en equipos uni o multidisciplinarios de investigación básica o aplicada. Administra los recursos humanos y materiales del Block Quirúrgico y el control de calidad del instrumental y materiales involucrados en la cirugía como también supervisa la esterilización de todo el material quirúrgico y la asepsia del quirófano.
+
+### Duración y cursado
+
+**Duración:** 4 años (4932 horas) · **Sedes:** Facultad de Medicina (Montevideo) y Paysandú · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

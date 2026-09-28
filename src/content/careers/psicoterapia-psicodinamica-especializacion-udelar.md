@@ -12,60 +12,46 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+credits: 75
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=93"
 location: "Facultad de Psicología, Montevideo"
-description: "El psicólogo especialista en psicoterapia psicodinámica tendrá la formación específicay actualizada para resolver las situaciones que requieren de un abordajepsicoterapéutico en todos los niveles de atención en salud, tanto en ámbitos públicoscomo privados, utilizando las estrategias y dispositivos psicodinámicos acordes a laopción cursada (Niños y Adolescentes; Adultos; Pareja, Familia y Grupos)."
-startDate: ""
-applicationDeadline: "Página web de Facultad de Psicología"
+description: "Especialización (65 créditos más tesis, Plan 2023) en psicoterapia psicodinámica, con opciones en niños y adolescentes, adultos, y pareja, familia y grupos."
 tags:
   - psicologia
   - psicoterapia
   - psicoterapia-psicodinamica
   - salud-mental
-draft: true
-createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=93'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=93'
+    url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=93
+  - label: 'Ficha del programa en el CAP (PDF)'
+    url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=93
+draft: false
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-09-28 21:00:00"
 ---
-
 ## Resumen
 
 ### Objetivo
 
 El psicólogo especialista en psicoterapia psicodinámica tendrá la formación específica y actualizada para resolver las situaciones que requieren de un abordaje psicoterapéutico en todos los niveles de atención en salud, tanto en ámbitos públicos como privados, utilizando las estrategias y dispositivos psicodinámicos acordes a la opción cursada (Niños y Adolescentes; Adultos; Pareja, Familia y Grupos).
 
-### Perfil de egreso
+### Plan de estudios
 
-El psicólogo especialista en psicoterapia psicodinámica tendrá la formación específica y actualizada para resolver las situaciones que requieren de un abordaje psicoterapéutico en todos los niveles de atención en salud, tanto en ámbitos públicos como privados, utilizando las estrategias y dispositivos psicodinámicos acordes a la opción cursada (Niños y Adolescentes; Adultos; Pareja, Familia y Grupos).
-
-### Referentes académicos
-
-Prof. Tit. Dra. Magdalena Filgueira
+- **Créditos:** 65 créditos de cursos más 10 créditos de tesis.
+- **Plan de estudios:** 2023.
+- **Título otorgado:** Especialista en Psicoterapia Psicodinámica.
+- **Requiere tesis.**
 
 ## Ingreso
 
-### Reglamento
+### Requisitos de ingreso
 
-https://www.psico.edu.uy/ensenanza/posgrado/especializaciones/especializacion-en-psicoterapia-psicodinamica
+- Licenciado en Psicología con título expedido por la Facultad de Psicología de la Udelar o equivalente.
+- Acreditar psicoterapia personal.
 
-### Requisitos de Ingreso
+### Inscripción
 
-Licenciado en Psicología con titulo expedido por la Facultad de Psicología de la UdelaR o equivalente Acreditar psicoterapia personal.
-
-## Plan de Estudio
-
-### Programa
-
-https://www.psico.edu.uy/ensenanza/posgrado/especializaciones/especializacion-en-psicoterapia-psicodinamica
-
-### Unidades curriculares
-
-https://www.psico.edu.uy/ensenanza/posgrado/especializaciones/especializacion-en-psicoterapia-psicodinamica
+Postulación cada 2 años a través de la web de la Facultad de Psicología. Sin convocatoria vigente publicada en el CAP (estado de inscripción: no definido). Cupos: 40.

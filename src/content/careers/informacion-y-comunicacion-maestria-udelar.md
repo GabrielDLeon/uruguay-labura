@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 100
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=96&idPosgrado=99"
 location: "Facultad de Información y Comunicación, Montevideo"
-description: "La Maestría en Información y Comunicación (MIC) es una carrera de posgrado, acargo de la Facultad de Información y Comunicación (FIC), cuya primera cohortecomenzó a desarrollarse en diciembre de 2011.Se inserta en la justificación y loscriterios sustentados por el Programa de Desarrollo Académico de la Información y laComunicación aprobado por el Consejo Directivo Central (CDC) en la sesión del 12 demayo de 2009."
-startDate: ""
-applicationDeadline: ""
+description: "Maestría en Información y Comunicación (2 años, 100 créditos), a cargo de la FIC (primera cohorte: 2011). Asume la responsabilidad universitaria de reflexionar críticamente y producir conocimiento en información y comunicación, áreas estratégicas y en constante dinamismo. Gratuita, con tesis."
 tags:
   - comunicacion
   - informacion
   - medios
   - gestion-de-informacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -54,7 +52,7 @@ Mag. Gastón Beguerie, Mag. Leonardo Secco,Mag.Virginia Martínez,Mag. Leticia Z
 
 ### Reglamento
 
-https://fic.edu.uy/sites/default/files/inline-files/Reglamento%20de%20las%20Actividades%20de%20Posgrado%20y%20Educaci%C3%B3n%20Permanente%20de%20la%20FIC%20-%20mayo%202016.pdf
+[Reglamento de las Actividades de Posgrado y Educación Permanente de la FIC (PDF, mayo 2016)](https://fic.edu.uy/sites/default/files/inline-files/Reglamento%20de%20las%20Actividades%20de%20Posgrado%20y%20Educaci%C3%B3n%20Permanente%20de%20la%20FIC%20-%20mayo%202016.pdf)
 
 ### Requisitos de Ingreso
 

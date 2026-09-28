@@ -12,21 +12,18 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+contactEmail: "maca@fcien.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=96"
 location: "Facultad de Ciencias, Montevideo"
-description: "El Doctorado en Ciencias Ambientales es una instancia de formación académicasuperior que busca capacitar a los aspirantes para el desarrollo de investigaciónoriginal y para la formación de investigadores. El núcleo central del programa es larealización de un trabajo original de tesis."
-startDate: ""
-applicationDeadline: ""
+description: "Doctorado gratuito orientado a la investigación original sobre problemáticas ambientales (contaminación, cambio global, conservación, recursos), con tesis como núcleo central. Postulación continua en Facultad de Ciencias."
 tags:
   - medio-ambiente
   - ciencias-ambientales
   - gestion-ambiental
   - ecologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -73,3 +70,13 @@ Tener una publicación como primer autor en una revista arbitrada
 ### Unidades curriculares
 
 - Defensa de Proyecto de tesis - Defensa de tesis
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción por correo a maca@fcien.edu.uy (Secretaría del programa, Facultad de Ciencias, Iguá 4225 piso 11 sur, Montevideo).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

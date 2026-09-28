@@ -12,22 +12,21 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+contactEmail: "posgradoyep@fadu.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=2"
 location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
-description: "Normal 0 21 false false false ES-UY X-NONE X-NONE MicrosoftInternetExplorer4 OBJETIVOS 1. Objetivo General El presente programa de Maestría en Ordenamiento Territorial y Desarrollo Urbano se propone formar académica e instrumentalmente a los participantes, a los efectos de posibilitar su actuación en los procesos de planificación y gestión de las ciudades y de los territorios, desde una sólida perspectiva teórico-crítica, interdisciplinaria y"
-startDate: ""
-applicationDeadline: ""
+description: "Maestría gratuita de 2 años (100 créditos) que forma académica e instrumentalmente para la planificación y gestión de ciudades y territorios, desde una perspectiva teórico-crítica, interdisciplinaria y participativa. Sin convocatoria vigente."
 tags:
   - ordenamiento-territorial
   - urbanismo
   - desarrollo-territorial
   - arquitectura
   - ciencias-sociales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -41,7 +40,7 @@ sources:
 
 ### Objetivo
 
-Normal 0 21 false false false ES-UY X-NONE X-NONE MicrosoftInternetExplorer4 OBJETIVOS 1. Objetivo General El presente programa de Maestría en Ordenamiento Territorial y Desarrollo Urbano se propone formar académica e instrumentalmente a los participantes, a los efectos de posibilitar su actuación en los procesos de planificación y gestión de las ciudades y de los territorios, desde una sólida perspectiva teórico-crítica, interdisciplinaria y participativa, no sólo con el horizonte nacional, sino también regional. 2. Objetivos Específicos Partiendo de este objetivo general, la Maestría se propone como objetivos específicos: • Promover la adquisición de conocimientos y el desarrollo de capacidades que contribuyan a la definición de bases conceptuales e instrumentales para la definición de políticas de actuación, así como, a la elaboración y gestión de conocimientos, documentos técnicos y planes y proyectos de transformación urbana y regional. • Contribuir al manejo activo y creativo del conocimiento como elemento fundamental en la actuación técnico-operativa y académica, para abordar los fenómenos urbanos y regionales en toda la complejidad de los ámbitos de actuación, tanto públicos como privados en los que se pretende intervenir. • Comprender la naturaleza, alcance, potencialidades y limitaciones de los procesos de planificación dentro del contexto físico - natural, tecnológico - productivo, socio – económico, político e histórico-cultural. • Adquirir un enfoque específicamente nacional, regional y latinoamericano que potencie las relaciones de cooperación con otras experiencias similares en el nivel regional, así como con otras instancias de producción académica en la materia, redes universitarias y ámbitos de cooperación. st1\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\:*\{behavior:url(#ieooui) \} /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"serif\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";\}
+OBJETIVOS 1. Objetivo General El presente programa de Maestría en Ordenamiento Territorial y Desarrollo Urbano se propone formar académica e instrumentalmente a los participantes, a los efectos de posibilitar su actuación en los procesos de planificación y gestión de las ciudades y de los territorios, desde una sólida perspectiva teórico-crítica, interdisciplinaria y participativa, no sólo con el horizonte nacional, sino también regional. 2. Objetivos Específicos Partiendo de este objetivo general, la Maestría se propone como objetivos específicos: • Promover la adquisición de conocimientos y el desarrollo de capacidades que contribuyan a la definición de bases conceptuales e instrumentales para la definición de políticas de actuación, así como, a la elaboración y gestión de conocimientos, documentos técnicos y planes y proyectos de transformación urbana y regional. • Contribuir al manejo activo y creativo del conocimiento como elemento fundamental en la actuación técnico-operativa y académica, para abordar los fenómenos urbanos y regionales en toda la complejidad de los ámbitos de actuación, tanto públicos como privados en los que se pretende intervenir. • Comprender la naturaleza, alcance, potencialidades y limitaciones de los procesos de planificación dentro del contexto físico - natural, tecnológico - productivo, socio – económico, político e histórico-cultural. • Adquirir un enfoque específicamente nacional, regional y latinoamericano que potencie las relaciones de cooperación con otras experiencias similares en el nivel regional, así como con otras instancias de producción académica en la materia, redes universitarias y ámbitos de cooperación. 
 
 ### Perfil de egreso
 
@@ -70,3 +69,17 @@ CONTENIDOS Los contenidos se imparte a través de cuatro tipos de actividades qu
 ### Unidades curriculares
 
 ESTRUCTURA CURRICULAR -EPISTEMOLOGÍA Y METODOLOGÍA DE LA INVESTIGACIÓN 1.1 Epistemología 1.2 Metodología de la Investigación TEORÍA DEL DESARROLLO Y DEL ORDENAMIENTO TERRITORIAL Teoría del Desarrollo Territorial Teorías en Ordenamiento Territorial y Urbanismo Teoría de la Gobernanza Territorial Teoría de la Forma y la Organización del Medio Construído Economía Urbana y Mercado del Suelo ORDENAMIENTO TERRITORIAL Y PROCESOS DE PLANIFICACIÓN Y GESTIÓN Procesos y Desafíos Territoriales Sistemas de Planificación Polìticas, Plan, Proyecto y Gestión IMPACTOS DE PROYECTO Estudios y Evaluación de Impactos Ambientales OPTATIVOS Énfasis en Problemas y Desafíos Territoriales Énfasis en Planificación y Diseño Urbano Énfasis en Teoría del Desarrollo y el Ordenamiento Territorial TALLER Análisis y Prospectiva Estrategias, Planes y Proyectos Comunicación en los Procesos de Planificación/Gestión Seminario de Apoyo a la Tesis TESIS
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 22/04/2022–22/05/2022). Postulación on-line en el sitio web de la Facultad de Arquitectura.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

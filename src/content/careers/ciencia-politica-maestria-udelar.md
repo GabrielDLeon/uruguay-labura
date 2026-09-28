@@ -11,22 +11,21 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 110
+contactEmail: "maestria.cpolit@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=35"
-location: "Facultad de Ciencias Sociales"
-description: "Están dirigidos a formar profesionales de segundo nivel universitario, de altaespecialización en la disciplina, capaces de desempeñarse como expertos en relacióncon los agentes políticos, las entidades sociales y los organismos del Estado atendiendo sobre todo a las necesidades del sector público a través de operacionesde análisis, de investigación y asesoramiento, de diseño y de gestión, en el campo delas acciones políticas y de las estrategias"
-startDate: ""
-applicationDeadline: "cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría en Ciencia Política (2 años, 110 créditos). Forma profesionales de alta especialización capaces de desempeñarse como expertos ante agentes políticos, entidades sociales y organismos del Estado —con énfasis en el sector público— mediante el análisis, la investigación, el asesoramiento, el diseño y la gestión; también forma cuadros docentes e investigadores. Gratuita, con tesis."
 tags:
   - ciencia-politica
   - ciencias-sociales
   - gobierno
   - sector-publico
   - administracion-publica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +33,12 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=35'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=35'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Maestría en Ciencia Política – FCS'
+    url: 'https://cienciassociales.edu.uy/departamento-de-ciencia-politica/ensenanza-de-posgrado/maestria-en-ciencia-politica/'
+  - label: 'Reglamento de la Maestría (PDF)'
+    url: 'https://cienciassociales.edu.uy/wp-content/uploads/2022/02/NUEVO-Reglamento-Maestria-CP_2022_Version-Final____.pdf'
 ---
 
 ## Resumen
@@ -44,7 +49,7 @@ Están dirigidos a formar profesionales de segundo nivel universitario, de alta 
 
 ### Perfil de egreso
 
-Los/as egresados/as de la MCP, en tanto especialistas en Ciencia Política, serán capaces de desempeñarse activamente como expertos/as en algún/os campo/s de la disciplina, ya sea en el ámbito de la investigación; ya sea en la enseñanza (en distintos niveles: universitaria, terciaria y/o secundaria, y en instituciones públicas y/o privadas); ya sea en roles profesionales asociados ala consultoría, asesoramiento, diseño y gestión, en la esfera pública y/o privada-
+Los/as egresados/as de la MCP, en tanto especialistas en Ciencia Política, serán capaces de desempeñarse activamente como expertos/as en algún/os campo/s de la disciplina, ya sea en el ámbito de la investigación; ya sea en la enseñanza (en distintos niveles: universitaria, terciaria y/o secundaria, y en instituciones públicas y/o privadas); ya sea en roles profesionales asociados a la consultoría, asesoramiento, diseño y gestión, en la esfera pública y/o privada-
 
 ### Referentes académicos
 
@@ -56,13 +61,9 @@ Florencia Antía Germán Bidegain Nicolás Bentancur Daniel Buquet José Miguel 
 
 ## Ingreso
 
-### Reglamento
-
-https://cienciassociales.edu.uy/wp-content/uploads/2022/02/NUEVO-Reglamento-Maestria-CP_2022_Version-Final____.pdf
-
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

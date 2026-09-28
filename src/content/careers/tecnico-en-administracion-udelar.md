@@ -12,42 +12,42 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "2,5 años"
+duration: "5 años"
+credits: 225
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnico-en-administracion"
 location: "Facultad de Ciencias Económicas y de Administración"
-description: "El egresado de la carrera de Técnico en Administración, tendrá la capacitación suficiente para participar en la gestión de organizaciones públicas y privadas, basado en competencias para la aplicación de técnicas y procedimientos de mejora en su administración, mediante una utilización de recursos d"
-startDate: ""
-applicationDeadline: ""
-credits: 225
+description: "Tecnicatura en Administración (225 créditos) en la FCEA. Capacita para participar en la gestión de organizaciones públicas y privadas, acceder a cargos intermedios y colaborar con especialistas en administración."
 tags:
   - administracion
   - gestion-empresarial
   - gestion-organizacional
   - administracion-publica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fcea.udelar.edu.uy/depto-adm-ensenanza/tecnicatura-admin-ciencias-adm.html'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/tecnico-en-administracion'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fcea.udelar.edu.uy/depto-adm-ensenanza/tecnicatura-admin-ciencias-adm.html'
+    url: "https://udelar.edu.uy/carrera/tecnico-en-administracion"
+  - label: "Página oficial"
+    url: "https://fcea.udelar.edu.uy/depto-adm-ensenanza/tecnicatura-admin-ciencias-adm.html"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-El egresado de la carrera de Técnico en Administración, tendrá la capacitación suficiente para participar en la gestión de organizaciones públicas y privadas, basado en competencias para la aplicación de técnicas y procedimientos de mejora en su administración, mediante una utilización de recursos de manera efectiva y sustentable. Tendrá la formación suficiente para acceder a los cargos intermedios de una organización y capacitación específica para colaborar con especialistas en las áreas de administración, contribuyendo de manera proactiva a la mejora de la gestión.
+El egresado tiene capacitación para participar en la gestión de organizaciones públicas y privadas, aplicando técnicas y procedimientos de mejora con uso efectivo y sustentable de los recursos.
+
+Su formación le permite acceder a cargos intermedios y colaborar con especialistas de las áreas de administración, contribuyendo proactivamente a la mejora de la gestión.
+
+El título otorgado es **Técnico en Administración**.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Sin previas. Cuenta con dos períodos de inscripción al año. Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Ver requisitos: https://fcea.udelar.edu.uy/ingreso-a-fcea.html
+- Sin previas: haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- Dos períodos de inscripción al año.
+- Ver requisitos: https://fcea.udelar.edu.uy/ingreso-a-fcea.html.

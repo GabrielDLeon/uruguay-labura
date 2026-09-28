@@ -12,22 +12,18 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-podologia"
 location: "Facultad de Medicina; Paysandú"
-description: "Está capacitado para cumplir con un rol educativo, preventivo, orientador, efectuando tratamientos, diagnósticos relacionados con las diversas patologías que afectan los miembros inferiores dentro del área específica de su competencia. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que reali"
-startDate: ""
-applicationDeadline: ""
+description: "Está capacitado para cumplir con un rol educativo, preventivo, orientador, efectuando tratamientos, diagnósticos relacionados con las diversas patologías que afectan los miembros inferiores dentro del área específica de su competencia. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que realiza."
 tags:
   - salud
   - podologia
   - ortopedia
   - rehabilitacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,8 +31,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-podologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-podologia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-podologia'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 Está capacitado para cumplir con un rol educativo, preventivo, orientador, efectuando tratamientos, diagnósticos relacionados con las diversas patologías que afectan los miembros inferiores dentro del área específica de su competencia. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que realiza.
+
+### Duración y cursado
+
+**Duración:** 3 años (2450 horas) · **Sedes:** Facultad de Medicina (Montevideo) y Paysandú · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

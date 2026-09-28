@@ -12,43 +12,40 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
+credits: 320
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-relaciones-internacionales"
 location: "Facultad de Derecho"
-description: "Comenzando un nuevo siglo y nuevo milenio nos encontramos frente a una realidad cambiante, con un mundo globalizado e interdependiente, competitivo, en continua y violenta transformación, donde el asesoramiento de profesionales capacitados en el tema, se hace imprescindible para adecuarse a ello. El"
-startDate: ""
-applicationDeadline: ""
-credits: 320
+description: "Licenciatura en Relaciones Internacionales de 5 años (320 créditos) en la Facultad de Derecho. Formación multidisciplinaria sobre el escenario internacional: estados, organismos, ONG y empresas, con salida diplomática, de negociación y de comercio internacional."
 tags:
   - relaciones-internacionales
   - ciencias-sociales
   - integracion-regional
   - economia-internacional
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.fder.edu.uy/rrii'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-relaciones-internacionales'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fder.edu.uy/rrii'
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-relaciones-internacionales"
+  - label: "Página oficial"
+    url: "https://www.fder.edu.uy/rrii"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Comenzando un nuevo siglo y nuevo milenio nos encontramos frente a una realidad cambiante, con un mundo globalizado e interdependiente, competitivo, en continua y violenta transformación, donde el asesoramiento de profesionales capacitados en el tema, se hace imprescindible para adecuarse a ello. El objetivo de esta profesión abarca, con carácter multidisciplinario, el campo referente a las Relaciones Internacionales, entendiendo como tal el escenario donde operan los actores, es decir: los estados, organismos internacionales, las ONG, empresas públicas y empresas privadas, multinacionales, transnacionales, opinión pública, grupos de presión, etc. El licenciado en Relaciones Internacionales está capacitado para: - Buscar, analizar, evaluar, proyectar, investigar, trasmitir y proporcionar información especializada en los aspectos antes mencionados. - Ejercer actividades en la disciplina diplomática. - Representar y negociar los intereses del Estado, de las ONG, de las entidades y empresas privadas donde se desempeña. - Asesorar y realizar proyectos de comercialización internacional de empresas privadas, así como el desarrollo de la logística correspondiente. - Participar en la formulación y ejecución de proyectos de investigación. - Ejercer la actividad docente.
+La profesión abarca con carácter multidisciplinario el campo de las relaciones internacionales: el escenario donde operan estados, organismos internacionales, ONG, empresas públicas y privadas, multinacionales, opinión pública y grupos de presión.
+
+El licenciado está capacitado para buscar, analizar y proyectar información especializada, ejercer la disciplina diplomática, representar y negociar intereses del Estado o de organizaciones, asesorar en comercialización internacional y logística, investigar y ejercer la docencia.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Ver requisitos: https://www.fder.edu.uy/bedelia/futuros-estudiantes#requisitos
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- Ver requisitos en Bedelía: https://www.fder.edu.uy/bedelia/futuros-estudiantes#requisitos.

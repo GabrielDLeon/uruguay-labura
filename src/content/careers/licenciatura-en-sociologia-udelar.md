@@ -11,41 +11,39 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-sociologia"
 location: "Facultad de Ciencias Sociales"
-description: "Se desempeña en asesorías y consultorías a fin de contribuir a la elaboración de diagnósticos, al diseño, discusión, implementación y evaluación de propuestas, para la solución de las diferentes problemáticas sociales de las que se trate. Se integra académicamente en centros de investigación, formula nuevas preguntas de investigación, diseña planes y proyectos destinados a darles respuesta."
-startDate: ""
-applicationDeadline: ""
+description: "Licenciatura en Sociología de 4 años en la Facultad de Ciencias Sociales (Plan 2009, con Ciclo Inicial común de dos años). Forma sociólogos para asesoría y consultoría, investigación, docencia y trabajo con organizaciones y movimientos sociales."
 tags:
   - sociologia
   - ciencias-sociales
   - investigacion-social
   - politicas-publicas
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-sociologia/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-sociologia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-sociologia/'
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-sociologia"
+  - label: "Página oficial"
+    url: "https://cienciassociales.edu.uy/ensenanza/licenciatura-en-sociologia/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Se desempeña en asesorías y consultorías a fin de contribuir a la elaboración de diagnósticos, al diseño, discusión, implementación y evaluación de propuestas, para la solución de las diferentes problemáticas sociales de las que se trate. Se integra académicamente en centros de investigación, formula nuevas preguntas de investigación, diseña planes y proyectos destinados a darles respuesta. Para ello aplica los métodos y técnicas adecuados, generando nuevo conocimiento, que se comunican en forma oral y escrita. Se incorpora activa y propositivamente a organizaciones y movimientos sociales, locales y políticos; de esta forma su saber científico se coloca al servicio de los procesos de debate para la toma de decisiones y la formación de opinión de acuerdo a los requerimientos del ejercicio de la ciudadanía participativa. Trabaja como docente en instituciones de distinto nivel y tipo, a partir de un sólido conocimiento del campo disciplinar, de una capacidad de comunicación adecuada a las diferentes edades de los destinatarios de su labor, y de un interés vivo por la educación en los valores, las teorías y los métodos de la Sociología como ciencia.
+Se desempeña en asesorías y consultorías para elaborar diagnósticos y diseñar, implementar y evaluar propuestas ante problemáticas sociales; se integra a centros de investigación, formula preguntas, diseña proyectos y genera conocimiento.
+
+Se incorpora a organizaciones y movimientos sociales, poniendo el saber científico al servicio del debate y la ciudadanía participativa; trabaja como docente con sólido conocimiento disciplinar e interés por la educación en valores, teorías y métodos de la sociología.
+
+Los primeros dos años constituyen el Ciclo Inicial, común a las licenciaturas de la facultad.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.

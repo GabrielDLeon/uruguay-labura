@@ -12,25 +12,21 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-minero"
 location: "Treinta y Tres"
 description: "En el ejercicio de su profesión el egresado podrá participar en las actividades de prospección, exploración y explotación de los recursos minerales, tanto en la planificación como en su ejecución. También podrá participar de la evaluación del impacto ambiental y aplicación de normas de higiene y seguridad laboral para prevenir riesgos para la salud."
-startDate: ""
-applicationDeadline: ""
 credits: 272
 tags:
   - mineria
   - geologia
   - recursos-minerales
   - evaluacion-de-impacto-ambiental
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/tecnologo-minero/'

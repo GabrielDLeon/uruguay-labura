@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 78
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=96"
-location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "Brindar una formación específica de posgrado en el área de español lengua extranjera sustentada en la reflexión crítica y la investigación"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Humanidades y Ciencias de la Educación, Montevideo"
+description: "Especialización en Enseñanza de Lenguas – Mención Español como lengua extranjera o Portugués como lengua extranjera (2 años, 78 créditos). Brinda formación específica de posgrado en español como lengua extranjera, sustentada en la reflexión crítica y la investigación. Gratuita, con tesis."
 tags:
   - educacion
   - ensenanza-de-lenguas
   - lengua-espanola
   - lengua-portuguesa
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

@@ -3,7 +3,6 @@ title: "Especialización en Penalidad Juvenil"
 similar:
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
   - postgrado-en-derecho-penal-economico-um
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - maestria-en-ciencias-criminologico-forenses-ude
   - abogacia-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -11,22 +10,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
 cost: "Arancelada"
+credits: 67
+contactEmail: "diplomaenpenalidadjuvenil@gmail.com"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=85"
-location: "Facultad de Ciencias Sociales"
-description: "Contribuir al tratamiento académico de la penalidad juvenil y a la formación de los profesionales vinculados y/o interesados en este campo temático, desde una perspectiva multidisciplinaria, asentada en la participación conjunta de diversos servicios universitarios."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Diploma de Especialización en Penalidad Juvenil (1 año, 67 créditos). Tratamiento académico de la penalidad juvenil y formación multidisciplinaria de profesionales vinculados al campo, con participación de diversos servicios universitarios. Arancelado ($U 45.000), con tesis."
 tags:
   - derecho
   - derecho-penal
   - ninos-y-adolescentes
   - justicia-juvenil
   - ciencias-sociales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +32,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=85'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=85'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Diploma en Penalidad Juvenil – FCS'
+    url: 'https://cienciassociales.edu.uy/diploma-en-penalidad-juvenil/'
 ---
 
 ## Resumen
@@ -50,15 +52,15 @@ SANDRA LEOPOLD
 
 Coordinación: Sandra Leopold Costábile y Carolina González Laurino Asistencia a la coordinación: Daniel Fessler Luis Eduardo Morás Daniel Díaz Martín Fernández Daniel Fessler Raquel Galeotti Carolina González Laurino Sandra Leopold Costábile Laura López Gallego Cecilia Montes
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 El Diploma en penalidad juvenil constituye una propuesta de formación de posgrado que persigue como objetivo contribuir a la formación de profesionales vinculados al sistema penal juvenil (segmento judicial y ejecutivo) y organizaciones de la sociedad civil especializadas en la temática (organizaciones que trabajan en la ejecución de medidas no privativas de libertad y en la promoción y defensa de los derechos humanos). Tiene su fundamentación en la relevancia social que la temática adquiere en los últimos años en el país, así como en el lugar protagónico que la Universidad de la República está dispuesta a ocupar a los efectos de contribuir al estudio y a la búsqueda de soluciones de los problemas que, como éste, se definen de interés general. Esta formación de posgrado cuenta con el aval de UNICEF y la Casa Bertolt Brecht, previéndose la cooperación y el intercambio a los efectos de ampliar el plantel docente que implementará la propuesta con invitados extranjeros.
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-POR EL MOMENTO NO HAY PERIODO DE POSTULACIÓN Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/ Por mas información sobre el posgrado: https://cienciassociales.edu.uy/diploma-en-penalidad-juvenil/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/ Por más información sobre el posgrado: https://cienciassociales.edu.uy/diploma-en-penalidad-juvenil/
 
 ## Plan de Estudio
 

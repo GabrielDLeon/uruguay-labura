@@ -12,22 +12,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "18 meses"
+credits: 60
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=83"
 location: "Facultad de Ingeniería, Montevideo"
-description: "El Diploma de Especialización en Ingeniería de Minas, de acuerdo con el artículo 2° dela Ordenanza de las Carreras de Posgrado tiene por objeto:a) Brindar una formación más especializada que la correspondiente a los cursos degrado en el área de la Minería.b) Profundizar la formación del graduado en el manejo activo y creativo delconocimiento.El Diploma se orienta a un perfeccionamiento en el área de la Minería, ampliando enprofundidad los conocimientos"
-startDate: ""
-applicationDeadline: "Facultad de Ingeniería"
+description: "El Diploma de Especialización en Ingeniería de Minas, de acuerdo con el artículo 2° de la Ordenanza de las Carreras de Posgrado tiene por objeto: a) Brindar una formación más especializada que la correspondiente a los cursos de grado en el área de la Minería. b) Profundizar la formación del graduado en el manejo activo y creativo del conocimiento."
+contactEmail: "gsanchez@fing.edu.uy"
 tags:
   - mineria
   - ingenieria
   - geologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=83'
@@ -45,20 +44,26 @@ El Diploma de Especialización en Ingeniería de Minas, de acuerdo con el artíc
 
 Al culminar los cursos del Diploma, el egresado del programa será capaz de: a) Exponer con solvencia los principios básicos y fundamentos teóricos que se manejan en la Minería en su estado actual. b) Conocer los fundamentos actuales teóricos y principales características de las tecnologías más utilizadas en Minería, sus campos de aplicación, limitaciones y costos. c) Aplicar, utilizando los fundamentos teóricos, las nuevas tendencias en Minería, atendiendo a las exigencias del sector. d) Seleccionar, para cada situación de aplicación, la tecnología o combinación de tecnologías más adecuadas de acuerdo con las metas fijadas. e) Abordar los aspectos sociales y económicos asociados a la aplicación y utilización de las tecnologías vinculadas a la Minería.
 
-### Referentes académicos
+### Datos del programa
 
-Gustavo Sánchez, Departamento Ingeniería de Materiales y Minas, Instutito de Ingeniería Química, Facultad de Ingeniería.
-
-### Docentes
-
-Dr. Ing. Gustavo Sánchez (Ingeniería de Materiales, Ingeniería Química) Dr. Ing. Santiago Seiler (Ingeniería de Minas, Ingeniería Química) Dr. Marcos Musso (Geología, Geotécnica) Mag. Ing. Javier Martínez (Ingeniería Ambiental, Ingeniería Química)
+- **Título otorgado:** Especialista en Ingeniería de Minas
+- **Plan de estudios:** 2012
+- **Duración:** 18 meses
+- **Créditos:** 60 (60 de cursos)
+- **Tesis:** No
+- **Postulación:** Sin convocatoria definida a la fecha (consultar)
+- **Costo:** Gratuita (sin cobro de derechos universitarios, según CAP)
+- **Cupos:** 20
+- **Ficha CAP actualizada:** 19/03/2026
 
 ## Ingreso
 
-### Reglamento
+### Requisitos de ingreso
 
-Podrán ingresar al Diploma de Especialización en Ingeniería de Minas quienes posean como minimo antecedentes académicos equivalentes a los enunciados en el Artículo 13º del RGP-FING. En cada curso de la actividad programada se exigen asistencia al 80% de las clases y aprobación de la prueba de avaluación propuesta en cada caso. El posgrado es conducido por la Subcomisión Académica de Posgrado del Área y la Comisión Académica de Posgrado de Facultad de Ingeniería.
+“Podrán ingresar al Diploma de Especialización en Ingeniería de Minas quienes posean como mínimo antecedentes académicos equivalentes a los enunciados en el Artículo 13º del RGP-FING. Aquellos aspirantes que a juicio de la SCAPA – IM necesiten completar actividades previas, de manera de asegurar un completo aprovechamiento de las actividades del Diploma, deberán realizar estas actividades de nivelación inmediatamente después de haber sido admitidos al programa. Las actividades de nivelación no generarán créditos para la obtención del Diploma.”
 
-### Requisitos de Ingreso
+### Inscripción y contacto
 
-“Podrán ingresar al Diploma de Especialización en Ingeniería de Minas quienes posean como minimo antecedentes académicos equivalentes a los enunciados en el Artículo 13º del RGP-FING. Aquellos aspirantes que a juicio de la SCAPA – IM necesiten completar actividades previas, de manera de asegurar un completo aprovechamiento de las actividades del Diploma, deberán realizar estas actividades de nivelación inmediatamente después de haber sido admitidos al programa. Las actividades de nivelación no generarán créditos para la obtención del Diploma.”
+Inscripción: Facultad de Ingeniería.
+Contacto: gsanchez@fing.edu.uy.
+Sin convocatoria definida a la fecha; consultar por la vía de contacto.

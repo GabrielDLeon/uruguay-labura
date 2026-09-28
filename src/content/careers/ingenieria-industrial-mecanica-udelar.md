@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-industrial-mecanica"
 location: "Facultad de Ingeniería"
-description: "El ingeniero industrial mecánico tiene la capacidad de emplear herramientas matemáticas y computacionales para analizar, modelar y diseñar sistemas físicos integrados por componentes sólidos y fluidos,tanto en condiciones transitorias como estacionarias. Se ocupa también de las áreas de sistemas tér"
-startDate: ""
-applicationDeadline: ""
+description: "Emplea herramientas matemáticas y computacionales para analizar, modelar y diseñar sistemas físicos de componentes sólidos y fluidos. Trabaja en diseño mecánico y materiales, fluidos y energía, proyectos e ingeniería de planta, con énfasis en el uso eficiente de la energía."
 credits: 450
 tags:
   - ingenieria-industrial
@@ -29,7 +25,7 @@ tags:
   - ingenieria
   - procesos-industriales
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

@@ -12,24 +12,27 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+credits: 130
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=75"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "Contribuir a la profesionalización de la gestión de las organizaciones proveedorasde tecnologías de la información (TI). Contribuir a la profesionalización de la gestión de distintos tipos deorganizaciones mediante el uso y explotación efectivo de sus sistemas de informacióny la tecnología de la información. Aportar las habilidades requeridas para desarrollar el negocio tecnológico desdeel punto de vista comercial."
-startDate: ""
-applicationDeadline: "https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html"
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Magíster en Sistemas de Información de las Organizaciones (130 créditos con tesis): gestión de los sistemas y tecnologías informáticas desde las ciencias de la administración para ventajas competitivas y soluciones de negocio. Incluye como título intermedio la Especialización en Sistemas de Información de las Organizaciones y Gestión de Empresas de TI."
 tags:
   - administracion
   - gestion-empresarial
   - informatica
   - sistemas-de-informacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 22:20:00"
 sources:
+  - label: 'Oferta e inscripciones 2026 (FCEA)'
+    url: 'https://www.fcea.udelar.edu.uy/institucional/novedades/9130-postulaciones-2026.html'
+  - label: 'Maestrías en Sistemas de Información y Gestión de Empresas TI (FCEA)'
+    url: 'https://fcea.udelar.edu.uy/maestrias/maestrias-en-sistemas-de-informacion-y-en-gestion-de-empresas-ti-2.html'
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=75'
   - label: 'Ficha PDF'
@@ -40,32 +43,26 @@ sources:
 
 ### Objetivo
 
-Contribuir a la profesionalización de la gestión de las organizaciones proveedoras de tecnologías de la información (TI). Contribuir a la profesionalización de la gestión de distintos tipos de organizaciones mediante el uso y explotación efectivo de sus sistemas de información y la tecnología de la información. Aportar las habilidades requeridas para desarrollar el negocio tecnológico desde el punto de vista comercial. Contribuir al perfeccionamiento y profesionalización de la gestión de los sistemas de información, desde la perspectiva de las ciencias de la administración. Complementar la formación universitaria especializada, con conocimientos en el uso y explotación de sistemas de información y tecnologías informáticas. Ofrecer las habilidades necesarias para identificar, desarrollar y gestionar los beneficios que la tecnología puede brindar como ventajas competitivas, de valor agregado y soluciones de negocios. Brindar a los participantes los conceptos básicos fundamentales y metodológicos de las técnicas existentes para especificar, planificar, ejecutar y controlar proyectos, con especialidad en proyectos de TI, a fin de que resulten exitosos. Aportar herramientas que apuntalen la internacionalización de las empresas de TI.
+Profesionalizar la gestión de los sistemas de información y tecnologías informáticas desde las ciencias de la administración, con foco en ventajas competitivas, valor agregado y soluciones de negocio.
 
 ### Perfil de egreso
 
-La orientación de Sistemas de información de las Organizaciones tendrá especial énfasis en la gestión de los sistemas de información y tecnologías informáticas, desde la perspectiva de las ciencias de la administración, para brindar ventajas competitivas, de valor agregado y soluciones de negocios para las organizaciones. El énfasis en alguna de las orientaciones estará dado por las unidades curriculares elegidas para los créditos libres requeridos, y en la temática de la tesis final, de acuerdo al plan individual elaborado por el estudiante con el aval del Director Académico y aprobado por el Comité Académico.
-
-### Referentes académicos
-
-Profesor Cr. Gabriel Budiño
-
-### Docentes
-
-El cuerpo docente es uno de los factores mas importantes que asegura la calidad del Programa de Posgrado. Está integrado por un destacado grupo de docentes locales y del exterior, con sólida formación académica, antecedentes docentes y fuerte experiencia práctica. Se podrá encontrar un detalle del plantel docente en el siguiente link: https://fcea.udelar.edu.uy/plantel-docente-maestria-sistemas.html
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-REQUISITOS DE ADMISIÓN El programa está destinado a graduados universitarios o, excepcionalmente, personas que acrediten formación equivalente, sin ningún requisito específico adicional. Podrán participar aquellas personas que, reuniendo los requisitos enunciados en el artículo 1 de la Ordenanza de Posgrados, se hayan postulado oportunamente y sean aceptados por la Dirección Académica del programa, en base al curriculum personal de estudios y experiencia profesional, que tendrán igual peso relativo a los efectos de evaluar su ingreso al programa. Para formalizar su postulación al Programa de Posgrados: https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html
+Énfasis en gestión de sistemas de información según las unidades curriculares libres elegidas y la temática de tesis, con plan individual avalado por el Director Académico y aprobado por el Comité Académico.
 
 ## Plan de Estudio
 
 ### Programa
 
-REQUISITOS DE APROBACIÓN 130 créditos, de los cuales 100 corresponden a actividades programadas, equivalentes a 500 horas distribuidas en dos años y 30 créditos al trabajo de tesis. Previo al inicio de cada año lectivo se comunicarán las actividades programadas, su modalidad y horarios, así como los criterios para la obtención de los créditos. Quienes se inscriban directamente a la Maestría, obtendrán como título intermedio la Especialización en Sistemas de Información de las Organizaciones y Gestión de Empresas de Tecnologías de la Información, cuando alcancen los requisitos correspondientes. La tesis podrá consistir en un documento de investigación o en un proyecto realizado en el marco de una organización, donde demuestre por parte del aspirante, haber alcanzado el estado actual del conocimiento y competencia conceptual y metodológica. En concordancia con los criterios establecidos en la Udelar, un crédito equivale a quince horas de trabajo, tomando en cuenta todas las actividades que requiere una asignatura para su adecuada asimilación durante el desarrollo del curso correspondiente, incluyendo en estas horas las que corresponden a las clases y trabajo asistido, evaluaciones y trabajo estrictamente personal.
+Dos años y 130 créditos: 100 de actividades programadas (500 horas) y 30 de tesis (documento de investigación o proyecto en una organización). Título intermedio: Especialización en Sistemas de Información de las Organizaciones y Gestión de Empresas de Tecnologías de la Información.
 
-### Unidades curriculares
+La modalidad y los horarios se comunican antes de cada año lectivo y la ficha CAP no los publica de forma permanente, por lo que esta ficha queda en revisión en esos puntos.
 
-Para la maestría se establecen créditos mínimos en cuatro áreas de conocimiento: Tecnologías de la Información 22 créditos Gestión y Estrategia 18 créditos Proyectos y Gestión Humana 12 créditos Metodología de la Investigación 10 créditos Otros cursos y seminarios(*) 38 créditos Trabajo de Tesis(*) 30 créditos (*) Los créditos libres y la tesis final deberán corresponder a la orientación elegida, de acuerdo al plan individual elaborado con el aval del Director Académico y aprobado por el Comité Académico.
+## Ingreso
+
+### Requisitos de Ingreso
+
+Destinado a graduados universitarios (o con formación equivalente) con un mínimo de 4 años de estudios. El título de grado puede pertenecer a la Universidad de la República, a universidades del exterior de nivel reconocido o a universidades del país con nivel de educación superior. La admisión la resuelve la Dirección Académica del posgrado en base a escolaridad, antecedentes y experiencia profesional.
+
+### Inscripción y arancel
+
+Posgrado arancelado: $ 603.000 en total (página de la Maestría en FCEA, con matrícula inicial y 30 cuotas; descuentos para egresados del posgrado previo). Incluida en la oferta e inscripciones 2026 de FCEA. Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy.

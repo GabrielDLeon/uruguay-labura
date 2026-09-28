@@ -12,23 +12,22 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+credits: 108
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=89"
 location: "Facultad de Derecho, Montevideo"
-description: "Este perfil profesional y académico, adecuadamente actualizado, es demandado demanera creciente por organismos gubernamentales, la actividad privada, lasinstituciones educativas y por organizaciones gubernamentales, comunitarias, nogubernamentales y privadas.Debe remarcarse que la Maestría se divide en sus dos semestres finales, en opcionesde especialización."
-startDate: ""
-applicationDeadline: ""
+contactEmail: "posgrado@fder.edu.uy"
+description: "Magíster en Derecho Internacional Público con opciones Económico y Humanitario (108 créditos con tesis): profundiza en los dos semestres finales el área de mayor aplicación práctica, con docentes nacionales y de universidades extranjeras."
 tags:
   - derecho
   - derecho-internacional
   - derecho-internacional-publico
   - derechos-humanos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=89'
@@ -38,20 +37,26 @@ sources:
 
 ## Resumen
 
+### Objetivo
+
+Formar magísteres en derecho internacional público con perfil profesional y académico actualizado, demandado por gobiernos, empresas, educación y sociedad civil, con especialización final orientada a la práctica y el desarrollo profesional.
+
 ### Perfil de egreso
 
-Este perfil profesional y académico, adecuadamente actualizado, es demandado de manera creciente por organismos gubernamentales, la actividad privada, las instituciones educativas y por organizaciones gubernamentales, comunitarias, no gubernamentales y privadas. Debe remarcarse que la Maestría se divide en sus dos semestres finales, en opciones de especialización. El propósito de esta división final, ha sido proporcionar al maestrando la posibilidad de profundizar los conocimientos en las áreas en donde se ha podido comprobar que existen mayores posibilidades de aplicación práctica de sus contenidos. Estas opciones además, constituyen un componente que dinamiza la Maestría, orientando esencialmente hacia la práctica y el desarrollo profesional. El cuerpo docente estará integrado especialistas nacionales así como por Profesores de reconocidas Universidades extranjeras.
+En los dos semestres finales la Maestría se divide en opciones de especialización (Económico y Humanitario) para profundizar en las áreas de mayor aplicación práctica. Docentes nacionales y de reconocidas universidades extranjeras.
 
-### Referentes académicos
+## Plan de Estudio
 
-Dr. Enrique Hernández / Dr. Daniel Vignali
+### Programa
+
+Dos años y 108 créditos (78 de cursos y 30 de tesis), Plan 2011, con 25 cupos por cohorte. Asistencia mínima del 70 % de las horas de clase.
 
 ## Ingreso
 
-### Reglamento
-
-En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. La instancia de evaluación en cada asignatura será de monografía, examen o prueba en Plataforma EVA.
-
 ### Requisitos de Ingreso
 
-El postulante a esta carrera deberá ser egresado de Abogado, Escribano o Licenciado en Relaciones Internacionales. También pueden postularse egresados de otras carreras que puedan ser consideradas por la Dirección Académica afin con el Posgrado.
+Título de abogado o Doctor en Derecho de la Facultad de Derecho de Udelar. También pueden ingresar abogados graduados en otras universidades nacionales o extranjeras que acrediten una razonable equivalencia con la carrera de Abogacía de la Facultad, además de licenciados de carreras afines según cada programa.
+
+### Inscripción y arancel
+
+Posgrado arancelado: 206,00 unidades reajustables (UR) en total (referencia CAP 2026; verificar actualización). Escuela de Posgrados, Facultad de Derecho (Av. 18 de Julio 1824, Montevideo) — posgrado@fder.edu.uy. Inscripción por bedelías (www.bedelias.edu.uy). Último período publicado: 01/10/2025 al 15/03/2026. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en la Escuela de Posgrados.

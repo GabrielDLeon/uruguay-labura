@@ -12,20 +12,19 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 185
+contactEmail: "mhp@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=94"
 location: "Facultad de Ciencias Sociales, Montevideo"
-description: "El Plan de Estudios se apoya en una concepción que circula entre lo disciplinario y lo interdisciplinario. La Maestría tiene su autonomía epistemológica, pero sus contenidos temáticos y recursos docentes están marcados por las capacidades disponibles en las unidades que la impulsan. Al mismo tiempo esta propuesta busca sacar el mejor provecho de la acumulación académica generada en dichos ámbitos."
-startDate: ""
-applicationDeadline: ""
+description: "Maestría en Historia Política (2 años, 185 créditos), entre lo disciplinario y lo interdisciplinario, con contenidos marcados por las unidades académicas que la impulsan. Gratuita, con tesis y cupos limitados (30). Última postulación: octubre-diciembre de 2024."
 tags:
   - historia
   - historia-politica
   - ciencia-politica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -33,6 +32,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=94'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=94'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -53,11 +54,11 @@ Pablo Ferreira - Diego Grauer
 
 Coordinación: Pablo Ferreira - Asistente de la Coordinación: Diego Grauer -
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 La Maestría en Historia Política (MHP) de la Universidad de la República es un programa académico que se desarrolla en la Facultad de Ciencias Sociales bajo la responsabilidad de su Departamento de Ciencia Política (ICP), en colaboración con el Centro de Estudios Interdisciplinarios Uruguayos (CEIU) y el Departamento de Historia del Uruguay (DHU) de la Facultad de Humanidades y Ciencias de la Educación, y con el Área de Investigación Histórica del Archivo General de la Universidad de la República (AGU). El cursado transcurre durante dos años lectivos, organizados en cuatro semestres, con clases de tres horas de duración en horario nocturno. La carga horaria total de la Maestría es de 504 horas presenciales (equivalentes a 145 créditos), de los cuales el 70% es de carácter obligatorio y el resto optativo, a seleccionar por el estudiante (en consulta con su tutor) preferentemente según su correspondencia con la temática de la tesis a desarrollar. La modalidad de los cursos es presencial, con un requisito de asistencia mínima del 75% del total de clases dictadas. https://cienciassociales.edu.uy/wp-content/uploads/2019/08/Reglamento-Especial-de-la-Maestr%c3%ada-en-Historia-Pol%c3%adtica.pdf
+
+## Ingreso
 
 ### Requisitos de Ingreso
 

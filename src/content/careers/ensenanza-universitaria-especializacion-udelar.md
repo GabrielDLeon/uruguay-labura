@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+cost: "Gratuita"
+credits: 60
+contactEmail: "posgrados@cse.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=89"
-location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "Su objetivo primordial es formar investigadores en el área de la pedagogía y ladidáctica universitaria, entendida como un campo de conocimiento multidisciplinar, enel que se entrecruzan las disciplinas y no se disocian los contenidos del campoprofesional, haciendo referencia al componente epistemológico propio de cadadisciplina.Las líneas de investigación del posgrado comprenden las temáticas de políticas deenseñanza superior, didáctica universitaria y"
-startDate: ""
-applicationDeadline: "Facultad de Humanidades"
+location: "Facultad de Humanidades y Ciencias de la Educación, Montevideo"
+description: "Diploma de Especialización en Enseñanza Universitaria (1 año, 60 créditos), del programa conjunto de la Comisión Sectorial de Enseñanza y la FHCE dirigido a docentes en actividad. Forma investigadores en pedagogía y didáctica universitaria como campo multidisciplinar. Gratuito, con tesis; abre cada dos años."
 tags:
   - educacion
   - educacion-superior
   - pedagogia
   - didactica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -33,6 +32,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=89'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=89'
+  - label: 'Maestría y Diploma en Enseñanza Universitaria (CSE)'
+    url: 'https://www.cse.udelar.edu.uy/meu/'
+  - label: 'Maestría en Enseñanza Universitaria – FHCE'
+    url: 'https://fhce.edu.uy/maestria-en-ensenanza-universitaria/'
 ---
 
 ## Resumen
@@ -47,9 +50,9 @@ Prof. Mercedes Collazo (Coordinadora académica) El posgrado cuenta con un vasto
 
 ## Ingreso
 
-### Reglamento
+### Programa
 
-Ver página: Cse Udelar
+Ver programa en: [Maestría y Diploma en Enseñanza Universitaria (CSE)](https://www.cse.udelar.edu.uy/meu/)
 
 ### Requisitos de Ingreso
 

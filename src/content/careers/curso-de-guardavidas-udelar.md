@@ -11,24 +11,20 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/curso-de-guardavidas"
 location: "Maldonado"
-description: "El Curso de Guardavidas propone la formación de un profesional responsable de la prevención, auxilio y rescate necesarios en todos las \"espejos de agua naturales (océanos, ríos, lagos etc.) y artificiales (piscinas, parques acuáticos etc.) habilitadas o no para su uso recreativo o deportivo\"."
-startDate: ""
-applicationDeadline: ""
+description: "El Curso de Guardavidas forma profesionales responsables de la prevención, auxilio y rescate en espejos de agua naturales (océanos, ríos, lagos) y artificiales (piscinas, parques acuáticos), habilitadas o no para uso recreativo o deportivo. Aprobado el ciclo se otorga el Diploma Oficial de Guardavidas, habilitante para ejercer en todo el territorio nacional."
 credits: 61
 tags:
   - deporte
   - salvamento-acuatico
   - seguridad-acuatica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://udelar.edu.uy/carrerasinterior/curso-de-guardavidas/'

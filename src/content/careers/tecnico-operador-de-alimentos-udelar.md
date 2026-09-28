@@ -10,27 +10,24 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
-area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "2 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnico-operador-de-alimentos"
+contactEmail: "toa@cut.edu.uy"
 location: "Tacuarembó"
 description: "Está capacitado para prestar atención alimentaria a usuarios y clientes en cuanto a procedimientos básicos en la producción de alimentos y al servicio y venta de alimentos y productos. Esta formación lo habilita para trabajar bajo la supervisión del Licenciado en Nutrición en diversos ámbitos."
-startDate: ""
-applicationDeadline: ""
 credits: 160
 tags:
   - alimentos
   - gastronomia
   - nutricion
   - servicio-de-alimentos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.tacuarembo.udelar.edu.uy/tecnico-operador-de-alimentos/'
@@ -45,6 +42,8 @@ sources:
 ### Sobre la Carrera
 
 Está capacitado para prestar atención alimentaria a usuarios y clientes en cuanto a procedimientos básicos en la producción de alimentos y al servicio y venta de alimentos y productos. Esta formación lo habilita para trabajar bajo la supervisión del Licenciado en Nutrición en diversos ámbitos.
+
+El plan de estudios tiene una duración de 2 años (4 semestres, 160 créditos mínimos) y se dicta en la sede Tacuarembó del Cenur Noreste.
 
 ## Ingreso
 

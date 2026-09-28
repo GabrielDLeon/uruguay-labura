@@ -1,34 +1,26 @@
 ---
 title: "Maestría en Ciencia de Datos Aplicada"
-similar:
-  - ciencia-de-datos-y-aprendizaje-automatico-maestria-udelar
-  - ciencia-de-datos-especializacion-udelar
-  - especializacion-en-ciencia-de-datos-e-inteligencia-artificial-utec
-  - inteligencia-artificial-y-ciencia-de-datos-ucu
-  - maestria-en-ciencia-de-datos-um
-  - ingenieria-de-datos-e-inteligencia-artificial-um
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+credits: 110
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=53"
 location: "Facultad de Ingeniería, Montevideo"
-description: "Los objetivos de la Maestría en Ciencia de Datos y Aprendizaje Automático sonpromover la profundización y actualización de los conocimientos en las diferentesdisciplinas relacionadas con la Ciencia de Datos y el Aprendizaje Automático."
-startDate: ""
-applicationDeadline: "cpap@fing.edu.uy"
+description: "La Maestría en Ciencia de Datos Aplicada promueve la profundización y actualización de los conocimientos en ciencia de datos y aprendizaje automático, formando recursos para la investigación, el desarrollo científico-tecnológico y la resolución de problemas de la industria nacional."
+contactEmail: "cpap@fing.edu.uy"
 tags:
   - ciencia-de-datos
   - machine-learning
   - inteligencia-artificial
   - informatica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=53'
@@ -46,22 +38,24 @@ Los objetivos de la Maestría en Ciencia de Datos y Aprendizaje Automático son 
 
 El egresado adquiere formación en diferentes disciplinas de la Ciencia de Datos y el Aprendizaje Automático. Esto lo capacita en la recolección, depurado, modelado, representación y análisis de datos para resolver problemas como los que se presentan en la industria o la academia. De igual modo adquiere capacidades para interpretar, visualizar y comunicar los resultados obtenidos. A la vez, es capaz de entender los fundamentos matemáticos y algorítmicos detrás de los métodos de la ciencia de datos y del aprendizaje automático, y comprender la literatura especializada de la disciplina. Por lo tanto, es capaz de proponer y desarrollar nuevos métodos y algoritmos adaptados al tipo de datos y al problema que tenga que resolver.
 
-### Referentes académicos
+### Datos del programa
 
-Dra.Ing.Aiala Rosá aialar@fing.edu.uy
+- **Título otorgado:** Magister en Ciencia de Datos Aplicada
+- **Plan de estudios:** 2020
+- **Duración:** 2 años (24 meses)
+- **Créditos:** 110 (70 de cursos + 40 de tesis)
+- **Tesis:** Sí
+- **Postulación:** Sin convocatoria definida a la fecha (consultar)
+- **Costo:** Arancelada (Monto para estudiantes con nacionalidad uruguaya: $U 365.000 Monto para estudiantes sin nacionalidad uruguaya: $U 365.000)
+- **Ficha CAP actualizada:** 23/03/2026
 
 ## Ingreso
 
-### Reglamento
-
-Se requiere el 80% de asistencia para la aprobación de los cursos y un mínimo de 3 en la escala de calificaciones y un máximo de 12. Estructura de gobierno que rige el posgrado: -Director de Instituto. Pro Director de Posgrados Scapa Informática. Referentes de carreras de posgrado.
-
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
 Condición 1: Contar con un título de grado en carreras que incluyan formación en matemática e informática, otorgado por la Universidad de la República de al menos 360 créditos. Condición 2: Contar con formación equivalente que, a juicio de la Comisión de Posgrado, permita la realización y aprovechamiento del Plan de Estudios del diploma de Especialización en Ciencia de Datos o Maestría en Ciencia de Datos Aplicada.
 
-## Plan de Estudio
+### Inscripción y contacto
 
-### Unidades curriculares
-
-Algoritmos Evolutivos Álgebra Lineal Numérica Análisis de Datos en Redes Aprendizaje Automático Aprendizaje Automático para Datos en Grafos Aprendizaje Profundo para Visión Artificial Estadística Multivariada ComputacionaI Herramientas para el Diseño y Análisis de Redes de Transporte Urbano Optimización Continua y Aplicaciones Recuperación de Información y Recomendaciones en la Web Simulación a Eventos Discretos Teoría y Algoritmia de Optimización Tratamiento de Imágenes por ComputadoraI Redes Neuronales para el Procesamiento de Lenguaje Natural Análisis de Redes de Transporte Urbano Bases de datos no relacionales Computación de Alta Performance Computación de Propósito General en GPU Estimación y Predicción en Series Temporales Estimación Numérica Monte Carlo Introducción a la Ciencia de Datos Introducción al Procesamiento de Lenguaje Natural Introducción a la Teoría de la Información Métodos eficientes de simulación para la estimación de confiabilidad de redes Sistemas de Información para el Análisis de Grandes Volúmenes de Datos Tratamiento de imágenes por computadora Visualización de Datos
+Contacto: cpap@fing.edu.uy.
+Sin convocatoria definida a la fecha; consultar por la vía de contacto.

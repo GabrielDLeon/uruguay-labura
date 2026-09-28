@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-quimica"
 location: "Facultad de Química; Salto"
-description: "El Licenciado en Química estará capacitado para: - realizar las tareas prácticas inherentes al trabajo en laboratorios de distintas áreas - insertarse en un grupo de investigación generando conocimiento científico - continuar hacia estudios más avanzados y especializados que lo conduzcan a obtener u"
-startDate: ""
-applicationDeadline: ""
+description: "El Licenciado en Química realiza tareas prácticas en laboratorios de distintas áreas, se inserta en grupos de investigación, continúa hacia posgrados y colabora en la enseñanza de la Química a nivel secundario, terciario y superior."
 credits: 320
 tags:
   - quimica
   - ciencias-exactas
   - quimica-organica
   - quimica-analitica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

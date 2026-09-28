@@ -12,21 +12,19 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "4 años"
+contactEmail: "biologia@pedeciba.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=42"
 location: "Facultad de Ciencias, Montevideo"
-description: "En el marco del Reglamento General de posgrado del PEDECIBA y de la Ordenanza dePosgrados de la Universidad de la República, el Doctorado constituye el nivel superiorde posgrado en un área del conocimiento. Su objetivo central es asegurar lacapacitación para desarrollar y comunicar oralmente y en forma escrita lainvestigación original propia."
-startDate: ""
-applicationDeadline: ""
+description: "Doctorado gratuito de 4 años, nivel superior del posgrado PEDECIBA en Ciencias Biológicas: capacita para desarrollar y comunicar investigación original propia mediante la tesis, con un orientador. Postulación continua."
 tags:
   - biologia
   - ciencias-naturales
   - biologia-molecular
   - genetica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -61,3 +59,13 @@ https://www.pedeciba.edu.uy/es/reglamento/reglamento-de-posgrado-en-ciencias-bio
 ### Programa
 
 Se arma de acuerdo al tema de tesis elegido por el estudiante, en conjunto con su Director de tesis y se aprueba por la SIS
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en Bedelía de Facultad de Ciencias y por correo a biologia@pedeciba.edu.uy.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

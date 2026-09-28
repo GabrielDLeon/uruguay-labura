@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-radioisotopos"
 location: "Facultad de Medicina"
 description: "Es un profesional de la salud que ha recibido la formación teórica y práctica que lo capacita para el manejo de sustancias radioactivas en forma de fuentes abiertas y su aplicación en procedimientos diagnósticos y terapéuticos, bajo la indicación y supervisión de un médico especialista en Medicina Nuclear o del radiofarmacéutico hospitalario, para cumplir un rol específico en el equipo multidisciplinario de Medicina Nuclear."
-startDate: ""
-applicationDeadline: ""
 tags:
   - salud
   - medicina-nuclear
   - radioisotopos
   - tecnologia-medica
   - radioterapia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,8 +32,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-radioisotopos'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos'
 ---
 
 ## Resumen
@@ -45,6 +39,10 @@ sources:
 ### Sobre la Carrera
 
 Es un profesional de la salud que ha recibido la formación teórica y práctica que lo capacita para el manejo de sustancias radioactivas en forma de fuentes abiertas y su aplicación en procedimientos diagnósticos y terapéuticos, bajo la indicación y supervisión de un médico especialista en Medicina Nuclear o del radiofarmacéutico hospitalario, para cumplir un rol específico en el equipo multidisciplinario de Medicina Nuclear.
+
+### Duración y cursado
+
+**Duración:** 3 años (2740 horas) · **Sede:** Facultad de Medicina (Montevideo) · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

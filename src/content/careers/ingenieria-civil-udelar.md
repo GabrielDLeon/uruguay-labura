@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-civil"
 location: "Facultad de Ingeniería"
-description: "Es un profesional que se dedica a la producción de bienes y servicios en forma eficiente y económica vinculados a obras de infraestructura, hidráulicas y de trasporte. Esta actividad se materializa fundamentalmente a través de la ejecución de diseños, la construcción de obras, la gestión, operación"
-startDate: ""
-applicationDeadline: ""
+description: "Profesional dedicado a la producción eficiente de bienes y servicios vinculados a obras de infraestructura, hidráulicas y de transporte, mediante el diseño, la construcción, la gestión, operación y mantenimiento de sistemas. La carrera se organiza en perfiles: estructuras, construcción, transporte y vías de comunicación, e hidráulico-ambiental."
 credits: 450
 tags:
   - ingenieria-civil
@@ -29,7 +25,7 @@ tags:
   - infraestructura
   - construccion
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

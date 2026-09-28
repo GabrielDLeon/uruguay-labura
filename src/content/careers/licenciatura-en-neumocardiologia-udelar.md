@@ -12,22 +12,18 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-duration: "5 años"
+duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-neumocardiologia"
 location: "Facultad de Medicina"
 description: "El Licenciado en Neumocardiología está capacitado para la realización de algunas técnicas diagnósticas y de tratamiento realizadas dentro de las áreas cardiológicas, neumológicas, centro de cuidados intensivos, recuperación posanestésica y cirugía cardíaca."
-startDate: ""
-applicationDeadline: ""
 tags:
   - salud
   - cardiologia
   - neumologia
   - cuidados-intensivos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -35,8 +31,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neumocardiologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-neumocardiologia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neumocardiologia'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 El Licenciado en Neumocardiología está capacitado para la realización de algunas técnicas diagnósticas y de tratamiento realizadas dentro de las áreas cardiológicas, neumológicas, centro de cuidados intensivos, recuperación posanestésica y cirugía cardíaca.
+
+### Duración y cursado
+
+**Duración:** 4 años (3418 horas) · **Sede:** Facultad de Medicina (Montevideo) · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-electrica"
 location: "Facultad de Ingeniería"
-description: "Los egresados de Ingeniería Eléctrica pueden desarrollar en forma autónoma tareas de ingeniería de proyecto, mantenimiento, producción, operación o gestión, de relativa complejidad, en todas las áreas de ejercicio de la profesión, así como integrarse al trabajo en equipo para la reali"
-startDate: ""
-applicationDeadline: ""
+description: "Desarrolla en forma autónoma tareas de ingeniería de proyecto, mantenimiento, producción, operación o gestión en todas las áreas de la profesión. La carrera se organiza en perfiles: electrónica, telecomunicaciones, potencia y señales."
 credits: 450
 tags:
   - ingenieria-electrica
   - ingenieria
   - electricidad
   - programa-roberto-rocca
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

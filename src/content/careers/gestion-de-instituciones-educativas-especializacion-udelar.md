@@ -12,15 +12,13 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "18 meses"
+cost: "Gratuita"
+credits: 66
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=93"
 location: "Convenio A.N.E.P.- UdelaR"
-description: "Especialización en Gestión de Instituciones Educativas, dictada por la Universidad de la República (UDELAR) en convenio con A.N.E.P.."
-startDate: ""
-applicationDeadline: ""
+description: "Diploma de Especialización en Gestión de Instituciones Educativas (18 meses, 66 créditos), en convenio ANEP-Udelar. Gratuito, sin tesis."
 tags:
   - educacion
   - gestion-educativa
@@ -42,4 +40,12 @@ sources:
 
 ## Resumen
 
-Información no disponible en el catálogo de posgrados de Udelar.
+### Sobre el programa
+
+Diploma de Especialización en Gestión de Instituciones Educativas (18 meses, 66 créditos), en convenio ANEP-Udelar. Gratuito, sin tesis.
+
+## Ingreso
+
+### Convocatoria
+
+**Sin convocatoria vigente.**

@@ -3,7 +3,6 @@ title: "Licenciatura Binacional en Turismo"
 similar:
   - licenciatura-en-turismo-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - especializacion-en-turismo-sostenible-utec
   - tecnico-en-gestion-turistica-y-hotelera-ort
 institutionName: "Universidad de la República (UDELAR)"
@@ -11,23 +10,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-binacional-en-turismo"
 location: "Salto"
-description: "El plan de estudios apunta a la formación integral de profesionales en el área turismo, en tanto una actividad que genera interrelaciones sociales, económicas, culturales, ambientales y políticas. Por ser una actividad dinámica, presenta constantes desafíos que requieren un profesional en condiciones de abordar la realidad turística desde una perspectiva que articule permanentemente el saber científico y la práctica. El profesional deberá ser capa"
-startDate: ""
-applicationDeadline: ""
+description: "El plan de estudios apunta a la formación integral de profesionales en el área turismo, en tanto una actividad que genera interrelaciones sociales, económicas, culturales, ambientales y políticas. Por ser una actividad dinámica, presenta constantes desafíos que requieren un profesional en condiciones de abordar la realidad turística desde una perspectiva que articule permanentemente el saber científico y la práctica. El profesional deberá ser capaz de conocer las problemáticas propias de la actividad y actuar sobre la realidad con sentido crítico y eficiencia."
 tags:
   - turismo
   - gestion-de-destinos
   - administracion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-turismo'

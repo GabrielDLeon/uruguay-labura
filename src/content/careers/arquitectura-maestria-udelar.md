@@ -12,20 +12,19 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "18 meses"
+credits: 70
+contactEmail: "posgradoyep@fadu.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=97"
 location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
-description: "OBJETIVOS Son objetivos de la Maestría en Arquitectura formar recursos humanos en el campo disciplinar, desarrollar la capacidad de investigación fundamental y promover la profundización en el conocimiento específico, para abordar con mayor solvencia el ejercicio profesional y/o académico."
-startDate: ""
-applicationDeadline: ""
+description: "Maestría gratuita de 18 meses (70 créditos) que forma recursos humanos en investigación disciplinar y profundización del conocimiento arquitectónico, para el ejercicio profesional y académico. Sin convocatoria vigente."
 tags:
   - arquitectura
   - diseno-arquitectonico
   - diseno
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -60,3 +59,17 @@ ADMISIÓN Y SELECCIÓN DE CANDIDATOS Las solicitudes de ingreso al programa de M
 ### Programa
 
 ACTIVIDAD PROGRAMADA 1- de un trayecto de especialización reconocido por la Facultad de Arquitectura 2- de cursos obligatorios de la Maestría en Arquitectura La actividad programada le permitirá al estudiante profundizar en su formación fundamental según el área de encuadre y el perfil de especialización; y adquirir los conocimientos necesarios para la realización de la Tesis. Trayecto de especialización (40 a 60 créditos) Las autoridades académicas de la Maestría junto con el referente académico del trayecto de especialización que corresponda evaluarán las aspiraciones y los cursos acreditables en función del perfil de especialización y el área de encuadre elegida para realizar la Maestría. Cursos Obligatorios (15 a 35 créditos): Los cursos obligatorios comprenderán las áreas generales de epistemología y metodología de investigación y el área de encuadre elegida: proyecto y representación; tecnología; teoría,historia y critica. Trabajo de Tesis : Tesis (35 créditos): El estudiante deberá desarrollar individualmente un trabajo de tesis de Maestría que buscará constituirse en un aporte disciplinar a partir de la profundización del tema elegido. Se atenderá especialmente a que el núcleo temático de la Tesis se vincule y articule con la actividad de espacios y ámbitos de investigación de la Facultad de Arquitectura.
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 31/03/2023–02/05/2023). La postulación es on-line en el sitio web de la Facultad de Arquitectura.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

@@ -3,18 +3,14 @@ title: "Licenciatura Biología Humana"
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
-area: "Ciencias de la Salud"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-biologia-humana"
-location: "Centro Universitario Regional Noreste Facultad de Ciencias"
-description: "Participan en el diseño y ejecución de actividades de investigación y desarrollo en laboratorios dedicados a la generación y gestión del conocimiento relacionado con aspectos humanos de la biología. Estarán capacitados para integrarse en equipos multidisciplinarios en el área Salud ya existentes, o en sectores de actividad cuyas interacciones con la Biología Humana están aún en etapa embrionaria y pueden ser catali"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias; Centro Universitario Regional Noreste"
+description: "Participa en el diseño y ejecución de investigación y desarrollo en laboratorios sobre aspectos humanos de la biología. Se integra a equipos multidisciplinarios en salud: diagnóstico de laboratorio, epidemiología, antropología, biomatemáticas y bioingeniería aplicadas a la medicina. Carrera compartida entre Ciencias, Humanidades, Medicina y Odontología."
 credits: 360
 tags:
   - biologia
@@ -28,7 +24,7 @@ similar:
   - ciencias-biologicas-doctorado-udelar
   - ciencias-biologicas-maestria-udelar
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

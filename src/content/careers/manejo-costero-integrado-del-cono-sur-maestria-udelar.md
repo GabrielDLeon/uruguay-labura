@@ -12,22 +12,21 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 130
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=8"
-location: "Facultad de Arquitectura Diseño y Urbanismo, Maldonado"
+location: "Centro Universitario Regional del Este (Maldonado); Montevideo"
 description: "El Programa de Posgrado en Manejo Costero Integrado del Cono Sur (MCISur) es un programa de carácter interdisciplinario apoyado por las Facultades de Arquitectura, Diseño y Urbanismo, Ciencias, Ciencias Sociales, Derecho, Ingeniería y el Centro Universitario Regional del Este (CURE) de la Universidad de la República (UdelaR)."
-startDate: ""
-applicationDeadline: ""
+
 tags:
   - manejo-costero
   - medio-ambiente
   - ciencias-del-mar
   - gestion-ambiental
   - ciencias-sociales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -70,3 +69,13 @@ La Maestría cuenta con tres Módulos (Módulo Obligatorio, un Módulo de Taller
 ### Unidades curriculares
 
 El Plan de Estudios incluye un Módulo Obligatorio, un Módulo de Taller y un Espacio Curricular Flexible: El Módulo Obligatorio está compuesto por las asignaturas: Introducción al Manejo Costero Integrado, Interacción de Saberes en el Manejo Costero Integrado, La costa y su funcionamiento, y Transformaciones y Ordenamiento Territorial de la costa. El Módulo Taller contribuye a crear un ambiente propicio de aprendizaje en MCI, a través de los Laboratorios en MCI (trabajos grupales de estudiantes orientados por tutores en zonas costeras específicas) dirigidos al abordaje de problemáticas contemporáneas, permitiendo abordar la aplicación de distintas herramientas metodológicas y experimentar la complejidad de los procesos en situaciones reales. El Espacio Curricular Flexible están compuestos por la Oferta formativa de posgrado de cada uno de los servicios que integran el Comité Académico del posgrado, y otros cursos organizados por el propio programa MCISur, los cuáles serán previamente identificados y difundidos para su selección.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación periódica cada 2 años; sin convocatoria vigente (sin último período publicado). Actividades presenciales en el CURE Maldonado y en las Facultades de Ingeniería y de Arquitectura (Montevideo) para el Módulo Obligatorio.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

@@ -11,41 +11,40 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-desarrollo"
 location: "Facultad de Ciencias Sociales"
-description: "Esta propuesta tiene por cometido la formación de científicos sociales capaces de desempeñarse en el ámbito profesional y académico, idóneos para generar, gestionar o aplicar conocimientos vinculados a los problemas del desarrollo en su concepción integral. Como tales, deben estar capacitados para buscar soluciones que permitan resolver los problemas que se presentan en el camino hacia un desarrollo social, económico y político sustentable para el país."
-startDate: ""
-applicationDeadline: ""
+description: "Licenciatura en Desarrollo de 4 años (360 créditos) en la Facultad de Ciencias Sociales. Forma científicos sociales para generar y aplicar conocimiento sobre el desarrollo integral: soluciones sustentables en lo social, económico y político, con abordaje multidisciplinario."
 tags:
   - ciencias-sociales
   - desarrollo
   - desarrollo-territorial
   - desarrollo-local
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-desarrollo/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-desarrollo'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-desarrollo/'
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-desarrollo"
+  - label: "Página oficial"
+    url: "https://cienciassociales.edu.uy/ensenanza/licenciatura-en-desarrollo/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Esta propuesta tiene por cometido la formación de científicos sociales capaces de desempeñarse en el ámbito profesional y académico, idóneos para generar, gestionar o aplicar conocimientos vinculados a los problemas del desarrollo en su concepción integral. Como tales, deben estar capacitados para buscar soluciones que permitan resolver los problemas que se presentan en el camino hacia un desarrollo social, económico y político sustentable para el país. Las egresadas y egresados de la Licenciatura en Desarrollo contarán con las competencias necesarias para el abordaje multidisciplinario e interdisciplinario que requiere un trabajo en equipo. Esto se sustenta en un proceso de aprendizaje orientado a la comprensión integral de la problemática del desarrollo, con una mirada de largo plazo, y en base a una sólida formación teórica y metodológica.
+Tiene por cometido formar científicos sociales capaces de desempeñarse en lo profesional y académico, idóneos para generar, gestionar o aplicar conocimientos sobre los problemas del desarrollo en su concepción integral.
+
+Capacita para buscar soluciones hacia un desarrollo social, económico y político sustentable, con competencias para el abordaje multidisciplinario e interdisciplinario en equipo, mirada de largo plazo y sólida formación teórica y metodológica.
+
+Los cuatro años (360 créditos) se estructuran en dos ciclos: Ciclo Inicial (120 créditos) y segundo ciclo de profundización.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.

@@ -2,7 +2,6 @@
 title: "Maestría en Políticas Culturales"
 similar:
   - tecnicatura-universitaria-en-bienes-culturales-udelar
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - maestria-en-politicas-publicas-ucu
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
@@ -10,21 +9,21 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 180
+contactEmail: "maestriapoliticasculturales@gmail.com"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=91&idPosgrado=95"
-location: "CENUR Este sede Maldonado"
-description: "La Maestría en Políticas Culturales constituye la primera maestría en este campoacadémico a nivel nacional. Su objetivo general es brindar a los estudiantes unaformación teórico-metodológica y un conocimiento actualizado sobre los desafíos yproblemas que plantean las políticas públicas en el área de la cultura en Uruguay y enla región."
-startDate: ""
-applicationDeadline: "Cure Maldonado"
+location: "Centro Universitario Regional del Este (Maldonado)"
+description: "La Maestría en Políticas Culturales, primera en su campo a nivel nacional, brinda formación teórico-metodológica sobre políticas públicas de cultura en Uruguay y la región (economía de la cultura, ciudadanía cultural, territorio y medios). Gratuita, de 2 años (180 créditos), en el CURE Maldonado. Sin convocatoria vigente."
+
 tags:
   - arte
   - politicas-publicas
   - gestion-cultural
   - politicas-culturales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -71,3 +70,13 @@ La Maestría en Políticas Culturales se cursará en dos años lectivos, dividid
 ### Unidades curriculares
 
 Síntesis del Plan de Estudios y cronograma de su dictado 1º semestre 2º semestre Teorías de la cultura (curso teórico, obligatorio) Política y Cultura (curso teórico, obligatorio) Economía y Cultura (curso teórico, obligatorio) Políticas culturales (curso teórico, obligatorio) 3º semestre 4º semestre Seminario de Tesis (obligatorio) Continuación Seminario de Tesis (obligatorio) Seminarios temáticos optativos (a modo de ejemplo): Seminarios temáticos optativos (a modo de ejemplo): Ciudadanía y políticas culturales Cultura y Medio Ambiente Políticas culturales en América Latina Derecho cultural Arte y Política Cultura y Comunicació
+
+## Inscripción
+
+### Convocatoria
+
+Postulación periódica cada 2 años; sin convocatoria vigente (sin último período publicado). Inscripción por correo a maestriapoliticasculturales@gmail.com (CURE Maldonado).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

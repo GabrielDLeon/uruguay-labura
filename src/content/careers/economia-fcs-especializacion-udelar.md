@@ -1,5 +1,5 @@
 ---
-title: "Especialización en Economía (fcs)"
+title: "Especialización en Economía (FCS)"
 similar:
   - economia-maestria-udelar
   - licenciatura-en-economia-um
@@ -11,20 +11,22 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
 cost: "Arancelada"
+credits: 60
+contactEmail:
+  - "carmen.estrades@cienciassociales.edu.uy"
+  - "patricia.triunfo@cienciassociales.edu.uy"
+  - "iael.klaczko@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=40"
-location: "Facultad de Ciencias Sociales"
-description: "El DECON FCS (Departamento de Economía - Facultad de Ciencias Sociales), sensiblea las necesidades de actualización permanente, que impone la evolución cada vezmás dinamica del conocimiento económico, ha diseñado una oferta de Posgrados enEconomía orientada a todos los profesionales con interés en ésta área deconocimiento."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Especialización en Economía (1 año, 60 créditos), con tres opciones: Economía, Economía y gestión bancaria, y Ciencia de datos. Actualización rigurosa en fundamentos de la ciencia económica para egresados de distintas disciplinas, como complemento formativo o paso previo a la especialización. Arancelada (26.000 UI), sin tesis."
 tags:
   - economia
   - analisis-economico
   - politica-economica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -36,6 +38,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=43'
   - label: 'CAP (antecedente: Economía y Gestión Bancaria, discontinuado)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=42'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -56,7 +60,7 @@ Natalia Ferreira Ianina Rossi Patricia Triunfo Jorge Ponce Pablo Sitjar Fernando
 
 ### Requisitos de Ingreso
 
-POR EL MOMENTO NO HAY PERIODO DE POSTULACIÓN Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

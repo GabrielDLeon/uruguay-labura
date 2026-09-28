@@ -11,48 +11,42 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "3 años"
+credits: 453
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=45"
 location: "Facultad de Medicina"
-description: "Especialización en Parasitología y Micología Médica, dictada por la Facultad de Medicina."
-startDate: ""
-applicationDeadline: "Escuela de Graduados Facultad de Medicina"
+description: "Especialización en Parasitología y Micología Médica (3 años, 453 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso."
 tags:
   - medicina
   - parasitologia
   - microbiologia
   - micologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=45'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=45'
 ---
 
 ## Resumen
 
-### Objetivo
+### Sobre la Carrera
 
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/PARASITOLOG%C3%8DA%20Y%20MICOLOG%C3%8DA%20M%C3%89DICA.pdf
+Especialización en Parasitología y Micología Médica (3 años, 453 créditos) de la Facultad de Medicina (Udelar). Requiere tesis. La postulación es continua y la inscripción está en curso. Se desarrolla en: Instituto de Higiene.
 
 ### Referentes académicos
 
-Profesro Doctor L. Calegari
+Profesor Doctor L. Calegari
 
 ## Ingreso
 
-### Reglamento
+### Inscripción
 
-Reglamento: http://www.egradu.fmed.edu.uy/reglamento
+La inscripción se realiza en la Escuela de Graduados de la Facultad de Medicina. La postulación es continua y la inscripción está en curso.
 
-## Plan de Estudio
+### Sedes y contacto
 
-### Programa
-
-http://www.egradu.fmed.edu.uy/sites/www.egradu.fmed.edu.uy/files//Programa_de_postgrados/3-Especialidades/PARASITOLOG%C3%8DA%20Y%20MICOLOG%C3%8DA%20M%C3%89DICA.pdf
+- Instituto de Higiene — Tel.: 24807014

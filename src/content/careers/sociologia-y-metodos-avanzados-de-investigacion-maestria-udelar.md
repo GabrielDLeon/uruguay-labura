@@ -11,29 +11,31 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 183
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=91"
-location: "Facultad de Ciencias Sociales"
-description: "El objetivo de la Maestría en Sociología y Métodos Avanzados de Investigación(MSMAI) es ofrecer una formación de posgrado basada en el conocimiento y uso delas técnicas de investigación en el campo de la Sociología y las ciencias sociales, conuna orientación aplicada y profesional.Las competencias a lograr que ofrecerá la Maestría: Adquirir conocimientos que puedan aportar soluciones metodológicas y técnicasen el desarrollo de un proceso de investigación."
-startDate: ""
-applicationDeadline: "cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría en Sociología y Métodos Avanzados de Investigación (2 años, 183 créditos). Formación de posgrado en el conocimiento y uso de técnicas de investigación en sociología y ciencias sociales, con orientación aplicada y profesional. Gratuita, con tesis."
 tags:
   - sociologia
   - ciencias-sociales
   - metodologia-de-la-investigacion
   - investigacion-social
   - estadistica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 22:20:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=91'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=91'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Maestría (MSMAI) – FCS'
+    url: 'https://cienciassociales.edu.uy/maestria-en-sociologia-y-metodos-avanzados-de-investigacion/'
 ---
 
 ## Resumen
@@ -50,15 +52,15 @@ JOAQUIN CARDELLIAC
 
 Marcelo Boado Alberto Riella Karina Batthyany Tabaré Fernandez Verónica Filardo Mariela Quiñones Geyser Margel Gabriel Errandonea Pablo Hein Marcos Supervielle Diego Piñeiro Ana Rivoir Miguel Serna Francisco Pucci
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 La Maestría en Sociología y Métodos Avanzados de Investigación aplicados se regirá por el Reglamento de Posgrados de la Facultad de Ciencias Sociales, que se ajusta a la Ordenanza de Posgrados de UdelaR. Se emite un solo título de Magister en Sociología y Métodos Avanzados de Investigación. Se detalla normativas, procedimientos, programación de actividades y exámenes, tesis y tutorías, en su Instructivo general para docentes y alumnos.
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Convocatorias:** la facultad mantiene la página del programa y hay cohortes recientes con egresados en Salto; el CAP (modificado en 2026) la marca como no vigente y publica 143 créditos de cursos más 40 de tesis, mientras la página de la FCS (Plan 2016) indica completar 103. Consultar la edición vigente en bedelía de posgrados. Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

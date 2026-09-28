@@ -12,41 +12,38 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/letras"
 location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "La Licenciatura en Letras procura crear las bases para una sólida formación en el campo, como también fomentar una mayor práctica de investigación, teniendo en cuenta el creciente desarrollo de los estudios literarios. Esto comienza por los contenidos brindados por materias introductorias y sigue en"
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Licenciatura en Letras de 4 años (360 créditos) en la FHCE. Crea bases para una sólida formación en estudios literarios y fomenta la investigación, desde materias introductorias hasta la profundización en los departamentos del Instituto de Letras con amplia flexibilidad."
 tags:
   - letras
   - literatura
   - humanidades
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fhce.edu.uy/licenciatura-en-letras/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/letras'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fhce.edu.uy/licenciatura-en-letras/'
+    url: "https://udelar.edu.uy/carrera/letras"
+  - label: "Página oficial"
+    url: "https://fhce.edu.uy/licenciatura-en-letras/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-La Licenciatura en Letras procura crear las bases para una sólida formación en el campo, como también fomentar una mayor práctica de investigación, teniendo en cuenta el creciente desarrollo de los estudios literarios. Esto comienza por los contenidos brindados por materias introductorias y sigue en la profundización de los saberes específicos de las diferentes asignaturas por las que el estudiante transcurre, correspondientes a todos los departamentos del Instituto de Letras, a los que se llega con amplio nivel de flexibilidad
+Procura crear las bases para una sólida formación en el campo y fomentar una mayor práctica de investigación, teniendo en cuenta el desarrollo de los estudios literarios.
+
+Comienza con materias introductorias y sigue con la profundización de saberes específicos en las asignaturas de los departamentos del Instituto de Letras, con amplio nivel de flexibilidad.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Egresados de Magisterio, INET, IPA o Udelar.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- También egresados de Magisterio, INET, IPA o Udelar.

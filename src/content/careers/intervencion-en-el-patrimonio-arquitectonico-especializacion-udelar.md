@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "18 meses"
+credits: 60
+contactEmail: "posgradoyep@fadu.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=5"
 location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
-description: "OBJETIVOS – El Diploma de “Especialista en Intervención en el Patrimonio Arquitectónico” tiene por objetivo atender la necesidad de complementar, ampliar y profundizar la formación técnica de los profesionales vinculados a esta área, capacitándolos para poder encarar los desafíos de la intervención"
-startDate: ""
-applicationDeadline: ""
+description: "Diploma arancelado de 18 meses (60 créditos) que profundiza la formación técnica para intervenir el patrimonio arquitectónico con solvencia: identificación, diagnóstico, tecnologías constructivas, gestión y taller de proyecto. Sin convocatoria vigente."
 tags:
   - patrimonio-arquitectonico
   - arquitectura
   - restauracion
   - patrimonio-cultural
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -64,3 +63,17 @@ Perfil del estudiante: Se busca la formación de profesionales que conformen los
 ### Programa
 
 ESTRUCTURA DEL CURSO Se plantea una estructura en base a seis módulos, un primer módulo introductorio, cuatro módulos teóricos-prácticos y un módulo final de taller de proyectación: 1._ DE CONCEPTUALIZACIÓN GENERAL , introductorio y globalizador, dará una visión integral del tema. 7 créditos. 2._ DE DOCUMENTACIÓN DE LA OBRA , planteará la aproximación a la materialidad de la obra. 4 créditos. 3._ DE APROXIMACIÓN TEÓRICA , donde se analizarán las diversas teorías sobre la intervención en el patrimonio arquitectónico ejemplificándose con casos tanto nacionales como internacionales. 4 créditos. 4._ DE TECNOLOGIAS CONSTRUCTIVAS Y PATOLOGIAS , en el cual se analizarán los distintos sistemas constructivos, los estados de degradación, los criterios de intervención y de recuperación. 8 créditos. 5._ DE GESTION , analizando diferentes formas de gestión del patrimonio, formulación de proyectos de gestión, estudio financiero, legal, gerenciamiento. 4 créditos. 6._ TALLER DE PROYECTO DE INTERVENCIÓN , se desarrollará dentro de la modalidad de taller como síntesis de los módulos anteriores realizando un proyecto de intervención que cubra los diversos aspectos ya analizados. 18 créditos. MONOGRAFÍA . La monografía consistirá en el análisis general y crítico sobre un tema de interés preponderantemente profesional mediante un estudio bibliográfico. Dicho tema deberá ser acordado con el docente que la oriente, en consulta con el Director Académico. La monografía deberá ser presentada por escrito en los soportes y con las características que se establezcan y deberá ser defendida ante un tribunal ad-hoc. La aprobación de la monografía equivaldrá a 15 créditos.
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 01/09/2022–01/10/2022). Postulación on-line en www.fadu.edu.uy/inscripciones/.
+
+### Costo
+
+El programa cobra derechos universitarios: $U 150.000.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

@@ -12,23 +12,22 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "3 años"
+credits: 150
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=3"
-location: "Facultad de Derecho"
-description: "La carrera se orienta a lograr un abogado especializado en derecho del trabajo y de laseguridad social, que no pierda de vista la vinculación existente entre el derecho socialylos grandes temas jurídicos, en especial con el derecho de los derechos humanos y laslibertades, ni con aspectos de otras disciplinas sociales como la sociología, laeconomía,la filosofía, la historia y la ciencia política. "
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Derecho, Montevideo"
+contactEmail: "posgrado@fder.edu.uy"
+description: "Magíster en Derecho del Trabajo y de la Seguridad Social (150 créditos con tesis): forma operadores jurídicos calificados en derecho social, con herramientas para la evolución pasada y actual del trabajo y especialización optativa por forma de ejercicio."
 tags:
   - derecho
   - derecho-laboral
   - seguridad-social
   - derechos-humanos
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=3'
@@ -40,32 +39,24 @@ sources:
 
 ### Objetivo
 
-La carrera se orienta a lograr un abogado especializado en derecho del trabajo y de la seguridad social, que no pierda de vista la vinculación existente entre el derecho social y los grandes temas jurídicos, en especial con el derecho de los derechos humanos y las libertades, ni con aspectos de otras disciplinas sociales como la sociología, la economía, la filosofía, la historia y la ciencia política.
+El mismo núcleo que la Especialización, con nivel de maestría y tesis: formar abogados especializados en derecho del trabajo y de la seguridad social, conectados con los derechos humanos y las ciencias sociales.
 
 ### Perfil de egreso
 
-El Especialista deberá estar preparado para ejercer las diversas profesiones o actividades del jurista propias de esta rama del derecho. En su actuación profesional, el Especialista deberá contar con las herramientas que le permitan constituirse en un operador jurídico cualificado en la dinámica práctica de una disciplina que atraviesa por profundos cambios. La acción creadora que de él se espera, se fomentará brindándole los elementos que le permitan conocer y reflexionar sobre el sentido de la evolución pasada y actual del derecho del trabajo. La existencia de asignaturas optativas, permite, sin que se pierdan de vista los objetivos generales, que se logre una capacitación más especializada hacia ciertas formas de ejercicio profesional.
-
-### Referentes académicos
-
-Dr. Gustavo Gauthier
-
-### Docentes
-
-Dr. Jorge ROSENBAUM Dr. Juan RASO Dr. Mario GARMENDIA Dr. Daoiz URIARTE Dra. Marcela VIGNA Dr. Hugo BARRETTO Dra. Rosina ROSSI Dr. Alejandro CASTELLO Dra. Cristina MANGARELLI Dra. Beatriz DURÁN
-
-## Ingreso
-
-### Reglamento
-
-En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. La instancia de evaluación en cada asignatura será de monografía, examen o prueba en Plataforma EVA.
-
-### Requisitos de Ingreso
-
-Ser abogado o escribano con las asignaturas aprobadas Derecho del Trabajo y de la Seguridad Social, y Taller de Derecho del Trabajo y de la Seguridad Social.
+Operadores jurídicos calificados en la práctica dinámica de la disciplina, con reflexión sobre la evolución del derecho del trabajo y capacitación optativa hacia formas específicas de ejercicio profesional.
 
 ## Plan de Estudio
 
-### Unidades curriculares
+### Programa
 
-Teoría general del derecho Teoría general del derecho del trabajo Derecho Individual y procesal I Derecho Individual y procesal II Derecho Colectivo I Derecho Colectivo II Derecho Internacional del Trabajo Evolución del pensamiento juslaboralista Economía del Trabajo Seguridad Social I Seguridad Social II Filosofía del Derecho del Trabajo Estadística Derecho del Trabajo y DDHH Sociología del Trabajo Historia del movimiento sindical Política social Relaciones laborales Derecho del trabajo comparado y MERCOSUR
+Tres años y 150 créditos (120 de cursos y 30 de tesis), Plan 2003, con 25 cupos por cohorte. Asistencia mínima del 70 % de las horas de clase.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título de abogado o Doctor en Derecho de la Facultad de Derecho de Udelar. También pueden ingresar abogados graduados en otras universidades nacionales o extranjeras que acrediten una razonable equivalencia con la carrera de Abogacía de la Facultad, además de licenciados de carreras afines según cada programa.
+
+### Inscripción y arancel
+
+Posgrado arancelado: 155,25 unidades reajustables (UR) en total (referencia CAP 2026; verificar actualización). Escuela de Posgrados, Facultad de Derecho (Av. 18 de Julio 1824, Montevideo) — posgrado@fder.edu.uy. Los llamados son anuales por cohortes (habitualmente con inscripciones entre octubre y marzo) a través del SGAE o bedelías (www.bedelias.edu.uy) según cada programa. Último período publicado: 01/10/2025 al 15/03/2026. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en la Escuela de Posgrados.

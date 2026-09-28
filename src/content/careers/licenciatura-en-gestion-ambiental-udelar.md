@@ -12,24 +12,20 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-gestion-ambiental"
 location: "Maldonado; Rocha; Treinta y Tres"
-description: "El egresado será capaz de comprender, analizar, investigar y gestionar problemáticas ambientales teniendo en cuenta las dimensiones ecológicas, económicas, patrimoniales y sociales y aquellas involucradas en el diseño y gestión de sistemas e producción, políticas y planes de ordenación territorial,"
-startDate: ""
-applicationDeadline: ""
+description: "El egresado será capaz de comprender, analizar, investigar y gestionar problemáticas ambientales teniendo en cuenta las dimensiones ecológicas, económicas, patrimoniales y sociales y aquellas involucradas en el diseño y gestión de sistemas de producción, políticas y planes de ordenación territorial, proyectos de infraestructura, de turismo, desarrollo y áreas protegidas, entre otros."
 tags:
   - gestion-ambiental
   - medio-ambiente
   - evaluacion-de-impacto-ambiental
   - ordenamiento-territorial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/'

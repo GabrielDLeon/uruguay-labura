@@ -5,28 +5,25 @@ similar:
   - tecnicatura-universitaria-en-bienes-culturales-udelar
   - licenciatura-en-artes-plasticas-y-visuales-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 80
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=87"
 location: "Facultad de Ciencias Sociales, Montevideo"
-description: "La Especialización en Gestión Cultural tiene como objetivo la formación de personascon capacidades específicas para dinamizar y apoyar el desarrollo del quehacerartístico y cultural, sin prescripciones estéticas. Este proceso educativo posibilitará eldesempeño de sus egresados en un amplio espectro de actividades que incluirá lacolaboración, en varios planos, para la concreción de eventos artísticos y culturales ensus diferentes campos de expresión, así"
-startDate: ""
-applicationDeadline: ""
+description: "Especialización en Gestión Cultural (2 años, 80 créditos), cogestionada por la Facultad de Ciencias Sociales y el Espacio Interdisciplinario. Forma personas con capacidades para dinamizar y apoyar el desarrollo artístico y cultural, para desempeñarse en un amplio espectro de actividades de colaboración y producción cultural. Gratuita, con tesis. Inscripciones cada dos años (última: octubre-noviembre de 2024)."
 tags:
   - arte
   - gestion-cultural
   - industrias-creativas
   - produccion-artistica
   - administracion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +31,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=87'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=87'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Formulario de postulación (FCEA)'
+    url: 'https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html'
 ---
 
 ## Resumen

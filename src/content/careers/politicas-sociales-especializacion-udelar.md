@@ -1,27 +1,24 @@
 ---
 title: "Especialización en Políticas Sociales"
 similar:
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - derechos-de-la-infancia-y-politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
 cost: "Arancelada"
+credits: 88
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=39"
-location: "Facultad de Ciencias Sociales"
-description: "El Diploma de Especialización en Políticas Sociales, se plantea los siguientes objetivos:?Aportar a los procesos de formación continua de profesionales, ampliando su bagajeteórico metodológico en el campo de las políticas sociales. ? Plantear los actualesdebates sobre las opciones de políticas sociales a nivel regional y particularmente enel contexto nacional."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Diploma de Especialización en Políticas Sociales (1 año, 88 créditos). Formación continua en políticas sociales: debates actuales regionales y nacionales e instrumentos conceptuales y metodológicos. Arancelado ($U 41.000), con tesis."
 tags:
   - ciencias-sociales
   - politicas-publicas
   - politicas-sociales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -29,6 +26,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=39'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=39'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Diploma en Políticas Sociales – FCS'
+    url: 'https://cienciassociales.edu.uy/departamento-de-trabajo-social/ensenanza-de-posgrado/diploma-en-politicas-sociales/'
 ---
 
 ## Resumen
@@ -45,15 +46,15 @@ Ximena Baraibar y Laura Paulo
 
 - Profa. Mag. Ximena Baráibar - Prof. Dr. Pablo Bentura - Prof. Mag. Cecilia Blezio - Prof. Dr. Reto Bertoni - Prof. Mag. Agustín Canzani - Prof. Dr. Gerardo Caetano - Profa. Mag. Adela Claramunt - Prof. Mag. Martín Koolhaas - Prof. Dra. Sandra Leopold - Prof. Mag. Christian Mirza - Prof. Dr. Luis E. Morás - Profa. Dra. Elizabeth Ortega - Profa. Dra. Mariana Paredes - Profa. Mtr. Laura Paulo - Profa. Lic. Carmen Varela - Profa. Dra Laura Vecinday
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 La complejidad de la cuestión social, inscripta en los procesos de transformación del sistema capitalista, se traduce en una gran diversidad de problemáticas sociales. Las dinámicas y características del mundo del trabajo así como de las familias, propias de la sociedad industrial, se han modificado planteando nuevos desafíos. Asimismo en los últimos años, en América Latina y específicamente en el Uruguay, se asiste a una ampliación y diversificación de intervenciones y ensayos de respuestas desde el Estado, a estas problemáticas. De esta forma, el campo de las Políticas Sociales se consolida como una de las preocupaciones compartidas por distintos actores de la comunidad profesional y académica. Por otra parte, el Departamento de Trabajo Social asume un necesario compromiso con la realidad, que implica profundizar los conocimientos y generar condiciones para promover procesos de transformación desde una perspectiva crítica. Lo señalado se traduce –entre otros aspectos- en el desarrollo de una oferta permanente de formación en pos graduación (Educación Permanente, Diplomas, Maestría y Doctorado).
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-POR EL MOMENTO NO HAY PERIODO DE POSTULACIÓN Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/ Por mas información del posgrado: https://cienciassociales.edu.uy/departamento-de-trabajo-social/ensenanza-de-posgrado/diploma-en-politicas-sociales/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/ Por más información del posgrado: https://cienciassociales.edu.uy/departamento-de-trabajo-social/ensenanza-de-posgrado/diploma-en-politicas-sociales/
 
 ## Plan de Estudio
 

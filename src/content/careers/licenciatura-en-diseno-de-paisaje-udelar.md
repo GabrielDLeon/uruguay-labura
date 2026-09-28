@@ -12,25 +12,21 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-diseno-de-paisaje"
 location: "Maldonado"
-description: "Figura profesional dotada de competencia específica en un campo operativo complejo que se ocupa de: Diseñar y sistematizar el conjunto de las áreas de parques, jardines y estructuras recreativas, calles con alineamientos arbóreos, plazas, áreas comerciales y residenciales exteriores de edificios púb"
-startDate: ""
-applicationDeadline: ""
+description: "Figura profesional dotada de competencia específica en un campo operativo complejo que se ocupa de: Diseñar y sistematizar el conjunto de las áreas de parques, jardines y estructuras recreativas, calles con alineamientos arbóreos, plazas, áreas comerciales y residenciales exteriores de edificios públicos y privados, y otras actividades de diseño ornamental y de paisaje urbano."
 credits: 360
 tags:
   - paisajismo
   - diseno
   - arquitectura-del-paisaje
   - diseno-de-espacios
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-diseno-de-paisaje/'

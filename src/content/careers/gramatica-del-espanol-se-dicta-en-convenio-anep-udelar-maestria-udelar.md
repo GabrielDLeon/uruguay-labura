@@ -12,29 +12,32 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+cost: "Gratuita"
+contactEmail: "maestriaengramatica@gmail.com"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=87"
-location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "(a) Contribuir a la formación de investigadores en ciencias del lenguaje. (b) Profundizaren los estudios de gramática del español. (c) Especializar a los docentes en el análisisde la lengua orientado a la enseñanza del español. Para acceder al título de Magísteren Gramática del Español, los aspirantes deberán reunir los 60 créditos de laEspecialización en Gramática del Español y deberán elaborar, presentar y defenderuna tesis."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Humanidades y Ciencias de la Educación, Montevideo"
+description: "Maestría en Gramática del Español, en convenio ANEP-Udelar (FHCE-CFE). Contribuye a formar investigadores en ciencias del lenguaje, profundiza los estudios de gramática del español y especializa a docentes en el análisis de la lengua orientado a la enseñanza. Requiere los 60 créditos de la Especialización más la tesis. Gratuita."
 tags:
   - letras
   - linguistica
   - gramatica-del-espanol
   - lengua-espanola
   - ensenanza-de-lenguas
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 22:20:00"
 sources:
+  - label: 'Especialización y Maestría en Gramática del Español (ANEP)'
+    url: 'https://formacion.anep.edu.uy/node/542'
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=87'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=87'
+  - label: 'Plan de estudios (PDF, FHCE)'
+    url: 'https://fhce.edu.uy/wp-content/uploads/2026/04/Plan-de-estudios-Gramatica-del-Espanol.pdf'
+  - label: 'Posgrados ANEP-Udelar – FHCE'
+    url: 'https://fhce.edu.uy/posgrados-anep-udelar/'
 ---
 
 ## Resumen
@@ -50,3 +53,9 @@ Investigadores en ciencias del lenguaje, docencia especializado en enseñanza de
 ### Docentes
 
 Prof. Adj. Marcelo Taibo (coordinador); Dra. Sylvia Costa; Lic. Marisa Malcuori; Lic. Cristina Píppolo.
+
+## Ingreso
+
+### Convocatoria
+
+Estado "Próximamente" en el portal de formación ANEP. Modalidad presencial. Destinatarios: graduados en Idioma Español o Lengua y Literatura. Consultas: maestriaengramatica@gmail.com.

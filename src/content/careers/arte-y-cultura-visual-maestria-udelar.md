@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 107
+contactEmail: "maestria.arteculturavisual@artes.udelar.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=1"
 location: "Facultad de Artes, Montevideo"
-description: "- Fomentar la generación de masa crítica, de investigación y producción de conocimiento pertinente para la comprensión y el abordaje de las prácticas artísticas, sus visualidades y enunciados estéticos, a través de una formación de excelencia en el campo del Arte y de la Cultura Visual en un nivel de posgrado."
-startDate: ""
-applicationDeadline: "Unidad de Apoyo Académico de Grado, Posgrado y Educación Permanente"
+description: "Maestría en Arte y Cultura Visual (2 años, 107 créditos), de la Facultad de Artes. Genera masa crítica de investigación y producción de conocimiento sobre prácticas artísticas, visualidades y enunciados estéticos, en intercambio con la región y el mundo, con trayectorias en abordajes teóricos o creación. Gratuita, con tesis y cupos limitados (20); postulación cada dos años."
 tags:
   - arte
   - artes-visuales
   - arte-y-cultura-visual
   - estetica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +33,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=1'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=86&idPosgrado=1'
+  - label: 'Maestría en Arte y Cultura Visual – Facultad de Artes'
+    url: 'https://www.artes.udelar.edu.uy/carrera/maestria-en-arte-y-cultura-visual/'
 ---
 
 ## Resumen

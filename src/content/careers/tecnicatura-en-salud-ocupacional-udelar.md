@@ -12,25 +12,21 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-salud-ocupacional"
 location: "Paysandú"
 description: "Es un tecnólogo universitario capacitado para el reconocimiento de los riesgos laborales de diferentes procesos productivos, participando en estrategias de prevención y promoción de la salud de los trabajadores conjuntamente con el equipo de salud. En el área de la salud actúa fundamentalmente en la actividad de prevención, en la identificación, evaluación y control de los factores de riesgo laboral y su repercusión en el ambiente."
-startDate: ""
-applicationDeadline: ""
 tags:
   - salud-ocupacional
   - salud-publica
   - medicina-del-trabajo
   - riesgos-laborales
   - seguridad-industrial
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-salud-ocupacional'

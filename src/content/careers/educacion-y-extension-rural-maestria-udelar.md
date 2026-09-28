@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+contactEmail: "bedeliaposgradofvet@gmail.com"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=12&idPosgrado=7"
-location: "Facultad de Veterinaria"
-description: "4.1.- OBJETIVOS El Programa de Maestría en Educación y Extensión Rural busca formar un grupo de docentes e investigadores capaces de: - contribuir a la generación de conocimientos científicos sobre la educación, la enseñanza y la extensión rural con énfasis en las Ciencias Agrarias. -contribuir a la"
-startDate: ""
-applicationDeadline: "Facultad de Veterinaria, Oficina de Posgrado"
+location: "Facultad de Veterinaria, Montevideo"
+description: "Maestría gratuita de 2 años (100 créditos) en Educación y Extensión Rural: forma docentes e investigadores en educación, enseñanza y extensión rural con énfasis en Ciencias Agrarias. Postulación continua en Facultad de Veterinaria."
 tags:
   - educacion
   - desarrollo-rural
   - extension-rural
   - agronomia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -40,7 +39,17 @@ sources:
 
 ### Objetivo
 
-4.1.- OBJETIVOS El Programa de Maestría en Educación y Extensión Rural busca formar un grupo de docentes e investigadores capaces de: - contribuir a la generación de conocimientos científicos sobre la educación, la enseñanza y la extensión rural con énfasis en las Ciencias Agrarias. -contribuir a la mejora de la enseñanza y la extensión rural en las ciencias agrarias. -propiciar y favorecer la innovación, el debate y el intercambio académico en torno a la temática del posgrado. 4.2.- PERFIL DE EGRESO Los egresados serán competentes para: - proponer y desarrollar procesos de investigación que aporten conocimientos científicos sobre la educación de las ciencias agrarias y la extensión rural. - identificar, diagnosticar y proponer soluciones a problemas de la educación formal en las ciencias agrarias y en las disciplinas que la componen. - identificar, diagnosticar y proponer soluciones a problemas del ámbito rural referidos a la educación no formal, la extensión y el desarrollo sustentable. - participar y liderar la formulación, conducción y evaluación de planes de educación y desarrollo sustentable que contribuyan a mejorar las condiciones de vida de la población rural, mediante un abordaje sistémico.
+El Programa de Maestría en Educación y Extensión Rural busca formar docentes e investigadores capaces de generar conocimientos científicos sobre la educación, la enseñanza y la extensión rural (con énfasis en las Ciencias Agrarias), mejorar la enseñanza y la extensión rural, e impulsar la innovación y el debate académico en la temática.
+
+### Perfil de egreso
+
+Los egresados serán competentes para: proponer y desarrollar investigaciones sobre la educación en ciencias agrarias y la extensión rural; identificar, diagnosticar y proponer soluciones a problemas de la educación formal en ciencias agrarias y de la educación no formal, la extensión y el desarrollo sustentable en el ámbito rural; y participar y liderar la formulación, conducción y evaluación de planes de educación y desarrollo sustentable que mejoren las condiciones de vida de la población rural, con abordaje sistémico.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título universitario de grado, con un Director de Tesis del programa y un plan de trabajo; la admisión la resuelve el Comité Académico del programa. La inscripción se realiza en la Oficina de Posgrado de Facultad de Veterinaria.
 
 ### Docentes
 
@@ -50,4 +59,18 @@ El Cuerpo Docente de Posgrados se encuentra en: http://www.fvet.edu.uy/index.php
 
 ### Programa
 
-v\\\\\\\\\\\\\\\\:* \{behavior:url(#default#VML);\} o\\\\\\\\\\\\\\\\:* \{behavior:url(#default#VML);\} w\\\\\\\\\\\\\\\\:* \{behavior:url(#default#VML);\} .shape \{behavior:url(#default#VML);\} Normal 0 21 false false false MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;\}
+Maestría de 2 años (100 créditos: 60 de cursos y actividades programadas y 40 de tesis). El plan de estudios se acuerda con el Director de Tesis e incluye investigación sobre educación, enseñanza y extensión rural con énfasis en las Ciencias Agrarias.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en la Oficina de Posgrado de Facultad de Veterinaria.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Oficina de Posgrado de Facultad de Veterinaria: bedeliaposgradofvet@gmail.com (atención al público de 10:00 a 12:00 y de 13:30 a 16:30).

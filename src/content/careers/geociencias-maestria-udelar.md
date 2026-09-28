@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 160
+contactEmail: "analiaf@pedeciba.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=49"
-location: "Facultad de Ciencias"
-description: "Definición y objetivos En el marco del Reglamento General de las Maestrías del PEDECIBA, la Maestría en Geociencias constituye un primer nivel de afianzamiento y profundización en un área del conocimiento, con carácter de posgrado. Sigue a una etapa previa de formación básica y general y procura, pr"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias, Montevideo"
+description: "Maestría gratuita de 2 años (160 créditos) en Geociencias (PEDECIBA): profundización en el conocimiento del sistema Tierra y sus recursos, con capacidad de asistencia técnica e investigación. Sin convocatoria vigente."
 tags:
   - geologia
   - ciencias-de-la-tierra
   - geofisica
   - geoquimica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -51,8 +50,22 @@ Miembros del Consejo Científico: Dres. Ofelia Gutiérrez (Coordinadora), Pablo 
 
 www.pedeciba.edu.uy/es/reglamento/reglamento-maestria-geociencias/
 
+### Requisitos de Ingreso
+
+Título universitario de grado en áreas afines, con un orientador del programa y un plan de trabajo, según el Reglamento General de Maestrías del PEDECIBA.
+
 ## Plan de Estudio
 
 ### Programa
 
 www.pedeciba.edu.uy/es/reglamento/plan-de-estudios-maestria-geociencias/
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 01/07/2025–31/07/2025). Inscripción en Bedelía de Facultad de Ciencias y en la Secretaría PEDECIBA Geociencias (analiaf@pedeciba.edu.uy).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

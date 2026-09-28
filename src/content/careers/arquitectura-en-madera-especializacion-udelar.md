@@ -12,21 +12,21 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "2 años"
+credits: 60
+contactEmail: "posgradoyep@fadu.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=95"
-location: "Facultad de Arquitectura Diseño y Urbanismo"
-description: "El egresado de la Especialización en Arquitectura en Madera será un profesional queestará capacitado para abordar con solvencia la resolución en el área del diseñoarquitectónico y construcción de diferentes programas en madera, así como manejarde manera crítica bibliografía e información de nuevos materiales y tecnologías,presentados como innovadores y desarrolladores del área.El "
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Arquitectura Diseño y Urbanismo, Montevideo"
+description: "Especialización arancelada de 2 años (60 créditos) en diseño arquitectónico y construcción de programas en madera, con manejo crítico de bibliografía, nuevos materiales y tecnologías. Postulación cada 2 años."
+applicationDeadline: "2027-11-14"
 tags:
   - arquitectura
   - diseno-arquitectonico
   - construccion
   - construccion-en-madera
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -61,3 +61,17 @@ Para postularse a la Especialización se requiere poseer título universitario d
 ### Unidades curriculares
 
 Construcción y Sustentabilidad Sistemas constructivos en madera La madera como material para construcción de obras de arquitectura Anteproyecto de arquitectura en madera Diseño y construcción de estructuras arquitectónicas en madera. M1 – Diseño de estructuras Diseño y construcción de estructuras arquitectónicas en madera M2 – Construcción Patologías en construcción en madera Presupuestación de obra para construcción en madera Proyecto de arquitectura en madera (trabajo final)
+
+## Inscripción
+
+### Convocatoria
+
+Postulación periódica cada 2 años. Próximo período: del 01/09/2027 al 14/11/2027, en www.fadu.edu.uy/inscripciones/.
+
+### Costo
+
+El programa cobra derechos universitarios: $U 150.000.
+
+### Contacto
+
+Servicio de Enseñanza de Posgrado y Educación Permanente (Casa Centenario, Sarmiento 2340, Montevideo): posgradoyep@fadu.edu.uy (tel. 2716 1064).

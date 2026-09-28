@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-biotecnologia"
-location: "Facultad de Ciencias Facultad de Química; Paysandú; Salto"
-description: "El Licenciado en Biotecnología es un profesional con sólidos conocimientos en los fundamentos de los procesos biotecnológicos y capacidad para insertarse en empresas intensivas en el uso de conocimiento, o generar un nuevo emprendimiento."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias; Facultad de Química; Paysandú; Salto"
+description: "El Licenciado en Biotecnología tiene sólidos conocimientos en los fundamentos de los procesos biotecnológicos y capacidad para insertarse en empresas intensivas en conocimiento o generar un emprendimiento. Actúa en salud humana y animal, agricultura, ecología, industrias de bioprocesos y protección del ambiente, con principios éticos y bioéticos."
 credits: 360
 tags:
   - biotecnologia
   - biologia
   - biologia-molecular
   - genetica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -50,4 +46,4 @@ El Licenciado en Biotecnología es un profesional con sólidos conocimientos en 
 
 ### Requisitos de Ingreso
 
-en: https://www.fcien.edu.uy/noticias/3625-inscripciones-generacion-2026
+Carrera dictada en Facultad de Ciencias, Facultad de Química y las sedes Paysandú y Salto del Cenur Litoral Norte. Ver requisitos e inscripciones vigentes en la página de la carrera en Facultad de Ciencias: https://www.fcien.edu.uy/ensenanza/carreras-de-grado/243-ensenanza/licenciaturas/licenciatura-en-bio

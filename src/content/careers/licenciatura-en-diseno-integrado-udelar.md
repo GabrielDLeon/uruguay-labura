@@ -12,24 +12,20 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-diseno-integrado"
 location: "Salto"
 description: "El graduado tendrá una formación que le permita articular en términos de diseño las tensiones entre el desarrollo económico y el manejo responsable de los recursos energéticos, naturales y culturales, potenciando el capital social acumulado en el marco de un desarrollo sostenible."
-startDate: ""
-applicationDeadline: ""
 credits: 360
 tags:
   - diseno
   - sostenibilidad
   - desarrollo-sostenible
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-licenciatura-en-diseno-i'

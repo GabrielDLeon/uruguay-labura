@@ -10,18 +10,14 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
-area: "Ciencias de la Salud"
+area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-fisica-medica"
 location: "Facultad de Ciencias"
-description: "Debe estar capacitado para trabajar en el ambiente hospitalario, en ámbitos de aplicación de tecnologías de Diagnóstico y Tratamiento Especializados que utilicen agentes físicos (Rayos X, otras radiaciones ionizantes, láser, ultrasonido, PET y RMN, etc.); la programación, planificación y puesta en m"
-startDate: ""
-applicationDeadline: ""
+description: "Capacitado para trabajar en el ambiente hospitalario con tecnologías de diagnóstico y tratamiento que usan agentes físicos (rayos X, radiaciones ionizantes, láser, ultrasonido, PET y RMN), y en la programación y puesta en marcha de programas de protección radiológica según normas internacionales. Carrera compartida entre Ciencias y Medicina."
 credits: 360
 tags:
   - fisica
@@ -29,7 +25,7 @@ tags:
   - medicina-nuclear
   - radiologia
   - tecnologia-medica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

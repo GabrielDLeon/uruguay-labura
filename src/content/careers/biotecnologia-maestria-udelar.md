@@ -12,20 +12,19 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 160
+contactEmail: "posgrado.biotecnologia@fcien.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=45"
 location: "Facultad de Ciencias, Montevideo"
 description: "El Posgrado de Biotecnología tiene como objetivo la formación de profesionales altamente calificados en el campo de la Biotecnología. Tendrá como objetivo principal la capacitación de egresados para desarrollar en forma autónoma actividades de generación de nuevos conocimientos."
-startDate: ""
-applicationDeadline: ""
 tags:
   - biotecnologia
   - biologia
   - biologia-molecular
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -60,3 +59,13 @@ Podrán aspirar a ingresar a la Maestría en Biotecnología, quienes sean egresa
 ### Programa
 
 No existen cursos obligatorios dentro de las actividades programadas. El estudiante deberá seleccionar, a partir de la oferta, junto con su tutor un conjunto de unidades curriculares que consideren relevantes para su área de conocimiento en Biotecnología. Ejemplos de cursos ofertados: Bioingeniería Gestión de Calidad Bioestadística Proteinas Recombinantes Biotecnología Vegetal Vectores Virales Biología Sintética, etc.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en Bedelía de Facultad de Ciencias.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

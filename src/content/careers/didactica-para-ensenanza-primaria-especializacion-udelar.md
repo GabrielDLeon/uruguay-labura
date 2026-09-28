@@ -11,15 +11,13 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "18 meses"
+cost: "Gratuita"
+credits: 60
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=98"
 location: "Convenio A.N.E.P.- UdelaR"
-description: "Especialización en Didáctica para Enseñanza Primaria, dictada por la Universidad de la República (UDELAR) en convenio con A.N.E.P.."
-startDate: ""
-applicationDeadline: ""
+description: "Diploma de Especialización en Didáctica para Enseñanza Primaria (18 meses, 60 créditos), en convenio ANEP-Udelar. Gratuito, sin tesis."
 tags:
   - educacion
   - didactica
@@ -40,4 +38,12 @@ sources:
 
 ## Resumen
 
-Información no disponible en el catálogo de posgrados de Udelar.
+### Sobre el programa
+
+Diploma de Especialización en Didáctica para Enseñanza Primaria (18 meses, 60 créditos), en convenio ANEP-Udelar. Gratuito, sin tesis.
+
+## Ingreso
+
+### Convocatoria
+
+**Sin convocatoria vigente.**

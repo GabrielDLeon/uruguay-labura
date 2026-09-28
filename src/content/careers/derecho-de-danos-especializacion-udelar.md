@@ -11,23 +11,22 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "24 meses"
+credits: 76
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=6"
 location: "Facultad de Derecho, Montevideo"
-description: "El Derecho de Daños se ha transformado en la más importante disciplina del derecho privado. El riesgo de producción de daños y efectiva concreción de éstos es un problema central en las sociedades modernas. Existen nuevos modos de generación de daños (daños colectivos, daños masivos) y éstos se han multiplicado (daños a mayor cantidad de individuos), en una forma antes impensada."
-startDate: ""
-applicationDeadline: ""
+contactEmail: "posgrado@fder.edu.uy"
+description: "Especialista en Derecho de Daños (76 créditos): aborda la disciplina central del derecho privado actual —daños colectivos y masivos, riesgo y reparación— y genera conocimiento nuevo desde los trabajos curriculares de los cursantes."
 tags:
   - derecho
   - derecho-civil
   - derecho-de-danos
   - responsabilidad-civil
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=6'
@@ -39,24 +38,20 @@ sources:
 
 ### Objetivo
 
-El Derecho de Daños se ha transformado en la más importante disciplina del derecho privado. El riesgo de producción de daños y efectiva concreción de éstos es un problema central en las sociedades modernas. Existen nuevos modos de generación de daños (daños colectivos, daños masivos) y éstos se han multiplicado (daños a mayor cantidad de individuos), en una forma antes impensada. La Maestría y Carrera de Especialista en Derecho de Daños viene a llenar un vacío muy importante que existía en el sistema educativo terciario. Con estos programas se amplían los conocimientos preexistentes de los operadores del derecho y se generan nuevos, por medio de la educación en los problemas actuales que plantea el Daño en sociedad, y de la propia producción de conocimiento de los educandos en sus trabajos curriculares.
-
-### Referentes académicos
-
-Dr. Andrés Mariño
-
-## Ingreso
-
-### Reglamento
-
-En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. Cada módulo tendrá una instancia de evaluación que puede constar de una monografía, exámen o prueba través de la Plataforma EVA.
-
-### Requisitos de Ingreso
-
-El postulante deberá ser egresado de Abogado o Escribano.
+Cubrir el vacío en la enseñanza terciaria sobre el daño en la sociedad: ampliar los conocimientos de los operadores del derecho y generar otros nuevos sobre los problemas actuales del daño (colectivos, masivos, multiplicados) y la propia producción de conocimiento en los trabajos curriculares.
 
 ## Plan de Estudio
 
-### Unidades curriculares
+### Programa
 
-El daño Teoría general del derecho Teoría general del derecho de daños La concepción actual del daño Imputabilidad Legitimación Responsabilidad profesional Responsablidad del Estado Daño por hecho del tercero Daños por productos y servicios defectuosos Daños por los medios de comunicación Daños ecológico Daño por discriminación Daños en la obligaciones de dar suma de dinero Seguro de responsabilidad civil Daños en derecho de familia Daños causados por accidentes de tránsito Daños en la actividad comercial Daños en la actividad deportiva
+Dos años y 76 créditos en cursos (sin tesis), con 25 cupos por cohorte. Asistencia mínima del 70 % de las horas de clase para rendir evaluaciones.
+
+## Ingreso
+
+### Requisitos de Ingreso
+
+Título de abogado o Doctor en Derecho de la Facultad de Derecho de Udelar. También pueden ingresar abogados graduados en otras universidades nacionales o extranjeras que acrediten una razonable equivalencia con la carrera de Abogacía de la Facultad, además de licenciados de carreras afines según cada programa.
+
+### Inscripción y arancel
+
+Posgrado arancelado: 171,00 unidades reajustables (UR) en total (referencia CAP 2026; verificar actualización). Escuela de Posgrados, Facultad de Derecho (Av. 18 de Julio 1824, Montevideo) — posgrado@fder.edu.uy. Inscripción por bedelías (www.bedelias.edu.uy). Último período publicado: 01/10/2024 al 15/03/2025. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en la Escuela de Posgrados.

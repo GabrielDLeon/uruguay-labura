@@ -12,41 +12,38 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/educacion"
 location: "Facultad de Humanidades y Ciencias de la Educación"
-description: "Se propone formar investigadores que sean capaces de intervenir activa, crítica y propositivamente en procesos educativos de las más diversas características. Para ello, se propone centrar la formación en el estudio de la especificidad de los fenómenos educativos, a partir de una sólida preparación en investigación y enseñan"
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Licenciatura en Educación de 4 años (360 créditos) en la FHCE. Forma investigadores capaces de intervenir crítica y propositivamente en la educación formal y no formal: investigación, enseñanza, asesoría, políticas educativas, diseño curricular y coordinación de proyectos."
 tags:
   - educacion
   - pedagogia
   - investigacion-educativa
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fhce.edu.uy/licenciatura-en-educacion/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/educacion'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fhce.edu.uy/licenciatura-en-educacion/'
+    url: "https://udelar.edu.uy/carrera/educacion"
+  - label: "Página oficial"
+    url: "https://fhce.edu.uy/licenciatura-en-educacion/"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Se propone formar investigadores que sean capaces de intervenir activa, crítica y propositivamente en procesos educativos de las más diversas características. Para ello, se propone centrar la formación en el estudio de la especificidad de los fenómenos educativos, a partir de una sólida preparación en investigación y enseñanza. El egresado estará en condiciones de intervenir profesionalmente en los campos de la educación formal y no formal en toda su extensión, tanto desde la investigación de los fenómenos educativos; la enseñanza en aspectos vinculados a su formación particular; la asesoría en temas educativos en instituciones y organizaciones; los procesos vinculados a la concepción, implementación y evaluación de políticas educativas; el diseño curricular en su más amplia expresión y la coordinación de proyectos educativos.
+Forma investigadores capaces de intervenir activa, crítica y propositivamente en procesos educativos de las más diversas características, con sólida preparación en investigación y enseñanza.
+
+El egresado interviene profesionalmente en la educación formal y no formal: investigación de fenómenos educativos, enseñanza, asesoría a instituciones, concepción e implementación de políticas educativas, diseño curricular y coordinación de proyectos.
 
 ## Ingreso
 
-### Información adicional
+### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU. Egresados de Magisterio, INET, IPA o Udelar.
+- Haber egresado de cualquier bachillerato de Secundaria o DGETP-UTU.
+- También egresados de Magisterio, INET, IPA o Udelar.

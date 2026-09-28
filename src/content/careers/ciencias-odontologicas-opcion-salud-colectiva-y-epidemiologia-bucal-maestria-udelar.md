@@ -12,52 +12,53 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "30 meses"
+credits: 156
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=90"
 location: "Facultad de Odontología, Montevideo"
-description: "Maestría en Ciencias Odontológicas Opción Salud Colectiva y Epidemiología Bucal, dictada por la Facultad de Odontología."
-startDate: ""
-applicationDeadline: ""
+description: "Maestría académica de 30 meses (100 créditos de cursos más tesis, Plan 2019) orientada a la investigación en salud colectiva y epidemiología bucal."
 tags:
   - odontologia
   - salud-publica
   - epidemiologia
   - salud-colectiva
-draft: true
-createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=90'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=90'
+    url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=90
+  - label: 'Ficha del programa en el CAP (PDF)'
+    url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=90
+  - label: 'Maestría en Ciencias Odontológicas (FO)'
+    url: https://odon.edu.uy/sitio/maestria/
+  - label: 'Programa de la opción Salud Colectiva (PDF)'
+    url: https://odon.edu.uy/sitio/wp-content/uploads/2024/11/SALUD-PUBLICA-Y-EPIDEMIOLOGIA-BUCAL.pdf
+draft: false
+createdAt: "2026-07-31 16:58:06"
+updatedAt: "2026-09-28 21:00:00"
 ---
-
 ## Resumen
 
-### Sobre la Carrera
+### Plan de estudios
 
-Maestría en Ciencias Odontológicas Opción Salud Colectiva y Epidemiología Bucal, dictada por la Facultad de Odontología.
+- **Duración:** 30 meses.
+- **Créditos:** 100 créditos de cursos más 56 créditos de tesis.
+- **Plan de estudios:** 2019.
+- **Título otorgado:** Magister en Ciencias Odontológicos opción Salud Colectiva y Epidemiología Bucal.
+- **Requiere tesis.**
 
-### Referentes académicos
-
-Profa. PhD. Dra. Silvana Blanco
+El programa analítico completo está disponible en el PDF de la facultad (ver Fuentes).
 
 ## Ingreso
 
-### Reglamento
+### Requisitos de ingreso
 
-https://odon.edu.uy/sitio/wp-content/uploads/2024/11/REGLAMENTO-DE-LA-MAESTRIA-V.-4_9_20.pdf
+Ser egresada o egresado universitario, tener conocimiento de inglés (comprensión lectora) y presentar una propuesta de proyecto de investigación con un director de tesis que la avale. La preinscripción se realiza mediante formulario en línea y en forma presencial con la documentación requerida (título, CV, escolaridad y propuesta de director).
 
-### Requisitos de Ingreso
+### Inscripción
 
-https://odon.edu.uy/sitio/maestria/#1723657492244-595a43fd-c615
+Inscripción a través de www.odon.edu.uy (Escuela de Graduados). Sin convocatoria vigente publicada en el CAP (estado de inscripción: no definido).
 
-## Plan de Estudio
+### Contacto
 
-### Programa
-
-https://odon.edu.uy/sitio/wp-content/uploads/2024/11/SALUD-PUBLICA-Y-EPIDEMIOLOGIA-BUCAL.pdf
+Consultas: escueladegraduados@odon.edu.uy (tel. 2487 3048 / 2487 2719, int. 151); bedeliaposgrados@odon.edu.uy (SGAE, actas, defensas y título). Atención presencial de lunes a viernes de 9 a 13 y de 13:30 a 15:30 h. Facultad de Odontología, Las Heras 1925, Montevideo.

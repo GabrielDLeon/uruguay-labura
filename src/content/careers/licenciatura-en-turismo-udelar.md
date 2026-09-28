@@ -2,32 +2,27 @@
 title: "Licenciatura en Turismo"
 similar:
   - licenciatura-binacional-en-turismo-udelar
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - especializacion-en-turismo-sostenible-utec
   - administracion-y-economia-del-turismo-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
-area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-turismo"
 location: "Maldonado; Salto"
-description: "El plan de estudios apunta a la formación integral de profesionales en el área turismo, en tanto una actividad que genera interrelaciones sociales, económicas, culturales, ambientales y políticas. Por ser una actividad dinámica, presenta constantes desafíos que requieren un profesional en condiciones de abordar la realidad turística desde una perspectiva que articule permanentemente el saber científico y la práctica. El profesional deberá ser capa"
-startDate: ""
-applicationDeadline: ""
+description: "El plan de estudios apunta a la formación integral de profesionales en el área turismo, en tanto una actividad que genera interrelaciones sociales, económicas, culturales, ambientales y políticas. Por ser una actividad dinámica, presenta constantes desafíos que requieren un profesional en condiciones de abordar la realidad turística desde una perspectiva que articule permanentemente el saber científico y la práctica. El profesional deberá ser capaz de conocer las problemáticas propias de la actividad y actuar sobre la realidad con sentido crítico y eficiencia."
 credits: 360
 tags:
   - turismo
   - gestion-de-destinos
   - turismo-sostenible
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-turismo/'

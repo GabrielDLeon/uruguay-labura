@@ -12,21 +12,21 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+cost: "Gratuita"
+contactEmail: "upep@fagro.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=1&idPosgrado=4"
 location: "Facultad de Agronomía, Montevideo"
-description: "Formar graduados con dominio de temas o áreas dentro de una profesión o de un campo de aplicación. Buscan ampliar la capacitación profesional con profundidad y/o extensión; en particular, a través de una formación que incluya prácticas profesionales."
-startDate: ""
-applicationDeadline: "Unidad de Posgrado y Educación Permanente - Facultad de Agronomía"
+description: "Maestría gratuita de 2 años (100 créditos) para profesionales que formulan, gestionan e implementan proyectos de desarrollo rural en ámbitos públicos y privados, con tesis final. Postulación anual."
+applicationDeadline: "2027-11-15"
 tags:
   - desarrollo-rural
   - agronomia
   - ciencias-sociales
   - desarrollo-sostenible
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -40,7 +40,7 @@ sources:
 
 ### Objetivo
 
-Formar graduados con dominio de temas o áreas dentro de una profesión o de un campo de aplicación. Buscan ampliar la capacitación profesional con profundidad y/o extensión; en particular, a través de una formación que incluya prácticas profesionales.
+La Maestría en Desarrollo Rural Sustentable propone un trayecto de formación profesional de 2 años destinado a los profesionales que desempeñan tareas relacionadas a la formulación, gestión e implementación de proyectos de desarrollo rural, tanto en ámbitos públicos como privados.
 
 ### Perfil de egreso
 
@@ -69,3 +69,17 @@ Los estudiantes deben completar un mínimo de 100 créditos, de los cuales 60 co
 ### Unidades curriculares
 
 Los estudiantes deben completar un mínimo de 100 créditos, de los cuales 60 corresponden a cursos y actividades programadas y 40 a trabajos finales. La currícula de la Maestría en Desarrollo Rural Sustentable está diseñada para aprovechar secuencialmente los contenidos de los cursos recomendados, combinados de manera flexible con cursos optativos y tópicos especiales que el estudiante va optando según su interés y el tema de su trabajo final. Cada estudiante debe elaborar su plan de estudios para completar el Diploma / Maestría en Desarrollo Rural Sustentable incluyendo un mínimo de 35 créditos dentro de esta oferta.
+
+## Inscripción
+
+### Convocatoria
+
+Postulación periódica anual. Próximo período de inscripción: del 15/10/2027 al 15/11/2027. La inscripción se realiza en la Unidad de Posgrados y Educación Permanente de la Facultad de Agronomía (Av. Garzón 780, primer piso, Montevideo). Se requiere haber obtenido el título intermedio de Diploma en Desarrollo Rural Sustentable.
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.
+
+### Contacto
+
+Unidad de Posgrados y Educación Permanente: upep@fagro.edu.uy (tel. 099 75 30 70).

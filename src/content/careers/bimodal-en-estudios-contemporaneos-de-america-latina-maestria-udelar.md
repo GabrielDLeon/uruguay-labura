@@ -1,5 +1,5 @@
 ---
-title: "Maestría en Bimodal en Estudios Contemporáneos de América Latina"
+title: "Maestría Bimodal en Estudios Contemporáneos de América Latina"
 similar:
   - estudios-urbanos-e-intervenciones-territoriales-especializacion-udelar
   - demografia-y-estudios-de-poblacion-maestria-udelar
@@ -10,21 +10,20 @@ institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
-modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+modality: "hibrido"
+duration: "2 años"
+cost: "Gratuita"
+credits: 112
+contactEmail: "maestria.bimodal@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=31"
-location: "Facultad de Ciencias Sociales"
-description: "Objetivos generales: Formar a egresados de distintas disciplinas sociales en el conocimiento de la realidad latinoamericana, estimulando una visión comparada y regional, la capacidad crítica e investigadora y fomentando un enfoque pluralista e interdisciplinario. Formar investigadores sobre la región latinoamericana para que puedan desarrollar posteriormente una carrera académica y/o profesional en actividades de asesoramiento de diversas organi"
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría Bimodal en Estudios Contemporáneos de América Latina (2 años, 112 créditos), en convenio entre la Facultad de Ciencias Sociales (Udelar) y la Universidad Complutense de Madrid. Combina cursos presenciales en la Udelar con cursos virtuales en la UCM —al menos el 50 % de los créditos debe cursarse presencial— y forma investigadores sobre la realidad latinoamericana con visión comparada, crítica e interdisciplinaria. Gratuita, con tesis."
 tags:
   - ciencias-sociales
   - estudios-latinoamericanos
   - estudios-culturales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -32,6 +31,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=31'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=31'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: 'Maestría Bimodal – FCS'
+    url: 'https://cienciassociales.edu.uy/maestria-bimodal-en-estudios-contemporaneos-de-america-latina/'
 ---
 
 ## Resumen
@@ -44,15 +47,15 @@ Objetivos generales: Formar a egresados de distintas disciplinas sociales en el 
 
 ANA LAURA RiVOIR
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 A realizarse en convenio entre el Departamento de Sociología, FCS, Udelar y la Facultad de Política y Sociología III de la Universidad Complutense de Madrid. La Maestría Internacional de Estudios Contemporáneos de América Latina habilita a los estudios de Doctorado. Dado su carácter multidisciplinario y bimodal requiere además, para su adecuado aprovechamiento, un esfuerzo continuado por parte de alumnos provenientes de formaciones terciarias muy diversas. A esto se suma que la mayoría de ellos dedican una parte considerable de su tiempo a tareas remuneradas y por lo tanto, para cursar la Maestría deben poder comprometerse a asistir a los cursos obligatorios en los días y horarios prefijados y a acompañar las tareas en tiempo real requeridas en los cursos virtuales. La obtención del título de magister implica la aprobación de la totalidad de créditos de los cursos, más la redacción y defensa pública de la Tesis de Maestría (total de créditos 112).
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

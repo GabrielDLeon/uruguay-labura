@@ -11,23 +11,22 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "3 años"
+credits: 150
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=2"
 location: "Facultad de Derecho, Montevideo"
-description: "El Derecho de Daños se ha transformado en la más importante disciplina del derecho privado. El riesgo de producción de daños y efectiva concreción de éstos es un problema central en las sociedades modernas. Existen nuevos modos de generación de daños (daños colectivos, daños masivos) y éstos se han multiplicado (daños a mayor cantidad de individuos), en una forma antes impensada."
-startDate: ""
-applicationDeadline: ""
+contactEmail: "posgrado@fder.edu.uy"
+description: "Magíster en Derecho de Daños (150 créditos con tesis): profundiza la disciplina central del derecho privado actual con producción propia de conocimiento, en tres años de cursos más tesis."
 tags:
   - derecho
   - derecho-civil
   - derecho-de-danos
   - responsabilidad-civil
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=14&idPosgrado=2'
@@ -39,32 +38,20 @@ sources:
 
 ### Objetivo
 
-El Derecho de Daños se ha transformado en la más importante disciplina del derecho privado. El riesgo de producción de daños y efectiva concreción de éstos es un problema central en las sociedades modernas. Existen nuevos modos de generación de daños (daños colectivos, daños masivos) y éstos se han multiplicado (daños a mayor cantidad de individuos), en una forma antes impensada. La Maestría y Carrera de Especialista en Derecho de Daños viene a llenar un vacío muy importante que existía en el sistema educativo terciario. Con estos programas se amplían los conocimientos preexistentes de los operadores del derecho y se generan nuevos, por medio de la educación en los problemas actuales que plantea el Daño en sociedad, y de la propia producción de conocimiento de los educandos en sus trabajos curriculares.
-
-### Perfil de egreso
-
-Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:\\\\\\\\\\\\\\\"Calibri\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"sans-serif\\\\\\\\\\\\\\\"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;\}
-
-### Referentes académicos
-
-Dr.Andrés Mariño
-
-## Ingreso
-
-### Reglamento
-
-En cada asignatura los cursantes de esta Carrera deben cumplir con una asistencia mínima del 70 % del total de horas de clases dictadas para quedar habilitados a rendir la evaluación. La instancia de evaluación en cada asignatura será de monografía, examen o prueba en Plataforma EVA.
-
-### Requisitos de Ingreso
-
-Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 Podrán ser candidatos a ingresar a las carreras de posgrado en Derechode Daños: a)Los egresados con título de Abogado o Doctor en Derecho de la Facultad de Derecho de la Universidad de la República. b) Los egresados con título de Escribano Público de la Facultad de Derecho de la Universidad de la República, y 1) podrá admitirse,además, el ingreso de Abogados graduados en otras Universidades, nacionales o extranjeras, que acrediten una razonable equivalencia con el pensum de la carrera de Abogacía que se dicta en la Facultad de Derecho de la Universidad De la República. /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:\\\\\\\\\\\\\\\"Calibri\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"sans-serif\\\\\\\\\\\\\\\"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;\}
+El mismo núcleo que la Especialización, con nivel de maestría: ampliar los conocimientos preexistentes de los operadores del derecho y generar otros nuevos sobre los problemas actuales del daño en la sociedad, con investigación propia que culmina en tesis.
 
 ## Plan de Estudio
 
 ### Programa
 
-Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:\\\\\\\\\\\\\\\"Calibri\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"sans-serif\\\\\\\\\\\\\\\"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;\}
+Tres años y 150 créditos (120 de cursos y 30 de tesis), Plan 2003, con 30 cupos por cohorte. Asistencia mínima del 70 % de las horas de clase.
 
-### Unidades curriculares
+## Ingreso
 
-Normal 0 21 false false false ES X-NONE X-NONE MicrosoftInternetExplorer4 El daño Teoría general del derecho Teoría general del derecho de daños La concepción actual del daño Imputabilidad Legitimación Responsabilidad profesional Responsablidad del Estado Daño por hecho del tercero Daños por productos y servicios defectuosos Daños por los medios de comunicación Daños ecológico Daño por discriminación Daños en la obligaciones de dar suma de dinero Seguro de responsabilidad civil Daños en derecho de familia Daños causados por accidentes de tránsito Daños en la actividad comercial Daños en la actividad deportiva /* Style Definitions */ table.MsoNormalTable \{mso-style-name:\\\\\\\\\\\\\\\"Tabla normal\\\\\\\\\\\\\\\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin-top:0cm; mso-para-margin-right:0cm; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:\\\\\\\\\\\\\\\"Calibri\\\\\\\\\\\\\\\",\\\\\\\\\\\\\\\"sans-serif\\\\\\\\\\\\\\\"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:\\\\\\\\\\\\\\\"Times New Roman\\\\\\\\\\\\\\\"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;\}
+### Requisitos de Ingreso
+
+Título de abogado o Doctor en Derecho de la Facultad de Derecho de Udelar. También pueden ingresar abogados graduados en otras universidades nacionales o extranjeras que acrediten una razonable equivalencia con la carrera de Abogacía de la Facultad, además de licenciados de carreras afines según cada programa.
+
+### Inscripción y arancel
+
+Posgrado arancelado: 300,00 unidades reajustables (UR) en total (referencia CAP 2026; verificar actualización). Escuela de Posgrados, Facultad de Derecho (Av. 18 de Julio 1824, Montevideo) — posgrado@fder.edu.uy. Los llamados son anuales por cohortes (habitualmente con inscripciones entre octubre y marzo) a través del SGAE o bedelías (www.bedelias.edu.uy) según cada programa. Último período publicado: 01/10/2024 al 15/03/2025. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en la Escuela de Posgrados.

@@ -10,25 +10,24 @@ institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
-modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+modality: "hibrido"
+duration: "15 meses"
+credits: 68
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=77"
 location: "Facultad de Ciencias Económicas y de Administración, Montevideo"
-description: "La Especialización comprende los aspectos relevantes de la gestión financiera eninstituciones públicas.Su objetivo general es ofrecer a los participantes los conocimientos y herramientaspara desempeñarse con mayor profesionalismo en las distintas áreas vinculadas a lagestión financiera, y en particular a las relacionadas con la planificación,presupuestación, registro y control de los hechos económicos, contribuyendo a unamejor calidad, eficacia y"
-startDate: ""
-applicationDeadline: ""
+contactEmail: "infoposgrados@ccee.edu.uy"
+description: "Especialización en Gestión Financiera en Instituciones Públicas (68 créditos con trabajo final): profesionaliza la planificación, presupuestación, registro y control de los hechos económicos del Estado, con visión integral de la gestión financiera pública y las políticas públicas. Dictado híbrido."
 tags:
   - finanzas
   - gestion-financiera
   - sector-publico
   - administracion-publica
   - gestion-publica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 21:00:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=77'
@@ -40,32 +39,26 @@ sources:
 
 ### Objetivo
 
-La Especialización comprende los aspectos relevantes de la gestión financiera en instituciones públicas. Su objetivo general es ofrecer a los participantes los conocimientos y herramientas para desempeñarse con mayor profesionalismo en las distintas áreas vinculadas a la gestión financiera, y en particular a las relacionadas con la planificación, presupuestación, registro y control de los hechos económicos, contribuyendo a una mejor calidad, eficacia y eficiencia en la gestión administrativa pública. En tal sentido, se pretende con esta propuesta que los participantes: accedan a un nivel de conocimientos teóricos y experiencias prácticas relevantes, a través de las diferentes asignaturas que se imparten; logren una visión integral de la gestión financiera del sector público, y de cómo ésta se vincula con el proceso de construcción de las políticas públicas; desarrollen capacidades y habilidades para desempeñarse con mayor eficacia y eficiencia frente a las especificidades del accionar público.
+Dar conocimientos y herramientas para desempeñarse con profesionalismo en la gestión financiera pública (planificación, presupuestación, registro y control), con visión integral de su vínculo con las políticas públicas y las especificidades del accionar estatal.
 
 ### Perfil de egreso
 
-El programa académico está orientado a profesionalizar las áreas de administración financiera de las Instituciones Públicas. El egresado del posgrado podrá contar con herramientas e instrumentos que le permitan desempeñarse en su función, en forma más satisfactoria, dado que no solamente se brindarán conceptos técnicos especializados en dichas áreas, sino que también se generarán espacios para que se analicen las experiencias y éstas puedan a su vez, ser fuente de conocimiento para la administración gubernamental. A su vez, se complementará con disciplinas vinculadas al análisis del Estado desde diferentes puntos de vista, en cuanto a su institucionalidad, marco normativo, el relacionamiento técnico-político, todo lo cual tiende a mejorar la calidad de la gestión pública.
-
-### Referentes académicos
-
-Profa. Cra. Gabriela Pintos
-
-### Docentes
-
-El cuerpo docente es uno de los factores mas importantes que asegura la calidad del Programa de Posgrado. En su mayoría está integrado por profesores nacionales graduados en la FCEA de la Udelar. Su reconocida trayectoria académica y profesional en el Uruguay en el sector público constituye uno de los pilares fundamentales que aseguran la excelencia de la enseñanza en el Posgrado. Se podrá encontrar un detalle del plantel docente en el siguiente link: https://fcea.udelar.edu.uy/plantel-docente-gestion-financiera-inst-publicas.html
-
-## Ingreso
-
-### Requisitos de Ingreso
-
-El curso está destinado a personas con título universitario con formación equivalente, con un mínimo de 4 años de estudios. Podrán participar aquellas personas que reúnan los requisitos enunciados (sean o no profesionales universitarios), se hayan postulado oportunamente y sean aceptados por la Coordinación Académica del Posgrado, en base al curriculum personal de estudios, antecedentes y experiencia profesional. Para formalizar su postulación al Programa de Posgrados: https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html
+Egresados con instrumentos para la función financiera pública, más análisis del Estado en su institucionalidad, marco normativo y relacionamiento técnico-político, orientados a mejorar la calidad de la gestión pública.
 
 ## Plan de Estudio
 
 ### Programa
 
-El programa académico está orientado a profesionalizar las áreas de administración financiera y a brindar al egresado herramientas e instrumentos que faciliten su desempeño. Se complementa con disciplinas vinculadas al análisis del Estado desde diferentes puntos de vista en cuanto a su institucionalidad, marco normativo y relacionamiento técnico – político, entre otras Se sustenta en los siguientes principios generales: Excelencia y actualización, apuntando a la más alta calidad curricular sustentada en la actualización permanente. Generación de conocimiento, promoviendo el intercambio con el docente y entre los participantes, construyendo a partir de la experiencia. Producción académica, con la elaboración de trabajos relevantes que luego puedan ser base para el debate y puedan ser publicados. Clave comparada, permitiendo analizar los procesos de gestión financiera en otros países para identificar buenas prácticas. La Especialización en Gestión Financiera en Instituciones Públicas requiere de la aprobación de 68 créditos distribuidos en cuatro módulos temáticos y un trabajo final. Módulo 1: Contexto macroeconómico y marco institucional 10 créditos; Módulo 2: Planificación y Presupuesto Público 14 créditos; Módulo 3: Gestión Pública 26 créditos; Módulo 4: Control y Sistemas de Información 12 créditos; Trabajo final: 6 créditos. Un crédito equivale a 15 horas de trabajo total del estudiante, incluyendo clases, realización de pruebas y trabajos y estudio autónomo. TRABAJO DE CAMPO: Tiene como objetivo que los participantes, en grupos de dos o tres participantes, logren analizar en profundidad algunos de los temas desarrollados en el curso y aplicarlos a una realidad institucional concreta. Es una oportunidad especial para trascender los marcos teóricos, someterlos a análisis y a la confrontación con la realidad. Modalidad de clases La Especialización en Gestión Financiera en Instituciones Públicas se compone de catorce asignaturas, con cargas horarias presenciales de 10, 20 o 30 horas, y un trabajo final de campo. Los residentes en el interior del país podrán tomar las clases en forma remota (virtual sincrónica a través de la aplicación zoom) dado que existen salones especialmente equipados para poder desarrollar las clases en modalidad híbrida, con estudiantes en forma presencial y otros a distancia.
+Quince meses y 68 créditos (62 de cursos y 6 del trabajo final de campo): 14 asignaturas de 10, 20 o 30 horas presenciales. Se sustenta en excelencia y actualización curricular, generación de conocimiento desde la experiencia, producción académica publicable y comparación con otros países.
 
-### Unidades curriculares
+Dictado híbrido: clases presenciales con opción remota sincrónica por videoconferencia para residentes del interior.
 
-ASIGNATURAS: La Especialización en Gestión Financiera en Instituciones Públicas se compone de catorce asignaturas. Este Programa de Posgrado requiere de la aprobación de 68 créditos distribuidos en cuatro módulos temáticos y un trabajo final. Después pongo una tabla con los módulos y el trabajo final con sus créditos. Módulo 1: Contexto macroeconómico y marco institucional 10 créditos; Módulo 2: Planificación y Presupuesto Público 14 créditos; Módulo 3: Gestión Pública 26 créditos; Módulo 4: Control y Sistemas de Información 12 créditos;
+## Ingreso
+
+### Requisitos de Ingreso
+
+Destinado a graduados universitarios (o con formación equivalente) con un mínimo de 4 años de estudios. El título de grado puede pertenecer a la Universidad de la República, a universidades del exterior de nivel reconocido o a universidades del país con nivel de educación superior. La admisión la resuelve la Dirección Académica del posgrado en base a escolaridad, antecedentes y experiencia profesional.
+
+### Inscripción y arancel
+
+Posgrado arancelado: monto total publicado en CAP de $ 354.700 (pesos uruguayos, referencia 2026; verificar actualización). Centro de Posgrados de FCEA, Gonzalo Ramírez 1915 (aulario frente a la Facultad), 3.er piso, Montevideo — infoposgrados@ccee.edu.uy. Último período de inscripción publicado: 22/10/2024 al 29/03/2025. A setiembre de 2026 no hay convocatoria abierta publicada en la ficha CAP: consultar próximos llamados en el Centro de Posgrados.

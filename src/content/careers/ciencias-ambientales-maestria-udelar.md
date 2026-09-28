@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+credits: 100
+contactEmail: "maca@fcien.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=40"
 location: "Facultad de Ciencias, Montevideo"
-description: "OBJETIVOS El programa de Maestría en Ciencias Ambientales es un programa de posgrado de perfil predominantemente académico que aspira a consolidar e incrementar un grupo de investigadores y profesionales de nivel superior, en condiciones de coordinar equipos interdisciplinarios capaces de: a. diagnosticar, prospectar, evaluar y gestionar recursos naturales b. prevenir, mitigar y/o revertir alteraciones ambientales c."
-startDate: ""
-applicationDeadline: ""
+description: "Maestría gratuita de 2 años (100 créditos) en Ciencias Ambientales, de perfil académico: forma investigadores capaces de diagnosticar, evaluar y gestionar recursos naturales y revertir alteraciones ambientales. Sin convocatoria vigente."
 tags:
   - medio-ambiente
   - ciencias-ambientales
   - gestion-ambiental
   - ecologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -69,3 +68,13 @@ PLAN DE ESTUDIOS La Maestría en Ciencias Ambientales comprende tres unidades te
 ### Unidades curriculares
 
 Unidad Biofísica - Ecología de Ecosistemas (7 créditos) - Ecología del Paisaje (7 créditos) Unidad Análisis e integración - Análisis de datos (10 créditos) - Taller de elaboración de tesos (10 créditos) Unidad Socioeconómica - Legislación Ambiental (3 créditos) - Economía Ambiental (3 créditos) Optativos (20 créditos) Tesis (40 créditos)
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 27/01/2025–10/02/2025). Inscripción por correo a maca@fcien.edu.uy (Facultad de Ciencias).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

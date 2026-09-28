@@ -11,32 +11,26 @@ institution: "udelar"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnicatura-en-deportes"
 location: "Instituto Superior de Educación Física"
-description: "El diseño curricular de la Tecnicatura en Deportes se propone la formación de un profesional capacitado para asumir el entrenamiento de la modalidad deportiva específica, desde la iniciación hasta el alto rendimiento deportivo. En este sentido, el perfil del egresado define la formación de un profesional con dominio técnico-metodológico en su especialidad deportiva, que le permita desenvolverse en el campo laboral que él seleccione."
-startDate: ""
-applicationDeadline: ""
+description: "El diseño curricular de la Tecnicatura en Deportes se propone la formación de un profesional capacitado para asumir el entrenamiento de la modalidad deportiva específica, desde la iniciación hasta el alto rendimiento deportivo. En este sentido, el perfil del egresado define la formación de un profesional con dominio técnico-metodológico en su especialidad deportiva, que le permita desenvolverse en el campo laboral que él seleccione. El \"saber hacer\" y \"cómo hacer\" son las claves más importantes de su titulación."
 credits: 160
 tags:
   - deporte
   - entrenamiento-deportivo
   - actividad-fisica
   - rendimiento-deportivo
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Página oficial'
-    url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/tecnicatura/'
+    url: 'https://isef.udelar.edu.uy/ensenanza/tecnicatura-en-deporte/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-deportes'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/tecnicatura/'
 ---
 
 ## Resumen
@@ -44,6 +38,10 @@ sources:
 ### Sobre la Carrera
 
 El diseño curricular de la Tecnicatura en Deportes se propone la formación de un profesional capacitado para asumir el entrenamiento de la modalidad deportiva específica, desde la iniciación hasta el alto rendimiento deportivo. En este sentido, el perfil del egresado define la formación de un profesional con dominio técnico-metodológico en su especialidad deportiva, que le permita desenvolverse en el campo laboral que él seleccione. El "saber hacer" y "cómo hacer" son las claves más importantes de su titulación.
+
+### Duración y cursado
+
+**Duración:** 2 años (160 créditos, Plan 2007) · **Sede:** ISEF (Montevideo) · **Costo:** Gratuita. Sin ingreso a la opción fútbol en 2026 y plan en proceso de cierre con estímulo al egreso (Res. Com. Directiva ISEF 6/3/2026).
 
 ## Ingreso
 

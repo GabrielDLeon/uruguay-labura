@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
+credits: 60
+contactEmail: "inscdefi@fq.edu.uy"
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=11&idPosgrado=89"
-location: "Facultad de Química"
+location: "Facultad de Química, Montevideo"
 description: "A través de este Diploma se pretende fortalecer la formación de recursos humanos en Farmacia Industrial, con el objetivo de generar capacidades para la comprensión, el desarrollo y adaptación de tecnologías modernas de producción, capaces de impulsar y sostener una industria de producción farmacéutica, así como las relacionadas, instaladas en el país y competitivas a nivel regional e internacional."
-startDate: ""
-applicationDeadline: ""
 tags:
   - farmacia
   - farmacia-industrial
   - farmacologia
   - procesos-industriales
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -57,3 +56,13 @@ Reglamento - http://www.fq.edu.uy/es/node/149 Aprobado por el Consejo de Faculta
 ### Programa
 
 El programa de formación comprenderá asignaturas y actividades programadas. Se deberá completar un mínimo de 60 créditos en asignaturas obligatorias, que se establecerán en las propuestas de los cursos anuales. Como actividad programada se podrán incluír en el programa de formación: cursos de actualización y posgrado pertenecientes a otros programas universitarios del ámbito nacional o extranjero, seminarios, monografías, pruebas de suficiencia, méritos anteriores y otros trabajos debidamente acreditados ante la SDEFI y convalidados por la Comisión de Posgrado de la Facultad de Química. Por la actividad programada en total se podrá obtener un máximo de 20 créditos Áreas de Formación : 1) Área Técnica Farmacéutica (mínimo 25 créditos) A modo indicativo se podrán incluír las siguientes materias: ▪ Desarrollo de productos. ▪ Industrialización. Operaciones tecnológicas seleccionadas. ▪ Diseño de plantas industriales. 2) Área de Gestión (mínimo 5 créditos) A modo indicativo podrá incluir las siguientes materias: ▪ Gestión de organizaciones. ▪ Logística Farmacéutica. ▪ Propiedad intelectual. Patentes
+
+## Inscripción
+
+### Convocatoria
+
+Postulación continua, sin fecha de cierre. Inscripción en la Sección Posgrado de Facultad de Química (inscdefi@fq.edu.uy, tel. 2924 1925 int. 1203).
+
+### Costo
+
+El programa cobra derechos universitarios: 30.600 unidades indexadas (UI).

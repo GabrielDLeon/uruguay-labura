@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+credits: 60
+contactEmail: "maca@fcien.edu.uy"
+cost: "Gratuita"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=95"
 location: "Facultad de Ciencias, Montevideo"
-description: "OBJETIVO La especialización en Ciencias Ambientales es un posgrado de perfil predominantemente académico que aspira a desarrollar un enfoque sistémico e interdisciplinario para el abordaje de las temáticas ambientales. La misma permitirá a los egresados: a. Conocer los fundamentos biofísicos para ab"
-startDate: ""
-applicationDeadline: ""
+description: "Especialización gratuita de 1 año (60 créditos) en Ciencias Ambientales, de perfil académico: enfoque sistémico e interdisciplinario para abordar temáticas ambientales desde una perspectiva ecosistémica. Sin convocatoria vigente."
 tags:
   - medio-ambiente
   - ciencias-ambientales
   - gestion-ambiental
   - ecologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -73,3 +72,13 @@ PLAN DE ESTUDIO La duración mínima es de un año lectivo y las exigencias curr
 ### Unidades curriculares
 
 Plan de Estudios Las exigencias curriculares son de 60 créditos, y comprenden cursos optativos distribuidos en tres Unidades Temáticas: Biofísica, Socio-económica y Análisis e integración (46 créditos) y una actividad obligatoria “Taller de Diagnostico Ambiental” (14 créditos). Los cursos optativos deberán incluir un mínimo de 20 créditos en la Unidad biofísica, 15 créditos en la Unidad de análisis e integración y 6 créditos en la Unidad Socio-económica. Los cursos optativos serán de posgrado, dictados tanto por la UDELAR como por Universidades extranjeras.
+
+## Inscripción
+
+### Convocatoria
+
+Sin convocatoria vigente (último período: 27/01/2025–10/02/2025). Inscripción por correo a maca@fcien.edu.uy (Facultad de Ciencias).
+
+### Costo
+
+El programa no cobra derechos universitarios: es gratuito.

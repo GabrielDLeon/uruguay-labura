@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 180
+contactEmail: "maestria.dts@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=36"
-location: "Facultad de Ciencias Sociales"
-description: "La Maestría en Trabajo Social se inscribe en el proceso universitario de consolidación de cursos de posgrado destinados a perfeccionar la formación y el nivel académico de la Educación Superior, y por ello comporta un claro perfil académico."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Maestría en Trabajo Social (2 años, 180 créditos), de claro perfil académico. Perfecciona la formación superior con profundización e investigación en trabajo social. Gratuita, con tesis."
 tags:
   - trabajo-social
   - ciencias-sociales
   - intervencion-social
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +33,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=36'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=36'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen
@@ -50,15 +51,15 @@ CECILIA ESPASANDIN Y NATALIA MAGNONE
 
 Coordinador: Natalia Magnone
 
-## Ingreso
-
-### Reglamento
+### Presentación
 
 La Maestría en Trabajo Social se inscribe en el proceso universitario de consolidación de cursos de posgrado destinados a perfeccionar la formación y el nivel académico de la Educación Superior, y por ello comporta un claro perfil académico. La Maestría es de carácter gratuito.
 
+## Ingreso
+
 ### Requisitos de Ingreso
 
-Por el momento no hay periodo de postulación. Por mas información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
+**Sin convocatoria vigente.** Por más información: https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/
 
 ## Plan de Estudio
 

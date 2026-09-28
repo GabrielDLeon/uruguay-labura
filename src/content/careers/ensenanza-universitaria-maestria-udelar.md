@@ -11,21 +11,20 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "2 años"
+cost: "Gratuita"
+credits: 140
+contactEmail: "posgrados@cse.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=98"
 location: "Facultad de Humanidades y Ciencias de la Educación, Montevideo"
-description: "La Comisión Sectorial de Enseñanza (CSE) desarrolla conjuntamente con el ÁreaSocial y Artística desde el año 2006 el Programa de Especialización y Maestría enEnseñanza Universitaria, dirigido a docentes en actividad de los niveles universitario yterciario."
-startDate: ""
-applicationDeadline: "Facultad de Humanidades"
+description: "Maestría en Enseñanza Universitaria (2 años, 140 créditos), del programa conjunto de la Comisión Sectorial de Enseñanza y la FHCE dirigido a docentes en actividad de niveles universitario y terciario. Inicia a los docentes en la investigación educativa superior, con la formación pedagógica articulada a cada disciplina. Gratuita, con tesis; abre cada dos años (8.ª edición, cohorte 2026-2027 en curso)."
 tags:
   - educacion
   - educacion-superior
   - pedagogia
   - didactica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -33,6 +32,10 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=19&idPosgrado=98'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=19&idPosgrado=98'
+  - label: 'Maestría y Diploma en Enseñanza Universitaria (CSE)'
+    url: 'https://www.cse.udelar.edu.uy/meu/'
+  - label: 'Maestría en Enseñanza Universitaria – FHCE'
+    url: 'https://fhce.edu.uy/maestria-en-ensenanza-universitaria/'
 ---
 
 ## Resumen
@@ -47,9 +50,9 @@ Su objetivo primordial es formar investigadores en el área de la pedagogía y l
 
 ## Ingreso
 
-### Reglamento
+### Requisitos
 
-Reglamento: Requisitos: Para cursar el posgrado se requiere cumplir con los requerimientos establecidos por la Ordenanza de las Carreras de Posgrado de la Universidad de la República. En tal sentido, serán destinatarios de este posgrado los graduados universitarios o personas que, excepcionalmente, acrediten formación equivalente (Art. 1º), y que se encuentren ejerciendo actividades de docencia. En el caso de la ANEP se deberá contar con alguno de los siguientes títulos: Maestro de Educación Primaria, Profesor de Educación Media, Maestro Técnico de Educación Técnico Profesional, Educador Social; y acreditar docencia actual en los institutos de formación docente.
+Para cursar el posgrado se requiere cumplir con los requerimientos establecidos por la Ordenanza de las Carreras de Posgrado de la Universidad de la República. En tal sentido, serán destinatarios de este posgrado los graduados universitarios o personas que, excepcionalmente, acrediten formación equivalente (Art. 1º), y que se encuentren ejerciendo actividades de docencia. En el caso de la ANEP se deberá contar con alguno de los siguientes títulos: Maestro de Educación Primaria, Profesor de Educación Media, Maestro Técnico de Educación Técnico Profesional, Educador Social; y acreditar docencia actual en los institutos de formación docente.
 
 ### Requisitos de Ingreso
 

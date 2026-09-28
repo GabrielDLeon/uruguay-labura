@@ -12,22 +12,18 @@ institution: "udelar"
 degreeType: "carrera"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/arquitectura"
 location: "Facultad de Arquitectura, Diseño y Urbanismo"
-description: "El nuevo plan define la existencia de un título único de base generalista. Se asume la definición del perfil de egreso asignado a las carreras de Arquitectura del Sistema Arcusur-Mercosur Educativo como marco básico para la elaboración del nuevo plan. En tal sentido, se define al arquitecto como un profesional con perfil técnico y humanístico, de alcance generalista, capa"
-startDate: ""
-applicationDeadline: ""
+description: "El arquitecto es un profesional con perfil técnico y humanístico, de alcance generalista, capaz de aportar al desarrollo social desde la construcción del hábitat en todas sus escalas. Interpreta las demandas de la sociedad, produce proyectos consistentes en lo instrumental, técnico-constructivo y expresivo, y dirige y gestiona procesos constructivos con tecnologías adecuadas, calidad, higiene y seguridad."
 credits: 450
 tags:
   - arquitectura
   - diseno-arquitectonico
   - construccion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

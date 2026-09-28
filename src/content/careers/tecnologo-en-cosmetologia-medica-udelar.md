@@ -7,22 +7,18 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/tecnologo-en-cosmetologia-medica"
 location: "Facultad de Medicina"
-description: "Es un profesional universitario, integrante del equipo multidisciplinario de asistencia sanitaria, que trabaja en estrecha colaboración con sus distintos integrantes, actuando en la prevención, educación, tratamiento y rehabilitación en personas con piel sana o pacientes portadores de diversas patologías cutáneas. Reali"
-startDate: ""
-applicationDeadline: ""
+description: "Es un profesional universitario, integrante del equipo multidisciplinario de asistencia sanitaria, que trabaja en estrecha colaboración con sus distintos integrantes, actuando en la prevención, educación, tratamiento y rehabilitación en personas con piel sana o pacientes portadores de diversas patologías cutáneas. Realiza detección precoz de distintos tipos de patología cutánea. Posee conocimientos suficientes en las áreas básicas afines a la disciplina que le posibilitan trabajar en equipos de investigación y en actividades de extensión en comunidad, cumpliendo un rol de educador sanitario."
 tags:
   - salud
   - cosmetologia
   - dermatologia
   - medicina-estetica
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -30,8 +26,6 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-cosmetologia-medica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-cosmetologia-medica'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-cosmetologia-medica'
 ---
 
 ## Resumen
@@ -39,6 +33,10 @@ sources:
 ### Sobre la Carrera
 
 Es un profesional universitario, integrante del equipo multidisciplinario de asistencia sanitaria, que trabaja en estrecha colaboración con sus distintos integrantes, actuando en la prevención, educación, tratamiento y rehabilitación en personas con piel sana o pacientes portadores de diversas patologías cutáneas. Realiza detección precoz de distintos tipos de patología cutánea. Posee conocimientos suficientes en las áreas básicas afines a la disciplina que le posibilitan trabajar en equipos de investigación y en actividades de extensión en comunidad, cumpliendo un rol de educador sanitario.
+
+### Duración y cursado
+
+**Duración:** 3 años (3550 horas) · **Sede:** Facultad de Medicina (Montevideo) · **Costo:** Gratuita. Ingreso por prueba según cupos.
 
 ## Ingreso
 

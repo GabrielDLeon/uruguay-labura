@@ -3,7 +3,6 @@ title: "Maestría en Ciencias Criminológico-Forenses"
 similar:
   - diploma-en-psicologia-forense-y-criminologica-um
   - maestria-en-psicologia-forense-y-penitenciaria-ucu
-  - politicas-publicas-en-crimen-e-inseguridad-especializacion-udelar
   - psicologia-clinica-maestria-udelar
   - penalidad-juvenil-especializacion-udelar
 institutionName: "Universidad de la Empresa"

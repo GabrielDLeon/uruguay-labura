@@ -12,21 +12,20 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
-cost: "Arancelada"
+duration: "1 año"
+cost: "Gratuita"
+credits: 63
+contactEmail: "maestria.dts@cienciassociales.edu.uy"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=79"
-location: "Facultad de Ciencias Sociales"
-description: "se incorpora la creación de un Diploma de especialización enFundamentos del Trabajo Social, que se establece con carácter gratuito y con unfuncionamiento articulado con laMaestría. La creación de esta especialización supone un nuevo campo de formación einvestigación enFundamentos del Trabajo Social, que no está cubierto por la actual oferta deDiplomas."
-startDate: ""
-applicationDeadline: ""
+location: "Facultad de Ciencias Sociales, Montevideo"
+description: "Diploma de Especialización en Fundamentos del Trabajo Social (1 año, 63 créditos), gratuito y articulado con la Maestría en Trabajo Social. Abre un nuevo campo de formación e investigación en fundamentos del trabajo social, con asignaturas comunes y recorridos articulados hacia la maestría. Sin tesis (monografía final)."
 tags:
   - ciencias-sociales
   - trabajo-social
   - intervencion-social
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
@@ -34,6 +33,8 @@ sources:
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=79'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=79'
+  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
 ---
 
 ## Resumen

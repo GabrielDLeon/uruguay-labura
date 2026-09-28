@@ -11,40 +11,38 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://www.artes.udelar.edu.uy/carrera/licenciatura-en-danza-contemporanea/"
 location: "Facultad de Artes"
-description: "Los contenidos ofrecidos permitirán a quien egresa, desempeñarse en procesos de creación artística en danza, procesos de investigación académica y artística, así como en el vínculo entre ambas; en la elaboración, gestión y articulación de proyectos sociales, culturales y educativos, en el desarrollo"
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Licenciatura en Danza Contemporánea de 4 años (360 créditos, cursada semestral) en la Facultad de Artes. Forma profesionales para la creación, la investigación y la mediación en danza, con perfil integral y reflexión crítica sobre la práctica."
 tags:
   - arte
   - danza
   - artes-escenicas
   - coreografia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.artes.udelar.edu.uy/carrera/licenciatura-en-danza-contemporanea/'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-danza-contemporanea'
+    url: "https://www.artes.udelar.edu.uy/carrera/licenciatura-en-danza-contemporanea/"
+  - label: "Plan de estudios (PDF)"
+    url: "https://www.artes.udelar.edu.uy/wp-content/uploads/2024/06/Licenciatura_Danza_Contemporanea_Plan_de_Estudios_v2.pdf"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Los contenidos ofrecidos permitirán a quien egresa, desempeñarse en procesos de creación artística en danza, procesos de investigación académica y artística, así como en el vínculo entre ambas; en la elaboración, gestión y articulación de proyectos sociales, culturales y educativos, en el desarrollo de políticas para el sector, comunicación y programación en espacios y medios culturales.
+Consta de 4 años de cursada en modalidad semestral con 360 créditos, y habilita la continuidad hacia el posgrado.
+
+Forma profesionales para la creación, la investigación y la mediación en danza, con un abordaje contemporáneo que reconoce su complejidad y diversidad: creación artística, investigación, estudios epistémico-históricos, estudios del cuerpo, mediación artística y formación optativa y electiva.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-Haber egresado de cualquier Bachillerato, Secundaria o DGETP-UTU.
+- Haber egresado de cualquier bachillerato de Secundaria o UTU.

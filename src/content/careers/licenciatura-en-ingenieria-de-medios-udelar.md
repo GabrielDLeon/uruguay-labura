@@ -12,42 +12,41 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
+credits: 360
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-ingenieria-de-medios"
 location: "Facultad de Información y Comunicación"
-description: "Se trata de una propuesta orientada a formar profesionales capaces de adaptarse a los cambios acelerados del entorno tecnológico y comunicacional actual, combinando conocimientos de las humanidades, las ciencias sociales y las prácticas creativas, con una sólida formación científica y tecnológica en el campo de la ingeniería, la comunicación y la información. La licenciatura dura cuatro años y se organi"
-startDate: ""
-applicationDeadline: ""
-credits: 360
+description: "Licenciatura en Ingeniería de Medios de 4 años (360 créditos), carrera compartida entre la FIC e Ingeniería. Combina humanidades, ciencias sociales y creatividad con sólida formación científica y tecnológica en ingeniería, comunicación e información."
 tags:
   - ingenieria
   - multimedia
   - tecnologia
   - comunicacion-digital
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://fic.edu.uy/futuros-estudiantes'
   - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-ingenieria-de-medios'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://fic.edu.uy/futuros-estudiantes'
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-ingenieria-de-medios"
+  - label: "Página oficial"
+    url: "https://fic.edu.uy/futuros-estudiantes"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-Se trata de una propuesta orientada a formar profesionales capaces de adaptarse a los cambios acelerados del entorno tecnológico y comunicacional actual, combinando conocimientos de las humanidades, las ciencias sociales y las prácticas creativas, con una sólida formación científica y tecnológica en el campo de la ingeniería, la comunicación y la información. La licenciatura dura cuatro años y se organiza en áreas de estudio dentro de tres grupos: Ingeniería. Información,comunicación y medios. Creatividad e innovación.
+Propuesta orientada a formar profesionales capaces de adaptarse a los cambios acelerados del entorno tecnológico y comunicacional, combinando humanidades, ciencias sociales y prácticas creativas con sólida formación científica y tecnológica.
+
+Dura cuatro años organizados en tres grupos de áreas: ingeniería; información, comunicación y medios; y creatividad e innovación. Los cursos, seminarios, talleres y pasantías se cursan en la FIC, Fing y otros servicios de Udelar.
+
+**Nota:** Carrera compartida entre la Facultad de Información y Comunicación y la Facultad de Ingeniería; la sede es la FIC.
 
 ## Ingreso
 
-### Información adicional
+### Requisitos de Ingreso
 
-La licenciatura dura cuatro años y se organiza en áreas de estudio dentro de tres grupos Ingeniería. Información,comunicación y medios. Creatividad e innovación. Las unidades curriculares (cursos,seminarios, talleres, pasantías) se cursan en la FIC,la Fing y en otros servicios de la Udelar u otras instituciones reconocidas. Para egresar es necesario completar un total de 360 créditos. Pueden postularse egresadas/os de bachillerato de cualquier orientación que tenga matemática en el último año, egresadas/os de bachilleratos tecnológicos, personas con estudios aprobados en la Udelar equivalente a 80 créditos o un año y egresadas/os de la Udelar.
+- Bachillerato de cualquier orientación con matemática en el último año, bachilleratos tecnológicos, 80 créditos o un año aprobados en Udelar, o egresados de Udelar.
+- Para egresar se requieren 360 créditos.

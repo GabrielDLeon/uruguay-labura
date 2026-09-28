@@ -2,7 +2,6 @@
 title: "Técnico en Gestión Turística y Hotelera"
 similar:
   - tecnico-en-gestion-y-administracion-de-empresas-ort
-  - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
   - licenciatura-binacional-en-turismo-udelar
   - gestion-de-empresas-de-tecnologias-de-la-informacion-maestria-udelar
   - sistema-de-informacion-de-las-organizaciones-y-gestion-de-empresas-de-tecnologias-de-la-informacion-especializacion-udelar

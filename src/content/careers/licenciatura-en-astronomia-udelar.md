@@ -12,23 +12,19 @@ institution: "udelar"
 degreeType: "licenciatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-astronomia"
 location: "Facultad de Ciencias"
-description: "Las personas que egresan de la Licenciatura en Astronomía tienen una sólida formación en física y matemática que les permite analizar y resolver problemas relativos a la naturaleza física y dinámica de los cuerpos celestes y sus relaciones con la Tierra, así como el origen y estructura del universo"
-startDate: ""
-applicationDeadline: ""
+description: "Las personas que egresan de la Licenciatura en Astronomía tienen una sólida formación en física y matemática para analizar y resolver problemas sobre la naturaleza física y dinámica de los cuerpos celestes, sus relaciones con la Tierra y el origen y la estructura del universo."
 credits: 360
 tags:
   - astronomia
   - astrofisica
   - fisica
   - cosmologia
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:

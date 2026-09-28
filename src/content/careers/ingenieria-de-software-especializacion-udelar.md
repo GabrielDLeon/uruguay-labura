@@ -12,28 +12,29 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
+duration: "1 año"
+credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=67"
 location: "Facultad de Ingeniería, Montevideo"
-description: "El objetivo fundamental que persigue el presente Plan de Estudio es la formación deEspecialistas en IS capacitándolos para analizar y resolver problemas en dicha área.Este Diploma de Especialización en IS se dirige a profesionales en informática, quedeseen especializarse en el área IS."
-startDate: ""
-applicationDeadline: "Facultad de Ingeniería"
+description: "El objetivo fundamental que persigue el presente Plan de Estudio es la formación de Especialistas en IS capacitándolos para analizar y resolver problemas en dicha área. Este Diploma de Especialización en IS se dirige a profesionales en informática, que deseen especializarse en el área IS."
+contactEmail: "cpap@fing.edu.uy"
 tags:
   - ingenieria-de-software
   - software
   - informatica
   - programacion
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 18:45:00"
 sources:
   - label: 'Catálogo de Posgrados Udelar (CAP)'
     url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=67'
   - label: 'Ficha PDF'
     url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=67'
+  - label: 'Página de la carrera (CPAP-Fing)'
+    url: 'https://www.fing.edu.uy/cpap/carreras/especializacion-en-ingenieria-de-software'
 ---
 
 ## Resumen
@@ -44,28 +45,27 @@ El objetivo fundamental que persigue el presente Plan de Estudio es la formació
 
 ### Perfil de egreso
 
-El egresado adquirirá la capacidad de aplicar con profundidad y solvencia en su actividad profesional los temas de estudio incluidos en el Diploma; asimismo, adquirirá los elementos metodológicos que junto con la capacidad de abordar bibliografía especializada, le permitan comprender y emplear las nuevas tecnologías para la resolución de problemas relativos a la IS en su actividad profesional. Entre otros el egresado tendrá la capacidad para: Dominar las áreas fundamentales de la IS. Ser capaz de tomar decisiones éticas y practicar un comportamiento ético profesional. Entender la relación entre IS e Ingeniería de Sistemas y ser capaz de aplicar principios y prácticas de la Ingeniería de Sistemas en la IS. Ser un integrante efectivo de un equipo, incluyendo equipos que están geográficamente distribuidos, pudiendo liderar un área del desarrollo o mantenimiento de software. Para esto, también tendrá la capacidad de comunicarse correctamente tanto de forma oral como escrita. Ser capaz de conciliar objetivos conflictivos de un proyecto, encontrando compromisos aceptables dentro de las limitaciones de costo, tiempo, conocimiento, sistemas existentes y organizaciones. Entender y valorar el análisis de factibilidad, la negociación y las buenas comunicaciones con los stakeholders de un ambiente de desarrollo de software típico. Ser capaz de realizar estas tareas de forma correcta, tener hábitos efectivos de trabajo y ser un líder. Aprender nuevos modelos, técnicas y tecnologías cuando estas emergen, y apreciar la necesidad de ese desarrollo profesional continuo. Analizar tecnologías de software actuales, articular sus fuerzas y debilidades, compararlas con tecnologías alternativas y especificar y promover mejoras o extensiones a esas tecnologías.
+El egresado adquirirá la capacidad de aplicar con profundidad y solvencia en su actividad profesional los temas de estudio incluidos en el Diploma; asimismo, adquirirá los elementos metodológicos que junto con la capacidad de abordar bibliografía especializada, le permitan comprender y emplear las nuevas tecnologías para la resolución de problemas relativos a la IS en su actividad profesional. Entre otros el egresado tendrá la capacidad para: Dominar las áreas fundamentales de la IS. Ser capaz de tomar decisiones éticas y practicar un comportamiento ético profesional. Entender la relación entre IS e Ingeniería de Sistemas y ser capaz de aplicar principios y prácticas de la Ingeniería de Sistemas en la IS. Ser un integrante efectivo de un equipo, incluyendo equipos que están geográficamente distribuidos, pudiendo liderar un área del desarrollo o mantenimiento de software. Para esto, también tendrá la capacidad de comunicarse correctamente tanto de forma oral como escrita. Ser capaz de conciliar objetivos conflictivos de un proyecto, encontrando compromisos aceptables dentro de las limitaciones de costo, tiempo, conocimiento, sistemas existentes y organizaciones. Entender y valorar el análisis de factibilidad, la negociación y las buenas comunicaciones con los stakeholders de un ambiente de desarrollo de software típico.
 
-### Referentes académicos
+### Datos del programa
 
-Diego Vallespir dvallesp@fing.edu.uy Instituto de Computación
+- **Título otorgado:** Especialista en Ingeniería de Software
+- **Plan de estudios:** 2021
+- **Duración:** 1 año (12 meses)
+- **Créditos:** 60 (60 de cursos)
+- **Tesis:** No
+- **Postulación:** Continua, sin fecha de cierre (inscripción en curso según CAP)
+- **Costo:** Arancelada (Monto para estudiantes con nacionalidad uruguaya: $U 300.000 Monto para estudiantes sin nacionalidad uruguaya: $U 300.000)
+- **Ficha CAP actualizada:** 19/03/2026
 
 ## Ingreso
 
-### Reglamento
-
-Se requiere el 80% de asistencia para la aprobación de los cursos y un mínimo de 3 en la escala de calificaciones y un máximo de 12. Estructura de gobierno que rige el posgrado: -Director de Instituto. Pro Director de Posgrados Scapa Informática. Referentes de carreras de posgrado.
-
-### Requisitos de Ingreso
+### Requisitos de ingreso
 
 Podrán ingresar al Diploma de Especialización en Ingeniería de Software quienes cumplan con al menos una de las siguientes condiciones: Condición 1: Contar con un título de grado, en informática, otorgado por la Universidad de la República de al menos 360 créditos. Ejemplo: título de Ingeniero en Computación, Condición 2: Haber realizado otros estudios que, a juicio de la Comisión de Postgrado, acrediten una formación que permita la realización y aprovechamiento del Plan de Estudios del Diploma de Especialización en Ingeniería de Software. En este caso, la SCAPA-Informática podrá proponer la realización de cursos de nivelación en caso de ser necesario.
 
-## Plan de Estudio
+### Inscripción y contacto
 
-### Programa
-
-Materias: Ética y conducta profesional Ingeniería de sistemas Ingeniería de requisitos Diseño de software Construcción de software Pruebas (testing) Mantenimiento de software Gestión de la configuración Gestión de la ingeniería de software Procesos de ingeniería de software Calidad de software
-
-### Unidades curriculares
-
-Arquitectura de Software Costos para Ingeniería de Software Evolución de software Experimentando con métodos ágiles de software Ingeniería de Requisitos Liderando equipos de desarrollo de software Pruebas en el proceso de desarrollo de software Relaciones Personales en Ingeniería del Software Taller de Planificación y seguimiento de proyectos de software Taller de Testing de Performance Técnicas de calidad de software para proyectos ágiles y tradicionales Técnicas y Gestión de las Pruebas de Software
+Inscripción: Facultad de Ingeniería.
+Contacto: cpap@fing.edu.uy.
+La inscripción se encuentra en curso, sin fecha de cierre (verificado en CAP).

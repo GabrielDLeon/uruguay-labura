@@ -10,18 +10,14 @@ similar:
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
-area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
+area: "Social y Artística"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/licenciatura-en-lenguajes-y-medios-audiovisuales"
 location: "Maldonado"
 description: "Se procurará que sus egresados obtengan a lo largo de la carrera: - Conocimiento de las diferentes etapas que involucra una producción audiovisual en sus diversas manifestaciones, con especial interés en cinematografía, videojuegos y animación, que le permitan abordar diferentes emprendimientos en el campo audiovisual con profundidad y solvencia creativa, técnica y humana."
-startDate: ""
-applicationDeadline: ""
 credits: 360
 tags:
   - audiovisual
@@ -29,9 +25,9 @@ tags:
   - animacion
   - videojuegos
   - produccion-audiovisual
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-lenguajes-y-medios-audiovisuales/'

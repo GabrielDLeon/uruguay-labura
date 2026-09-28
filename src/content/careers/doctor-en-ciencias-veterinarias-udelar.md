@@ -12,16 +12,12 @@ institution: "udelar"
 degreeType: "carrera"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
 website: "https://udelar.edu.uy/carrera/doctor-en-ciencias-veterinarias"
 location: "Facultad de Veterinaria; Paysandú; Salto"
 description: "Los y las profesionales veterinarios/as brindan servicios esenciales para la economía nacional, como son el fomento de la producción, la vigilancia de los alimentos de origen animal en salvaguardia de la salud pública, así como el cuidado de los animales domésticos y de compañía."
-startDate: ""
-applicationDeadline: ""
 credits: 453
 tags:
   - veterinaria
@@ -29,9 +25,9 @@ tags:
   - bienestar-animal
   - produccion-animal
   - inocuidad-alimentaria
-draft: true
+draft: false
 createdAt: "2026-07-31 16:58:06"
-updatedAt: "2026-08-07 12:21:06"
+updatedAt: "2026-09-28 12:00:00"
 sources:
   - label: 'Página oficial'
     url: 'https://www.fvet.edu.uy/ensenanza/grado/medico-veterinario-a/'
