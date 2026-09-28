@@ -12,13 +12,11 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Diseño"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/tecnico-en-diseno-grafico/"
-location: "Montevideo, Punta del Este, Colonia"
+location: "Montevideo"
 description: "Técnico en Diseño Gráfico de la UDE. Formación técnica de 2 años para desempeñarse en estudios de gráfica, agencias de publicidad, departamentos de marketing e imprentas, con rápida inserción laboral."
 tags:
   - diseno
@@ -26,9 +24,9 @@ tags:
   - comunicacion-visual
   - publicidad
   - marketing
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/tecnico-en-diseno-grafico/"

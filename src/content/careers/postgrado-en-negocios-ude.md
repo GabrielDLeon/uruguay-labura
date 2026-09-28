@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "especializacion"
 area: "Administración y Negocios"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - estrategia-de-negocios
   - gestion-empresarial
   - gestion-comercial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultades-de-ciencias-empresariales/postgrado-en-negocios/"

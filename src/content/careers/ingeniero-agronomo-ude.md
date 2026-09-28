@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "ingenieria"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,14 +24,16 @@ tags:
   - agropecuario
   - sostenibilidad
   - desarrollo-sostenible
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/ingeniero-agronomo/"
   - label: "Facultad de Ciencias Agrarias"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen
@@ -63,7 +63,7 @@ Al aprobar la totalidad de la carrera se obtiene el título de Ingeniero Agróno
 
 ### Duración y Horarios
 
-La carrera tiene una duración de 5 años (3.600 horas, organizadas en 10 semestres). Se dicta en la sede de la Facultad de Ciencias Agrarias en Montevideo, con horario matutino de lunes a viernes de 08:00 a 12:30 y turno vespertino de 17:00 a 21:30. El próximo comienzo está previsto para el 10 de marzo de 2026.
+La carrera tiene una duración de 5 años (3.600 horas, organizadas en 10 semestres). Se dicta en la sede de la Facultad de Ciencias Agrarias en Montevideo, con horario matutino de lunes a viernes de 08:00 a 12:30 y turno vespertino de 17:00 a 21:30.
 
 ### Salida Laboral
 

@@ -2,7 +2,7 @@
 title: "Licenciatura en Educación Física"
 similar:
   - licenciatura-en-educacion-fisica-udelar
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - educacion-fisica-maestria-udelar
   - tecnicatura-en-educacion-y-recreacion-ucu
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar

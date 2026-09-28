@@ -3,7 +3,7 @@ title: "Tecnicatura en Educación y Recreación"
 similar:
   - licenciatura-en-recreacion-educativa-ucu
   - licenciatura-en-educacion-ucu
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - licenciatura-en-educacion-inicial-ucu

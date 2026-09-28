@@ -2,7 +2,7 @@
 title: "Licenciatura en Recreación Educativa"
 similar:
   - tecnicatura-en-educacion-y-recreacion-ucu
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - maestria-en-liderazgo-y-gestion-educativa-ucu
   - licenciatura-en-educacion-ucu
   - licenciatura-en-educacion-fisica-rivera-udelar

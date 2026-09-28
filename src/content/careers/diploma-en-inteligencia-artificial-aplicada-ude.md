@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "126 horas"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +25,9 @@ tags:
   - computacion-en-la-nube
   - devops
   - metodologias-agiles
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/facultad-de-ingenieria/diploma-en-inteligencia-artificial-aplicada/'

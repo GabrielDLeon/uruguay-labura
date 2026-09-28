@@ -12,24 +12,21 @@ institution: "ude"
 degreeType: "doctorado"
 area: "Educación"
 modality: "hibrido"
-shift: "both"
 weeklyHours: "30 horas semanales"
 duration: "36 a 60 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/doctorado-en-educacion/"
 location: "Montevideo"
-startDate: ""
-applicationDeadline: ""
 description: "Doctorado en Educación de la UDE, un postgrado académico de naturaleza internacional con énfasis en la investigación, que forma investigadores de nivel avanzado capaces de producir estudios originales y relevantes para los sistemas educativos del país y la región."
 tags:
   - educacion
   - investigacion-educativa
   - formacion-docente
   - pedagogia
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/doctorado-en-educacion/"

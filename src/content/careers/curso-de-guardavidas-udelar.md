@@ -3,7 +3,7 @@ title: "Curso de Guardavidas"
 similar:
   - diplomado-en-fisioterapia-en-el-deporte-ude
   - tecnicatura-en-deportes-udelar
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - educacion-fisica-maestria-udelar
   - licenciatura-en-educacion-fisica-rivera-udelar

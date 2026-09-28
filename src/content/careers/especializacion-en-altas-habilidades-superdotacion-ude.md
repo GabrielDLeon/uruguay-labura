@@ -10,24 +10,20 @@ institution: "ude"
 degreeType: "especializacion"
 area: "Educación"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/especializacion-en-altas-habilidades-superdotacion/"
 location: "Montevideo"
-startDate: ""
-applicationDeadline: ""
 description: "Especialización pionera en Uruguay que forma profesionales e investigadores capaces de identificar, valorar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), en los ámbitos educativos públicos y privados."
 tags:
   - educacion
   - altas-habilidades
   - educacion-inclusiva
   - educacion-especial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/especializacion-en-altas-habilidades-superdotacion/"
@@ -61,7 +57,7 @@ Se espera que el estudiante haya desarrollado las siguientes competencias:
 
 ### Docentes
 
-El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores, nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la Especialización es la Dra. Susana Pérez Barrera (sperezbarrera@ude.edu.uy).
+El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores, nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la Especialización es la Dra. Susana Pérez Barrera.
 
 ### Modalidad
 

@@ -12,15 +12,12 @@ institution: "ude"
 degreeType: "maestria"
 area: "Educación"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "3 años (2 de cursada y 1 de tesis)"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-academica-en-altas-habilidades-superdotacion/"
 location: "Montevideo"
-startDate: ""
-applicationDeadline: ""
+accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría stricto sensu de la UDE que forma profesionales e investigadores con conocimientos sólidos sobre Altas Habilidades/Superdotación (AH/SD), capaces de identificar, atender e investigar a esta población en el país y la región."
 tags:
   - educacion
@@ -28,14 +25,16 @@ tags:
   - educacion-inclusiva
   - educacion-especial
   - investigacion-educativa
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-academica-en-altas-habilidades-superdotacion/"
   - label: "Facultad de Ciencias de la Educación"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen
@@ -56,7 +55,7 @@ Se espera que el estudiante desarrolle competencias tales como: conocer las base
 
 ### Docentes
 
-El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la maestría es la Dra. Susana Pérez Barrera (sperezbarrera@ude.edu.uy).
+El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la maestría es la Dra. Susana Pérez Barrera.
 
 ### Modalidad
 

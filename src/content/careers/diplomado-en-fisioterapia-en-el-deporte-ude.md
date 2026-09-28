@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "diplomado"
 area: "Ciencias de la Salud"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "3 meses"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +23,9 @@ tags:
   - deporte
   - rehabilitacion
   - medicina-deportiva
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-en-fisioterapia-en-el-deporte/"
@@ -57,7 +55,7 @@ La modalidad es híbrida: combina instancias presenciales y virtuales.
 
 ### Duración y Horarios
 
-El programa tiene una duración de 3 meses, con inicio el 14 de setiembre de 2026 y finalización el 12 de diciembre de 2026.
+El programa tiene una duración de 3 meses (última cohorte publicada: setiembre–diciembre de 2026). Consultar próxima convocatoria.
 
 ### Metodología
 

@@ -3,7 +3,7 @@ title: "Maestría en Educación Física"
 similar:
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - medicina-del-deporte-especializacion-udelar

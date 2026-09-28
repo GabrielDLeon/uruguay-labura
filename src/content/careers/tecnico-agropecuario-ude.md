@@ -12,13 +12,11 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/tecnico-agropecuario/"
-location: "Montevideo"
+location: "Montevideo, Canelones"
 description: "Carrera técnica semipresencial orientada a formar técnicos capaces de trabajar en actividades productivas y de contribuir a la gestión de las empresas agropecuarias."
 tags:
   - agropecuario
@@ -26,9 +24,9 @@ tags:
   - produccion-vegetal
   - agronegocios
   - gestion-empresarial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/tecnico-agropecuario/"

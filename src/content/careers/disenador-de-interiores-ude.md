@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "diplomado"
 area: "Diseño"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelada"
 language: "Español"
@@ -24,9 +22,9 @@ tags:
   - diseno
   - interiorismo
   - diseno-de-interiores
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/disenador-de-interiores/"
@@ -64,7 +62,7 @@ El equipo docente está integrado por un calificado grupo de profesionales: arqu
 
 Duración total de 1 año: 2 Unidades de Diseño de 45 horas en formato taller, más 6 módulos de apoyo de 30 o 45 horas cada uno. Cada semestre completa 165 horas distribuidas en 15 semanas; la duración total del programa es de 330 horas.
 
-La aprobación se logra mediante las modalidades de evaluación determinadas en cada caso: entrega de Taller o prueba de los módulos de apoyo. Inicio en agosto de 2026.
+La aprobación se logra mediante las modalidades de evaluación determinadas en cada caso: entrega de Taller o prueba de los módulos de apoyo. Consultar próxima convocatoria.
 
 ## Ingreso
 

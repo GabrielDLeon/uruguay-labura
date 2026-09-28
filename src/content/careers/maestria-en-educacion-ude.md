@@ -12,7 +12,6 @@ institution: "ude"
 degreeType: "maestria"
 area: "Educación"
 modality: "hibrido"
-shift: "both"
 weeklyHours: "25 horas semanales"
 duration: "24 a 30 meses"
 cost: "Arancelada"
@@ -20,22 +19,22 @@ language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-en-educacion/"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-startDate: ""
-applicationDeadline: ""
 description: "Maestría en Educación de la UDE, un postgrado académico de naturaleza internacional con énfasis en la investigación, orientado a fortalecer las competencias de docentes y gestores educativos frente a las nuevas demandas de los sistemas educativos regionales."
 tags:
   - educacion
   - investigacion-educativa
   - gestion-educativa
   - formacion-docente
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-en-educacion/"
   - label: "Facultad de Ciencias de la Educación"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen

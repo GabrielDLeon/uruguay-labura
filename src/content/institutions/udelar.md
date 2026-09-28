@@ -15,17 +15,10 @@ departments:
   - "Montevideo"
   - "Salto"
   - "Paysandú"
-  - "Artigas"
-  - "Río Negro"
   - "Rivera"
   - "Tacuarembó"
-  - "Cerro Largo"
   - "Maldonado"
   - "Rocha"
-  - "Treinta y Tres"
-  - "Lavalleja"
-  - "Colonia"
-  - "Soriano"
 campuses:
   - name: "Rectorado (Edificio Central)"
     location: "Montevideo"
@@ -90,42 +83,27 @@ campuses:
   - name: "Cenur Litoral Norte – Sede Paysandú"
     location: "Paysandú"
     address: "Florida 1065, Paysandú"
-  - name: "Casa Universitaria de Artigas"
-    location: "Artigas"
-    address: "Aparicio Saravia 492, Artigas"
-  - name: "Casa Universitaria de Río Negro"
-    location: "Río Negro"
-    address: "Barrio Anglo, Rambla Dr. Andrés Montaño y Míster Bateson (Portón 1), Fray Bentos"
   - name: "Cenur Noreste – Sede Rivera"
     location: "Rivera"
     address: "Ituzaingó 667, Rivera"
   - name: "Cenur Noreste – Sede Tacuarembó"
     location: "Tacuarembó"
     address: "Ruta 5 km 386,5, Tacuarembó"
-  - name: "Cenur Noreste – Sede Cerro Largo"
-    location: "Cerro Largo"
-    address: "Luis Alberto de Herrera 639, Melo"
   - name: "CURE – Sede Maldonado"
     location: "Maldonado"
     address: "Av. Cachimba del Rey entre Bvar. Artigas y Av. Aparicio Saravia, Maldonado"
   - name: "CURE – Sede Rocha"
     location: "Rocha"
     address: "Ruta 9 intersección con Ruta 15, Rocha"
-  - name: "CURE – Sede Treinta y Tres"
-    location: "Treinta y Tres"
-    address: "Ruta 8 km 282, Treinta y Tres"
-  - name: "CURE – Sede Lavalleja"
-    location: "Lavalleja"
-    address: "Juan José Morosoli y Pierina Monasterolo s/n, Minas"
 description: "Principal institución pública y gratuita de educación superior e investigación de Uruguay."
 founded: 1849
 isActive: true
 createdAt: "2026-05-14 20:08:25"
-updatedAt: "2026-09-14 00:00:00"
+updatedAt: "2026-09-15 00:00:00"
 ---
 
 La Universidad de la República (UDELAR) es la universidad más antigua y grande de Uruguay. Es una institución pública y gratuita que atiende a la mayoría de los estudiantes de educación superior del país.
 
-La UDELAR está organizada en múltiples facultades y escuelas repartidas entre Montevideo y el interior del país, a través de los Cenur Litoral Norte, Noreste y Este. Ofrece una amplia gama de carreras de grado y posgrado en todas las áreas del conocimiento: derecho, medicina, ingeniería, humanidades, ciencias, economía, arquitectura, ciencias sociales y más.
+La UDELAR está organizada en múltiples facultades y escuelas repartidas entre Montevideo y el interior del país, con presencia consolidada en 6 sedes regionales (Salto, Paysandú, Rivera, Tacuarembó, Maldonado y Rocha) a través de los Cenur Litoral Norte, Noreste y Este. Ofrece una amplia gama de carreras de grado y posgrado en todas las áreas del conocimiento: derecho, medicina, ingeniería, humanidades, ciencias, economía, arquitectura, ciencias sociales y más.
 
 Como universidad pública, la UDELAR cumple un rol central en la producción de investigación y el desarrollo cultural de Uruguay. Es financiada por el Estado y ofrece educación gratuita con ingreso abierto.

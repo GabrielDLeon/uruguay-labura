@@ -12,22 +12,20 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "virtual"
-shift: "night"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/tecnico-forestal/"
-location: "Campus Virtual"
+location: "Campus Virtual, Canelones, Tacuarembó, Durazno (prácticas a campo)"
 description: "Carrera técnica del Campus Virtual orientada a formar técnicos capaces de organizar y dirigir la producción forestal con criterios de sostenibilidad, con instancias prácticas a campo y giras."
 tags:
   - forestal
   - silvicultura
   - produccion-forestal
   - sostenibilidad
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/tecnico-forestal/"

@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "licenciatura"
 area: "Diseño"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,14 +24,16 @@ tags:
   - diseno-industrial
   - diseno-de-productos
   - innovacion
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/licenciatura-en-diseno-industrial/"
   - label: "Facultad de Diseño y Comunicación"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen

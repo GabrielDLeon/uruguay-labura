@@ -2,7 +2,7 @@
 title: "Maestría en Psicología de la Salud y Deporte"
 similar:
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - medicina-del-deporte-especializacion-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
   - licenciatura-en-educacion-fisica-rivera-udelar

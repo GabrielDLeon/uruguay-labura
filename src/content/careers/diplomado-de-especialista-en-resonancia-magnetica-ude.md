@@ -12,22 +12,19 @@ institution: "ude"
 degreeType: "diplomado"
 area: "Ciencias de la Salud"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-de-especialista-en-resonancia-magnetica/"
-location: "Montevideo"
 description: "Diplomado virtual de la UDE que forma especialistas en Resonancia Magnética (MRI), desarrollando la capacidad del Licenciado en Imagenología para aplicar las técnicas, protocolos y procesamiento de la imagen por resonancia."
 tags:
   - imagenologia
   - resonancia-magnetica
   - diagnostico-por-imagenes
   - salud
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-de-especialista-en-resonancia-magnetica/"

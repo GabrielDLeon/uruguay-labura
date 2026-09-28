@@ -12,26 +12,27 @@ institution: "ude"
 degreeType: "maestria"
 area: "Sostenibilidad ambiental"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-gestion-ambiental/"
 location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Gestión Ambiental de la Universidad de la Empresa, con un enfoque aplicado a la gestión, la toma de decisiones y la solución de problemas ambientales concretos, con perfiles académico y profesional."
 tags:
   - medio-ambiente
   - gestion-ambiental
   - sostenibilidad
   - toma-de-decisiones
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
-    url: "https://ude.edu.uy/facaltades-de-ciencias-empresariales/maestria-en-gestion-ambiental/"
+    url: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-gestion-ambiental/"
   - label: "Universidad de la Empresa"
     url: "https://ude.edu.uy/facultades-de-ciencias-empresariales/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen

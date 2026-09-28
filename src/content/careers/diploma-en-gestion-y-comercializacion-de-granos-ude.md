@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "diplomado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/diploma-en-gestion-y-comercializacion-de-granos/"
@@ -24,9 +22,9 @@ tags:
   - granos
   - comercializacion
   - estrategia-comercial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/diploma-en-gestion-y-comercializacion-de-granos/"

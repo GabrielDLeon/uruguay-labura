@@ -12,16 +12,12 @@ institution: "ude"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/licenciatura-en-educacion-fisica-deportes-y-recreacion/"
-location: "Montevideo y Punta del Este"
+location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
-startDate: ""
-applicationDeadline: ""
 description: "Licenciatura de la UDE que forma profesionales universitarios con conocimientos pedagógicos y técnicos para la promoción de la actividad física, el deporte y las acciones recreativas, desde una perspectiva que atiende a personas y grupos sociales diversos."
 tags:
   - educacion-fisica
@@ -29,14 +25,16 @@ tags:
   - recreacion
   - actividad-fisica
   - educacion
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/licenciatura-en-educacion-fisica-deportes-y-recreacion/"
   - label: "Facultad de Ciencias de la Educación"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen

@@ -11,14 +11,13 @@ institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "maestria"
 area: "Administración y Negocios"
-modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
+modality: "hibrido"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-direccion-y-administracion-de-empresas/"
 location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Dirección y Administración de Empresas de la Universidad de la Empresa. Proporciona una visión global de todos los departamentos de una empresa y desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de gestión en las organizaciones."
 tags:
   - administracion
@@ -27,14 +26,16 @@ tags:
   - estrategia-de-negocios
   - toma-de-decisiones
   - gestion-empresarial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-direccion-y-administracion-de-empresas/"
   - label: "Facultad de Ciencias Empresariales"
     url: "https://ude.edu.uy/facultades-de-ciencias-empresariales/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen
@@ -53,7 +54,7 @@ Clases virtuales con apoyo en la plataforma virtual de la Universidad de la Empr
 
 ### Duración y Horarios
 
-El programa se desarrolla en dos años. Las clases virtuales se dictan los viernes de 19:00 a 22:00 y los sábados de 9:00 a 13:00.
+El programa se desarrolla en dos años. Las clases virtuales se dictan los viernes de 18:30 a 21:30 y los sábados de 9:00 a 12:00.
 
 ## Ingreso
 

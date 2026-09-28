@@ -1,7 +1,7 @@
 ---
 title: "Especialización en Medicina del Deporte"
 similar:
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - diplomado-en-fisioterapia-en-el-deporte-ude
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar

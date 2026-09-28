@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-shift: "night"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +23,9 @@ tags:
   - salud-animal
   - medicina-veterinaria-preventiva
   - produccion-animal
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/tecnico-en-ciencias-veterinarias/"

@@ -12,13 +12,11 @@ institution: "ude"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-juridicas/maestria-en-ciencias-criminologico-forenses/"
 location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Ciencias Criminológico-Forenses de la Universidad de la Empresa (UDE). Forma especialistas en la comprensión, evaluación y abordaje de la realidad delictiva uruguaya desde una perspectiva criminológica, clínica y forense."
 tags:
   - criminologia
@@ -27,14 +25,16 @@ tags:
   - psicologia-forense
   - medicina-legal
   - derecho-penal
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-juridicas/maestria-en-ciencias-criminologico-forenses/"
   - label: "Facultad de Ciencias Jurídicas"
     url: "https://ude.edu.uy/facultad-de-ciencias-juridicas/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen

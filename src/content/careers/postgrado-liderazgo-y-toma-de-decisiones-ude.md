@@ -12,9 +12,7 @@ institution: "ude"
 degreeType: "especializacion"
 area: "Administración y Negocios"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
+duration: "200 horas"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/escuela-desarrollo-empresarial/postgrado-liderazgo-y-toma-de-decisiones/"
@@ -26,9 +24,9 @@ tags:
   - inteligencia-emocional
   - habilidades-gerenciales
   - gestion-de-personas
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/escuela-desarrollo-empresarial/postgrado-liderazgo-y-toma-de-decisiones/'

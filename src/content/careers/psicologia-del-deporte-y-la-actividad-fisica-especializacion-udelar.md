@@ -2,7 +2,7 @@
 title: "Especialización en Psicología del Deporte y la Actividad Física"
 similar:
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - medicina-del-deporte-especializacion-udelar
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar

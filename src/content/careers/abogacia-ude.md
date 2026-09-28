@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "carrera"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
@@ -24,14 +22,16 @@ tags:
   - derecho
   - ciencias-juridicas
   - asesoramiento-empresarial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-juridicas/abogacia/"
   - label: "Facultad de Ciencias Jurídicas"
     url: "https://ude.edu.uy/facultad-de-ciencias-juridicas/"
+  - label: "Noticia oficial UDE (Abogacia en Punta del Este)"
+    url: "https://ude.edu.uy/abogacia-y-notariado-punta-del-este/"
 ---
 
 ## Resumen

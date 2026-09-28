@@ -11,9 +11,7 @@ institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "tecnicatura"
 area: "Tecnologías de la Información"
-modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+modality: "hibrido"
 duration: "3 años"
 cost: "Arancelada"
 language: "Español"
@@ -24,9 +22,9 @@ tags:
   - informatica
   - software
   - programacion
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/facultad-de-ingenieria/tecnico-en-informatica/'

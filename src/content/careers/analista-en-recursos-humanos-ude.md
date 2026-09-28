@@ -12,13 +12,11 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-recursos-humanos/"
-location: "Montevideo"
+location: "Montevideo, Campus Virtual"
 description: "La carrera de Analista en Recursos Humanos forma en un año graduados capacitados para desempeñarse a nivel operativo en la incorporación de personas, la capacitación, la administración de remuneraciones y la gestión del talento."
 tags:
   - recursos-humanos
@@ -26,9 +24,9 @@ tags:
   - seleccion-de-personal
   - capacitacion-laboral
   - compensaciones
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-recursos-humanos/'

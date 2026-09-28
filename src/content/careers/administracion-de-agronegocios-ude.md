@@ -9,11 +9,9 @@ similar:
   - analista-en-gestion-logistica-y-cadenas-de-suministro-ort
 institutionName: "Universidad de la Empresa"
 institution: "ude"
-degreeType: "especializacion"
+degreeType: "diplomado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "150 horas"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - administracion-de-agronegocios
   - commodities
   - cadena-de-suministros
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/administracion-de-agronegocios/"

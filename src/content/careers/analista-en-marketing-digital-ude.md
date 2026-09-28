@@ -12,22 +12,19 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-marketing-digital/"
-location: "Montevideo"
+location: "Montevideo, Campus Virtual"
 description: "La carrera de Analista en Marketing Digital ofrece una visión práctica de las herramientas digitales para planificar acciones de marketing online enmarcadas en la estrategia global de la empresa."
 tags:
   - marketing
   - marketing-digital
   - redes-sociales
   - comercio-electronico
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-marketing-digital/'

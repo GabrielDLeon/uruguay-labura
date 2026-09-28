@@ -4,7 +4,7 @@ similar:
   - licenciatura-en-educacion-fisica-rivera-udelar
   - licenciatura-en-educacion-fisica-udelar
   - diplomado-en-fisioterapia-en-el-deporte-ude
-  - licenciatura-en-educacion-fisica-deporte-y-recreacion-ude
+  - licenciatura-en-educacion-fisica-deportes-y-recreacion-ude
   - maestria-en-psicologia-de-la-salud-y-deporte-ucu
   - psicologia-del-deporte-y-la-actividad-fisica-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Diseño"
 modality: "hibrido"
-shift: "day"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +23,9 @@ tags:
   - diseno-de-moda
   - indumentaria
   - moda
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/tecnicatura-en-diseno-de-indumentaria/"

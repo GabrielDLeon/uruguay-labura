@@ -12,13 +12,11 @@ institution: "ude"
 degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "1 año"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-marketing-y-direccion-comercial/"
 location: "Montevideo"
+accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría en Marketing y Dirección Comercial de la Universidad de la Empresa. Desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de marketing integral y la búsqueda de ventajas competitivas desde la dirección comercial."
 tags:
   - marketing
@@ -26,14 +24,16 @@ tags:
   - estrategia-comercial
   - marketing-digital
   - gestion-comercial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-marketing-y-direccion-comercial/"
   - label: "Facultad de Ciencias Empresariales"
     url: "https://ude.edu.uy/facultades-de-ciencias-empresariales/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen

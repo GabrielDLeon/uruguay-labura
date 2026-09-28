@@ -11,22 +11,19 @@ institution: "ude"
 degreeType: "diplomado"
 area: "Ciencias de la Salud"
 modality: "virtual"
-shift: "night"
-weeklyHours: "No especificado"
 duration: "4 meses, 200 horas"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-tomografia-computada-multicorte/"
-location: "Montevideo"
 description: "Diplomado virtual de Tomografía Computada Multicorte (TCMC) de la UDE, que forma especialistas capaces de comprender las bases físicas del método, reconocer la imagen normal y patológica y obtener estudios complejos."
 tags:
   - tomografia-computada
   - imagenologia
   - radiologia
   - salud
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/diplomado-tomografia-computada-multicorte/"
@@ -59,7 +56,7 @@ La metodología combina una fuerte formación teórica con un gran énfasis en l
 
 ### Duración y Horarios
 
-El programa tiene una duración de 4 meses (200 horas). El inicio está previsto para el viernes 3 de julio de 2026 con una clase introductoria, en el régimen de lunes y jueves de 20:00 a 22:30 horas, con clases 2 veces por semana.
+El programa tiene una duración de 4 meses (200 horas). Clases 2 veces por semana, a coordinar. Consultar próxima convocatoria.
 
 ## Ingreso
 

@@ -1,5 +1,5 @@
 ---
-title: "Postgrado Ejecutivo Experto en Dirección de Personas"
+title: "Postgrado Ejecutivo Experto en Dirección del Capital Humano"
 similar:
   - postgrado-ejecutivo-experto-en-habilidades-gerenciales-ude
   - postgrado-liderazgo-y-toma-de-decisiones-ude
@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "especializacion"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "night"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - liderazgo
   - cultura-organizacional
   - habilidades-gerenciales
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/escuela-desarrollo-empresarial/postgrado-ejecutivo-experto-en-direccion-de-personas/'

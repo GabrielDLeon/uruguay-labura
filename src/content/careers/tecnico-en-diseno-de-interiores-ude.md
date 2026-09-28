@@ -12,22 +12,20 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Diseño"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/tecnico-en-diseno-de-interiores/"
-location: "Montevideo, Punta del Este"
+location: "Montevideo"
 description: "Técnico en Diseño de Interiores de la UDE. Formación técnica de 2 años que combina las técnicas tradicionales del interiorismo con las tecnologías de la comunicación, con rápida inserción laboral."
 tags:
   - diseno
   - interiorismo
   - diseno-de-interiores
   - diseno-de-espacios
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/tecnico-en-diseno-de-interiores/"

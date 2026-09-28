@@ -12,15 +12,12 @@ institution: "ude"
 degreeType: "maestria"
 area: "Educación"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "3 años (2 de cursado y 1 de tesis o producto)"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-profesional-en-altas-habilidades-superdotacion/"
 location: "Montevideo"
-startDate: ""
-applicationDeadline: ""
+accreditation: "Ministerio de Educación y Cultura"
 description: "Maestría stricto sensu con perfil profesional que forma multiplicadores capaces de identificar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), con campos de actuación en instituciones educativas, públicas y privadas."
 tags:
   - educacion
@@ -28,14 +25,16 @@ tags:
   - educacion-inclusiva
   - educacion-especial
   - atencion-a-la-diversidad
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-profesional-en-altas-habilidades-superdotacion/"
   - label: "Facultad de Ciencias de la Educación"
     url: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/"
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen
@@ -58,7 +57,7 @@ Se espera que el estudiante desarrolle competencias como: dominar las bases epis
 
 ### Docentes
 
-El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la maestría es la Dra. Susana Pérez Barrera (sperezbarrera@ude.edu.uy).
+El programa cuenta con un equipo docente integrado por magísteres, doctores y posdoctores nacionales e internacionales, especializados en el área y con larga experiencia. La coordinadora de la maestría es la Dra. Susana Pérez Barrera.
 
 ### Modalidad
 
@@ -66,7 +65,7 @@ La maestría es una carrera stricto sensu con perfil profesional, cuya cursada s
 
 ### Duración y Horarios
 
-La Maestría tiene una duración de 3 años: 2 años de cursado y 1 año destinado a la elaboración de la tesis académica o del proyecto/producto de maestría profesional, totalizando 572 horas. De ellas, 480 horas corresponden al cursado en cuatro períodos, 62 horas a actividades académicas autónomas y 30 horas a la elaboración de la tesis o el producto.
+La Maestría tiene una duración de 3 años: 2 años de cursado y 1 año destinado a la elaboración de la tesis académica o del proyecto/producto de maestría profesional, totalizando 602 horas. De ellas, 480 horas corresponden al cursado en cuatro períodos, 92 horas a actividades académicas autónomas y 30 horas a la elaboración de la tesis o el producto.
 
 ## Ingreso
 
@@ -85,7 +84,7 @@ Para obtener el título de Magíster en Altas Habilidades/Superdotación, el est
 
 ### Estructura
 
-La malla curricular de la Maestría Profesional está compuesta por 4 asignaturas teórico-prácticas, 2 seminarios, 2 asignaturas metodológicas, 2 talleres y 62 horas de actividades académicas — que incluyen presentaciones en congresos, producción científica, simposios, defensas y participación en semillero — totalizando 572 horas con la elaboración de la tesis o del producto final.
+La malla curricular de la Maestría Profesional está compuesta por 4 asignaturas teórico-prácticas, 2 seminarios, 2 asignaturas metodológicas, 2 talleres y 92 horas de actividades académicas — que incluyen presentaciones en congresos, producción científica, simposios, defensas y participación en semillero — totalizando 602 horas con la elaboración de la tesis o del producto final.
 
 ### Trabajo final
 

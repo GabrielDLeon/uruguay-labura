@@ -9,11 +9,9 @@ similar:
   - agronomia-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
-degreeType: "especializacion"
+degreeType: "diplomado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "virtual"
-shift: "night"
-weeklyHours: "No especificado"
 duration: "70 horas"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - granos
   - comercializacion
   - gestion-comercial
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/gestion-y-comercializacion-de-commodities/"

@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "licenciatura"
 area: "Mecatrónica, Logística y Biomédica"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,14 +23,16 @@ tags:
   - logistica
   - cadena-de-suministros
   - transporte
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/facultad-de-ingenieria/licenciatura-en-logistica/'
   - label: 'Facultad de Ingeniería'
     url: 'https://ude.edu.uy/facultad-de-ingenieria/'
+  - label: "Registro MEC de carreras (PDF, feb 2026)"
+    url: "https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/2026-02/Universidades%20y%20Carreras_feb%202026.pdf"
 ---
 
 ## Resumen

@@ -1,5 +1,5 @@
 ---
-title: "Producción Animal"
+title: "Diploma en Producción Animal"
 similar:
   - produccion-animal-doctorado-udelar
   - produccion-animal-maestria-udelar
@@ -9,11 +9,9 @@ similar:
   - tecnologo-en-manejo-de-sistemas-de-produccion-lechera-utec
 institutionName: "Universidad de la Empresa"
 institution: "ude"
-degreeType: "especializacion"
+degreeType: "diplomado"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "120 horas"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - pasturas
   - ganaderia
   - carnes
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-ciencias-agrarias/produccion-animal/"

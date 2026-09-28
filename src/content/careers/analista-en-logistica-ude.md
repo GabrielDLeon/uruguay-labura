@@ -10,21 +10,19 @@ institution: "ude"
 degreeType: "tecnicatura"
 area: "Mecatrónica, Logística y Biomédica"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "3 semestres"
 cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ingenieria/analista-en-logistica/"
-location: "Montevideo"
+location: "Campus Virtual, Montevideo (evaluaciones en Pocitos)"
 description: "Carrera técnica virtual con instancias presenciales de evaluación que forma profesionales para la gestión logística y las cadenas de suministro."
 tags:
   - logistica
   - cadena-de-suministros
   - gestion-de-operaciones
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: 'Página oficial del programa'
     url: 'https://ude.edu.uy/facultad-de-ingenieria/analista-en-logistica/'

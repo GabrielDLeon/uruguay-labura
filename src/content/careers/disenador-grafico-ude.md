@@ -12,8 +12,6 @@ institution: "ude"
 degreeType: "diplomado"
 area: "Diseño"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelada"
 language: "Español"
@@ -24,9 +22,9 @@ tags:
   - diseno
   - diseno-grafico
   - comunicacion-visual
-draft: true
+draft: false
 createdAt: "2026-08-09 15:12:26"
-updatedAt: "2026-08-09 15:12:26"
+updatedAt: "2026-09-28 01:30:00"
 sources:
   - label: "Página oficial del programa"
     url: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/disenador-grafico/"
@@ -62,7 +60,7 @@ El equipo docente está integrado por un calificado grupo de profesionales, espe
 
 ### Duración y Horarios
 
-Duración de 1 año, con inicio en agosto de 2026. El programa está estructurado en 2 Unidades de Diseño de 90 horas en formato taller, más 4 módulos de apoyo de 30 o 45 horas cada uno, completando 165 horas por semestre distribuidas en 15 semanas. La aprobación se logra mediante la entrega del taller o la prueba de los módulos de apoyo.
+Duración de 1 año. Consultar próxima convocatoria. El programa está estructurado en 2 Unidades de Diseño de 90 horas en formato taller, más 4 módulos de apoyo de 30 o 45 horas cada uno, completando 165 horas por semestre distribuidas en 15 semanas. La aprobación se logra mediante la entrega del taller o la prueba de los módulos de apoyo.
 
 ## Ingreso
 
