@@ -18,12 +18,14 @@ weeklyHours: "No informada"
 cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-control-ambiental/"
-location: "Paysandú (ITR Suroeste), Durazno (ITR Centro-Sur)"
+location: "Paysandú"
 accreditation: "UTEC"
 description: "Tecnólogo en Control Ambiental de UTEC. Gestión y control ambiental en industrias y organismos públicos, con enfoque en sostenibilidad y cumplimiento normativo."
 sources:
   - label: "Ficha oficial UTEC"
     url: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-control-ambiental/"
+  - label: "Plan de estudios (PDF)"
+    url: "https://utec.edu.uy/uploads/plan/aeec4f696544445b3943f98b3bad0e9844316565.pdf"
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-27 22:30:00"
@@ -32,20 +34,29 @@ tags:
   - gestion-ambiental
   - sostenibilidad
   - normativa-ambiental
+duration: "1 año y medio"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-El Tecnólogo en Control Ambiental forma profesionales para la gestión y control ambiental en industrias y organismos públicos, enfocado en la sostenibilidad y el cumplimiento normativo.
+Carrera con ingreso restringido dictada en Paysandú en modalidad semipresencial, con una duración de 1 año y medio. Forma profesionales en gestión y control ambiental de industrias y organismos públicos, con enfoque analítico integral, normativa y sistemas de gestión. Sin preinscripciones hasta nuevo aviso.
 
 ### Becas
 
 Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
 
+### Perfil de egreso
+
+El egresado comprende interacciones bióticas y abióticas; promueve y controla variables ambientales con dimensión analítica integral; aplica normativa y sistemas de gestión ambientales; propone y busca soluciones ambientales.
+
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-El ingreso es restringido: está dirigido a egresados del Técnico en Control Ambiental de DGETP-UTU. Según UTEC, esta formación no abrirá preinscripciones hasta nuevo aviso. Consultá la página oficial de la carrera para conocer el proceso de postulación.
+Egresados del Técnico en Control Ambiental de DGETP/UTU (con entrevista y pruebas de conocimientos para definir unidades de nivelación) o estudiantes de ese técnico con solo la pasantía pendiente (a aprobar antes del fin del 2.º semestre). Vía alternativa: acreditación de saberes. Actualmente sin preinscripciones hasta nuevo aviso.
+
+## Plan de Estudio
+
+Ver el [plan de estudios (PDF)](https://utec.edu.uy/uploads/plan/aeec4f696544445b3943f98b3bad0e9844316565.pdf).

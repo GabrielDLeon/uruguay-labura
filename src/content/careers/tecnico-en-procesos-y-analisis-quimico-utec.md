@@ -18,13 +18,15 @@ weeklyHours: "No informada"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://utec.edu.uy/es/educacion/carreras/tecnico-en-procesos-y-analisis-quimico/"
-location: "Paysandú (ITR Suroeste)"
+website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-analisis-alimentario/"
+location: "Paysandú"
 accreditation: "UTEC"
 description: "Técnico en Procesos y Análisis Químico, título intermedio de la Licenciatura en Análisis Alimentario de UTEC. Análisis químicos y procesos en la industria alimentaria."
 sources:
   - label: "Ficha oficial UTEC"
     url: "https://utec.edu.uy/es/educacion/carreras/tecnico-en-procesos-y-analisis-quimico/"
+  - label: "Plan de carrera LAA"
+    url: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-analisis-alimentario/plan-de-carrera-laa/"
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-27 22:30:00"
@@ -34,23 +36,28 @@ tags:
   - procesos-industriales
   - industria-alimentaria
   - alimentos
+contactEmail: "secretaria.laa@utec.edu.uy"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-El Técnico en Procesos y Análisis Químico es el título intermedio de la Licenciatura en Análisis Alimentario, obtenido al aprobar el cuarto semestre de la carrera.
+Título intermedio de la Licenciatura en Análisis Alimentario de UTEC en Paysandú, obtenido al aprobar el cuarto semestre (2 años; la licenciatura dura 4). Cubre procesos básicos de alimentos, agua y derivados con controles fisicoquímicos y operacionales, en turno vespertino/nocturno semipresencial.
 
 ### Becas
 
 Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
 
+### Perfil de egreso
+
+El técnico domina procesos básicos de alimentos, agua y derivados y sus controles fisicoquímicos y operacionales. Quien continúa a la licenciatura suma control integral de producción, innovación de productos, prevención de ETAs y sistemas de calidad e inocuidad.
+
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-- Egresados de Educación Media Superior
+Vía directa para egresados del Tecnólogo Químico DGETP/UTU (continuidad de 4 semestres); Tecnólogo Cárnico y Agroenergético con propedéutico previo; egresados de EMS-CES y EMT DGETP-UTU de las áreas correspondientes. Preinscripción web (generalmente en noviembre, con segunda instancia en enero-febrero si hay cupos): cédula de identidad, carné de salud vigente, pase de Enseñanza Media Superior (fórmula 69A o constancia de egreso), carta de motivación y constancia de voto.
 
 ### Proceso de Selección
 

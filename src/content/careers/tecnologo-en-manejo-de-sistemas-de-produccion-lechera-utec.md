@@ -26,6 +26,8 @@ description: "Tecnólogo en Manejo de Sistemas de Producción Lechera de UTEC, c
 sources:
   - label: "Ficha oficial UTEC"
     url: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-manejo-de-sistemas-de-produccion-lechera/"
+  - label: "Plan de estudios (PDF)"
+    url: "https://utec.edu.uy/uploads/plan/a1c3fb64b69348805a28fb5635072491f0009ae9.pdf"
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-27 22:30:00"
@@ -41,20 +43,21 @@ tags:
 
 ### Sobre la Carrera
 
-Esta carrera conjunta entre DGETP-UTU y UTEC forma profesionales con alto nivel de especialización en el manejo operativo/productivo de los Sistemas de Producción Lechera. Se brinda en modalidad de alternancia entre empresas formadoras y la institución educativa, con prácticas remuneradas.
-
-Existe la posibilidad de cursar la carrera en modalidad de internado. Tiene una duración de 2 años y está orientada a formar profesionales con fuerte perfil en monitoreo y control del sistema productivo.
+Carrera de 2 años (4 semestres) en Nueva Helvecia (Colonia, Escuela Superior de Lechería CETP-UTU), conjunta entre DGETP-UTU y UTEC. Formación dual en alternancia entre empresas formadoras y la institución, con prácticas remuneradas e internado opcional. Para el ingreso 2026 se admite con hasta 3 asignaturas pendientes (acreditando la EMS completa antes del 31/7 del año de inicio).
 
 ### Becas
 
 Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** y **prácticas remuneradas en empresas formadoras**.
 
+### Perfil de egreso
+
+El egresado administra, monitorea y controla sistemas de producción lechera con buenas prácticas e innovación, preservando ambiente y recursos; integra y lidera equipos; maneja información científica para la mejora continua.
+
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-- Egresados de CES (Ciencias Agrarias, Ciencias Biológicas, Físico-Matemática, Matemática y Diseño)
-- Egresados de Bachilleratos Agrarios de DGETP-UTU
+Bachilleratos de CES (Ciencias Agrarias, Biológicas, Físico-Matemática, Matemática y Diseño) y bachilleratos agrarios de DGETP-UTU; otras orientaciones a consultar con la coordinación. Preinscripción web (generalmente en noviembre, con segunda instancia en enero-febrero si hay cupos): cédula de identidad, carné de salud vigente, pase de Enseñanza Media Superior (fórmula 69A o constancia de egreso), carta de motivación y constancia de voto.
 
 ### Proceso de Selección
 

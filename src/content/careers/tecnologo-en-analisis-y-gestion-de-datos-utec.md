@@ -18,7 +18,7 @@ weeklyHours: "No informada"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://utec.edu.uy/es/educacion/carreras/tecnologo-en-analisis-y-gestion-de-datos/"
+website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial/"
 location: "Rivera (ITR Norte)"
 accreditation: "UTEC"
 description: "Tecnólogo en Análisis y Gestión de Datos, título intermedio de la Licenciatura en Ingeniería de Datos e IA de UTEC. Técnicas de análisis de datos y gestión de bases de datos."
@@ -35,13 +35,14 @@ tags:
   - base-de-datos
   - gestion-de-datos
   - informatica
+contactEmail: "secretaria.lidia@utec.edu.uy"
 ---
 
 ## Resumen
 
 ### Sobre la Carrera
 
-El Tecnólogo en Análisis y Gestión de Datos es el título intermedio de la Licenciatura en Ingeniería de Datos e Inteligencia Artificial, obtenido al completar el sexto semestre (3 años, 240 créditos).
+Título intermedio de la Licenciatura en Ingeniería de Datos e Inteligencia Artificial de UTEC en Rivera, obtenido al completar el 6.º semestre (3 años, 240 créditos; la licenciatura dura 4). Cursado presencial en horario diurno: el primer año se concentra en el turno vespertino y los años siguientes alternan entre matutino y vespertino.
 
 ### Título Intermedio
 
@@ -51,12 +52,20 @@ Esta carrera es en sí misma el **título intermedio de la Licenciatura en Ingen
 
 Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
 
+### Perfil de egreso
+
+El tecnólogo aplica matemática, estadística y minería de datos con modelos predictivos; diseña, construye, opera y monitorea sistemas de procesamiento y análisis de datos; desarrolla sistemas que aprenden con datos.
+
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-- Egresados de Educación Media Superior
+Se ingresa a la Licenciatura con Enseñanza Media Superior aprobada en cualquier orientación, más curso de admisión con actividades presenciales y examen diagnóstico de asistencia obligatoria (no eliminatoria). Preinscripción web (generalmente en noviembre, con segunda instancia en enero-febrero si hay cupos): cédula de identidad, carné de salud vigente, pase de Enseñanza Media Superior (fórmula 69A o constancia de egreso), carta de motivación y constancia de voto.
 
 ### Proceso de Selección
 
 El ingreso requiere aprobar un **curso de admisión**.
+
+## Plan de Estudio
+
+Corresponde a los seis primeros semestres de la Licenciatura (plan de 6 semestres, 3 años, 240 créditos). Ver el [plan de estudios (PDF)](https://utec.edu.uy/uploads/plan/a903ba19999c4d910d9ad0fc502c38ba75ad4146.pdf).
