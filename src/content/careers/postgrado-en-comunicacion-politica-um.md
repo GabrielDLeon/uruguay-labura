@@ -4,7 +4,7 @@ similar:
   - licenciatura-en-ciencia-politica-ucu
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
   - ciencia-politica-doctorado-udelar
-  - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-maestria-udelar
   - licenciatura-en-comunicacion-um
   - licenciatura-en-ciencia-politica-udelar
 institutionName: "Universidad de Montevideo"

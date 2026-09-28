@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fic.edu.uy/ensenanza/grado/lic-en-bibliotecologia"
+website: "https://udelar.edu.uy/carrera/bibliotecologia"
 location: "Facultad de Información y Comunicación"
 description: "La Licenciatura en Bibliotecología forma profesionales que facilitan, gestionan y difunden el acceso a la información de toda la ciudadanía. Trabajan con las TIC y se integran a equipos multidisciplinarios para articular las necesidades de los usuarios respecto a la información en cualquier soporte. Promueven acciones y políticas públicas para hacer de las bibliotecas y otras instituciones agentes de cambio económico, cultural y social."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://fic.edu.uy/ensenanza/grado/lic-en-bibliotecologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/bibliotecologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fic.edu.uy/ensenanza/grado/lic-en-bibliotecologia'
 ---
 
 ## Resumen

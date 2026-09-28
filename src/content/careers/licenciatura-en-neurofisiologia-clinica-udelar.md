@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neurofisiologia-clinica"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-neurofisiologia-clinica"
 location: "Facultad de Medicina"
 description: "El Licenciado en Neurofisiología Clínica es el profesional que tiene el título habilitante. Su formación es teórica, teórico-práctica y práctica. Realiza procedimientos de valoración fisiológica en las áreas de electroencefalografía, potenciales evocados, poligrafías, polisomnografías, sistema nervi"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neurofisiologia-clinica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-neurofisiologia-clinica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neurofisiologia-clinica'
 ---
 
 ## Resumen

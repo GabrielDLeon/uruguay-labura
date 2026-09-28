@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/es/node/19"
+website: "https://udelar.edu.uy/carrera/ingenieria-de-alimentos"
 location: "Facultad de Química"
 description: "El Ingeniero en Alimentos participa en la adecuación de modelos y métodos a la realidad de las organizaciones vinculadas al sector alimentario, para definir las características de sus problemas en el contexto científico-técnico, económico y socio-político en que actúa. Los egresados están capacitado"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fq.edu.uy/es/node/19'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-de-alimentos'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/es/node/19'
 ---
 
 ## Resumen

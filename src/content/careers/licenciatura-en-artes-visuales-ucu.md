@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Artes Visuales"
 similar:
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
-  - licenciatura-en-artes-fotografia-udelar
+  - licenciatura-en-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-fotografia-udelar
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
   - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
-  - licenciatura-en-artes-ceramica-udelar
-  - licenciatura-en-artes-dibujo-y-pintura-udelar
+  - licenciatura-en-ceramica-udelar
+  - licenciatura-en-dibujo-y-pintura-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

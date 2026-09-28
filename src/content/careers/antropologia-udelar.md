@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/licenciatura-en-ciencias-antropologicas/"
+website: "https://udelar.edu.uy/carrera/antropologia"
 location: "Facultad de Humanidades y Ciencias de la Educación"
 description: "Ofrece una capacitación académica rigurosa orientada principalmente a la formación de investigadores que permita al egresado abordar el análisis de la realidad nacional y de su inserción en el escenario mayor de Latinoamérica y el mundo del presente."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://fhce.edu.uy/licenciatura-en-ciencias-antropologicas/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/antropologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/licenciatura-en-ciencias-antropologicas/'
 ---
 
 ## Resumen

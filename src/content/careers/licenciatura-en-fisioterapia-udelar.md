@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-fisioterapia"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-fisioterapia"
 location: "Facultad de Medicina; Paysandú"
 description: "El licenciado en Fisioterapia es un profesional universitario con sólida formación en las disciplinas básicas y específicas profesionales, capacitado para integrar los conocimientos básicos y clínicos, así como los vinculados a Ciencias Sociales y Humanísticas; Bioética y Deontológicas.Integrante del equipo de salud, capacitado para la reali"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-fisioterapia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-fisioterapia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-fisioterapia'
 ---
 
 ## Resumen

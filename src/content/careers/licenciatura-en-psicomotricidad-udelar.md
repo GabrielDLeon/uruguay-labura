@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-psicomotricidad"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-psicomotricidad"
 location: "Facultad de Medicina; Paysandú"
 description: "Las acciones del Licenciado en Psicomotricidad se llevan a cabo a través de un abordaje educativo o terapéutico con mediación corporal. Considera al cuerpo en sus múltiples dimensiones: neurofisiológicas, como fundamento de la personalidad, como base para la evolución del individuo hacia procesos simbólicos de su desarrollo afectivo y cognitivo y como lugar de expresión y de relación. Según las características de las personas atendidas, utili"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-psicomotricidad'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-psicomotricidad'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-psicomotricidad'
 ---
 
 ## Resumen

@@ -3,7 +3,7 @@ title: "Doctorado en Ciencia Política"
 similar:
   - licenciatura-en-ciencia-politica-ucu
   - licenciatura-en-ciencia-politica-udelar
-  - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-maestria-udelar
   - postgrado-en-comunicacion-politica-um
   - historia-politica-maestria-udelar
   - licenciatura-en-politica-filosofia-y-economia-um

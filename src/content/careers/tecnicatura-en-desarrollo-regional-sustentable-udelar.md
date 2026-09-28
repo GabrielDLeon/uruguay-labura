@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.tacuarembo.udelar.edu.uy/tecnicatura-en-desarrollo-sustentable/"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-desarrollo-regional-sustentable"
 location: "Tacuarembó"
 description: "La Tecnicatura habilita a trabajar en una lógica de complementariedad y cooperación con las otras ofertas de educación terciaria en la región. Persigue la formación de técnicos especializados en la identificación, análisis y gestión de los problemas del desarrollo en su concepción integral, a escala"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.tacuarembo.udelar.edu.uy/tecnicatura-en-desarrollo-sustentable/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-desarrollo-regional-sustentable'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.tacuarembo.udelar.edu.uy/tecnicatura-en-desarrollo-sustentable/'
 ---
 
 ## Resumen

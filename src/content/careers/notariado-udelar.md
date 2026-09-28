@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fder.edu.uy/notariado"
+website: "https://udelar.edu.uy/carrera/notariado"
 location: "Facultad de Derecho; Salto"
 description: "El egresado de la carrera de Notariado es un profesional de derecho legalmente habilitado para dar forma y autenticidad a los negocios y hechos jurídicos. La calidad de jurista del escribano le permite desempeñarse como asesor en todas las situaciones jurídicas de Derecho Patrimonial no contenciosas, en especial en materia contractual, ya sean de índole civil o relativas a la actividad comercial, industrial y agropecuaria."
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fder.edu.uy/notariado'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/notariado'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fder.edu.uy/notariado'
 ---
 
 ## Resumen

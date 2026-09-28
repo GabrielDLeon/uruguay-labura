@@ -15,7 +15,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geografia/2337-licenciatura-en-"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-geografia"
 location: "Facultad de Ciencias"
 description: "Las personas que egresan de la Licenciatura en Geografía poseen una formación integral en la comprensión e interpretación de procesos que producen el espacio geográfico y son producidos en él. Comprenden las dinámicas de los procesos socio-económicos y ambientales que determinan la organi"
 startDate: ""
@@ -34,6 +34,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geografia/2337-licenciatura-en-'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-geografia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geografia/2337-licenciatura-en-'
 ---
 
 ## Resumen

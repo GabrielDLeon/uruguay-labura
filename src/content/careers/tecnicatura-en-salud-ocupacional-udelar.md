@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-salud-ocupacional"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-salud-ocupacional"
 location: "Paysandú"
 description: "Es un tecnólogo universitario capacitado para el reconocimiento de los riesgos laborales de diferentes procesos productivos, participando en estrategias de prevención y promoción de la salud de los trabajadores conjuntamente con el equipo de salud. En el área de la salud actúa fundamentalmente en la actividad de prevención, en la identificación, evaluación y control de los factores de riesgo laboral y su repercusión en el ambiente."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-salud-ocupacional'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-salud-ocupacional'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-salud-ocupacional'
 ---
 
 ## Resumen

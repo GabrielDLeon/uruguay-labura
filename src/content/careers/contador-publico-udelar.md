@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/7538-contador-publico-2024.html"
+website: "https://udelar.edu.uy/carrera/contador-publico"
 location: "Facultad de Ciencias Económicas y de Administración"
 description: "Quienes egresen tendrán la capacidad de participar en el diseño, implementación y aplicación de sistemas tributarios, así como asesorar en esta materia a las organizaciones. También podrán ser parte de la evolución y desarrollo de sociedades y asociaciones y podrán realizar peritajes y actuar en pro"
 startDate: ""
@@ -38,6 +38,8 @@ sources:
     url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/7538-contador-publico-2024.html'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/contador-publico'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/7538-contador-publico-2024.html'
 ---
 
 ## Resumen

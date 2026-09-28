@@ -6,7 +6,7 @@ similar:
   - genero-y-politicas-publicas-especializacion-udelar
   - jovenes-juventud-y-politicas-publicas-especializacion-udelar
   - maestria-en-politicas-publicas-ucu
-  - maestria-y-en-politicas-publicas-maestria-udelar
+  - politicas-publicas-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

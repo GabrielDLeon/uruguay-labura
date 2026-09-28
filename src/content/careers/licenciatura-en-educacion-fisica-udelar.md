@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/licenciatura-en-educacion-fisica/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-educacion-fisica"
 location: "Instituto Superior de Educación Física; Maldonado; Paysandú; Rivera"
 description: "El egresado está habilitado para el desempeño en el campo académico y profesional vinculado al diseño, implementación y evaluación de políticas y programas de Educación Física, Deporte y Recreación. La formación faculta al egresado a desarrollar su actividad con la comunidad, así como en instituciones educativas, deportivas, recreativas, artísticas y las vinculadas a la salud, en los distintos ámbitos y modalidades en los que se implementa la actividad"
 startDate: ""
@@ -39,6 +39,9 @@ sources:
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-educacion-fisica'
   - label: 'Sede Rivera'
     url: 'https://www.rivera.udelar.edu.uy/educacion-fisica/'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/licenciatura-en-educacion-fisica/'
+>>>>>>> feat/udelar-slugs
 ---
 
 ## Resumen

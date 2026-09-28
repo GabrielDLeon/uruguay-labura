@@ -12,7 +12,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-registros-medicos"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-registros-medicos"
 location: "Facultad de Medicina"
 description: "Está capacitado para planificar, organizar, y dirigir una Unidad de Registros Médicos en cualquier tipo de institución, así como realizar investigaciones en cualquier área de la comunidad. Participará con el equipo de salud en investigaciones que se realicen en el área integrando principalmente los"
 startDate: ""
@@ -30,6 +30,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-registros-medicos'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-registros-medicos'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-registros-medicos'
 ---
 
 ## Resumen

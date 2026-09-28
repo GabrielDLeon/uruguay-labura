@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/tecn%C3%B3logo-mec%C3%A1nico"
+website: "https://udelar.edu.uy/carrera/tecnologo-industrial-mecanico"
 location: "Facultad de Ingeniería; Paysandú"
 description: "El egresado de esta carrera estará capacitado para realizar tareas técnicas en las siguientes áreas: Ingeniería de Planta, enfatizando el uso de la energía en servicios industriales el conocimiento de materiales con vistas al mantenimiento y la administración de servicios. Mantenimiento de equipos e"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/tecn%C3%B3logo-mec%C3%A1nico'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-industrial-mecanico'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/tecn%C3%B3logo-mec%C3%A1nico'
 ---
 
 ## Resumen

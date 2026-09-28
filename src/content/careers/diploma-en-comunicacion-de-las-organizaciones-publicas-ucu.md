@@ -6,7 +6,7 @@ similar:
   - comunicacion-corporativa-relaciones-publicas-ort
   - gestion-financiera-en-instituciones-publicas-especializacion-udelar
   - maestria-en-administracion-publica-ucu
-  - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "diplomado"

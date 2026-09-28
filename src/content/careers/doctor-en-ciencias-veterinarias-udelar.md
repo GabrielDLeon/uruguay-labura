@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fvet.edu.uy/ensenanza/grado/medico-veterinario-a/"
+website: "https://udelar.edu.uy/carrera/doctor-en-ciencias-veterinarias"
 location: "Facultad de Veterinaria; Paysandú; Salto"
 description: "Los y las profesionales veterinarios/as brindan servicios esenciales para la economía nacional, como son el fomento de la producción, la vigilancia de los alimentos de origen animal en salvaguardia de la salud pública, así como el cuidado de los animales domésticos y de compañía."
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fvet.edu.uy/ensenanza/grado/medico-veterinario-a/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/doctor-en-ciencias-veterinarias'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fvet.edu.uy/ensenanza/grado/medico-veterinario-a/'
 ---
 
 ## Resumen

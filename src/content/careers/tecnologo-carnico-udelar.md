@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.tacuarembo.udelar.edu.uy/tecnologo-carnico/"
+website: "https://udelar.edu.uy/carrera/tecnologo-carnico"
 location: "Tacuarembó"
 description: "El egresado estará capacitado para interactuar con otros profesionales en las tareas de implementación, supervisión, monitoreo y/o ejecución de los procesos de transformación de la materia prima en la industria cárnica."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.tacuarembo.udelar.edu.uy/tecnologo-carnico/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-carnico'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.tacuarembo.udelar.edu.uy/tecnologo-carnico/'
 ---
 
 ## Resumen

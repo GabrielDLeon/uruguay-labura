@@ -5,7 +5,7 @@ similar:
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
   - licenciatura-en-diseno-grafico-ude
   - tecnico-en-diseno-grafico-ude
-  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-diseno-grafico-udelar
   - disenador-grafico-ude
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"

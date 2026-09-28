@@ -10,7 +10,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/dr-en-medicina"
+website: "https://udelar.edu.uy/carrera/doctor-en-medicina"
 location: "Facultad de Medicina; Paysandú; Salto"
 description: "Un médico responsable, con sólida formación científica básico-clínica, capaz de realizar diagnósticos correctos, tomar decisiones clínicas precisas, capaz de comunicarse en su misión de prevenir, curar y derivar adecuadamente; profundamente humanista, crítico, preparado para investigar, educar y edu"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/dr-en-medicina'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/doctor-en-medicina'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/dr-en-medicina'
 ---
 
 ## Resumen

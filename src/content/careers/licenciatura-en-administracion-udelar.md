@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fcea.udelar.edu.uy/depto-adm-ensenanza/lic-adm-ciencias-adm.html"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-administracion"
 location: "Facultad de Ciencias Económicas y de Administración"
 description: "Quienes egresan de la Licenciatura pueden ocupar cargos gerenciales tanto en las diferentes áreas de las organizaciones (por ejemplo, Marketing, Finanzas o Recursos Humanos) como la propia gerencia general. Pueden realizar tareas de consultoría y asesoramiento en diversas áreas, integrando equipos m"
 startDate: ""
@@ -38,6 +38,8 @@ sources:
     url: 'https://fcea.udelar.edu.uy/depto-adm-ensenanza/lic-adm-ciencias-adm.html'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-administracion'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fcea.udelar.edu.uy/depto-adm-ensenanza/lic-adm-ciencias-adm.html'
 ---
 
 ## Resumen

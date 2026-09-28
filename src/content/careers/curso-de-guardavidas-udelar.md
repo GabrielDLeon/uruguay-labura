@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Gratuita"
 language: "Español"
-website: "https://udelar.edu.uy/carrerasinterior/curso-de-guardavidas/"
+website: "https://udelar.edu.uy/carrera/curso-de-guardavidas"
 location: "Maldonado"
 description: "El Curso de Guardavidas propone la formación de un profesional responsable de la prevención, auxilio y rescate necesarios en todos las \"espejos de agua naturales (océanos, ríos, lagos etc.) y artificiales (piscinas, parques acuáticos etc.) habilitadas o no para su uso recreativo o deportivo\"."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://udelar.edu.uy/carrerasinterior/curso-de-guardavidas/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/curso-de-guardavidas'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://udelar.edu.uy/carrerasinterior/curso-de-guardavidas/'
 ---
 
 ## Resumen

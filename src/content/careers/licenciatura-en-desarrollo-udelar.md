@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://cienciassociales.edu.uy/ensenanza/licenciatura-en-desarrollo/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-desarrollo"
 location: "Facultad de Ciencias Sociales"
 description: "Esta propuesta tiene por cometido la formación de científicos sociales capaces de desempeñarse en el ámbito profesional y académico, idóneos para generar, gestionar o aplicar conocimientos vinculados a los problemas del desarrollo en su concepción integral. Como tales, deben estar capacitados para buscar soluciones que permitan resolver los problemas que se presentan en el camino hacia un desarrollo social, económico y político sustentable para el país."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-desarrollo/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-desarrollo'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-desarrollo/'
 ---
 
 ## Resumen

@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/obstetra-parterao"
+website: "https://udelar.edu.uy/carrera/obstetra-partera"
 location: "Facultad de Medicina"
 description: "Diversas dimensiones conforman el perfil y las competencias de la/el Obstetra-Partera/o, dimensiones que sólo es posible aislar metodológicamente con el propósito de una mayor especificación de cada una de ellas. Desde el punto de vista académico, la/el Obstetra-Partera/o es una persona que habiendo sido admitida para seguir el Programa educativo vigente de la Escuela de Parteras, reconocido por la Facultad de Medicina, perteneciente a la Universidad de"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/obstetra-parterao'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/obstetra-partera'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/obstetra-parterao'
 ---
 
 ## Resumen

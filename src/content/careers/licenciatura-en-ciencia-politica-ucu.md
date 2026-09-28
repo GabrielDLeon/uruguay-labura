@@ -2,7 +2,7 @@
 title: "Licenciatura en Ciencia Política"
 similar:
   - licenciatura-en-ciencia-politica-udelar
-  - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-maestria-udelar
   - ciencia-politica-doctorado-udelar
   - postgrado-en-comunicacion-politica-um
   - licenciatura-en-politica-filosofia-y-economia-um

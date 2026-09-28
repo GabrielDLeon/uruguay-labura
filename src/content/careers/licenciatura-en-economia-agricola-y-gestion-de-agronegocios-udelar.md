@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.tacuarembo.udelar.edu.uy/licenciatura-en-economia-agricola-y-gestion-de-agronegocios/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-economia-agricola-y-gestion-de-agronegocios"
 location: "Tacuarembó"
 description: "El egresado de la licenciatura poseerá un conocimiento holístico del agronegocio y la economía agrícola, enfatizando en las cadenas de valor agroindustrial y su gestión, considerando no solo las implicancias económicas de la gestión, sino también las ambientales, éticas y sociales. Contará con conoc"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.tacuarembo.udelar.edu.uy/licenciatura-en-economia-agricola-y-gestion-de-agronegocios/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-economia-agricola-y-gestion-de-agronegocios'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.tacuarembo.udelar.edu.uy/licenciatura-en-economia-agricola-y-gestion-de-agronegocios/'
 ---
 
 ## Resumen

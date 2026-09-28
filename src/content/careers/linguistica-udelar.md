@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/licenciatura-en-linguistica/"
+website: "https://udelar.edu.uy/carrera/linguistica"
 location: "Facultad de Humanidades y Ciencias de la Educación"
 description: "El egresado de la Licenciatura en Lingüística podrá: 1. Realizar actividades de investigación, enseñanza y extensión en las distintas áreas de la lingüística, de forma individual o participando en equipos con especialistas de otras disciplinas y con diversos actores sociales. 2. Elaborar y gestionar"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://fhce.edu.uy/licenciatura-en-linguistica/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/linguistica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/licenciatura-en-linguistica/'
 ---
 
 ## Resumen

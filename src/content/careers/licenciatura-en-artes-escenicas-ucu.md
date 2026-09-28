@@ -4,9 +4,9 @@ similar:
   - licenciatura-en-danza-contemporanea-udelar
   - licenciatura-en-artes-digitales-ort
   - dramaturgia-udelar
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
-  - licenciatura-en-artes-ceramica-udelar
-  - licenciatura-en-artes-dibujo-y-pintura-udelar
+  - licenciatura-en-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-ceramica-udelar
+  - licenciatura-en-dibujo-y-pintura-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"

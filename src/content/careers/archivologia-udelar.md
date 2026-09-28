@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fic.edu.uy/index.php/ensenanza/grado/lic-en-archivologia"
+website: "https://udelar.edu.uy/carrera/archivologia"
 location: "Facultad de Información y Comunicación"
 description: "La Licenciatura en Archivología forma profesionales para la gestión de documentos administrativos e históricos generados por organismos públicos o privados, sean textuales, iconográficos, sonoros o audiovisuales en distintos soportes. El profesional tiene a su cargo la dirección técnica de archivos y centros de documentación, asesora en proyectos de desarrollo de software para la gestión electrónica y digitali"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fic.edu.uy/index.php/ensenanza/grado/lic-en-archivologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/archivologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fic.edu.uy/index.php/ensenanza/grado/lic-en-archivologia'
 ---
 
 ## Resumen

@@ -1,12 +1,12 @@
 ---
 title: "Licenciatura en Artes Digitales"
 similar:
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
-  - licenciatura-en-artes-ceramica-udelar
-  - licenciatura-en-artes-dibujo-y-pintura-udelar
+  - licenciatura-en-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-ceramica-udelar
+  - licenciatura-en-dibujo-y-pintura-udelar
   - licenciatura-en-artes-visuales-ucu
   - licenciatura-en-artes-escenicas-ucu
-  - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
+  - licenciatura-en-escultura-y-volumen-en-el-espacio-udelar
 institutionName: "Universidad ORT Uruguay"
 institution: "ort"
 degreeType: "licenciatura"

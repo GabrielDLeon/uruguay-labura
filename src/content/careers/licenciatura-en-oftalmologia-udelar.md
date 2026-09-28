@@ -12,7 +12,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-oftalmologia"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-oftalmologia"
 location: "Facultad de Medicina"
 description: "Los Licenciados en Oftalmología están capacitados para realizar exámenes de rutina como: medida capacidad visual, medida tensión ocular y manejo de aparatos: refractómetros, lensómetros y todos aquellos que sean incorporados a la consulta oftalmológica. Realiza en exclusividad estudios contribuyente"
 startDate: ""
@@ -29,6 +29,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-oftalmologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-oftalmologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-oftalmologia'
 ---
 
 ## Resumen

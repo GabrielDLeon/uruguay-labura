@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/licenciatura-en-letras/"
+website: "https://udelar.edu.uy/carrera/letras"
 location: "Facultad de Humanidades y Ciencias de la Educación"
 description: "La Licenciatura en Letras procura crear las bases para una sólida formación en el campo, como también fomentar una mayor práctica de investigación, teniendo en cuenta el creciente desarrollo de los estudios literarios. Esto comienza por los contenidos brindados por materias introductorias y sigue en"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://fhce.edu.uy/licenciatura-en-letras/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/letras'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/licenciatura-en-letras/'
 ---
 
 ## Resumen

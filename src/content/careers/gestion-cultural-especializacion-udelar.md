@@ -4,7 +4,7 @@ similar:
   - politicas-culturales-maestria-udelar
   - carnaval-y-patrimonio-especializacion-udelar
   - tecnicatura-universitaria-en-bienes-culturales-udelar
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-artes-plasticas-y-visuales-udelar
   - administracion-y-economia-del-turismo-maestria-udelar
   - gestion-y-economia-del-turismo-sustentable-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"

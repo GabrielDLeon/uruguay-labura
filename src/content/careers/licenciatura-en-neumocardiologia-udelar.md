@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neumocardiologia"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-neumocardiologia"
 location: "Facultad de Medicina"
 description: "El Licenciado en Neumocardiología está capacitado para la realización de algunas técnicas diagnósticas y de tratamiento realizadas dentro de las áreas cardiológicas, neumológicas, centro de cuidados intensivos, recuperación posanestésica y cirugía cardíaca."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neumocardiologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-neumocardiologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-neumocardiologia'
 ---
 
 ## Resumen

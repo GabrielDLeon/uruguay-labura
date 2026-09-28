@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fic.edu.uy/futuros-estudiantes"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-ingenieria-de-medios"
 location: "Facultad de Información y Comunicación"
 description: "Se trata de una propuesta orientada a formar profesionales capaces de adaptarse a los cambios acelerados del entorno tecnológico y comunicacional actual, combinando conocimientos de las humanidades, las ciencias sociales y las prácticas creativas, con una sólida formación científica y tecnológica en el campo de la ingeniería, la comunicación y la información. La licenciatura dura cuatro años y se organi"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fic.edu.uy/futuros-estudiantes'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-ingenieria-de-medios'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fic.edu.uy/futuros-estudiantes'
 ---
 
 ## Resumen

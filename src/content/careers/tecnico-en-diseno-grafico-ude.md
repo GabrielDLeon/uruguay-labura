@@ -3,7 +3,7 @@ title: "Técnico en Diseño Gráfico"
 similar:
   - diseno-grafico-ort
   - licenciatura-en-diseno-grafico-ude
-  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-diseno-grafico-udelar
   - disenador-grafico-ude
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
   - licenciatura-en-diseno-grafico-ort

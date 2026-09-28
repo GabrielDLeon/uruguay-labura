@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geologia/2336-licenciatura-en-g"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-geologia"
 location: "Facultad de Ciencias"
 description: "Las personas que egresan de la Licenciatura en Geología poseen una formación que les permite el estudio integral y a todas las escalas del subsuelo y los materiales que lo componen, así como la evolución geológica de nuestro planeta."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geologia/2336-licenciatura-en-g'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-geologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-geologia/2336-licenciatura-en-g'
 ---
 
 ## Resumen

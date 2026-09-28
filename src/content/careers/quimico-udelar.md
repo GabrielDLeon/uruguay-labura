@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/?q=es/node/620"
+website: "https://udelar.edu.uy/carrera/quimico"
 location: "Facultad de Química; Paysandú; Salto"
 description: "El Químico estará capacitado para trabajar en todas las áreas de la química con el objeto de: desarrollar o mejorar productos de aplicación industrial, agropecuaria, alimentaria, medioambiental u otros en concordancia con sus estudios. desarrollar, seleccionar, adaptar y mantener tecnologías de síntesis, biosíntesis, análisis y gestión de calidad de productos clasificables en las áreas químicas y anexas."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fq.edu.uy/?q=es/node/620'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/quimico'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/?q=es/node/620'
 ---
 
 ## Resumen

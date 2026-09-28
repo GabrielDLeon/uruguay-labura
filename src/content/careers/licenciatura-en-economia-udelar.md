@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fcea.udelar.edu.uy/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-economia"
 location: "Facultad de Ciencias Económicas y de Administración"
 description: "Quienes egresen de la Licenciatura en Economía poseen el dominio práctico de los marcos teóricos, las herramientas analíticas y los métodos aplicados en la disciplina y en sus campos específicos. Tiene una visión crítica y creativa para adquirir nuevos conocimientos y generar nuevas ideas. Quienes egresen de la Licenciatura en Economía podrán trabajar en las siguientes áreas: Financiera, Empresarial y de Políticas Públicas."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fcea.udelar.edu.uy/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-economia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fcea.udelar.edu.uy/'
 ---
 
 ## Resumen

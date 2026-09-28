@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy//es/node/621"
+website: "https://udelar.edu.uy/carrera/bachiller-en-ciencias-quimicas"
 location: "Facultad de Química"
 description: "El Técnico Bachiller en Ciencias Químicas es el titulado de la Facultad que tiene formación básica, teórica y práctica en Química. Estará capacitado para: Realizar las tareas prácticas inherentes a la síntesis y el análisis químico, las prácticas básicas relacionadas con ensayos físicos, en laborato"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fq.edu.uy//es/node/621'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/bachiller-en-ciencias-quimicas'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy//es/node/621'
 ---
 
 ## Resumen

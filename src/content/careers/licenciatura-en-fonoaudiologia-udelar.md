@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-fonoaudiologia"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-fonoaudiologia"
 location: "Facultad de Medicina"
 description: "El Licenciado en Fonoaudiología es un profesional universitario que ejerce su actividad a nivel de la comunicación humana en las áreas de la Audiología, la Fonestomatología, el Lenguaje, el Habla, la Voz y la Función Vestibular."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-fonoaudiologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-fonoaudiologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-fonoaudiologia'
 ---
 
 ## Resumen

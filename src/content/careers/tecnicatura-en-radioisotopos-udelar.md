@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-radioisotopos"
 location: "Facultad de Medicina"
 description: "Es un profesional de la salud que ha recibido la formación teórica y práctica que lo capacita para el manejo de sustancias radioactivas en forma de fuentes abiertas y su aplicación en procedimientos diagnósticos y terapéuticos, bajo la indicación y supervisión de un médico especialista en Medicina Nuclear o del radiofarmacéutico hospitalario, para cumplir un rol específico en el equipo multidisciplinario de Medicina Nuclear."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-radioisotopos'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos'
 ---
 
 ## Resumen

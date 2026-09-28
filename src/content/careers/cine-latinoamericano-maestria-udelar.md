@@ -6,7 +6,7 @@ similar:
   - tecnico-en-fotografia-y-postproduccion-audiovisual-ort
   - tecnico-en-realizacion-audiovisual-ort
   - licenciatura-en-lenguajes-y-medios-audiovisuales-udelar
-  - licenciatura-en-artes-fotografia-udelar
+  - licenciatura-en-fotografia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "maestria"

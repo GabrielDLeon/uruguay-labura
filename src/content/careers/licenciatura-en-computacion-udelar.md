@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/lic-en-computaci%C3%B3n"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-computacion"
 location: "Facultad de Ingeniería"
 description: "La formación del licenciado apunta a completar requisitos mínimos de formación básica y tiene conocimientos específicos en subáreas de Computación (como por ejemplo Programación, Bases de datos y Arquitectura de Sistemas) o en otras disciplinas suficientes como para participar en tareas técnicas en proyectos del área o de carácter multidisciplinario. El título habilita el ingreso a carreras de posgrado en la Universidad de la República."
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/lic-en-computaci%C3%B3n'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-computacion'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/lic-en-computaci%C3%B3n'
 ---
 
 ## Resumen

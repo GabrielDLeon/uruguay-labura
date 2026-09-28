@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-el%C3%A9ctrica"
+website: "https://udelar.edu.uy/carrera/ingenieria-electrica"
 location: "Facultad de Ingeniería"
 description: "Los egresados de Ingeniería Eléctrica pueden desarrollar en forma autónoma tareas de ingeniería de proyecto, mantenimiento, producción, operación o gestión, de relativa complejidad, en todas las áreas de ejercicio de la profesión, así como integrarse al trabajo en equipo para la reali"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-el%C3%A9ctrica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-electrica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-el%C3%A9ctrica'
 ---
 
 ## Resumen

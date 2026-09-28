@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.tacuarembo.udelar.edu.uy/ingenieria-forestal-tacuarembo/"
+website: "https://udelar.edu.uy/carrera/ingenieria-forestal"
 location: "Tacuarembó"
 description: "El egresado comprenderá una sólida formación en las ciencias básicas necesarias para su desempeño científico profesional. Deberá presentar un profundo conocimiento del funcionamiento de las plantas como organismos vivos, así como también un amplio conocimiento de los procesos de elaboración y transformación industrial de productos de origen forestal incluyendo conocimiento de máquinas y equipos permitiendo de esta manera que el egresado actúe de manera"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.tacuarembo.udelar.edu.uy/ingenieria-forestal-tacuarembo/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-forestal'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.tacuarembo.udelar.edu.uy/ingenieria-forestal-tacuarembo/'
 ---
 
 ## Resumen

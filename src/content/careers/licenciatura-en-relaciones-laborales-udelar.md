@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fder.edu.uy/rrll"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-relaciones-laborales"
 location: "Facultad de Derecho"
 description: "La carrera apunta a capacitar a los operadores del sistema laboral que actúan en las empresas, los sindicatos o dependencias estatales. Su actividad está vinculada a la prestación de servicios a organizaciones públicas y privadas: empresas, administraciones, sindicatos, asociaciones empresariales, t"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fder.edu.uy/rrll'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-relaciones-laborales'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fder.edu.uy/rrll'
 ---
 
 ## Resumen

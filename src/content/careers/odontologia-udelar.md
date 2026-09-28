@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://odon.edu.uy/sitio/carrera-de-odontologia/"
+website: "https://udelar.edu.uy/carrera/odontologia"
 location: "Facultad de Odontología"
 description: "Se define la formación de un odontólogo con perfil científico-técnico y humanístico, de alcance generalista, capaz de tomar decisiones tendientes a desarrollar reflexivamente los valores intrínsecos de la práctica odontológica. La intervención profesional la realizará basada en un sistema de conocim"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://odon.edu.uy/sitio/carrera-de-odontologia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/odontologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://odon.edu.uy/sitio/carrera-de-odontologia/'
 ---
 
 ## Resumen

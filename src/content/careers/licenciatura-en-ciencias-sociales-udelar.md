@@ -10,7 +10,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-lic-ccss"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-ciencias-sociales"
 location: "Salto"
 description: "La Licenciatura en Ciencias Sociales que se dicta en el Centro Universitario Regional Litoral Norte, sede Salto, continúa bajo el Plan de Estudios 1992 que se compone de 4 años (1 de Ciclo Básico y 3 de ciclo Profesional). Los estudios de grado culminan con el título universitario de Licenciado en Ciencias Sociales. La o el egresada/o de la Facultad de Ciencias Sociales será un individuo capa"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-lic-ccss'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-ciencias-sociales'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-lic-ccss'
 ---
 
 ## Resumen

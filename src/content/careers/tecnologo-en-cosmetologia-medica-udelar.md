@@ -12,7 +12,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-cosmetologia-medica"
+website: "https://udelar.edu.uy/carrera/tecnologo-en-cosmetologia-medica"
 location: "Facultad de Medicina"
 description: "Es un profesional universitario, integrante del equipo multidisciplinario de asistencia sanitaria, que trabaja en estrecha colaboración con sus distintos integrantes, actuando en la prevención, educación, tratamiento y rehabilitación en personas con piel sana o pacientes portadores de diversas patologías cutáneas. Reali"
 startDate: ""
@@ -30,6 +30,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-cosmetologia-medica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-cosmetologia-medica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-cosmetologia-medica'
 ---
 
 ## Resumen

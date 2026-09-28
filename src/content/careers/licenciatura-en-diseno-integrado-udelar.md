@@ -6,7 +6,7 @@ similar:
   - licenciatura-en-diseno-grafico-ude
   - diseno-en-juguetes-y-productos-para-la-infancia-especializacion-udelar
   - tecnico-en-diseno-de-interiores-ude
-  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-diseno-grafico-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"
@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-licenciatura-en-diseno-i"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-diseno-integrado"
 location: "Salto"
 description: "El graduado tendrá una formación que le permita articular en términos de diseño las tensiones entre el desarrollo económico y el manejo responsable de los recursos energéticos, naturales y culturales, potenciando el capital social acumulado en el marco de un desarrollo sostenible."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-licenciatura-en-diseno-i'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-diseno-integrado'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-en-cenurln-licenciatura-en-diseno-i'
 ---
 
 ## Resumen

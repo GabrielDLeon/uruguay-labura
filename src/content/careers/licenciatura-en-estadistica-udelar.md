@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-estadistica"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-estadistica"
 location: "Facultad de Ciencias Económicas y de Administración"
 description: "Las personas que egresan de la Licenciatura en Estadística son especialistas con un buen conocimiento teórico de la estadística que a su vez dominan sus aplicaciones prácticas en el mundo real. Tienen suficientes conocimientos de matemática, modelos probabilísticos y teoría estadística como para pod"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-estadistica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-estadistica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-estadistica'
 ---
 
 ## Resumen

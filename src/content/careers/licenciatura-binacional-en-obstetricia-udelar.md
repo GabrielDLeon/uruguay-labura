@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia"
+website: "https://udelar.edu.uy/carrera/licenciatura-binacional-en-obstetricia"
 location: "Paysandú; Concepción del Uruguay (Argentina)"
 description: "La Licenciatura Binacional de Obstetricia habilita a ejercer en todo el territorio uruguayo y argentino luego de realizados los trámites correspondientes ante las exigencias de ambos países. Se imparte junto a la Universidad de Entre Ríos (UNER), Facultad de Ciencias de la Salud."
 startDate: ""
@@ -32,6 +32,8 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Página oficial (CENUR Litoral Norte)'
+    url: 'https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia'
+  - label: 'Sede o facultad (fuente anterior)'
     url: 'https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia'
 ---
 

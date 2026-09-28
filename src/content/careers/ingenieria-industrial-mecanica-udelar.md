@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-industrial-mec%C3%A1nica"
+website: "https://udelar.edu.uy/carrera/ingenieria-industrial-mecanica"
 location: "Facultad de Ingeniería"
 description: "El ingeniero industrial mecánico tiene la capacidad de emplear herramientas matemáticas y computacionales para analizar, modelar y diseñar sistemas físicos integrados por componentes sólidos y fluidos,tanto en condiciones transitorias como estacionarias. Se ocupa también de las áreas de sistemas tér"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-industrial-mec%C3%A1nica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-industrial-mecanica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-industrial-mec%C3%A1nica'
 ---
 
 ## Resumen

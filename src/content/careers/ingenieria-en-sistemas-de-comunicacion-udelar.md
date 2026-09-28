@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://eva.fing.edu.uy/course/view.php?id=1314"
+website: "https://udelar.edu.uy/carrera/ingenieria-en-sistemas-de-comunicacion"
 location: "Facultad de Ingeniería"
 description: "El Ingeniero en Sistemas de Comunicación es un profesional con formación básica en los temas relacionados con las aplicaciones técnicas de las comunicaciones. El Ingeniero en Sistemas de Comunicación podrá diseñar, especificar, dirigir el desarrollo y poner en operación todo tipo de sistemas de comunicación."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://eva.fing.edu.uy/course/view.php?id=1314'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-en-sistemas-de-comunicacion'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://eva.fing.edu.uy/course/view.php?id=1314'
 ---
 
 ## Resumen

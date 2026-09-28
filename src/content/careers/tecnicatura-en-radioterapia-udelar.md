@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioterapia"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-radioterapia"
 location: "Facultad de Medicina"
 description: "Es el profesional universitario capacitado para el manejo de radiaciones ionizantes con fines terapéuticos y/o imagenológicos a los efectos de localización y verificación tanto en radioterapia externa como en braquiterapia."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioterapia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-radioterapia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioterapia'
 ---
 
 ## Resumen

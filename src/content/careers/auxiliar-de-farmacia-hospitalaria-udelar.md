@@ -15,7 +15,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/es/node/135"
+website: "https://udelar.edu.uy/carrera/auxiliar-de-farmacia-hospitalaria"
 location: "Facultad de Química"
 description: "El auxiliar de farmacia hospitalaria (AFH) es el colaborador del químico farmacéutico (QF) en la farmacia hospitalaria. La responsabilidad profesional del QF es intransferible y el AFH está bajo la supervisión y control permanente Las funciones del AFH son: - Poseer una visión global e integrada del sistema sanitario en sus aspectos organi"
 startDate: ""
@@ -32,6 +32,8 @@ sources:
     url: 'https://www.fq.edu.uy/es/node/135'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/auxiliar-de-farmacia-hospitalaria'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/es/node/135'
 ---
 
 ## Resumen

@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/es/node/619"
+website: "https://udelar.edu.uy/carrera/quimica-farmaceutica"
 location: "Facultad de Química; Salto"
 description: "Es el profesional de la salud con sólidos conocimientos relacionados con el medicamento y productos afines así como con la interacción de sustancias químicas con los seres vivos sanos o enfermos. Es un profesional tanto capacitado para integrarse a equipos multidisciplinarios en el área de la Salud, como comprometido con la satisfacción de las necesidades de la sociedad relativas a la salud y a la calidad de vida de sus integrantes."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fq.edu.uy/es/node/619'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/quimica-farmaceutica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/es/node/619'
 ---
 
 ## Resumen

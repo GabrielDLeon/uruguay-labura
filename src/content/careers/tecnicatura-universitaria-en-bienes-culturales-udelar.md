@@ -16,7 +16,7 @@ weeklyHours: "No especificado"
 duration: "30 meses"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/"
+website: "https://udelar.edu.uy/carrera/tecnicatura-universitaria-en-bienes-culturales"
 location: "Colonia; Paysandú; Tacuarembó"
 description: "El egresado estará preparado para promover -en el sentido de iniciar o activar acciones a los efectos de lograr su realización-: la localización, identificación, clasificación, conservación, preservación, apropiación social, protección legislativa, entre otras acciones, de Bienes Culturales, en el m"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-universitaria-en-bienes-culturales'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/'
 ---
 
 ## Resumen

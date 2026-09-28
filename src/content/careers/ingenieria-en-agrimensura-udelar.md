@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/es/carrera/grado/agrimensura"
+website: "https://udelar.edu.uy/carrera/ingenieria-en-agrimensura"
 location: "Facultad de Ingeniería"
 description: "La carrera de Ingeniería en Agrimensura apunta a formar un profesional integral y moderno de acuerdo a las necesidades de la sociedad. Se busca formar el pensamiento crítico, enfocado en resolver problemas atendiendo a los nuevos desafíos a los que la sociedad, la ciencia y la tecnología nos enfrenta y nos demanda. Su formación tiene por objetivo todo lo concerniente a la medición, determinación, control de empla"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fing.edu.uy/es/carrera/grado/agrimensura'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-en-agrimensura'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/es/carrera/grado/agrimensura'
 ---
 
 ## Resumen

@@ -6,7 +6,7 @@ similar:
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
   - master-en-direccion-financiera-ort
   - maestria-en-administracion-publica-ucu
-  - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-maestria-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2,5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fcea.udelar.edu.uy/depto-adm-ensenanza/tecnicatura-admin-ciencias-adm.html"
+website: "https://udelar.edu.uy/carrera/tecnico-en-administracion"
 location: "Facultad de Ciencias Económicas y de Administración"
 description: "El egresado de la carrera de Técnico en Administración, tendrá la capacitación suficiente para participar en la gestión de organizaciones públicas y privadas, basado en competencias para la aplicación de técnicas y procedimientos de mejora en su administración, mediante una utilización de recursos d"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fcea.udelar.edu.uy/depto-adm-ensenanza/tecnicatura-admin-ciencias-adm.html'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnico-en-administracion'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fcea.udelar.edu.uy/depto-adm-ensenanza/tecnicatura-admin-ciencias-adm.html'
 ---
 
 ## Resumen

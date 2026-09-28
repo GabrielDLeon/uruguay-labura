@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.nutricion.edu.uy/?page_id=654"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-nutricion"
 location: "Escuela de Nutrición"
 description: "Es un profesional capaz de evaluar el estado nutricional de la población a nivel colectivo e individual, administrar programas de alimentación, nutrición y educación, realizar investigación en estas áreas, e integrarse a equipos multiprofesionales para incidir significativamente en la situación alim"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.nutricion.edu.uy/?page_id=654'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-nutricion'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.nutricion.edu.uy/?page_id=654'
 ---
 
 ## Resumen

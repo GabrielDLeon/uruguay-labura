@@ -5,8 +5,8 @@ similar:
   - licenciatura-en-artes-digitales-ort
   - arte-sonoro-maestria-udelar
   - arte-y-cultura-visual-maestria-udelar
-  - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
-  - licenciatura-en-artes-fotografia-udelar
+  - licenciatura-en-escultura-y-volumen-en-el-espacio-udelar
+  - licenciatura-en-fotografia-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

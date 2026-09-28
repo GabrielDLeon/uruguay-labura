@@ -10,7 +10,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "http://www.lbh.fmed.edu.uy/como-es-su-plan-de-estudios.html"
+website: "https://udelar.edu.uy/carrera/licenciatura-biologia-humana"
 location: "Centro Universitario Regional Noreste Facultad de Ciencias"
 description: "Participan en el diseño y ejecución de actividades de investigación y desarrollo en laboratorios dedicados a la generación y gestión del conocimiento relacionado con aspectos humanos de la biología. Estarán capacitados para integrarse en equipos multidisciplinarios en el área Salud ya existentes, o en sectores de actividad cuyas interacciones con la Biología Humana están aún en etapa embrionaria y pueden ser catali"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'http://www.lbh.fmed.edu.uy/como-es-su-plan-de-estudios.html'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-biologia-humana'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'http://www.lbh.fmed.edu.uy/como-es-su-plan-de-estudios.html'
 ---
 
 ## Resumen

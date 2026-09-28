@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n"
+website: "https://udelar.edu.uy/carrera/ingenieria-de-produccion"
 location: "Facultad de Ingeniería"
 description: "El Ingeniero de Producción integrará los conocimientos de Ciencia, Tecnología y Administración, y estará capacitado para desarrollar, gestionar y optimizar sistemas de producción de bienes y servicios. Asimismo, actuará sobre sistemas que involucren recursos materiales, financieros y humanos, integr"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-de-produccion'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n'
 ---
 
 ## Resumen

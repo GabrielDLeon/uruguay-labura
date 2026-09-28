@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-hemoterapia"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-hemoterapia"
 location: "Facultad de Medicina; Paysandú"
 description: "Es el profesional de la salud que realiza la obtención, estudio inmunohematológico y serológico, procesamiento manual o mecánico, conservación y transfusión de la sangre humana, componentes, derivados y productos recombinantes de acuerdo con las técnicas al más alto nivel nacional e internacional."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-hemoterapia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-hemoterapia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-hemoterapia'
 ---
 
 ## Resumen

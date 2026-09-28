@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/"
+website: "https://udelar.edu.uy/carrera/ingeniero-agronomo"
 location: "Facultad de Agronomía; Salto"
 description: "Puede definirse al Ingeniero Agrónomo como el profesional universitario preparado para comprender, manejar, mejorar y transformar sistemas de producción agropecuarios con el objeto de servir al bienestar social y al desarrollo nacional sostenido. Se dicta en Montevideo y en el Centro Universitario Regional Litoral Norte, sede Salto (opción: Agrícola-ganadera)."
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingeniero-agronomo'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/'
 ---
 
 ## Resumen

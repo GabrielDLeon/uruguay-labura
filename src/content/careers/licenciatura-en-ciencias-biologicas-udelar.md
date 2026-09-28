@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-biologicas/2327-licenc"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-ciencias-biologicas"
 location: "Facultad de Ciencias"
 description: "El perfil más específico dependerá de la orientación: Biofísica: estudia los procesos físicos asociados al funcionamiento de los seres vivos como el funcionamiento de las redes neuronales en los sistemas cognitivos (cerebro y resto del sistema nervioso), o la entrada y salida de sustancias a través de las membranas en las células."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-biologicas/2327-licenc'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-ciencias-biologicas'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-biologicas/2327-licenc'
 ---
 
 ## Resumen

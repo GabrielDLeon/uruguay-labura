@@ -10,7 +10,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.artes.udelar.edu.uy/carreras-de-grado/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-interpretacion-musical"
 location: "Facultad de Artes"
 description: "El egresado deberá poseer: - sólidos conocimientos en materias (por ejemplo teóricas e históricas) que le permitan resolver de manera autónoma los problemas de carácter general que deba enfrentar. Esto se obtendrá a través de un conjunto de materias comunes (tronco común y materias troncales de licenciatura), que garanticen también un perfil común de formación para los egresados de las dos licenciaturas del Instituto de Música."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.artes.udelar.edu.uy/carreras-de-grado/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-interpretacion-musical'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.artes.udelar.edu.uy/carreras-de-grado/'
 ---
 
 ## Resumen

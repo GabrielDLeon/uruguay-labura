@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://cienciassociales.edu.uy/ensenanza/licenciatura-en-trabajo-social/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-trabajo-social"
 location: "Facultad de Ciencias Sociales"
 description: "El Trabajo Social construye su espacio profesional a partir de una problematización de las necesidades humanas, los procesos de colectivización y las formas sociales de satisfacción. Su intervención se concreta entre objetividades y subjetividades. Por un lado, supone una relación intersubjetiva en"
 startDate: ""
@@ -34,6 +34,8 @@ sources:
     url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-trabajo-social/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-trabajo-social'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-trabajo-social/'
 ---
 
 ## Resumen

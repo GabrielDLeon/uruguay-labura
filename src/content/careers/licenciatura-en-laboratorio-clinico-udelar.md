@@ -16,7 +16,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-laboratorio-clinico"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-laboratorio-clinico"
 location: "Facultad de Medicina; Paysandú"
 description: "El Licenciado en Laboratorio Clínico es el profesional universitario que realiza todos los procedimientos o técnicas analíticas que se desarrollan en el laboratorio clínico con fines preventivos, de diagnóstico o control terapéutico o evolutivo de las enfermedades. Posee conocimientos en materias bá"
 startDate: ""
@@ -33,6 +33,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-laboratorio-clinico'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-laboratorio-clinico'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-laboratorio-clinico'
 ---
 
 ## Resumen

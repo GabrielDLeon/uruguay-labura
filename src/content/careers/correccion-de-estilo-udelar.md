@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/tecnicatura-universitaria-en-correccion-de-estilo/"
+website: "https://udelar.edu.uy/carrera/correccion-de-estilo"
 location: "Facultad de Humanidades y Ciencias de la Educación"
 description: "Estará altamente capacitado para efectuar tareas de corrección de textos en distintos ámbitos laborales. Tendrá formación teórica y práctica que lo habilite para evaluar textos desde el punto de vista formal (ortográfico, morfosintáctico) y de estilo (periodístico, literario, ensayístico, académico, administrativo). Denominación del título: Técnico Universitario en Corrección de Estilo (lengua española)."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fhce.edu.uy/tecnicatura-universitaria-en-correccion-de-estilo/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/correccion-de-estilo'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/tecnicatura-universitaria-en-correccion-de-estilo/'
 ---
 
 ## Resumen

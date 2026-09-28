@@ -3,7 +3,7 @@ title: "Técnico en Fotografía y Postproducción Audiovisual"
 similar:
   - tecnico-en-realizacion-audiovisual-ort
   - licenciatura-en-comunicacion-audiovisual-ort
-  - licenciatura-en-artes-fotografia-udelar
+  - licenciatura-en-fotografia-udelar
   - licenciatura-en-cine-ucu
   - cine-latinoamericano-maestria-udelar
   - tecnicatura-en-tecnologias-de-la-imagen-fotografica-udelar

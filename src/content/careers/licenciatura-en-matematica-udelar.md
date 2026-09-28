@@ -10,7 +10,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-matematica/2330-licenciatura-en"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-matematica"
 location: "Facultad de Ciencias"
 description: "Las personas que egresan de la Licenciatura en Matemática están en condiciones de utilizar los métodos, herramientas y entrenamiento adquiridos para acometer de manera conveniente y aguda problemas de distinta índole, especialmente complejos e inusuales. También pueden iniciarse en la investigación"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-matematica/2330-licenciatura-en'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-matematica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-matematica/2330-licenciatura-en'
 ---
 
 ## Resumen

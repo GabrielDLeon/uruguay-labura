@@ -5,7 +5,7 @@ similar:
   - licenciatura-en-diseno-grafico-ort
   - tecnico-en-diseno-grafico-ude
   - licenciatura-en-diseno-grafico-ude
-  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-diseno-grafico-udelar
   - disenador-grafico-ude
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fadu.edu.uy/ldcv/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-diseno-de-comunicacion-visual"
 location: "Facultad de Arquitectura, Diseño y Urbanismo"
 description: "Es un profesional con conocimientos, capacidad y habilidad para actuar en cuestiones vinculadas a: Diseño de piezas gráficas Diseño editorial Diseño de instalaciones efímeras Diseño de comunicación publicitaria Diseño multimedia Diseño de envases y embalajes Proyectos de señalética Proyectos de sist"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fadu.edu.uy/ldcv/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-diseno-de-comunicacion-visual'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fadu.edu.uy/ldcv/'
 ---
 
 ## Resumen

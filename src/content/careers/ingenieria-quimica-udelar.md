@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/?q=en/node/20"
+website: "https://udelar.edu.uy/carrera/ingenieria-quimica"
 location: "Facultad de Ingeniería; Salto"
 description: "Es un profesional con sólidos conocimientos de la ingeniería de los procesos destinados al óptimo aprovechamiento de la materia y la energía, compatibles con un desarrollo sustentable, en los cuales se trata la materia para efectuar en ella un cambio, ya sea en su estado, en su contenido de energía o en su composición. En el ejercicio profesional, el Ing. Químico será capa"
 startDate: ""
@@ -38,6 +38,8 @@ sources:
     url: 'https://www.fq.edu.uy/?q=en/node/20'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-quimica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/?q=en/node/20'
 ---
 
 ## Resumen

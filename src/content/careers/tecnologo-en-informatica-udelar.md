@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico"
+website: "https://udelar.edu.uy/carrera/tecnologo-en-informatica"
 location: "Facultad de Ingeniería; Maldonado; Paysandú"
 description: "El Tecnólogo en Informática forma profesionales con las capacidades para actuar en el desarrollo, puesta en marcha, mantenimiento y administración de sistemas informáticos. La cercanía entre estudiantes y docentes es uno de los diferenciales de esta carrera, y un recurso de gran valor para quienes la cursan. Clases prácticas y metodología activas distinguen el proceso de enseñan"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-informatica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico'
 ---
 
 ## Resumen

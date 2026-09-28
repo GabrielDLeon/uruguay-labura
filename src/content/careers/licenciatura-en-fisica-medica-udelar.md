@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "http://medicanew.fisica.edu.uy/licenciatura/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-fisica-medica"
 location: "Facultad de Ciencias"
 description: "Debe estar capacitado para trabajar en el ambiente hospitalario, en ámbitos de aplicación de tecnologías de Diagnóstico y Tratamiento Especializados que utilicen agentes físicos (Rayos X, otras radiaciones ionizantes, láser, ultrasonido, PET y RMN, etc.); la programación, planificación y puesta en m"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'http://medicanew.fisica.edu.uy/licenciatura/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-fisica-medica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'http://medicanew.fisica.edu.uy/licenciatura/'
 ---
 
 ## Resumen

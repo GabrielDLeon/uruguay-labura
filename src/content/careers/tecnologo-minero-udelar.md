@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/tecnologo-minero/"
+website: "https://udelar.edu.uy/carrera/tecnologo-minero"
 location: "Treinta y Tres"
 description: "En el ejercicio de su profesión el egresado podrá participar en las actividades de prospección, exploración y explotación de los recursos minerales, tanto en la planificación como en su ejecución. También podrá participar de la evaluación del impacto ambiental y aplicación de normas de higiene y seguridad laboral para prevenir riesgos para la salud."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/tecnologo-minero/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-minero'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/tecnologo-minero/'
 ---
 
 ## Resumen

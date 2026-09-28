@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/tecnicatura-universitaria-en-dramaturgia/"
+website: "https://udelar.edu.uy/carrera/dramaturgia"
 location: "Facultad de Humanidades y Ciencias de la Educación"
 description: "La Escuela Multidisciplinaria de Arte Dramático EMAD, unidad asociada al Instituto Escuela Nacional de Bellas Artes IENBA, a través del convenio firmado en julio de 2013 entre la Intendencia de Montevideo y la Universidad de la República Udelar, junto con la Facultad de Humanidades y Ciencias de la Educación FHCE en respuesta a la preocupación de dar unidad y mayor fuer"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://fhce.edu.uy/tecnicatura-universitaria-en-dramaturgia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/dramaturgia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/tecnicatura-universitaria-en-dramaturgia/'
 ---
 
 ## Resumen

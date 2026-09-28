@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/?q=es/node/1853"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-tecnologias-de-la-quimica"
 location: "Facultad de Química"
 description: "El Licenciado en Tecnologías de la Química es el profesional que se caracteriza por: a) Poseer sólidos conocimientos en las tecnologías de la química, con énfasis en ciencias moleculares, como por ejemplo, nanotecnología, biotecnología u otras tecnologías emergentes o consolidadas. b) Asesorar y col"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fq.edu.uy/?q=es/node/1853'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-tecnologias-de-la-quimica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/?q=es/node/1853'
 ---
 
 ## Resumen

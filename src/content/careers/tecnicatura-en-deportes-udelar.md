@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/tecnicatura/"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-deportes"
 location: "Instituto Superior de Educación Física"
 description: "El diseño curricular de la Tecnicatura en Deportes se propone la formación de un profesional capacitado para asumir el entrenamiento de la modalidad deportiva específica, desde la iniciación hasta el alto rendimiento deportivo. En este sentido, el perfil del egresado define la formación de un profesional con dominio técnico-metodológico en su especialidad deportiva, que le permita desenvolverse en el campo laboral que él seleccione."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/tecnicatura/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-deportes'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://isef.udelar.edu.uy/ensenanza/ofertas-de-grado/tecnicatura/'
 ---
 
 ## Resumen

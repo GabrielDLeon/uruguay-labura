@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/?q=es/node/618"
+website: "https://udelar.edu.uy/carrera/bioquimico-clinico"
 location: "Facultad de Química; Salto"
 description: "Es un profesional con sólidos conocimientos en análisis clínicos, tanto en lo relativo a las metodologías aplicadas en Bioquímica, Microbiología, Histología, Inmunología y Toxicología como en el conocimiento de la fisiopatología de los seres vivos. El bioquímico clínico estará capacitado para diseñar, desarrollar, planificar, aplicar, reali"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fq.edu.uy/?q=es/node/618'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/bioquimico-clinico'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/?q=es/node/618'
 ---
 
 ## Resumen

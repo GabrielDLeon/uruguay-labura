@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2,5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.rivera.udelar.edu.uy/gestion-de-recursos-naturales-y-desarrollo-sustentable/"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-gestion-de-recursos-naturales"
 location: "Rivera"
 description: "El/ la egresado/a de la Carrera estará capacitado/a para desempeñarse laboralmente en empresas públicas o privadas, integrando equipos de trabajo junto con profesionales provenientes de diversas disciplinas. Será capaz de articular al sector productivo con las comunidades locales, así como participa"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.rivera.udelar.edu.uy/gestion-de-recursos-naturales-y-desarrollo-sustentable/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-gestion-de-recursos-naturales'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.rivera.udelar.edu.uy/gestion-de-recursos-naturales-y-desarrollo-sustentable/'
 ---
 
 ## Resumen

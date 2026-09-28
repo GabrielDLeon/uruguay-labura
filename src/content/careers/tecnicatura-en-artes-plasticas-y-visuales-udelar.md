@@ -1,12 +1,12 @@
 ---
 title: "Tecnicatura en Artes - Plásticas y Visuales"
 similar:
-  - licenciatura-en-artes-artes-plasticas-y-visuales-udelar
+  - licenciatura-en-artes-plasticas-y-visuales-udelar
   - licenciatura-en-artes-visuales-ucu
-  - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
-  - licenciatura-en-artes-fotografia-udelar
-  - licenciatura-en-artes-ceramica-udelar
-  - licenciatura-en-artes-dibujo-y-pintura-udelar
+  - licenciatura-en-escultura-y-volumen-en-el-espacio-udelar
+  - licenciatura-en-fotografia-udelar
+  - licenciatura-en-ceramica-udelar
+  - licenciatura-en-dibujo-y-pintura-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "tecnicatura"
@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.rivera.udelar.edu.uy/artesplasticasyvisuales/"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-artes-plasticas-y-visuales"
 location: "Rivera"
 description: "Estar capacitado/a en el manejo de las técnicas, lenguajes y demás saberes que propician la interpretación, recepción, y producción artística, atendiendo en especial las dimensiones éticas y estéticas."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.rivera.udelar.edu.uy/artesplasticasyvisuales/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-artes-plasticas-y-visuales'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.rivera.udelar.edu.uy/artesplasticasyvisuales/'
 ---
 
 ## Resumen

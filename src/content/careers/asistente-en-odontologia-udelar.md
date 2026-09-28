@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://odon.edu.uy/sitio/asistente-en-odontologia/"
+website: "https://udelar.edu.uy/carrera/asistente-en-odontologia"
 location: "Facultad de Odontología"
 description: "La/el Asistente en Odontología integra equipos de salud bucal, con un perfil científico-técnico y humanístico, cuya función consiste en aplicar técnicas y procedimientos que optimizan el trabajo del equipo, permitiendo a sus integrantes ser más eficientes en sus cometidos. Desarrolla sus tareas bajo"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://odon.edu.uy/sitio/asistente-en-odontologia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/asistente-en-odontologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://odon.edu.uy/sitio/asistente-en-odontologia/'
 ---
 
 ## Resumen

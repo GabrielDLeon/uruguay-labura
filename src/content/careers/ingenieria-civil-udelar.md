@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-civil"
+website: "https://udelar.edu.uy/carrera/ingenieria-civil"
 location: "Facultad de Ingeniería"
 description: "Es un profesional que se dedica a la producción de bienes y servicios en forma eficiente y económica vinculados a obras de infraestructura, hidráulicas y de trasporte. Esta actividad se materializa fundamentalmente a través de la ejecución de diseños, la construcción de obras, la gestión, operación"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-civil'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-civil'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-civil'
 ---
 
 ## Resumen

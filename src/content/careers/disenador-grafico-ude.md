@@ -6,7 +6,7 @@ similar:
   - disenador-de-interiores-ude
   - diseno-grafico-ort
   - tecnico-en-diseno-grafico-ude
-  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-diseno-grafico-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "diplomado"

@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-diseno-de-paisaje/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-diseno-de-paisaje"
 location: "Maldonado"
 description: "Figura profesional dotada de competencia específica en un campo operativo complejo que se ocupa de: Diseñar y sistematizar el conjunto de las áreas de parques, jardines y estructuras recreativas, calles con alineamientos arbóreos, plazas, áreas comerciales y residenciales exteriores de edificios púb"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-diseno-de-paisaje/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-diseno-de-paisaje'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-diseno-de-paisaje/'
 ---
 
 ## Resumen

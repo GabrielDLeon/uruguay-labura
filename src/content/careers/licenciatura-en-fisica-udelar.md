@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-fisicas/2334-licenciat"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-fisica"
 location: "Facultad de Ciencias"
 description: "Las personas que egresan de la Licenciatura en Física son profesionales que conjugan una comprensión profunda de los conceptos y principios de la física con una capacidad para aplicarlos en la práctica a fenómenos naturales y procesos tecnológicos. Poseen habilidades y destrezas para plantear, anali"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-fisicas/2334-licenciat'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-fisica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-fisicas/2334-licenciat'
 ---
 
 ## Resumen

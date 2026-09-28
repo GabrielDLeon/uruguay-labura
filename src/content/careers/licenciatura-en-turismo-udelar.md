@@ -16,7 +16,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-turismo/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-turismo"
 location: "Maldonado; Salto"
 description: "El plan de estudios apunta a la formación integral de profesionales en el área turismo, en tanto una actividad que genera interrelaciones sociales, económicas, culturales, ambientales y políticas. Por ser una actividad dinámica, presenta constantes desafíos que requieren un profesional en condiciones de abordar la realidad turística desde una perspectiva que articule permanentemente el saber científico y la práctica. El profesional deberá ser capa"
 startDate: ""
@@ -34,6 +34,8 @@ sources:
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-turismo/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-turismo'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-turismo/'
 ---
 
 ## Resumen

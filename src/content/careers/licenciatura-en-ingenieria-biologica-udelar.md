@@ -18,7 +18,7 @@ duration: "4 años"
 credits: 360
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-ingenieria-biologica"
 location: "Montevideo; Salto; Paysandú"
 description: "La Licenciatura en Ingeniería Biológica es una nueva carrera orientada a la formación de especialistas con un amplio campo de acción ya que aborda y combina prácticamente todas las ramas de la ciencia y sus aplicaciones. La Ingeniería Biológica trabaja en el vasto mundo de las ciencias de la vida, utilizando las herramientas analíticas de la ingeniería, la ciencia y la tecnología para el entendimiento y la resolución de problemas de biología y medicina."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA'
   - label: 'Sitio web de la carrera'
     url: 'http://ingenieriabiologica.cup.edu.uy'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA'
 ---
 
 ## Resumen

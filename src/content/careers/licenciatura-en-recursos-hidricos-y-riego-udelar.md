@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-recursos-hidricos-y-riego"
 location: "Regional Norte, Salto"
 description: "Ofrecer al país la formación de profesionales especialistas en agua, con conocimiento amplio de las distintas disciplinas que comprende la orientación, solidez conceptual y capacidad de resolución en aspectos teórico-prácticos, habilidad en el manejo de las herramientas informáticas e instrumental necesarios para resolver situaciones y desarrollos que la producción agrícola, ganadera, agroindustrial y los entes administradores del recurso hídrico requieran."
 startDate: ""
@@ -33,6 +33,8 @@ createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
   - label: 'Página oficial FING'
+    url: 'https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto'
+  - label: 'Sede o facultad (fuente anterior)'
     url: 'https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto'
 ---
 

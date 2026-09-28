@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.rivera.udelar.edu.uy/tecnologo-en-madera/"
+website: "https://udelar.edu.uy/carrera/tecnologo-en-madera"
 location: "Rivera"
 description: "Los egresados podrán desarrollar tareas vinculadas a tecnologías relacionadas con la cosecha forestal y la ingeniería industrial maderera, en mantenimiento, producción o gestión, de complejidad relativa, así como integrarse al trabajo en equipo para la realización de las mismas actividades en situac"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.rivera.udelar.edu.uy/tecnologo-en-madera/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-madera'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.rivera.udelar.edu.uy/tecnologo-en-madera/'
 ---
 
 ## Resumen

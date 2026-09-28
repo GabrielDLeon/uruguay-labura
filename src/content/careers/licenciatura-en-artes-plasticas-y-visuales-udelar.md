@@ -3,9 +3,9 @@ title: "Licenciatura en Artes - Artes Plásticas y Visuales"
 similar:
   - tecnicatura-en-artes-plasticas-y-visuales-udelar
   - licenciatura-en-artes-visuales-ucu
-  - licenciatura-en-artes-escultura-y-volumen-en-el-espacio-udelar
-  - licenciatura-en-artes-ceramica-udelar
-  - licenciatura-en-artes-dibujo-y-pintura-udelar
+  - licenciatura-en-escultura-y-volumen-en-el-espacio-udelar
+  - licenciatura-en-ceramica-udelar
+  - licenciatura-en-dibujo-y-pintura-udelar
   - licenciatura-en-artes-digitales-ort
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

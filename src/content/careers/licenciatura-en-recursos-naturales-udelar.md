@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.rivera.udelar.edu.uy/recursos-naturales/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-recursos-naturales"
 location: "Rivera"
 description: "Las personas que egresan de la Licenciatura en Recursos Naturales son profesionales con una sólida formación en los aspectos científicos relacionados con la estructura y funcionamiento de los sistemas ambientales, y en especial en aspectos técnicos de la gestión y desarrollo sustentable de los sistemas naturales."
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.rivera.udelar.edu.uy/recursos-naturales/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-recursos-naturales'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.rivera.udelar.edu.uy/recursos-naturales/'
 ---
 
 ## Resumen

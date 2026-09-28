@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fder.edu.uy/rrii"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-relaciones-internacionales"
 location: "Facultad de Derecho"
 description: "Comenzando un nuevo siglo y nuevo milenio nos encontramos frente a una realidad cambiante, con un mundo globalizado e interdependiente, competitivo, en continua y violenta transformación, donde el asesoramiento de profesionales capacitados en el tema, se hace imprescindible para adecuarse a ello. El"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fder.edu.uy/rrii'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-relaciones-internacionales'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fder.edu.uy/rrii'
 ---
 
 ## Resumen

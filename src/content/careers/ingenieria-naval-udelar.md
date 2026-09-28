@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-naval"
+website: "https://udelar.edu.uy/carrera/ingenieria-naval"
 location: "Facultad de Ingeniería"
 description: "El ingeniero naval está capacitado para la construcción de material naval flotante: barcos mercantes, buques pesqueros, buques de uso militar de pequeño desplazamiento, plataformas, embarcaciones especiales, embarcaciones deportivas, etcétera. A partir de su formación, posee la capacidad de dirigir"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-naval'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-naval'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-naval'
 ---
 
 ## Resumen

@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/243-ensenanza/licenciaturas/licenciatura-en-bio"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-biotecnologia"
 location: "Facultad de Ciencias Facultad de Química; Paysandú; Salto"
 description: "El Licenciado en Biotecnología es un profesional con sólidos conocimientos en los fundamentos de los procesos biotecnológicos y capacidad para insertarse en empresas intensivas en el uso de conocimiento, o generar un nuevo emprendimiento."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/243-ensenanza/licenciaturas/licenciatura-en-bio'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-biotecnologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/243-ensenanza/licenciaturas/licenciatura-en-bio'
 ---
 
 ## Resumen

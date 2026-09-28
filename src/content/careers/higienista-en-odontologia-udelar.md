@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://odon.edu.uy/sitio/higienista-en-odontologia/"
+website: "https://udelar.edu.uy/carrera/higienista-en-odontologia"
 location: "Facultad de Odontología"
 description: "La/el Higienista en Odontología cuenta con un propósito de función eminentemente educativo, preventivo y de promoción de la salud a nivel individual y comunitario. Aborda la problemática de la salud de la sociedad, participando activamente en su discusión y transformación. Planifica, ejecuta y evalúa programas comunitarios de promoción de salud bucal basado en la realidad y necesidades de la población."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://odon.edu.uy/sitio/higienista-en-odontologia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/higienista-en-odontologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://odon.edu.uy/sitio/higienista-en-odontologia/'
 ---
 
 ## Resumen

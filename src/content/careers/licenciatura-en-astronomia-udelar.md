@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-astronomia"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-astronomia"
 location: "Facultad de Ciencias"
 description: "Las personas que egresan de la Licenciatura en Astronomía tienen una sólida formación en física y matemática que les permite analizar y resolver problemas relativos a la naturaleza física y dinámica de los cuerpos celestes y sus relaciones con la Tierra, así como el origen y estructura del universo"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-astronomia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-astronomia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-astronomia'
 ---
 
 ## Resumen

@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-podologia"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-podologia"
 location: "Facultad de Medicina; Paysandú"
 description: "Está capacitado para cumplir con un rol educativo, preventivo, orientador, efectuando tratamientos, diagnósticos relacionados con las diversas patologías que afectan los miembros inferiores dentro del área específica de su competencia. Posee conocimientos en las materias básicas afines a la disciplina que le permiten comprender e interpretar racional y perfectamente los fundamentos de los procedimientos y técnicas que reali"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-podologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-podologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-podologia'
 ---
 
 ## Resumen

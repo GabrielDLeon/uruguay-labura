@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/tecnologo-en-interpretacion-y-traduccion-lsu-espanol/"
+website: "https://udelar.edu.uy/carrera/interpretacion-lsu-espanol-lsu"
 location: "Facultad de Humanidades y Ciencias de la Educación; Salto"
 description: "El Tecnólogo en interpretación y traducción LSU Español estará en condiciones de desempeñarse profesionalmente en todos aquellos ámbitos públicos y privados en que su presencia sea requerida. Se desempeñan como intérpretes oyentes, sordos, sordos y oyentes."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fhce.edu.uy/tecnologo-en-interpretacion-y-traduccion-lsu-espanol/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/interpretacion-lsu-espanol-lsu'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/tecnologo-en-interpretacion-y-traduccion-lsu-espanol/'
 ---
 
 ## Resumen

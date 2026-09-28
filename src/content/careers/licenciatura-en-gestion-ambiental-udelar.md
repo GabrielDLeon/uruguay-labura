@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-gestion-ambiental"
 location: "Maldonado; Rocha; Treinta y Tres"
 description: "El egresado será capaz de comprender, analizar, investigar y gestionar problemáticas ambientales teniendo en cuenta las dimensiones ecológicas, económicas, patrimoniales y sociales y aquellas involucradas en el diseño y gestión de sistemas e producción, políticas y planes de ordenación territorial,"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-gestion-ambiental'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/'
 ---
 
 ## Resumen

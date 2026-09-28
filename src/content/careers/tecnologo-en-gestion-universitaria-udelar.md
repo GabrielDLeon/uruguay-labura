@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "30 meses"
 cost: "Gratuita"
 language: "Español"
-website: "https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/243-tecnico-en-gestion-universitaria.html"
+website: "https://udelar.edu.uy/carrera/tecnologo-en-gestion-universitaria"
 location: "Facultad de Ciencias Económicas y de Administración"
 description: "Los egresados estarán capacitados para desempeñarse en instituciones de enseñanza terciaria tanto a nivel público como privado y en organismos públicos que ejercen funciones de supervisión de dicho nivel de enseñanza. Pueden intervenir en actividades de gestión y administración de estas institucione"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/243-tecnico-en-gestion-universitaria.html'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-gestion-universitaria'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/243-tecnico-en-gestion-universitaria.html'
 ---
 
 ## Resumen

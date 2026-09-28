@@ -4,7 +4,7 @@ similar:
   - medicina-familiar-y-comunitaria-especializacion-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar
   - psicologia-en-servicios-de-salud-especializacion-udelar
-  - promcoion-y-educacion-para-la-salud-especializacion-udelar
+  - promocion-y-educacion-para-la-salud-especializacion-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
   - higienista-en-odontologia-udelar
 institutionName: "Universidad de la República (UDELAR)"

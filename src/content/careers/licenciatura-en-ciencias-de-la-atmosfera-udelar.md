@@ -11,7 +11,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-de-la-atmosfera/2333-l"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-ciencias-de-la-atmosfera"
 location: "Facultad de Ciencias"
 description: "Las personas que egresan de la Licenciatura en Ciencias de la Atmósfera cuentan con las capacidades para plantear y atender problemas en meteorología sinóptica, observación y predicción del tiempo, climatología y variabilidad climática, con énfasis en la región del sudeste de Sudamérica. Manejan con familiaridad la jerarquía de modelos del tiempo y el clima (dinámicos, numéricos, estadísticos o combinaciones)."
 startDate: ""
@@ -30,6 +30,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-de-la-atmosfera/2333-l'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-ciencias-de-la-atmosfera'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-ciencias-de-la-atmosfera/2333-l'
 ---
 
 ## Resumen

@@ -6,7 +6,7 @@ similar:
   - afrodescendencia-y-politicas-publicas-especializacion-udelar
   - jovenes-juventud-y-politicas-publicas-especializacion-udelar
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - maestria-y-en-politicas-publicas-maestria-udelar
+  - politicas-publicas-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"

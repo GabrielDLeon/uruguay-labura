@@ -16,7 +16,7 @@ weeklyHours: "No especificado"
 duration: "2,5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.cure.edu.uy/ensenanza/oferta-educativa/tecnologo-en-telecomunicaciones/"
+website: "https://udelar.edu.uy/carrera/tecnologo-en-telecomunicaciones"
 location: "Facultad de Ingeniería; Rocha"
 description: "Tiene capacidades para asistir en el diseño y el despliegue de sistemas de telecomunicaciones y para realizar su mantenimiento y administración. Podrá participar como técnico calificado en tareas de desarrollo de proyectos en el área de las telecomunicaciones, integrándose al trabajo colectivo y mul"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/tecnologo-en-telecomunicaciones/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-telecomunicaciones'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/tecnologo-en-telecomunicaciones/'
 ---
 
 ## Resumen

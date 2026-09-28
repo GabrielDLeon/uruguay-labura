@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/licenciatura-en-filosofia/"
+website: "https://udelar.edu.uy/carrera/filosofia"
 location: "Facultad de Humanidades y Ciencias de la Educación"
 description: "Se propone formar investigadores que sean capaces de intervenir activa, crítica y propositivamente en procesos educativos de las más diversas características. Para ello, se propone centrar la formación en el estudio de la especificidad de los fenómenos educativos, a partir de una sólida preparación en investigación y enseñan"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://fhce.edu.uy/licenciatura-en-filosofia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/filosofia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/licenciatura-en-filosofia/'
 ---
 
 ## Resumen

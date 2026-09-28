@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fder.edu.uy/traductorado"
+website: "https://udelar.edu.uy/carrera/traductorado-publico-italiano"
 location: "Facultad de Derecho"
 description: "A partir del año 2023, se comenzará a implementar gradualmente la Licenciatura en Traducción Pública (en alemán, francés, inglés, italiano y portugués). Para cursar la licenciatura habrá que rendir una prueba de admisión en la lengua elegida. Las competencias adquiridas por el Lic. en Traducción Púb"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fder.edu.uy/traductorado'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/traductorado-publico-italiano'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fder.edu.uy/traductorado'
 ---
 
 ## Resumen

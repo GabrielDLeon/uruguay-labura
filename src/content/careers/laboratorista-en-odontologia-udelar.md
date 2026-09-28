@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://odon.edu.uy/sitio/laboratorista-en-odontologia/"
+website: "https://udelar.edu.uy/carrera/laboratorista-en-odontologia"
 location: "Facultad de Odontología"
 description: "La/el Laboratorista en Odontología tiene un rol fundamental en la restauración y mejora de la salud oral de las personas, proporcionando soluciones personalizadas y adaptadas a cada caso clínico. Forma parte del equipo de salud bucal, trabajando en vínculo estrecho con odontóloga u odontólogo, siend"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://odon.edu.uy/sitio/laboratorista-en-odontologia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/laboratorista-en-odontologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://odon.edu.uy/sitio/laboratorista-en-odontologia/'
 ---
 
 ## Resumen

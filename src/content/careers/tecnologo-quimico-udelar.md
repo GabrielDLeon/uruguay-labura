@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy/?q=es/node/22"
+website: "https://udelar.edu.uy/carrera/tecnologo-quimico"
 location: "Facultad de Química; Paysandú"
 description: "El egresado de esta carrera adquiere una formación que le permite conocer los fundamentos de las técnicas usuales en un laboratorio de control industrial y emplear criterios adecuados para: 1) Verificar y calibrar instrumentos de análisis 2) Realizar análisis físicos, químicos y microbióticos, empel"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fq.edu.uy/?q=es/node/22'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-quimico'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy/?q=es/node/22'
 ---
 
 ## Resumen

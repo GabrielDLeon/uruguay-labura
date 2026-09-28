@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-anatomia-patologica"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-anatomia-patologica"
 location: "Facultad de Medicina; Paysandú"
 description: "Es el profesional universitario capacitado para procesar cualquier tipo de material biológico y volverlo apto para un estudio microscópico (y eventualmente macroscópico), sea con fines diagnósticos, docentes, de investigación."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-anatomia-patologica'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-anatomia-patologica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-anatomia-patologica'
 ---
 
 ## Resumen

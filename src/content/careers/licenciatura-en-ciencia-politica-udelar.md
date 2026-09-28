@@ -1,7 +1,7 @@
 ---
 title: "Licenciatura en Ciencia Política"
 similar:
-  - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-maestria-udelar
   - licenciatura-en-ciencia-politica-ucu
   - ciencia-politica-doctorado-udelar
   - postgrado-en-comunicacion-politica-um
@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://cienciassociales.edu.uy/departamento-de-ciencia-politica/licenciatura-en-ciencia-politica/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-ciencia-politica"
 location: "Facultad de Ciencias Sociales"
 description: "Se forman profesionales aptos para desempeñarse en el Estado y en las instituciones públicas, en los partidos y en los cuerpos gremiales, en los organismos de acción social, en las empresas y en otras entidades privadas -enfocando los fenómenos políticos en su especificidad, contemplando su autonomía y su dinámica propia- mediante el cumplimiento de las tareas básicas de la disciplina: docencia, investigación teórica e investigación aplicada,"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://cienciassociales.edu.uy/departamento-de-ciencia-politica/licenciatura-en-ciencia-politica/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-ciencia-politica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://cienciassociales.edu.uy/departamento-de-ciencia-politica/licenciatura-en-ciencia-politica/'
 ---
 
 ## Resumen

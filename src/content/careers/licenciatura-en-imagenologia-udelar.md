@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-imagenologia"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-imagenologia"
 location: "Río Negro Facultad de Medicina; Paysandú"
 description: "El licenciado en Imagenología es el profesional universitario capacitado especialmente para la operación de equipamiento imagenológico de diagnóstico basado en el uso de radiaciones ionizantes, así como de otros métodos que utilizan otros fundamentos físicos para la obtención de imágenes. Resulta in"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-imagenologia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-imagenologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-imagenologia'
 ---
 
 ## Resumen

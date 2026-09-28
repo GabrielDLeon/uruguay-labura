@@ -5,7 +5,7 @@ similar:
   - sociologia-y-metodos-avanzados-de-investigacion-maestria-udelar
   - licenciatura-en-sociologia-ucu
   - sociologia-doctorado-udelar
-  - maestria-y-en-politicas-publicas-maestria-udelar
+  - politicas-publicas-maestria-udelar
   - genero-y-politicas-publicas-especializacion-udelar
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://cienciassociales.edu.uy/ensenanza/licenciatura-en-sociologia/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-sociologia"
 location: "Facultad de Ciencias Sociales"
 description: "Se desempeña en asesorías y consultorías a fin de contribuir a la elaboración de diagnósticos, al diseño, discusión, implementación y evaluación de propuestas, para la solución de las diferentes problemáticas sociales de las que se trate. Se integra académicamente en centros de investigación, formula nuevas preguntas de investigación, diseña planes y proyectos destinados a darles respuesta."
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-sociologia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-sociologia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://cienciassociales.edu.uy/ensenanza/licenciatura-en-sociologia/'
 ---
 
 ## Resumen

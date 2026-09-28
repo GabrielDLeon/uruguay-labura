@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fadu.edu.uy/bedelia/arquitectura/"
+website: "https://udelar.edu.uy/carrera/arquitectura"
 location: "Facultad de Arquitectura, Diseño y Urbanismo"
 description: "El nuevo plan define la existencia de un título único de base generalista. Se asume la definición del perfil de egreso asignado a las carreras de Arquitectura del Sistema Arcusur-Mercosur Educativo como marco básico para la elaboración del nuevo plan. En tal sentido, se define al arquitecto como un profesional con perfil técnico y humanístico, de alcance generalista, capa"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://www.fadu.edu.uy/bedelia/arquitectura/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/arquitectura'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fadu.edu.uy/bedelia/arquitectura/'
 ---
 
 ## Resumen

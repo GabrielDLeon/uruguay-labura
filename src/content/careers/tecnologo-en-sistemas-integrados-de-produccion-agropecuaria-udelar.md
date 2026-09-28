@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/tecnologo-en-sistemas-integrados-de-produc"
+website: "https://udelar.edu.uy/carrera/tecnologo-en-sistemas-integrados-de-produccion-agropecuaria"
 location: "Cerro Largo"
 description: "El egresado estará capacitado para colaborar con actividades de extensión, asistencia técnica e investigación relacionados a la implantación y gerenciamiento de sistemas silvopastoriles. El profesional estará capacitado a elaborar, aplicar y monitorear programas profilácticos e higiénicos en la producción animal, y reali"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/tecnologo-en-sistemas-integrados-de-produc'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-sistemas-integrados-de-produccion-agropecuaria'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/tecnologo-en-sistemas-integrados-de-produc'
 ---
 
 ## Resumen

@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-bioquimica/2329-licenciatura-en"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-bioquimica"
 location: "Facultad de Ciencias"
 description: "Estará preparado, en su egreso, a elegir según el interés del estudiante las siguientes orientaciones: Académica, Diagnóstico de Laboratorio en Salud Humana, Biotecnología, Bioquímica Vegetal, Bioquímica Alimentaria, y Bioquímica Ambiental."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-bioquimica/2329-licenciatura-en'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-bioquimica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fcien.edu.uy/ensenanza/carreras-de-grado/licenciatura-en-bioquimica/2329-licenciatura-en'
 ---
 
 ## Resumen

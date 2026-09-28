@@ -4,7 +4,7 @@ similar:
   - politicas-y-gestion-publica-maestria-udelar
   - maestria-en-politicas-publicas-ucu
   - diploma-en-comunicacion-de-las-organizaciones-publicas-ucu
-  - maestria-en-ciencia-politica-maestria-udelar
+  - ciencia-politica-maestria-udelar
   - gestion-financiera-en-instituciones-publicas-especializacion-udelar
   - derecho-opcion-administrativo-y-gestion-publica-maestria-udelar
 institutionName: "Universidad Católica del Uruguay"

@@ -18,7 +18,7 @@ duration: "5 años"
 credits: 450
 cost: "Gratuita"
 language: "Español"
-website: "https://udelar.edu.uy/carrerasinterior/ingenieria_computacion/"
+website: "https://udelar.edu.uy/carrera/ingenieria-en-computacion"
 description: "Ingeniería en Computación de 5 años ofrecida por la Facultad de Ingeniería de UDELAR en el CENUR Litoral Norte, sedes Paysandú y Salto."
 location: "Paysandú, Salto"
 accreditation: "UDELAR"

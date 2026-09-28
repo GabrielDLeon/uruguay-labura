@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fic.edu.uy/ensenanza/grado/lic-en-comunicacion"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-comunicacion"
 location: "Facultad de Información y Comunicación"
 description: "La Licenciatura en Comunicación brinda una formación integral en los diferentes lenguajes, medios y tecnologías de la comunicación, en la que se potencian las capacidades analíticas, creativas y expresivas de los estudiantes. Los egresados son capaces de analizar críticamente los fenómenos comunicac"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://fic.edu.uy/ensenanza/grado/lic-en-comunicacion'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-comunicacion'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fic.edu.uy/ensenanza/grado/lic-en-comunicacion'
 ---
 
 ## Resumen

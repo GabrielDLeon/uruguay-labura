@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fq.edu.uy//es/node/749"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-quimica"
 location: "Facultad de Química; Salto"
 description: "El Licenciado en Química estará capacitado para: - realizar las tareas prácticas inherentes al trabajo en laboratorios de distintas áreas - insertarse en un grupo de investigación generando conocimiento científico - continuar hacia estudios más avanzados y especializados que lo conduzcan a obtener u"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fq.edu.uy//es/node/749'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-quimica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fq.edu.uy//es/node/749'
 ---
 
 ## Resumen

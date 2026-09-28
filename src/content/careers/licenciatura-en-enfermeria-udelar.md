@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "54 meses"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fenf.edu.uy/ensenanza/area-academica/departamento-de-educacion/carrera-de-grado/"
+website: "https://udelar.edu.uy/carrera/licenciatura-en-enfermeria"
 location: "Rivera Facultad de Enfermería; Rocha; Salto"
 description: "Conducir el proceso de atención que realiza el equipo de enfermería en los diferentes niveles de atención. Asumir la responsabilidad de la enseñanza de enfermería en todos los niveles de formación y participar en la enseñanza de acciones de salud dirigidas a la población. Administrar y en consecuenc"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fenf.edu.uy/ensenanza/area-academica/departamento-de-educacion/carrera-de-grado/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/licenciatura-en-enfermeria'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fenf.edu.uy/ensenanza/area-academica/departamento-de-educacion/carrera-de-grado/'
 ---
 
 ## Resumen

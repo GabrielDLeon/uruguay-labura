@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fder.edu.uy/abogacia"
+website: "https://udelar.edu.uy/carrera/abogacia"
 location: "Facultad de Derecho"
 description: "El egresado de la carrera de Abogacía es un profesional con sólidos conocimientos en la Ciencia Jurídica -en el marco normativo nacional e internacional- así como en la relación del Derecho con las Ciencias Sociales y Humanísticas en general, todo lo cual le permite desarrollar la capacidad analítica para resolver problemas jurídicos con un enfoque humanista. En su formación adquiere habilidades y destre"
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.fder.edu.uy/abogacia'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/abogacia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fder.edu.uy/abogacia'
 ---
 
 ## Resumen

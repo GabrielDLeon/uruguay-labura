@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-direccion-coros"
+website: "https://udelar.edu.uy/carrera/tecnicatura-en-direccion-de-coros"
 location: "Salto"
 description: "El objetivo de la tecnicatura es contribuir a la formación de docentes a fin de incrementar la capacidad docente musical de la región. Se brindan al estudiante conocimientos y habilidades básicas y sólidas en interpretación o dirección de conjuntos, así como en aspectos fundamentales de la teoría de la música, que le permitan desarrollar las herramientas fundamentales para su desempeño como músico."
 startDate: ""
@@ -36,6 +36,8 @@ sources:
     url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-direccion-coros'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnicatura-en-direccion-de-coros'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-direccion-coros'
 ---
 
 ## Resumen

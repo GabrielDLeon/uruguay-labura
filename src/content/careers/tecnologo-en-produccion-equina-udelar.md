@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "6 meses"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fvet.edu.uy/ensenanza/grado/tecnologo-en-produccion-equina/"
+website: "https://udelar.edu.uy/carrera/tecnologo-en-produccion-equina"
 location: "Cerro Largo"
 description: "El egresado estará capacitado para insertarse en diferentes etapas y procesos relacionados a la producción equina, que incluye aspectos de bienestar animal, alimentación, manejo, gestión e innovación en emprendimientos ecuestres. Además, estarán formados para trabajar de forma interdisciplinaria con otros técnicos y profesionales en las tareas de implementación, supervisión, monitoreo y/o ejecución de los emprendimientos productivos, de servicios y"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fvet.edu.uy/ensenanza/grado/tecnologo-en-produccion-equina/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/tecnologo-en-produccion-equina'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fvet.edu.uy/ensenanza/grado/tecnologo-en-produccion-equina/'
 ---
 
 ## Resumen

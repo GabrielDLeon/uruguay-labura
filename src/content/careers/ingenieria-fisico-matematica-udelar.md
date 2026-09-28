@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://www.fing.edu.uy/es/node/45266"
+website: "https://udelar.edu.uy/carrera/ingenieria-fisico-matematica"
 location: "Facultad de Ingeniería"
 description: "El Ingeniero Físico-Matemático estará capacitado para analizar problemas, diseñar ensayos, construir modelos físico-matemáticos y realizar simulaciones computacionales con el fin de buscar soluciones a diversos problemas científicos y tecnológicos. También podrá ayudar a encontrar, especialmente den"
 startDate: ""
@@ -37,6 +37,8 @@ sources:
     url: 'https://www.fing.edu.uy/es/node/45266'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/ingenieria-fisico-matematica'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://www.fing.edu.uy/es/node/45266'
 ---
 
 ## Resumen

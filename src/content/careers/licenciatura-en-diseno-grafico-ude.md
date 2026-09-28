@@ -4,7 +4,7 @@ similar:
   - disenador-grafico-ude
   - diseno-grafico-ort
   - tecnico-en-diseno-grafico-ude
-  - licenciatura-en-artes-diseno-grafico-udelar
+  - licenciatura-en-diseno-grafico-udelar
   - licenciatura-en-diseno-grafico-ort
   - licenciatura-en-diseno-de-comunicacion-visual-udelar
 institutionName: "Universidad de la Empresa"

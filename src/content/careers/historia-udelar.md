@@ -17,7 +17,7 @@ weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Gratuita"
 language: "Español"
-website: "https://fhce.edu.uy/licenciatura-en-historia/"
+website: "https://udelar.edu.uy/carrera/historia"
 location: "Facultad de Humanidades y Ciencias de la Educación"
 description: "El egresado de la Licenciatura en Historia estará capacitado para diseñar y desarrollar proyectos de investigación básica y aplicada en forma independiente o en equipos de trabajo de índole disciplinaria o interdisciplinaria. Trabajará profesionalmente en forma autónoma o vinculado a instituciones públicas o privadas. Podrá actuar, asimismo, en la enseñan"
 startDate: ""
@@ -35,6 +35,8 @@ sources:
     url: 'https://fhce.edu.uy/licenciatura-en-historia/'
   - label: 'Ficha Udelar'
     url: 'https://udelar.edu.uy/carrera/historia'
+  - label: 'Sede o facultad (fuente anterior)'
+    url: 'https://fhce.edu.uy/licenciatura-en-historia/'
 ---
 
 ## Resumen
