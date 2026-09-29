@@ -56,10 +56,6 @@ El programa combina instancias presenciales con trabajo a distancia: incorpora i
 
 El MBA+ tiene una duración de 18 meses.
 
-### Comunidades
-
-Al finalizar el programa, los egresados pasan a formar parte de una comunidad de más de 4.000 Antiguos Alumnos del IEEM.
-
 ## Ingreso
 
 ### Requisitos de Ingreso
