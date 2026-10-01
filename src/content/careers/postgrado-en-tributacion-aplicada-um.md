@@ -13,7 +13,6 @@ degreeType: "diplomado"
 area: "Administración y Negocios"
 modality: "virtual"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "9 meses"
 cost: "Arancelada"
 language: "Español"
@@ -24,9 +23,9 @@ tags:
   - tributacion
   - impuestos
   - derecho-tributario
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-tributacion-aplicada/"
@@ -48,11 +47,11 @@ Está dirigido a Contadores Públicos que se desempeñan profesionalmente en est
 
 ### Modalidad
 
-Modalidad online LIVE (100% virtual).
+Modalidad online en vivo (online LIVE).
 
 ### Duración y Horarios
 
-La duración del postgrado es de nueve meses. Las clases se dictan los martes y jueves de 8:00 a 10:30 h. El próximo inicio está previsto para marzo.
+La duración del postgrado es de nueve meses. Las clases se dictan los martes y jueves de 8:00 a 10:30 h. El inicio de la próxima edición está previsto para marzo (consultar la convocatoria vigente en la página oficial).
 
 ### Becas
 
@@ -70,6 +69,6 @@ Hay descuentos por inscripción temprana que varían mes a mes y beneficios espe
 
 ### Estructura
 
-El postgrado se desarrolla en nueve meses, con clases en modalidad online LIVE los martes y jueves de 8:00 a 10:30 h. El programa profundiza el sistema tributario nacional desde un enfoque práctico, preparando a los alumnos para asesorar sobre el efecto fiscal de las decisiones económicas.
+El postgrado se desarrolla en nueve meses, con clases en modalidad online en vivo los martes y jueves de 8:00 a 10:30 h. El programa profundiza el sistema tributario nacional desde un enfoque práctico, preparando a los alumnos para asesorar sobre el efecto fiscal de las decisiones económicas.
 
-La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias.
+La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias. La página oficial indica que el programa está sin registrar en el Ministerio de Educación y Cultura.

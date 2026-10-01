@@ -13,13 +13,12 @@ degreeType: "ingenieria"
 area: "Alimentos"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-alimentos--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Ingeniería en Alimentos de la UCU. Forma profesionales capaces de desarrollar productos, seleccionar materias primas, definir procesos productivos y verificar la calidad a lo largo de toda la cadena alimentaria."
 tags:
   - ingenieria
@@ -27,9 +26,9 @@ tags:
   - industria-alimentaria
   - ciencia-y-tecnologia-de-alimentos
   - calidad-alimentaria
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-alimentos--mvd--presencial"
@@ -65,7 +64,7 @@ La duración total es de 5 años, con horarios matutinos y vespertinos compatibl
 
 ### Requisitos de Ingreso
 
-Bachillerato con un curso de matemáticas (mínimo) en el último año. Es una carrera reconocida por el MEC; el nuevo plan se encuentra en proceso de reconocimiento ante el MEC.
+Bachillerato con un curso de matemáticas (mínimo) en el último año. El nuevo plan se encuentra en proceso de reconocimiento ante el MEC.
 
 ## Plan de Estudio
 

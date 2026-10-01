@@ -12,12 +12,11 @@ institution: "ucu"
 degreeType: "doctorado"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-psicologia--mvd--presencial"
+contactEmail: "doctoradopsicologia@ucu.edu.uy"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Doctorado en Psicología de la UCU. Forma investigadores para contribuir al desarrollo del conocimiento psicológico en el país con excelencia académica y calidad ética, a partir de investigaciones a nivel nacional e internacional."
@@ -25,9 +24,9 @@ tags:
   - psicologia
   - investigacion
   - ciencias-sociales
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-psicologia--mvd--presencial"
@@ -51,7 +50,7 @@ Modalidad presencial, en régimen de alta dedicación, en el Campus Montevideo d
 
 ### Duración y Horarios
 
-El programa tiene una duración mínima de tres años.
+El programa tiene una duración mínima de tres años. La página oficial publica como próximo inicio el año 2028.
 
 ## Plan de Estudio
 

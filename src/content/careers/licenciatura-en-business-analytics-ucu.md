@@ -13,7 +13,6 @@ degreeType: "licenciatura"
 area: "Administración y Negocios"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - analitica-de-negocios
   - business-intelligence
   - toma-de-decisiones
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-business-analytics--mvd--presencial"

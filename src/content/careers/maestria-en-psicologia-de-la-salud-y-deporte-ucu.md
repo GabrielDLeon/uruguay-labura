@@ -11,8 +11,6 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - deporte
   - salud
   - actividad-fisica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicologia-de-la-salud-y-deporte--mvd--presencial"
@@ -47,6 +45,10 @@ Entre las actividades vinculadas a los procesos de enseñanza, aprendizaje y eva
 ### Perfil de egreso
 
 El egresado asesora y acompaña a deportistas, entrenadores, docentes, familias y dirigentes en la promoción del bienestar psicológico y el desarrollo saludable; diseña acciones psicoeducativas, identifica señales de alerta y realiza derivaciones oportunas; contribuye al bienestar psicológico y la salud integral en contextos deportivos y de actividad física; promueve entornos saludables y favorece el desarrollo socioemocional, la calidad de vida y el rendimiento deportivo, y evalúa, diseña, implementa y supervisa intervenciones psicológicas en el ámbito del deporte y la actividad física.
+
+### Títulos y Reconocimientos
+
+El programa otorga el título de Magíster en Psicología de la Salud y Deporte a quienes posean título universitario de grado en Psicología, y el título de Magíster en Salud y Deporte a profesionales universitarios de las áreas de la salud y el deporte. La carrera está reconocida; el nuevo plan se encuentra en proceso de presentación ante el Ministerio de Educación y Cultura (MEC).
 
 ### Modalidad
 

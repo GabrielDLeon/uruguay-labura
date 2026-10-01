@@ -4,7 +4,6 @@ similar:
   - maestria-en-liderazgo-y-gestion-educativa-ucu
   - diploma-en-planificacion-y-gestion-educativa-ort
   - gestion-de-instituciones-educativas-especializacion-udelar
-  - diploma-en-innovacion-educativa-ucu
   - licenciatura-en-recreacion-educativa-ucu
   - tecnologo-en-gestion-universitaria-udelar
 institutionName: "Universidad ORT Uruguay"

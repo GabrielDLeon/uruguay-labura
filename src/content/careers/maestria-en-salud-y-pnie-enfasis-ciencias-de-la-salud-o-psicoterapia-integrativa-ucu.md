@@ -12,8 +12,7 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "day"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - psicoterapia-integrativa
   - psiconeuroinmunoendocrinologia
   - salud-mental
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa--mvd--presencial"
@@ -49,13 +48,17 @@ Los cursos se desarrollan a partir de metodologías activas, con reflexión crí
 
 El egresado emplea una visión integral del ser humano considerando cinco dimensiones: biológica, cognitiva, psicoemocional, socioecológica y espiritual, desde una convergencia temporal del pasado, presente y expectativas futuras; desarrolla una práctica profesional impregnada por una visión transdisciplinaria que considere los postulados de la PsiconeuroInmunoEndocrinología de convergencia causal multidimensional y convergencia temporal de la historia, y forja un lenguaje que facilita la comunicación entre disciplinas y posibilita una consiliencia de saberes y experiencias.
 
+### Títulos y Reconocimientos
+
+El programa otorga el título de Magíster en Salud y PsicoNeuroInmunoEndocrinología con énfasis en Ciencias de la Salud o con énfasis en Psicoterapia Integrativa, según el énfasis cursado. La carrera está reconocida por el Ministerio de Educación y Cultura (MEC); el nuevo plan se encuentra en proceso de presentación ante el MEC.
+
 ### Modalidad
 
 Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-La maestría tiene una duración de dos años: el primer año se desarrolla entre abril y octubre, y el segundo entre abril y setiembre.
+La maestría tiene una duración de dos años. Los encuentros teóricos se realizan los viernes y sábados cada 15 días, de 8:00 a 18:00; las prácticas supervisadas del segundo año son de 5 horas, los viernes entre las 8:00 y las 18:00 y los sábados de 8:00 a 13:00.
 
 ## Plan de Estudio
 

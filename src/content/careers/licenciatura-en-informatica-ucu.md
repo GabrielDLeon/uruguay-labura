@@ -13,7 +13,6 @@ degreeType: "licenciatura"
 area: "Tecnologías de la Información"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +24,9 @@ tags:
   - informatica
   - software
   - sistemas-de-informacion
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-informatica--mvd--presencial"
@@ -49,11 +48,11 @@ El graduado abarca diversas áreas de la informática, desde el desarrollo hasta
 
 ### Títulos y Reconocimientos
 
-La carrera otorga el título de grado de Licenciado/a en Informática, de nivel universitario reconocido por el MEC.
+La carrera otorga el título de grado de Licenciado/a en Informática, de nivel universitario reconocido por el MEC. Cuenta además con los títulos técnicos de Analista en Informática y Desarrollador de Software.
 
 ### Modalidad
 
-Presencial, en el Campus Montevideo.
+Presencial, en el Campus Montevideo. También puede estudiarse en Punta del Este.
 
 ### Duración y Horarios
 

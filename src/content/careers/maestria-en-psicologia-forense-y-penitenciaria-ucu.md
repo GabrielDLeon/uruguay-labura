@@ -12,8 +12,7 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - psicologia-penitenciaria
   - criminologia
   - justicia
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicologia-forense-y-penitenciaria--mvd--semipresencial"
@@ -55,7 +54,7 @@ Modalidad semipresencial (híbrida): actividades formativas obligatorias online 
 
 ### Duración y Horarios
 
-La maestría tiene una duración de dos años.
+La maestría tiene una duración de dos años. Las clases se dictan los martes y jueves de 18:15 a 21:15 en forma virtual (vía Zoom); el practicum es presencial y se realiza entre marzo y julio del segundo año, con horarios a confirmar según la institución donde se desarrollen las prácticas.
 
 ## Plan de Estudio
 

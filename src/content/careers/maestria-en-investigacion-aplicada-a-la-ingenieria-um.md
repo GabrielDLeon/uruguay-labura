@@ -12,9 +12,8 @@ institution: "um"
 degreeType: "maestria"
 area: "Ingeniería"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 semestres"
+credits: 150
 cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/centro-de-postgrados-de-ingenieria/oferta-academica/master/maestria-en-investigacion-aplicada-en"
@@ -24,9 +23,9 @@ tags:
   - ingenieria
   - investigacion
   - innovacion
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/centro-de-postgrados-de-ingenieria/oferta-academica/master/maestria-en-investigacion-aplicada-en"

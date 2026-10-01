@@ -12,13 +12,13 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-nutricion--mvd--semipresencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "agosto 2027"
 description: "Maestría en Nutrición de la UCU. Forma profesionales comprometidos en contribuir a la nutrición, salud y bienestar desde un enfoque interdisciplinario y aplicado, con énfasis en Nutrición Clínica, Ejercicio y Deporte o Salud Pública."
 tags:
   - nutricion
@@ -26,9 +26,9 @@ tags:
   - alimentacion
   - nutricion-clinica
   - salud-publica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-nutricion--mvd--semipresencial"
@@ -56,7 +56,7 @@ Modalidad semipresencial (híbrida), dictada por la Escuela de Postgrados de la 
 
 ### Duración y Horarios
 
-El calendario de la próxima edición se anuncia próximamente.
+El programa tiene una duración de dos años. La cohorte vigente inicia en agosto de 2027. Otorga el título de Magíster en Nutrición con énfasis en Nutrición Clínica, en Ejercicio y Deporte o en Salud Pública, según el trayecto elegido.
 
 ## Plan de Estudio
 

@@ -13,9 +13,9 @@ degreeType: "maestria"
 area: "Tecnologías de la Información"
 modality: "virtual"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
+contactEmail: "umpe@um.edu.uy"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-ciencia-de-datos/"
 location: "Campus Virtual"
@@ -28,9 +28,9 @@ tags:
   - estadistica
   - inteligencia-artificial
   - programacion
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la Maestría en Ciencia de Datos"
     url: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-ciencia-de-datos/"

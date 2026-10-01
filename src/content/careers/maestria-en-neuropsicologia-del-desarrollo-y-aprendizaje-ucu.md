@@ -5,20 +5,19 @@ similar:
   - licenciatura-en-psicopedagogia-semipresencial-ucu
   - licenciatura-en-psicopedagogia-ucu
   - licenciatura-en-psicomotricidad-ucu
-  - maestria-en-curriculum-y-aprendizaje-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "abril 2027"
 description: "Maestría en Neuropsicología del Desarrollo y Aprendizaje de la UCU. Profundiza la prevención y rehabilitación de disfunciones del neurodesarrollo y dificultades del aprendizaje, para evaluar, orientar e intervenir desde el ámbito clínico o institucional."
 tags:
   - neuropsicologia
@@ -26,9 +25,9 @@ tags:
   - dificultades-de-aprendizaje
   - aprendizaje
   - salud
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje--mvd--presencial"
@@ -52,7 +51,7 @@ Modalidad presencial, con orientación académica y profesional, dictada en el C
 
 ### Duración y Horarios
 
-El programa se desarrolla a lo largo de 2 años de clases presenciales, en 4 semestres: el primer año va de abril a diciembre y el segundo de febrero a noviembre.
+El programa se desarrolla a lo largo de 2 años de clases presenciales, en 4 semestres: el primer año va de abril a diciembre y el segundo de febrero a noviembre. La cohorte vigente inicia en abril de 2027. Clases martes y jueves de 18:15 a 21:05 h.
 
 ## Plan de Estudio
 

@@ -1,7 +1,5 @@
 ---
 title: "Licenciatura en Registros Médicos"
-similar:
-  - maestria-en-epidemiologia-y-salud-digital-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "licenciatura"

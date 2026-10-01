@@ -1,7 +1,6 @@
 ---
 title: "Especialización en Epidemiología"
 similar:
-  - maestria-en-epidemiologia-y-salud-digital-ucu
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - salud-publica-especializacion-udelar
   - maestria-en-salud-publica-ude

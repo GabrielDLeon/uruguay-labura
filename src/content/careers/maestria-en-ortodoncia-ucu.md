@@ -13,21 +13,21 @@ degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-ortodoncia--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "marzo 2027"
 description: "Maestría en Ortodoncia de la UCU. Forma para contribuir al buen desarrollo buco-maxilo-facial de los pacientes a través del diagnóstico y tratamiento de las eugnacias y disgnacias en todas las etapas de la vida."
 tags:
   - odontologia
   - ortodoncia
   - salud
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-ortodoncia--mvd--presencial"
@@ -53,7 +53,7 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-La maestría tiene una duración de tres años.
+La maestría tiene una duración de tres años. La cohorte vigente inicia en marzo de 2027. Clases miércoles y jueves de 8:30 a 12:30 h y de 14:00 a 21:00 h.
 
 ## Plan de Estudio
 

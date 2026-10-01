@@ -1,8 +1,6 @@
 ---
 title: "Maestría en Metodologías Activas de Enseñanza"
 similar:
-  - diploma-en-innovacion-educativa-ucu
-  - maestria-en-curriculum-y-aprendizaje-ucu
   - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
   - maestria-en-tecnologia-educativa-utec
   - diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera-ort
@@ -12,23 +10,23 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Educación"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "day"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-metodologias-activas-de-ensenanza--mvd--virtual"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "marzo 2027"
 description: "Maestría en Metodologías Activas de Enseñanza de la UCU. Forma profesionales comprometidos con la educación transformadora en diseño, ejecución, implementación y evaluación de experiencias de aprendizaje activo y significativo."
 tags:
   - educacion
   - metodologias-activas
   - innovacion-educativa
   - evaluacion-educativa
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-metodologias-activas-de-ensenanza--mvd--virtual"
@@ -52,7 +50,7 @@ Modalidad virtual (e-learning): mantiene actividades síncronas a través de enc
 
 ### Duración y Horarios
 
-El plan de estudios prevé un tiempo de cursado de 2 años: el primer año se desarrolla de marzo a diciembre y el segundo de febrero a julio, con la presentación de un Trabajo Final de Maestría.
+El plan de estudios prevé un tiempo de cursado de 2 años: el primer año se desarrolla de marzo a diciembre y el segundo de febrero a julio, con la presentación de un Trabajo Final de Maestría. La cohorte vigente inicia en marzo de 2027. Encuentros sincrónicos de 8:00 a 12:30 h, dos sábados al mes.
 
 ## Plan de Estudio
 

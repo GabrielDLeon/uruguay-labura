@@ -3,7 +3,6 @@ title: "Maestría en Salud Pública"
 similar:
   - salud-publica-especializacion-udelar
   - maestria-en-gestion-y-salud-publica-ucu
-  - maestria-en-epidemiologia-y-salud-digital-ucu
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - salud-animal-doctorado-udelar
   - atencion-a-la-salud-en-el-primer-nivel-maestria-udelar

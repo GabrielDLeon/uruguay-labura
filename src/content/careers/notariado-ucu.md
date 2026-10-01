@@ -11,12 +11,11 @@ degreeType: "carrera"
 area: "Social y Artística"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-notariado--mvd--presencial"
-location: "Montevideo"
+location: "Montevideo y Punta del Este"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Carrera de Notariado de la Universidad Católica del Uruguay. Forma escribanos públicos con visión internacional, sólida formación ética y práctica profesional, capaces de asesorar a sus clientes y brindar seguridad jurídica."
 tags:
@@ -24,9 +23,9 @@ tags:
   - notariado
   - escribania
   - derecho-notarial
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-notariado--mvd--presencial"
@@ -55,11 +54,11 @@ La carrera es de nivel universitario y está reconocida por el Ministerio de Edu
 
 ### Modalidad
 
-Carrera presencial, dictada en el Campus Montevideo de la UCU.
+Carrera presencial, dictada en Montevideo y Punta del Este.
 
 ### Duración y Horarios
 
-La carrera tiene una duración de 5 años, con horarios matutino y vespertino.
+La carrera tiene una duración de 5 años, con turno matutino en 1.º, 2.º y 3.º y turno vespertino en 4.º y 5.º.
 
 ## Ingreso
 

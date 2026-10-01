@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "ingenieria"
 area: "Tecnologías de la Información"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +25,9 @@ tags:
   - comunicaciones-inalambricas
   - redes-de-datos
   - programacion
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-telematica"

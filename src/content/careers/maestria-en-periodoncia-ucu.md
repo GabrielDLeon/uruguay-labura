@@ -11,23 +11,23 @@ institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
-modality: "hibrido"
+modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años y medio"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-periodoncia--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "marzo 2027"
 description: "Maestría en Periodoncia de la UCU. Forma para contribuir a mejorar la salud bucal de pacientes adultos a través del tratamiento de condiciones que afectan el periodonto, con base en criterios funcionales y estéticos."
 tags:
   - odontologia
   - periodoncia
   - salud
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-periodoncia--mvd--presencial"
@@ -49,11 +49,11 @@ El egresado desarrolla competencias para diagnosticar las diferentes enfermedade
 
 ### Modalidad
 
-Modalidad híbrida: combina actividades presenciales con actividades virtuales a través de la plataforma Moodle de UCU (WebAsignatura).
+Modalidad presencial, con actividades virtuales de apoyo (conferencias de expertos, clases interactivas compartidas con otras instituciones y trabajos a distancia supervisados) a través de la plataforma Moodle de UCU (WebAsignatura).
 
 ### Duración y Horarios
 
-La maestría se desarrolla en cinco semestres (abril-julio y agosto-noviembre), incluyendo el trabajo final de maestría.
+La maestría se desarrolla en cinco semestres (abril-julio y agosto-noviembre), incluyendo el trabajo final de maestría. La cohorte vigente inicia en marzo de 2027. Clases martes de 13:00 a 21:30 h y miércoles de 8:00 a 20:30 h.
 
 ## Plan de Estudio
 

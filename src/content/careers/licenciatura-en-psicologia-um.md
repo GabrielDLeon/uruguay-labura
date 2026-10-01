@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 credits: 315
 cost: "Arancelada"
@@ -26,9 +24,9 @@ tags:
   - salud-mental
   - neurociencias
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-psicologia/oferta-academica/grado/licenciatura-en-psicologia"

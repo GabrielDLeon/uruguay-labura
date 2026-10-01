@@ -13,9 +13,9 @@ degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "presencial"
 shift: "night"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
+contactEmail: "umpe@um.edu.uy"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-contabilidad-y-tecnica-tributaria/"
 location: "Montevideo"
@@ -26,9 +26,9 @@ tags:
   - tributacion
   - impuestos
   - gestion-contable
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la Maestría en Contabilidad y Técnica Tributaria"
     url: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-contabilidad-y-tecnica-tributaria/"
@@ -56,7 +56,7 @@ Modalidad presencial.
 
 El programa tiene una duración de 2 años. El próximo inicio es en marzo.
 
-Las clases son los martes y jueves de 18:30 a 21:30 h.
+Las clases del primer año son los martes y jueves de 18:30 a 21:30 h en la sede del Parque de Innovación del LATU; en el segundo año, los martes y jueves de 18:30 a 20:30 h en la sede Central, más talleres los lunes, miércoles y/o viernes.
 
 ### Becas
 

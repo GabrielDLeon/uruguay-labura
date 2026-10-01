@@ -12,8 +12,6 @@ degreeType: "diplomado"
 area: "Social y Artística"
 modality: "hibrido"
 shift: "night"
-weeklyHours: "No especificado"
-duration: "No especificado"
 credits: 8
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +23,9 @@ tags:
   - derecho-sanitario
   - salud
   - salud-publica
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/diploma-en-derecho-de-salud"

@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "18 meses"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - administracion
   - liderazgo
   - gestion-empresarial
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del MBA"
     url: "https://www.ieem.edu.uy/mba"

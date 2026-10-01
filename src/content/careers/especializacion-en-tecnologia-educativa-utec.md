@@ -2,7 +2,6 @@
 title: "Especialización en Tecnología Educativa"
 similar:
   - maestria-en-tecnologia-educativa-utec
-  - diploma-en-innovacion-educativa-ucu
   - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
   - diploma-en-planificacion-y-gestion-educativa-ort
   - licenciatura-en-recreacion-educativa-ucu

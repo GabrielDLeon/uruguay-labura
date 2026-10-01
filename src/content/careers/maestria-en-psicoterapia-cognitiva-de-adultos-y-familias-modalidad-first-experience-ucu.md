@@ -12,8 +12,7 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "day"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -28,9 +27,9 @@ tags:
   - psicoterapia-cognitiva
   - adultos
   - familias
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicoterapia-cognitiva-enfasis-adultos-y-familias-first-experience--mvd--presencial"
@@ -56,7 +55,7 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-La maestría tiene una duración de dos años: el primer año se desarrolla entre abril y diciembre, y el segundo entre marzo y noviembre.
+La maestría tiene una duración de dos años, con prácticas progresivas: en el primer año con pacientes individuales y en el segundo con unidades de intervención de trabajo grupal y familiar. En el primer año las clases se dictan de lunes a viernes de 8 a 11, y la atención de pacientes se coordina con la Clínica Universitaria.
 
 ## Plan de Estudio
 

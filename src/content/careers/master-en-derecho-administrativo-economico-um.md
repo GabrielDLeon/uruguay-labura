@@ -12,9 +12,6 @@ institution: "um"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 credits: 50
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +24,9 @@ tags:
   - derecho-economico
   - administracion-publica
   - funcion-publica
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/master-en-derecho-administrativo-economico"
@@ -51,7 +48,7 @@ Modalidad presencial: el programa contempla 300 horas presenciales de clase, com
 
 ### Duración y Horarios
 
-El programa tiene una duración total de 500 horas, equivalentes a 50 créditos académicos. Los horarios no se especifican en la fuente oficial.
+El programa tiene una duración total de 500 horas, equivalentes a 50 créditos académicos. Días y horarios: consultar el calendario vigente de la facultad.
 
 ## Plan de Estudio
 

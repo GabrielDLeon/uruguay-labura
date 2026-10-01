@@ -6,7 +6,6 @@ similar:
   - administracion-de-servicios-de-salud-especializacion-udelar
   - ciencias-odontologicas-opcion-salud-colectiva-y-epidemiologia-bucal-maestria-udelar
   - gestion-de-servicios-de-salud-de-enfermeria-especializacion-udelar
-  - maestria-en-epidemiologia-y-salud-digital-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"
 degreeType: "especializacion"

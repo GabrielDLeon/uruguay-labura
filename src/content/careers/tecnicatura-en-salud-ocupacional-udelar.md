@@ -5,7 +5,6 @@ similar:
   - seguridad-y-salud-en-el-trabajo-especializacion-udelar
   - salud-mental-maestria-udelar
   - salud-familiar-y-comunitaria-especializacion-udelar
-  - maestria-en-epidemiologia-y-salud-digital-ucu
   - maestria-en-gestion-y-salud-publica-ucu
 institutionName: "Universidad de la República (UDELAR)"
 institution: "udelar"

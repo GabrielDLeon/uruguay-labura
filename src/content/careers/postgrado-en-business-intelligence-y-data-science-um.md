@@ -13,7 +13,6 @@ degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "virtual"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "8 meses"
 cost: "Arancelada"
 language: "Español"
@@ -24,9 +23,9 @@ tags:
   - business-intelligence
   - ciencia-de-datos
   - analitica-de-negocios
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-business-intelligence-data-science/"
@@ -42,6 +41,8 @@ El Postgrado en Business Intelligence & Data Science de la Universidad de Montev
 
 El objetivo es conocer e implementar nuevas estrategias de análisis de proyectos, de inversión, de financiamiento, comerciales y de la gestión de riesgo en empresas.
 
+Nota: la página oficial del programa indica que está sin registrar en el Ministerio de Educación y Cultura.
+
 ### Perfil de egreso
 
 Está dirigido a profesionales con perfil de liderazgo que aspiren a especializarse en el análisis aplicado de datos, visualizaciones y business intelligence para empresas, instituciones financieras y consultoría. Los participantes son principalmente egresados de carreras de Economía, Contabilidad y Negocios. No se requieren conocimientos avanzados de programación, pero sí una predisposición a trabajar en entornos informáticos, utilización de algoritmos y análisis de datos.
@@ -52,7 +53,7 @@ Modalidad online LIVE (100% virtual).
 
 ### Duración y Horarios
 
-La duración del postgrado es de ocho meses. Las clases se dictan los lunes y miércoles de 18:30 a 21:15 h y los sábados de 8:30 a 12:45 h. El próximo inicio está previsto para mayo.
+La duración del postgrado es de ocho meses. Las clases se dictan los lunes y miércoles de 18:30 a 21:15 h y los sábados de 8:30 a 12:45 h. Las ediciones inician en mayo; consultar la próxima convocatoria en la página oficial.
 
 ### Becas
 

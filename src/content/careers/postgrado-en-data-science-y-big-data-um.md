@@ -13,7 +13,6 @@ degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "virtual"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "9 meses"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - estadistica
   - programacion
   - negocios
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-data-science-big-data/"
@@ -45,6 +44,8 @@ El Postgrado en Data Science & Big Data de la Universidad de Montevideo (UMPE) b
 
 Se hace énfasis en el aspecto aplicado de la ciencia de datos, combinando fundamentos estadísticos y de programación con una visión de negocios. El egresado cuenta con los conocimientos para integrar equipos de analítica de datos e implementación de modelos predictivos en empresas de sectores como finanzas, tecnología, salud, marketing o retail.
 
+Nota: la página oficial del programa indica que está sin registrar en el Ministerio de Educación y Cultura.
+
 ### Participantes
 
 El postgrado está dirigido a profesionales provenientes de distintas áreas del conocimiento que aspiren a especializarse en el análisis riguroso de big data y ciencia de datos para la toma de decisiones estratégicas y el desarrollo de proyectos relacionados con inteligencia artificial, machine learning o business intelligence. No se requieren conocimientos avanzados de programación, pero sí una predisposición a trabajar en entornos informáticos, utilización de algoritmos y análisis de datos.
@@ -55,7 +56,7 @@ Modalidad online LIVE (100% virtual).
 
 ### Duración y Horarios
 
-La duración del postgrado es de nueve meses. Las clases se dictan los lunes y miércoles de 18:30 a 21:15 h y los sábados de 8:30 a 12:45 h. El próximo inicio está previsto para abril.
+La duración del postgrado es de nueve meses. Las clases se dictan los lunes y miércoles de 18:30 a 21:15 h y los sábados de 8:30 a 12:45 h. Las ediciones inician en abril; consultar la próxima convocatoria en la página oficial.
 
 ### Becas
 

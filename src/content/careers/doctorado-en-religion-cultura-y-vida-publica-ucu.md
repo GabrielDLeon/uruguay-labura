@@ -11,8 +11,6 @@ institution: "ucu"
 degreeType: "doctorado"
 area: "Social y Artística"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Arancelada"
 language: "Inglés"
@@ -25,9 +23,9 @@ tags:
   - teologia
   - estudios-culturales
   - participacion-ciudadana
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-religion,-cultura-y-vida-publica--mvd--semipresencial"
@@ -41,7 +39,7 @@ sources:
 
 El Doctorado en Religión, Cultura y Vida Pública, de la Escuela de Postgrados de la Universidad Católica del Uruguay, es un programa de doctorado conjunto internacional, interdisciplinar e innovador, con un programa de investigación sobre la diversidad religiosa, el pluralismo cultural y la construcción de ciudadanía. Se dicta en idioma inglés.
 
-Los estudiantes realizan cursos de postgrado y seminarios de doctorado en la universidad asociada correspondiente y pasan al menos tres meses en una o más universidades asistiendo a cursos o seminarios cualificados.
+Los estudiantes realizan cursos de postgrado y seminarios de doctorado en la universidad asociada correspondiente y pasan al menos tres meses en una o más universidades asistiendo a cursos o seminarios cualificados. Es un programa conjunto de las universidades de Padua (Italia), Turín (Italia), Nicosia (Chipre) y la Universidad Católica del Uruguay.
 
 ### Perfil de egreso
 
@@ -53,7 +51,7 @@ Modalidad semipresencial (híbrida): la mayoría de las clases son online, con s
 
 ### Duración y Horarios
 
-El programa se desarrolla en tres años, organizados por actividades didácticas, otras actividades e investigación (según el sistema ECTS).
+El programa se desarrolla en tres años, organizados por actividades didácticas, otras actividades e investigación (según el sistema ECTS). El llamado vigente abrió en abril de 2026, con inicio en noviembre de 2026.
 
 ## Plan de Estudio
 

@@ -6,8 +6,7 @@ institution: "ucu"
 degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+duration: "6 semanas"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-gobernanza-de-internet--mvd--semipresencial"
@@ -17,9 +16,9 @@ tags:
   - gobernanza-de-internet
   - politicas-digitales
   - internet
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-gobernanza-de-internet--mvd--semipresencial"
@@ -41,9 +40,13 @@ El egresado es capaz de analizar el entorno digital en forma sistémica; partici
 
 Modalidad semipresencial (híbrida): durante cinco semanas se desarrollan cursos en formato virtual sincrónico y asincrónico, y la sexta semana del curso se dicta en modalidad presencial intensiva con participantes de distintos países de la región.
 
+### Títulos y Reconocimientos
+
+La Escuela de Postgrados UCU otorga el certificado de Diploma en Gobernanza de Internet. Es la 7.ª edición de un programa que recibe apoyos de la Fundación Internet Society, LACNIC y Public Interest Registry (PIR).
+
 ### Duración y Horarios
 
-Las clases virtuales sincrónicas se desarrollan los martes de 18 a 20 h a lo largo de cinco semanas, y la instancia presencial intensiva se realiza durante una semana completa, de 9 a 18 h.
+El programa tiene una duración de 6 semanas. Inicio publicado: octubre de 2026. Las clases virtuales sincrónicas se desarrollan los martes de 18 a 20 h a lo largo de cinco semanas, y la instancia presencial intensiva se realiza durante una semana completa, de 9 a 18 h.
 
 ## Plan de Estudio
 

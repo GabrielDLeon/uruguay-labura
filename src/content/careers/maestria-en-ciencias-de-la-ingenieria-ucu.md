@@ -12,23 +12,21 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ingeniería"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 credits: 60
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-ciencias-de-la-ingenieria--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Maestría en Ciencias de la Ingeniería de la UCU. Desarrolla capacidades para impactar positivamente en la sociedad a través de la calidad de la investigación y la innovación en ingeniería."
 tags:
   - ingenieria
   - investigacion
   - innovacion
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-ciencias-de-la-ingenieria--mvd--presencial"

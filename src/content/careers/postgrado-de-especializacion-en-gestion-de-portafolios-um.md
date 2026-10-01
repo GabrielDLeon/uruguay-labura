@@ -13,7 +13,6 @@ degreeType: "especializacion"
 area: "Administración y Negocios"
 modality: "presencial"
 shift: "night"
-weeklyHours: "No especificado"
 duration: "3 semestres"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +24,9 @@ tags:
   - inversiones
   - gestion-de-portafolios
   - mercado-de-capitales
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-de-especializacion-en-gestion-de-portafolios/"
@@ -53,7 +52,7 @@ Modalidad presencial.
 
 ### Duración y Horarios
 
-El postgrado tiene una duración de tres semestres, con clases los martes y jueves de 18:30 a 20:45 h. El próximo inicio está previsto para agosto.
+El postgrado tiene una duración de tres semestres, con clases los martes y jueves de 18:30 a 20:45 h. Las ediciones inician en agosto; consultar la próxima convocatoria en la página oficial.
 
 ### Becas
 

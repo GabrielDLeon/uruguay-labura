@@ -13,7 +13,6 @@ degreeType: "carrera"
 area: "Tecnologías de la Información"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - ciencia-de-datos
   - machine-learning
   - informatica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-inteligencia-artificial-y-ciencia-de-datos--mvd--presencial"
@@ -48,7 +47,7 @@ El graduado domina los fundamentos de la inteligencia artificial y el aprendizaj
 
 ### Títulos y Reconocimientos
 
-La carrera otorga título de grado a nivel universitario, reconocido por el MEC.
+La carrera otorga los títulos de grado de Ingeniero/a en Inteligencia Artificial y Ciencia de Datos y de Licenciado/a en Inteligencia Artificial y Ciencia de Datos, además del título técnico de Analista de Datos. Es una carrera de nivel universitario reconocida por el MEC.
 
 ### Modalidad
 

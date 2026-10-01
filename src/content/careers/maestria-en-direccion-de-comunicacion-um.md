@@ -13,8 +13,6 @@ degreeType: "maestria"
 area: "Comunicación"
 modality: "hibrido"
 shift: "night"
-weeklyHours: "No especificado"
-duration: "No especificado"
 cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-comunicacion/oferta-academica/postgrado/master-en-direccion-de-comunicacion-mdc"
@@ -26,9 +24,9 @@ tags:
   - comunicacion-estrategica
   - comunicacion-organizacional
   - direccion-de-empresas
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-comunicacion/oferta-academica/postgrado/master-en-direccion-de-comunicacion-mdc"

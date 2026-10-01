@@ -8,8 +8,7 @@ institution: "ucu"
 degreeType: "diplomado"
 area: "Comunicación"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+duration: "6 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-cambio,-cultura-y-comunicacion-interna-de-organizaciones--mvd--semipresencial"
@@ -20,9 +19,9 @@ tags:
   - cultura-organizacional
   - comunicacion-interna
   - gestion-del-cambio
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-cambio,-cultura-y-comunicacion-interna-de-organizaciones--mvd--semipresencial"
@@ -46,9 +45,13 @@ El egresado diseña y ejecuta planes estratégicos de comunicación interna y pr
 
 El programa se dicta en modalidad semipresencial (híbrida) en el Campus Montevideo de la UCU.
 
+### Títulos y Reconocimientos
+
+Al finalizar y cumplir con los requisitos, la Escuela de Postgrados otorga el certificado de Diploma en Cambio, Cultura y Comunicación Interna de Organizaciones, no reconocido por el Ministerio de Educación y Cultura.
+
 ### Duración y Horarios
 
-El programa se desarrolla entre julio y diciembre.
+El programa tiene una duración de 6 meses (calendario publicado: julio a diciembre). Inicio publicado: agosto de 2027.
 
 ## Plan de Estudio
 

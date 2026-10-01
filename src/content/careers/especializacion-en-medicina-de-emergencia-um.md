@@ -13,7 +13,6 @@ degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "5 semestres"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +24,9 @@ tags:
   - medicina-de-emergencia
   - urgencias
   - salud
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/ciencias-biomedicas/oferta-academica/especialidad/especialidad-en-medicina-de-emergencia"
@@ -55,7 +54,7 @@ El programa tiene una duración de 5 semestres. Las clases se dictan los sábado
 
 La especialidad está dirigida a graduados universitarios con título de doctor en Medicina; en su defecto, a quienes posean un título expedido en otro país con la reválida oficializada por las autoridades competentes de Uruguay.
 
-El proceso de admisión incluye completar el formulario de admisiones del CCB (escribiendo a biomedicas@um.edu.uy), una entrevista con el director y otros requisitos que se consultan con la bedelía del Centro de Ciencias Biomédicas. Además, se realiza una prueba de ingreso en tres instancias: una en diciembre y dos en febrero.
+El proceso de admisión incluye completar el formulario de admisiones del CCB, una entrevista con el director y una prueba de ingreso en tres instancias: una en diciembre y dos en febrero.
 
 ## Plan de Estudio
 

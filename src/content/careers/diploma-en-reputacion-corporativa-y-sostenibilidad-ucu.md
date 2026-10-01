@@ -12,8 +12,7 @@ institution: "ucu"
 degreeType: "diplomado"
 area: "Comunicación"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
+duration: "6 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-reputacion-corporativa-y-sostenibilidad--mvd--virtual"
@@ -24,9 +23,9 @@ tags:
   - reputacion-corporativa
   - sostenibilidad
   - comunicacion-corporativa
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-reputacion-corporativa-y-sostenibilidad--mvd--virtual"
@@ -48,12 +47,16 @@ El egresado integra prácticas de transparencia y autenticidad en la gestión co
 
 Modalidad virtual, dictada por la Escuela de Postgrados de la UCU.
 
+### Títulos y Reconocimientos
+
+Al finalizar y cumplir con los requisitos, la Escuela de Postgrados UCU otorga el certificado de Diploma en Reputación Corporativa y Sostenibilidad, no reconocido por el Ministerio de Educación y Cultura. La culminación de este diploma suma créditos para completar la Maestría en Comunicación Organizacional de la UCU.
+
 ### Duración y Horarios
 
-El programa se desarrolla entre agosto de 2025 y agosto de 2026.
+El programa tiene una duración de 6 meses. Inicio publicado: agosto de 2027.
 
 ## Plan de Estudio
 
 ### Estructura
 
-El diploma se organiza en un listado de cursos obligatorios. Los cursos se valen de metodologías activas como el Aprendizaje Basado en Problemas (ABP), el Think-Based-Learning (TBL) u otras, con evaluación continua, trabajo colaborativo y actividades fuera del aula que son planificadas y supervisadas por el docente.
+El diploma se organiza en un listado de cursos obligatorios. Los cursos se valen de metodologías activas (ABP, TBL u otras), con evaluación continua, trabajo colaborativo y actividades fuera del aula que son planificadas y supervisadas por el docente.

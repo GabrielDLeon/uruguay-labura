@@ -12,27 +12,28 @@ degreeType: "diplomado"
 area: "Educación"
 modality: "virtual"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "6 meses"
 credits: 12
 cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/postgrado/diploma-de-postgrado-en-educacion"
-location: "Montevideo"
+location: "Campus Virtual"
 description: "Diploma de Postgrado en Educación Emocional de la Universidad de Montevideo. Seis seminarios de cuatro semanas sobre fundamentos, modelos e implementación de la educación emocional, con 12 créditos académicos en modalidad virtual."
 tags:
   - educacion
   - educacion-emocional
   - inteligencia-emocional
   - bienestar
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/postgrado/diploma-de-postgrado-en-educacion"
   - label: "Facultad de Humanidades y Educación (FHUMyE)"
     url: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion"
+  - label: "Catálogo de postgrados UM"
+    url: "https://catalogo.um.edu.uy/"
 ---
 
 ## Resumen

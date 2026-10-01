@@ -3,7 +3,6 @@ title: "Maestría en Liderazgo y Gestión Educativa"
 similar:
   - diploma-en-planificacion-y-gestion-educativa-ort
   - master-en-gestion-educativa-ort
-  - diploma-en-innovacion-educativa-ucu
   - licenciatura-en-recreacion-educativa-ucu
   - gestion-de-instituciones-educativas-especializacion-udelar
   - maestria-en-educacion-ude
@@ -13,22 +12,22 @@ degreeType: "maestria"
 area: "Educación"
 modality: "hibrido"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-liderazgo-y-gestion-educativa--mvd--semipresencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "abril 2027"
 description: "Maestría en Liderazgo y Gestión Educativa de la UCU. Forma líderes capaces de diseñar estrategias para fortalecer la enseñanza y la gestión en centros educativos, programas y proyectos, en el ámbito público y privado."
 tags:
   - educacion
   - liderazgo-educativo
   - gestion-educativa
   - planificacion-estrategica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-liderazgo-y-gestion-educativa--mvd--semipresencial"
@@ -52,7 +51,7 @@ Modalidad semipresencial: combina encuentros presenciales y actividades sincrón
 
 ### Duración y Horarios
 
-La maestría se desarrolla en formato modular, con una duración de dos años, e incluye la elaboración de un Trabajo Final de Maestría con enfoque aplicado. En la cohorte de abril, el primer año va de abril a diciembre y el segundo de mayo a julio, con entrega del TFM en abril del año siguiente; en la cohorte de agosto, el primer año va de agosto a diciembre y el segundo de abril a diciembre, con entrega del TFM en agosto del año siguiente.
+La maestría se desarrolla en formato modular, con una duración de dos años, e incluye la elaboración de un Trabajo Final de Maestría con enfoque aplicado. Cohortes con inicio en abril y agosto de 2027: la cohorte de abril cursa los miércoles de 18:15 a 21:05 h (clases presenciales); la cohorte de agosto, los sábados de 8:00 a 12:30 h (dos por mes, una presencial y otra online). En la cohorte de abril, el primer año va de abril a diciembre y el segundo de mayo a julio, con entrega del TFM en abril del año siguiente; en la cohorte de agosto, el primer año va de agosto a diciembre y el segundo de abril a diciembre, con entrega del TFM en agosto del año siguiente.
 
 ## Plan de Estudio
 

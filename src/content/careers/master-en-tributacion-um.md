@@ -12,9 +12,6 @@ institution: "um"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 credits: 58
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +23,9 @@ tags:
   - tributacion
   - impuestos
   - derecho-tributario
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/master-en-tributacion"
@@ -48,7 +45,7 @@ Modalidad presencial: el programa contempla 380 horas presenciales de clase, com
 
 ### Duración y Horarios
 
-El programa tiene una duración de 580 horas, equivalentes a 58 créditos académicos. Los horarios no se especifican en la fuente oficial.
+El programa tiene una duración de 580 horas, equivalentes a 58 créditos académicos. Días y horarios: consultar el calendario vigente de la facultad.
 
 ## Plan de Estudio
 

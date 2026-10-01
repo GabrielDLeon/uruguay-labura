@@ -12,14 +12,12 @@ institution: "ucu"
 degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-ciencias-del-comportamiento--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Licenciatura en Ciencias del Comportamiento de la UCU. Forma para comprender las decisiones de las personas, analizar datos y diseñar estrategias basadas en evidencia, con un enfoque multidisciplinario e innovador."
 tags:
   - psicologia
@@ -27,9 +25,9 @@ tags:
   - neurociencias
   - ciencia-de-datos
   - toma-de-decisiones
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-ciencias-del-comportamiento--mvd--presencial"

@@ -5,7 +5,6 @@ similar:
   - especializacion-en-altas-habilidades-superdotacion-ude
   - diploma-en-educacion-ort
   - doctorado-en-educacion-ude
-  - diploma-en-diseno-y-desarrollo-curricular-ucu
   - educacion-udelar
 institutionName: "Universidad de la Empresa"
 institution: "ude"

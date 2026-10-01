@@ -10,22 +10,22 @@ degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "hibrido"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-cuidados-paliativos--mvd--semipresencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "abril 2027"
 description: "Maestría en Cuidados Paliativos de la UCU. Forma especialistas con enfoque integral, interdisciplinario y centrado en el paciente, combinando teoría y práctica para responder a los desafíos clínicos, éticos y sociales del final de la vida."
 tags:
   - cuidados-paliativos
   - salud
   - bioetica
   - final-de-la-vida
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-cuidados-paliativos--mvd--semipresencial"
@@ -49,7 +49,7 @@ Modalidad semipresencial, combinada con una oferta de actividades electivas que 
 
 ### Duración y Horarios
 
-El programa tiene una duración de dos años: el primer año se desarrolla de abril a noviembre y el segundo de febrero a setiembre. El Trabajo Final de Maestría (TFM) se realiza en el segundo año.
+El programa tiene una duración de dos años: el primer año se desarrolla de abril a noviembre y el segundo de febrero a setiembre. El Trabajo Final de Maestría (TFM) se realiza en el segundo año. La cohorte vigente inicia en abril de 2027. Clases viernes de 19 a 21 h y sábados de 9 a 12 h (los seminarios y talleres del segundo año, viernes de 19 a 22 h); prácticas presenciales obligatorias en el segundo año, en horario a convenir.
 
 ## Plan de Estudio
 

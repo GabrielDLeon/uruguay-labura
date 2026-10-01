@@ -13,21 +13,20 @@ degreeType: "diplomado"
 area: "Administración y Negocios"
 modality: "presencial"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "1 año y medio"
 cost: "Arancelada"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-finanzas-corporativas-2/"
 location: "Montevideo"
-description: "Postgrado en Finanzas Corporativas de la Universidad de Montevideo (UMPE). Brinda nuevas herramientas para el análisis y la planificación económico-financiera de la empresa."
+description: "Postgrado en Finanzas Corporativas de UMPE, en sede LATU. Forma profesionales para tomar decisiones de inversión, financiamiento y gestión con el método del caso; corresponde a los primeros tres semestres de la Maestría en Finanzas."
 tags:
   - finanzas
   - finanzas-corporativas
   - planificacion-financiera
   - analisis-financiero
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-finanzas-corporativas-2/"
@@ -39,19 +38,19 @@ sources:
 
 ### Sobre la Carrera
 
-Acorde a las nuevas necesidades empresariales, el Postgrado en Finanzas Corporativas de la Universidad de Montevideo (UMPE) brinda nuevas herramientas para el análisis y la planificación económico-financiera de una empresa. El programa permite un mejor desarrollo y conocimiento práctico de la función financiera, tanto en empresas comerciales e industriales como en instituciones como bancos o consultoras.
+El Postgrado en Finanzas Corporativas de la Universidad de Montevideo (UMPE) forma profesionales para tomar mejores decisiones de inversión, financiamiento y gestión en la empresa. Combina la profundidad de las finanzas corporativas, los mercados de capitales y la gestión de riesgo con un primer acercamiento a los datos y la inteligencia artificial aplicados a la decisión financiera, con el método del caso y el contacto directo con profesionales de la industria.
 
 ### Participantes
 
-El postgrado está dirigido a personas de nivel gerencial en finanzas, que provienen de empresas no financieras y de entidades que operan en los mercados de capitales.
+Está dirigido a tres perfiles: corporativo (quienes trabajan en contabilidad, administración, control de gestión, planificación o dirección financiera de una empresa), financiero (quienes trabajan en bancos, AFAP, aseguradoras o el mercado financiero) y de datos o técnico (ingenieros, economistas o analistas que quieren sumar finanzas a su perfil).
 
 ### Modalidad
 
-Modalidad presencial.
+Modalidad presencial en sede LATU (Parque de Innovación del LATU, Montevideo).
 
 ### Duración y Horarios
 
-La duración del postgrado es de un año y medio. Las clases se dictan los viernes de 8:00 a 12:15 h y los sábados de 8:30 a 12:45 h. El próximo inicio está previsto para abril.
+La duración del postgrado es de un año y medio (18 meses). Las clases se dictan los viernes de 8:00 a 12:15 h y los sábados de 8:30 a 12:45 h. El inicio de la próxima edición está previsto para abril (consultar la convocatoria vigente en la página oficial).
 
 ### Becas
 
@@ -69,6 +68,6 @@ Hay descuentos por inscripción temprana que varían mes a mes y beneficios espe
 
 ### Estructura
 
-El postgrado se desarrolla en un año y medio, con clases los viernes de 8:00 a 12:15 h y los sábados de 8:30 a 12:45 h. Corresponde al primer año y medio de la Maestría en Finanzas de UMPE.
+El postgrado se desarrolla en un año y medio, con clases los viernes de 8:00 a 12:15 h y los sábados de 8:30 a 12:45 h. Corresponde a los primeros tres semestres de la Maestría en Finanzas de UMPE.
 
-La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias.
+La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias. La página oficial indica que el programa está sin registrar en el Ministerio de Educación y Cultura.

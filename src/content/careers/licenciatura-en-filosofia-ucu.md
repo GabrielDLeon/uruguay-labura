@@ -13,13 +13,11 @@ degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
 shift: "night"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-filosofia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
 description: "Licenciatura en Filosofía de la UCU. Formación crítica y rigurosa basada en la historia de la filosofía y en líneas actuales como ética, filosofía política, filosofía de la tecnología y pensamiento contemporáneo."
 tags:
   - filosofia
@@ -27,9 +25,9 @@ tags:
   - etica
   - filosofia-politica
   - historia-de-la-filosofia
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-filosofia--mvd--presencial"
@@ -59,7 +57,7 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-El plan de estudios se organiza en cuatro años, con horario vespertino.
+El plan de estudios se organiza en cuatro años, con horario vespertino (de 17:00 a 22:35).
 
 ## Ingreso
 

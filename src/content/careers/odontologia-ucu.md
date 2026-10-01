@@ -13,7 +13,6 @@ degreeType: "carrera"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +24,9 @@ tags:
   - odontologia
   - salud
   - clinica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-odontologia--mvd--presencial"
@@ -41,7 +40,7 @@ sources:
 
 La carrera de Odontología forma profesionales capaces de resolver las patologías odontológicas orales más prevalentes en Uruguay y el mundo, con fuerte formación en el diagnóstico, el tratamiento y la práctica profesional basada en la evidencia científica. El plan de estudios es innovador y responde a estándares internacionales y a las necesidades del mercado laboral.
 
-La propuesta incluye prácticas desde el inicio de la carrera, preclínica con simuladores a tamaño real, docentes altamente calificados, y Aprendizaje Basado en Problemas (ABP) y en casos reales. El seguimiento es personalizado, con un profesor cada siete estudiantes, en una infraestructura diseñada para la enseñanza de la disciplina y una clínica universitaria con atención y seguimiento de pacientes. La carrera proporciona un alto porcentaje de insumos, ofrece minors y cursos electivos de más de 30 carreras, intercambio estudiantil en otra universidad del mundo, actividades académicas con universidades de la región y el ciclo común en Salud para formarse en la interdisciplinariedad desde el inicio.
+La propuesta incluye prácticas desde el inicio de la carrera, preclínica con simuladores a tamaño real, docentes altamente calificados, y Aprendizaje Basado en Problemas (ABP) y en casos reales. El seguimiento es personalizado, con 1 profesor cada 7 estudiantes, en una infraestructura diseñada para la enseñanza de la disciplina y una clínica universitaria con atención y seguimiento de pacientes. La carrera proporciona un alto porcentaje de insumos, ofrece minors y cursos electivos de más de 30 carreras, intercambio estudiantil en otra universidad del mundo, actividades académicas con universidades de la región y el ciclo común en Salud para formarse en la interdisciplinariedad desde el inicio.
 
 ### Perfil de egreso
 
@@ -57,7 +56,7 @@ Presencial, en el Campus Montevideo.
 
 ### Duración y Horarios
 
-La duración total es de 4 años, con horario matutino.
+La duración total es de 4 años, con horario matutino (turno matutino de 08:00 a 12:20).
 
 ## Ingreso
 

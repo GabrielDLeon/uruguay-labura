@@ -1,5 +1,5 @@
 ---
-title: "Escribanía (Notariado)"
+title: "Escribanía"
 similar:
   - escribania-ude
   - notariado-ucu
@@ -10,22 +10,19 @@ institution: "um"
 degreeType: "carrera"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/grado/escribania"
 location: "Montevideo"
-description: "Escribanía (Notariado) de la Universidad de Montevideo. Forma escribanos con criterio jurídico, ética y deontología profesional, e incluye un nuevo plan de Notariado para Abogados con título de Escribano en dos años."
+description: "Escribanía de la Universidad de Montevideo. Forma escribanos con criterio jurídico, ética y deontología profesional, e incluye un plan de Notariado para Abogados que otorga el título de Escribano en dos años."
 tags:
   - derecho
   - notariado
   - escribania
   - derecho-notarial
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/grado/escribania"
@@ -37,7 +34,7 @@ sources:
 
 ### Sobre la Carrera
 
-La carrera de Escribanía (Notariado) de la Facultad de Derecho (FDER) de la Universidad de Montevideo forma escribanos con una formación sólida, seguros en su actuación y con criterio jurídico en sintonía con la realidad actual. El egresado está capacitado para asesorar correctamente a sus clientes, interpretando y plasmando su voluntad en el negocio jurídico correspondiente, con actuaciones imparciales y un criterio de equidad en la protección de los intereses de las partes.
+La carrera de Escribanía de la Facultad de Derecho (FDER) de la Universidad de Montevideo forma escribanos con una formación sólida, seguros en su actuación y con criterio jurídico en sintonía con la realidad actual. El egresado está capacitado para asesorar correctamente a sus clientes, interpretando y plasmando su voluntad en el negocio jurídico correspondiente, con actuaciones imparciales y un criterio de equidad en la protección de los intereses de las partes.
 
 Además de las herramientas técnicas, la carrera aporta un fundamento humanístico principalmente a través de la Ética y la Deontología Jurídica, imprescindibles para la formación de un escribano, que al estar investido por el Estado de la Fe Pública hace que sus afirmaciones sean consideradas un fiel reflejo de la realidad.
 
@@ -51,7 +48,7 @@ Carrera presencial, dictada en la sede de la Universidad de Montevideo en Montev
 
 ### Duración y Horarios
 
-El nuevo Plan de Notariado para Abogados permite obtener el título de Escribano en la Universidad de Montevideo en dos años; en solamente 16 meses de cursado, el alumno puede acceder a una segunda titulación que potencia su desarrollo profesional. El cursado se organiza en cuatro semestres (marzo a junio y agosto a noviembre).
+La fuente oficial no publica la duración de la carrera completa; sí detalla el Plan de Notariado para Abogados: permite obtener el título de Escribano en dos años; en solamente 16 meses de cursado, el alumno puede acceder a una segunda titulación que potencia su desarrollo profesional. El cursado se organiza en cuatro semestres (marzo a junio y agosto a noviembre).
 
 ## Ingreso
 

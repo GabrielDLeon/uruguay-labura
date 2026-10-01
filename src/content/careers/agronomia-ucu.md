@@ -13,7 +13,6 @@ degreeType: "carrera"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - agronegocios
   - ciencia-de-datos
   - medio-ambiente
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-agronomia--mvd--presencial"

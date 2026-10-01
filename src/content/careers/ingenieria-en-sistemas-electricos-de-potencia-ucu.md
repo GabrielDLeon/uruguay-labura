@@ -13,13 +13,12 @@ degreeType: "ingenieria"
 area: "Ingeniería"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-sistemas-electricos-de-potencia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Ingeniería en Sistemas Eléctricos de Potencia de la UCU. Forma profesionales capaces de diseñar soluciones y dirigir proyectos relacionados con la generación y el manejo de la energía eléctrica y sus aplicaciones."
 tags:
   - ingenieria-electrica
@@ -27,9 +26,9 @@ tags:
   - electricidad
   - sistemas-de-potencia
   - generacion-de-energia
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-sistemas-electricos-de-potencia--mvd--presencial"
@@ -65,7 +64,7 @@ La duración total es de 5 años, con horarios matutinos y vespertinos compatibl
 
 ### Requisitos de Ingreso
 
-Bachillerato con un curso de matemáticas (mínimo) en el último año. Es una carrera reconocida por el MEC; el nuevo plan se encuentra en proceso de reconocimiento ante el MEC.
+Bachillerato con un curso de matemáticas (mínimo) en el último año. El nuevo plan se encuentra en proceso de reconocimiento ante el MEC.
 
 ## Plan de Estudio
 

@@ -1,5 +1,5 @@
 ---
-title: "Postgrado en Gestión Contable"
+title: "Postgrado en Asesoramiento Contable"
 similar:
   - contador-publico-ude
   - postgrado-en-contabilidad-um
@@ -13,20 +13,19 @@ degreeType: "diplomado"
 area: "Administración y Negocios"
 modality: "virtual"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "8 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-gestion-contable-online/"
 location: "Campus Virtual"
-description: "Postgrado en Gestión Contable de la Universidad de Montevideo (UMPE). Profundiza la normativa contable y el análisis de la información contable para la toma de decisiones, en modalidad online."
+description: "Postgrado en Asesoramiento Contable de la Universidad de Montevideo (UMPE). Profundiza la normativa contable y el análisis de la información contable para la toma de decisiones, en modalidad online en vivo."
 tags:
   - contabilidad
-  - gestion-contable
+  - asesoramiento-contable
   - toma-de-decisiones
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-gestion-contable-online/"
@@ -38,7 +37,7 @@ sources:
 
 ### Sobre la Carrera
 
-El Postgrado en Gestión Contable de la Universidad de Montevideo (UMPE) —antes denominado Postgrado en Asesoramiento Contable— ofrece capacitación de alta calidad en modalidad online, con el objetivo de alcanzar a profesionales del interior del país.
+El Postgrado en Asesoramiento Contable de la Universidad de Montevideo (UMPE) ofrece capacitación de alta calidad en modalidad online en vivo, con el objetivo de alcanzar a profesionales del interior del país.
 
 El programa profundiza el conocimiento de la normativa contable, proporciona recursos para el óptimo procesamiento de datos contables y su análisis desde un enfoque práctico, y brinda herramientas para asesorar a los clientes acerca de la correcta aplicación de la normativa contable y el uso eficiente de la información contable para la toma de decisiones.
 
@@ -48,11 +47,11 @@ Está dirigido a Contadores Públicos que se desempeñan profesionalmente en est
 
 ### Modalidad
 
-Modalidad online LIVE (100% virtual).
+Modalidad online en vivo (online LIVE).
 
 ### Duración y Horarios
 
-La duración del postgrado es de ocho meses. Las clases se dictan los martes y jueves de 8:00 a 10:00 h. El próximo inicio está previsto para abril.
+La duración del postgrado es de ocho meses. Las clases se dictan los martes y jueves de 8:00 a 10:00 h. El inicio de la próxima edición está previsto para abril (consultar la convocatoria vigente en la página oficial).
 
 ### Becas
 
@@ -70,6 +69,6 @@ Hay descuentos por inscripción temprana que varían mes a mes y beneficios espe
 
 ### Estructura
 
-El postgrado se desarrolla en ocho meses, con clases en modalidad online LIVE los martes y jueves de 8:00 a 10:00 h. El programa profundiza la normativa contable y el procesamiento y análisis de la información contable desde un enfoque práctico, para el asesoramiento en la aplicación de la normativa y la toma de decisiones.
+El postgrado se desarrolla en ocho meses, con clases en modalidad online en vivo los martes y jueves de 8:00 a 10:00 h. El programa profundiza la normativa contable y el procesamiento y análisis de la información contable desde un enfoque práctico, para el asesoramiento en la aplicación de la normativa y la toma de decisiones.
 
-La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias.
+La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias. La página oficial indica que el programa está sin registrar en el Ministerio de Educación y Cultura.

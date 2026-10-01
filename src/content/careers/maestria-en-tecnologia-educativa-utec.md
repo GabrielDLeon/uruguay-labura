@@ -3,7 +3,6 @@ title: "Maestría en Tecnología Educativa"
 short: "Maestría en Tecnología Educativa"
 similar:
   - especializacion-en-tecnologia-educativa-utec
-  - diploma-en-innovacion-educativa-ucu
   - maestria-en-diseno-de-ambientes-de-aprendizaje-utec
   - doctorado-en-educacion-ude
   - maestria-en-liderazgo-y-gestion-educativa-ucu

@@ -13,7 +13,6 @@ degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "virtual"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "8 meses"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - toma-de-decisiones
   - transformacion-digital
   - business-intelligence
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-analitica-de-negocios/"
@@ -44,6 +43,8 @@ El Postgrado en Analítica de Negocios de la Universidad de Montevideo (UMPE) pr
 
 El postgrado combina fundamentos técnicos accesibles con un enfoque práctico y orientado al negocio, agregando materias enfocadas en gestión de datos, transformación digital y data driven decision making.
 
+Nota: la página oficial del programa indica que está sin registrar en el Ministerio de Educación y Cultura.
+
 ### Perfil de egreso
 
 Está dirigido a profesionales con experiencia en roles de gestión, consultoría u otras áreas (marketing, operaciones, finanzas, producto) que interactúan con equipos de datos y tecnología. No se espera que los participantes sean data scientists, sino gestores que deben comprender modelos y herramientas analíticas para mejorar procesos, tomar decisiones basadas en datos y liderar proyectos de transformación digital.
@@ -56,7 +57,7 @@ Modalidad online LIVE (100% virtual).
 
 ### Duración y Horarios
 
-La duración del postgrado es de ocho meses. Las clases se dictan los lunes y miércoles de 18:30 a 21:15 h y los sábados de 8:30 a 12:45 h. El próximo inicio está previsto para mayo.
+La duración del postgrado es de ocho meses. Las clases se dictan los lunes y miércoles de 18:30 a 21:15 h y los sábados de 8:30 a 12:45 h. Las ediciones inician en mayo; consultar la próxima convocatoria en la página oficial.
 
 ### Becas
 

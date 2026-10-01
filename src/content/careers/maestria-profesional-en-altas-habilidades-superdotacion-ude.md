@@ -3,7 +3,6 @@ title: "Maestría Profesional en Altas Habilidades/Superdotación"
 similar:
   - maestria-academica-en-altas-habilidades-superdotacion-ude
   - especializacion-en-altas-habilidades-superdotacion-ude
-  - diploma-en-diseno-y-desarrollo-curricular-ucu
   - maestria-en-educacion-y-desarrollo-profesional-docente-um
   - diploma-profesional-en-innovacion-pedagogica-en-ensenanza-bilingue-um
 institutionName: "Universidad de la Empresa"

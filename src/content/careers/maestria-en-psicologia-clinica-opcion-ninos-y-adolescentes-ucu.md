@@ -12,8 +12,7 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "day"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - psicologia-clinica
   - psicoterapia
   - ninos-y-adolescentes
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes--mvd--presencial"
@@ -54,10 +53,10 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU, con prácticas 
 
 ### Duración y Horarios
 
-La maestría tiene una duración de dos años, organizados en cuatro semestres.
+La maestría tiene una duración de dos años. Las clases se dictan cada 15 días, los viernes de 8:00 a 12:00 y los sábados de 9:00 a 13:00.
 
 ## Plan de Estudio
 
 ### Estructura
 
-El plan de estudios se organiza en dos años de formación (cuatro semestres) que combinan clases expositivas, estudios dirigidos, talleres, ateneos clínicos y prácticas profesionales. El Trabajo Final de Maestría supone la realización de un estudio de caso basado en la práctica clínica profesional que evidencia las competencias adquiridas a lo largo de la formación y potencia el perfil profesional del egresado.
+El plan de estudios se organiza en dos años de formación que combinan clases expositivas, estudios dirigidos, talleres, ateneos clínicos y prácticas profesionales. El Trabajo Final de Maestría supone la realización de un estudio de caso basado en la práctica clínica profesional que evidencia las competencias adquiridas a lo largo de la formación y potencia el perfil profesional del egresado.

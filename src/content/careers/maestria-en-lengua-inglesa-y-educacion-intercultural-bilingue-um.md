@@ -13,7 +13,6 @@ degreeType: "maestria"
 area: "Educación"
 modality: "hibrido"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 credits: 64
 cost: "Arancelada"
@@ -27,9 +26,9 @@ tags:
   - lengua-inglesa
   - educacion-bilingue
   - interculturalidad
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/postgrado/maestria-en-lengua-inglesa-y"
@@ -56,7 +55,7 @@ El programa se desarrolla en una modalidad semipresencial flexible: clases onlin
 
 ### Duración y Horarios
 
-La duración es de dos años. Las clases se dictan los viernes de 18:30 h a 21:30 h y los sábados de 9:30 h a 13:30 h.
+La duración es de dos años. Las clases se dictan los viernes de 18:30 h a 21:30 h y los sábados de 9:30 h a 13:30 h. El próximo inicio publicado es abril de 2028.
 
 ## Ingreso
 

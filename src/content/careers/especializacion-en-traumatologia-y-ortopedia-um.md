@@ -12,12 +12,11 @@ institution: "um"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
+duration: "4 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/ciencias-biomedicas/oferta-academica/especialidad/especialidad-en-traumatologia-y-ortopedia"
+contactEmail: "biomedicas@um.edu.uy"
 location: "Montevideo"
 description: "Especialización en Traumatología y Ortopedia del Centro de Ciencias Biomédicas de la Universidad de Montevideo. Programa con perfil único en Uruguay, con formación asistencial en el Hospital Británico y hospitales de ASSE, clases teóricas e investigación."
 tags:
@@ -25,9 +24,9 @@ tags:
   - traumatologia
   - ortopedia
   - rehabilitacion
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/ciencias-biomedicas/oferta-academica/especialidad/especialidad-en-traumatologia-y-ortopedia"
@@ -53,9 +52,9 @@ Formar un profesional con perfil humanista, integrado al equipo de salud, que de
 
 Modalidad presencial, con formación asistencial en instituciones de salud.
 
-### Duración y Horarios
+### Duración
 
-La página oficial no especifica la duración del programa.
+La duración publicada en el catálogo oficial de postgrados de la UM es de 4 años, con inicio en marzo (consultar la cohorte vigente).
 
 ## Ingreso
 

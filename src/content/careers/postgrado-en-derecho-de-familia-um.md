@@ -12,23 +12,20 @@ institution: "um"
 degreeType: "diplomado"
 area: "Social y Artística"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 credits: 14
 cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-en-derecho-de-familia"
-location: "Montevideo"
+location: "Campus Virtual"
 description: "Postgrado en Derecho de Familia de la Universidad de Montevideo. Formación virtual e interdisciplinaria sobre la dinámica del derecho de familia para abogados, escribanos y operadores jurídicos."
 tags:
   - derecho
   - derecho-de-familia
   - derecho-civil
   - familia
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-en-derecho-de-familia"

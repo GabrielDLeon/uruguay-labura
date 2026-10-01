@@ -11,9 +11,7 @@ institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "tecnicatura"
 area: "Ciencias de la Salud"
-modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+modality: "presencial"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - acompanamiento-terapeutico
   - salud
   - cuidados
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/tecnicatura-en-acompanamiento-terapeutico--mvd--presencial"
@@ -52,11 +50,11 @@ La carrera otorga el título de Técnico/a en Acompañamiento Terapéutico.
 
 ### Modalidad
 
-Híbrida: presencial en el Campus Montevideo y semipresencial en el Campus Salto.
+Presencial, con carrera completa en Montevideo y Salto (la edición de Salto es semipresencial).
 
 ### Duración y Horarios
 
-La duración total es de 2 años.
+La duración total es de 2 años, en turno intermedio (13:50 a 18:10).
 
 ## Ingreso
 

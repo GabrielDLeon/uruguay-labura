@@ -11,9 +11,8 @@ institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
-modality: "hibrido"
+modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - psicoterapia
   - psicologia-analitica
   - psicologia-clinica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicoterapia-psicologia-analitica-junguiana--mvd--presencial"
@@ -42,7 +41,7 @@ sources:
 
 La Maestría en Psicoterapia - Psicología Analítica Junguiana, de la Escuela de Postgrados de la Universidad Católica del Uruguay, brinda las competencias para ejercer la psicoterapia individual siguiendo el modelo propuesto por la Psicoterapia Analítica. La carrera está reconocida por el Ministerio de Educación y Cultura (MEC).
 
-De los 22 cursos del programa, 16 se dictan en modalidad Zoom y 6 requieren de presencia directa. Los cursos se realizan en forma virtual los jueves y viernes de 19.00 a 22.30 y los sábados todo el día, una vez por mes, lo que posibilita la participación de analistas extranjeros y respeta los horarios profesionales de los participantes.
+De los 22 cursos del programa, 16 se dictan en modalidad Zoom y 6 requieren de presencia directa. Los cursos se dictan los jueves y viernes de 18:30 a 22:00 y los sábados de 9:00 a 13:00, lo que posibilita la participación de analistas extranjeros y respeta los horarios profesionales de los participantes.
 
 ### Perfil de egreso
 
@@ -50,11 +49,11 @@ El egresado integra en su práctica profesional los aportes de las diferentes di
 
 ### Modalidad
 
-Modalidad híbrida: 16 de los 22 cursos se dictan en modalidad Zoom y 6 requieren de presencia directa, combinando la formación virtual con instancias presenciales en el Campus Montevideo de la UCU.
+Modalidad presencial en el Campus Montevideo de la UCU. La metodología combina 16 cursos dictados por Zoom con 6 cursos de presencia directa, lo que posibilita la participación de analistas extranjeros y respeta los horarios profesionales de los participantes.
 
 ### Duración y Horarios
 
-La práctica clínica supervisada se desarrolla durante los cuatro semestres del programa, en pequeños grupos donde se supervisan los pacientes atendidos por los alumnos, ya sea en la Clínica Universitaria o en la práctica privada. Los cursos virtuales se dictan los jueves y viernes de 19.00 a 22.30 y los sábados todo el día, una vez por mes.
+La práctica clínica supervisada se desarrolla durante los cuatro semestres del programa, en pequeños grupos donde se supervisan los pacientes atendidos por los alumnos, ya sea en la Clínica Universitaria o en la práctica privada. Los cursos se dictan los jueves y viernes de 18:30 a 22:00 y los sábados de 9:00 a 13:00.
 
 ## Plan de Estudio
 

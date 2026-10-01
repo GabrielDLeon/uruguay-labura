@@ -12,9 +12,7 @@ institution: "um"
 degreeType: "diplomado"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
+duration: "140 horas (14 créditos)"
 credits: 14
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +25,9 @@ tags:
   - sindicatos
   - relaciones-laborales
   - recursos-humanos
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-en-derecho-del-trabajo-aplicado"
@@ -51,7 +49,7 @@ Modalidad presencial: el programa tiene una duración total de 140 horas presenc
 
 ### Duración y Horarios
 
-Posee un régimen de orientación temática según el cual el alumno debe aprobar 12 créditos obligatorios y 2 créditos opcionales. Los créditos académicos pueden ser acreditados a las maestrías en derecho. Los horarios no se especifican en la fuente oficial.
+Posee un régimen de orientación temática según el cual el alumno debe aprobar 12 créditos obligatorios y 2 créditos opcionales. Los créditos académicos pueden ser acreditados a las maestrías en derecho.
 
 ## Plan de Estudio
 

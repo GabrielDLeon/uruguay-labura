@@ -11,8 +11,7 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - gobierno
   - politicas-publicas
   - sector-publico
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-administracion-publica--mvd--presencial"
@@ -54,7 +53,7 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-El programa tiene una duración de dos años, organizados en trimestres: otoño (abril-junio), invierno (julio-setiembre) y primavera (octubre-diciembre).
+El programa tiene una duración de dos años, organizados en trimestres: otoño (abril-junio), invierno (julio-setiembre) y primavera (octubre-diciembre). Las clases son mayormente de lunes a jueves de 18:15 a 21:05 h. El próximo inicio publicado es en abril de 2027.
 
 ## Plan de Estudio
 

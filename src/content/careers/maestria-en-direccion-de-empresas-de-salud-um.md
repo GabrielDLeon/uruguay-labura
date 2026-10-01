@@ -12,9 +12,6 @@ institution: "um"
 degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 cost: "Arancelada"
 language: "Español"
 website: "https://www.ieem.edu.uy/mdes"
@@ -25,9 +22,9 @@ tags:
   - direccion-de-empresas
   - gestion-sanitaria
   - administracion-de-servicios-de-salud
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del MDES"
     url: "https://www.ieem.edu.uy/mdes"
@@ -53,19 +50,13 @@ El IEEM adopta el método del caso como metodología de aprendizaje: el esfuerzo
 
 ### Duración y Horarios
 
-La página oficial no especifica la duración del programa.
+La página oficial no publica la duración del programa ni la convocatoria vigente: consultar la próxima convocatoria en el sitio del IEEM.
 
 ## Ingreso
 
 ### Requisitos de Ingreso
 
-El MDES está dirigido a profesionales que trabajan en empresas del sector salud y tienen vocación directiva. Los requisitos publicados son:
-
-- Mínimo 4 años de experiencia laboral.
-- Edad a partir de 26 años.
-- Título de grado de carreras de al menos 4 años.
-
-El método del caso implica la necesidad del conocimiento previo de las características de la empresa, por lo que se prefiere un desarrollo profesional previo de al menos tres años.
+El MDES está dirigido a profesionales que trabajan en empresas del sector salud y tienen vocación directiva. El método del caso implica la necesidad del conocimiento previo de las características de la empresa, por lo que se prefiere un desarrollo profesional previo.
 
 ### Proceso de Admisión
 

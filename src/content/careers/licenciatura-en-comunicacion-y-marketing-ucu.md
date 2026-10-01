@@ -13,7 +13,6 @@ degreeType: "carrera"
 area: "Comunicación"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - marketing-digital
   - contenidos-digitales
   - ciencia-de-datos
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-comunicacion-y-marketing--pde--presencial"
@@ -51,7 +50,7 @@ El egresado desarrolla y ejecuta estrategias de comunicación y marketing para l
 
 ### Títulos y Reconocimientos
 
-- Licenciatura en Comunicación y Marketing (título de grado)
+- Licenciado/a en Comunicación y Marketing (título de grado)
 - Técnico/a en Contenidos Digitales (título técnico)
 
 La carrera es de nivel universitario y está reconocida por el Ministerio de Educación y Cultura (MEC).

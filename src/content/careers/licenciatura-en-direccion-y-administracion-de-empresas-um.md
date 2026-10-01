@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "licenciatura"
 area: "Administración y Negocios"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - direccion-de-empresas
   - gestion-empresarial
   - emprendimiento
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/direccion-y-administracion-de"

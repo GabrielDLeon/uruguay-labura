@@ -13,8 +13,7 @@ degreeType: "diplomado"
 area: "Social y Artística"
 modality: "presencial"
 shift: "night"
-weeklyHours: "No especificado"
-duration: "1 año"
+duration: "1 año (160 horas, 16 créditos)"
 credits: 16
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - idiomas
   - traduccion-juridica
   - audiovisual
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/posgrado-en-traduccion"

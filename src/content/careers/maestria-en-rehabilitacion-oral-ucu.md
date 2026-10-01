@@ -13,7 +13,6 @@ degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años y medio"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - rehabilitacion-oral
   - prostodoncia
   - implantologia
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-rehabilitacion-oral--mvd--presencial"
@@ -54,10 +53,10 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-La maestría se desarrolla en cinco semestres (abril-julio y agosto-noviembre), incluyendo el trabajo final de maestría.
+La maestría se desarrolla en dos años y medio (cinco semestres), incluyendo el trabajo final de maestría. Las clases se dictan los martes, miércoles y jueves de 14:00 a 21:30, con posibles clases extra en otros horarios.
 
 ## Plan de Estudio
 
 ### Estructura
 
-El plan de estudios se organiza en tres años (cinco semestres de cursada), e incluye el trabajo final de maestría (TFM) y dos actividades formativas vinculadas a la investigación. El programa se caracteriza por su transdisciplinariedad con otras especialidades odontológicas, existiendo actividades formativas en común entre ellas.
+El plan de estudios se organiza en dos años y medio (cinco semestres de cursada), e incluye el trabajo final de maestría (TFM) y dos actividades formativas vinculadas a la investigación. El programa se caracteriza por su transdisciplinariedad con otras especialidades odontológicas, existiendo actividades formativas en común entre ellas.

@@ -3,14 +3,12 @@ title: "Licenciatura en Psicopedagogía"
 similar:
   - licenciatura-en-psicopedagogia-semipresencial-ucu
   - maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje-ucu
-  - maestria-en-curriculum-y-aprendizaje-ucu
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
 degreeType: "licenciatura"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -23,9 +21,9 @@ tags:
   - educacion
   - aprendizaje
   - dificultades-de-aprendizaje
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-psicopedagogia--mvd--presencial"

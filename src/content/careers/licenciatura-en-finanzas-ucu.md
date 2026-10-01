@@ -13,7 +13,6 @@ degreeType: "licenciatura"
 area: "Administración y Negocios"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - inversiones
   - gestion-de-riesgos
   - mercado-de-capitales
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-finanzas--mvd--presencial"
@@ -45,7 +44,7 @@ La Licenciatura en Finanzas está orientada a la gestión de las finanzas corpor
 
 La carrera es la única en Uruguay con acreditaciones internacionales de prestigiosas universidades europeas y cuenta con una infraestructura que integra tecnología y plataformas financieras a los cursos, lo que permite trabajar con datos de mercado en tiempo real, realizar simulaciones y resolver casos. Su plan de estudios es de los más actualizados del país y los profesores, referentes del ámbito empresarial, profesional y académico, mantienen un vínculo cercano con los estudiantes.
 
-Desde el primer año la carrera plantea retos reales con empresas y cuenta con un ciclo común entre las carreras de la Facultad de Ciencias Empresariales, acreditada por AACSB. Ofrece minors y cursos electivos de más de 40 carreras, opciones de internacionalización como el intercambio estudiantil y los programas de invierno y verano, y la posibilidad de doble titulación en la UCU o internacional (3+1 años en Deusto, Excelia o Loyola).
+Desde el primer año la carrera plantea retos reales con empresas y cuenta con un ciclo común entre las carreras de la Facultad de Ciencias Empresariales. Ofrece minors y cursos electivos de más de 40 carreras, opciones de internacionalización como el intercambio estudiantil y los programas de invierno y verano, y la posibilidad de doble titulación en la UCU o internacional (3+1 años en Deusto, Excelia o Loyola).
 
 ### Perfil de egreso
 
@@ -57,11 +56,11 @@ La carrera otorga el título de grado de Licenciado/a en Finanzas y cuenta con e
 
 ### Modalidad
 
-Presencial, en el Campus Montevideo.
+Presencial. La carrera se cursa completa en Montevideo; en Punta del Este y Salto es posible cursar el primer semestre y continuar los estudios en Montevideo.
 
 ### Duración y Horarios
 
-La duración total es de 4 años, con horarios matutinos y vespertinos compatibles con la vida laboral.
+La duración total es de 4 años: turno matutino en 1.º y 2.º año y turno vespertino en 3.º y 4.º.
 
 ## Ingreso
 

@@ -12,9 +12,6 @@ institution: "um"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 credits: 50
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +22,9 @@ tags:
   - derecho
   - ciencias-juridicas
   - abogacia
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/llm-master-en-derecho"

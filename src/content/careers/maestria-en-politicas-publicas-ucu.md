@@ -9,14 +9,14 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "night"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-politicas-publicas--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "abril 2027"
 description: "Maestría en Políticas Públicas de la UCU. Forma para pensar soluciones creativas e innovadoras a problemas públicos y lograr alianzas no tradicionales entre gobierno, sociedad civil y el mundo empresarial."
 tags:
   - politicas-publicas
@@ -24,9 +24,9 @@ tags:
   - gestion-publica
   - administracion-publica
   - innovacion
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-politicas-publicas--mvd--presencial"
@@ -52,7 +52,7 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-La maestría tiene una duración de dos años, organizados en trimestres (abril-junio, julio-setiembre y octubre-diciembre).
+La maestría tiene una duración de dos años, organizados en trimestres (abril-junio, julio-setiembre y octubre-diciembre). La cohorte vigente inicia en abril de 2027. Clases de 18:15 a 21:05 h, mayormente de lunes a jueves según las optativas cursadas.
 
 ## Plan de Estudio
 

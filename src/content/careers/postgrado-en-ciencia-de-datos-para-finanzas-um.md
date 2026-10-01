@@ -13,7 +13,6 @@ degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "virtual"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "8 meses"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - inteligencia-artificial
   - business-intelligence
   - big-data
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-cincia-datos-finanzas/"
@@ -44,6 +43,8 @@ El Postgrado en Ciencia de Datos para Finanzas de la Universidad de Montevideo (
 
 Finalizado el postgrado, el egresado es capaz de consultar y extraer datos, visualizarlos en dashboards efectivos para la toma de decisiones financieras y utilizar la inteligencia artificial para resolver problemas de negocio. Aplica las herramientas y metodologías de la ciencia de datos a las finanzas corporativas, las inversiones y la gestión de riesgo.
 
+Nota: la página oficial del programa indica que está sin registrar en el Ministerio de Educación y Cultura.
+
 ### Perfil de egreso
 
 El egresado del postgrado será capaz de: extraer y analizar grandes volúmenes de datos; armar dashboards en Power BI; utilizar herramientas estadísticas para realizar predicciones basadas en datos; identificar y desarrollar modelos y metodologías para extraer información significativa para la toma de decisiones; desarrollar y crear algoritmos de aprendizaje automático; adquirir conocimientos de programación sobre Python, R y entornos de almacenamiento para operar con datos masivos, y aprender los fundamentos del machine learning y su aplicación en entornos reales.
@@ -58,7 +59,7 @@ Modalidad online LIVE (100% virtual).
 
 ### Duración y Horarios
 
-La duración del postgrado es de ocho meses. Las clases se dictan los miércoles de 18:30 a 21:15 h, los viernes de 8:00 a 10:45 h y los sábados de 8:30 a 12:45 h (de agosto a diciembre de 2026), y los lunes y miércoles de 18:30 a 21:15 h con sábados de 8:30 a 12:45 h (de febrero a abril de 2027). El próximo inicio está previsto para agosto.
+La duración del postgrado es de ocho meses. Las clases se dictan los miércoles de 18:30 a 21:15 h, los viernes de 8:00 a 10:45 h y los sábados de 8:30 a 12:45 h (de agosto a diciembre de 2026), y los lunes y miércoles de 18:30 a 21:15 h con sábados de 8:30 a 12:45 h (de febrero a abril de 2027). Las ediciones inician en agosto; consultar la próxima convocatoria en la página oficial.
 
 ### Becas
 

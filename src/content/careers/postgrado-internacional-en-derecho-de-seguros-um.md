@@ -12,9 +12,7 @@ institution: "um"
 degreeType: "diplomado"
 area: "Social y Artística"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
+duration: "120 horas (12 créditos)"
 credits: 12
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - derecho-de-seguros
   - seguros
   - reaseguros
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-internacional-en-derecho-de-seguros"
@@ -48,11 +46,7 @@ Está dirigido a profesionales universitarios del derecho y de otras carreras vi
 
 ### Modalidad
 
-Modalidad híbrida: la duración total es de 120 horas de clase, equivalentes a 12 créditos académicos. El programa se integra con seis módulos en versión online (incluido un módulo básico nivelador obligatorio sobre elementos esenciales del contrato de seguro) y horas presenciales de clase.
-
-### Duración y Horarios
-
-Los horarios no se especifican en la fuente oficial.
+Modalidad híbrida: 120 horas presenciales de clase, equivalentes a 12 créditos académicos, con seis módulos en versión online (incluido un módulo básico nivelador obligatorio sobre elementos esenciales del contrato de seguro).
 
 ## Plan de Estudio
 

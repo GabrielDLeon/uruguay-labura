@@ -12,9 +12,6 @@ institution: "um"
 degreeType: "diplomado"
 area: "Ciencias de la Salud"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
 cost: "Arancelada"
 language: "Español"
 website: "https://fcom.um.edu.uy/facultad-de-psicologia/oferta-academica/postgrado/diploma-en-psicologia-forense-y-criminologica"
@@ -26,9 +23,9 @@ tags:
   - criminologia
   - peritaje
   - derecho
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://fcom.um.edu.uy/facultad-de-psicologia/oferta-academica/postgrado/diploma-en-psicologia-forense-y-criminologica"
@@ -42,7 +39,7 @@ sources:
 
 ### Sobre la Carrera
 
-El Diploma en Psicología Forense y Criminológica, de la Facultad de Psicología de la Universidad de Montevideo, ofrece una propuesta rigurosa y actual que combina teoría y práctica para formarse en la intersección entre psicología, derecho y criminología. Bajo la dirección académica del magíster Gustavo Álvarez, el programa integra contenidos teóricos con ejemplos prácticos, con el objetivo de que los participantes adquieran una visión sólida de sus aplicaciones: desde la evaluación de testimonios y la detección de sesgos en la toma de decisiones, hasta las intervenciones en contextos penitenciarios.
+El Diploma en Psicología Forense y Criminológica, de la Facultad de Psicología de la Universidad de Montevideo, ofrece una propuesta rigurosa y actual que combina teoría y práctica para formarse en la intersección entre psicología, derecho y criminología. Bajo la dirección académica del magíster Gustavo Álvarez, el programa integra contenidos teóricos con ejemplos prácticos y casos reales.
 
 El programa está dirigido a psicólogos y abogados, estudiantes avanzados de las Licenciaturas en Psicología y Derecho, y funcionarios del sistema judicial o penitenciario interesados en profundizar su conocimiento del cruce disciplinario. Cuenta con un equipo docente internacional de alto nivel, con referentes en psicología forense, criminología y justicia de distintos países.
 
@@ -50,9 +47,9 @@ El programa está dirigido a psicólogos y abogados, estudiantes avanzados de la
 
 Modalidad híbrida: la formación se desarrolla en modalidad online, con un encuentro presencial con un experto destacado.
 
-### Duración y Horarios
+### Duración
 
-El programa comprende más de 90 horas de formación teórico-práctica, con casos reales y ejemplos. Las clases se dictan en modalidad online los jueves y viernes de 18:30 a 21:30 h y los sábados de 8:00 a 12:00 h (en algunos módulos hasta las 14:30 h), con una jornada presencial con un experto invitado.
+La formación se organiza en bloques teórico-prácticos con casos reales. El programa publica la siguiente carga por bloque: Psicología Jurídica y Forense (5 horas), Organización de la justicia uruguaya y actuación del perito (10 horas), Psicología del agresor y la víctima (8 horas), Psicología penitenciaria (10 horas), dictámenes periciales y meta periciales (10 horas), Psicología del testimonio y cámara Gesell (5 horas), protocolo HELPT (8 horas), perfilamiento criminal y autopsia psicológica (5 horas) y Evaluación Psicológica Reconstructiva (10 horas).
 
 ## Ingreso
 
@@ -68,14 +65,13 @@ El diploma está dirigido a:
 
 ### Estructura
 
-A lo largo de sus más de 90 horas de formación, los alumnos desarrollan competencias concretas en los siguientes bloques:
+A lo largo del programa, los alumnos desarrollan competencias concretas en los siguientes bloques:
 
 - Psicología Jurídica y Forense: herramientas propias de la especialidad.
 - Organización de la justicia uruguaya post nuevo Código del Proceso Penal; la actuación del perito y el operador jurídico.
 - Psicología del agresor y de la víctima.
 - Psicología penitenciaria: herramientas de evaluación y diagnóstico.
 - Psicología forense: elaboración de dictámenes periciales y meta periciales en casos prácticos.
-- La psicología forense en el foro de familia.
 - Psicología del testimonio: la cámara Gesell en Uruguay.
 - Profundización en la psicología del testimonio: el protocolo HELPT.
 - Psicología criminológica: perfilamiento criminal y autopsia psicológica.

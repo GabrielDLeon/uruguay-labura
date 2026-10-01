@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - economia-del-desarrollo
   - politicas-publicas
   - evaluacion-de-politicas-publicas
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-datos-economia-del-desarrollo-y-evaluacion-de-politicas/"
@@ -54,7 +52,7 @@ Modalidad híbrida, con currícula flexible.
 
 ### Duración y Horarios
 
-La duración del postgrado es de dos años. El próximo inicio está previsto para agosto.
+La duración del postgrado es de dos años. Las ediciones inician en agosto; consultar la próxima convocatoria en la página oficial.
 
 ### Becas
 

@@ -13,7 +13,6 @@ degreeType: "tecnicatura"
 area: "Tecnologías de la Información"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -28,9 +27,9 @@ tags:
   - base-de-datos
   - metodologias-agiles
   - desarrollo-de-aplicaciones
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/tecnicatura-en-desarrollador-de-software--mvd--presencial"
@@ -60,7 +59,7 @@ Presencial, con instancias en el Campus Montevideo, el Campus Salto y el Campus 
 
 ### Duración y Horarios
 
-La duración total es de 2 años, con horarios matutinos y vespertinos.
+La duración total es de 2 años, con turno matutino (08:00 a 12:20) y turno vespertino (18:15 a 22:35).
 
 ## Ingreso
 

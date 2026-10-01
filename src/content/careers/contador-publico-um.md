@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "carrera"
 area: "Administración y Negocios"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - impuestos
   - finanzas
   - ciencia-de-datos
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/contador-publico"
@@ -52,7 +50,7 @@ La duración prevista para la obtención del título es de cuatro años (ocho se
 
 Modalidad presencial, en el marco de las carreras de grado de la Facultad de Ciencias Empresariales y Economía en Montevideo.
 
-### Duración y Horarios
+### Duración
 
 La duración prevista para la obtención del título es de cuatro años (ocho semestres).
 

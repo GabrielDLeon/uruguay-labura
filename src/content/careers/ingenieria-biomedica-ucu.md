@@ -12,22 +12,21 @@ degreeType: "ingenieria"
 area: "Mecatrónica, Logística y Biomédica"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-biomedica--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Ingeniería Biomédica de la UCU. Forma profesionales capaces de aplicar métodos de ingeniería para evaluar y desarrollar tecnologías destinadas a la prevención, el diagnóstico, el tratamiento y la rehabilitación en salud."
 tags:
   - ingenieria-biomedica
   - salud
   - tecnologia-medica
   - dispositivos-medicos
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-biomedica--mvd--presencial"

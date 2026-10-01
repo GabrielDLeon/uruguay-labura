@@ -12,22 +12,23 @@ institution: "ucu"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
+shift: "day"
+duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-fisioterapia-con-enfasis-en-ortopedia-y-traumatologia--mvd--semipresencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "agosto 2027"
 description: "Maestría en Fisioterapia Traumatológica de la UCU. Capacita para identificar, analizar, tratar y rehabilitar problemas de salud relacionados con la ortopedia y la traumatología."
 tags:
   - fisioterapia
   - ortopedia
   - traumatologia
   - rehabilitacion
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-fisioterapia-con-enfasis-en-ortopedia-y-traumatologia--mvd--semipresencial"
@@ -51,7 +52,7 @@ Modalidad semipresencial. El abordaje metodológico de las asignaturas incluye p
 
 ### Duración y Horarios
 
-El primer semestre se desarrolla de agosto a diciembre; el calendario de los próximos semestres se define y se informa oportunamente a los participantes.
+El programa tiene una duración de dos años. La cohorte vigente inicia en agosto de 2027. Clases virtuales los sábados y domingos de 8:30 a 18:30 h, con una semana intensiva de prácticas presenciales por semestre (lunes a viernes de 8:30 a 18:30 h) en el Campus Montevideo.
 
 ## Plan de Estudio
 

@@ -12,9 +12,7 @@ institution: "um"
 degreeType: "diplomado"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
+duration: "120 horas (12 créditos)"
 credits: 12
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +25,9 @@ tags:
   - derecho-penal-economico
   - compliance
   - derecho-economico
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-en-derecho-penal-economico"
@@ -53,7 +51,7 @@ Modalidad presencial: el programa tiene una duración total de 120 horas presenc
 
 ### Duración y Horarios
 
-Posee un régimen de orientación temática y de currícula cerrada: el alumno puede cursar a su elección materias de Derecho Penal que le permitan completar los créditos requeridos y obtener su Diploma de Postgrado. Las materias no están sujetas a un régimen de prelación y los créditos académicos de los postgrados aplican a las Maestrías en Derecho. Los horarios no se especifican en la fuente oficial.
+Posee un régimen de orientación temática y de currícula cerrada: el alumno puede cursar a su elección materias de Derecho Penal que le permitan completar los créditos requeridos y obtener su Diploma de Postgrado. Las materias no están sujetas a un régimen de prelación y los créditos académicos de los postgrados aplican a las Maestrías en Derecho.
 
 ## Plan de Estudio
 

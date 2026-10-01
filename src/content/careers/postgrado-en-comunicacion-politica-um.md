@@ -13,7 +13,6 @@ degreeType: "diplomado"
 area: "Comunicación"
 modality: "hibrido"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "1 año"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - opinion-publica
   - gobierno
   - ciencia-politica
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-comunicacion/oferta-academica/postgrado/postgrado-en-comunicacion-politica"
@@ -50,7 +49,7 @@ Está dirigido a egresados universitarios con perfil de liderazgo interesados en
 
 ### Perfil de egreso
 
-La persona que egresa del postgrado entiende los públicos a los que debe dirigirse su cliente, ya sea un partido político o una organización. Sabe manejar el discurso público y construir mensajes efectivos para campañas de corte político, económico y social, atendiendo a la coyuntura nacional e internacional.
+La persona que egresa del postgrado entiende los públicos a los que debe dirigirse su cliente, ya sea un partidario o una organización. Sabe manejar el discurso público y construir mensajes efectivos para campañas de corte político, económico y social, atendiendo a la coyuntura nacional e internacional.
 
 ### Modalidad
 
@@ -81,4 +80,4 @@ El plan de estudios está estructurado en dos pilares básicos: Management y Com
 - Gestión del discurso público.
 - Dilema de aparición pública.
 - Comunicación de gobierno.
-- Big Data.
+- Big Data (según la página oficial, esta materia requiere presencialidad; consultar su vigencia en cada edición).

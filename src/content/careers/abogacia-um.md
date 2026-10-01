@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "carrera"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
@@ -24,9 +22,9 @@ tags:
   - derecho
   - ciencias-juridicas
   - derecho-anglosajon
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/grado/abogacia"
@@ -50,7 +48,7 @@ La carrera otorga el título de Abogado. Forma parte de las dos carreras de grad
 
 Carrera presencial, dictada en la sede de la Universidad de Montevideo en Montevideo.
 
-### Duración y Horarios
+### Duración
 
 La duración prevista para obtener el título es de cinco años (diez semestres). Cada año contiene dos semestres: el primero de marzo a junio, y el segundo de agosto a noviembre.
 

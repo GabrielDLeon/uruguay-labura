@@ -12,8 +12,6 @@ institution: "ucu"
 degreeType: "doctorado"
 area: "Comunicación"
 modality: "hibrido"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "3 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +23,9 @@ tags:
   - comunicacion
   - ciencias-sociales
   - investigacion
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-comunicacion--mvd--presencial"
@@ -53,7 +51,7 @@ El programa combina la modalidad presencial con la modalidad a distancia.
 
 ### Duración y Horarios
 
-El programa se desarrolla a lo largo de tres años, organizados en semestres (marzo-julio y agosto-diciembre) cada año. El tercer año se dedica especialmente a la escritura de la tesis doctoral.
+El programa se desarrolla a lo largo de tres años, organizados en semestres (marzo-julio y agosto-diciembre) cada año. El tercer año se dedica especialmente a la escritura de la tesis doctoral. Inicio publicado: 2028; postulaciones abiertas hasta setiembre, según la página oficial.
 
 ## Plan de Estudio
 

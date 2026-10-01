@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "ingenieria"
 area: "Tecnologías de la Información"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +24,9 @@ tags:
   - ingenieria-de-software
   - sistemas-de-informacion
   - gestion-de-proyectos-it
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-en-informatica"
@@ -48,7 +46,7 @@ La carrera ofrece además la posibilidad de especializarse con un Graduate Diplo
 
 Carrera presencial, dictada en la Universidad de Montevideo.
 
-### Duración y Horarios
+### Duración
 
 La duración prevista para la obtención del título es de cinco años (diez semestres).
 

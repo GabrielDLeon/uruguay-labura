@@ -11,8 +11,7 @@ institution: "ucu"
 degreeType: "diplomado"
 area: "Tecnologías de la Información"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
+duration: "Entre 5 y 12 meses hasta completar créditos y horas"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-metodos-de-investigacion-y-analisis-de-datos--mvd--presencial"
@@ -23,9 +22,9 @@ tags:
   - ciencia-de-datos
   - toma-de-decisiones
   - metodos-de-investigacion
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-metodos-de-investigacion-y-analisis-de-datos--mvd--presencial"
@@ -45,9 +44,13 @@ El diploma forma parte de la oferta metodológica vinculada a la Maestría en Po
 
 Modalidad presencial, dictada en el Campus Montevideo de la UCU. Todos los cursos incorporan metodologías activas y combinan trabajo conceptual con ejemplos prácticos, generalmente asociados a las políticas públicas.
 
+### Títulos y Reconocimientos
+
+La Escuela de Postgrados UCU otorga el certificado de Diploma en Métodos de Investigación y Análisis de Datos. Los créditos correspondientes a los cursos de este diploma son válidos para completar la Maestría en Políticas Públicas.
+
 ### Duración y Horarios
 
-El programa se desarrolla entre abril y diciembre, dependiendo de la oferta de cursos de la Maestría en Políticas Públicas. Los 3 cursos obligatorios se dictan entre marzo y agosto, y los cursos electivos dependen de cuándo se ofrecen; también se pueden tomar cursos de la Escuela de Invierno en Métodos, que tiene lugar generalmente en la segunda quincena de julio o la primera semana de agosto.
+El programa se desarrolla entre abril y diciembre, dependiendo de la oferta de cursos de la Maestría en Políticas Públicas (entre 5 y 12 meses hasta completar créditos y horas). Inicio publicado: abril de 2027. Los 3 cursos obligatorios se dictan entre marzo y agosto, y los cursos electivos dependen de cuándo se ofrecen; también se pueden tomar cursos de la Escuela de Invierno en Métodos, que tiene lugar generalmente en la segunda quincena de julio o la primera semana de agosto.
 
 ## Plan de Estudio
 

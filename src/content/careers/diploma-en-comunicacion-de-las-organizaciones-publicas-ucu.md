@@ -12,8 +12,7 @@ institution: "ucu"
 degreeType: "diplomado"
 area: "Comunicación"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
+duration: "8 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-comunicacion-de-las-organizaciones-publicas--mvd--virtual"
@@ -25,9 +24,9 @@ tags:
   - sector-publico
   - administracion-publica
   - gobierno
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/diploma-en-comunicacion-de-las-organizaciones-publicas--mvd--virtual"
@@ -51,9 +50,13 @@ El egresado diseña estrategias comunicacionales efectivas en el sector público
 
 Modalidad virtual: clases sincrónicas en Teams complementadas con actividades asincrónicas en la plataforma Moodle de UCU.
 
+### Títulos y Reconocimientos
+
+Al finalizar y cumplir con los requisitos, la Escuela de Postgrados UCU otorga el certificado de Diploma en Comunicación de las Organizaciones Públicas, no reconocido por el Ministerio de Educación y Cultura. La culminación de este diploma suma créditos para completar la Maestría en Comunicación Organizacional de la UCU.
+
 ### Duración y Horarios
 
-El programa se desarrolla entre setiembre de 2025 y mayo de 2026.
+El programa tiene una duración de 8 meses. Inicio publicado: setiembre de 2027.
 
 ## Plan de Estudio
 

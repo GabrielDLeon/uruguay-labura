@@ -2,7 +2,6 @@
 title: "Maestría en Ciencias Odontológicas Opción Salud Colectiva y Epidemiología Bucal"
 similar:
   - ciencias-odontologicas-opcion-biologia-oral-maestria-udelar
-  - maestria-en-epidemiologia-y-salud-digital-ucu
   - ciencias-odontologicas-con-enfasis-en-odontopediatria-maestria-udelar
   - epidemiologia-especializacion-udelar
   - ciencias-odontologicas-doctorado-udelar

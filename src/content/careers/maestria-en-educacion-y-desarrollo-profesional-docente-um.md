@@ -13,7 +13,6 @@ degreeType: "maestria"
 area: "Educación"
 modality: "hibrido"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 credits: 58
 cost: "Arancelada"
@@ -26,9 +25,9 @@ tags:
   - formacion-docente
   - desarrollo-profesional-docente
   - investigacion-educativa
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/postgrado/maestria-en-educacion-y-desarrollo"
@@ -55,7 +54,7 @@ La maestría se dicta en modalidad semipresencial: dos semanas presenciales inte
 
 ### Duración y Horarios
 
-La duración es de dos años, que constituyen un trayecto formativo progresivo para el maestrando. Las clases se dictan los viernes de 18:30 h a 21:30 h y los sábados de 9:30 h a 13:30 h.
+La duración es de dos años, que constituyen un trayecto formativo progresivo para el maestrando. Las clases se dictan los viernes de 18:30 h a 21:30 h y los sábados de 9:30 h a 13:30 h. El ingreso es por módulos (próximo módulo abril 2027, según la página oficial).
 
 ## Ingreso
 

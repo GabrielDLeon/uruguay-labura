@@ -12,9 +12,7 @@ institution: "um"
 degreeType: "diplomado"
 area: "Social y Artística"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "1 año"
+duration: "1 año (170 horas, 17 créditos)"
 credits: 17
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +23,9 @@ tags:
   - tributacion
   - impuestos
   - derecho-tributario
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-en-tributacion-nacional"
@@ -51,7 +49,7 @@ Modalidad presencial: el programa tiene una duración total de 170 horas presenc
 
 ### Duración y Horarios
 
-El postgrado se desarrolla en un año y genera 17 créditos para el Máster en Tributación. Las materias no están sujetas a un régimen de prelación. Los horarios no se especifican en la fuente oficial.
+El postgrado se desarrolla en un año (170 horas presenciales, 17 créditos) y genera 17 créditos para el Máster en Tributación. Las materias no están sujetas a un régimen de prelación.
 
 ## Plan de Estudio
 

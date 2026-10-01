@@ -13,7 +13,6 @@ degreeType: "licenciatura"
 area: "Educación"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -26,9 +25,9 @@ tags:
   - pedagogia
   - didactica
   - educacion-comunitaria
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-educacion--mvd--presencial"
@@ -58,7 +57,7 @@ Modalidad presencial, dictada en el Campus Montevideo de la UCU.
 
 ### Duración y Horarios
 
-La duración total es de 4 años, con horarios matutinos y vespertinos compatibles con la vida laboral.
+La duración total es de 4 años: turno matutino en 1.º y 2.º año y turno vespertino en 3.º y 4.º.
 
 ## Ingreso
 

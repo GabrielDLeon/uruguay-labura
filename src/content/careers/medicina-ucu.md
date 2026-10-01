@@ -13,7 +13,6 @@ degreeType: "carrera"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "day"
-weeklyHours: "No especificado"
 duration: "6 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +24,9 @@ tags:
   - medicina
   - salud
   - clinica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-medicina--mvd--presencial"
@@ -41,7 +40,7 @@ sources:
 
 La carrera de Medicina forma médicos con sólida base científica, sensibilidad social y compromiso humano, capaces de resolver problemas de salud con juicio crítico y rigor científico, comunicarse con empatía y actuar en escenarios diversos, preparados para trabajar en equipo y cuidar la salud de personas y comunidades.
 
-La propuesta se basa en el Aprendizaje Basado en Problemas (ABP) con un fuerte foco en la comunidad y un modelo pedagógico centrado en el estudiante. El perfil del graduado está diseñado para responder a estándares internacionales, desarrollando competencias para la toma de decisiones clínicas, la destreza técnica, la práctica colaborativa y la salud pública. Desde el primer día se trabajan casos clínicos en laboratorios, en la clínica universitaria y en la comunidad, con laboratorios de Simulación, Morfofuncional y de Movimiento Humano diseñados especialmente para el desarrollo de competencias. El equipo docente está integrado por reconocidos profesionales formados para este modelo pedagógico, con grupos reducidos, atención personalizada y cupos limitados. La carrera incluye práctica preprofesional (internado) y proyectos de investigación en instituciones públicas y privadas, además del ciclo común en Salud para formarse en la interdisciplinariedad desde el inicio.
+La propuesta se basa en el Aprendizaje Basado en Problemas (ABP) con un fuerte foco en la comunidad y un modelo pedagógico centrado en el estudiante. El perfil del graduado está diseñado para responder a estándares internacionales, desarrollando competencias para la toma de decisiones clínicas, la destreza técnica, la práctica colaborativa y la salud pública. Desde el primer día se trabajan casos clínicos en laboratorios, en la clínica universitaria y en la comunidad, con el Laboratorio Morfofuncional, el Centro de Simulación y la Clínica Universitaria UCU diseñados especialmente para el desarrollo de competencias. El equipo docente está integrado por reconocidos profesionales formados para este modelo pedagógico, con grupos reducidos, atención personalizada y cupos limitados. La carrera incluye práctica preprofesional (internado) y proyectos de investigación en instituciones públicas y privadas, además del ciclo común en Salud para formarse en la interdisciplinariedad desde el inicio.
 
 ### Perfil de egreso
 
@@ -57,7 +56,7 @@ Presencial, en el Campus Montevideo.
 
 ### Duración y Horarios
 
-La duración total es de 6 años, con horario matutino. Incluye práctica preprofesional (internado) en instituciones públicas y privadas.
+La duración total es de 6 años, con horario matutino (Ciclo Básico y Ciclo Clínico en turno matutino, con actividades puntuales obligatorias en la tarde). Incluye práctica preprofesional (internado) en instituciones públicas y privadas.
 
 ## Ingreso
 

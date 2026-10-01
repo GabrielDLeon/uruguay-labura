@@ -8,11 +8,10 @@ similar:
   - licenciatura-en-ciencias-sociales-udelar
 institutionName: "Universidad Católica del Uruguay"
 institution: "ucu"
-degreeType: "carrera"
+degreeType: "licenciatura"
 area: "Social y Artística"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +24,9 @@ tags:
   - ciencias-sociales
   - investigacion-social
   - ciencia-de-datos
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-sociologia--mvd--presencial"

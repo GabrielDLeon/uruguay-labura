@@ -3,7 +3,6 @@ title: "Especialización en Altas Habilidades/Superdotación"
 similar:
   - maestria-profesional-en-altas-habilidades-superdotacion-ude
   - maestria-academica-en-altas-habilidades-superdotacion-ude
-  - diploma-en-diseno-y-desarrollo-curricular-ucu
 institutionName: "Universidad de la Empresa"
 institution: "ude"
 degreeType: "especializacion"

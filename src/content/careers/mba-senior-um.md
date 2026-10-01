@@ -12,9 +12,8 @@ institution: "um"
 degreeType: "maestria"
 area: "Administración y Negocios"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
+shift: "day"
+duration: "21 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://www.ieem.edu.uy/mba-senior"
@@ -26,9 +25,9 @@ tags:
   - administracion-de-empresas
   - liderazgo
   - habilidades-gerenciales
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del MBA Senior"
     url: "https://www.ieem.edu.uy/mba-senior"
@@ -50,11 +49,11 @@ El programa otorga el título de Máster en Dirección y Administración de Empr
 
 ### Modalidad
 
-La página oficial no detalla la modalidad del programa; la distingue el formato y la distribución de la carga de trabajo a lo largo del programa.
+Programa presencial con tres sesiones semanales: las jornadas regulares son los jueves de mañana, de 8:15 h a 12:30 h, con alguna jornada adicional ocasional (usualmente miércoles en el mismo horario). El sexto y último trimestre se dicta en conjunto para todos los formatos del MBA, con régimen de días y horarios según los cursos electivos.
 
 ### Duración y Horarios
 
-La página oficial no especifica la duración del programa.
+El período lectivo se extiende a lo largo de 21 meses efectivos, en seis trimestres. La dedicación requerida se estima en 12 a 14 horas semanales, incluido el estudio individual, la discusión previa en equipos y las propias sesiones.
 
 ## Ingreso
 

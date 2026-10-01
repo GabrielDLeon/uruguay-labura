@@ -13,7 +13,6 @@ degreeType: "licenciatura"
 area: "Administración y Negocios"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +26,9 @@ tags:
   - logistica-internacional
   - integracion-regional
   - lenguas-extranjeras
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-negocios-internacionales--mvd--presencial"
@@ -41,9 +40,9 @@ sources:
 
 ### Sobre la Carrera
 
-Negocios Internacionales es la primera carrera de su tipo en el país, con más de 20 años de trayectoria. Forma profesionales capaces de desempeñarse a nivel nacional e internacional, tomando decisiones estratégicas en un entorno global, con herramientas de comercio exterior y logística, capacidad de identificar oportunidades de negocio y convertirlas en proyectos, y habilidad para analizar variables económicas, políticas y culturales y negociar con personas de diversas culturas.
+Negocios Internacionales es la primera carrera de Negocios Internacionales del país, con más de 20 años de trayectoria. Forma profesionales capaces de desempeñarse a nivel nacional e internacional, tomando decisiones estratégicas en un entorno global, con herramientas de comercio exterior y logística, capacidad de identificar oportunidades de negocio y convertirlas en proyectos, y habilidad para analizar variables económicas, políticas y culturales y negociar con personas de diversas culturas.
 
-Su plan de estudios innovador está orientado al nuevo contexto productivo, económico y social e incluye el dominio de idiomas centrales: inglés, portugués y chino mandarín. La carrera pertenece a la Facultad de Ciencias Empresariales, lo que le otorga un enfoque empresarial que la diferencia de otras propuestas con un enfoque más jurídico o político. El énfasis está puesto en la internacionalización de empresas, la integración económica y el comercio exterior y la logística.
+Su plan de estudios innovador está orientado al nuevo contexto productivo, económico y social e incluye el dominio de idiomas centrales: inglés, portugués y chino mandarín. La carrera pertenece a la Facultad de Ciencias Empresariales, lo que le otorga un enfoque empresarial que la diferencia de otras propuestas con un enfoque más en Derecho y Ciencia Política. El énfasis está puesto en la internacionalización de empresas, la integración económica y el comercio exterior y la logística.
 
 La carrera ofrece minors y cursos electivos de más de 40 carreras, una amplia salida laboral en el mercado nacional e internacional, participación en actividades sobre temas de actualidad con exponentes internacionales, y muchas opciones de internacionalización, como el intercambio estudiantil, las semanas internacionales y los programas de invierno y verano. Integra la única Facultad de Ciencias Empresariales del país acreditada por AACSB y permite la doble titulación en la UCU o internacional (3+1 años en Deusto, Excelia o Loyola).
 

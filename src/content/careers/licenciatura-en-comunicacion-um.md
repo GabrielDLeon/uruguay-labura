@@ -12,8 +12,6 @@ institution: "um"
 degreeType: "licenciatura"
 area: "Comunicación"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "4 años"
 cost: "Arancelada"
 language: "Español"
@@ -27,9 +25,9 @@ tags:
   - marketing
   - cine
   - opinion-publica
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://fcom.um.edu.uy/facultad-de-comunicacion/oferta-academica/grado/licenciatura-en-comunicacion"

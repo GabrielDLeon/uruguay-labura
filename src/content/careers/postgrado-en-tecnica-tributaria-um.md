@@ -13,8 +13,7 @@ degreeType: "diplomado"
 area: "Administración y Negocios"
 modality: "presencial"
 shift: "night"
-weeklyHours: "No especificado"
-duration: "1 año"
+duration: "10 meses"
 cost: "Arancelada"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-tecnica-tributaria/"
@@ -25,9 +24,9 @@ tags:
   - impuestos
   - derecho-tributario
   - asesoramiento-empresarial
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado (UMPE)"
     url: "https://umpe.um.edu.uy/index.php/portfolio/postgrado-en-tecnica-tributaria/"
@@ -39,19 +38,19 @@ sources:
 
 ### Sobre la Carrera
 
-El Postgrado en Técnica Tributaria de la Universidad de Montevideo (UMPE) tiene como objetivo dotar a sus participantes de una base sólida en conocimientos teóricos y de aplicación práctica en el área tributaria. Se busca que los participantes adquieran una especialización en la temática tributaria que les permita brindar un asesoramiento calificado tanto en el ámbito de la actividad privada como en la función pública.
+El Postgrado en Técnica Tributaria de la Universidad de Montevideo (UMPE) brinda a sus participantes un entendimiento profundo de la temática tributaria, para optimizar la toma de decisiones en un mundo empresarial dinámico.
 
 ### Participantes
 
-Está dirigido a profesionales del área impositiva, con perfil de liderazgo, experiencia laboral previa y la convicción de especializarse en temas tributarios para brindar un asesoramiento de calidad.
+Está dirigido a Contadores Públicos que se desempeñen en distintos ámbitos de la práctica tributaria y quieran especializarse y destacarse en temas impositivos, con vocación de liderazgo en el área.
 
 ### Modalidad
 
-Modalidad presencial.
+Modalidad presencial en sede Central (Montevideo).
 
 ### Duración y Horarios
 
-La duración del postgrado es de un año. Las clases se dictan los martes y jueves de 18:30 a 20:30 h; los talleres se dictan los lunes y miércoles de 18:30 a 21:00 h únicamente en los meses de julio, octubre y diciembre. El próximo inicio está previsto para marzo.
+La duración del postgrado es de diez meses. Las clases se dictan los martes y jueves de 18:30 a 20:30 h, con talleres los lunes, miércoles y/o viernes. El inicio de la próxima edición está previsto para marzo (consultar la convocatoria vigente en la página oficial).
 
 ### Becas
 
@@ -69,6 +68,6 @@ Hay descuentos por inscripción temprana que varían mes a mes y beneficios espe
 
 ### Estructura
 
-El postgrado se desarrolla en un año, con clases los martes y jueves de 18:30 a 20:30 h, y talleres los lunes y miércoles de 18:30 a 21:00 h en los meses de julio, octubre y diciembre. Corresponde a un año de la Maestría en Contabilidad y Técnica Tributaria de UMPE.
+El postgrado se desarrolla en diez meses, con clases los martes y jueves de 18:30 a 20:30 h, y talleres los lunes, miércoles y/o viernes. Corresponde a un año de la Maestría en Contabilidad y Técnica Tributaria de UMPE.
 
-La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias.
+La asistencia a clase es obligatoria: se requiere un 75% de asistencia en cada una de las materias. La página oficial indica que el programa está sin registrar en el Ministerio de Educación y Cultura.

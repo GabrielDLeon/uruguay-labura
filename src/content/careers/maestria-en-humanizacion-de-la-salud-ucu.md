@@ -13,12 +13,13 @@ degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
+duration: "2 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-humanizacion-de-la-salud--mvd--presencial"
 location: "Montevideo"
 accreditation: "Ministerio de Educación y Cultura"
+startDate: "agosto 2027"
 description: "Maestría en Humanización de la Salud de la UCU. Capacita para contribuir a la transformación del modelo de atención en salud a través de equipos sólidos, vínculos terapéuticos empáticos y un ejercicio profesional centrado en las personas."
 tags:
   - salud
@@ -26,9 +27,9 @@ tags:
   - atencion-centrada-en-la-persona
   - comunicacion
   - bioetica
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-humanizacion-de-la-salud--mvd--presencial"
@@ -52,7 +53,7 @@ Modalidad presencial, con talleres experienciales y ejercicios prácticos en los
 
 ### Duración y Horarios
 
-El calendario de cursado se anuncia próximamente.
+El programa tiene una duración de dos años. La cohorte vigente inicia en agosto de 2027. Encuentros presenciales una vez por mes: viernes de 9:00 a 20:00 h y sábados de 9:00 a 19:00 h.
 
 ## Plan de Estudio
 

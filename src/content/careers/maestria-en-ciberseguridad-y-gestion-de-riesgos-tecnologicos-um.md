@@ -12,10 +12,10 @@ institution: "um"
 degreeType: "maestria"
 area: "Tecnologías de la Información"
 modality: "virtual"
-shift: "both"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
+contactEmail: "cpi@um.edu.uy"
+credits: 58
 language: "Español"
 website: "https://fcom.um.edu.uy/centro-de-postgrados-de-ingenieria/oferta-academica/master/maestria-en-ciberseguridad-y-gestion-0"
 location: "Campus Virtual"
@@ -26,9 +26,9 @@ tags:
   - seguridad-de-la-informacion
   - seguridad-informatica
   - informatica
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://fcom.um.edu.uy/centro-de-postgrados-de-ingenieria/oferta-academica/master/maestria-en-ciberseguridad-y-gestion-0"
@@ -48,4 +48,4 @@ Modalidad virtual sincrónica.
 
 ### Duración y Horarios
 
-El programa se cursa en 2 años, al cabo de los cuales se obtiene el título final de la maestría. El próximo inicio está previsto para agosto de 2026.
+El programa se cursa en 2 años (500 horas, 58 créditos) y otorga el título final de Magíster en Ciberseguridad y Gestión de Riesgos Tecnológicos, con título intermedio de Especialista en Ciberseguridad al finalizar el primer año (34 créditos). Para conocer la próxima convocatoria, consultar la página oficial.

@@ -13,13 +13,12 @@ degreeType: "ingenieria"
 area: "Ingeniería"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-informatica--mvd--presencial"
 location: "Montevideo y Punta del Este"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "En trámite de reconocimiento (MEC)"
 description: "Ingeniería en Informática de la UCU. Forma profesionales capaces de crear soluciones mediante las tecnologías de la información y las comunicaciones con visión de negocio, integrando ingeniería, software, hardware y gestión de proyectos."
 tags:
   - informatica
@@ -27,9 +26,9 @@ tags:
   - ingenieria
   - gestion-de-proyectos-it
   - sistemas-de-informacion
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-informatica--mvd--presencial"
@@ -65,7 +64,7 @@ La duración total es de 5 años, con horarios matutinos y vespertinos compatibl
 
 ### Requisitos de Ingreso
 
-Bachillerato con un curso de matemáticas (mínimo) en el último año. Es una carrera de nivel universitario reconocida por el MEC; el nuevo plan de estudios se encuentra en proceso de reconocimiento ante el MEC.
+Bachillerato con un curso de matemáticas (mínimo) en el último año. Es una carrera de nivel universitario; el nuevo plan de estudios se encuentra en proceso de reconocimiento ante el MEC.
 
 ## Plan de Estudio
 

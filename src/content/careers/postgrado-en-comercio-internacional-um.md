@@ -12,9 +12,7 @@ institution: "um"
 degreeType: "diplomado"
 area: "Administración y Negocios"
 modality: "presencial"
-shift: "both"
-weeklyHours: "No especificado"
-duration: "No especificado"
+credits: 11
 cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-en-comercio-internacional"
@@ -25,9 +23,9 @@ tags:
   - derecho-comercial
   - integracion-regional
   - negocios-internacionales
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del postgrado"
     url: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/postgrado/postgrado-en-comercio-internacional"
@@ -45,11 +43,11 @@ Está dirigido a graduados universitarios que busquen formarse como asesores o e
 
 ### Modalidad
 
-Modalidad presencial.
+Modalidad presencial: el programa tiene una duración total de 110 horas presenciales de clase, equivalentes a 11 créditos académicos.
 
 ### Duración y Horarios
 
-El postgrado se organiza en un régimen de currícula cerrada. La duración no está especificada en la página oficial.
+El postgrado se organiza en un régimen de orientación temática y de currícula cerrada: el alumno puede cursar a su elección las materias acreditantes que se dicten en el año académico hasta alcanzar los créditos requeridos. Las materias no están sujetas a un régimen de prelación y los créditos aplican a todas las Maestrías en Derecho. Los horarios no se publican en la página oficial.
 
 ## Ingreso
 

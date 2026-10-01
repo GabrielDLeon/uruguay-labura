@@ -13,12 +13,11 @@ degreeType: "carrera"
 area: "Social y Artística"
 modality: "presencial"
 shift: "both"
-weeklyHours: "No especificado"
 duration: "5 años"
 cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-abogacia--mvd--presencial"
-location: "Montevideo"
+location: "Montevideo y Punta del Este"
 accreditation: "Ministerio de Educación y Cultura"
 description: "Abogacía de la Universidad Católica del Uruguay. Forma profesionales capaces de asesorar, prevenir conflictos, mediar, resolver casos, litigar e investigar, con clínicas jurídicas y cursos de derecho y tecnología."
 tags:
@@ -27,9 +26,9 @@ tags:
   - litigacion
   - mediacion
   - derecho-y-tecnologia
-draft: true
+draft: false
 createdAt: "2026-08-07 19:13:13"
-updatedAt: "2026-08-07 19:13:13"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial de la carrera"
     url: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-abogacia--mvd--presencial"

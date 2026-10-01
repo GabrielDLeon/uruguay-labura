@@ -13,7 +13,6 @@ degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
 shift: "night"
-weeklyHours: "No especificado"
 duration: "2 años"
 cost: "Arancelada"
 language: "Español"
@@ -25,9 +24,9 @@ tags:
   - medicina
   - salud
   - final-de-la-vida
-draft: true
+draft: false
 createdAt: "2026-08-10 16:53:42"
-updatedAt: "2026-08-10 16:53:42"
+updatedAt: "2026-09-30"
 sources:
   - label: "Página oficial del programa"
     url: "https://fcom.um.edu.uy/ciencias-biomedicas/oferta-academica/especialidad/maestria-en-cuidados-paliativos"
@@ -59,7 +58,7 @@ En el primer año las clases se dictan los viernes de 15:30 a 19:30 h, y en el s
 
 ### Requisitos de Ingreso
 
-El programa está dirigido a médicos, licenciados en Enfermería, en Fisioterapia, en Trabajo social, en Psicología y ministros de fe. Los interesados deben completar el formulario de admisiones del Centro de Ciencias Biomédicas (escribiendo a biomedicas@um.edu.uy) y consultar otros requisitos con la bedelía del Centro.
+El programa está dirigido a doctores en Medicina y licenciados en Enfermería, Psicología, Fisioterapia, Nutrición y Trabajo Social. Los interesados deben consultar el proceso de admisión del Centro de Ciencias Biomédicas en la página oficial.
 
 ## Plan de Estudio
 
