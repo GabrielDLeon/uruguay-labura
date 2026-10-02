@@ -82,7 +82,7 @@ area: "Tecnologías de la Información"
 modality: "presencial"                  # enum: presencial, virtual, hibrido
 shift: "day"                            # enum: day, night, both
 weeklyHours: "40 horas"
-duration: "5 años"
+duration: "5 años"                 # formato canónico: "N años" | "N.5 años" | "N años y M meses" | "N meses" (< 1 año) | "N horas" | rangos ("1-2 años")
 credits: 450                            # opcional
 cost: "Gratuita"
 language: "Español"

@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-duration: "18 meses"
+duration: "1.5 años"
 credits: 60
 contactEmail: "posgradoyep@fadu.edu.uy"
 cost: "Gratuita"

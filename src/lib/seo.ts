@@ -42,20 +42,30 @@ export const educationalProgramMode: Record<string, string> = {
 
 /**
  * Convert a human-friendly duration string to an ISO 8601 Duration,
- * e.g. "4 años" -> P4Y, "18 meses" -> P18M, "2 semestres" -> P12M.
+ * e.g. "4 años" -> P4Y, "1.5 años" -> P1Y6M, "2 años y 1 mes" -> P2Y1M.
  * Returns undefined when the string is not matched.
  */
 export function durationToIso8601(
   duration: string | undefined,
 ): string | undefined {
   if (!duration) return undefined;
-  const annos = /(\d+)\s+años?/i.exec(duration);
-  if (annos) return `P${annos[1]}Y`;
-  const meses = /(\d+)\s+meses?/i.exec(duration);
-  if (meses) return `P${meses[1]}M`;
-  const semestres = /(\d+)\s+semestres?/i.exec(duration);
-  if (semestres) return `P${Number(semestres[1]) * 6}M`;
-  return undefined;
+  const text = duration.toLowerCase();
+  const years = /(\d+(?:\.\d+)?)\s*año/.exec(text);
+  const months = /(\d+)\s*mes(?:es)?/.exec(text);
+  if (!years && !months) {
+    const semesters = /(\d+)\s*semestre/.exec(text);
+    if (semesters) return `P${Number(semesters[1]) * 6}M`;
+    return undefined;
+  }
+  const total = Math.round(
+    (years ? Number(years[1]) * 12 : 0) + (months ? Number(months[1]) : 0),
+  );
+  if (total <= 0) return undefined;
+  const y = Math.floor(total / 12);
+  const m = total % 12;
+  if (y > 0 && m > 0) return `P${y}Y${m}M`;
+  if (y > 0) return `P${y}Y`;
+  return `P${m}M`;
 }
 
 /**

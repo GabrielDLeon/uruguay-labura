@@ -13,7 +13,7 @@ degreeType: "diplomado"
 area: "Social y Artística"
 modality: "presencial"
 shift: "night"
-duration: "1 año (160 horas, 16 créditos)"
+duration: "1 año"
 credits: 16
 cost: "Arancelada"
 language: "Español"

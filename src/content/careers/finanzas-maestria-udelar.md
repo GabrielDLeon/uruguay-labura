@@ -13,7 +13,7 @@ degreeType: "maestria"
 area: "Social y Artística"
 modality: "hibrido"
 shift: "day"
-duration: "30 meses"
+duration: "2.5 años"
 credits: 139
 cost: "Arancelada"
 language: "Español"

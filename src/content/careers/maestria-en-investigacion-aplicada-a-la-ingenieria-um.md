@@ -12,7 +12,7 @@ institution: "um"
 degreeType: "maestria"
 area: "Ingeniería"
 modality: "presencial"
-duration: "4 semestres"
+duration: "2 años"
 credits: 150
 cost: "Arancelada"
 language: "Español"

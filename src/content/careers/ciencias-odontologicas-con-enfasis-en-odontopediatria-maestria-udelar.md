@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Ciencias de la Salud"
 modality: "presencial"
-duration: "30 meses"
+duration: "2.5 años"
 credits: 158
 cost: "Gratuita"
 language: "Español"

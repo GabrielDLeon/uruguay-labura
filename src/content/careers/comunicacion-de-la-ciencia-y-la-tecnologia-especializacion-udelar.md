@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "hibrido"
-duration: "3 semestres"
+duration: "1.5 años"
 cost: "Arancelada"
 credits: 94
 contactEmail: "coordinacion.posgrados@fic.edu.uy"

@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "hibrido"
-duration: "30 meses"
+duration: "2.5 años"
 credits: 140
 cost: "Arancelada"
 language: "Español"

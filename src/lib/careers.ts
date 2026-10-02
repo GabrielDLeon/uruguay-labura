@@ -67,12 +67,11 @@ import { SOLIDARITY_INSTITUTIONS } from "@/config/financial";
 
 export function parseDurationYears(duration: string | undefined): number {
   if (!duration) return Number.NaN;
-  const meses = /(\d+)\s+meses?/.exec(duration);
-  if (meses) return Number(meses[1]) / 12;
-  const años = /(\d+)\s+años?/.exec(duration);
-  if (años) return Number(años[1]);
-  const lead = /^\d+/.exec(duration);
-  return lead ? Number(lead[0]) : Number.NaN;
+  const text = duration.toLowerCase();
+  const years = /(\d+(?:\.\d+)?)\s*año/.exec(text);
+  const months = /(\d+)\s*mes(?:es)?/.exec(text);
+  if (!years && !months) return Number.NaN;
+  return (years ? Number(years[1]) : 0) + (months ? Number(months[1]) / 12 : 0);
 }
 
 export function getSolidarityFundInfo(

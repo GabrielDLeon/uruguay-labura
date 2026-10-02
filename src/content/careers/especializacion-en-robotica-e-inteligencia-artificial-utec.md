@@ -14,7 +14,7 @@ area: "Mecatrónica, Logística y Biomédica"
 modality: "hibrido"
 shift: "both"
 weeklyHours: "6 horas semanales (4 de clases sincrónicas y 2 de trabajo autónomo)"
-duration: "18 meses"
+duration: "1.5 años"
 credits: 100
 cost: "No informada"
 language: "Español"

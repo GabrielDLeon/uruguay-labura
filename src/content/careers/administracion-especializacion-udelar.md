@@ -13,7 +13,7 @@ degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
 weeklyHours: "9 horas"
-duration: "15 meses"
+duration: "1 año y 3 meses"
 credits: 84
 cost: "Arancelada"
 language: "Español"

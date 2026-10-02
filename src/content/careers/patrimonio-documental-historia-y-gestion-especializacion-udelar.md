@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-duration: "18 meses"
+duration: "1.5 años"
 cost: "Gratuita"
 credits: 60
 contactEmail: "coordinacion.posgrados@fic.edu.uy"

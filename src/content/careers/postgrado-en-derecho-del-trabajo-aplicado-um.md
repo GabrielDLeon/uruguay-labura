@@ -12,7 +12,7 @@ institution: "um"
 degreeType: "diplomado"
 area: "Social y Artística"
 modality: "presencial"
-duration: "140 horas (14 créditos)"
+duration: "140 horas"
 credits: 14
 cost: "Arancelada"
 language: "Español"

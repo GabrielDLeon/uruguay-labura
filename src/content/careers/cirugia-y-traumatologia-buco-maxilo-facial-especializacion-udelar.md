@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Ciencias de la Salud"
 modality: "presencial"
-duration: "48 meses"
+duration: "4 años"
 credits: 445
 cost: "Arancelada"
 language: "Español"

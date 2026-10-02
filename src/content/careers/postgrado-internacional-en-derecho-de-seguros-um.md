@@ -12,7 +12,7 @@ institution: "um"
 degreeType: "diplomado"
 area: "Social y Artística"
 modality: "hibrido"
-duration: "120 horas (12 créditos)"
+duration: "120 horas"
 credits: 12
 cost: "Arancelada"
 language: "Español"

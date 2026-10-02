@@ -30,16 +30,11 @@ export function parseDurationYears(duration?: string): number | undefined {
   if (!duration) return undefined;
   const text = duration.toLowerCase();
 
-  const yearsMatch = text.match(/(\d+(?:[.,]\d+)?)\s*años?/);
-  if (yearsMatch) {
-    let years = parseFloat(yearsMatch[1].replace(",", "."));
-    if (/y\s*medio/.test(text)) years += 0.5;
-    return years;
-  }
-
-  const monthsMatch = text.match(/(\d+(?:[.,]\d+)?)\s*meses?/);
-  if (monthsMatch) {
-    return parseFloat(monthsMatch[1].replace(",", ".")) / 12;
+  const yearsMatch = text.match(/(\d+(?:[.,]\d+)?)\s*año/);
+  const monthsMatch = text.match(/(\d+)\s*mes(?:es)?/);
+  if (yearsMatch || monthsMatch) {
+    const years = yearsMatch ? parseFloat(yearsMatch[1].replace(",", ".")) : 0;
+    return years + (monthsMatch ? Number(monthsMatch[1]) / 12 : 0);
   }
 
   const semestersMatch = text.match(/(\d+(?:[.,]\d+)?)\s*semestres?/);

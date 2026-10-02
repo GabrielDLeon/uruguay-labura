@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "doctorado"
 area: "Ciencias de la Salud"
 modality: "presencial"
-duration: "24 meses"
+duration: "2 años"
 credits: 232
 cost: "Gratuita"
 language: "Español"

@@ -11,7 +11,7 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "presencial"
-duration: "24 meses"
+duration: "2 años"
 credits: 76
 cost: "Arancelada"
 language: "Español"

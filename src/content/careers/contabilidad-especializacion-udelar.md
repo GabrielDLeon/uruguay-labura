@@ -14,7 +14,7 @@ area: "Social y Artística"
 modality: "presencial"
 shift: "both"
 weeklyHours: "9 horas"
-duration: "15 meses"
+duration: "1 año y 3 meses"
 credits: 80
 cost: "Arancelada"
 language: "Español"

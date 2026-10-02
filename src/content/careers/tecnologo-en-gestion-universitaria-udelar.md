@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "tecnologo"
 area: "Social y Artística"
 modality: "presencial"
-duration: "30 meses"
+duration: "2.5 años"
 credits: 225
 cost: "Gratuita"
 language: "Español"

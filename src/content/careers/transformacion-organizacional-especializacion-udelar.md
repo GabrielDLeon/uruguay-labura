@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Social y Artística"
 modality: "hibrido"
-duration: "15 meses"
+duration: "1 año y 3 meses"
 credits: 65
 cost: "Arancelada"
 language: "Español"

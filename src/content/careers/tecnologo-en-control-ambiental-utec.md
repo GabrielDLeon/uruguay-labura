@@ -33,7 +33,7 @@ tags:
   - gestion-ambiental
   - sostenibilidad
   - normativa-ambiental
-duration: "1 año y medio"
+duration: "1.5 años"
 ---
 
 ## Resumen

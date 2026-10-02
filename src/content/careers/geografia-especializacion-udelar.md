@@ -10,7 +10,7 @@ institution: "udelar"
 degreeType: "especializacion"
 area: "Tecnologías y Ciencias de la Naturaleza y el Hábitat"
 modality: "presencial"
-duration: "18 meses"
+duration: "1.5 años"
 cost: "Gratuita"
 credits: 60
 language: "Español"

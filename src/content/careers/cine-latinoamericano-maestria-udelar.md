@@ -12,7 +12,7 @@ institution: "udelar"
 degreeType: "maestria"
 area: "Social y Artística"
 modality: "presencial"
-duration: "30 meses"
+duration: "2.5 años"
 cost: "Gratuita"
 credits: 120
 contactEmail: "maestria.cinelatinoamericano@artes.udelar.edu.uy"

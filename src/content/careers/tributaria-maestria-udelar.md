@@ -14,7 +14,7 @@ area: "Social y Artística"
 modality: "hibrido"
 shift: "both"
 weeklyHours: "6 horas"
-duration: "30 meses"
+duration: "2.5 años"
 credits: 100
 cost: "Arancelada"
 language: "Español"
