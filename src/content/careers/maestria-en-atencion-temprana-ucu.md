@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-atencion-temprana--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Atención Temprana de la UCU. Forma para detectar, prevenir e intervenir en situaciones de riesgo para el desarrollo de niños y niñas de 0 a 6 años, desde el neurodesarrollo, el sistema familiar y el trabajo interdisciplinario."
 tags:
   - atencion-temprana

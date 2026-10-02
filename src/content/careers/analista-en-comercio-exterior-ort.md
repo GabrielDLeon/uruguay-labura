@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/analista-en-comercio-exterior"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "La carrera de Analista en Comercio Exterior brinda una excelente formación sobre diseño e implementación de estrategias de acceso a mercados internacionales."
 tags:
   - negocios

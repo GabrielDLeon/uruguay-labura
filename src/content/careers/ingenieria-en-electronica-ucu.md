@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-electronica--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Electrónica de la UCU. Forma profesionales capaces de crear dispositivos electrónicos con impacto en la vida cotidiana y participar en todo su ciclo de desarrollo, desde el diseño hasta la implementación."
 tags:
   - ingenieria-electronica

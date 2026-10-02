@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-comunicacion--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Doctorado en Comunicación de la UCU. Forma investigadores capaces de llevar adelante investigaciones individuales o colectivas que aporten conocimientos actualizados, originales e innovadores en el campo de la comunicación."
 tags:
   - comunicacion

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-ciencias-de-la-ingenieria--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Ciencias de la Ingeniería de la UCU. Desarrolla capacidades para impactar positivamente en la sociedad a través de la calidad de la investigación y la innovación en ingeniería."
 tags:
   - ingenieria

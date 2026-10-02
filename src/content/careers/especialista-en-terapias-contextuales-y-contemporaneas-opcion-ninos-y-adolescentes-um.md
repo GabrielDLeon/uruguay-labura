@@ -18,6 +18,7 @@ language: "Español"
 website: "https://catalogo.um.edu.uy/"
 contactEmail: "postgradospsicologia@um.edu.uy"
 location: "Montevideo"
+accreditation: "En trámite ante el MEC"
 description: "Especialista en Terapias Contextuales y Contemporáneas – opción niños y adolescentes de la Universidad de Montevideo. Especialización híbrida de 1 año en terapias basadas en evidencia para la clínica infanto-juvenil, dirigida a psicólogos y psiquiatras."
 tags:
   - psicologia

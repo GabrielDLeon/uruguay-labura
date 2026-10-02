@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-finanzas--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Finanzas de la UCU. Forma en finanzas corporativas, inversión de patrimonios y gestión de riesgos, con tecnología aplicada a los procesos financieros y acreditaciones internacionales."
 tags:
   - finanzas

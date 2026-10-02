@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/licenciatura-en-marketing-y-direccion-comercial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "La carrera te prepara para dirigir el departamento comercial del futuro, con una mirada única desde el marketing y la gestión de clientes."
 tags:
   - marketing

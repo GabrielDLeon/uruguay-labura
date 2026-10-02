@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/master-en-formacion-de-formadores"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Formación de Formadores de ORT Uruguay. Un postgrado pensado para quienes requieran desarrollar las capacidades necesarias para planificar, diseñar y liderar procesos formativos de calidad."
 tags:
   - educacion

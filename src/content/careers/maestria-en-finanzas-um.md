@@ -19,7 +19,7 @@ contactEmail: "umpe@um.edu.uy"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-finanzas/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Finanzas de la Universidad de Montevideo (UMPE). Forma para posiciones de liderazgo en el área financiera, corporativa y de mercado de capitales, con herramientas de Business Intelligence & Data Science."
 tags:
   - finanzas

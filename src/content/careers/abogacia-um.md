@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/grado/abogacia"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Abogacía de la Universidad de Montevideo. Combina asignaturas jurídicas tradicionales con materias prácticas y de actualidad, con programa de Derecho Anglosajón, pasantías y asesoría académica, en un plan de 5 años."
 tags:
   - derecho

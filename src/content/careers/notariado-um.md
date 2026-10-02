@@ -14,6 +14,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/grado/escribania"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Escribanía de la Universidad de Montevideo. Forma escribanos con criterio jurídico, ética y deontología profesional, e incluye un plan de Notariado para Abogados que otorga el título de Escribano en dos años."
 tags:
   - derecho

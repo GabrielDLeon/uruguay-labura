@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-inteligencia-artificial-y-ciencia-de-datos--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Inteligencia Artificial y Ciencia de Datos de la UCU. Forma profesionales capaces de extraer, visualizar, manipular y procesar datos para evaluar, diseñar e implementar soluciones basadas en IA y ciencia de datos."
 tags:
   - inteligencia-artificial

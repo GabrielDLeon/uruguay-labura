@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-in-business-analytics"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "En trámite ante el MEC"
 description: "Master en Business Analytics de ORT Uruguay. En la Escuela de Negocios formamos líderes de datos: profesionales que conectan el rigor analítico con la visión estratégica del negocio."
 tags:
   - negocios

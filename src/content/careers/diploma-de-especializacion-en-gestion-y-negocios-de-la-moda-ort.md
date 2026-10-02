@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-gestion-y-negocios-de-la-moda"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Este primer diploma busca preparar a profesionales y emprendedores con una visión y capacitación diferencial para operar con éxito en la industria de la moda."
 tags:
   - negocios

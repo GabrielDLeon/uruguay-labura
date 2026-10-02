@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-control-y-automatica/"
 location: "Rivera (ITR Norte)"
-accreditation: "UTEC"
 description: "Tecnólogo en Mecatrónica Industrial, carrera conjunta de UTEC, DGETP-UTU e IFSUL. Título intermedio de la Ingeniería en Control y Automática. Operación y mantenimiento de sistemas mecatrónicos."
 sources:
   - label: "Ficha oficial UTEC"

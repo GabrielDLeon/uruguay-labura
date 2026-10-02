@@ -18,7 +18,6 @@ cost: "USD 1300 - USD 1900"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/programa-de-posgrado-en-biociencias-y-sostenibilidad-alimentaria/"
 contactEmail: "posgrado.biociencias@utec.edu.uy"
-accreditation: "UTEC"
 location: "Paysandú"
 description: "Programa de posgrado en Biociencias y Sostenibilidad Alimentaria de UTEC, en colaboración con el Tecnológico de Monterrey. Comprende Diplomado, Especialización y dos Maestrías en el área alimentaria con enfoque en biotecnología y nutrición."
 tags:

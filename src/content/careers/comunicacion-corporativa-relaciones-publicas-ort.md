@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/comunicacion-corporativa-relaciones-publicas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Capacitate para definir, ejecutar y evaluar estrategias de comunicación corporativa y relaciones públicas en diferentes empresas y organizaciones."
 tags:
   - comunicacion

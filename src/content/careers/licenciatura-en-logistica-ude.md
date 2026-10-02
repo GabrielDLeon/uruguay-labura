@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ingenieria/licenciatura-en-logistica/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera universitaria con fuerte base teórica y científica orientada a la gestión de cadenas de suministro, con título intermedio de Técnico en Logística."
 tags:
   - logistica

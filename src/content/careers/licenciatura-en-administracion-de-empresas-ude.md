@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/licenciatura-en-administracion-de-empresas/"
 location: "Montevideo, Punta del Este y Colonia"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Administración de Empresas de la Universidad de la Empresa. Forma profesionales universitarios con un amplio conocimiento de las técnicas de gestión más modernas, preparados para actuar a nivel ejecutivo y de dirección, con posibilidad de doble titulación internacional con la Universidad de Trento."
 tags:
   - administracion

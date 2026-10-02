@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/postgrado/maestria-en-historia"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Historia de la Universidad de Montevideo. Dos años de formación semipresencial con opciones en Cultura y Sociedad y en Arte y Patrimonio, reconocida por el MEC y orientada a la investigación y la docencia."
 tags:
   - historia

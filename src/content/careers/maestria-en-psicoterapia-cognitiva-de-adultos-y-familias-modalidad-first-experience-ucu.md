@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicoterapia-cognitiva-enfasis-adultos-y-familias-first-experience--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Psicoterapia Cognitiva de Adultos y Familias - Modalidad First Experience de la UCU. Forma para evaluar, intervenir y asesorar en los diversos cuadros psicopatológicos vinculados a la salud mental de las personas adultas."
 tags:
   - psicologia

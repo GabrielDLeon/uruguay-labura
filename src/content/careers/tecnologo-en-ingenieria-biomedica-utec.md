@@ -18,7 +18,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-biomedica/"
 location: "Fray Bentos (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Tecnólogo en Ingeniería Biomédica, título intermedio de la Ingeniería Biomédica de UTEC. Instalaciones, dispositivos médicos y mantenimiento de equipos biomédicos."
 sources:
   - label: "Ficha oficial UTEC"

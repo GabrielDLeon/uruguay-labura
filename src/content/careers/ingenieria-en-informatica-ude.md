@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ingenieria/ingenieria-en-informatica/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera de grado de 5 años que forma profesionales con fuerte base teórica y científica para el desarrollo y la gestión de proyectos informáticos de mediano y gran porte."
 tags:
   - informatica

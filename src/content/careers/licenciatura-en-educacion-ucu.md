@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-educacion--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Educación de la UCU. Forma educadores con sólidos conocimientos pedagógicos y didácticos, capaces de intervenir en ámbitos escolares y comunitarios, con prácticas desde el inicio."
 tags:
   - educacion

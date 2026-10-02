@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-business-analytics--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Business Analytics de la UCU. Forma profesionales capaces de analizar datos para la toma de decisiones estratégicas, integrando negocios, tecnología y analítica."
 tags:
   - negocios

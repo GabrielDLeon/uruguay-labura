@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/contador-publico"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Contador Público de la Universidad de Montevideo. Forma en contabilidad, auditoría, impuestos y finanzas, con un nuevo plan de estudios que incorpora finanzas, ciencia de datos y la posibilidad de doble titulación."
 tags:
   - contabilidad

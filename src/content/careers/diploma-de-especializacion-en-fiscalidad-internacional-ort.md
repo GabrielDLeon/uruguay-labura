@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El posgrado en Fiscalidad Internacional de la Escuela de Postgrados en Negocios de ORT aborda aspectos complejos de la materia tributaria."
 tags:
   - negocios

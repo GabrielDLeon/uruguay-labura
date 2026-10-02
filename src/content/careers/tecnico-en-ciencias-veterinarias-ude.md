@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/tecnico-en-ciencias-veterinarias/"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Tecnicatura que forma profesionales capaces de colaborar con el médico veterinario en el examen, tratamiento y seguimiento de rumiantes, equinos y pequeños animales, así como en la prevención y control de enfermedades."
 tags:
   - veterinaria

@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/licenciatura-en-diseno-de-indumentaria/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Diseño de Indumentaria de la UDE. Forma profesionales de la moda con formación creativa, socio-antropológica, cultural, artística y tecnológica, con título de grado con reconocimiento académico internacional."
 tags:
   - diseno

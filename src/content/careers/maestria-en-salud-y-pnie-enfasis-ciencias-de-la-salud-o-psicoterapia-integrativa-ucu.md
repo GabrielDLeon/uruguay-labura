@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-salud-y-pnie-enfasis-ciencias-de-la-salud-o-psicoterapia-integrativa--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Salud y PNIE de la UCU. Forma en una estrategia terapéutica en Ciencias de la Salud o en Psicoterapia Integrativa, desde la PsicoNeuroInmunoEndocrinología (PNIE), con una visión integral, multidimensional y longitudinal vital."
 tags:
   - salud

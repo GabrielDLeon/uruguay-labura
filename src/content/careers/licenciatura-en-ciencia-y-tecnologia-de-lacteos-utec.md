@@ -20,7 +20,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ciencia-y-tecnologia-de-lacteos/"
 contactEmail: "secretaria.lctl@utec.edu.uy"
 location: "La Paz, Colonia (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Licenciatura gratuita en Ciencia y Tecnología de Lácteos de UTEC, única en Uruguay. Procesamiento e industrialización de leche y productos lácteos. Semipresencial en La Paz, Colonia. Título intermedio de Tecnólogo."
 tags:
   - alimentos

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-direccion-comercial-y-marketing"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Dirección Comercial y Marketing de ORT Uruguay. Potenciá tu carrera profesional con la formación que te brinda la maestría en marketing y dirección comercial de la Universidad ORT Uruguay."
 tags:
   - marketing

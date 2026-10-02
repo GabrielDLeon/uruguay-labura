@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-industrial"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería Industrial de la Universidad de Montevideo. Forma profesionales capaces de organizar y dirigir los componentes del proceso de producción, diseñar y gestionar plantas industriales y liderar equipos con visión integradora."
 tags:
   - ingenieria-industrial

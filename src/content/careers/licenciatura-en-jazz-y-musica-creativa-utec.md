@@ -19,7 +19,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-jazz-y-musica-creativa/"
 contactEmail: "secretaria.ljmc@utec.edu.uy"
 location: "Mercedes, Soriano (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Licenciatura gratuita en Jazz y Música Creativa de UTEC, semipresencial en Mercedes. Formación en improvisación, composición, arreglos y producción musical. Título intermedio de Tecnólogo en Jazz y Música Creativa."
 tags:
   - musica

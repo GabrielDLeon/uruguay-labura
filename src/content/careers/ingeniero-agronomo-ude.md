@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/ingeniero-agronomo/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera de grado orientada a formar un profesional agrónomo generalista, con una sólida formación científica y tecnológica, visión integradora de los sistemas y compromiso con el desarrollo sostenible."
 tags:
   - agronomia

@@ -18,6 +18,7 @@ language: "Español"
 website: "https://catalogo.um.edu.uy/"
 contactEmail: "postgradospsicologia@um.edu.uy"
 location: "Montevideo"
+accreditation: "En trámite ante el MEC"
 description: "Especialista en Terapias Contextuales y Contemporáneas – opción adultos de la Universidad de Montevideo. Especialización híbrida de 2 años en terapias basadas en evidencia para la intervención clínica en adultos, dirigida a psicólogos y psiquiatras."
 tags:
   - psicologia

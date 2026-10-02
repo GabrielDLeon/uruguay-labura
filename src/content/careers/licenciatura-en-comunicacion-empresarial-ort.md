@@ -19,7 +19,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-empresarial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El comunicador empresarial posee habilidades gerenciales que le permiten planificar e implementar estrategias alineadas a los objetivos de negocio."
 tags:
   - comunicacion

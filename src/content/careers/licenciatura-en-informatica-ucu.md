@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-informatica--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Informática de la UCU. Forma profesionales capaces de planificar e implementar soluciones mediante las tecnologías de la información y las comunicaciones para responder a las necesidades de las personas y las organizaciones."
 tags:
   - informatica

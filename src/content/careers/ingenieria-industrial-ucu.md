@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-industrial--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería Industrial de la UCU. Forma profesionales capaces de optimizar procesos y resolver problemas que afectan a diversas industrias con solvencia técnica y una mirada innovadora de la gestión empresarial."
 tags:
   - ingenieria-industrial

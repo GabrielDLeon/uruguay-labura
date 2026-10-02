@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-impuestos-y-fiscalidad-internacional"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Impuestos y Fiscalidad Internacional de ORT Uruguay. El Master en Impuestos y Fiscalidad Internacional de ORT brinda una comprensión integral del sistema tributario uruguayo e internacional."
 tags:
   - impuestos

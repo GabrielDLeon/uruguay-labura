@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/ingenieria-electrica"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería Eléctrica de ORT Uruguay. Los ingenieros eléctricos planifican y diseñan instalaciones de cualquier porte para la generación, transporte y utilización de la energía eléctrica."
 tags:
   - ingenieria-electrica

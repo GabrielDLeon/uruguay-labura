@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-en-educacion/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Educación de la UDE, un postgrado académico de naturaleza internacional con énfasis en la investigación, orientado a fortalecer las competencias de docentes y gestores educativos frente a las nuevas demandas de los sistemas educativos regionales."
 tags:
   - educacion

@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://fcom.um.edu.uy/ciencias-biomedicas/oferta-academica/especialidad/maestria-en-cuidados-paliativos"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Cuidados Paliativos del Centro de Ciencias Biomédicas de la Universidad de Montevideo. Formación interdisciplinaria de dos años en cuidados paliativos, con 1339 horas y 133,9 créditos, teoría y práctica en instituciones de salud."
 tags:
   - cuidados-paliativos

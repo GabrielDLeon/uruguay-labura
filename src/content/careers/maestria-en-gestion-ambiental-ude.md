@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-gestion-ambiental/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Gestión Ambiental de la Universidad de la Empresa, con un enfoque aplicado a la gestión, la toma de decisiones y la solución de problemas ambientales concretos, con perfiles académico y profesional."
 tags:
   - medio-ambiente

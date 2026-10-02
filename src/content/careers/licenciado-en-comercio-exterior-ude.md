@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/licenciado-en-comercio-exterior/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Comercio Exterior de la Universidad de la Empresa. Forma profesionales universitarios especialistas en comercio exterior con un amplio conocimiento de las materias de actualidad, capaces de aplicarlas en la realidad nacional o de actuar exitosamente en el exterior."
 tags:
   - comercio-exterior

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-ambiental--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería Ambiental de la UCU. Forma profesionales comprometidos con el ambiente y la biodiversidad, capaces de diseñar, analizar, gestionar y evaluar proyectos ambientales desde una perspectiva científica y tecnológica."
 tags:
   - ingenieria-ambiental

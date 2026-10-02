@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/mba-master-en-administracion-de-empresas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Potenciá tu carrera con el MBA de la Universidad ORT Uruguay. Si tus aspiraciones son grandes y te entusiasma cambiar tu entorno, ¡te esperamos!"
 tags:
   - administracion

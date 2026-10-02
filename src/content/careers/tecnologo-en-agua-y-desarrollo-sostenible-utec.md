@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-agua-y-desarrollo-sostenible/"
 location: "Durazno (ITR Centro-Sur), Melo (ITR Este)"
-accreditation: "UTEC"
 description: "Tecnólogo en Agua y Desarrollo Sostenible, título intermedio de la Ingeniería en Agua y Desarrollo Sostenible de UTEC. Riego, drenaje y tratamiento de efluentes."
 sources:
   - label: "Ficha oficial UTEC"

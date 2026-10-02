@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/maestria-en-tecnologia-educativa/"
 contactEmail: "secretaria.ted@utec.edu.uy"
-accreditation: "UTEC"
 description: "Maestría gratuita en Tecnología Educativa de UTEC, en modalidad virtual. Formación para producir conocimiento en tecnología educativa basado en investigación didáctica y pedagógica. Título intermedio de Especialista en Tecnología Educativa."
 tags:
   - educacion

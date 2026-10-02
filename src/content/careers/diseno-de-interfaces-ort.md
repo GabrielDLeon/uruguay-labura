@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/diseno-de-interfaces"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diseño de Interfaces de ORT Uruguay. Forma profesionales capaces de crear y organizar los elementos visuales e interactivos para la comunicación entre las personas y los sistemas digitales."
 tags:
   - diseno

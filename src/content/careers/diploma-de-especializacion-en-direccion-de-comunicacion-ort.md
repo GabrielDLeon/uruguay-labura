@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-direccion-de-comunicacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Esta formación aúna la función gerencial de la comunicación con la administración y el liderazgo dentro y fuera de la organización."
 tags:
   - comunicacion

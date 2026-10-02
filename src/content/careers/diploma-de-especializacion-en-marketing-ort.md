@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-marketing"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Postgrado en marketing diseñado para quienes desean desarrollar su carrera en roles de gestión de marketing en un contexto hiperconectado y digitalizado."
 tags:
   - marketing

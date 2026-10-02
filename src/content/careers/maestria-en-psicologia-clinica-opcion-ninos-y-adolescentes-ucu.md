@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicologia-clinica-opcion-ninos-y-adolescentes--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Psicología Clínica - Opción Niños y Adolescentes de la UCU. Capacita en habilidades clínicas para la atención de niños y adolescentes en centros de salud, ONG o atención privada, con entrevistas filmadas y supervisadas."
 tags:
   - psicologia

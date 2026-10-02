@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/diploma-en-formacion-de-formadores"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diploma en Formación de Formadores de ORT Uruguay. Postgrado de un año de duración, que forma profesionales capaces de identificar los desafíos y las oportunidades en la formación de adultos."
 tags:
   - educacion

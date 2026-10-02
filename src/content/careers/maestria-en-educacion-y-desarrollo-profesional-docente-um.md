@@ -19,6 +19,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/postgrado/maestria-en-educacion-y-desarrollo"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Educación y Desarrollo Profesional Docente de la Universidad de Montevideo. Dos años para formar profesionales e investigadores de la educación, con título intermedio de Especialista en Educación y título de Magíster."
 tags:
   - educacion

@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-direccion-y-administracion-de-empresas/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Dirección y Administración de Empresas de la Universidad de la Empresa. Proporciona una visión global de todos los departamentos de una empresa y desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de gestión en las organizaciones."
 tags:
   - administracion

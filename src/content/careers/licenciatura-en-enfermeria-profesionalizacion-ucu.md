@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-licenciatura-en-enfermeria-(profesionalizacion)--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Enfermería (Profesionalización) de la UCU, dirigida a auxiliares de enfermería con experiencia. Forma para liderar equipos de enfermería y gestionar servicios de salud, con acreditación ARCU-SUR."
 tags:
   - enfermeria

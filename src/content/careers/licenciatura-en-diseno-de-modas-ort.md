@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/licenciatura-en-diseno-de-modas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Diseño de Modas de ORT Uruguay. La Licenciatura en Diseño de Modas se dirige a personas con un marcado perfil creativo, con interés en el producto moda y sus estrategias de difusión."
 tags:
   - diseno

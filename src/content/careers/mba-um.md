@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.ieem.edu.uy/mba"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "MBA del IEEM, Escuela de Negocios de la Universidad de Montevideo. Máster en Dirección y Administración de Empresas con método del caso extendido, coaching y semanas internacionales, con acreditaciones AMBA y EFMD EMBA."
 tags:
   - mba

@@ -19,7 +19,6 @@ cost: "No informada"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/maestria-en-robotica-e-inteligencia-artificial/"
 contactEmail: "secretaria.pria@utec.edu.uy"
-accreditation: "UTEC"
 description: "Maestría en Robótica e Inteligencia Artificial de UTEC, continuidad de la Especialización en Robótica e IA impartida junto a FURG (Brasil) y UNRaf (Argentina). Formación semipresencial con tres áreas de énfasis: Robótica, Inteligencia Artificial e Impacto Social de la Tecnología."
 tags:
   - informatica

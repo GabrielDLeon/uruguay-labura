@@ -25,7 +25,6 @@ contactEmail:
   - "secretaria.lti.minas@utec.edu.uy"
   - "secretaria.lti.melo@utec.edu.uy"
 location: "Durazno, Fray Bentos, Melo, Minas"
-accreditation: "UTEC"
 description: "Título intermedio de Técnico Superior en TI de UTEC, obtenible en dos años. Cubre programación, testing e infraestructura tecnológica con modalidad híbrida."
 sources:
   - label: "Ficha oficial UTEC"

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/tecnico-en-gestion-y-administracion-de-empresas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Estudiar Gestión en la Universidad ORT Uruguay habilita a asumir responsabilidades en las diversas áreas funcionales de todo tipo de organizaciones."
 tags:
   - administracion

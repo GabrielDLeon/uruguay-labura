@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/diploma-de-especializacion-en-inteligencia-artificial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El objetivo del Diploma de Especialización en Inteligencia Artificial es formar profesionales capaces de construir sistemas computacionales inteligentes."
 tags:
   - informatica

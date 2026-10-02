@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-fisioterapia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Fisioterapia de la UCU. Forma profesionales orientados a la prevención y tratamiento de lesiones y disfunciones del movimiento humano, con prácticas durante la carrera y formación en clínica universitaria."
 tags:
   - fisioterapia

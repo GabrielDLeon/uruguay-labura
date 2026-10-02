@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/analista-en-tecnologias-de-la-informacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Analista en Tecnologías de la Información de ORT Uruguay. Analista en Tecnologías de la Información es una tecnicatura orientada al desarrollo e integración de sistemas de software."
 tags:
   - informatica

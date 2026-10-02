@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-juridicas/maestria-en-derecho-de-las-relaciones-internacionales-y-de-la-integracion-en-america-latina/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Derecho de las Relaciones Internacionales y de la Integración en América Latina de la Universidad de la Empresa (UDE). Forma magísteres con sólida reflexión teórica y capacidad de investigación sobre la integración regional latinoamericana."
 tags:
   - derecho

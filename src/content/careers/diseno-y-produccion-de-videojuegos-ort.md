@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/diseno-y-produccion-de-videojuegos"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diseño y Producción de Videojuegos de ORT Uruguay. La carrera forma profesionales capaces de concebir, diseñar y prototipar experiencias interactivas, combinando creatividad, narrativa y tecnología"
 tags:
   - diseno

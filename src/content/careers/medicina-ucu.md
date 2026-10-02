@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-medicina--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Medicina de la UCU. Forma médicos con sólida base científica, sensibilidad social y compromiso humano, con aprendizaje basado en problemas, fuerte foco en la comunidad y práctica preprofesional."
 tags:
   - medicina

@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-analisis-alimentario/"
 location: "Paysandú"
-accreditation: "UTEC"
 description: "Técnico en Procesos y Análisis Químico, título intermedio de la Licenciatura en Análisis Alimentario de UTEC. Análisis químicos y procesos en la industria alimentaria."
 sources:
   - label: "Ficha oficial UTEC"

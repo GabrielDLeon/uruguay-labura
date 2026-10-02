@@ -15,7 +15,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/maestria-en-salud-publica/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Salud Pública de la UDE, de naturaleza internacional, orientada al análisis crítico, el entendimiento y la generación de conocimiento original sobre los procesos de salud poblacional."
 tags:
   - salud-publica

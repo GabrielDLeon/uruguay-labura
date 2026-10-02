@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-psicologia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Psicología de la UCU. Forma profesionales capaces de evaluar e intervenir en diversas áreas de la Psicología para promover la salud mental y el bienestar de las personas en su expresión individual, interpersonal y social."
 tags:
   - psicologia

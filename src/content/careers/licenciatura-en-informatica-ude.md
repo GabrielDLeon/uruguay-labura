@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ingenieria/licenciatura-en-informatica/"
 location: "Montevideo, Punta del Este y Colonia"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera universitaria con sólida base teórica que cubre todas las áreas requeridas para el desempeño profesional en Tecnologías de la Información, con orientación por materias electivas."
 tags:
   - informatica

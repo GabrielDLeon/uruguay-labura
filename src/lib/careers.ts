@@ -21,6 +21,11 @@ export const shiftLabels: Record<string, string> = {
   both: "Ambos",
 };
 
+export const accreditationLabels: Record<string, string> = {
+  "Reconocida por el MEC": "✓ Reconocida por el MEC",
+  "En trámite ante el MEC": "⏳ En trámite ante el MEC",
+};
+
 export const modalityLabels: Record<string, string> = {
   presencial: "Presencial",
   virtual: "Virtual",

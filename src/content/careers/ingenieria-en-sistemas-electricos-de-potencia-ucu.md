@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-sistemas-electricos-de-potencia--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Sistemas Eléctricos de Potencia de la UCU. Forma profesionales capaces de diseñar soluciones y dirigir proyectos relacionados con la generación y el manejo de la energía eléctrica y sus aplicaciones."
 tags:
   - ingenieria-electrica

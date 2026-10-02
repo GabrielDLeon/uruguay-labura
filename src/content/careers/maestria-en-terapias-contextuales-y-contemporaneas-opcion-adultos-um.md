@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://fcom.um.edu.uy/facultad-de-psicologia/oferta-academica/postgrado/maestria-en-terapias-contextuales-y-contemporaneas"
 location: "Montevideo"
+accreditation: "En trámite ante el MEC"
 description: "Maestría en Terapias Contextuales y Contemporáneas – opción adultos de la Universidad de Montevideo. Formación clínica y práctica de dos años en terapias basadas en evidencia como ACT y DBT, con clases presenciales y online."
 tags:
   - psicologia

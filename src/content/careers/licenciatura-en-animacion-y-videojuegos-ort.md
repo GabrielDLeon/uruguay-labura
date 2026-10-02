@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/licenciatura-en-animacion-y-videojuegos"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Animación y Videojuegos de ORT Uruguay. La pasión por crear historias innovadoras en ámbitos como la animación o el gaming nos impulsa a expresarnos en forma visualmente atractiva."
 tags:
   - audiovisual

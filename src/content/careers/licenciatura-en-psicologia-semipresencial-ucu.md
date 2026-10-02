@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-psicologia--salto--semipresencial"
 location: "Salto"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Psicología de la UCU en modalidad semipresencial en el Campus Salto. Forma profesionales capaces de evaluar e intervenir en diversas áreas de la Psicología para promover la salud mental y el bienestar."
 tags:
   - psicologia

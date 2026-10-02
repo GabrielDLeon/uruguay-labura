@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Comunicación de ORT Uruguay. Licenciatura en Comunicación en ORT: 4 años, formación práctica y digital, docentes referentes y proyectos aplicados con foco profesional."
 tags:
   - comunicacion

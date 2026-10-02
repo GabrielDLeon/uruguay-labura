@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/tecnicatura-en-educacion-y-recreacion--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Tecnicatura en Educación y Recreación de la UCU. Forma educadores capaces de diseñar y ejecutar intervenciones educativas y recreativas en ámbitos escolares y comunitarios para potenciar el desarrollo humano a lo largo de la vida."
 tags:
   - educacion

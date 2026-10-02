@@ -13,7 +13,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-psicopedagogia--salto--semipresencial"
 location: "Salto"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Psicopedagogía de la UCU en modalidad semipresencial en el Campus Salto. Forma profesionales capaces de mejorar el desarrollo y la calidad de los procesos de aprendizaje de personas y grupos."
 tags:
   - psicopedagogia

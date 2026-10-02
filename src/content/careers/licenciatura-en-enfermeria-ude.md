@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/licenciatura-en-enfermeria/"
 location: "Montevideo, Punta del Este"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Enfermería de la UDE. Forma profesionales que prestan atención a individuos, familias y comunidad en todas las etapas del ciclo de vida, con un enfoque holístico e interdisciplinario."
 tags:
   - enfermeria

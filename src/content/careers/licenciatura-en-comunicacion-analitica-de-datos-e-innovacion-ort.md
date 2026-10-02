@@ -19,7 +19,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-analitica-de-datos-e-innovacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Comunicación y Analítica de Datos de ORT Uruguay. Trabajar en el campo de la comunicación supone creatividad, aprendizaje continuo, profesionalismo y actualización permanente."
 tags:
   - comunicacion

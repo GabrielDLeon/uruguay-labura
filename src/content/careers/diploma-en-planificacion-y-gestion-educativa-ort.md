@@ -16,7 +16,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/diploma-en-planificacion-y-gestion-educativa"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diploma en Planificación y Gestión Educativa de ORT Uruguay. Postgrado de un año de duración, que prepara a los egresados para diseñar e instrumentar procesos de planificación y liderazgo."
 tags:
   - educacion

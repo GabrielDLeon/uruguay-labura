@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/master-en-gestion-de-sistemas-de-informacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El Master forma profesionales especializados en liderar procesos de transformación organizacional a través de la incorporación de la tecnología."
 tags:
   - informatica

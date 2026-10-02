@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-ciencias-del-comportamiento--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "En trámite ante el MEC"
 description: "Licenciatura en Ciencias del Comportamiento de la UCU. Forma para comprender las decisiones de las personas, analizar datos y diseñar estrategias basadas en evidencia, con un enfoque multidisciplinario e innovador."
 tags:
   - psicologia

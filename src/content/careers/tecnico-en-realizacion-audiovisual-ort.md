@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/tecnico-en-realizacion-audiovisual"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Técnico en Realización Audiovisual de ORT Uruguay. El profesional en Realización Audiovisual conoce los distintos lenguajes expresivos como el cine, la televisión y la publicidad."
 tags:
   - audiovisual

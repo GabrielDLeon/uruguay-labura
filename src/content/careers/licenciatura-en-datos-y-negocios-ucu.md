@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-datos-y-negocios--salto--semipresencial"
 location: "Salto"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Datos y Negocios de la UCU. Forma profesionales que integran el análisis de datos y la gestión empresarial, en modalidad semipresencial en el Campus Salto."
 tags:
   - negocios

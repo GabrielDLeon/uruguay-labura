@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/ingenieria-en-biotecnologia"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Biotecnología de ORT Uruguay. Los Ingenieros en Biotecnología son profesionales especializados y capacitados para aportar para aportar valor a la industria."
 tags:
   - biotecnologia

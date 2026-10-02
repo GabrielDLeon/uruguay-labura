@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-direccion-de-recursos-humanos"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Promueve el enfoque estratégico de la gestión de recursos humanos a partir del análisis del entorno y del entendimiento de los objetivos organizacionales."
 tags:
   - recursos-humanos

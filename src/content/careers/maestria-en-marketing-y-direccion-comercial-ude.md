@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/maestria-en-marketing-y-direccion-comercial/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Marketing y Dirección Comercial de la Universidad de la Empresa. Desarrolla conocimientos, creatividad e iniciativa para el diseño e implementación de estrategias de marketing integral y la búsqueda de ventajas competitivas desde la dirección comercial."
 tags:
   - marketing

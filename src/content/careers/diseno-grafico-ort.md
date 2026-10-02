@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/diseno-grafico"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diseño Gráfico de ORT Uruguay. Estos profesionales capaces de ofrecer soluciones visuales a problemas específicos en diversos campos como el diseño editorial o el publicitario."
 tags:
   - diseno

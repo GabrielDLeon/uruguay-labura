@@ -18,7 +18,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-psicologia--mvd--presencial"
 contactEmail: "doctoradopsicologia@ucu.edu.uy"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Doctorado en Psicología de la UCU. Forma investigadores para contribuir al desarrollo del conocimiento psicológico en el país con excelencia académica y calidad ética, a partir de investigaciones a nivel nacional e internacional."
 tags:
   - psicologia

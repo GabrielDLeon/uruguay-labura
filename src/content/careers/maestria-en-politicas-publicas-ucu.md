@@ -15,7 +15,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-politicas-publicas--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "abril 2027"
 description: "Maestría en Políticas Públicas de la UCU. Forma para pensar soluciones creativas e innovadoras a problemas públicos y lograr alianzas no tradicionales entre gobierno, sociedad civil y el mundo empresarial."
 tags:

@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/licenciatura-en-diseno-industrial/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Diseño Industrial de la UDE. Forma profesionales universitarios capaces de actuar en la gestión estratégica, táctica y operativa del diseño y en la elaboración de proyectos, con innovación y aptitud analítica."
 tags:
   - diseno

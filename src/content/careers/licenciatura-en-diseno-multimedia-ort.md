@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/licenciatura-en-diseno-multimedia"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Apps, webs, animaciones, motion graphics, efectos especiales, instalaciones, videomaping, internet de las cosas (IoT), realidad aumentada, realidad virtual."
 tags:
   - diseno

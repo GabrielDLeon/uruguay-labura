@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/contador-publico/"
 location: "Montevideo, Punta del Este y Colonia"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Contador Público de la Universidad de la Empresa. Forma profesionales con dominio teórico-práctico de la normativa, la gestión y la planificación de los recursos económicos de la empresa, capaces de apoyar la toma de decisiones y de ejecutar, supervisar y controlar las áreas contable, tributaria y de sistemas de información."
 tags:
   - contabilidad

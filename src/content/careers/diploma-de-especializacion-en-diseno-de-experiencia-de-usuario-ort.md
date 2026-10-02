@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-diseno-de-experiencia-de-usuario"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El Diploma de Especialización en Diseño de Experiencia de Usuario (UX) te capacita para anticipar y liderar la transformación digital."
 tags:
   - diseno

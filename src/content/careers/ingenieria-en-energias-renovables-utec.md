@@ -20,7 +20,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-energias-renovables/"
 contactEmail: "secretaria.ier@utec.edu.uy"
 location: "Durazno (ITR Centro-Sur)"
-accreditation: "UTEC"
 description: "Ingeniería gratuita en Energías Renovables de UTEC, presencial en Durazno. Formación para promover, diseñar, implementar y administrar el uso de energía limpia. Especializaciones en energía solar y eólica. Título intermedio de Tecnólogo."
 tags:
   - ingenieria

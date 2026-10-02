@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/llm-master-en-derecho"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "LL.M. Máster en Derecho de la Universidad de Montevideo. Formación de posgrado con currícula abierta y orientaciones en las principales áreas del derecho para abogados y profesionales jurídicos."
 tags:
   - derecho

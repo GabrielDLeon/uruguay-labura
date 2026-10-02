@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/licenciatura-en-bioinformatica"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "En trámite ante el MEC"
 description: "Licenciatura en Bioinformática de ORT Uruguay. Diseñada para formar profesionales capaces de integrar conocimientos de biología, informática y estadística para resolver problemas complejos."
 tags:
   - bioinformatica

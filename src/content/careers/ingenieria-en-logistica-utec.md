@@ -22,7 +22,6 @@ contactEmail:
   - "secretaria.ilog.itrn@utec.edu.uy"
   - "secretaria.inglog.fb@utec.edu.uy"
 location: "Rivera (ITR Norte), Fray Bentos (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Ingeniería gratuita en Logística de UTEC, presencial en turno nocturno en Rivera y Fray Bentos. Formación en gestión de cadenas de suministro y logística multimodal. Título intermedio de Tecnólogo en Logística."
 tags:
   - ingenieria

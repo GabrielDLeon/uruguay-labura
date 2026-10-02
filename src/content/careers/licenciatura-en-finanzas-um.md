@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/finanzas"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Finanzas de la Universidad de Montevideo, con foco en la transformación digital de las finanzas corporativas, la industria de servicios financieros, la consultoría y el sector público."
 tags:
   - finanzas

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-analitica-de-negocios"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Incorporá las habilidades para diseñar, desarrollar e implementar soluciones a problemas organizacionales con base en la explotación y la analítica de datos."
 tags:
   - negocios

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-enfermeria--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Enfermería de la UCU. Forma profesionales capaces de brindar cuidados de calidad a personas, familias o comunidades, con excelencia técnica y humana, prácticas desde el inicio y ciclo común en salud."
 tags:
   - enfermeria

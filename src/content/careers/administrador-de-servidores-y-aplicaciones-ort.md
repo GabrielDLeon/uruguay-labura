@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/administrador-de-servidores-y-aplicaciones"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Administrador de Servidores y Aplicaciones en la Universidad ORT Uruguay forma técnicos para administrar servidores Windows y Linux y servicios de red."
 tags:
   - informatica

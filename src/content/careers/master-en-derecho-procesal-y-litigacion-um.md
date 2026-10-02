@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/master-en-derecho-procesal-y-litigacion"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Máster en Derecho Procesal y Litigación de la Universidad de Montevideo. Formación práctica en procesos judiciales y litigación, dirigida a abogados, jueces y fiscales."
 tags:
   - derecho

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/ingenieria-en-telecomunicaciones"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Telecomunicaciones de ORT Uruguay. Los ingenieros en Telecomunicaciones gerencian tanto la puesta en servicio como la operación de todo tipo de sistemas de comunicaciones electrónicas."
 tags:
   - telecomunicaciones

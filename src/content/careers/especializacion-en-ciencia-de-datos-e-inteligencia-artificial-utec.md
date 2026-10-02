@@ -19,7 +19,6 @@ cost: "USD 5200"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-ciencia-de-datos-e-inteligencia-artificial/"
 contactEmail: "datascience@utec.edu.uy"
-accreditation: "UTEC"
 description: "Especialización en Ciencia de Datos e Inteligencia Artificial de UTEC en colaboración con el MIT. Posgrado semipresencial orientado al análisis de datos, machine learning e IA con abordaje aplicado."
 tags:
   - ciencia-de-datos

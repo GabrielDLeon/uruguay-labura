@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/tecnico-en-gestion-comercial-y-ventas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Técnico en Gestión Comercial y Ventas de ORT Uruguay. La carrera de Técnico en Gestión Comercial y Ventas brinda sólidas bases para asumir responsabilidades de gestión de equipo, dentro de empresas."
 tags:
   - negocios

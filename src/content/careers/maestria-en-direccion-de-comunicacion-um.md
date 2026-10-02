@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-comunicacion/oferta-academica/postgrado/master-en-direccion-de-comunicacion-mdc"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Máster en Dirección de Comunicación (MDC) de la Universidad de Montevideo. Forma directores de comunicación (DIRCOM) con visión sistémica de la organización, combinando comunicación estratégica, management e investigación aplicada, con opción de doble titulación."
 tags:
   - comunicacion

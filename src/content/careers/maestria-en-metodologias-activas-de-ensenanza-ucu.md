@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-metodologias-activas-de-ensenanza--mvd--virtual"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "marzo 2027"
 description: "Maestría en Metodologías Activas de Enseñanza de la UCU. Forma profesionales comprometidos con la educación transformadora en diseño, ejecución, implementación y evaluación de experiencias de aprendizaje activo y significativo."
 tags:

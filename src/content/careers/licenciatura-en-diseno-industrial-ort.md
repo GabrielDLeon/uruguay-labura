@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/licenciatura-en-diseno-industrial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Diseño Industrial de ORT Uruguay. Los graduados de Diseño Industrial responden en forma innovadora a las necesidades de nuevos productos en empresas, instituciones y organizaciones."
 tags:
   - diseno

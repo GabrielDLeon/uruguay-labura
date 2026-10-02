@@ -19,7 +19,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-global"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Los comunicadores globales son ciudadanos del mundo capaces de desarrollar planes estratégicos de comunicación adaptados a diferentes entornos culturales."
 tags:
   - comunicacion

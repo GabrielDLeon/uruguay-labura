@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/operador-inmobiliario"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Operador Inmobiliario de ORT Uruguay. Una carrera corta en la que podrás adquirir herramientas teóricas y prácticas para poder desarrollar la actividad inmobiliaria."
 tags:
   - negocios

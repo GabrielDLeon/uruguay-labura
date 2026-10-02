@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.ieem.edu.uy/mba-senior"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "MBA Senior del IEEM, Escuela de Negocios de la Universidad de Montevideo. Versión del MBA Ejecutivo para mayores de 40 años con más de 12 años de experiencia laboral y destacada trayectoria gerencial."
 tags:
   - mba

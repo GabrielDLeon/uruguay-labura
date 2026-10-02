@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/diseno-digital"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diseño Digital de ORT Uruguay. Esta carrera tiene foco en el diseño para los sistemas responsivos, la adaptación y funcionalidad en multipantallas, sin descuidar los mundos físico y digital"
 tags:
   - diseno

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/ingenieria-en-electronica"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Electrónica de ORT Uruguay. Los graduados de Ingeniería Electrónica diseñan, ponen en servicio y mantienen sistemas electrónicos en los más variados campos de aplicación."
 tags:
   - ingenieria-electronica

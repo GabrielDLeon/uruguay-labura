@@ -20,7 +20,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-industrial-mecanico/"
 contactEmail: "secretaria.tmpaysandu@utec.edu.uy"
 location: "Paysandú"
-accreditation: "UTEC"
 description: "Tecnólogo Industrial Mecánico de UTEC. Formación en procesos de manufactura, mantenimiento y operación de equipos industriales."
 sources:
   - label: "Ficha oficial UTEC"

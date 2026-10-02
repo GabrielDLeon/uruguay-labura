@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-educacion-inicial--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Educación Inicial de la UCU. Forma profesionales capaces de planificar y gestionar acciones educativas para proteger, acompañar y promover el aprendizaje de niños y niñas en su etapa inicial."
 tags:
   - educacion

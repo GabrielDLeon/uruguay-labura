@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-nutricion--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Nutrición de la UCU. Forma profesionales con sólida formación en nutrición clínica, comunitaria, gestión y alimentos, con rol central en la prevención y tratamiento de patologías relacionadas con la alimentación."
 tags:
   - nutricion

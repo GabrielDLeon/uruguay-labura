@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-arquitectura--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Arquitectura de la UCU. Forma profesionales para desarrollar proyectos de arquitectura, diseño y territorio con enfoque tecnológico, ambiental y práctico desde el primer semestre."
 tags:
   - arquitectura

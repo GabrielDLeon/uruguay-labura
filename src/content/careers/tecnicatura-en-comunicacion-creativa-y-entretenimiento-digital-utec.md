@@ -21,7 +21,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnicatura-en-comunicacion-creativa-y-entretenimiento-digital/"
 contactEmail: "secretaria.cced@utec.edu.uy"
 location: "Minas, Lavalleja (ITR Este)"
-accreditation: "UTEC"
 description: "Tecnicatura gratuita en Comunicación Creativa y Entretenimiento Digital de UTEC. Contenidos digitales para industrias culturales y creativas. Menciones en videojuegos, audiovisual, animación y comunicación."
 sources:
   - label: "Ficha oficial UTEC"

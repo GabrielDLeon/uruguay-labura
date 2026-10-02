@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-periodoncia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "marzo 2027"
 description: "Maestría en Periodoncia de la UCU. Forma para contribuir a mejorar la salud bucal de pacientes adultos a través del tratamiento de condiciones que afectan el periodonto, con base en criterios funcionales y estéticos."
 tags:

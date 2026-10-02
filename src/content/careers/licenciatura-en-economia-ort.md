@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/licenciatura-en-economia"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Economía de ORT Uruguay. La Licenciatura en Economía estudia los procesos económicos de personas, empresas y gobiernos, incluyendo herramientas de Business Analytics y Data Science."
 tags:
   - programa-roberto-rocca

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-direccion-de-empresas--mvd--presencial"
 location: "Montevideo, Punta del Este y Salto"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Dirección de Empresas de la UCU. Forma profesionales capaces de liderar y gestionar organizaciones, tomar decisiones estratégicas sostenibles e impulsar la innovación, con un plan de estudios actualizado."
 tags:
   - administracion

@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/master-en-tributacion"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Máster en Tributación de la Universidad de Montevideo. Formación profunda del sistema tributario con foco en los tributos y una visión crítica e independiente de la materia."
 tags:
   - derecho

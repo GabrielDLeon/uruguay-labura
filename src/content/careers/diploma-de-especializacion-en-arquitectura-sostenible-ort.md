@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/diploma-de-especializacion-en-arquitectura-sostenible"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El Diploma de Especialización en Arquitectura Sostenible brinda las herramientas y la capacitación necesaria para incorporar a los proyectos."
 tags:
   - arquitectura

@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-de-datos-e-inteligencia-artificial"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería de Datos e Inteligencia Artificial de la Universidad de Montevideo. Forma profesionales para diseñar arquitecturas de datos a gran escala, aplicar técnicas de machine learning y protagonizar la transformación digital de las organizaciones."
 tags:
   - ciencia-de-datos

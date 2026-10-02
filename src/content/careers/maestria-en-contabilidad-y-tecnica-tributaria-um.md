@@ -19,7 +19,7 @@ contactEmail: "umpe@um.edu.uy"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-contabilidad-y-tecnica-tributaria/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Contabilidad y Técnica Tributaria de la Universidad de Montevideo (UMPE). Profundiza en el área contable y tributaria de las organizaciones para Contadores Públicos con vocación de liderazgo."
 tags:
   - contabilidad

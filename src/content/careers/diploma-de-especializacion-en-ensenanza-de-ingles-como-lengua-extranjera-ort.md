@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/diploma-de-especializacion-en-ensenanza-de-ingles-como-lengua-extranjera"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Es un postgrado orientado a actualizar el conocimiento de los docentes de inglés, así como de aquellos docentes que dictan sus cursos en dicha lengua."
 tags:
   - educacion

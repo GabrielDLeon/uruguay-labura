@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/analista-en-infraestructura-informatica"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Analista en Infraestructura Informática en la Universidad ORT Uruguay forma técnicos para diseñar, configurar y administrar soluciones de infraestructura."
 tags:
   - informatica

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-odontologia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Odontología de la UCU. Forma profesionales capaces de resolver las patologías odontológicas orales más prevalentes, con fuerte formación en diagnóstico, tratamiento y práctica profesional basada en la evidencia científica."
 tags:
   - odontologia

@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/grado/licenciatura-en-humanidades"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Humanidades de la Universidad de Montevideo. Forma con un ciclo común de Filosofía, Historia, Arte y Literatura y especialización en Filosofía, Historia o Libre Configuración, con salidas en educación, investigación y organizaciones."
 tags:
   - humanidades

@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-juridicas/licenciatura-en-relaciones-internacionales/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Relaciones Internacionales de la Universidad de la Empresa (UDE). Forma profesionales para desempeñarse en el ámbito público nacional e internacional, en organismos internacionales y en el sector privado."
 tags:
   - relaciones-internacionales

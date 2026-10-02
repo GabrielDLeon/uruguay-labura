@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-notariado--mvd--presencial"
 location: "Montevideo y Punta del Este"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera de Notariado de la Universidad Católica del Uruguay. Forma escribanos públicos con visión internacional, sólida formación ética y práctica profesional, capaces de asesorar a sus clientes y brindar seguridad jurídica."
 tags:
   - derecho

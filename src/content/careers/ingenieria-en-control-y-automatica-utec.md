@@ -20,7 +20,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-control-y-automatica/"
 contactEmail: "secretaria.ica@utec.edu.uy"
 location: "Rivera (ITR Norte)"
-accreditation: "UTEC"
 description: "Ingeniería gratuita en Control y Automática de UTEC, presencial en turno nocturno en Rivera. Integra mecánica, electrónica, control e informática para la automatización industrial. Título intermedio de Tecnólogo en Mecatrónica Industrial."
 tags:
   - mecatronica

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/tecnico-en-fotografia-y-postproduccion-audiovisual"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El cine y las series dedican cada vez más tiempo y recursos a la postproducción de los contenidos: es donde se termina dando el salto de calidad."
 tags:
   - audiovisual

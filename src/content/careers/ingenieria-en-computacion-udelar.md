@@ -19,7 +19,6 @@ language: "Español"
 website: "https://udelar.edu.uy/carrera/ingenieria-en-computacion"
 description: "La formación del ingeniero en computación apunta a una cobertura amplia y coherente en la planificación, desarrollo, mantenimiento y aplicación de sistemas computarizados. El egresado adquiere una formación amplia en Computación con eventual profundización en alguna subárea, capaz de desarrollar sistemas y de integrarse a proyectos de mayor porte. Se dicta en la Facultad de Ingeniería (Montevideo) y en el Cenur Litoral Norte (Paysandú y Salto)."
 location: "Facultad de Ingeniería; Paysandú; Salto"
-accreditation: "UDELAR"
 tags:
   - informatica
   - ingenieria

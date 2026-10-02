@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-agronomia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Agronomía de la UCU. Forma en ciencias agronómicas, ciencia de datos, negocio y ambiente, con prácticas en estaciones experimentales desde el inicio y un modelo centrado en el estudiante."
 tags:
   - agronomia

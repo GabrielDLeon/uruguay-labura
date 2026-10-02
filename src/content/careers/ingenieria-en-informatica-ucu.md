@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-informatica--mvd--presencial"
 location: "Montevideo y Punta del Este"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Informática de la UCU. Forma profesionales capaces de crear soluciones mediante las tecnologías de la información y las comunicaciones con visión de negocio, integrando ingeniería, software, hardware y gestión de proyectos."
 tags:
   - informatica

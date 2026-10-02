@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/licenciatura-en-artes-digitales"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Artes Digitales de ORT Uruguay. Estudiá la Licenciatura en Artes Digitales y creá obras y experiencias artísticas con IA, medios digitales, realidad virtual y tecnologías emergentes."
 tags:
   - arte

@@ -16,7 +16,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/master-en-gestion-educativa"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Gestión Educativa de ORT Uruguay. Postgrado diseñado para aquellos que estén interesados en liderar procesos de mejora y de desarrollo organizacional en diversos centros educativos."
 tags:
   - educacion

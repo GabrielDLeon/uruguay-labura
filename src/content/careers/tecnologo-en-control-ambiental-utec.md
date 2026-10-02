@@ -18,7 +18,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-control-ambiental/"
 location: "Paysandú"
-accreditation: "UTEC"
 description: "Tecnólogo en Control Ambiental de UTEC. Gestión y control ambiental en industrias y organismos públicos, con enfoque en sostenibilidad y cumplimiento normativo."
 sources:
   - label: "Ficha oficial UTEC"

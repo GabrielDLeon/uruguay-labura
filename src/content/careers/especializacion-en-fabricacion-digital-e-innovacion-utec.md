@@ -16,7 +16,6 @@ cost: "USD 4500"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-fabricacion-digital-e-innovacion/"
 contactEmail: "fabricaciondigital@utec.edu.uy"
-accreditation: "UTEC"
 description: "Especialización en Fabricación Digital e Innovación de UTEC, en colaboración con Fab Lab Barcelona (IAAC) y Fab Lab ESAN de la Universidad ESAN de Perú. Formación híbrida para liderar procesos de innovación con tecnologías de fabricación digital."
 tags:
   - innovacion

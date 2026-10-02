@@ -18,6 +18,7 @@ language: "Español"
 website: "https://www.um.edu.uy/ciencias-biomedicas/oferta-academica/especialidad/especialidad-en-traumatologia-y-ortopedia"
 contactEmail: "biomedicas@um.edu.uy"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Especialización en Traumatología y Ortopedia del Centro de Ciencias Biomédicas de la Universidad de Montevideo. Programa con perfil único en Uruguay, con formación asistencial en el Hospital Británico y hospitales de ASSE, clases teóricas e investigación."
 tags:
   - medicina

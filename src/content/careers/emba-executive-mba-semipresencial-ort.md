@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/emba-executive-mba-semipresencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "EMBA, Executive MBA semipresencial de ORT Uruguay. El MBA semipresencial de Uruguay que se adapta a tus necesidades horarias, laborales, geográficas, de tiempo y de desarrollo profesional."
 tags:
   - administracion

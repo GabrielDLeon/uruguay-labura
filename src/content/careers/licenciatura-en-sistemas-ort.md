@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/licenciatura-en-sistemas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Sistemas de ORT Uruguay. La Licenciatura en Sistemas es la única carrera en Uruguay que integra tecnología y negocios, brindando una sólida formación en sistemas y administración."
 tags:
   - informatica

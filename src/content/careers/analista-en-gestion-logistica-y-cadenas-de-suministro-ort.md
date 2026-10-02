@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Conocé la carrera Analista en Gestión Logística y Cadenas de Suministro de la Facultad de Administración y Ciencias Sociales de ORT."
 tags:
   - administracion

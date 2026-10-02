@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-juridicas/escribania/"
 location: "Montevideo y Colonia"
+accreditation: "Reconocida por el MEC"
 description: "Escribanía de la Universidad de la Empresa (UDE). Forma profesionales universitarios con criterio jurídico global, orientación práctica y título intermedio de Procurador, en Montevideo y Colonia."
 tags:
   - derecho

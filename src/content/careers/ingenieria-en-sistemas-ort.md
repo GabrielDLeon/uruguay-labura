@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/ingenieria-en-sistemas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Sistemas de ORT Uruguay. Los graduados en Ingeniería en Sistemas diseñan y desarrollan sistemas informáticos de gran complejidad, trabajando con casos reales desde el inicio."
 tags:
   - informatica

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-direccion-financiera"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Dirección Financiera de ORT Uruguay. La Maestría en Finanzas combina la especialización en las distintas áreas de las finanzas con la capacidad de desarrollo de habilidades gerenciales."
 tags:
   - finanzas

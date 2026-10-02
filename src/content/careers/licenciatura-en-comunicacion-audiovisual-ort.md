@@ -19,7 +19,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-audiovisual"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "La carrera de Comunicación Audiovisual permite dominar los lenguajes de la producción audiovisual en cine, televisión, documental y publicidad."
 tags:
   - comunicacion

@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/escuela-desarrollo-empresarial/postgrado-ejecutivo-experto-en-direccion-de-personas/"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "El Postgrado Ejecutivo Experto en Dirección de Personas forma directivos en la dirección estratégica del talento humano y la gestión de equipos de alto desempeño."
 tags:
   - recursos-humanos

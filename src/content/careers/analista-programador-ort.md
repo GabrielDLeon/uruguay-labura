@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/analista-programador"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Analista Programador de ORT Uruguay. La tecnicatura Analista Programador forma en programación, desarrollo de software full stack e IA generativa, con proyectos prácticos y cliente real."
 tags:
   - informatica

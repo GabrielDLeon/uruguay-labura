@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/doctorado-en-educacion/"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Doctorado en Educación de la UDE, un postgrado académico de naturaleza internacional con énfasis en la investigación, que forma investigadores de nivel avanzado capaces de producir estudios originales y relevantes para los sistemas educativos del país y la región."
 tags:
   - educacion

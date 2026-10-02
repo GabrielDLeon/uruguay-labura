@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-biomedica--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "En trámite ante el MEC"
 description: "Ingeniería Biomédica de la UCU. Forma profesionales capaces de aplicar métodos de ingeniería para evaluar y desarrollar tecnologías destinadas a la prevención, el diagnóstico, el tratamiento y la rehabilitación en salud."
 tags:
   - ingenieria-biomedica

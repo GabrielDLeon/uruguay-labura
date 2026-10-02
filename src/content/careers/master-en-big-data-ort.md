@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/master-en-big-data"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Big Data de ORT Uruguay. El Master proporciona los conocimientos teóricos y la experiencia práctica en el manejo de la tecnología de big data, con el objetivo de formar profesionales"
 tags:
   - ciencia-de-datos

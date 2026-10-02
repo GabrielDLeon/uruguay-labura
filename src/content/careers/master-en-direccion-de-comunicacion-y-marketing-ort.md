@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-direccion-de-comunicacion-y-marketing"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Dirección de Comunicación y Marketing de ORT Uruguay. Desarrolla la capacidad de pensar estratégicamente y traduce la percepción y el conocimiento en acciones comunicacionales y comerciales."
 tags:
   - comunicacion

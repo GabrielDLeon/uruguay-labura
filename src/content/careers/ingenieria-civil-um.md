@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-civil"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería Civil de la Universidad de Montevideo. Forma profesionales capaces de diseñar y construir edificios, puentes, obras hidráulicas, vías ferroviarias, aeropuertos y sistemas de tratamiento ambiental, y de dirigir obras y gestionar proyectos."
 tags:
   - ingenieria-civil

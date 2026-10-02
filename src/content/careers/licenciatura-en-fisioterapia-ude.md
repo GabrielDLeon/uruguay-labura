@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/licenciatura-en-fisioterapia/"
 location: "Montevideo, Punta del Este y Colonia"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Fisioterapia de la UDE. Forma profesionales universitarios de la salud con competencias en la promoción, prevención, habilitación y rehabilitación física y sensitivo-sensorial de las alteraciones de la postura, el movimiento y la función."
 tags:
   - fisioterapia

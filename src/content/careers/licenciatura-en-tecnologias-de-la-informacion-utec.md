@@ -25,7 +25,6 @@ contactEmail:
   - "secretaria.lti.minas@utec.edu.uy"
   - "secretaria.lti.melo@utec.edu.uy"
 location: "Durazno, Fray Bentos, Melo, Minas"
-accreditation: "UTEC"
 description: "Licenciatura gratuita en TI de UTEC con modalidad híbrida. Formación integral en programación, testing, infraestructura y cloud. Incluye título intermedio de Técnico Superior."
 tags:
   - informatica

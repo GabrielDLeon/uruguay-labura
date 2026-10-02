@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-contabilidad"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Posgrado dirigido a interesados en especializarse en contabilidad e impuestos, orientados a funciones gerenciales o de consultoría tributaria."
 tags:
   - contabilidad

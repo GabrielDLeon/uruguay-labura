@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/master-en-derecho-administrativo-economico"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Máster en Derecho Administrativo Económico de la Universidad de Montevideo. Forma profesionales para asesorar a empresas en sus relaciones con la Administración Pública y para desempeñarse en la función pública."
 tags:
   - derecho

@@ -13,6 +13,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/especializacion-en-altas-habilidades-superdotacion/"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Especialización pionera en Uruguay que forma profesionales e investigadores capaces de identificar, valorar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), en los ámbitos educativos públicos y privados."
 tags:
   - educacion

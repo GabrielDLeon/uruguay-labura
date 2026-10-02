@@ -19,7 +19,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-publicidad-y-marketing"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Publicidad y Marketing forma profesionales para trabajar en agencias de publicidad y formular estrategias de comunicación de productos y servicios."
 tags:
   - comunicacion

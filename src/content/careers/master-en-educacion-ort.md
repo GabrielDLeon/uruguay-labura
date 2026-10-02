@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/master-en-educacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Educación de ORT Uruguay. El Master en Educación brinda una formación actualizada, con las últimas tendencias de la agenda educativa regional e internacional."
 tags:
   - educacion

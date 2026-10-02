@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/tecnicatura-en-desarrollador-de-software--mvd--presencial"
 location: "Montevideo, Salto y Punta del Este"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Tecnicatura en Desarrollador de Software de la UCU. Forma profesionales capaces de resolver problemas construyendo aplicaciones informáticas a partir de especificaciones, con programación, bases de datos y metodologías ágiles."
 tags:
   - informatica

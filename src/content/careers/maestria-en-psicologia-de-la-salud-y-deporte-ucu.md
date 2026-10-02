@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicologia-de-la-salud-y-deporte--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Psicología de la Salud y Deporte de la UCU. Programa enfocado en la promoción de la salud a través del ejercicio y el deporte, desde una mirada interdisciplinaria que reúne a profesionales de diferentes disciplinas."
 tags:
   - psicologia

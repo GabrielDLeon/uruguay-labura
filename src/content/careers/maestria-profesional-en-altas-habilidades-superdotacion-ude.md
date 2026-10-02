@@ -15,7 +15,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-profesional-en-altas-habilidades-superdotacion/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría stricto sensu con perfil profesional que forma multiplicadores capaces de identificar y atender educativamente a las personas con Altas Habilidades/Superdotación (AH/SD), con campos de actuación en instituciones educativas, públicas y privadas."
 tags:
   - educacion

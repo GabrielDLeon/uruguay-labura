@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fd.ort.edu.uy/licenciatura-en-diseno-grafico"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "La carrera te prepara para crear soluciones visuales con creatividad, dominio tecnológico y un enfoque práctico en editorial, web y proyectos corporativos."
 tags:
   - diseno

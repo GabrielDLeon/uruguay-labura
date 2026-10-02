@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/master-en-edificaciones-en-madera"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Edificaciones en Madera de ORT Uruguay. Formate como profesional en construcción en madera. Dominá el diseño, la evaluación de impactos ambientales, el uso de energías renovables y más."
 tags:
   - construccion

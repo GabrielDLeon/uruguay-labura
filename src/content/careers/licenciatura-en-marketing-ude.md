@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/licenciatura-en-marketing/"
 location: "Montevideo y Punta del Este"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Marketing de la Universidad de la Empresa. Forma profesionales universitarios especialistas en marketing con un amplio conocimiento de las técnicas más modernas, preparados para actuar a nivel ejecutivo, en investigación de mercados, consultoría, agencias de publicidad y medios."
 tags:
   - marketing

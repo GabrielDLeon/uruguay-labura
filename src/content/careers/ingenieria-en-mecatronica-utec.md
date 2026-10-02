@@ -20,7 +20,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-mecatronica/"
 contactEmail: "secretaria.imec@utec.edu.uy"
 location: "Fray Bentos (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Ingeniería gratuita en Mecatrónica de UTEC, semipresencial en Fray Bentos. Combina ingeniería mecánica, electrónica e informática para automatizar equipos, procesos y productos. Título intermedio de Tecnólogo en Mecatrónica."
 tags:
   - mecatronica

@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/diploma-en-educacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diploma en Educación de ORT Uruguay. Postgrado que forma profesionales capaces de analizar críticamente las problemáticas educacionales, así como las tendencias actuales de la investigación."
 tags:
   - educacion

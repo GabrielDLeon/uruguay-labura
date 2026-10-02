@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/tecnico-en-relaciones-publicas-y-organizacion-de-eventos"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Las Relaciones Públicas y la producción de eventos cobran cada vez más peso en las estrategias globales de las empresas, fundaciones, ONG y emprendimientos."
 tags:
   - comunicacion

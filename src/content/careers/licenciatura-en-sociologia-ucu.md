@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-sociologia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera de Sociología de la Universidad Católica del Uruguay. Forma profesionales comprometidos con el desarrollo de la sociedad, capaces de generar conocimiento sistemático y proponer soluciones basadas en el riguroso análisis de datos."
 tags:
   - sociologia

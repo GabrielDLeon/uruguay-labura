@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultades-de-ciencias-empresariales/licenciatura-en-economia-y-finanzas/"
 location: "Montevideo y Colonia"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Economía y Finanzas de la Universidad de la Empresa. Forma un profesional con alta especialización en finanzas, economía y evaluación de proyectos, capaz de formular y evaluar negocios, realizar asesorías, operaciones financieras y gestión de riesgos."
 tags:
   - economia

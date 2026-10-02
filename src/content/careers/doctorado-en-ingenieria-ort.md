@@ -17,7 +17,7 @@ cost: "Sin costo"
 language: "Español"
 website: "https://fi.ort.edu.uy/doctorado-en-ingenieria"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Doctorado en Ingeniería de ORT Uruguay. Su objetivo principal es la formación de investigadores en ingeniería mediante la realización de una tesis doctoral con aportes originales y significativos."
 tags:
   - ingenieria

@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/tecnicatura-en-acompanamiento-terapeutico--mvd--presencial"
 location: "Montevideo y Salto"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Tecnicatura en Acompañamiento Terapéutico de la UCU. Forma profesionales capaces de intervenir con personas que requieren atención en salud mental, educación o ámbito social, integrando equipos interdisciplinarios."
 tags:
   - salud-mental

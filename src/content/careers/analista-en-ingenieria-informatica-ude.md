@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ingenieria/analista-en-ingenieria-informatica/"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Carrera terciaria no universitaria que forma técnicos para participar en proyectos de desarrollo, implantación y mantenimiento de sistemas de información."
 tags:
   - informatica

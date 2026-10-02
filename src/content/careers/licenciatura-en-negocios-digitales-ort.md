@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/licenciatura-en-negocios-digitales"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Negocios Digitales de ORT Uruguay. Conocé la Licenciatura en Negocios Digitales de ORT. Una carrera que forma líderes para los negocios digitales y la transformación tecnológica."
 tags:
   - negocios

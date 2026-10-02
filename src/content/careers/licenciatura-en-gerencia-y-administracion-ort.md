@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/licenciatura-en-gerencia-y-administracion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Los graduados pueden desempeñarse en la dirección y administración de empresas, el análisis de datos, crear su propio emprendimiento o ser consultores."
 tags:
   - administracion

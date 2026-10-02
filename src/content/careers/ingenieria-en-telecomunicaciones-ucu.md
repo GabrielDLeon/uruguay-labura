@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-telecomunicaciones--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Telecomunicaciones de la UCU. Forma profesionales capaces de innovar en las tecnologías de la información y las comunicaciones, diseñando y gestionando redes de mediano y gran porte."
 tags:
   - telecomunicaciones

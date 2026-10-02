@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-neuropsicologia-del-desarrollo-y-aprendizaje--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "abril 2027"
 description: "Maestría en Neuropsicología del Desarrollo y Aprendizaje de la UCU. Profundiza la prevención y rehabilitación de disfunciones del neurodesarrollo y dificultades del aprendizaje, para evaluar, orientar e intervenir desde el ámbito clínico o institucional."
 tags:

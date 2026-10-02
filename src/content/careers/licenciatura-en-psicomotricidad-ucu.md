@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-psicomotricidad--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Psicomotricidad de la UCU. Forma profesionales capaces de mejorar la calidad de vida de las personas a través del asesoramiento, promoción, evaluación y prevención del desarrollo psicomotor y sus alteraciones."
 tags:
   - psicomotricidad

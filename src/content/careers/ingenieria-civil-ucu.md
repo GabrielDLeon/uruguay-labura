@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-civil--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "En trámite ante el MEC"
 description: "Ingeniería Civil de la UCU. Forma profesionales capaces de proyectar, planificar, dirigir y supervisar obras de infraestructura vial, hidráulica, estructural y sanitaria, con una sólida formación técnica y sostenible."
 tags:
   - ingenieria-civil

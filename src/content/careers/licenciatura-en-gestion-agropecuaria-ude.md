@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-agrarias/licenciatura-en-gestion-agropecuaria/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura que forma profesionales capaces de participar y asesorar en la toma de decisiones de la actividad agropecuaria, integrando lo técnico-productivo con lo económico-financiero."
 tags:
   - agropecuario

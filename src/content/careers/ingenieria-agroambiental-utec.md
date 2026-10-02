@@ -20,7 +20,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-agroambiental/"
 contactEmail: "secretaria.iagro@utec.edu.uy"
 location: "Durazno (ITR Centro-Sur)"
-accreditation: "UTEC"
 description: "Ingeniería gratuita en Agroambiental de UTEC, semipresencial en Durazno. Manejo sostenible de la tierra y los recursos naturales. Título intermedio de Tecnólogo Agroambiental."
 tags:
   - ingenieria

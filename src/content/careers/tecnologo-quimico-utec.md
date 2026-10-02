@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-quimico/"
 location: "Paysandú (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Tecnólogo Químico de UTEC, ofrecido en conjunto con DGETP-UTU y Udelar. Química aplicada a procesos industriales y alimentarios."
 sources:
   - label: "Ficha oficial UTEC"

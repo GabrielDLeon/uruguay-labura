@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/diploma-de-especializacion-en-negocios-inmobiliarios"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Postgrado de un año de duración que capacita a profesionales de varias áreas en el análisis, asesoramiento y ejecución de negocios inmobiliarios."
 tags:
   - negocios

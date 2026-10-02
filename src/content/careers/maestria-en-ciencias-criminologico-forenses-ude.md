@@ -14,7 +14,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-juridicas/maestria-en-ciencias-criminologico-forenses/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Ciencias Criminológico-Forenses de la Universidad de la Empresa (UDE). Forma especialistas en la comprensión, evaluación y abordaje de la realidad delictiva uruguaya desde una perspectiva criminológica, clínica y forense."
 tags:
   - criminologia

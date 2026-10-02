@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/master-en-inteligencia-artificial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Inteligencia Artificial de ORT Uruguay. Forma profesionales especializados en inteligencia artificial, centrados en desarrollar sistemas autónomos para resolver problemas complejos."
 tags:
   - informatica

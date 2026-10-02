@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/gestion-del-talento-humano"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Gestión de Talento Humano de la Universidad de Montevideo. Forma para liderar y acompañar decisiones estratégicas relacionadas con las personas y sus equipos en las organizaciones."
 tags:
   - recursos-humanos

@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-telematica"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería Telemática de la Universidad de Montevideo. Forma profesionales en tecnologías de la información y las comunicaciones, con conocimientos de programación, sistemas electrónicos, redes cableadas e inalámbricas y sistemas de telecomunicaciones."
 tags:
   - telematica

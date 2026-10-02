@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-comunicacion--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Comunicación de la Universidad Católica del Uruguay. Forma profesionales para comprender, planificar, producir y gestionar procesos de comunicación en periodismo, audiovisual, publicidad y comunicación organizacional."
 tags:
   - comunicacion

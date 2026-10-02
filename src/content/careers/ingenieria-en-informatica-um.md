@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-en-informatica"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Informática de la Universidad de Montevideo. Forma profesionales capaces de diseñar, construir y mantener sistemas informáticos, programar en distintos lenguajes y liderar proyectos y equipos, con posibilidad de diplomas de University of London."
 tags:
   - informatica

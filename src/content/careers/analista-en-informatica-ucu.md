@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-analista-en-informatica--mvd--presencial"
 location: "Montevideo, Salto y Punta del Este"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Analista en Informática de la UCU. Forma profesionales capaces de diseñar soluciones informáticas y manejar técnicas, lenguajes de programación y herramientas de desarrollo de software, con títulos técnicos de temprana inserción laboral."
 tags:
   - informatica

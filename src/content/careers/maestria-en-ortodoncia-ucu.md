@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-ortodoncia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "marzo 2027"
 description: "Maestría en Ortodoncia de la UCU. Forma para contribuir al buen desarrollo buco-maxilo-facial de los pacientes a través del diagnóstico y tratamiento de las eugnacias y disgnacias en todas las etapas de la vida."
 tags:

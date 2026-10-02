@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/direccion-y-administracion-de"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Dirección y Administración de Empresas de la Universidad de Montevideo. Forma profesionales con espíritu emprendedor para la gestión integral y coordinada de las distintas áreas de una empresa."
 tags:
   - administracion

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-gestion-humana--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Gestión Humana y Relaciones Laborales de la UCU. Forma en gestión de la cultura organizacional, atracción y desarrollo del talento y relaciones laborales, con fuerte articulación entre academia y empresas."
 tags:
   - recursos-humanos

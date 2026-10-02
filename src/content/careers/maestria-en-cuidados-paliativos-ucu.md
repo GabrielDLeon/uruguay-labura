@@ -15,7 +15,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-cuidados-paliativos--mvd--semipresencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "abril 2027"
 description: "Maestría en Cuidados Paliativos de la UCU. Forma especialistas con enfoque integral, interdisciplinario y centrado en el paciente, combinando teoría y práctica para responder a los desafíos clínicos, éticos y sociales del final de la vida."
 tags:

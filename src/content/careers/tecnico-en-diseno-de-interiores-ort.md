@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/tecnico-en-diseno-de-interiores"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Si estás interesado en realizar un curso de diseño interior, la carrera Técnico en Diseño de Interiores te permite desarrollar tus ideas y tu creatividad."
 tags:
   - diseno

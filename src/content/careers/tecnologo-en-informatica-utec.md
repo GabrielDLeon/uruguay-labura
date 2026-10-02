@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-informatica/"
 location: "Florida, Maldonado, San José, Paysandú"
-accreditation: "UTEC"
 description: "Tecnólogo en Informática de UTEC. Formación en informática y desarrollo de software, con salida laboral en desarrollo, soporte y administración de sistemas."
 sources:
   - label: "Ficha oficial UTEC"

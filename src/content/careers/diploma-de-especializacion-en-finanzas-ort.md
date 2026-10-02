@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-finanzas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Diploma de Especialización en Finanzas de ORT Uruguay. Combina la especialización y actualización en las distintas áreas de las finanzas con la capacidad de desarrollo de habilidades gerenciales."
 tags:
   - finanzas

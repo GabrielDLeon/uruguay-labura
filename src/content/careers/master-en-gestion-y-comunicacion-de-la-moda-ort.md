@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-gestion-y-comunicacion-de-la-moda"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Esta maestría especializada tiene como objetivo formar profesionales y emprendedores altamente calificados para asumir roles de liderazgo y gestión."
 tags:
   - negocios

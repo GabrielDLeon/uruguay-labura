@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-impuestos-y-normas-de-contabilidad-niif"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Dirigido a Contadores Públicos interesados en especializarse en contabilidad e impuestos, orientados a funciones gerenciales o de consultoría tributaria."
 tags:
   - contabilidad

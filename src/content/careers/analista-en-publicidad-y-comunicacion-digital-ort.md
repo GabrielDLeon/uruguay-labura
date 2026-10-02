@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/analista-en-publicidad-y-comunicacion-digital"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Estudiar publicidad en la Universidad ORT Uruguay te brindará una formación integral y eficaz para realizar diferentes funciones en agencias publicitarias."
 tags:
   - comunicacion

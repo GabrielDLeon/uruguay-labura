@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-liderazgo-y-gestion-educativa--mvd--semipresencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "abril 2027"
 description: "Maestría en Liderazgo y Gestión Educativa de la UCU. Forma líderes capaces de diseñar estrategias para fortalecer la enseñanza y la gestión en centros educativos, programas y proyectos, en el ámbito público y privado."
 tags:

@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-derecho/oferta-academica/master/master-en-integracion-y-comercio-internacional"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Máster en Integración y Comercio Internacional de la Universidad de Montevideo. Forma profesionales en estrategia, consultoría y diseño de políticas comerciales, con foco en los procesos de integración regional."
 tags:
   - comercio-internacional

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/escuela-de-postgrados/master-en-contabilidad-y-finanzas"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Contabilidad y Finanzas de ORT Uruguay. El Master en Contabilidad y Finanzas brinda conocimientos financieros desde la perspectiva de las finanzas corporativas y los mercados de capitales."
 tags:
   - contabilidad

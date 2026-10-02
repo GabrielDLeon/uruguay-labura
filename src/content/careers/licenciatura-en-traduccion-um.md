@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/grado/licenciatura-en-traduccion"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Traducción Inglés–Español de la Universidad de Montevideo. Cuatro años con ciclo básico común y especialización en traductor público, científico-técnico o literario, con opción de semestre en el extranjero."
 tags:
   - traduccion

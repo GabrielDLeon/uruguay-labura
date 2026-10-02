@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/licenciatura-en-estudios-internacionales"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Una visión amplia de las relaciones internacionales globales en materia de diplomacia, comercio, política exterior, organismos internacionales, etc."
 tags:
   - relaciones-internacionales

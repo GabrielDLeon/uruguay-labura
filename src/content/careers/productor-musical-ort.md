@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/productor-musical"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Productor Musical de ORT Uruguay. El Productor Musical es el profesional capacitado para la creación y producción de música desde un punto de vista artístico y técnico simultáneamente."
 tags:
   - musica

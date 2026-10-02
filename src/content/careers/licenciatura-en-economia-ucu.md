@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-economia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Economía de la UCU. Forma economistas capaces de analizar y modelar relaciones económicas, diseñar y evaluar políticas públicas y elaborar proyecciones, con sólida formación en datos y econometría."
 tags:
   - economia

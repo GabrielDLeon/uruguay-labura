@@ -18,7 +18,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-logistica/"
 location: "Rivera (ITR Norte), Fray Bentos (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Tecnólogo en Logística, título intermedio de la Ingeniería en Logística de UTEC. Análisis y gestión de procesos logísticos y cadenas de suministro."
 sources:
   - label: "Ficha oficial UTEC"

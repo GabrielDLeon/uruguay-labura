@@ -16,7 +16,6 @@ cost: "USD 1500"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-turismo-sostenible/"
 contactEmail: "turismo-sostenible@utec.edu.uy"
-accreditation: "UTEC"
 location: "Minas - Lavalleja"
 description: "Especialización en Turismo Sostenible de UTEC, en colaboración con la Cátedra UNESCO de Turismo y Desarrollo Económico Sostenible de la ULPGC (España). Formación online para la gestión sostenible de destinos turísticos."
 tags:

@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/maestria-academica-en-altas-habilidades-superdotacion/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría stricto sensu de la UDE que forma profesionales e investigadores con conocimientos sólidos sobre Altas Habilidades/Superdotación (AH/SD), capaces de identificar, atender e investigar a esta población en el país y la región."
 tags:
   - educacion

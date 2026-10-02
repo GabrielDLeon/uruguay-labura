@@ -18,7 +18,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-tecnologia-educativa/"
 contactEmail: "secretaria.ted@utec.edu.uy"
-accreditation: "UTEC"
 description: "Especialización en Tecnología Educativa de UTEC. Formación online de un año para integrar tecnologías digitales en las prácticas didácticas y pedagógicas con sentido crítico."
 tags:
   - educacion

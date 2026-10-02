@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/contador-publico"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Contador Público de ORT Uruguay. La carrera de Contador Público integra la analítica de negocios, Big Data y el Data Science con las áreas centrales de la profesión."
 tags:
   - programa-roberto-rocca

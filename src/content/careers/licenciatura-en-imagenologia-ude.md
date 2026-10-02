@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-salud/licenciatura-en-imagenologia/"
 location: "Montevideo, Punta del Este y Colonia"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Imagenología de la UDE. Forma al profesional universitario responsable de la obtención de las imágenes médicas diagnósticas y de las que guían procedimientos terapéuticos, operando equipamiento especializado con mínima irradiación del paciente."
 tags:
   - imagenologia

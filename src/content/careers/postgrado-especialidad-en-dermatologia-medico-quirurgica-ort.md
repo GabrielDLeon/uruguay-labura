@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://id.ort.edu.uy/especializacion-en-dermatologia-medico-quirurgica"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Especialidad en Dermatología Médico-Quirúrgica: formación clínica y académica de excelencia para médicos que buscan especializarse en salud cutánea."
 tags:
   - medicina

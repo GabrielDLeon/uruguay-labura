@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/licenciatura-en-marketing"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Marketing de la Universidad de Montevideo, dictada junto a la Facultad de Comunicación en el edificio UM del Parque de Innovación del LATU. Forma líderes del proceso comercial con formación práctica y de analítica de datos."
 tags:
   - marketing

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-fisioterapia-con-enfasis-en-ortopedia-y-traumatologia--mvd--semipresencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "agosto 2027"
 description: "Maestría en Fisioterapia Traumatológica de la UCU. Capacita para identificar, analizar, tratar y rehabilitar problemas de salud relacionados con la ortopedia y la traumatología."
 tags:

@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ciencia-politica--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera de Ciencia Política de la Universidad Católica del Uruguay. Forma profesionales para analizar sistemas políticos, investigar problemas sociales y aportar a la toma de decisiones públicas."
 tags:
   - ciencia-politica

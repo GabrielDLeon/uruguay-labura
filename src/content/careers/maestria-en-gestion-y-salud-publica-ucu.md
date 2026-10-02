@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-gestion-y-salud-publica--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 startDate: "marzo 2027"
 description: "Maestría en Gestión y Salud Pública de la UCU. Forma para diseñar, ejecutar y evaluar planes que impulsen mejoras en los distintos ámbitos de la salud a nivel local y regional."
 tags:

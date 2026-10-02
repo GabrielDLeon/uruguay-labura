@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/ciencias-biomedicas/oferta-academica/especialidad/especialidad-en-medicina-de-emergencia"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Especialización en Medicina de Emergencia del Centro de Ciencias Biomédicas de la Universidad de Montevideo. Formación presencial de cinco semestres con guardias semanales, orientada a médicos con título de doctor en Medicina."
 tags:
   - medicina

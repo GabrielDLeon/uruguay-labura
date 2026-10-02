@@ -14,7 +14,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-psicopedagogia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Psicopedagogía de la UCU. Forma profesionales capaces de mejorar el desarrollo y la calidad de los procesos de aprendizaje de personas y grupos, desde un punto de vista humano y ético."
 tags:
   - psicopedagogia

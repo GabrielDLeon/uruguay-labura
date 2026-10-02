@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-cambio-organizacional-en-entornos-digitales--mvd--semipresencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Cambio Organizacional en Entornos Digitales de la UCU. Forma una visión sistémica de las organizaciones en transformación digital, con intervenciones en comunicación interna, cultura y bienestar."
 tags:
   - cambio-organizacional

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/licenciatura-en-diseno-de-interiores"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El Licenciado en Diseño de Interiores diseña y construye espacios y equipamientos, y adapta los existentes a nuevas necesidades funcionales y estéticas."
 tags:
   - diseno

@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/licenciatura-en-informatica"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Informática de la Universidad de Montevideo. Forma para una rápida inserción laboral en el diseño, construcción y mantenimiento de sistemas informáticos, con título intermedio de Analista en Informática y clases en horario nocturno."
 tags:
   - informatica

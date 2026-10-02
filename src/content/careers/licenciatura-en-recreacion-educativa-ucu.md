@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-recreacion-educativa--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Recreación Educativa de la UCU. Forma profesionales capaces de diseñar y desarrollar entornos de aprendizaje innovadores a través de experiencias lúdico-recreativas en ámbitos educativos, sociales, comunitarios, culturales y organizacionales."
 tags:
   - educacion

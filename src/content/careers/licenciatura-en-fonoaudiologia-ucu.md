@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-fonoaudiologia--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Fonoaudiología de la UCU. Forma profesionales para el estudio, diagnóstico, prevención y tratamiento de trastornos del habla, el lenguaje, la voz, la audición y la deglución, con prácticas clínicas."
 tags:
   - fonoaudiologia

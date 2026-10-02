@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-creatividad-innovacion-y-comunicacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "La creatividad como proceso mental y la innovación como proceso productivo se potencian junto a la comunicación, estrechando relaciones con sus protagonistas."
 tags:
   - innovacion

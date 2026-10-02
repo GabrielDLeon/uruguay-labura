@@ -16,7 +16,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/tecnico-en-gestion-turistica-y-hotelera"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Técnico en Gestión Turística y Hotelera de ORT Uruguay. Estudiar la carrera de Técnico en Gestión Turística y Hotelera forma para asumir responsabilidades en los principales operadores del sector."
 tags:
   - turismo

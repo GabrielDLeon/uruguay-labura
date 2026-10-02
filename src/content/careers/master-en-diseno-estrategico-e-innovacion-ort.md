@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-diseno-estrategico-e-innovacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Diseño Estratégico e Innovación de ORT Uruguay. Es el primer postgrado de estas características del Uruguay, combina el diseño de experiencias (UX) con el diseño estratégico de futuros."
 tags:
   - diseno

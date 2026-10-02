@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/carrera-de-arquitectura"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Carrera de Arquitectura de ORT Uruguay. Estudiar la carrera de Arquitectura en la Universidad ORT Uruguay te aporta una verdadera formación integral, garantizando una inserción laboral exitosa."
 tags:
   - arquitectura

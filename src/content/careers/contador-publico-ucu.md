@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-contador-publico--mvd--presencial"
 location: "Montevideo, Punta del Este y Salto"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Contador Público de la UCU. Carrera de 4 años con título intermedio que forma en contabilidad, finanzas y gestión, con enfoque práctico y alta inserción laboral, en modalidad presencial."
 tags:
   - contabilidad

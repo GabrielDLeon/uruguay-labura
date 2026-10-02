@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-agroambiental/"
 location: "Durazno (ITR Centro-Sur)"
-accreditation: "UTEC"
 description: "Tecnólogo Agroambiental, título intermedio de la Ingeniería Agroambiental de UTEC. Manejo sostenible de los recursos naturales."
 sources:
   - label: "Ficha oficial UTEC"

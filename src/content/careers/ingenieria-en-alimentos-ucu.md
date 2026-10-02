@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-en-alimentos--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "Reconocida por el MEC"
 description: "Ingeniería en Alimentos de la UCU. Forma profesionales capaces de desarrollar productos, seleccionar materias primas, definir procesos productivos y verificar la calidad a lo largo de toda la cadena alimentaria."
 tags:
   - ingenieria

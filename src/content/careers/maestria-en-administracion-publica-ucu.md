@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-administracion-publica--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Administración Pública de la UCU. Forma para resolver problemas complejos en agencias de gobierno, think tanks, firmas consultoras, organizaciones sociales y empresas, a nivel nacional e internacional."
 tags:
   - administracion-publica

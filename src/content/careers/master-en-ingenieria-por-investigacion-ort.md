@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/master-en-ingenieria-por-investigacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Master en Ingeniería (por Investigación) de ORT Uruguay. El Master tiene como objetivo proporcionar una formación inicial en la investigación científica, en las áreas que se desarrolla en la facultad."
 tags:
   - ingenieria

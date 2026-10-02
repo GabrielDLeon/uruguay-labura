@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/licenciatura-en-finanzas"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "En trámite ante el MEC"
 description: "Licenciatura en Finanzas de ORT Uruguay. Los profesionales en finanzas tienen dominio de herramientas cuantitativas para analizar datos, evaluar mercados y tomar decisiones estratégicas."
 tags:
   - finanzas

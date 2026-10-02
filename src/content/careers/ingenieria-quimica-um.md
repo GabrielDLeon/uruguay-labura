@@ -18,6 +18,7 @@ language: "Español"
 contactEmail: "ingenieria@um.edu.uy"
 website: "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-quimica"
 location: "Montevideo"
+accreditation: "En trámite ante el MEC"
 description: "Ingeniería Química de la Universidad de Montevideo. Nueva carrera de FIUM que comienza en marzo de 2027 y forma profesionales para diseñar, transformar y optimizar los procesos industriales de los sectores estratégicos de Uruguay."
 tags:
   - ingenieria-quimica

@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial/"
 location: "Rivera (ITR Norte)"
-accreditation: "UTEC"
 description: "Licenciatura gratuita en Ingeniería de Datos e IA de UTEC (LIDIA), presencial en Rivera. Almacenamiento y procesamiento de datos, cloud, IA, IoT y ciberseguridad. Título intermedio de Tecnólogo en Análisis y Gestión de Datos."
 tags:
   - ciencia-de-datos

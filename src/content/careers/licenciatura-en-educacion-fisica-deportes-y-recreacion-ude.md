@@ -16,7 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-de-la-educacion/licenciatura-en-educacion-fisica-deportes-y-recreacion/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura de la UDE que forma profesionales universitarios con conocimientos pedagógicos y técnicos para la promoción de la actividad física, el deporte y las acciones recreativas, desde una perspectiva que atiende a personas y grupos sociales diversos."
 tags:
   - educacion-fisica

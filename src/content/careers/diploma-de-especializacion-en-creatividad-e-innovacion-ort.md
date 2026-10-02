@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-creatividad-e-innovacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "La creatividad como proceso mental y la innovación como proceso productivo se potencian estrechando relaciones y desarrollos desde sus protagonistas."
 tags:
   - innovacion

@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-diseno-y-comunicacion/licenciatura-en-diseno-grafico/"
 location: "Montevideo, Colonia"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Diseño Gráfico de la UDE. Forma profesionales del diseño y la comunicación visual con juicio crítico, bases culturales sólidas, espíritu creativo y responsabilidad social."
 tags:
   - diseno

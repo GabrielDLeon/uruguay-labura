@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-rehabilitacion-oral--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Rehabilitación Oral de la UCU. Forma en prostodoncia, implantología y odontología digital para rehabilitar la salud oral de pacientes adultos según las prácticas y evidencias científicas más recientes."
 tags:
   - odontologia

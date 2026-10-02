@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/tecnico-en-diseno-de-sonido"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Técnico en Diseño de Sonido de ORT Uruguay. El profesional que diseña y crea todos los elementos que componen la banda sonora en un producto audiovisual o un videojuego."
 tags:
   - audiovisual

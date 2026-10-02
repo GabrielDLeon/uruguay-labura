@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/economia"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Economía de la Universidad de Montevideo. Forma profesionales capaces de interpretar las tendencias de las finanzas nacionales y del sistema económico global, elaborar proyecciones y recomendar política económica."
 tags:
   - economia

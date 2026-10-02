@@ -18,7 +18,6 @@ cost: "UYU 16.100 - UYU 298.500"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/programa-de-posgrado-en-agua-y-desarrollo-sostenible/"
 contactEmail: "posgradoagua@utec.edu.uy"
-accreditation: "UTEC"
 location: "Durazno"
 description: "Programa de Posgrado en Agua y Desarrollo Sostenible de UTEC, en colaboración con IHE Delft Institute for Water Education (bajo auspicio de UNESCO). Comprende cursos individuales, una Especialización en Ingeniería Sanitaria y dos Maestrías."
 tags:

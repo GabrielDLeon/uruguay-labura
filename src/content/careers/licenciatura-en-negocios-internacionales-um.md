@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/negocios-internacionales"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Negocios Internacionales de la Universidad de Montevideo. Forma profesionales multidisciplinarios con visión global y formación en lenguas, con un semestre de estudios en el exterior y otro con cursos en inglés."
 tags:
   - negocios-internacionales

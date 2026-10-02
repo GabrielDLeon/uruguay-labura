@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/centro-de-postgrados-de-ingenieria/oferta-academica/master/maestria-en-investigacion-aplicada-en"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Investigación Aplicada a la Ingeniería del Centro de Postgrados de Ingeniería de la Universidad de Montevideo. Cuatro semestres y 150 créditos para desarrollar competencias de investigación y preparar la tesis doctoral."
 tags:
   - ingenieria

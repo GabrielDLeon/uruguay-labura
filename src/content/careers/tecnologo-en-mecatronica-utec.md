@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-mecatronica/"
 location: "Fray Bentos (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Tecnólogo en Mecatrónica, título intermedio de la Ingeniería en Mecatrónica de UTEC. Titulación compartida con DGETP-UTU. Implementación de software y hardware para procesos industriales."
 sources:
   - label: "Ficha oficial UTEC"

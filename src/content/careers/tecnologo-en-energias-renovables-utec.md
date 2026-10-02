@@ -18,7 +18,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-en-energias-renovables/"
 location: "Durazno (ITR Centro-Sur)"
-accreditation: "UTEC"
 description: "Tecnólogo en Energías Renovables, título intermedio de la Ingeniería en Energías Renovables de UTEC. Menciones en energía solar o eólica. Implementación de instalaciones de energías renovables."
 sources:
   - label: "Ficha oficial UTEC"

@@ -20,7 +20,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-analisis-alimentario/"
 contactEmail: "secretaria.laa@utec.edu.uy"
 location: "Paysandú (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Licenciatura gratuita en Análisis Alimentario de UTEC, semipresencial en Paysandú. Formación en control de calidad e inocuidad de alimentos. Título intermedio de Técnico en Procesos y Análisis Químico."
 tags:
   - alimentos

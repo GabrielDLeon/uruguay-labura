@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/diploma-de-especializacion-en-gestion-de-sistemas-de-informacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El Diploma de Especialización en Gestión de Sistemas de Información formar a los estudiantes en la implementación de una arquitectura empresarial consistente"
 tags:
   - informatica

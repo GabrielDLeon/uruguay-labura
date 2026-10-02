@@ -19,7 +19,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-periodismo"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Las categorías del periodismo se amplían y la responsabilidad social crece y se torna crítica en tiempos de hipercomunicación."
 tags:
   - comunicacion

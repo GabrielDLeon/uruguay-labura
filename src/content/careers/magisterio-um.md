@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/grado/magisterio"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Magisterio de la Universidad de Montevideo. Forma maestros a nivel universitario con prácticas docentes destacadas, habilitada por ANEP y con reconocimiento MEC; opción de especializarse en Lengua Inglesa y Educación Intercultural Bilingüe."
 tags:
   - educacion

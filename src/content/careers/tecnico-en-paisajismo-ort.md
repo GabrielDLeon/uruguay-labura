@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fa.ort.edu.uy/tecnico-en-paisajismo"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Técnico en Paisajismo de ORT Uruguay. En esta carrera obtendrás todas las herramientas necesarias para diseñar espacios exteriores y construirlos de manera responsable y exitosa."
 tags:
   - paisajismo

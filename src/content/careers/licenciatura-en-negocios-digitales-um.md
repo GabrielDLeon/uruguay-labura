@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/negocios-digitales"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Negocios Digitales de la Universidad de Montevideo. Forma para emprender modelos de negocio en el terreno digital o liderar la transformación tecnológica de organizaciones existentes."
 tags:
   - negocios

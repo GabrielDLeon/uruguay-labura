@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-nutricion--mvd--semipresencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "agosto 2027"
 description: "Maestría en Nutrición de la UCU. Forma profesionales comprometidos en contribuir a la nutrición, salud y bienestar desde un enfoque interdisciplinario y aplicado, con énfasis en Nutrición Clínica, Ejercicio y Deporte o Salud Pública."
 tags:

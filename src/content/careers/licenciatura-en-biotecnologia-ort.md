@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/licenciatura-en-biotecnologia"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Biotecnología de ORT Uruguay. La Licenciatura en Biotecnología forma profesionales que evalúan, desarrollan y mejoran procesos de producción en diferentes industrias."
 tags:
   - biotecnologia

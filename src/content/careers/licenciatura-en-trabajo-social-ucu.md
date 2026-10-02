@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/licenciatura-en-trabajo-social--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Trabajo Social de la Universidad Católica del Uruguay. Forma profesionales capaces de diseñar e implementar intervenciones sociales basadas en datos y justicia social para transformar comunidades vulnerables."
 tags:
   - trabajo-social

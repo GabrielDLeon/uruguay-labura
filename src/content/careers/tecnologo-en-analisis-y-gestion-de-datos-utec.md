@@ -19,7 +19,6 @@ cost: "Gratuita"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/licenciatura-en-ingenieria-de-datos-e-inteligencia-artificial/"
 location: "Rivera (ITR Norte)"
-accreditation: "UTEC"
 description: "Tecnólogo en Análisis y Gestión de Datos, título intermedio de la Licenciatura en Ingeniería de Datos e IA de UTEC. Técnicas de análisis de datos y gestión de bases de datos."
 sources:
   - label: "Ficha oficial UTEC"

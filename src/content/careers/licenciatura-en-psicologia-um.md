@@ -18,6 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-psicologia/oferta-academica/grado/licenciatura-en-psicologia"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Psicología de la Universidad de Montevideo. Cuatro años, 315 créditos, con psicología basada en evidencia, neurociencias, investigación y datos, y prácticas profesionales supervisadas en cuatro años más uno de posgrado."
 tags:
   - psicologia

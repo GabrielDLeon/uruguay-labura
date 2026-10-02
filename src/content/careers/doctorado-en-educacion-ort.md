@@ -17,7 +17,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://ie.ort.edu.uy/doctorado-en-educacion"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Doctorado en Educación de ORT Uruguay. El Doctorado en Educación es una propuesta pionera para especializarse en el campo educativo y desarrollar investigaciones de vanguardia."
 tags:
   - educacion

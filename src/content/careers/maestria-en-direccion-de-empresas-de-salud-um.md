@@ -16,6 +16,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.ieem.edu.uy/mdes"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "MDES — Máster en Dirección de Empresas de Salud — del IEEM, Escuela de Negocios de la Universidad de Montevideo. Forma en dirección general y planificación sanitaria para profesionales del sector salud con vocación directiva."
 tags:
   - salud

@@ -19,7 +19,7 @@ language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/doctorado-en-ingenieria--mvd--presencial"
 contactEmail: "doctoradoingenieria@ucu.edu.uy"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Doctorado en Ingeniería de la UCU. Forma investigadores capaces de afrontar problemas de investigación complejos y generar y desarrollar líneas de investigación propias que contribuyan a solucionar los problemas del entorno."
 tags:
   - ingenieria

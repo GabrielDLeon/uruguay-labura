@@ -18,7 +18,7 @@ contactEmail: "umpe@um.edu.uy"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-economia/"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Economía de la Universidad de Montevideo (UMPE). Brinda una base sólida en teoría económica, análisis de datos e investigación, preparando para la inserción en organismos internacionales, instituciones financieras, consultoras y empresas."
 tags:
   - economia

@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://fi.ort.edu.uy/diploma-de-especializacion-en-analitica-de-big-data"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "El Diploma busca formar profesionales universitarios con capacidades técnicas para resolver problemas complejos en un mundo de grandes volúmenes de datos."
 tags:
   - ciencia-de-datos

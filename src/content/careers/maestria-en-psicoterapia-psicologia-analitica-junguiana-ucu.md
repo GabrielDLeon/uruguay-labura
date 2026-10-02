@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicoterapia-psicologia-analitica-junguiana--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Psicoterapia - Psicología Analítica Junguiana de la UCU. Forma las competencias para ejercer la psicoterapia individual siguiendo el modelo propuesto por la Psicoterapia Analítica, con práctica clínica supervisada."
 tags:
   - psicologia

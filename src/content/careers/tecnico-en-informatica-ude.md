@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ingenieria/tecnico-en-informatica/"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Carrera terciaria con formación teórico-práctica orientada al desarrollo de software y a una rápida inserción laboral desde el primer año."
 tags:
   - informatica

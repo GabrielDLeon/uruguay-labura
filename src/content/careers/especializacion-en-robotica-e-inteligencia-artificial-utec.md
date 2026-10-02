@@ -20,7 +20,6 @@ cost: "No informada"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/especializacion-en-robotica-e-inteligencia-artificial/"
 contactEmail: "secretaria.pria@utec.edu.uy"
-accreditation: "UTEC"
 location: "Rivera"
 description: "Especialización en Robótica e Inteligencia Artificial de UTEC, posgrado trinacional junto a la Universidad Federal do Rio Grande (Brasil) y la Universidad Nacional de Rafaela (Argentina). Formación semipresencial con título válido en Uruguay, Brasil y Argentina."
 tags:

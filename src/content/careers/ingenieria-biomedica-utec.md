@@ -19,7 +19,6 @@ language: "Español"
 website: "https://utec.edu.uy/es/educacion/carrera/ingenieria-biomedica/"
 contactEmail: "secretaria.biomedica@utec.edu.uy"
 location: "Fray Bentos (ITR Suroeste)"
-accreditation: "UTEC"
 description: "Ingeniería gratuita en Biomédica de UTEC, presencial en Fray Bentos. Formación en mantenimiento, adquisición y gestión de equipos biomédicos y tecnología para el sector salud. Título intermedio de Tecnólogo."
 tags:
   - ingenieria-biomedica

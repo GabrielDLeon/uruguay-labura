@@ -19,6 +19,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-humanidades-y-educacion/oferta-academica/postgrado/maestria-en-lengua-inglesa-y"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Lengua Inglesa y Educación Intercultural Bilingüe (MELBE) de la Universidad de Montevideo. Programa único en Uruguay que integra lingüística aplicada, educación bilingüe e investigación situada, con título intermedio de Especialista y título de Magíster."
 tags:
   - letras

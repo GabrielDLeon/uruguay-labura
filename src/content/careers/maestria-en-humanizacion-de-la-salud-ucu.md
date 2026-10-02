@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-humanizacion-de-la-salud--mvd--presencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 startDate: "agosto 2027"
 description: "Maestría en Humanización de la Salud de la UCU. Capacita para contribuir a la transformación del modelo de atención en salud a través de equipos sólidos, vínculos terapéuticos empáticos y un ejercicio profesional centrado en las personas."
 tags:

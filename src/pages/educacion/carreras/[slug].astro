@@ -13,6 +13,7 @@ import {
   shiftLabels,
   getDegreeTypeBarInfo,
   getSolidarityFundInfo,
+  accreditationLabels,
   showDrafts,
 } from "@/lib/careers";
 import SimilarCareer from "@/components/SimilarCareer.astro";
@@ -88,7 +89,12 @@ const detailItems = [
   { label: "Costo", value: entry.data.cost },
   { label: "Idioma", value: entry.data.language },
   { label: "Ubicación", value: entry.data.location },
-  { label: "Acreditación", value: entry.data.accreditation },
+  {
+    label: "Acreditación",
+    value: entry.data.accreditation
+      ? (accreditationLabels[entry.data.accreditation] ?? entry.data.accreditation)
+      : undefined,
+  },
 
   {
     label: "Inicio",

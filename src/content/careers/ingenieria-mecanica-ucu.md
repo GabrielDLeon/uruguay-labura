@@ -17,7 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-mecanica--mvd--presencial"
 location: "Montevideo"
-accreditation: "En trámite de reconocimiento (MEC)"
+accreditation: "En trámite ante el MEC"
 description: "Ingeniería Mecánica de la UCU. Forma profesionales capaces de diseñar y evaluar sistemas mecánicos y eléctricos en diversos sectores, persiguiendo la optimización e innovación de los sistemas."
 tags:
   - ingenieria-mecanica

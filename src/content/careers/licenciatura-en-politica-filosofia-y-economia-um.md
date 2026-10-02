@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/politica-filosofia-y-economia"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Política, Filosofía y Economía de la Universidad de Montevideo, con dirección académica de la FCEE y la Facultad de Humanidades y Educación. Forma para la gestión pública, organismos internacionales y asesoría estratégica."
 tags:
   - ciencia-politica

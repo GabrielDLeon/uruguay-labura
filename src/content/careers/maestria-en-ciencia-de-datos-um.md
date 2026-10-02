@@ -19,7 +19,7 @@ contactEmail: "umpe@um.edu.uy"
 language: "Español"
 website: "https://umpe.um.edu.uy/index.php/portfolio/maestria-en-ciencia-de-datos/"
 location: "Campus Virtual"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Ciencia de Datos de la Universidad de Montevideo (UMPE), 100% online. Forma en estadística, programación para ciencia de datos, machine learning, big data, deep learning e IA generativa para liderar proyectos de analítica."
 tags:
   - ciencia-de-datos

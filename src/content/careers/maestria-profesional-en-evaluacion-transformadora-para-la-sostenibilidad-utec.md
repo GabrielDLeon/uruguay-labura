@@ -19,7 +19,6 @@ cost: "UYU 150.660"
 language: "Español"
 website: "https://utec.edu.uy/es/educacion/posgrado/maestria-profesional-en-evaluacion-transformadora-para-la-sostenibilidad/"
 contactEmail: "secretaria.deval@utec.edu.uy"
-accreditation: "UTEC"
 description: "Maestría Profesional en Evaluación Transformadora para la Sostenibilidad de UTEC. Formación semipresencial para diseñar e implementar evaluaciones con enfoque de triple impacto en el marco de la transición hacia la sostenibilidad."
 tags:
   - sostenibilidad

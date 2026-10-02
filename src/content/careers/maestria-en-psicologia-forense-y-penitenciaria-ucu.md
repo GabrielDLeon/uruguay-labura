@@ -18,7 +18,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://carreras.ucu.edu.uy/programas/ver/maestria-en-psicologia-forense-y-penitenciaria--mvd--semipresencial"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Maestría en Psicología Forense y Penitenciaria de la UCU. Forma profesionales del campo jurídico para generar impacto en el asesoramiento, la evaluación y la intervención en el sistema penal juvenil, los juzgados y las prisiones."
 tags:
   - psicologia

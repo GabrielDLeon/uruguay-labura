@@ -18,7 +18,7 @@ cost: "Arancelado"
 language: "Español"
 website: "https://facs.ort.edu.uy/analista-en-marketing-digital-y-comercio-electronico"
 location: "Montevideo"
-accreditation: "Ministerio de Educación y Cultura"
+accreditation: "Reconocida por el MEC"
 description: "Analista en Marketing Digital y Comercio Electrónico forma personas capaces de implementar y potenciar la transformación digital de las organizaciones."
 tags:
   - marketing

@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://www.um.edu.uy/facultad-de-ciencias-empresariales-y-economia/oferta-academica/grado/ciencia-de-datos-para-negocios"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Ciencia de Datos para Negocios de la Universidad de Montevideo, dictada por FCEE y Facultad de Ingeniería. Forma profesionales para analizar grandes volúmenes de datos con base matemática, estadística, tecnológica y gerencial."
 tags:
   - ciencia-de-datos

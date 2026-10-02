@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://fcom.um.edu.uy/facultad-de-comunicacion/oferta-academica/grado/licenciatura-en-comunicacion"
 location: "Montevideo"
+accreditation: "Reconocida por el MEC"
 description: "Licenciatura en Comunicación de la Universidad de Montevideo. Cuatro años con ciclo básico y orientaciones en Periodismo; Corporativa, Publicidad y Marketing; Cine y TV; e Investigación y Opinión Pública, con prácticas profesionales e intercambios internacionales."
 tags:
   - comunicacion

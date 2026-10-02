@@ -17,6 +17,7 @@ cost: "Arancelada"
 language: "Español"
 website: "https://ude.edu.uy/facultad-de-ciencias-juridicas/abogacia/"
 location: "Montevideo, Punta del Este y Colonia"
+accreditation: "Reconocida por el MEC"
 description: "Abogacía de la Universidad de la Empresa (UDE). Forma profesionales universitarios con un criterio jurídico global, formación práctica y énfasis en el asesoramiento empresarial, en Montevideo, Punta del Este y Colonia."
 tags:
   - derecho
