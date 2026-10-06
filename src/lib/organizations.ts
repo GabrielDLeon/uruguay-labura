@@ -1,17 +1,21 @@
 import anepLogo from "@/assets/institutions/anep-logo.webp";
+import anvLogo from "@/assets/institutions/anv-logo.webp";
 import asseLogo from "@/assets/institutions/asse-logo.webp";
 import bhuLogo from "@/assets/institutions/bhu-logo.webp";
 import bpsLogo from "@/assets/institutions/bps-logo.webp";
 import canelonesLogo from "@/assets/institutions/canelones-logo.webp";
 import floridaLogo from "@/assets/institutions/florida-logo.webp";
 import incLogo from "@/assets/institutions/inc-logo.webp";
+import inumetLogo from "@/assets/institutions/inumet-logo.webp";
 import ministerioLogo from "@/assets/institutions/ministerio-logo.webp";
 import oseLogo from "@/assets/institutions/ose-logo.webp";
 import ortLogo from "@/assets/institutions/ort-logo.webp";
 import rioNegroLogo from "@/assets/institutions/rio-negro-logo.webp";
+import riveraLogo from "@/assets/institutions/rivera-logo.webp";
 import rochaLogo from "@/assets/institutions/rocha-logo.webp";
 import sanJoseLogo from "@/assets/institutions/san-jose-logo.webp";
 import sorianoLogo from "@/assets/institutions/soriano-logo.webp";
+import tacuaremboLogo from "@/assets/institutions/tacuarembo-logo.webp";
 import udelarLogo from "@/assets/institutions/udelar-logo.webp";
 import ucuLogo from "@/assets/institutions/ucu-logo.webp";
 import utecLogo from "@/assets/institutions/utec-logo.webp";
@@ -29,6 +33,7 @@ const organizationAbbreviations: Record<string, string> = {
   "corporacion nacional para el desarrollo": "CND",
   "instituto nacional de colonizacion": "INC",
   "instituto nacional de evaluacion educativa": "INEEd",
+  "instituto uruguayo de meteorologia inumet": "INUMET",
   "instituto uruguayo de meteorologia": "INUMET",
   "ministerio de defensa nacional": "MDN",
   "ministerio de economia y finanzas": "MEF",
@@ -80,6 +85,8 @@ const organizationFullNames: Record<string, string> = {
   inc: "Instituto Nacional de Colonizacion",
   ineed: "Instituto Nacional de Evaluacion Educativa",
   inumet: "Instituto Uruguayo de Meteorologia",
+  "instituto uruguayo de meteorologia inumet":
+    "Instituto Uruguayo de Meteorologia - INUMET",
   mdn: "Ministerio de Defensa Nacional",
   mef: "Ministerio de Economia y Finanzas",
   miem: "Ministerio de Industria, Energia y Mineria",
@@ -113,19 +120,30 @@ const organizationLogos: Record<string, string> = {
   "intendencia de canelones": canelonesLogo.src,
   "intendencia de florida": floridaLogo.src,
   "intendencia de rio negro": rioNegroLogo.src,
+  "intendencia de rivera": riveraLogo.src,
   "intendencia de rocha": rochaLogo.src,
   "intendencia de soriano": sorianoLogo.src,
   "intendencia de san jose": sanJoseLogo.src,
+  "intendencia de tacuarembo": tacuaremboLogo.src,
   "instituto nacional de colonizacion": incLogo.src,
   inc: incLogo.src,
   "administracion nacional de educacion publica": anepLogo.src,
   anep: anepLogo.src,
   "administracion de servicios de salud del estado": asseLogo.src,
   asse: asseLogo.src,
+  "agencia nacional de vivienda": anvLogo.src,
+  anv: anvLogo.src,
+  "instituto uruguayo de meteorologia": inumetLogo.src,
+  "instituto uruguayo de meteorologia inumet": inumetLogo.src,
+  inumet: inumetLogo.src,
   "ministerio de economia y finanzas": ministerioLogo.src,
   mef: ministerioLogo.src,
   "ministerio de vivienda y ordenamiento territorial": ministerioLogo.src,
   mvot: ministerioLogo.src,
+  "ministerio de relaciones exteriores": ministerioLogo.src,
+  mrree: ministerioLogo.src,
+  "ministerio de trabajo y seguridad social": ministerioLogo.src,
+  mtss: ministerioLogo.src,
   "ministerio de educacion y cultura": ministerioLogo.src,
   mec: ministerioLogo.src,
   "ministerio de transporte y obras publicas": ministerioLogo.src,
@@ -147,6 +165,7 @@ export function normalizeText(text: string) {
   return text
     .toLowerCase()
     .normalize("NFD")
+    .replace(/\p{Default_Ignorable_Code_Point}/gu, "")
     .replace(/\p{Diacritic}/gu, "")
     .replace(/[^\p{Letter}\p{Number}\s]/gu, " ")
     .replace(/\s+/g, " ")
