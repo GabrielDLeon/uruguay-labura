@@ -2,6 +2,7 @@
 import { Icon } from "astro-icon/components";
 import NavDropdown from "./common/NavDropdown.astro";
 import SearchModal from "@/components/search/SearchModal.astro";
+import NewsBadge from "@/components/jobs/NewsBadge";
 ---
 
 <header
@@ -63,6 +64,8 @@ import SearchModal from "@/components/search/SearchModal.astro";
       <SearchModal wrapperClass="min-w-0 flex-1" />
 
       <div class="flex items-center gap-2">
+        <NewsBadge client:idle />
+
         <a
           href="https://github.com/GabrielDLeon/uruguay-labura"
           target="_blank"
