@@ -164,6 +164,7 @@ export function getOrganizationLogo(organization: string) {
 export function normalizeText(text: string) {
   return text
     .toLowerCase()
+    .replace(/\p{Cf}/gu, "")
     .normalize("NFD")
     .replace(/\p{Default_Ignorable_Code_Point}/gu, "")
     .replace(/\p{Diacritic}/gu, "")

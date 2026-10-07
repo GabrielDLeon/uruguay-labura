@@ -27,6 +27,25 @@ export async function fetchAndProcessJobs(sourceUrl) {
     return trimmed.length > 0 ? trimmed : null;
   }
 
+  function stripInvisible(text) {
+    // Source pages embed soft hyphens / zero-width chars (e.g. "Rí\u00ado Negro"
+    // from uruguayconcursa) that otherwise split one organism into two.
+    return text
+      .normalize("NFC")
+      .replace(/\p{Cf}/gu, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function toCleanString(value) {
+    const text = toNullableString(value);
+    if (!text) {
+      return null;
+    }
+
+    return stripInvisible(text) || null;
+  }
+
   function passthroughModalidad(value) {
     if (Array.isArray(value)) return value.map((v) => String(v)).filter(Boolean);
     if (typeof value !== "string") return [];
@@ -120,8 +139,8 @@ export async function fetchAndProcessJobs(sourceUrl) {
       location: toNullableString(rawJob.lugar),
       modalidad: passthroughModalidad(rawJob.modalidad),
       grado: toNullableString(rawJob.grado),
-      organization: toNullableString(rawJob.organization),
-      subOrganization: toNullableString(rawJob.sub_organization),
+      organization: toCleanString(rawJob.organization),
+      subOrganization: toCleanString(rawJob.sub_organization),
       department: null,
       locality: null,
       inciso: null,

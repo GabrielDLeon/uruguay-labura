@@ -6,15 +6,21 @@ export const ITEMS_PER_PAGE = 25;
 
 export const HIDDEN_TAGS = new Set(["salud"]);
 
+// Strips Unicode format characters (soft hyphen, zero-width joiners, BOM…) that
+// leak from scraped HTML and would otherwise create duplicate organisms.
+export function stripInvisible(text: string | null | undefined) {
+  return (text ?? "").normalize("NFC").replace(/\p{Cf}/gu, "");
+}
+
 export function normalize(text: string | null | undefined) {
-  return (text ?? "")
+  return stripInvisible(text)
     .toLowerCase()
     .normalize("NFD")
     .replace(/\p{Diacritic}/gu, "");
 }
 
 export function cleanOption(value: string | null) {
-  return value?.trim() || "Sin dato";
+  return stripInvisible(value).replace(/\s+/g, " ").trim() || "Sin dato";
 }
 
 export function shorten(text: string, maxLength: number) {
