@@ -1,33 +1,7 @@
 import { useCallback, useEffect, useState } from "react"
 import { Icon } from "@iconify/react/offline"
 import { appIcons } from "@/lib/icons"
-
-const STORAGE_KEY = "savedJobs"
-
-function getSavedIds(): string[] {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY)
-    if (!raw) return []
-    const parsed = JSON.parse(raw)
-    return Array.isArray(parsed) ? parsed : []
-  } catch {
-    return []
-  }
-}
-
-function toggleSavedId(id: string): { saved: boolean; ids: string[] } {
-  const current = getSavedIds()
-  const index = current.indexOf(id)
-  if (index >= 0) {
-    current.splice(index, 1)
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(current))
-    return { saved: false, ids: current }
-  } else {
-    current.push(id)
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(current))
-    return { saved: true, ids: current }
-  }
-}
+import { getSavedJobIds, toggleSavedJob } from "@/lib/saved-jobs"
 
 interface Props {
   jobId: string
@@ -37,14 +11,14 @@ export default function SaveButton({ jobId }: Props) {
   const [saved, setSaved] = useState(false)
 
   useEffect(() => {
-    setSaved(getSavedIds().includes(jobId))
+    setSaved(getSavedJobIds().includes(jobId))
   }, [jobId])
 
   const handleToggle = useCallback(
     (e: React.MouseEvent) => {
       e.stopPropagation()
       e.preventDefault()
-      const result = toggleSavedId(jobId)
+      const result = toggleSavedJob(jobId)
       setSaved(result.saved)
     },
     [jobId],

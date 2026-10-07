@@ -43,3 +43,11 @@ _Avoid_: duplicado, subtítulo
 **Llamado**
 Oferta de empleo publicada, típicamente apertura de concurso (a menudo en el sector público).
 _Avoid_: concurso, empleo, puesto
+
+**Búsqueda guardada**
+Conjunto de criterios de filtrado de llamados que el usuario persiste en su navegador, sin cuenta. El criterio es el mismo que el tablero de llamados serializa en la URL.
+_Avoid_: alerta, suscripción, filtro
+
+**Novedad**
+Llamado que coincide con una búsqueda guardada y que es nuevo respecto de la última visita registrada a esa búsqueda. Se calcula en el navegador al entrar al sitio; no implica push ni aviso fuera de la app. “Cierra pronto” es una señal aparte, no una novedad.
+_Avoid_: notificación (implica push/sistema operativo), alerta

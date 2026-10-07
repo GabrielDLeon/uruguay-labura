@@ -4,24 +4,19 @@ import JobsList from "@/components/jobs/JobsList"
 import JobsSkeleton from "@/components/jobs/JobsSkeleton"
 import JobsTable from "@/components/jobs/JobsTable"
 import useJobs from "@/components/jobs/useJobs"
+import { getSavedJobIds, subscribeToSavedJobs } from "@/lib/saved-jobs"
 import type { JobRecord } from "@/types/jobs"
-
-const STORAGE_KEY = "savedJobs"
-
-function getSavedIds(): string[] {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY)
-    if (!raw) return []
-    const parsed = JSON.parse(raw)
-    return Array.isArray(parsed) ? parsed : []
-  } catch {
-    return []
-  }
-}
 
 export default function SavedJobsBoard() {
   const { jobs, isLoading, loadError, retry } = useJobs()
   const [viewportMode, setViewportMode] = useState<"both" | "desktop" | "mobile">("both")
+  const [savedIds, setSavedIds] = useState<string[]>([])
+
+  useEffect(() => {
+    const sync = () => setSavedIds(getSavedJobIds())
+    sync()
+    return subscribeToSavedJobs(sync)
+  }, [])
 
   useEffect(() => {
     const mediaQuery = window.matchMedia("(min-width: 768px)")
@@ -33,11 +28,11 @@ export default function SavedJobsBoard() {
     return () => mediaQuery.removeEventListener("change", applyMode)
   }, [])
 
-  const savedIds = useMemo(() => new Set(getSavedIds()), [jobs])
+  const savedIdsSet = useMemo(() => new Set(savedIds), [savedIds])
 
   const savedJobs = useMemo(() => {
-    return jobs.filter((job: JobRecord) => savedIds.has(job.id))
-  }, [jobs, savedIds])
+    return jobs.filter((job: JobRecord) => savedIdsSet.has(job.id))
+  }, [jobs, savedIdsSet])
 
   if (isLoading) {
     return <JobsSkeleton />

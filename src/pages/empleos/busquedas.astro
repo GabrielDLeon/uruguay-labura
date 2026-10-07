@@ -1,0 +1,35 @@
+---
+import SavedSearchesBoard from "@/components/jobs/SavedSearchesBoard";
+import Layout from "@/layouts/Layout.astro";
+import Block from "@/components/Block.astro";
+import PageHeader from "@/components/PageHeader.astro";
+import { absUrl, breadcrumbList } from "@/lib/seo";
+import { getBreadcrumbs } from "@/lib/breadcrumbs";
+
+const breadcrumbs = getBreadcrumbs(Astro.url.pathname);
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    breadcrumbList(breadcrumbs, `${absUrl("/empleos/busquedas")}#breadcrumb`),
+  ],
+};
+---
+
+<Layout
+  title="Búsquedas guardadas"
+  description="Novedades de llamados laborales según tus búsquedas guardadas en Uruguay."
+  jsonLd={jsonLd}
+  breadcrumbs={breadcrumbs}
+>
+  <Block>
+    <PageHeader title="Búsquedas guardadas">
+      Guardá los filtros que te interesan y volvé cuando quieras para ver qué
+      llamados nuevos aparecieron. Todo se calcula y se guarda en tu navegador:
+      no necesitás cuenta.
+    </PageHeader>
+
+    <div data-pagefind-ignore="all">
+      <SavedSearchesBoard client:load />
+    </div>
+  </Block>
+</Layout>

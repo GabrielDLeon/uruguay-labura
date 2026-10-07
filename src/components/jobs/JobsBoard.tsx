@@ -8,8 +8,10 @@ import JobsList from "@/components/jobs/JobsList";
 import JobsPagination from "@/components/jobs/JobsPagination";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
 import JobsTable from "@/components/jobs/JobsTable";
-import { ITEMS_PER_PAGE, cleanOption, normalize } from "@/components/jobs/jobs";
+import { ITEMS_PER_PAGE, cleanOption, filterJobs } from "@/components/jobs/jobs";
+import SaveSearchButton from "@/components/jobs/SaveSearchButton";
 import useJobs from "@/components/jobs/useJobs";
+import type { JobFilters } from "@/types/jobs";
 import {
   getOrganizationAbbreviation,
   getOrganizationFullName,
@@ -83,6 +85,16 @@ export default function JobsBoard({
   };
 
   const deferredQuery = useDeferredValue(query);
+
+  const criteria: JobFilters = {
+    query,
+    organization,
+    taskType,
+    afro,
+    discapacidad,
+    trans,
+    victimas,
+  };
 
   useEffect(() => {
     const mediaQuery = window.matchMedia("(min-width: 768px)");
@@ -168,55 +180,14 @@ export default function JobsBoard({
   }, [jobs]);
 
   const filtered = useMemo(() => {
-    const text = normalize(deferredQuery);
-
-    return jobs.filter((job) => {
-      if (text) {
-        const haystack = normalize(
-          [
-            job.title,
-            job.position,
-            job.callNumber,
-            job.organization,
-            job.subOrganization,
-            job.locality,
-            job.location,
-            job.taskType,
-            job.tags.join(" "),
-          ]
-            .filter(Boolean)
-            .join(" "),
-        );
-        if (!haystack.includes(text)) {
-          return false;
-        }
-      }
-
-      if (organization && cleanOption(job.organization) !== organization) {
-        return false;
-      }
-
-      if (taskType && cleanOption(job.taskType) !== taskType) {
-        return false;
-      }
-
-      if (afro && !job.quotas.afrodescendientes) {
-        return false;
-      }
-
-      if (discapacidad && !job.quotas.discapacidad) {
-        return false;
-      }
-
-      if (trans && !job.quotas.trans) {
-        return false;
-      }
-
-      if (victimas && !job.quotas.victimasDelitosViolentos) {
-        return false;
-      }
-
-      return true;
+    return filterJobs(jobs, {
+      query: deferredQuery,
+      organization,
+      taskType,
+      afro,
+      discapacidad,
+      trans,
+      victimas,
     });
   }, [
     jobs,
@@ -275,6 +246,16 @@ export default function JobsBoard({
           onTransChange={handleTransChange}
           onVictimasChange={handleVictimasChange}
         />
+
+        <div className="mt-4 flex flex-wrap items-center gap-2">
+          <SaveSearchButton filters={criteria} jobs={jobs} />
+          <a
+            href="/empleos/busquedas"
+            className="text-muted-foreground inline-flex items-center gap-1 text-sm underline decoration-dotted underline-offset-3 hover:text-foreground"
+          >
+            Ver búsquedas guardadas
+          </a>
+        </div>
       </div>
 
       {hasNoResults ? (

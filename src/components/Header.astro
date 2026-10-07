@@ -33,6 +33,10 @@ import SearchModal from "@/components/search/SearchModal.astro";
             <Icon name="mdi:heart-outline" size={16} aria-hidden="true" />
             Guardados
           </a>
+          <a href="/empleos/busquedas" role="menuitem">
+            <Icon name="mdi:bookmark-outline" size={16} aria-hidden="true" />
+            Búsquedas
+          </a>
         </NavDropdown>
 
         <NavDropdown
@@ -111,6 +115,18 @@ import SearchModal from "@/components/search/SearchModal.astro";
       >
         <Icon
           name="mdi:heart-outline"
+          size={16}
+          class="shrink-0"
+          aria-hidden="true"
+        />
+      </a>
+      <a
+        href="/empleos/busquedas"
+        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+        title="Búsquedas guardadas"
+      >
+        <Icon
+          name="mdi:bookmark-outline"
           size={16}
           class="shrink-0"
           aria-hidden="true"

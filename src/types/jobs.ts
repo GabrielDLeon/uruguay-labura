@@ -89,3 +89,27 @@ export interface JobsDataset {
   jobs: JobRecord[];
   dashboard?: DashboardData;
 }
+
+/** Criterios de filtrado del tablero de llamados. */
+export interface JobFilters {
+  query: string;
+  organization: string;
+  taskType: string;
+  afro: boolean;
+  discapacidad: boolean;
+  trans: boolean;
+  victimas: boolean;
+}
+
+/**
+ * Búsqueda guardada en el navegador (sin cuenta). `seenJobIds` es el snapshot
+ * contra el que se calcula qué llamados son novedad respecto de la última visita.
+ */
+export interface SavedSearch {
+  id: string;
+  name: string;
+  criteria: JobFilters;
+  createdAt: string;
+  lastSeenAt: string | null;
+  seenJobIds: string[];
+}
