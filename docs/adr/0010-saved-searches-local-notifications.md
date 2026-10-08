@@ -40,9 +40,9 @@ dataset de llamados se descarga y filtra en el cliente.
    El copy de la página lo dice explícitamente para no prometer avisos en
    background.
 5. **Una sola sección de guardados.** Empleos favoritos y búsquedas guardadas
-   viven en la misma página `/empleos/guardados`, en dos pestañas (Empleos /
-   Búsquedas). La pestaña de búsquedas soporta deep-link `?tab=busquedas`, que
-   es a donde apuntan el badge de novedades del header y el acceso directo.
+   viven en la misma página `/empleos/guardados`, una sección debajo de la otra
+   (primero empleos, después búsquedas). No hay tabs ni badge de novedades en el
+   header: el conteo vive en las tarjetas de búsqueda.
 6. **Sin detección de cierres.** El dataset solo trae llamados activos (los
    cerrados no llegan al cliente), así que no se puede notificar "este llamado
    cerró". La señal de urgencia es "cierra pronto" por fecha, no un cambio de

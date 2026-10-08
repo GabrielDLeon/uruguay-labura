@@ -4,16 +4,10 @@ import { Icon } from "@iconify/react/offline";
 import DataTable, {
   type DataTableColumn,
 } from "@/components/common/DataTable";
-import JobStatusBadge from "@/components/jobs/JobStatusBadge";
 import OrgLogo from "@/components/jobs/OrgLogo";
 import SaveButton from "@/components/jobs/SaveButton";
-import {
-  MAX_TITLE_LENGTH,
-  getDisplayStatus,
-  isUpcoming,
-  shorten,
-} from "@/components/jobs/jobs";
-import { formatDateShort, formatRelative } from "@/lib/dates";
+import { MAX_TITLE_LENGTH, shorten } from "@/components/jobs/jobs";
+import { formatRelative } from "@/lib/dates";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
 
@@ -65,26 +59,6 @@ function buildColumns(
           </div>
         );
       },
-    },
-    {
-      header: "Lugar",
-      searchText: (job) => [job.location ?? "", job.locality ?? ""],
-      render: (job) => (
-        <span className="text-xs" title={job.location ?? undefined}>
-          {job.location ?? "—"}
-        </span>
-      ),
-    },
-    {
-      header: "Estado",
-      render: (job) =>
-        isUpcoming(job) ? (
-          <span className="text-muted-foreground text-xs">
-            {formatDateShort(job.openingDate)}
-          </span>
-        ) : (
-          <JobStatusBadge status={getDisplayStatus(job)} />
-        ),
     },
     {
       header: "Cierre",
@@ -142,6 +116,7 @@ export default function JobsDataTable({
       columns={columns}
       getRowId={(job) => job.id}
       noun="llamados"
+      singularNoun="llamado"
       searchPlaceholder={searchPlaceholder}
       emptyMessage="No se encontraron llamados."
     />

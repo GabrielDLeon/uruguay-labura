@@ -2,11 +2,11 @@ import { useEffect, useId, useMemo, useState } from "react";
 import { Icon } from "@iconify/react/offline";
 
 import JobsDataTable from "@/components/jobs/JobsDataTable";
-import { formatDateShort } from "@/lib/dates";
 import { appIcons } from "@/lib/icons";
 import {
   criteriaChips,
   criteriaToSearchParams,
+  defaultSearchName,
   type CriteriaChipKind,
 } from "@/lib/saved-searches";
 import type { JobRecord, SavedSearch } from "@/types/jobs";
@@ -23,7 +23,6 @@ interface Props {
   matches: JobRecord[];
   newJobs: JobRecord[];
   open: boolean;
-  updatedAt: string | null;
   onToggle: () => void;
   onRename: (name: string) => void;
   onDelete: () => void;
@@ -35,7 +34,6 @@ export default function SavedSearchCard({
   matches,
   newJobs,
   open,
-  updatedAt,
   onToggle,
   onRename,
   onDelete,
@@ -51,6 +49,11 @@ export default function SavedSearchCard({
   const params = criteriaToSearchParams(search.criteria).toString();
   const newCount = newJobs.length;
   const matchCount = matches.length;
+  // El nombre por defecto ya describe los criterios: no repetimos chips.
+  const autoName = defaultSearchName(search.criteria);
+  const showChips =
+    chips.length > 0 &&
+    search.name.trim().toLowerCase() !== autoName.trim().toLowerCase();
   const newIds = useMemo(() => new Set(newJobs.map((job) => job.id)), [newJobs]);
   const displayJobs = onlyNew ? newJobs : matches;
 
@@ -140,15 +143,9 @@ export default function SavedSearchCard({
             )}
           </div>
 
-          <p className="mt-1 text-xs text-muted-foreground">
-            {matchCount} llamado{matchCount !== 1 ? "s" : ""} coincide
-            {matchCount !== 1 ? "n" : ""} hoy
-            {updatedAt ? ` · Actualizado: ${formatDateShort(updatedAt)}` : ""}
-          </p>
-
-          <div className="mt-2 flex flex-wrap items-center gap-1.5">
-            {chips.length > 0 ? (
-              chips.map((chip) => (
+          {showChips ? (
+            <div className="mt-2 flex flex-wrap items-center gap-1.5">
+              {chips.map((chip) => (
                 <span
                   key={chip.key}
                   className="badge text-xs"
@@ -163,13 +160,9 @@ export default function SavedSearchCard({
                   />
                   {chip.label}
                 </span>
-              ))
-            ) : (
-              <span className="badge text-xs" data-variant="outline">
-                Todos los llamados
-              </span>
-            )}
-          </div>
+              ))}
+            </div>
+          ) : null}
         </div>
       </div>
 
@@ -189,7 +182,9 @@ export default function SavedSearchCard({
             className={`shrink-0 transition-transform ${open ? "rotate-180" : ""}`}
             aria-hidden="true"
           />
-          {open ? "Ocultar novedades" : "Ver novedades"}
+          {open
+            ? "Ocultar"
+            : `Ver ${matchCount} llamado${matchCount !== 1 ? "s" : ""}`}
         </button>
 
         <div className="ml-auto flex items-center gap-1">

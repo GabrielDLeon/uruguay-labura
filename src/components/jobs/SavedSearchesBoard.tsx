@@ -3,7 +3,6 @@ import { useEffect, useMemo, useState } from "react";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
 import SavedSearchCard from "@/components/jobs/SavedSearchCard";
 import useJobs from "@/components/jobs/useJobs";
-import { formatDateShort } from "@/lib/dates";
 import {
   getSavedSearches,
   markSavedSearchSeen,
@@ -15,7 +14,7 @@ import { countUniqueNewJobs, getSearchesNews } from "@/lib/search-news";
 import type { SavedSearch } from "@/types/jobs";
 
 export default function SavedSearchesBoard() {
-  const { jobs, isLoading, loadError, retry, scrapedAt } = useJobs();
+  const { jobs, isLoading, loadError, retry } = useJobs();
   const [searches, setSearches] = useState<SavedSearch[] | null>(null);
   const [openId, setOpenId] = useState<string | null>(null);
 
@@ -82,16 +81,12 @@ export default function SavedSearchesBoard() {
 
   return (
     <section className="grid gap-4">
-      <p className="text-sm text-muted-foreground" role="status">
-        {searches.length} búsqueda{searches.length !== 1 ? "s" : ""} guardada
-        {searches.length !== 1 ? "s" : ""}.{" "}
-        {totalNews > 0
-          ? `Tenés ${totalNews} llamado${totalNews !== 1 ? "s" : ""} nuevo${
-              totalNews !== 1 ? "s" : ""
-            } en tus búsquedas.`
-          : "Estás al día."}
-        {scrapedAt ? ` · Actualizado: ${formatDateShort(scrapedAt)}` : ""}
-      </p>
+      {totalNews > 0 ? (
+        <p className="text-sm text-muted-foreground" role="status">
+          Tenés {totalNews} llamado{totalNews !== 1 ? "s" : ""} nuevo
+          {totalNews !== 1 ? "s" : ""} en tus búsquedas.
+        </p>
+      ) : null}
 
       <div className="grid gap-4">
         {news.map(({ search, matches, newJobs }) => (
@@ -101,7 +96,6 @@ export default function SavedSearchesBoard() {
             matches={matches}
             newJobs={newJobs}
             open={openId === search.id}
-            updatedAt={scrapedAt}
             onToggle={() =>
               setOpenId((current) =>
                 current === search.id ? null : search.id,

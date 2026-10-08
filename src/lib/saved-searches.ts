@@ -116,7 +116,7 @@ export function criteriaToSearchParams(criteria: JobFilters): URLSearchParams {
 export function describeCriteria(criteria: JobFilters): string[] {
   const labels: string[] = [];
 
-  if (criteria.query) labels.push(`“${criteria.query}”`);
+  if (criteria.query) labels.push(criteria.query);
   if (criteria.organization) labels.push(criteria.organization);
   if (criteria.taskType) labels.push(criteria.taskType);
 

@@ -17,6 +17,8 @@ interface Props<T> {
   getRowId: (row: T) => string
   /** Sustantivo plural para el contador, ej: "carreras", "sedes". */
   noun: string
+  /** Forma singular, para “1 llamado” en vez de “1 llamados”. */
+  singularNoun?: string
   searchPlaceholder?: string
   emptyMessage?: string
   itemsPerPage?: number
@@ -36,6 +38,7 @@ export default function DataTable<T>({
   columns,
   getRowId,
   noun,
+  singularNoun,
   searchPlaceholder = 'Buscar...',
   emptyMessage = 'No se encontraron resultados.',
   itemsPerPage = DEFAULT_ITEMS_PER_PAGE,
@@ -70,7 +73,8 @@ export default function DataTable<T>({
     <section className="grid gap-4">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <p className="text-sm text-muted-foreground" role="status">
-          {rows.length} {noun}
+          {rows.length}{' '}
+          {rows.length === 1 && singularNoun ? singularNoun : noun}
           {query.trim() ? ` · ${filtered.length} resultados` : ''}
         </p>
         <div role="group" className="field w-full sm:max-w-xs">
