@@ -1,11 +1,12 @@
-import { filterJobs, isClosingSoon } from "@/components/jobs/jobs";
+import { filterJobs } from "@/components/jobs/jobs";
 import type { JobRecord, SavedSearch } from "@/types/jobs";
 
 export interface SearchNews {
   search: SavedSearch;
+  /** Todo el listado vigente que engloba la búsqueda. */
   matches: JobRecord[];
+  /** Subconjunto nuevo respecto de la última visita. */
   newJobs: JobRecord[];
-  closingSoonJobs: JobRecord[];
 }
 
 /** Calcula las novedades de una búsqueda contra el dataset vigente. */
@@ -16,12 +17,8 @@ export function getSearchNews(
   const matches = filterJobs(jobs, search.criteria);
   const seen = new Set(search.seenJobIds);
   const newJobs = matches.filter((job) => !seen.has(job.id));
-  const newIds = new Set(newJobs.map((job) => job.id));
-  const closingSoonJobs = matches.filter(
-    (job) => !newIds.has(job.id) && isClosingSoon(job),
-  );
 
-  return { search, matches, newJobs, closingSoonJobs };
+  return { search, matches, newJobs };
 }
 
 export function getSearchesNews(

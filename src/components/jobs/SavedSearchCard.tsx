@@ -1,4 +1,4 @@
-import { useId, useState } from "react";
+import { useEffect, useId, useMemo, useState } from "react";
 import { Icon } from "@iconify/react/offline";
 
 import JobsDataTable from "@/components/jobs/JobsDataTable";
@@ -20,9 +20,8 @@ const CHIP_ICONS: Record<CriteriaChipKind, typeof appIcons.search> = {
 
 interface Props {
   search: SavedSearch;
-  matchCount: number;
+  matches: JobRecord[];
   newJobs: JobRecord[];
-  closingSoonJobs: JobRecord[];
   open: boolean;
   updatedAt: string | null;
   onToggle: () => void;
@@ -33,9 +32,8 @@ interface Props {
 
 export default function SavedSearchCard({
   search,
-  matchCount,
+  matches,
   newJobs,
-  closingSoonJobs,
   open,
   updatedAt,
   onToggle,
@@ -47,10 +45,20 @@ export default function SavedSearchCard({
   const [renaming, setRenaming] = useState(false);
   const [draftName, setDraftName] = useState(search.name);
   const [confirmingDelete, setConfirmingDelete] = useState(false);
+  const [onlyNew, setOnlyNew] = useState(false);
 
   const chips = criteriaChips(search.criteria);
   const params = criteriaToSearchParams(search.criteria).toString();
   const newCount = newJobs.length;
+  const matchCount = matches.length;
+  const newIds = useMemo(() => new Set(newJobs.map((job) => job.id)), [newJobs]);
+  const displayJobs = onlyNew ? newJobs : matches;
+
+  useEffect(() => {
+    if (newCount === 0) {
+      setOnlyNew(false);
+    }
+  }, [newCount]);
 
   const startRename = () => {
     setDraftName(search.name);
@@ -246,57 +254,57 @@ export default function SavedSearchCard({
       </div>
 
       {open ? (
-        <div className="grid gap-5 border-t border-border bg-background p-4">
-          {newCount > 0 ? (
-            <div className="flex flex-wrap items-center gap-2">
-              <button
-                type="button"
-                className="btn"
-                data-size="sm"
-                data-variant="outline"
-                onClick={onMarkSeen}
-              >
-                <Icon
-                  icon={appIcons.check}
-                  width="16"
-                  height="16"
-                  className="shrink-0"
-                  aria-hidden="true"
-                />
-                Marcar como visto
-              </button>
-            </div>
-          ) : null}
-
+        <div className="grid gap-4 border-t border-border bg-background p-4">
           {matchCount === 0 ? (
             <p className="text-sm text-muted-foreground">
               Hoy no hay llamados que coincidan con esta búsqueda.
             </p>
-          ) : null}
+          ) : (
+            <>
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <label className="inline-flex items-center gap-2 text-sm text-muted-foreground">
+                  <input
+                    type="checkbox"
+                    className="input"
+                    checked={onlyNew}
+                    disabled={newCount === 0}
+                    onChange={(event) => setOnlyNew(event.target.checked)}
+                  />
+                  Solo nuevos{newCount > 0 ? ` (${newCount})` : ""}
+                </label>
 
-          {matchCount > 0 && newCount === 0 && closingSoonJobs.length === 0 ? (
-            <p className="text-sm text-muted-foreground">
-              Estás al día: no hay llamados nuevos para esta búsqueda.
-            </p>
-          ) : null}
+                {newCount > 0 ? (
+                  <button
+                    type="button"
+                    className="btn"
+                    data-size="sm"
+                    data-variant="outline"
+                    onClick={onMarkSeen}
+                  >
+                    <Icon
+                      icon={appIcons.check}
+                      width="16"
+                      height="16"
+                      className="shrink-0"
+                      aria-hidden="true"
+                    />
+                    Marcar como visto
+                  </button>
+                ) : null}
+              </div>
 
-          {newCount > 0 ? (
-            <section className="grid gap-3">
-              <h4 className="text-sm font-semibold text-foreground">
-                Nuevos desde tu última visita ({newCount})
-              </h4>
-              <JobsDataTable jobs={newJobs} />
-            </section>
-          ) : null}
-
-          {closingSoonJobs.length > 0 ? (
-            <section className="grid gap-3">
-              <h4 className="text-sm font-semibold text-foreground">
-                Cierran pronto ({closingSoonJobs.length})
-              </h4>
-              <JobsDataTable jobs={closingSoonJobs} />
-            </section>
-          ) : null}
+              {displayJobs.length > 0 ? (
+                <JobsDataTable
+                  jobs={displayJobs}
+                  newJobIds={onlyNew ? undefined : newIds}
+                />
+              ) : (
+                <p className="text-sm text-muted-foreground">
+                  Estás al día: no hay llamados nuevos para esta búsqueda.
+                </p>
+              )}
+            </>
+          )}
         </div>
       ) : null}
     </article>

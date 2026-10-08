@@ -1,11 +1,8 @@
-import { parseDate, startOfDay, startOfToday, diffInDays } from "@/lib/dates";
+import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
 import type { JobFilters, JobRecord } from "@/types/jobs";
 
 export const MAX_TITLE_LENGTH = 110;
 export const ITEMS_PER_PAGE = 25;
-
-/** Ventana para considerar que un llamado “cierra pronto”. */
-export const CLOSING_SOON_DAYS = 7;
 
 export const HIDDEN_TAGS = new Set(["salud"]);
 
@@ -125,23 +122,6 @@ export function isUpcoming(job: JobRecord): boolean {
   const opening = parseDate(job.openingDate);
 
   return Boolean(opening && startOfDay(opening) > startOfToday());
-}
-
-/** Días (calendario) que faltan para el cierre. Negativo si ya cerró. */
-export function daysUntilClosing(job: JobRecord): number | null {
-  const closing = parseDate(job.closingDate);
-  if (!closing) return null;
-
-  return diffInDays(startOfToday(), startOfDay(closing));
-}
-
-/** Cierra hoy o dentro de los próximos `days` días. */
-export function isClosingSoon(
-  job: JobRecord,
-  days = CLOSING_SOON_DAYS,
-): boolean {
-  const remaining = daysUntilClosing(job);
-  return remaining !== null && remaining >= 0 && remaining <= days;
 }
 
 /** ¿El llamado matchea los criterios de una búsqueda guardada? */

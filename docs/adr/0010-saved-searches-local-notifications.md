@@ -30,9 +30,11 @@ dataset de llamados se descarga y filtra en el cliente.
    `seenJobIds` (las coincidencias al momento de guardarla o de marcarla como
    vista). Al cargar el dataset, las **novedades** son las coincidencias
    actuales que no están en `seenJobIds`; el badge principal cuenta solo eso.
-   Aparte, y sin contar como novedad, se lista “Cierran pronto” (coincidencias
-   que cierran dentro de 7 días). Se limpian con "Marcar como visto", que
-   reemplaza `seenJobIds` por las coincidencias actuales.
+   El detalle de cada búsqueda muestra **todo el listado vigente** que engloba
+   (no solo los nuevos), y marca con “Nuevo” los que son novedad, con un filtro
+   “Solo nuevos”. La urgencia por cierre se ve en la columna “Cierre”. Se limpian
+   con "Marcar como visto", que reemplaza `seenJobIds` por las coincidencias
+   actuales.
 4. **Sin push.** El cálculo ocurre al entrar al sitio. No se notifica fuera de
    la app: el dataset solo está disponible en el cliente cuando hay una visita.
    El copy de la página lo dice explícitamente para no prometer avisos en

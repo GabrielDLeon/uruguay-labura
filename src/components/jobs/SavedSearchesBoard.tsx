@@ -94,13 +94,12 @@ export default function SavedSearchesBoard() {
       </p>
 
       <div className="grid gap-4">
-        {news.map(({ search, matches, newJobs, closingSoonJobs }) => (
+        {news.map(({ search, matches, newJobs }) => (
           <SavedSearchCard
             key={search.id}
             search={search}
-            matchCount={matches.length}
+            matches={matches}
             newJobs={newJobs}
-            closingSoonJobs={closingSoonJobs}
             open={openId === search.id}
             updatedAt={scrapedAt}
             onToggle={() =>
