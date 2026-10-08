@@ -12,7 +12,6 @@ const SECTION_LABELS: Record<string, string> = {
   "/empleos": "Empleos",
   "/empleos/datos": "Datos",
   "/empleos/guardados": "Guardados",
-  "/empleos/busquedas": "Búsquedas",
   "/carreras": "Carreras",
   "/acerca": "Acerca",
 };

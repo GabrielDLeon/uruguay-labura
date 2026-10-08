@@ -1,5 +1,5 @@
 ---
-import SavedJobsBoard from "@/components/jobs/SavedJobsBoard";
+import SavedItemsTabs from "@/components/jobs/SavedItemsTabs";
 import Layout from "@/layouts/Layout.astro";
 import Block from "@/components/Block.astro";
 import PageHeader from "@/components/PageHeader.astro";
@@ -10,28 +10,26 @@ const breadcrumbs = getBreadcrumbs(Astro.url.pathname);
 const jsonLd = {
   "@context": "https://schema.org",
   "@graph": [
-    breadcrumbList(
-      breadcrumbs,
-      `${absUrl("/empleos/guardados")}#breadcrumb`,
-    ),
+    breadcrumbList(breadcrumbs, `${absUrl("/empleos/guardados")}#breadcrumb`),
   ],
 };
 ---
 
 <Layout
-  title="Empleos guardados"
-  description="Tus llamados laborales guardados en Uruguay."
+  title="Guardados"
+  description="Tus llamados favoritos y búsquedas guardadas en Uruguay, con novedades."
   jsonLd={jsonLd}
   breadcrumbs={breadcrumbs}
 >
   <Block>
-    <PageHeader title="Empleos guardados">
-      Llamados que guardaste para postularte más tarde. Se guardan
-      automáticamente en tu navegador.
+    <PageHeader title="Guardados">
+      Tus llamados favoritos y las búsquedas que seguís. Guardá lo que te
+      interesa y volvé para ver qué llamados nuevos aparecieron. Todo se
+      guarda en tu navegador.
     </PageHeader>
 
     <div data-pagefind-ignore="all">
-      <SavedJobsBoard client:load />
+      <SavedItemsTabs client:load />
     </div>
   </Block>
 </Layout>

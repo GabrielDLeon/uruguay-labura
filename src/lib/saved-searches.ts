@@ -1,17 +1,7 @@
 import type { JobFilters, SavedSearch } from "@/types/jobs";
-import { readJson, removeKey, subscribeToKeys, writeJson } from "@/lib/storage";
+import { readJson, subscribeToKeys, writeJson } from "@/lib/storage";
 
 const STORAGE_KEY = "ul:savedSearches:v1";
-
-export const EMPTY_FILTERS: JobFilters = {
-  query: "",
-  organization: "",
-  taskType: "",
-  afro: false,
-  discapacidad: false,
-  trans: false,
-  victimas: false,
-};
 
 const QUOTA_LABELS: [keyof JobFilters, string][] = [
   ["afro", "Afrodescendientes"],
@@ -92,11 +82,6 @@ export function markSavedSearchSeen(id: string, seenJobIds: string[]): void {
   );
 }
 
-export function clearSavedSearches(): void {
-  removeKey(STORAGE_KEY);
-}
-
-/** Notifica cambios hechos en otras pestañas. Devuelve unsubscriber. */
 export function subscribeToSavedSearches(listener: () => void): () => void {
   return subscribeToKeys([STORAGE_KEY], listener);
 }
@@ -142,8 +127,43 @@ export function describeCriteria(criteria: JobFilters): string[] {
   return labels;
 }
 
-export function hasCriteria(criteria: JobFilters): boolean {
-  return describeCriteria(criteria).length > 0;
+export type CriteriaChipKind =
+  | "query"
+  | "organization"
+  | "taskType"
+  | "quota";
+
+export interface CriteriaChip {
+  key: string;
+  label: string;
+  kind: CriteriaChipKind;
+}
+
+/** Criterios activos con su tipo, para renderizar chips con icono. */
+export function criteriaChips(criteria: JobFilters): CriteriaChip[] {
+  const chips: CriteriaChip[] = [];
+
+  if (criteria.query) {
+    chips.push({ key: "query", label: criteria.query, kind: "query" });
+  }
+  if (criteria.organization) {
+    chips.push({
+      key: "organization",
+      label: criteria.organization,
+      kind: "organization",
+    });
+  }
+  if (criteria.taskType) {
+    chips.push({ key: "taskType", label: criteria.taskType, kind: "taskType" });
+  }
+
+  for (const [key, label] of QUOTA_LABELS) {
+    if (criteria[key] === true) {
+      chips.push({ key, label, kind: "quota" });
+    }
+  }
+
+  return chips;
 }
 
 /** Nombre por defecto cuando el usuario no escribe uno. */

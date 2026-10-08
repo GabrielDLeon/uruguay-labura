@@ -38,20 +38,6 @@ export function writeJson(key: string, value: unknown): void {
   }
 }
 
-/** Remove a key. No-op outside the browser. */
-export function removeKey(key: string): void {
-  if (typeof localStorage === "undefined") {
-    return;
-  }
-
-  try {
-    localStorage.removeItem(key);
-    notifyStorage(key);
-  } catch {
-    // Ignorar.
-  }
-}
-
 /**
  * Avisa a los suscriptores de la misma pestaña. El evento `storage` nativo
  * solo se dispara en otras pestañas, así que replicamos el aviso localmente.

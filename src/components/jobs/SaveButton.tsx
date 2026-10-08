@@ -30,13 +30,13 @@ export default function SaveButton({ jobId }: Props) {
       onClick={handleToggle}
       className={`inline-flex items-center justify-center rounded p-1 transition-colors ${
         saved
-          ? "text-red-500 hover:text-red-600"
+          ? "text-primary hover:opacity-80"
           : "text-muted-foreground hover:text-foreground hover:bg-muted"
       }`}
       title={saved ? "Quitar de guardados" : "Guardar empleo"}
     >
       <Icon
-        icon={saved ? appIcons.heart : appIcons.heartOutline}
+        icon={saved ? appIcons.bookmark : appIcons.bookmarkOutline}
         width="18"
         height="18"
       />

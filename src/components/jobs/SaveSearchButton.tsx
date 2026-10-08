@@ -35,26 +35,9 @@ export default function SaveSearchButton({ filters, jobs }: Props) {
 
   return (
     <div className="flex flex-wrap items-center gap-2">
-      <button
-        type="button"
-        className="btn"
-        data-size="sm"
-        data-variant="outline"
-        onClick={handleOpen}
-      >
-        <Icon
-          icon={saved ? appIcons.check : appIcons.bookmark}
-          width="16"
-          height="16"
-          className="shrink-0"
-          aria-hidden="true"
-        />
-        {saved ? "Búsqueda guardada" : "Guardar búsqueda"}
-      </button>
-
       {open ? (
         <form
-          className="flex flex-wrap items-center gap-2"
+          className="flex w-full flex-wrap items-center gap-2 sm:w-auto"
           onSubmit={handleSubmit}
         >
           <label htmlFor={inputId} className="sr-only">
@@ -63,7 +46,7 @@ export default function SaveSearchButton({ filters, jobs }: Props) {
           <input
             id={inputId}
             type="text"
-            className="input"
+            className="input w-full sm:w-64"
             value={name}
             onChange={(event) => setName(event.target.value)}
             placeholder="Nombre de la búsqueda"
@@ -82,7 +65,24 @@ export default function SaveSearchButton({ filters, jobs }: Props) {
             Cancelar
           </button>
         </form>
-      ) : null}
+      ) : (
+        <button
+          type="button"
+          className="btn"
+          data-size="sm"
+          data-variant="outline"
+          onClick={handleOpen}
+        >
+          <Icon
+            icon={saved ? appIcons.check : appIcons.starOutline}
+            width="16"
+            height="16"
+            className="shrink-0"
+            aria-hidden="true"
+          />
+          {saved ? "Búsqueda guardada" : "Guardar búsqueda"}
+        </button>
+      )}
     </div>
   );
 }

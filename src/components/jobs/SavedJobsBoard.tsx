@@ -60,8 +60,8 @@ export default function SavedJobsBoard() {
           No tenés empleos guardados
         </p>
         <p className="text-sm text-muted-foreground max-w-md">
-          Cuando encuentres un llamado que te interese, tocá el corazón
-          <span aria-hidden="true"> ♥</span> para guardarlo y encontrarlo
+          Cuando encuentres un llamado que te interese, tocá el marcador
+          <span aria-hidden="true"> 🔖</span> para guardarlo y encontrarlo
           rápido acá.
         </p>
         <a href="/empleos" className="btn">

@@ -1,9 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
 import { Icon } from "@iconify/react/offline";
 
-import { filterJobs } from "@/components/jobs/jobs";
 import { appIcons } from "@/lib/icons";
 import { filterActiveJobs, loadJobsDataset } from "@/lib/jobs-dataset";
+import { countUniqueNewJobs, getSearchesNews } from "@/lib/search-news";
 import {
   getSavedSearches,
   subscribeToSavedSearches,
@@ -52,17 +52,7 @@ export default function NewsBadge() {
       return 0;
     }
 
-    const newIds = new Set<string>();
-    for (const search of searches) {
-      const seen = new Set(search.seenJobIds);
-      for (const job of filterJobs(jobs, search.criteria)) {
-        if (!seen.has(job.id)) {
-          newIds.add(job.id);
-        }
-      }
-    }
-
-    return newIds.size;
+    return countUniqueNewJobs(getSearchesNews(jobs, searches));
   }, [jobs, searches]);
 
   if (!hasSearches) {
@@ -78,16 +68,21 @@ export default function NewsBadge() {
 
   return (
     <a
-      href="/empleos/busquedas"
+      href="/empleos/guardados?tab=busquedas"
       className="btn relative"
       data-variant="outline"
       data-size="icon-sm"
       aria-label={label}
       title={label}
     >
-      <Icon icon={appIcons.bookmark} width="24" height="24" aria-hidden="true" />
+      <Icon
+        icon={newsCount > 0 ? appIcons.star : appIcons.starOutline}
+        width="24"
+        height="24"
+        aria-hidden="true"
+      />
       {newsCount > 0 ? (
-        <span className="absolute -top-1 -right-1 inline-flex h-4 min-w-4 items-center justify-center rounded-full bg-red-500 px-1 text-[10px] leading-none font-semibold text-white">
+        <span className="absolute -top-1 -right-1 inline-flex h-4 min-w-4 items-center justify-center rounded-full bg-[var(--destructive)] px-1 text-[10px] leading-none font-semibold text-white">
           {newsCount > 99 ? "99+" : newsCount}
         </span>
       ) : null}

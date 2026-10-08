@@ -2,7 +2,7 @@
 
 Fecha: 2026-10-07
 Estado: aceptado
-Alcance: `web/src/lib/saved-searches.ts`, `web/src/lib/storage.ts`, `web/src/components/jobs/`, `/empleos/busquedas`.
+Alcance: `web/src/lib/saved-searches.ts`, `web/src/lib/search-news.ts`, `web/src/lib/storage.ts`, `web/src/components/jobs/`, `/empleos/guardados`.
 
 ## Contexto
 
@@ -37,11 +37,15 @@ dataset de llamados se descarga y filtra en el cliente.
    la app: el dataset solo está disponible en el cliente cuando hay una visita.
    El copy de la página lo dice explícitamente para no prometer avisos en
    background.
-5. **Sin detección de cierres.** El dataset solo trae llamados activos (los
+5. **Una sola sección de guardados.** Empleos favoritos y búsquedas guardadas
+   viven en la misma página `/empleos/guardados`, en dos pestañas (Empleos /
+   Búsquedas). La pestaña de búsquedas soporta deep-link `?tab=busquedas`, que
+   es a donde apuntan el badge de novedades del header y el acceso directo.
+6. **Sin detección de cierres.** El dataset solo trae llamados activos (los
    cerrados no llegan al cliente), así que no se puede notificar "este llamado
    cerró". La señal de urgencia es "cierra pronto" por fecha, no un cambio de
    estado.
-6. **Refactor de storage.** `savedJobs` y `savedSearches` comparten
+7. **Refactor de storage.** `savedJobs` y `savedSearches` comparten
    `src/lib/storage.ts` (lectura/escritura seguras ante SSR y cuota, más aviso
    de cambios en la misma pestaña y entre pestañas vía evento `storage`).
 
@@ -64,4 +68,4 @@ dataset de llamados se descarga y filtra en el cliente.
 - Si el usuario no entra por mucho tiempo, los llamados que abrieron y cerraron
   en el medio no aparecen como nuevos.
 - Los datos quedan en el dispositivo del usuario; conviene mantener el aviso
-  visible ("se guarda en tu navegador") en las páginas de guardados y búsquedas.
+  visible ("se guarda en tu navegador") en la página de guardados.

@@ -3,9 +3,9 @@ import { useDeferredValue, useEffect, useMemo, useState } from "react";
 import "@/styles/global.css";
 
 import type { SearchableSelectOption } from "@/components/common/SearchableSelect";
+import DataTablePagination from "@/components/common/DataTablePagination";
 import JobsFilters from "@/components/jobs/JobsFilters";
 import JobsList from "@/components/jobs/JobsList";
-import JobsPagination from "@/components/jobs/JobsPagination";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
 import JobsTable from "@/components/jobs/JobsTable";
 import { ITEMS_PER_PAGE, cleanOption, filterJobs } from "@/components/jobs/jobs";
@@ -249,12 +249,6 @@ export default function JobsBoard({
 
         <div className="mt-4 flex flex-wrap items-center gap-2">
           <SaveSearchButton filters={criteria} jobs={jobs} />
-          <a
-            href="/empleos/busquedas"
-            className="text-muted-foreground inline-flex items-center gap-1 text-sm underline decoration-dotted underline-offset-3 hover:text-foreground"
-          >
-            Ver búsquedas guardadas
-          </a>
         </div>
       </div>
 
@@ -273,10 +267,11 @@ export default function JobsBoard({
       ) : null}
 
       {!hasNoResults && filtered.length > ITEMS_PER_PAGE ? (
-        <JobsPagination
+        <DataTablePagination
           page={clampedPage}
           totalPages={totalPages}
           total={filtered.length}
+          itemsPerPage={ITEMS_PER_PAGE}
           onPageChange={setPage}
         />
       ) : null}
