@@ -13,7 +13,10 @@ export function prebuildJobsPlugin() {
       const env = loadEnv("production", process.cwd(), "");
       const sourceUrl = env.SOURCE_URL;
 
-      const outputPath = path.join(process.cwd(), "src/data/jobs.generated.json");
+      const outputPath = path.join(
+        process.cwd(),
+        "src/data/jobs.generated.json",
+      );
       const datasetExists = existsSync(outputPath);
 
       if (!sourceUrl) {
@@ -21,7 +24,9 @@ export function prebuildJobsPlugin() {
           console.log("[prebuild-jobs] No SOURCE_URL, using existing dataset");
           return;
         }
-        throw new Error("SOURCE_URL not defined in .env and no existing dataset found");
+        throw new Error(
+          "SOURCE_URL not defined in .env and no existing dataset found",
+        );
       }
 
       await fetchAndProcessJobs(sourceUrl);

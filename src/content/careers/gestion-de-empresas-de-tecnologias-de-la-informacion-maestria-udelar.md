@@ -29,14 +29,14 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"
 sources:
-  - label: 'Oferta e inscripciones 2026 (FCEA)'
-    url: 'https://www.fcea.udelar.edu.uy/institucional/novedades/9130-postulaciones-2026.html'
-  - label: 'Maestrías en Sistemas de Información y Gestión de Empresas TI (FCEA)'
-    url: 'https://fcea.udelar.edu.uy/maestrias/maestrias-en-sistemas-de-informacion-y-en-gestion-de-empresas-ti-2.html'
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=74'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=74'
+  - label: "Oferta e inscripciones 2026 (FCEA)"
+    url: "https://www.fcea.udelar.edu.uy/institucional/novedades/9130-postulaciones-2026.html"
+  - label: "Maestrías en Sistemas de Información y Gestión de Empresas TI (FCEA)"
+    url: "https://fcea.udelar.edu.uy/maestrias/maestrias-en-sistemas-de-informacion-y-en-gestion-de-empresas-ti-2.html"
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=74"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=74"
 ---
 
 ## Resumen

@@ -30,17 +30,17 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=2'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=2&idPosgrado=2'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=2"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=2&idPosgrado=2"
 ---
 
 ## Resumen
 
 ### Objetivo
 
-OBJETIVOS 1. Objetivo General El presente programa de Maestría en Ordenamiento Territorial y Desarrollo Urbano se propone formar académica e instrumentalmente a los participantes, a los efectos de posibilitar su actuación en los procesos de planificación y gestión de las ciudades y de los territorios, desde una sólida perspectiva teórico-crítica, interdisciplinaria y participativa, no sólo con el horizonte nacional, sino también regional. 2. Objetivos Específicos Partiendo de este objetivo general, la Maestría se propone como objetivos específicos: • Promover la adquisición de conocimientos y el desarrollo de capacidades que contribuyan a la definición de bases conceptuales e instrumentales para la definición de políticas de actuación, así como, a la elaboración y gestión de conocimientos, documentos técnicos y planes y proyectos de transformación urbana y regional. • Contribuir al manejo activo y creativo del conocimiento como elemento fundamental en la actuación técnico-operativa y académica, para abordar los fenómenos urbanos y regionales en toda la complejidad de los ámbitos de actuación, tanto públicos como privados en los que se pretende intervenir. • Comprender la naturaleza, alcance, potencialidades y limitaciones de los procesos de planificación dentro del contexto físico - natural, tecnológico - productivo, socio – económico, político e histórico-cultural. • Adquirir un enfoque específicamente nacional, regional y latinoamericano que potencie las relaciones de cooperación con otras experiencias similares en el nivel regional, así como con otras instancias de producción académica en la materia, redes universitarias y ámbitos de cooperación. 
+OBJETIVOS 1. Objetivo General El presente programa de Maestría en Ordenamiento Territorial y Desarrollo Urbano se propone formar académica e instrumentalmente a los participantes, a los efectos de posibilitar su actuación en los procesos de planificación y gestión de las ciudades y de los territorios, desde una sólida perspectiva teórico-crítica, interdisciplinaria y participativa, no sólo con el horizonte nacional, sino también regional. 2. Objetivos Específicos Partiendo de este objetivo general, la Maestría se propone como objetivos específicos: • Promover la adquisición de conocimientos y el desarrollo de capacidades que contribuyan a la definición de bases conceptuales e instrumentales para la definición de políticas de actuación, así como, a la elaboración y gestión de conocimientos, documentos técnicos y planes y proyectos de transformación urbana y regional. • Contribuir al manejo activo y creativo del conocimiento como elemento fundamental en la actuación técnico-operativa y académica, para abordar los fenómenos urbanos y regionales en toda la complejidad de los ámbitos de actuación, tanto públicos como privados en los que se pretende intervenir. • Comprender la naturaleza, alcance, potencialidades y limitaciones de los procesos de planificación dentro del contexto físico - natural, tecnológico - productivo, socio – económico, político e histórico-cultural. • Adquirir un enfoque específicamente nacional, regional y latinoamericano que potencie las relaciones de cooperación con otras experiencias similares en el nivel regional, así como con otras instancias de producción académica en la materia, redes universitarias y ámbitos de cooperación.
 
 ### Perfil de egreso
 

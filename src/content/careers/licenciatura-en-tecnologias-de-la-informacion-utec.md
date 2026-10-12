@@ -59,7 +59,6 @@ La carrera cuenta con un título intermedio de **Técnico/a Superior Universitar
 
 Además del Fondo de Solidaridad, UTEC ofrece **apoyo alimenticio y de transporte** para los estudiantes.
 
-
 ## Ingreso
 
 ### Requisitos de Ingreso

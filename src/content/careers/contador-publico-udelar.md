@@ -30,7 +30,7 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Ficha Udelar'
+  - label: "Ficha Udelar"
     url: "https://udelar.edu.uy/carrera/contador-publico"
   - label: "Página oficial"
     url: "https://fcea.udelar.edu.uy/ensenanza/las-carreras-de-fcea/7538-contador-publico-2024.html"

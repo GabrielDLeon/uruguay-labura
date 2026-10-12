@@ -43,11 +43,11 @@ updatedAt: "2026-09-14 00:00:00"
 
 Estipendio mensual directo al becario, según la modalidad (montos fijados por resolución, valores 2026):
 
-| Modalidad | Estipendio mensual | Duración |
-|---|---|---|
-| Maestría nacional | $36.319 (2026) | hasta 24 meses |
-| Doctorado nacional | $59.486 (2026) | hasta 36 meses (hasta 48 en casos excepcionales) |
-| Posdoctorado nacional | hasta $67.995 (aporte de ANII) | hasta 24 meses |
+| Modalidad                | Estipendio mensual                 | Duración                                         |
+| ------------------------ | ---------------------------------- | ------------------------------------------------ |
+| Maestría nacional        | $36.319 (2026)                     | hasta 24 meses                                   |
+| Doctorado nacional       | $59.486 (2026)                     | hasta 36 meses (hasta 48 en casos excepcionales) |
+| Posdoctorado nacional    | hasta $67.995 (aporte de ANII)     | hasta 24 meses                                   |
 | Doctorado en el exterior | variable, según destino y convenio | hasta 36 meses (hasta 48 en casos excepcionales) |
 
 - Los montos se actualizan cada año por resolución (valores 2026 según Bases 2026).

@@ -25,14 +25,14 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=54'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=54'
-  - label: 'Plan y malla curricular (PDF, Facultad de Psicología)'
-    url: 'https://www.psico.edu.uy/sites/default/files/2025-02/Plan%20y%20malla%20curricular%20de%20la%20MDIPP%20con%20ajustes%202017.pdf'
-  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
-    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=54"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=54"
+  - label: "Plan y malla curricular (PDF, Facultad de Psicología)"
+    url: "https://www.psico.edu.uy/sites/default/files/2025-02/Plan%20y%20malla%20curricular%20de%20la%20MDIPP%20con%20ajustes%202017.pdf"
+  - label: "Postulaciones – Bedelía de Posgrados (FCS)"
+    url: "https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
 ---
 
 ## Resumen

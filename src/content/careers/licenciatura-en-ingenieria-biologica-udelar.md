@@ -29,12 +29,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial FING'
-    url: 'https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA'
-  - label: 'Sitio web de la carrera'
-    url: 'http://ingenieriabiologica.cup.edu.uy'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA'
+  - label: "Página oficial FING"
+    url: "https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA"
+  - label: "Sitio web de la carrera"
+    url: "http://ingenieriabiologica.cup.edu.uy"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.fing.edu.uy/carrera/grado/lic-en-ingenier%C3%ADa-biol%C3%B3gica-salto-y-paysand%C3%BA"
 ---
 
 ## Resumen

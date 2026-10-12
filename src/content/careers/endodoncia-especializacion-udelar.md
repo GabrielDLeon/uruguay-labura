@@ -24,18 +24,19 @@ tags:
   - endodoncia
   - salud-bucal
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=2
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=2
-  - label: 'Escuela de Graduados (FO)'
+  - label: "Escuela de Graduados (FO)"
     url: https://odon.edu.uy/sitio/escuela-de-graduados/
-  - label: 'Programa de Endodoncia (facultad)'
+  - label: "Programa de Endodoncia (facultad)"
     url: https://drive.google.com/file/d/1X2fNV_88bku0JBIvoJfR6z_4xOvGVQGl/view
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Sobre la especialización

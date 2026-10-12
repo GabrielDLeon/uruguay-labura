@@ -29,16 +29,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://facs.ort.edu.uy/licenciatura-en-estudios-internacionales'
-  - label: 'Plan de estudios'
-    url: 'https://facs.ort.edu.uy/licenciatura-en-estudios-internacionales/plan-de-estudios'
-  - label: 'Listado de carreras universitarias'
-    url: 'https://www.ort.edu.uy/carreras-universitarias'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://facs.ort.edu.uy/licenciatura-en-estudios-internacionales"
+  - label: "Plan de estudios"
+    url: "https://facs.ort.edu.uy/licenciatura-en-estudios-internacionales/plan-de-estudios"
+  - label: "Listado de carreras universitarias"
+    url: "https://www.ort.edu.uy/carreras-universitarias"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-carreras-universitarias"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -102,11 +102,11 @@ Doble titulación con Rennes School of Business
 
 Los estudiantes de la Licenciatura en Estudios Internacionales tienen la posibilidad de obtener una doble titulación con la Rennes School of Business (Francia). El acuerdo permite que los estudiantes cursen tres años y medio en Uruguay (incluida la monografía) y luego completen un año en Francia. De esa manera pueden realizar un Master of Science de la escuela de negocios francesa.
 
-Así, en un período de cuatro años y medio, al que se le suma una pasantía a realizar en Europa (que gestiona RSB), y habiendo cumplido los estándares académicos y administrativos, los estudiantes obtendrán los títulos de Licenciado/a en Estudios Internacionales y el Master of Science in International Management con una de las siguientes especializaciones (a modo de ejemplo)*:
+Así, en un período de cuatro años y medio, al que se le suma una pasantía a realizar en Europa (que gestiona RSB), y habiendo cumplido los estándares académicos y administrativos, los estudiantes obtendrán los títulos de Licenciado/a en Estudios Internacionales y el Master of Science in International Management con una de las siguientes especializaciones (a modo de ejemplo)\*:
 
 Los cursos se dictan en inglés, por lo que es necesario tener un buen nivel en ese idioma.
 
-*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
+\*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
 
 Conocé más sobre el acuerdo.
 
@@ -137,7 +137,6 @@ El valor final de las cuotas varía en función de distintos factores, como por 
 ### Becas
 
 La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
-
 
 ## Ingreso
 

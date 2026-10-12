@@ -40,9 +40,7 @@ Serán capaces de diseñar y gestionar estrategias eficientes, innovadoras y cre
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Dirección de empresas de moda**
 
@@ -58,13 +56,11 @@ Esta materia tiene como objetivos: Comprender los principios fundamentales de la
 
 ### Julio
 
-
 **Innovación comercial y moda**
 
 Esta materia busca como objetivos: Proporcionar a los estudiantes una comprensión integral de los aspectos clave de la innovación en el ámbito comercial de la moda actual y fomentar una mentalidad innovadora y estratégica en el contexto global. Comprender las tendencias del mercado en estrategias comerciales, logrando analizarlas y anticiparlas, para identificar oportunidades de innovación. Explorar y comprender el impacto de la aplicación de tecnologías emergentes en el ámbito comercial de la moda, como el uso de la inteligencia artificial, la realidad aumentada y virtual, así como las experiencias inmersivas. Integrar principios de sostenibilidad en la gestión comercial de la moda, considerando el impacto ambiental y social de las decisiones comerciales. Desarrollar técnicas innovadoras para mejorar la experiencia del cliente en el sector de la moda en toda la estrategia comercial. Diseñar estrategias innovadoras de posicionamiento de marca, que destaquen en un mercado competitivo y en constante evolución. Adquirir habilidades analíticas para interpretar datos relevantes en la gestión de la innovación y utilizarlos en la toma de decisiones estratégicas para la gestión eficiente de la estrategia comercial. Contenidos Métodos de análisis de tendencias del mercado e identificación de oportunidades de innovación comercial. Estrategias para anticipar cambios en el mercado y adaptar la estrategia comercial. Aplicación de tecnologías emergentes: inteligencia artificial, RA y RV y experiencias inmersivas. Sostenibilidad en la gestión comercial: evaluación de impacto y buenas prácticas. Innovación en la experiencia del cliente: personalización, captación y fidelización. Gestión comercial y posicionamiento: estrategia competitiva y su adaptación ante los cambios. Desarrollo de habilidades y técnicas de análisis de datos para gestionar la innovación y la estrategia comercial.
 
 ### Julio - Setiembre
-
 
 **Diseño e innovación en modelos de negocio**
 
@@ -80,13 +76,11 @@ La materia busca incorporar el enfoque estratégico de la expansión internacion
 
 ### Setiembre
 
-
 **Electiva**
 
 Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Innovación y estrategia de tecnología Este curso busca generar habilidades para el análisis del contexto tecnológico, el desarrollo de las habilidades de innovación y las prácticas para hacer de estos un hábito del individuo y de la organización. El contexto extremadamente dinámico de cambios en la industria de tecnología requiere de habilidades para su entendimiento, aprovechamiento e innovación para permitir a cualquier organización mantenerse competitiva. El curso utiliza lecturas, análisis de casos, presentaciones y lectura independiente. Los contenidos y metodología buscan: El contacto de los estudiantes con el contexto actual tecnológico. El entendimiento de la dinámica actual de cambios y extracción de aprendizajes de los mismos. La adquisición de técnicas que fomenten la innovación y su gestión. El desarrollo de capacidades de análisis. Organización orientada al cliente El objetivo del curso es que el estudiante desarrolle un entendimiento de cómo implementar la filosofía de negocios del marketing y cómo diseñar las métricas adecuadas para evaluar la gestión del intercambio. En particular, sus objetivos son: Internalizar el concepto de Marketing como intercambio de valor entre las partes. Conocer los diferentes alcances al constructo “orientación al mercado” propuestos por la literatura. Conocer diferentes formas de implementación del concepto de marketing en las organizaciones. Entender las diferentes dimensiones implicadas en la orientación al mercado de una organización. Entender la medición como un proceso de negocios que provee retroalimentación a la organización respecto de los esfuerzos de marketing realizados, en el camino de la implementación efectiva de las estrategias definidas. Entender las diferentes dimensiones de la medición en la gestión de marketing. Conocer las diferentes métricas aplicadas en la gestión de marketing. Aprender a alinear las métricas adecuadas a las estrategias y programas definidos. Taller de creatividad e innovación en Media Lab Esta materia busca implicar y capacitar a los estudiantes para buscar activamente soluciones creativas a problemas reales, que puedan tener un impacto positivo en la sociedad, a partir de trabajo práctico en equipos multidisciplinarios. Se busca que los participantes sean capaces de: Aplicar el diseño centrado en las personas para identificar oportunidades de innovación. Asumir un rol de conocedor o experto en el campo para transformar insights en proyectos con valor económico, social, cultural, regional y medio ambiental. Implementar habilidades adquiridas y desarrolladas en materias previas para desarrollar una reflexión crítica a través del uso de herramientas, técnicas y métodos. Potenciar el desarrollo de sus habilidades blandas o Soft Skills. Redefinir tareas en una serie de ejercicios para llevar a cabo un proyecto en equipo. Desarrollar un modelo con el potencial de ser derivado a escala real. Poner en práctica una cultura de innovación al llevar a cabo experimentos y las lecciones aprendidas de múltiples intentos fallidos. Capacidad para recibir y brindar críticas constructivas en la fase de ideación. Ejercitar la habilidad de trabajar de manera colaborativa y mantener un esquema o calendario de trabajo. Tour internacional de moda y negocios A causa del dinamismo y evolución que el sector de la moda presenta cada temporada, es relevante para el perfil de graduado del Master en Gestión y Comunicación de la Moda estar al día con las últimas tendencias e innovaciones que suceden a nivel mundial, desde la perspectiva de los negocios de la industria. Adicional a las participaciones de docentes internacionales, y visitas en las clases regulares, se ofrece la posibilidad de cursar una semana en el extranjero a través de una materia electiva. Para validar esta experiencia internacional en modalidad electiva, el estudiante puede optar por cualquiera de las opciones que le ofrecerá la Universidad. A modo de ejemplo se presentan dos opciones desarrolladas actualmente. Programa intensivo en ISEM Fashion Business School (Madrid) Durante una semana el alumno podrá profundizar en conocimientos específicos sobre áreas concretas del sector. Intercalando sesiones teóricas y prácticas, el programa incluye el estudio de los modelos de negocios exitosos en España, así como también a nivel mundial. Esta actividad internacional ofrece una experiencia 360º, al contar no solo con ponencias de directivos, sino también visitas a las tras bambalinas de reconocidas empresas de moda. Fashion Business iQ: an insight into the Industry (Nueva York) Es un programa diseñado para conocer y comprender las últimas tendencias e innovaciones de la industria de la moda en los Estados Unidos. Incluye el estudio tanto de empresas estadounidenses como de empresas extranjeras con sede en el país, así como los modelos de negocios emergentes. Dictado en la sede de New York de IESE Business School, el programa incluye sesiones y conferencias impartidas por prestigiosos profesores de universidades estadounidenses, destacados oradores del sector y visitas a los HQ de alguna de las empresas líderes de la moda.
 
 ### Octubre - Diciembre
-
 
 **Gestión de proyectos para emprendedores**
 
@@ -102,13 +96,11 @@ El curso apunta a mostrar la complejidad de la distribución comercial y sus des
 
 ### Diciembre
 
-
 **Liderazgo, comunicación y negociación**
 
 Esta materia se plantea: Reflexionar sobre la necesidad y el impacto del liderazgo y trabajo colectivo en las organizaciones. Incorporar competencias generales de liderazgo y motivación de equipos de trabajo. Reconocer y desarrollar competencias que habiliten y potencien la capacidad de interactuar, motivar y liderar en situaciones no sólo “regulares”, sino también de tensión y de conflicto. Analizar tipos de liderazgo y formatos de equipos de trabajo. Reconocer los roles y mecanismos de interacción dentro de los equipos de trabajo. Entrenar la capacidad de adaptación y la flexibilidad para liderar y formar parte de un equipo en procesos cotidianos así como en procesos de cambio. Situar los criterios y las herramientas para una mejor gestión e integración en equipos de trabajo y para la negociación. Conocer el proceso de negociación y las diferentes estrategias aplicables. Incorporar la habilidad de realizar un mapa de poder en la organización y su importancia desde la gestión de la comunicación.
 
 ### Febrero - Abril
-
 
 **Caso integrador**
 

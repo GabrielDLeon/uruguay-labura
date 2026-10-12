@@ -26,7 +26,11 @@ export function parseDate(date: string | null | undefined): Date | null {
 
   const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date.trim());
   if (match) {
-    const parsed = new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
+    const parsed = new Date(
+      Number(match[1]),
+      Number(match[2]) - 1,
+      Number(match[3]),
+    );
     return Number.isNaN(parsed.getTime()) ? null : parsed;
   }
 

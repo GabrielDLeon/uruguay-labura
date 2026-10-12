@@ -27,12 +27,12 @@ draft: false
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-09-28 01:30:00"
 sources:
-  - label: 'Página oficial del programa'
-    url: 'https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-comercio-exterior/'
-  - label: 'Escuela de Desarrollo Empresarial'
-    url: 'https://ude.edu.uy/escuela-desarrollo-empresarial/'
-  - label: 'Carreras técnicas en UDE'
-    url: 'https://ude.edu.uy/carreras-tecnicas-ude/'
+  - label: "Página oficial del programa"
+    url: "https://ude.edu.uy/escuela-desarrollo-empresarial/analista-en-comercio-exterior/"
+  - label: "Escuela de Desarrollo Empresarial"
+    url: "https://ude.edu.uy/escuela-desarrollo-empresarial/"
+  - label: "Carreras técnicas en UDE"
+    url: "https://ude.edu.uy/carreras-tecnicas-ude/"
 ---
 
 ## Resumen

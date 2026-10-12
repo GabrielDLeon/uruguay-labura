@@ -28,10 +28,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-radioisotopos'
+  - label: "Página oficial"
+    url: "https://www.fmed.edu.uy/ensenanza/carreras-de-grado/tecnicatura-en-radioisotopos"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/tecnicatura-en-radioisotopos"
 ---
 
 ## Resumen

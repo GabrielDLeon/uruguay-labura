@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Licenciatura en Astronomía
 - Licenciatura en Biología Humana (interfacultades)
 - Licenciatura en Bioquímica

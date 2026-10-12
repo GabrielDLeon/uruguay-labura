@@ -85,7 +85,7 @@ La Facultad de Arquitectura mantiene convenios de intercambio con universidades 
 
 Los estudiantes tienen la posibilidad de realizar un semestre en una universidad del extranjero y cursar materias que se revalidan sin costo al regreso.
 
-*La institución de destino se reserva el derecho de otorgar la aprobación final de la admisión de los estudiantes provenientes de universidades del extranjero.
+\*La institución de destino se reserva el derecho de otorgar la aprobación final de la admisión de los estudiantes provenientes de universidades del extranjero.
 
 Talleres, clases prácticas y visitas a obras
 
@@ -111,15 +111,13 @@ Por ello, te sugerimos mantener una reunión con un asesor académico para anali
 
 ## 1.er año
 
-
 ### 1.er semestre
 
-
-**Dibujo 1***
+**Dibujo 1\***
 
 El objetivo de esta asignatura es capacitar al alumno en el empleo del dibujo sistematizado y altamente codificado, orientado específicamente a la representación del Proyecto de Arquitectura, que lo habilite a establecer una comunicación clara y precisa de sus ideas. También se busca capacitar al alumno en el control formal del espacio desarrollando destrezas en el manejo de propiedades y relaciones de las formas, incluyendo los fundamentos geométricos de la representación gráfica.
 
-**Proyecto 1***
+**Proyecto 1\***
 
 El objetivo de esta asignatura es introducir al estudiante a la comprensión de las metodologías de diseño en arquitectura. La materia procura que los estudiantes comprendan al proceso de diseño como la intersección de dos niveles de expresión, uno material y otro conceptual, y que tengan la habilidad para integrarlos en una entidad o producto cohesivo y unificado. Se busca que comprendan los principios y sistemas de orden que subyacen en todo diseño, que conozcan el marco teórico en que se dan dichos principios y sistemas, y que tengan la habilidad de aplicarlos al proceso de diseño, utilizando y potenciando adecuadamente los mecanismos de creatividad. Que tengan la habilidad para comunicar sus ideas y propuestas y de aplicar en todo momento, teorías y principios de representación y comunicación.
 
@@ -127,11 +125,11 @@ El objetivo de esta asignatura es introducir al estudiante a la comprensión de 
 
 Brinda los conocimientos básicos para comprender la interrelación entre el medio ambiente y el edificio, cómo impacta el ambiente en el edificio y viceversa. Brinda conocimientos que permiten analizar la evolución a través del tiempo de los distintos sistemas constructivos, haciendo énfasis en la relación espacio-técnica de cada período estudiado. Brinda conocimientos sobre terminología básica de construcción, a los efectos que el estudiante se familiarice con la misma y permita el entendimiento de las materias siguientes. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
 
-**Seminario de Técnicas Informáticas***
+**Seminario de Técnicas Informáticas\***
 
 Tiene como objetivos: Brindar los conocimientos y desarrollar las habilidades necesarias para construir un "prototipo digital" de edificio, al tiempo que incorporan conceptos de la Metodología BIM; como por ejemplo: conceptualizar la importancia del trabajo interdisciplinario y cooperativo, con visión a todo el ciclo de vida del edificio.
 
-**Matemática 1***
+**Matemática 1\***
 
 El objetivo de esta asignatura es conocer las nociones básicas de trigonometría, cálculo vectorial, geometría analítica, álgebra y funciones de una variable real. Nivelar conocimientos previos. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
 
@@ -141,16 +139,15 @@ El objetivo de esta asignatura es introducir al estudiante a la reflexión teór
 
 ### 2.º semestre
 
-
-**Dibujo 2***
+**Dibujo 2\***
 
 El objetivo de esta asignatura es desarrollar en el alumno la capacidad para el pensamiento analógico-visual, que lo habilite para la representación y el desarrollo de ideas arquitectónicas. Busca capacitar al alumno en el empleo de los medios de expresión idóneos para la concepción, transformación y evolución del espacio: el dibujo de ideación, el modelo tridimensional a escala, y otros medios de expresión complementarios.
 
-**Proyecto 2***
+**Proyecto 2\***
 
 Proyecto 2 Los objetivos de esta asignatura son: Iniciar al estudiante en el proceso de aprendizaje de la práctica proyectual. Formalizar una propuesta arquitectónica de complejidad moderada, vinculada al espacio individual, manejando variables funcionales y formales. Integración elemental de sistemas constructivos y estructurales. Manejo del concepto de partido, con especial énfasis en la composición del espacio interior y su relación con el exterior. Los elementos y sus agrupamientos. Desarrollo de la capacidad de comunicación del proyecto cuidando especialmente la definición geométrica y la realización de dibujos y maquetas, tanto de ideación como de comunicación. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes, y con la realización de un ejercicio de proyecto. Este ejercicio, de carácter individual, estará dirigido mediante críticas colectivas e individuales, por los profesores responsables.
 
-**Materiales de construcción***
+**Materiales de construcción\***
 
 Objetivos y metodología Brinda los conocimientos de los materiales más usados en nuestro medio, aplicables a la industria de la construcción. Describe y analiza cada material, sus propiedades, subproductos y su aplicación en la construcción. Se introduce al estudiante a un contacto directo con el material, reconociendo sus características específicas. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
 
@@ -164,9 +161,7 @@ Objetivos y metodología Estudiar las articulaciones entre el discurso teórico 
 
 ## 2.º año
 
-
 ### 3. er semestre
-
 
 **Proyecto 3**
 
@@ -176,11 +171,11 @@ Objetivos y metodología Introducir al estudiante en la problemática del diseñ
 
 Objetivos y metodología Brindar conocimientos sobre estructuras de hierro, madera y hormigón armado. Brindar conocimientos básicos de mecánica de suelos y de la interacción suelo-estructura. Analizar sistemas de fundaciones, y movimientos de tierra. Introducir al alumno en la comprensión de los procedimientos constructivos, para poder desarrollar el proyecto arquitectónico desde el punto de vista estructural. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
 
-**Acondicionamiento térmico***
+**Acondicionamiento térmico\***
 
 Objetivos y metodología Brindar los conocimientos fundamentales vinculados al acondicionamiento térmico natural y artificial en la arquitectura y a la protección contra incendio, que permitan resolver problemas prácticos de diseño en obras y que puedan ser integrados en todas las etapas del proyecto. Informar sobre la necesidad de coordinar e integrar estas instalaciones con los demás acondicionamientos y con el diseño general del proyecto. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
 
-**Estructuras 1***
+**Estructuras 1\***
 
 Objetivos y metodología Orientar y aportar instrumentos al estudiante respecto a la problemática estructural dentro de la arquitectura. Brindar los conocimientos para que el estudiante comprenda la estructura de manera de poder analizar una construcción como un sistema estable que asegure la transmisión de las cargas al suelo. Brindar los conocimientos y trasmitir las capacidades para reconocer los esfuerzos de las estructuras, procesarlos y graficarlos en diagramas de solicitaciones. Capacitar al estudiante para dimensionar los elementos simples que componen las estructuras, con materiales homogéneos, en particular, acero o madera. El curso se estructura con clases teóricas y clases prácticas.
 
@@ -190,7 +185,6 @@ Objetivos y metodología Dotar al estudiante de la dimensión histórica en el c
 
 ### 4.º semestre
 
-
 **Proyecto 4**
 
 Objetivos y metodología Introducir al estudiante en la problemática del diseño arquitectónico referido a aspectos elementales de inserción urbana y de relacionamiento con el contexto así como a la comprensión, análisis y desarrollo de programas arquitectónicos de baja complejidad funcional. La materia procura que los estudiantes comprendan los procesos de implantación urbana como resultado de sus reflexiones en cuanto al sitio. Que comprendan el análisis programático y funcional como síntesis del conocimiento abstracto de las actividades humanas. Que tengan la habilidad de realizar procesos de generación formal en arquitectura con referencia a ideas y conocimientos. Que comprendan los temas vinculados a la significación y contenido en sus propuestas arquitectónicas. Que tengan la habilidad para analizar la generación del espacio arquitectónico a nivel interno y externo. Que tengan la habilidad para seleccionar las tecnologías constructivas que mejor se adapten a sus propuestas arquitectónicas. Que tengan la habilidad para desarrollar un pensamiento reflexivo y crítico en observaciones y discusiones sobre la propia arquitectura. El curso se estructura con clases teóricas, generales y aplicadas, a fin de presentar conocimientos y apoyar el desarrollo de habilidades de observación, análisis y síntesis; y con la realización de trabajos en grupo e individuales dirigidos por los profesores responsables mediante críticas individuales y colectivas.
@@ -199,11 +193,11 @@ Objetivos y metodología Introducir al estudiante en la problemática del diseñ
 
 Objetivos Brindar conocimientos sobre los sistemas constructivos tradicionales y no tradicionales de las envolventes de los edificios: cerramientos, particiones y acabados, requeridas para el funcionamiento del edificio de acuerdo al destino del mismo y al medio ambiente en el que se implanta. Comprender el impacto que produce la aplicación de cada sistema constructivo en el espacio edificado y en el medio ambiente. El curso se estructura con clases teóricas generales para todos los estudiantes y clases prácticas individuales y en grupo.
 
-**Acondicionamiento acústico***
+**Acondicionamiento acústico\***
 
 Objetivos y metodología El objetivo del curso es brindar los conocimientos fundamentales vinculados a la acústica arquitectónica que permitan resolver problemas prácticos de diseño en obras y que puedan ser integrados en todas las etapas del proyecto. También busca informar sobre la necesidad de coordinar e integrar estos temas con los demás acondicionamientos en el contexto del diseño general del proyecto. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
 
-**Acondicionamiento sanitario***
+**Acondicionamiento sanitario\***
 
 Objetivos y metodología Impartir conocimientos sobre las instalaciones sanitarias internas de los edificios incluyendo abastecimiento de agua fría y caliente, desagües sanitarios y pluviales y red de incendio con la finalidad de que el alumno pueda proyectar estas instalaciones en viviendas individuales y colectivas de complejidad media sin recurrir a un técnico sanitario o un ingeniero. Brindar los conocimientos para poder interactuar con asesores sanitarios en proyectos de mayor envergadura. Capacitar al alumno para supervisar la ejecución de obras de sanitaria interna.
 
@@ -217,9 +211,7 @@ Objetivos y metodología Brindar al estudiante los conocimientos de historia, te
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Proyecto 5**
 
@@ -229,11 +221,11 @@ Objetivos y metodología Desarrollar habilidades para organizar metodologías de
 
 Objetivos y metodología Desarrollar habilidades en Construcción Tradicional para interrelacionar y sintetizar conocimientos técnicos adquiridos en las diferentes materias del área tecnológica. Ejercitar la aplicación de los conocimientos y habilidades en la envolvente del edificio, para entender el cerramiento exterior como piel de resolución constructiva de los acondicionamientos. Desarrollar habilidades para el análisis y la materialización de dispositivos y detalles constructivos en relación a los requerimientos formales, técnicas constructivas y el entorno de aplicación; para garantizar la durabilidad proyectada. Analizar la evolución en el tiempo de materiales y procedimientos constructivos a través del conocimiento de su composición (física, química, etc). Analizar las posibilidades de su recuperación. Analizar y reconocer las tipologías, las técnicas y los procedimientos constructivos tradicionales en Edificaciones Pre-existentes. Reconocer las lesiones y sintomatologías frecuentes en los diferentes elementos constructivos y principales materiales de construcción en edificios pre-existentes. Adquirir un método como herramienta para el relevamiento, diagnóstico y tratamiento de lesiones en los edificios. El curso se estructura en dictado de clases teóricas generales y trabajos prácticos en grupos.
 
-**Acondicionamiento eléctrico***
+**Acondicionamiento eléctrico\***
 
 Objetivos y metodología Brindar los conocimientos fundamentales vinculados al Acondicionamiento Eléctrico y las Tensiones Débiles en la Arquitectura. Desarrollar habilidades para incorporar estos conocimientos en el proceso de diseño. Comunicar la necesidad de coordinar e integrar estas Instalaciones con el Proyecto de Diseño y los demás acondicionamientos. Capacitar al estudiante para desarrollar un Proyecto Primario de Instalaciones Eléctricas de mediana complejidad. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas a obras.
 
-**Acondicionamiento lumínico***
+**Acondicionamiento lumínico\***
 
 Objetivos y metodología Brindar los conocimientos fundamentales vinculados al acondicionamiento lumínico en la arquitectura que permitan resolver problemas prácticos de diseño y que puedan ser integrados en todas las etapas del proyecto. Informar sobre la necesidad de coordinar e integrar estas instalaciones con los demás acondicionamientos y con el diseño general del proyecto. El curso se estructura sobre la base de clases teóricas, investigación y lecturas independientes, y un proyecto semestral tutorado.
 
@@ -247,7 +239,6 @@ Objetivos y metodología Profundizar en el análisis crítico de la producción 
 
 ### 6.º semestre
 
-
 **Proyecto 6**
 
 Objetivos y metodología Desarrollar habilidades para organizar metodologías de diseño lógicas, aplicables a la resolución de problemas arquitectónicos de escala y complejidad intermedia. La materia procura que los estudiantes tengan la habilidad de analizar, evaluar e integrar al proceso de diseño las exigencias derivadas del contexto natural y artificial así como de los aspectos de regulación urbana. Que tengan la habilidad para analizar e integrar las necesidades y aspiraciones de usuarios y del contexto social y cultural, y de usar la teoría y la historia de la arquitectura en el análisis y producción de objetos arquitectónicos. Que tengan la habilidad para evaluar y seleccionar sistemas estructurales, constructivos y de instalaciones, y de realizar estimaciones de costos. Que tengan la habilidad para comunicar sus ideas y propuestas, en las diferentes etapas del proceso de diseño, usando la variedad de técnicas disponibles, incluyendo las informáticas. El curso se estructura con clases teóricas, generales y aplicadas, a fin de presentar conocimientos y apoyar el desarrollo de habilidades de observación, análisis y síntesis; y con la realización de trabajos en grupo e individuales dirigidos por los profesores responsables mediante críticas individuales y colectivas.
@@ -260,7 +251,7 @@ Objetivos y metodología Comprender los principios, estándares, aplicaciones y 
 
 El propósito de esta materia es brindar a los futuros profesionales, criterios de diseño y cálculo de instalaciones de energía solar, eólica, biomasa y geotermia para la generación de energía térmica y eléctrica aplicados a proyectos arquitectónicos. Se trabaja por medio de clases expositivas, brindadas por un equipo docente con experiencia probada en el campo de las energías renovables, se requerirá continuamente la participación de los alumnos para que el grupo descubra/deduzca los conceptos base. Se recurre a material de apoyo como elementos audiovisuales y casos de estudio y publicaciones especializadas. Se contará con material didáctico específico para el curso.
 
-**Electiva 1***
+**Electiva 1\***
 
 Las materias electivas se presentan a título de ejemplo. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Diseño Taller de Arquitectura y Arte Diseño Bioclimático Técnicas de Expresión Gráfica Diseño y Comunicación Visual 1 Tecnología Taller de Rehabilitación Edilicia Técnicas de Construcción Introducción a los Desarrollos Inmobiliarios Estructuras 5 Ciencias sociales y humanas Trabajo de Extensión Trabajo de Investigación 1 y 2 Criterios de Intervención en el Patrimonio Cultural Tópicos Avanzados en Arquitectura 1, 2, 3, 4 y 5 Pasantía laboral
 
@@ -270,9 +261,7 @@ Objetivos y metodología Brindar al estudiante una síntesis de la problemática
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Proyecto 7**
 
@@ -282,7 +271,7 @@ Objetivos y metodología Desarrollar conocimientos y habilidades que permitan in
 
 Objetivos: Brindar los conocimientos para que el alumno elabore presupuestos y programas de obra de un proyecto de construcción pública y/o privada. Capacitar al estudiante para: conocer y explicar el proceso de desarrollo de un proyecto de construcción; explicar la importancia y necesidad de desarrollar un proceso racional para la ejecución de estas funciones y analizar los requerimientos y características de un proyecto. Capacitar al estudiante, a partir de la definición del proyecto o tarea, para analizar la información del proyecto, y realice la subdivisión del mismo en actividades y eventos. Capacitar al estudiante, una vez realizado el ordenamiento de las actividades, para estimar la duración y costo de las actividades.
 
-**Electiva 2***
+**Electiva 2\***
 
 Las materias electivas se presentan a título de ejemplo. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Diseño Taller de Arquitectura y Arte Diseño Bioclimático Técnicas de Expresión Gráfica Diseño y Comunicación Visual 1 Tecnología Taller de Rehabilitación Edilicia Técnicas de Construcción Introducción a los Desarrollos Inmobiliarios Estructuras 5 Ciencias sociales y humanas Trabajo de Extensión Trabajo de Investigación 1 y 2 Criterios de Intervención en el Patrimonio Cultural Tópicos Avanzados en Arquitectura 1, 2, 3, 4 y 5 Pasantía laboral
 
@@ -295,7 +284,6 @@ Objetivos y metodología Brindar al estudiante conocimientos sobre el fenómeno 
 Objetivos y metodología Desarrollar la capacidad crítica del estudiante mediante tratamiento de tópicos orientados a unificar la diversidad temática de las materias del área humanística y aportar a la integración de saberes provenientes de las otras áreas curriculares. La materia se estructura en base a exposiciones de docentes y de los propios estudiantes, de forma individual y colectiva, sobre aspectos totales o parciales de los tópicos tratados. Los temas variarán en el tiempo y serán elegidos y desarrollados a fin de permitir que el estudiante construya visiones globales, que consideren diversos enfoques. En los años 2011, 2012 y 2013 el tema desarrollado fue: “Arquitectura Contemporánea en la región, articulaciones con la globalización”.
 
 ### 8.º semestre
-
 
 **Proyecto 8**
 
@@ -313,15 +301,13 @@ Objetivos y metodología Brindar conocimientos al estudiante sobre los nuevos pr
 
 Objetivos y metodología Poner en contacto al alumno con la noción de ambiente como sistema y su caracterización espacio-temporal. Analizar la relación del hombre con su espacio dinámico de soporte y definir las interacciones mutuas, producto general de la cultura y particular de las tecnologías disponibles. Introducir el concepto de gestión y gestión sustentable. Revisar las normas e instituciones que regulan la actividad y relacionarlas con el ejercicio de la profesión de Arquitecto y Urbanista en el Uruguay contemporáneo. Incorporar conceptos actualizados acerca del ambiente y sus conflictos y de los efectos generados en él por las distintas actividades humanas. Se analizará también el concepto de gestión ambiental y las normas e instituciones públicas y privadas involucradas en la misma en el país y en países en los que la gestión ambiental se encuentra en un mayor nivel de avance.
 
-**Electiva 3***
+**Electiva 3\***
 
 Las materias electivas se presentan a título de ejemplo. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Diseño Taller de Arquitectura y Arte Diseño Bioclimático Técnicas de Expresión Gráfica Diseño y Comunicación Visual 1 Tecnología Taller de Rehabilitación Edilicia Técnicas de Construcción Introducción a los Desarrollos Inmobiliarios Estructuras 5 Ciencias sociales y humanas Trabajo de Extensión Trabajo de Investigación 1 y 2 Criterios de Intervención en el Patrimonio Cultural Tópicos Avanzados en Arquitectura 1, 2, 3, 4 y 5 Pasantía laboral
 
 ## 5.º año
 
-
 ### 9.º semestre
-
 
 **Proyecto 9**
 
@@ -340,7 +326,6 @@ Objetivos y metodología El objetivo del curso es recorrer con el alumno el cami
 Objetivos y metodología Introducir al estudiante al uso práctico de técnicas y métodos de investigación en historia y teoría de la arquitectura a través de la confección de un plan de trabajo y un estudio bibliográfico, en el que se hace énfasis en los aspectos metodológicos. Brindar conocimientos sobre metodologías de investigación en historia y teoría de la arquitectura, y en ciencias sociales. Discutir aspectos generales de la organización del trabajo y del manejo de bibliografía, así como criterios generales para la selección de temas. Al final del semestre, cada equipo, de tres estudiantes como máximo, debe haber definido conjuntamente con el profesor titular el tema de la monografía, su justificación, el tutor, una lista de referencias bibliográficas, y un plan de trabajo (que incluye la pregunta de investigación). El trabajo propiamente dicho se llevará a cabo en el semestre siguiente, en la Memoria Fin de Carrera.
 
 ### 10.º semestre
-
 
 **Proyecto fin de carrera**
 

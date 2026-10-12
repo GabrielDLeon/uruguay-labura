@@ -56,9 +56,7 @@ A lo largo de la carrera los estudiantes cursan talleres donde se presentan dife
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Pensamiento computacional**
 
@@ -70,7 +68,6 @@ A través de actividades teórico-prácticas, el estudiante adquiere conocimient
 
 ### 2.º semestre
 
-
 **Fundamentos de ciberseguridad**
 
 Materia dedicada a concientizar tempranamente en temas de seguridad informática y de la información. Presenta al estudiante los conceptos, terminología, tipos de amenazas y vías a través de las cuales un ataque puede comprometer la operación o el contenido de una red corporativa. A su vez, introduce los paradigmas que permiten construir soluciones empresariales robustas y seguras, de alta demanda.
@@ -81,9 +78,7 @@ Durante el curso el estudiante aprende cómo las organizaciones intercambian inf
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Administración de servidores Linux**
 
@@ -95,7 +90,6 @@ Además de la administración del sistema operativo y los servicios de red, las 
 
 ### 4.º semestre
 
-
 **Programación para DevOps**
 
 Enseña a programar shell scripts para aprovechar toda la potencia de los sistemas operativos Linux, automatizando configuraciones y operaciones, mejorando el rendimiento, la gestión remota y simplificando las tareas de administración. Durante el curso, el estudiante aprenderá la estructura del shell de Linux, su ambiente y principales características, y los fundamentos del scripting en el shell bash. Realizará operaciones aritméticas en shell scripts, creará scripts interactivos e incorporará diferentes funciones tales como el control de flujo y la toma de decisiones. El curso contempla también una introducción a las sentencias y sintaxis de Python, un poderoso lenguaje de scripting de uso extendido en la administración de sistemas, la creación de sitios web y el desarrollo de aplicaciones móviles.
@@ -106,9 +100,7 @@ Con énfasis en Ethernet, aborda el estudio de la topología de redes, los proto
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Implementación de soluciones cloud**
 
@@ -123,7 +115,6 @@ En esta materia se profundiza en el desarrollo de capacidades prácticas de dise
 La tecnología inalámbrica es una opción flexible de conexión punto-punto y punto-multipunto, de costo razonable. El curso capacita al estudiante en la aplicación de los diferentes tipos de antenas, en cálculo de enlaces y en herramientas de software de última generación para el relevamiento y la proyección de áreas de cobertura, con el fin de asegurar un diseño óptimo de la red. Las prácticas de laboratorio son realizadas empleando un sistema auto gestionado, con Controlador y varios Access Point Ruckus.
 
 ### 6.º semestre
-
 
 **Seguridad en redes y datos**
 
@@ -147,7 +138,7 @@ Presencial con virtualidad La carrera de dicta mayoritariamente en formato prese
 
 ## Duración y horarios (detalle)
 
-Duración 3 años. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 Nocturno: lunes a jueves de 19:30 a 22:30. * Semestre 1 y 2: tres días a la semana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 3 años. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 Nocturno: lunes a jueves de 19:30 a 22:30. \* Semestre 1 y 2: tres días a la semana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ## Títulos y reconocimientos
 

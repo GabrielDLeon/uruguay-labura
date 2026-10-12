@@ -54,9 +54,7 @@ A lo largo de la carrera los estudiantes tienen talleres en los que se presentan
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Pensamiento computacional**
 
@@ -68,7 +66,6 @@ A través de actividades teórico-prácticas, el estudiante adquiere conocimient
 
 ### 2.º semestre
 
-
 **Fundamentos de ciberseguridad**
 
 Materia dedicada a concientizar tempranamente en temas de seguridad informática y de la información. Presenta al estudiante los conceptos, terminología, tipos de amenazas y vías a través de las cuales un ataque puede comprometer la operación o el contenido de una red corporativa. A su vez, introduce los paradigmas que permiten construir soluciones empresariales robustas y seguras, de alta demanda.
@@ -79,9 +76,7 @@ Durante el curso el estudiante aprende cómo las organizaciones intercambian inf
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Administración de servidores Linux**
 
@@ -92,7 +87,6 @@ El sistema operativo Linux está presente en la mayoría de las empresas por sus
 Además de la administración del sistema operativo y los servicios de red, las empresas utilizan la infraestructura para ejecutar aplicaciones de producción y de gestión. Presenta los conceptos y capacita para instalar y administrar aplicaciones de servidores de uso extendido en las empresas, como servicio de correo electrónico y de administración de bases de datos, entre otros (SQL, Exchange). Al culminar el curso, el estudiante está capacitado para administrar redes y aplicaciones Windows.
 
 ### 4.º semestre
-
 
 **Programación para DevOps**
 
@@ -112,7 +106,7 @@ Presencial con virtualidad. La carrera se dicta mayoritariamente en formato pres
 
 ## Duración y horarios (detalle)
 
-Duración 2 años. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 Nocturno: lunes a jueves de 19:30 a 22:30. * Semestre 1 y 2: tres días a la semana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 2 años. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 Nocturno: lunes a jueves de 19:30 a 22:30. \* Semestre 1 y 2: tres días a la semana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ## Títulos y reconocimientos
 

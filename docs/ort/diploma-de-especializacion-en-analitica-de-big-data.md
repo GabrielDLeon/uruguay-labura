@@ -55,9 +55,7 @@ Los cursos del Diploma de Especialización en Analítica de Big Data forman part
 
 ## 1.er año
 
-
 ### Semestre 1
-
 
 **Técnicas de machine learning para análisis de datos**
 
@@ -72,7 +70,6 @@ El objetivo de este curso es estudiar distintos paradigmas de bases de datos. Lo
 Este curso tiene por objetivo general que los estudiantes integren los conceptos clave de la analítica de datos: qué implica generar ventajas competitivas a partir de los datos y cómo aplicar técnicas de inteligencia artificial y análisis de datos para la resolución de problemas de negocio. En este sentido, se buscará que los estudiantes puedan diferenciar y emplear los diferentes conceptos vinculados a la analítica de datos: ciencia de datos, metodologías, roles, tecnologías y técnicas de modelado. Por último, se busca que los participantes del curso puedan desarrollar las competencias prácticas para integrar el análisis de datos a la toma de decisiones, como método de resolución de problemas comunes con abordajes innovadores. En este sentido, el curso tendrá un abordaje teórico práctico, en el cual los estudiantes puedan ir aplicando los fundamentos de análisis de datos cubiertos en casos de negocio y datos reales, desde el entendimiento del problema, a la extracción de insights accionables a partir de los datos.
 
 ### Semestre 2
-
 
 **Deep learning aplicado al análisis de datos**
 

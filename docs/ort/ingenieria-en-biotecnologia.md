@@ -64,9 +64,7 @@ Por medio de convenios con instituciones como el Laboratorio Tecnológico del Ur
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Matemática 1**
 
@@ -89,7 +87,6 @@ Presenta una introducción a las técnicas y aplicaciones vinculadas a la utiliz
 Introduce al alumno a los aspectos principales del trabajo en laboratorio, enfatizando las normas de seguridad, correcta manipulación, uso de equipos básicos de laboratorio (ph-metro, balanzas, centrífuga, espectrofotómetro) y registro y procesamiento de datos. Se pretende que el alumno desarrolle destreza en el manejo práctico, así como ejercitar aspectos relacionados con la estructura de la materia, nomenclatura, estequiometria de las reacciones, pH y su medición, soluciones amortiguadoras, titulaciones, equilibrio químico y cinética química.
 
 ### 2.° semestre
-
 
 **Matemática 2**
 
@@ -117,9 +114,7 @@ Estudia las bases químicas y fisicoquímicas del comportamiento de las diferent
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Probabilidad y estadística**
 
@@ -147,7 +142,6 @@ Familiariza al alumno con los sistemas de medición y observación clásicos uti
 
 ### 4.º semestre
 
-
 **Matemática 3**
 
 Presentan los conceptos básicos del álgebra lineal, cálculo integral y diferencial, expansión en series, funciones de varias variables, ecuaciones diferenciales ordinarias y su resolución, así como una introducción a las ecuaciones diferenciales en derivadas parciales.
@@ -174,9 +168,7 @@ Integrar aspectos fundamentales y aplicados de la enzimología moderna desde un 
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Programación**
 
@@ -199,7 +191,6 @@ La asignatura estudia el transporte de movimiento, calor y materia, impulsado po
 Se presentan los aspectos centrales de la gestión estratégica de las empresas y su funcionamiento, profundizando en la naturaleza de la estrategia competitiva y la forma de implementarla de manera exitosa a través de modelos sustentables de negocio.
 
 ### 6.º semestre
-
 
 **Bioinformática 1**
 
@@ -227,9 +218,7 @@ Esta asignatura presenta las diferentes metodologías instrumentales cuali y cua
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Bioinformática 2**
 
@@ -257,7 +246,6 @@ Curso práctico que permite al estudiante adquirir la capacidad y destrezas téc
 
 ### 8.º semestre
 
-
 **Agrobiotecnologías**
 
 Introduce las principales tecnologías implicadas en la moderna agrobiotecnología, las tendencias y las perspectivas de desarrollo. Trata el impacto de las biotecnologías en el sector agropecuario a nivel internacional y nacional, y la relación de la biotecnología con la agricultura sustentable. Se presentan técnicas básicas para el cultivo de tejidos vegetales y la regeneración de plantas in vitro, así como la organización del laboratorio, su montaje y el costeo de la producción, enfatizando la producción masiva de microplantas. También se presentan aplicaciones de la tecnología de manipulación genética para el desarrollo de cultivos con tolerancia a herbicidas y resistencia al daño causado por insectos. Se estudia la realización de pruebas de campo con plantas transgénicas bajo condiciones de bioseguridad y los procesos para la liberación comercial de plantas transgénicas. Se analizan las aplicaciones de la tecnología de marcadores moleculares en el mejoramiento genético de plantas y animales de interés agropecuario, así como la identificación genética aplicada en procesos de trazabilidad de productos vegetales y animales.
@@ -280,9 +268,7 @@ El laboratorio plantea una secuencia de trabajo que se inicia con el desarrollo 
 
 ## 5.º año
 
-
 ### 9.º semestre
-
 
 **Pasantía o Electiva**
 
@@ -297,7 +283,6 @@ Tiene como objetivo presentar, formar y confrontar al futuro graduado con los as
 Presenta conceptos generales sobre los virus y la estructura viral. Trata la relación virus-célula, la multiplicación viral, interferencia, evolución y genética viral. Estudia la inmunología viral, la transformación de células inducida por virus y las familias virales. Presenta la genética molecular de virus y los métodos de diagnóstico viral.
 
 ### 10.° semestre
-
 
 **Vacunas**
 

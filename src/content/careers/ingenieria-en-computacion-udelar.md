@@ -29,10 +29,10 @@ draft: false
 createdAt: "2026-06-01 00:29:35"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/ingenieria-en-computacion'
-  - label: 'Facultad de Ingeniería'
-    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-en-computaci%C3%B3n'
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/ingenieria-en-computacion"
+  - label: "Facultad de Ingeniería"
+    url: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-en-computaci%C3%B3n"
 ---
 
 ## Resumen

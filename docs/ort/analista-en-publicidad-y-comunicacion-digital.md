@@ -44,9 +44,7 @@ Por medio de una capacitación que abarca el estudio teórico y práctico de las
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Expresión oral y escrita**
 
@@ -66,7 +64,6 @@ Esta asignatura apunta a introducir al estudiante en el mundo de los medios digi
 
 ### 2.° semestre
 
-
 **Redacción para plataformas digitales**
 
 Entrena en la redacción estratégica para organizaciones de diversa naturaleza, con énfasis en los formatos y géneros más usados en soportes digitales “tradicionales” (como la web institucional) y en los soportes más novedosos e interactivos. Especial foco en los rasgos y las características que distinguen la redacción para los “nuevos medios” de escrituras destinadas a soportes y medios tradicionales (folletería impresa y artículos para medios masivos, entre otros). Imparte los conocimientos necesarios para reconocer y diseñar campañas de comunicación y relaciones públicas para redes sociales.
@@ -85,9 +82,7 @@ Define lo que es un proyecto en social media y los principios básicos de gesti�
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Redacción institucional**
 
@@ -106,7 +101,6 @@ Expone y ejercita técnicas y metodologías diversas de creación para desarroll
 Se presentan herramientas para la investigación online, construcción de sistemas de escucha en las redes, búsqueda de fuentes relevantes y de influenciadores, sistemas de inteligencia competitiva y vigilancia tecnológica, metodologías de evaluación de usabilidad, métricas y sistemas de medición de KPIs.
 
 ### 4.° semestre
-
 
 **Generación de contenidos digitales**
 

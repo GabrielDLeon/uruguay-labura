@@ -3,6 +3,7 @@
 La Udelar ofrece más de 30 programas de doctorado. Se listan los principales:
 
 ## Área de Tecnologías y Ciencias de la Naturaleza y el Hábitat
+
 - Doctorado en Arquitectura (FADU)
 - Doctorado en Biotecnología (Facultad de Ciencias)
 - Doctorado en Ciencias Agrarias (Facultad de Agronomía)
@@ -26,10 +27,12 @@ La Udelar ofrece más de 30 programas de doctorado. Se listan los principales:
 - Doctorado en Salud Animal (Facultad de Veterinaria)
 
 ## Área de la Salud
+
 - Doctorado en Psicología (Facultad de Psicología)
 - Doctorado en Ciencias Biomédicas (Facultad de Medicina)
 
 ## Área Social y Artística
+
 - Doctorado en Antropología, Educación, Filosofía, Historia, Letras, Lingüística (FHCE)
 - Doctorado en Ciencia Política (Facultad de Ciencias Sociales)
 - Doctorado en Ciencias Sociales (Facultad de Ciencias Sociales) — con especializaciones en Historia Económica, Población, Trabajo Social

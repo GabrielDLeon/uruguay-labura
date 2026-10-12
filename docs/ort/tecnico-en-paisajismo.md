@@ -54,9 +54,7 @@ Las clases remotas contarán con videoconferencias y contenidos online que estar
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Historia**
 
@@ -76,7 +74,6 @@ Jardín Softscape En esta asignatura el estudiante: Aprenderá los principios co
 
 ### 2.° semestre
 
-
 **Procedimientos constructivos**
 
 ¿Cómo construir un jardín? Introducción a los materiales y sistemas constructivos aplicados a los espacios exteriores. Suelos y césped. Subcontratos: movimiento de tierra, riego, iluminación.
@@ -95,9 +92,7 @@ Jardín Hardscape Esta asignatura está enfocada en el diseño de terrazas, balc
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Gestión**
 
@@ -116,7 +111,6 @@ Vivienda suburbana Esta materia estará dedicada a los procesos que intervienen 
 Mantenimiento de jardines. Desarrollo de tareas de mantenimiento anual de los jardines.
 
 ### 4.° semestre
-
 
 **Proyecto integrador**
 

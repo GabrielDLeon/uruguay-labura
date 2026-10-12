@@ -50,16 +50,13 @@ Con eventos de networking y de formación continua, potencia la carrera de sus e
 
 ## 1.er año
 
-
 ### Julio – Setiembre
-
 
 **Introducción a la contabilidad financiera**
 
 Presenta los términos y conceptos básicos de contabilidad financiera evidenciando cómo los sistemas contables se utilizan para registrar las actividades económicas diarias de un negocio. Expone a los participantes a los estados contables que las organizaciones utilizan para describir sus negocios y se aproxima a su desempeño a través de ratios. Diseñado y administrado por Harvard University, se brinda con el soporte académico del cuerpo docente local.
 
 **Introducción a métodos cuantitativos**
-
 
 **Taller de comunicación efectiva**
 
@@ -79,7 +76,6 @@ Presenta los fundamentos de contabilidad financiera necesarios para la toma de d
 
 ### Octubre – Diciembre
 
-
 **Supply chain Management**
 
 Desarrolla una visión estratégica y práctica de las operaciones tanto de producción como de servicios, de forma tal de crear, apoyar y sostener la propuesta de valor y las ventajas competitivas de la organización. Brinda conceptos y metodologías para la optimización del uso de los recursos y para el control de costos e inversiones.
@@ -94,16 +90,13 @@ Provee conocimientos y desarrolla habilidades en metodologías y técnicas de an
 
 ### Diciembre (intensivo)
 
-
 **Taller de trabajo en equipo**
 
 A través del aprendizaje experimental se fundamenta la transferencia de conocimientos y experiencias mediante la aplicación de dinámicas de grupo para la conformación de equipos de alto rendimiento en un marco creativo, dinámico, interactivo y divertido.
 
 ## 2.do año
 
-
 ### Febrero – Abril
-
 
 **Liderazgo estratégico**
 
@@ -118,7 +111,6 @@ Prepara para interpretar y analizar integral y estratégicamente los reportes fi
 Introduce los principios económicos relevantes para la dirección estratégica. Estos principios brindan una visión integradora de las aportaciones conceptuales de otras áreas del conocimiento (como marketing, finanzas, operaciones y estrategia) en la toma de decisiones gerenciales.
 
 ### Abril – Junio
-
 
 **Modelos de negocios e innovación**
 
@@ -142,13 +134,11 @@ Debe elegir 5 materias electivas. Si escoge 3 o más de la misma área obtiene e
 
 ### Junio (intensivo)
 
-
 **Decisiones en entornos complejos**
 
 A partir de las mejores prácticas de consultoría y utilizando metodologías de toma de decisiones, los estudiantes profundizan y desarrollan sus habilidades profesionales: resolver problemas complejos y no estructurados, gestionar proyectos y equipos, y comunicar y persuadir.
 
 ### Julio – Setiembre
-
 
 **Simulación estratégica competitiva**
 
@@ -168,23 +158,19 @@ Debe elegir 5 materias electivas. Si escoge 3 o más de la misma área obtiene e
 
 ### Octubre – Diciembre
 
-
 **Innovación, tecnología y negocios**
 
 Explora cómo las tecnologías digitales transforman industrias, modelos de negocio y la forma en que las organizaciones crean valor. Introduce marcos para comprender tendencias tecnológicas, evaluar alternativas de adopción y analizar el potencial de innovaciones como IA, cloud, IoT o blockchain. El curso desarrolla la capacidad de anticipar escenarios, identificar oportunidades y gestionar los desafíos estratégicos, culturales y organizacionales asociados a la innovación tecnológica.
 
 **Electiva 5**
 
-
 ### Febrero – Abril
-
 
 **Plan de negocios (semipresencial)**
 
 Aborda la definición, la estrategia de implementación, y el análisis de viabilidad económico-financiera y comercial de un proyecto real de negocios, elaborado por los participantes bajo la supervisión metodológica de tutores experimentados en este tipo de proyectos. Integra y somete a la realidad los conceptos y métodos desarrollados a lo largo del MBA.
 
 ### Intercambios
-
 
 **Doble titulación: Florida International University**
 

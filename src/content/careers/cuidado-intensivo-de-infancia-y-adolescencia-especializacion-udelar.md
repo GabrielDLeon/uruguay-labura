@@ -24,16 +24,17 @@ tags:
   - pediatria
   - ninos-y-adolescentes
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=94
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=94
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -47,8 +48,8 @@ El Especialista está capacitado para: Brindar un cuidado integral y sistematiza
 ### Plan de estudios
 
 - **Créditos:** 60.
-Esta Especialidad se desarrollará en el Centro de Postgrado de la Facultad de Enfermería, con un total de 900 horas correspondientes a 60 créditos. De este total de créditos, 24 corresponden a la carga teórica y 36 créditos a la experiencia práctica, distribuidos en 360 teóricas (40%) y 540 hs (60%) prácticas, respectivamente.
-225 horas Teóricas de contenidos propios de la Especialidad; 15 créditos. 15 horas Metodología Científica y Herramientas para la búsqueda de evidencias científicas y procesamiento de datos; 1 crédito 15 horas Administración; 1 crédito. 15 horas Bioética; 1 crédito. 15 horas Epidemiología; 1 crédito. 30 horas Salud mental; 2 créditos. 540 horas Prácticas; 36 créditos 45 horas Trabajo Final; 3 créditos
+  Esta Especialidad se desarrollará en el Centro de Postgrado de la Facultad de Enfermería, con un total de 900 horas correspondientes a 60 créditos. De este total de créditos, 24 corresponden a la carga teórica y 36 créditos a la experiencia práctica, distribuidos en 360 teóricas (40%) y 540 hs (60%) prácticas, respectivamente.
+  225 horas Teóricas de contenidos propios de la Especialidad; 15 créditos. 15 horas Metodología Científica y Herramientas para la búsqueda de evidencias científicas y procesamiento de datos; 1 crédito 15 horas Administración; 1 crédito. 15 horas Bioética; 1 crédito. 15 horas Epidemiología; 1 crédito. 30 horas Salud mental; 2 créditos. 540 horas Prácticas; 36 créditos 45 horas Trabajo Final; 3 créditos
 
 ## Ingreso
 

@@ -27,14 +27,14 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"
 sources:
-  - label: 'Oferta e inscripciones 2026 (FCEA)'
-    url: 'https://www.fcea.udelar.edu.uy/institucional/novedades/9130-postulaciones-2026.html'
-  - label: 'Posgrado en Economía y Gestión para la Inclusión (FCEA)'
-    url: 'https://fcea.udelar.edu.uy/especializaciones-posgrados/economia-y-gestion-para-la-inclusion-posgrado.html'
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=82'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=82'
+  - label: "Oferta e inscripciones 2026 (FCEA)"
+    url: "https://www.fcea.udelar.edu.uy/institucional/novedades/9130-postulaciones-2026.html"
+  - label: "Posgrado en Economía y Gestión para la Inclusión (FCEA)"
+    url: "https://fcea.udelar.edu.uy/especializaciones-posgrados/economia-y-gestion-para-la-inclusion-posgrado.html"
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=5&idPosgrado=82"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=5&idPosgrado=82"
 ---
 
 ## Resumen

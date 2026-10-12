@@ -31,16 +31,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://fa.ort.edu.uy/master-en-edificaciones-en-madera'
-  - label: 'Plan de estudios'
-    url: 'https://fa.ort.edu.uy/master-en-edificaciones-en-madera/plan-de-estudios'
-  - label: 'Listado de postgrados'
-    url: 'https://www.ort.edu.uy/postgrados'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://fa.ort.edu.uy/master-en-edificaciones-en-madera"
+  - label: "Plan de estudios"
+    url: "https://fa.ort.edu.uy/master-en-edificaciones-en-madera/plan-de-estudios"
+  - label: "Listado de postgrados"
+    url: "https://www.ort.edu.uy/postgrados"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-postgrados"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -89,7 +89,6 @@ Duración Un año y medio de cursos, además de un Proyecto final. Se puede curs
 ### Becas
 
 La universidad ofrece becas para los postgrados de la Facultad de Administración y Ciencias Sociales, la Facultad de Arquitectura, la Facultad de Comunicación, la Facultad de Diseño, la Facultad de Ingeniería, el Instituto de Educación y el Instituto de Dermatología. Asimismo, cuenta con numerosos descuentos para graduados y familiares de graduados de las diferentes carreras y postgrados de la institución.
-
 
 ## Ingreso
 

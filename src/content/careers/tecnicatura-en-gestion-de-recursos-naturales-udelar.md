@@ -28,12 +28,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.rivera.udelar.edu.uy/gestion-de-recursos-naturales-y-desarrollo-sustentable/'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/tecnicatura-en-gestion-de-recursos-naturales'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.rivera.udelar.edu.uy/gestion-de-recursos-naturales-y-desarrollo-sustentable/'
+  - label: "Página oficial"
+    url: "https://www.rivera.udelar.edu.uy/gestion-de-recursos-naturales-y-desarrollo-sustentable/"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/tecnicatura-en-gestion-de-recursos-naturales"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.rivera.udelar.edu.uy/gestion-de-recursos-naturales-y-desarrollo-sustentable/"
 ---
 
 ## Resumen

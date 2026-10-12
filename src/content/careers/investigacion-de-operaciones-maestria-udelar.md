@@ -29,12 +29,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 18:45:00"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=60'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=60'
-  - label: 'Página del programa en Facultad de Ingeniería'
-    url: 'https://www.fing.edu.uy/es/posgrado/io'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=60"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=60"
+  - label: "Página del programa en Facultad de Ingeniería"
+    url: "https://www.fing.edu.uy/es/posgrado/io"
 ---
 
 ## Resumen

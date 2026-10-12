@@ -101,23 +101,21 @@ Por ello, te sugerimos mantener una reunión con un asesor académico para anali
 
 ## 1.er año
 
-
 ### 1.er semestre
 
-
-**Taller 1***
+**Taller 1\***
 
 Objetivos Introducir al estudiante a la comprensión del diseño en arquitectura interior a partir del planteo y solución de problemas abstractos vinculados a temas de organización y contenido espacial. Brindar un marco teórico, sobre elementos y principios de composición, de la forma, el color, la luz, las texturas y del espacio, como instrumento básico para desarrollar habilidades de análisis y creación en el campo de la arquitectura interior. Ejercitar habilidades de abstracción, comunicación visual, y expresión, idóneos para la concepción y evolución de un proyecto de diseño. Introducir al desarrollo de una metodología de diseño creativa y reflexiva. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes, y con la realización de trabajos individuales y colectivos. Los trabajos estarán dirigidos mediante críticas colectivas e individuales por los profesores responsables
 
-**Dibujo 1***
+**Dibujo 1\***
 
 Objetivos Capacitar al alumno en el empleo del dibujo sistematizado y codificado orientado a la representación del proyecto de arquitectura interior, que lo habilite a establecer una comunicación clara y precisa de sus ideas. Capacitar al alumno en el control formal del espacio y el equipamiento, desarrollando destrezas en el manejo de propiedades y relaciones de las formas, incluyendo los fundamentos geométricos y expresivos de la representación gráfica. La metodología es de taller con clases teórico-prácticas.
 
-**Tecnología y materiales***
+**Tecnología y materiales\***
 
 Objetivos Informar sobre los materiales constructivos disponibles en la industria de la construcción utilizada en proyectos de arquitectura interior. Brindar criterios para la selección y aplicación de materiales en el proceso de diseño. Promover la investigación e información constante en los nuevos materiales y técnicas que se incorporar en el mercado local y en el mundo. El curso se estructura sobre la base de clases teóricas generales, para todos los estudiantes, y clases prácticas, individuales y en grupo. Se realizarán visitas a obras, empresas y charlas técnicas.
 
-**Cálculo 1***
+**Cálculo 1\***
 
 Objetivos Familiarizar al estudiante con las nociones básicas de trigonometría, cálculo vectorial, geometría analítica, álgebra, funciones de una variable real, geometría de las masas. Nivelar conocimientos previos. Promover la comprensión del espacio en sus tres dimensiones. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes.
 
@@ -127,12 +125,11 @@ Objetivos Aproximar al estudiante a la reflexión teórica del diseño de interi
 
 ### 2.º semestre
 
-
-**Taller 2***
+**Taller 2\***
 
 Objetivos Iniciar al estudiante en el proceso de aprendizaje de la práctica proyectual y su metodología. Capacitar al alumno en el análisis y aplicación de los principios de composición al espacio interior y su entorno inmediato. Introducir al alumno a la identificación de diversos problemas de diseño de interiores. Introducir al alumno al replanteo de temas cotididanos que conforman su conocimiento previo del diseño, cuestionándolo y analizando alternativas. Introducir al alumlno al manejo del concepto del partido de diseño. Introducir al alumno al manejo de variables funcionales, formales y tecnológicas. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes, y con la realización de trabajos individuales y colectivos. Los trabajos estarán dirigidos mediante críticas colectivas e individuales por los profesores responsables. Se promoverán trabajos en equipo y presentaciones orales de temas por parte de los estudiantes.
 
-**Dibujo 2***
+**Dibujo 2\***
 
 Objetivos Continuar y completar la capacitación al alumno en el empleo del dibujo y la representación tridimensional del espacio arquitectónico y específicamente del proyecto de diseño de interiores, que lo habilite a establecer una comunicación clara y precisa de sus ideas. Capacitar al alumno en el control formal del espacio y el equipamiento desarrollando destrezas en la representación tridimensional, incluyendo fundamentos geométricos y expresivos. La metodología es de clases teórico prácticas, con dinámicas de taller.
 
@@ -140,7 +137,7 @@ Objetivos Continuar y completar la capacitación al alumno en el empleo del dibu
 
 Objetivos Informar sobre el campo de aplicación de la disciplina y brindar conocimientos sobre la constitución y el funcionamiento del organismo de los seres humanos para permitir la correcta concepción de los diseños. El curso se estructura con clases teóricas y prácticas orientadas a la resolución de casos concretos. La metodología es de clases teórico prácticas, con dinámicas de taller.
 
-**Diseño asistido 1***
+**Diseño asistido 1\***
 
 Objetivos Brindar las herramientas CAD necesarias para una correcta representación en dos dimensiones del espacio y de los objetos diseñados. Aumentar la productividad mediante la automatización de las tareas repetitivas y la generación de plantillas. Proporcionar las herramientas necesarias para una correcta comunicación con otros programas del mercado, que habilite un pasaje fluido de un archivo vectorial dwg a otros tipos de archivos vectoriales o de mapa de bits de diversas plataformas. Generar conciencia de la importancia de la interacción entre los medios de diseño analógicos y los medios digitales. La metodología es de clases teórico-prácticas, apoyadas con material audiovisual y gráfico. A la fecha de redacción del presente documento, la herramienta CAD propuesta es el AutoCAD.
 
@@ -154,9 +151,7 @@ Objetivos Brindar los conocimientos básicos de la disciplina aplicables a la ar
 
 ## 2.º año
 
-
 ### 3. er semestre
-
 
 **Taller 3**
 
@@ -166,15 +161,15 @@ Objetivos Introducir al proyecto de programas de moderada complejidad. Desarroll
 
 Objetivos Iniciar al estudiante en el proceso de aprendizaje de la práctica proyectual y su metodología, aplicada al equipamiento. Introducir al alumno en el análisis y conceptualización del equipamiento. Introducir al alumno en el manejo de variables funcionales, formales, tecnológicas y ergonómicas, referidas al equipamiento. Introducir al alumno a la elaboración del programa de necesidades y manejo del partido de diseño. Ejercitar la aplicación de elementos y principios de composición, aplicado al equipamiento. Ejercitar la representación gráfica de los objetos de equipamiento y su detalle técnico. La metodología es de taller. Se promoverán trabajos en equipo, presentaciones orales, y críticas colectivas.
 
-**Acondicionamiento lumínico***
+**Acondicionamiento lumínico\***
 
 Objetivos Brindar al estudiante los conocimientos necesarios para diseñar, a nivel de anteproyecto, una instalación de iluminación. Conocer en detalle los diferentes efectos que se obtienen en las instalaciones lumínicas. Desarrollar habilidades para incorporar estos conocimientos en el proceso de diseño. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
 
-**Acondicionamiento eléctrico***
+**Acondicionamiento eléctrico\***
 
 Objetivos Brindar los conocimientos fundamentales vinculados a las instalaciones eléctricas y las tensiones débiles en los espacios arquitectónicos. Desarrollar habilidades para incorporar estos conocimientos en el proceso de diseño. Tomar conciencia sobre la necesidad de coordinar e integrar estas instalaciones con el proyecto de diseño y los demás acondicionamientos. Generar la capacidad de desarrollar un proyecto primario de instalaciones eléctricas de mediana complejidad. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
 
-**Cálculo 2***
+**Cálculo 2\***
 
 Objetivos Introducir al estudiante a la problemática estructural brindando los fundamentos básicos de la estática por medio de conceptos, definiciones, métodos y teorías. Proporcionar métodos de diseño y cálculo para la resolución de estructuras simples vinculadas al quehacer de la arquitectura de interiores. Promover la consideración de criterios de economía en el diseño de elementos estructurales. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes.
 
@@ -184,7 +179,6 @@ Durante el curso se desarrollan los temas esenciales sobre la historia de la viv
 
 ### 4.º semestre
 
-
 **Taller 4**
 
 Objetivos Desarrollar habilidades de diseño vinculadas al proyecto de programas de interiores de complejidad media. Desarrollar habilidades vinculadas a la realización de anteproyectos de interiorismo manejando variables funcionales, formales, ergonómicas, tecnológicas y económicas en espacios de naturaleza variada. Incorporar temas de imagen, comunicación visual e identidad corporativa a la resolución del proyecto de arquitectura interior. Aplicar conceptos de psicología, sociología y semiótica, en la realización de anteproyectos. Introducir al alumno a la problemática del diseño efímero. Ejercitar una metodología de relevamiento de datos del sitio y entrevista al cliente. Profundizar en la expresión gráfica de anteproyectos de diseño de interiores e incorporar en el mismo, intenciones de equipamiento, detalles constructivos, intenciones de iluminación y materiales. El curso se estructura con clases teóricas, generales y aplicadas, para todos los estudiantes, y con la realización de trabajos individuales y colectivos. Los trabajos estarán dirigidos mediante críticas colectivas e individuales por los profesores responsables. Se promoverán los trabajos en equipo y de campo.
@@ -193,7 +187,7 @@ Objetivos Desarrollar habilidades de diseño vinculadas al proyecto de programas
 
 Objetivos Profundizar y ejercitar el proceso proyectual y su metodología, aplicada al equipamiento, haciendo énfasis en el análisis y conceptualización del mismo. Profundizar y ejercitar el proceso proyectual del equipamiento, considerando variables funcionales, formales, ergonómicas y tecnológicas. Ejercitar la aplicación de los criterios de composición, referidos al equipamiento. Aplicar la elaboración del programa de necesidades y manejo del partido de diseño, en el diseño de equipamiento. Aplicar los conocimientos de representación, tecnología y cálculo en la realización de proyectos ejecutivos de equipamiento. La metodología es de taller. Se promoverán trabajos en equipo, presentaciones orales, y críticas colectivas.
 
-**Acondicionamiento sanitario***
+**Acondicionamiento sanitario\***
 
 Objetivos Impartir conocimientos sobre las instalaciones sanitarias internas de los edificios incluyendo abastecimiento de agua, desagües sanitarios y pluviales, gases combustibles y red de incendio. Se pretende que el alumno pueda proyectar estas instalaciones en viviendas individuales y colectivas de complejidad media, tener en cuenta los requerimientos sanitarios, exigencias y normativas a la hora de proyectar un diseño cualquiera sea este, así como adquirir los conocimientos para poder interactuar con asesores sanitarios en proyectos más complejos. También se imparten conocimientos para que el diseñador pueda supervisar la ejecución de obras de sanitaria interna.
 
@@ -201,7 +195,7 @@ Objetivos Impartir conocimientos sobre las instalaciones sanitarias internas de 
 
 Objetivos Introducir al estudiante en el conocimiento sobre los procedimientos de ejecución de distintos sistemas constructivos. Informar sobre las distintas formas y sistemas de colocación de los materiales en la obra y resolución de detalles constructivos. Informar sobre las pautas básicas y herramientas de control para realizar una acertada supervisión de la obra. El curso se estructura sobre la base de clases teóricas generales, para todos los estudiantes, y clases prácticas, individuales y en grupo.
 
-**Acondicionamiento térmico***
+**Acondicionamiento térmico\***
 
 Objetivos Brindar los conocimientos básicos vinculados al acondicionamiento térmico y a la protección contra incendio, que permitan resolver problemas prácticos de diseño de interiores. Conocer la incidencia de las diferentes soluciones de acondicionamiento térmico y protección contra incendio, en el diseño de cada proyecto de arquitectura interior Informar sobre la necesidad de coordinar e integrar estas instalaciones con los demás acondicionamientos y con el diseño general del proyecto. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
 
@@ -211,9 +205,7 @@ El curso se desarrolla a partir del estudio del consumo como hilo conductor de l
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Taller 5**
 
@@ -227,7 +219,7 @@ Objetivos Proporcionar al estudiante las herramientas necesarias para desarrolla
 
 Se ha considerado fundamental generar en el estudiante una actitud emprendedora, la capacidad del trabajo en equipo y el liderazgo, para ello se creó esta materia. Toma parte de los contenidos de Administración General y Marketing y se focaliza en el análisis del mercado y la generación de planes de negocios. Tienen un fuerte vínculo con la realidad, producto del análisis de casos reales y del trabajo de campo.
 
-**Acondicionamiento acústico***
+**Acondicionamiento acústico\***
 
 Objetivos Brindar los conocimientos necesarios para resolver problemas prácticos de acondicionamiento acústico en espacios interiores de variada naturaleza. Informar sobre materiales, dispositivos, detalles constructivos y de diseño aplicables a la resolución de los problemas acústicos más recurrentes de la práctica profesional. Proporcionar las herramientas necesarias para un adecuado dimensionado. Desarrollar habilidades para incorporar estos conocimientos en el proceso de diseño. El curso se estructura sobre la base de clases teórico-prácticas, que se complementarán con ejercicios de aplicación y visitas de obra.
 
@@ -236,7 +228,6 @@ Objetivos Brindar los conocimientos necesarios para resolver problemas práctico
 El curso se desarrolla a partir del estudio de la crítica del diseño, tomando en cuenta el periodo comprendido entre el siglo XX y el transcurso del siglo XXI. Específicamente, el curso aborda los crecientes debates teóricos que permitieron el establecimiento de un sentido crítico propio. Además de las diferentes corrientes filosóficas, artísticas y literarias que dieron paso al diseño actual.
 
 ### 6.º semestre
-
 
 **Taller 6**
 
@@ -250,7 +241,7 @@ Objetivos Capacitar al alumno para evaluar desde el punto de vista económico lo
 
 Se ha considerado fundamental generar en el estudiante una actitud emprendedora, la capacidad del trabajo en equipo y el liderazgo, para ello se creó esta materia, que continúa Creación de Emprendimientos 1. Toma parte de los contenidos de Administración General y Marketing y se focaliza en el análisis del mercado y la generación de planes de negocios. Tienen un fuerte vínculo con la realidad, producto del análisis de casos reales y del trabajo de campo.
 
-**Electiva 1***
+**Electiva 1\***
 
 Las materias electivas se presentan a título de ejemplo y pueden variar de un semestre a otro. Administración general Análisis Crítico de la Arquitectura Contemporánea Biodiseño Conservación y Rehabilitación Digital to Material (Diseño Paramétrico) Diseño Asistido 2 Diseño Bioclimático Diseño de Identidad 1 Diseño Digital 1 Diseño Digital 2 Diseño Efímero Enfoques y Problemas en Arquitectura Ergonomía 2 Estrategia e Implantación Estrategia y Competencia Física Técnica Gestión de Proyectos Introducción a la Arquitectura Contemporánea Introducción a la Construcción Maquetación Creativa Marketing Matemática 2 Materiales de Construcción Memoria Fin de Carrera Metodología de la Investigación Modelado Integral de Edificaciones Modelado y Rendering Pasantía Presentación Multimedia Principios de Economía Recursos Humanos Semiótica Taller de Fotografía de Producto Taller de Prácticas Constructivas Taller de Urbanismo Taller Solar Decatlhon I Técnicas de Expresión Gráfica Tecnología Industrial 1 Tecnología Industrial 2 Tecnología Textil 1 Tecnología Textil 2 Tendencias del Diseño Contemporáneo Teoría de la Comunicación 1 Tópicos Avanzados en Diseño Tópicos Avanzados en Diseño 1 Tópicos Avanzados en Diseño 2 Tópicos Avanzados en Diseño 3 Trabajo de Investigación 1 Trabajo de Investigación 2
 
@@ -260,20 +251,17 @@ Objetivos Proporcionar al estudiante los conocimientos necesarios para desenvolv
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Taller 7**
 
 Objetivos Desarrollar un proyecto que simule un encargo profesional, con un grado de complejidad que permita evaluar la capacidad de integrar conocimientos de las tres áreas académicas, rigurosidad en la búsqueda y sistematización de información y capacidad de investigación. Evidenciar las destrezas adquiridas a lo largo de la carrera y plasmarlas en un proyecto de alcance acotado. Presentar el proyecto, con calidad profesional, ya sea en lo que refiere a gráficos, documentación escrita, investigación previa, etc. La materia podrá ser cursada en tres modalidades diferentes: Proyecto de diseño, Proyecto de Producción o Proyecto de Investigación. Cada una de estas modalidades podrá requerir la exigencia de previaturas adicionales de acuerdo a la modalidad y temática escogida por el alumno. Estas previaturas adicionales serán definidas por la autoridad académica, y tienen por finalidad determinar el conjunto de conocimientos previos requeridos para el correcto desarrollo del proyecto a desarrollar. La metodología docente podrá ser de taller, promoviendo discusiones grupales y análisis de las diferentes propuestas o podrá realizarse a través de un proceso de tutoría. El proyecto en cualquiera de las tres modalidades se desarrollará en forma individual o colectiva.
 
-**Electiva 2***
+**Electiva 2\***
 
 Las materias electivas se presentan a título de ejemplo y pueden variar de un semestre a otro. Administración general Análisis Crítico de la Arquitectura Contemporánea Biodiseño Conservación y Rehabilitación Digital to Material (Diseño Paramétrico) Diseño Asistido 2 Diseño Bioclimático Diseño de Identidad 1 Diseño Digital 1 Diseño Digital 2 Diseño Efímero Enfoques y Problemas en Arquitectura Ergonomía 2 Estrategia e Implantación Estrategia y Competencia Física Técnica Gestión de Proyectos Introducción a la Arquitectura Contemporánea Introducción a la Construcción Maquetación Creativa Marketing Matemática 2 Materiales de Construcción Memoria Fin de Carrera Metodología de la Investigación Modelado Integral de Edificaciones Modelado y Rendering Pasantía Presentación Multimedia Principios de Economía Recursos Humanos Semiótica Taller de Fotografía de Producto Taller de Prácticas Constructivas Taller de Urbanismo Taller Solar Decatlhon I Técnicas de Expresión Gráfica Tecnología Industrial 1 Tecnología Industrial 2 Tecnología Textil 1 Tecnología Textil 2 Tendencias del Diseño Contemporáneo Teoría de la Comunicación 1 Tópicos Avanzados en Diseño Tópicos Avanzados en Diseño 1 Tópicos Avanzados en Diseño 2 Tópicos Avanzados en Diseño 3 Trabajo de Investigación 1 Trabajo de Investigación 2
 
 ### 8.º semestre
-
 
 **Gestión de obras 2**
 
@@ -283,7 +271,7 @@ Objetivos Capacitar al alumno para desarrollar correctamente la gestión de una 
 
 Objetivos Continuar con el desarrollo del proyecto iniciado en Taller 7, simulando un encargo profesional, con un grado de complejidad que permita evaluar la capacidad de integrar conocimientos de las tres áreas académicas, rigurosidad en la búsqueda y sistematización de información y capacidad de investigación. Evidenciar las destrezas adquiridas a lo largo de la carrera y plasmarlas en un proyecto ejecutivo. Presentar el proyecto, con calidad profesional, ya sea en lo que refiere a gráficos, documentación escrita, investigación previa, etc. La materia podrá ser cursada en tres modalidades diferentes: Proyecto de diseño, Proyecto de Producción o Proyecto de Investigación. Cada una de estas modalidades podrá requerir la exigencia de previaturas adicionales de acuerdo a la modalidad y temática escogida por el alumno. Estas previaturas adicionales serán definidas por la autoridad académica, y tienen por finalidad determinar el conjunto de conocimientos previos requeridos para el correcto desarrollo del proyecto a desarrollar. La metodología docente podrá ser de taller, promoviendo discusiones grupales y análisis de las diferentes propuestas o podrá realizarse a través de un proceso de tutoría. El proyecto en cualquiera de las tres modalidades se desarrollará en forma individual o colectiva.
 
-**Electiva 3***
+**Electiva 3\***
 
 Las materias electivas se presentan a título de ejemplo y pueden variar de un semestre a otro. Administración general Análisis Crítico de la Arquitectura Contemporánea Biodiseño Conservación y Rehabilitación Digital to Material (Diseño Paramétrico) Diseño Asistido 2 Diseño Bioclimático Diseño de Identidad 1 Diseño Digital 1 Diseño Digital 2 Diseño Efímero Enfoques y Problemas en Arquitectura Ergonomía 2 Estrategia e Implantación Estrategia y Competencia Física Técnica Gestión de Proyectos Introducción a la Arquitectura Contemporánea Introducción a la Construcción Maquetación Creativa Marketing Matemática 2 Materiales de Construcción Memoria Fin de Carrera Metodología de la Investigación Modelado Integral de Edificaciones Modelado y Rendering Pasantía Presentación Multimedia Principios de Economía Recursos Humanos Semiótica Taller de Fotografía de Producto Taller de Prácticas Constructivas Taller de Urbanismo Taller Solar Decatlhon I Técnicas de Expresión Gráfica Tecnología Industrial 1 Tecnología Industrial 2 Tecnología Textil 1 Tecnología Textil 2 Tendencias del Diseño Contemporáneo Teoría de la Comunicación 1 Tópicos Avanzados en Diseño Tópicos Avanzados en Diseño 1 Tópicos Avanzados en Diseño 2 Tópicos Avanzados en Diseño 3 Trabajo de Investigación 1 Trabajo de Investigación 2
 
@@ -309,7 +297,7 @@ La Licenciatura en Diseño de Interiores es una carrera universitaria reconocida
 
 ## Requisito de graduación
 
-Las materias marcadas con asterisco (*) en el plan de estudios pueden ser revalidadas por estudiantes o graduados de Arquitectura que deseen cursar la Licenciatura en Diseño de Interiores. Las materias resaltadas con negrita en el plan de estudios son las necesarias para obtener el título intermedio de Diseñador de Interiores. Electivas: los estudiantes pueden cursar materias de otras carreras de la Universidad ORT Uruguay, previa consulta con el coordinador académico. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Requisito de graduación: examen integrador final, exonerable con un promedio acumulado de calificaciones (PAC) de 60 % o superior.
+Las materias marcadas con asterisco (\*) en el plan de estudios pueden ser revalidadas por estudiantes o graduados de Arquitectura que deseen cursar la Licenciatura en Diseño de Interiores. Las materias resaltadas con negrita en el plan de estudios son las necesarias para obtener el título intermedio de Diseñador de Interiores. Electivas: los estudiantes pueden cursar materias de otras carreras de la Universidad ORT Uruguay, previa consulta con el coordinador académico. Los estudiantes deben aprobar tres materias electivas que sumen como mínimo 144 horas. Requisito de graduación: examen integrador final, exonerable con un promedio acumulado de calificaciones (PAC) de 60 % o superior.
 
 ## Reválidas
 

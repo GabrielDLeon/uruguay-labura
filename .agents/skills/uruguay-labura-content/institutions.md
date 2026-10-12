@@ -32,22 +32,22 @@ updatedAt: "2026-08-04 15:30:00"
 ---
 ```
 
-| Field | Notes / allowed values |
-|---|---|
-| `name` | required; full institution name. |
-| `short` | optional; short code. |
-| `logo` | optional; image asset path under `@/assets/institutions/`. |
-| `color` | optional; hex brand color. |
-| `type` | required; `public` \| `private`. |
-| `website` | required; official site. |
-| `contactEmail` / `phone` | optional; official contact. |
-| `location` | optional; main location. |
-| `tags` | optional; Spanish topical tags. |
-| `departments` | optional; list of department regions/departments. |
-| `campuses` | optional; list of `{ name, location, address }` objects. |
-| `description` | optional; short Spanish summary. |
-| `isActive` | default `true`. |
-| `createdAt` / `updatedAt` | optional; `YYYY-MM-DD HH:MM:SS`. |
+| Field                     | Notes / allowed values                                     |
+| ------------------------- | ---------------------------------------------------------- |
+| `name`                    | required; full institution name.                           |
+| `short`                   | optional; short code.                                      |
+| `logo`                    | optional; image asset path under `@/assets/institutions/`. |
+| `color`                   | optional; hex brand color.                                 |
+| `type`                    | required; `public` \| `private`.                           |
+| `website`                 | required; official site.                                   |
+| `contactEmail` / `phone`  | optional; official contact.                                |
+| `location`                | optional; main location.                                   |
+| `tags`                    | optional; Spanish topical tags.                            |
+| `departments`             | optional; list of department regions/departments.          |
+| `campuses`                | optional; list of `{ name, location, address }` objects.   |
+| `description`             | optional; short Spanish summary.                           |
+| `isActive`                | default `true`.                                            |
+| `createdAt` / `updatedAt` | optional; `YYYY-MM-DD HH:MM:SS`.                           |
 
 ## Body — the pros rule
 

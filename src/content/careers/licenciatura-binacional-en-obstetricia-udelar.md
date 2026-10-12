@@ -27,10 +27,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial (CENUR Litoral Norte)'
-    url: 'https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia'
+  - label: "Página oficial (CENUR Litoral Norte)"
+    url: "https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-licenciatura-binacional-de-obstetricia"
 ---
 
 ## Resumen

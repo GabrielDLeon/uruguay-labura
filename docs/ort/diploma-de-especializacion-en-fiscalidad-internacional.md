@@ -58,9 +58,7 @@ Las evaluaciones principales se realizan en forma presencial.
 
 ## 1.er año
 
-
 ### Julio - Setiembre
-
 
 **Derecho tributario aplicado**
 
@@ -72,7 +70,6 @@ Identifica y desarrolla habilidades prácticas en relación con los aspectos con
 
 ### Octubre - Diciembre
 
-
 **Fiscalidad internacional**
 
 La materia busca la comprensión de los conceptos involucrados en materia de fiscalidad internacional, desde el punto de vista teórico y práctico, brindando al estudiante la visión de la imposición internacional necesaria en la planificación estratégica tributaria. Luego de presentaciones introductorias de los temas se aplicará una metodología basada en el análisis de casos por parte de los estudiantes.
@@ -83,13 +80,11 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ### Diciembre (semana intensiva)
 
-
 **Taller de ética**
 
 Presenta casos del entorno internacional que llevarán a la reflexión sobre la práctica de los profesionales que se desempeñan en el área de contabilidad, impuestos o finanzas, dado que la convergencia internacional y la transparencia en los negocios requieren una actuación ética constante. El abordaje es desarrollado por un profesor extranjero invitado a tales efectos.
 
 ### Febrero - Marzo
-
 
 **Régimen fiscal de precios de transferencia**
 
@@ -101,9 +96,7 @@ Impuesto a la Renta de las personas físicas (IRPF). Impuesto a la renta de los 
 
 ## 2.do año
 
-
 ### Julio - Setiembre
-
 
 **Tendencias globales en tributación (materia intensiva)**
 
@@ -115,13 +108,11 @@ El modelo de convenio fiscal de la OCDE ha servido de base para la negociación 
 
 ### Octubre - Diciembre
 
-
 **Gestión del riesgo fiscal internacional**
 
 El propósito del curso es proporcionar un marco para la aplicación de principios de gestión de riesgos de cumplimiento tributario. Se identificarán y discutirán los principios generales que se encuentran tanto en la identificación como en el tratamiento de los riesgos de cumplimiento dentro de una amplia variedad de jurisdicciones tributarias. Se busca proporcionar información sobre la forma en que las estrategias de gestión influyen en el comportamiento de las empresas en relación con sus obligaciones fiscales.
 
 ### Febrero – Marzo
-
 
 **Medidas anti-abuso y convenios para evitar doble imposición**
 
@@ -132,7 +123,6 @@ El objetivo de esta materia es entregar una visión global del problema de abuso
 El curso trata las consideraciones fiscales y no fiscales importantes en la planificación fiscal internacional. Se buscará identificar y definir los requisitos formales y sustantivos de las estructuras de planificación tributaria internacional, tomando en cuenta las normas tributarias legales, comerciales, regulatorias, así como nacionales e internacionales. Se analizarán las estructuras impositivas comunes utilizadas en las actividades de tenencia y financiación. Asimismo, se estudiarán las diversas formas de desarrollar y explotar la propiedad intangible, incluido el uso de contratos de I + D, el capital de la propiedad intangible y los acuerdos de contribución de costos.
 
 ### Abril - Junio
-
 
 **Proyecto integrador**
 

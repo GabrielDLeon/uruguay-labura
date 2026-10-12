@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Abogacía
 - Notariado (Escribanía)
 - Licenciatura en Relaciones Internacionales

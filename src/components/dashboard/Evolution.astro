@@ -1,12 +1,12 @@
 ---
-import type { EvolutionSnapshot } from "@/types/jobs"
-import { formatDateShortMonth } from "@/lib/dates"
+import type { EvolutionSnapshot } from "@/types/jobs";
+import { formatDateShortMonth } from "@/lib/dates";
 
 export interface Props {
-  evolution: EvolutionSnapshot[]
+  evolution: EvolutionSnapshot[];
 }
 
-const { evolution } = Astro.props
+const { evolution } = Astro.props;
 ---
 
 <section>
@@ -16,30 +16,32 @@ const { evolution } = Astro.props
     evolution.length > 1 ? (
       <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4">
         <div class="space-y-2">
-          {
-            evolution.toReversed().map((snap) => {
-              const label = formatDateShortMonth(snap.date)
-              return (
-                <div class="flex items-center justify-between text-sm">
-                  <span class="text-muted-foreground">{label}</span>
-                  <span class="font-semibold text-foreground">
-                    {snap.total} llamados · {snap.organizations} organismos
-                  </span>
-                </div>
-              )
-            })
-          }
+          {evolution.toReversed().map((snap) => {
+            const label = formatDateShortMonth(snap.date);
+            return (
+              <div class="flex items-center justify-between text-sm">
+                <span class="text-muted-foreground">{label}</span>
+                <span class="font-semibold text-foreground">
+                  {snap.total} llamados · {snap.organizations} organismos
+                </span>
+              </div>
+            );
+          })}
         </div>
       </div>
     ) : (
       <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-6 text-center">
         <p class="text-sm text-muted-foreground">
-          El histórico semanal se acumulará a medida que se generen nuevos snapshots.
+          El histórico semanal se acumulará a medida que se generen nuevos
+          snapshots.
         </p>
         {evolution.length === 1 && (
           <div class="mt-3">
             <div class="inline-flex items-center gap-1.5 rounded-full bg-[var(--muted)] px-3 py-1 text-xs text-muted-foreground">
-              <span>Snapshot actual: {evolution[0].total} llamados activos en {evolution[0].organizations} organismos</span>
+              <span>
+                Snapshot actual: {evolution[0].total} llamados activos en{" "}
+                {evolution[0].organizations} organismos
+              </span>
             </div>
           </div>
         )}

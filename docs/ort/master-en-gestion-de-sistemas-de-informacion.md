@@ -60,9 +60,7 @@ Este es un programa más corto, una herramienta de actualización y ampliación 
 
 ## 1.er año
 
-
 ### Bimestre 1
-
 
 **Estrategia de sistemas de información**
 
@@ -78,7 +76,6 @@ Ciberseguridad En esta asignatura se estudia a la seguridad informática como pa
 
 ### Bimestre 2
 
-
 **Arquitecturas empresariales**
 
 El estudiante será capaz de conocer los objetivos y conceptos asociados a transformación digital. Conocer cómo la arquitectura empresarial es un medio para alcanzar una transformación digital gobernada. Identificar y diseñar una arquitectura empresarial adecuada al tipo de organización estudiada.
@@ -92,7 +89,6 @@ Sistemas de Información: Conceptos y Perspectivas El objetivo de la materia es 
 Programación Los objetivos básicos de esta asignatura son presentar los conceptos fundamentales de la programación orientada a objetos y aplicarlos para implementar programas sencillos bajo este paradigma en un lenguaje de alto nivel. Incluye manejo de archivos, excepciones y consultas simples en bases de datos. Fundamentos de Blockchain Se presenta un amplio espectro teórico-práctico del impacto del blockchain en el ámbito legal, tecnológico, económico y social como una tecnología que permite descentralizar las organizaciones. Se introduce el concepto de contrato inteligente, sus aplicaciones y tecnologías.
 
 ### Bimestre 3
-
 
 **Análisis funcional**
 
@@ -108,7 +104,6 @@ Innovación Este curso tiene por objetivo que los estudiantes sean capaces de en
 
 ### Bimestre 4
 
-
 **Evaluación de inversiones en TI**
 
 Presentar un enfoque práctico de la economía de la tecnología de la información enfocado en las tendencias económicas y financieras, evaluando TI en desempeño, costos y beneficios, y evaluando su perspectiva sobre beneficios intangibles. Definir y describir aspectos del proceso de decisión de inversión en Tecnologías de la Información. Comprender el conocimiento de la evaluación de inversiones en tecnología de la información. Conocer los factores de decisión para la tercerización de servicios de TI, las estrategias de selección de proveedores, y los mecanismos de seguimiento y control del servicio.
@@ -123,9 +118,7 @@ La inteligencia artificial en los negocios El objetivo del curso es presentar co
 
 ## 2.º año
 
-
 ### Bimestre 5
-
 
 **Liderazgo de una organización digital**
 
@@ -140,7 +133,6 @@ Introducir al estudiante en el área de aprendizaje automático y en el uso de h
 En este curso se estudian los conceptos, actividades y técnicas de gestión de proyectos con foco el el desarrollo de sistemas de información. En particular, esta asignatura profundiza en los principios de la gestión de proyectos, su función, y procesos. Se analizarán distintos enfoques de gestión de proyectos haciendo énfasis en las metodologías ágiles y su integración en la estructura empresarial.
 
 ### Bimestre 6
-
 
 **El ciclo de transformación digital**
 

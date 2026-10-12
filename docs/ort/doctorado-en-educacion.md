@@ -40,9 +40,7 @@ El Doctorado en Educación busca:
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Taller de proyecto de tesis**
 
@@ -53,7 +51,6 @@ Busca favorecer la construcción del diseño de investigación, que posibilitar�
 Los seminarios doctorales abordan problemas y temáticas presentes en la agenda educativa contemporánea. Se analizan e interpretan investigaciones recientes en consonancia con las cinco líneas de investigación del programa: organización y gestión del sistema educativo; políticas educativas; procesos de enseñanza y procesos de aprendizaje; profesión docente; y tecnología educativa.
 
 ### 2.º semestre
-
 
 **Taller de tesis permanente 1**
 
@@ -69,9 +66,7 @@ Los estudiantes, a lo largo del postgrado, contarán con la figura de un directo
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Taller de tesis permanente 2**
 
@@ -87,7 +82,6 @@ Los estudiantes, a lo largo del postgrado, contarán con la figura de un directo
 
 ### 4.º semestre
 
-
 **Taller de tesis permanente 3**
 
 Se dicta semestralmente con la finalidad de acompañar a los estudiantes durante la realización de su investigación. Con particular énfasis, aborda temáticas tales como las estrategias metodológicas para la elaboración de la tesis, las implicancias, los procesos llevados a cabo, las técnicas y su fundamentación.
@@ -102,9 +96,7 @@ Los estudiantes, a lo largo del postgrado, contarán con la figura de un directo
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Taller de tesis permanente 4**
 
@@ -115,7 +107,6 @@ Se dicta semestralmente con la finalidad de acompañar a los estudiantes durante
 Los estudiantes, a lo largo del postgrado, contarán con la figura de un director de tesis: un docente que los acompañará, apoyará y guiará durante el proceso de realización de su tesis doctoral.
 
 ### 6.º semestre
-
 
 **Taller de tesis permanente 5**
 

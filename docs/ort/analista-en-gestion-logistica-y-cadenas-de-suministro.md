@@ -54,9 +54,7 @@ Tiene en cuenta las líneas directrices para el mundo de las cadenas de suminist
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Logística integral y SCM**
 
@@ -76,7 +74,6 @@ El curso brinda el instrumental matemático indispensable para la resolución de
 
 ### 2.° semestre
 
-
 **Gestión de centros logísticos**
 
 El objetivo principal de la asignatura es presentar los fundamentos de la gestión de los centros logísticos. Los estudiantes conocerán diferentes aspectos necesarios para llevar adelante una administración y control eficientes de las operaciones logísticas que realizan las empresas. A través del análisis de casos prácticos, se busca plantear soluciones a los diversos problemas que surgen en la gestión de procesos de recepción, almacenamiento, preparación de pedidos y distribución.
@@ -95,9 +92,7 @@ El objetivo central del curso apunta a presentar el marco jurídico nacional e i
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Nuevas tendencias logísticas**
 

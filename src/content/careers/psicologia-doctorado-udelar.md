@@ -25,14 +25,15 @@ tags:
   - ciencias-sociales
   - salud-mental
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=55
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=55
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -50,7 +51,7 @@ El egresado del Doctorado en Psicología deberá poseer capacidad para producir 
 - **Plan de estudios:** 2014.
 - **Título otorgado:** Doctor en Psicología.
 - **Requiere tesis.**
-El Doctorado de Psicología otorga un Título de carácter académico tras un desarrollo no estructurado en el que el doctorando puede construir su proyecto doctoral en forma personalizada, en base a la elección de asignaturas temáticas y metodológicas en el área de su especialidad y con la orientación de un Director de Tesis.
+  El Doctorado de Psicología otorga un Título de carácter académico tras un desarrollo no estructurado en el que el doctorando puede construir su proyecto doctoral en forma personalizada, en base a la elección de asignaturas temáticas y metodológicas en el área de su especialidad y con la orientación de un Director de Tesis.
 
 ## Ingreso
 

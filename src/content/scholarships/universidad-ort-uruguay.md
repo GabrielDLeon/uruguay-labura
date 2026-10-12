@@ -33,16 +33,16 @@ updatedAt: "2026-09-14 00:00:00"
 
 ORT Uruguay ofrece varios fondos de becas para carreras universitarias de grado, según el perfil académico y las necesidades económicas del postulante.
 
-| Fondo / Beca | Cobertura |
-|---|---|
-| Excelencia Académica (FEXA) | hasta 60% (con asistencia financiera), hasta 35% (solo mérito) |
-| Beca especial FEXA | 80% |
-| Becas Concursables (FBC) | hasta 50% |
-| Becas de Reválidas | hasta 35% |
-| Beca Charlotte de Grünberg | 100% + $30.000 mensuales |
-| Beca Concursable Mujer | 80% |
-| Beca Olimpíada de Física | 100% |
-| Beca Olimpíada de Matemática | 100% |
+| Fondo / Beca                 | Cobertura                                                      |
+| ---------------------------- | -------------------------------------------------------------- |
+| Excelencia Académica (FEXA)  | hasta 60% (con asistencia financiera), hasta 35% (solo mérito) |
+| Beca especial FEXA           | 80%                                                            |
+| Becas Concursables (FBC)     | hasta 50%                                                      |
+| Becas de Reválidas           | hasta 35%                                                      |
+| Beca Charlotte de Grünberg   | 100% + $30.000 mensuales                                       |
+| Beca Concursable Mujer       | 80%                                                            |
+| Beca Olimpíada de Física     | 100%                                                           |
+| Beca Olimpíada de Matemática | 100%                                                           |
 
 - Las becas FEXA, FBC, de Reválidas, Mujer y Olímpicas se mantienen durante toda la carrera (hasta 1,5 veces su duración formal) con rendimiento académico aceptable, sin trámite anual de renovación.
 - Los fondos FEXA y FBC no aplican a quienes revalidan estudios para continuar su carrera en ORT.

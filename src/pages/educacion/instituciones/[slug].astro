@@ -87,9 +87,7 @@ const organization = {
         },
       }
     : {}),
-  ...(entry.data.founded
-    ? { foundingDate: String(entry.data.founded) }
-    : {}),
+  ...(entry.data.founded ? { foundingDate: String(entry.data.founded) } : {}),
   ...(contactPoint ? { contactPoint } : {}),
 };
 
@@ -179,7 +177,8 @@ const jsonLd = {
     <div class="grid md:grid-cols-3">
       <aside class="h-full md:order-2 md:border-l mb-8 md:mb-0">
         <Block class="flex h-full flex-col gap-8">
-          <AsideSection title="Contacto">            <div class="flex flex-col gap-2">
+          <AsideSection title="Contacto">
+            <div class="flex flex-col gap-2">
               <a
                 href={entry.data.website}
                 target="_blank"
@@ -268,7 +267,9 @@ const jsonLd = {
         {
           hasCareers && (
             <Block class="border-t border-border">
-              <h2 class="text-lg font-semibold text-foreground mb-4">Carreras</h2>
+              <h2 class="text-lg font-semibold text-foreground mb-4">
+                Carreras
+              </h2>
               <CareersTable institution={entry.id} client:visible />
             </Block>
           )

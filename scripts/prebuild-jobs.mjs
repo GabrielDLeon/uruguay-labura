@@ -47,14 +47,18 @@ export async function fetchAndProcessJobs(sourceUrl) {
   }
 
   function passthroughModalidad(value) {
-    if (Array.isArray(value)) return value.map((v) => String(v)).filter(Boolean);
+    if (Array.isArray(value))
+      return value.map((v) => String(v)).filter(Boolean);
     if (typeof value !== "string") return [];
     const trimmed = value.trim();
     if (!trimmed) return [];
     try {
       const parsed = JSON.parse(trimmed);
-      if (Array.isArray(parsed)) return parsed.map((v) => String(v)).filter(Boolean);
-    } catch { /* plain string */ }
+      if (Array.isArray(parsed))
+        return parsed.map((v) => String(v)).filter(Boolean);
+    } catch {
+      /* plain string */
+    }
     return [trimmed];
   }
 
@@ -79,9 +83,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
     }
 
     if (!Array.isArray(payload.jobs)) {
-      throw new Error(
-        "Invalid gist payload: root.jobs must be an array",
-      );
+      throw new Error("Invalid gist payload: root.jobs must be an array");
     }
 
     return payload.jobs;
@@ -266,7 +268,8 @@ export async function fetchAndProcessJobs(sourceUrl) {
 function computeDashboard(jobs, nowIso) {
   function parseLocalDate(value) {
     const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(value ?? "").trim());
-    if (match) return new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
+    if (match)
+      return new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
     return new Date(value);
   }
   const now = parseLocalDate(nowIso);
@@ -276,7 +279,11 @@ function computeDashboard(jobs, nowIso) {
     if (String(job.status || "").toLowerCase() !== "abierto") return false;
     if (!job.closingDate) return true;
     const closing = parseLocalDate(job.closingDate);
-    const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());
+    const closeDay = new Date(
+      closing.getFullYear(),
+      closing.getMonth(),
+      closing.getDate(),
+    );
     return closeDay >= todayStart;
   }
 
@@ -286,7 +293,10 @@ function computeDashboard(jobs, nowIso) {
   const orgCounts = new Map();
   for (const job of activeJobs) {
     if (job.organization) {
-      orgCounts.set(job.organization, (orgCounts.get(job.organization) ?? 0) + 1);
+      orgCounts.set(
+        job.organization,
+        (orgCounts.get(job.organization) ?? 0) + 1,
+      );
     }
   }
   const topOrganizations = [...orgCounts.entries()]
@@ -298,10 +308,16 @@ function computeDashboard(jobs, nowIso) {
   const taskTypeCounts = new Map();
   for (const job of activeJobs) {
     if (job.taskType) {
-      taskTypeCounts.set(job.taskType, (taskTypeCounts.get(job.taskType) ?? 0) + 1);
+      taskTypeCounts.set(
+        job.taskType,
+        (taskTypeCounts.get(job.taskType) ?? 0) + 1,
+      );
     }
   }
-  const totalWithType = activeJobs.reduce((sum, j) => sum + (j.taskType ? 1 : 0), 0);
+  const totalWithType = activeJobs.reduce(
+    (sum, j) => sum + (j.taskType ? 1 : 0),
+    0,
+  );
   const taskTypeDistribution = [...taskTypeCounts.entries()]
     .sort((a, b) => b[1] - a[1])
     .map(([name, count]) => ({
@@ -312,10 +328,12 @@ function computeDashboard(jobs, nowIso) {
 
   // --- Quota jobs ---
   const quotaJobs = {
-    afrodescendientes: activeJobs.filter((j) => j.quotas.afrodescendientes).length,
+    afrodescendientes: activeJobs.filter((j) => j.quotas.afrodescendientes)
+      .length,
     trans: activeJobs.filter((j) => j.quotas.trans).length,
     discapacidad: activeJobs.filter((j) => j.quotas.discapacidad).length,
-    victimas: activeJobs.filter((j) => j.quotas.victimasDelitosViolentos).length,
+    victimas: activeJobs.filter((j) => j.quotas.victimasDelitosViolentos)
+      .length,
   };
 
   // --- Next 7 days closing ---
@@ -326,7 +344,11 @@ function computeDashboard(jobs, nowIso) {
   for (const job of activeJobs) {
     if (job.closingDate) {
       const closing = parseLocalDate(job.closingDate);
-      const closeDay = new Date(closing.getFullYear(), closing.getMonth(), closing.getDate());
+      const closeDay = new Date(
+        closing.getFullYear(),
+        closing.getMonth(),
+        closing.getDate(),
+      );
       if (closeDay >= todayStart && closeDay <= sevenDaysFromNow) {
         const key = job.closingDate;
         closingByDate.set(key, (closingByDate.get(key) ?? 0) + 1);

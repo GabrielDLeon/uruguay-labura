@@ -54,9 +54,7 @@ Debe existir coherencia entre todas las actividades comunicativas de la empresa,
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Expresión oral y escrita**
 
@@ -76,7 +74,6 @@ Presenta los componentes de la gestión de marketing: sus variables y conceptos 
 
 ### 2.° semestre
 
-
 **Redacción institucional**
 
 Entrena en la práctica de la redacción para el cliente mediante la aplicación de formatos típicos de relaciones públicas y comunicación corporativa (comunicados de prensa, newsletters, gacetillas, circulares, afiches, brochures, editoriales y perfiles, entre otros). Privilegia la concisión, claridad y organización en la redacción. Entrena en la producción de noticias y entrevistas y en el manejo de fuentes y géneros de opinión. Destaca la adecuación del estilo a los diversos públicos. Contempla los formatos más usados en prensa, radio, TV, internet y redes sociales.
@@ -95,9 +92,7 @@ Analiza la función del relacionista público como articulador que agrega valor 
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Ética profesional y relaciones con la prensa**
 
@@ -116,7 +111,6 @@ Analiza las formas y estructuras, las características y las funciones de la com
 Imparte los fundamentos clave de las disciplinas del comportamiento en sociedad que son estratégicas para las organizaciones —protocolo, ceremonial y etiqueta, entre otros—, cubriendo tanto el ámbito empresarial como el diplomático y el gubernamental. Destaca la incidencia del ceremonial y el protocolo en la conducta, el clima, los vínculos y la reputación de las organizaciones. Visualiza y organiza la práctica protocolar en la producción y evaluación de diferente tipo de eventos empresariales, en el contexto de la estrategia general de la organización.
 
 ### 4.° semestre
-
 
 **Comunicación online y social media**
 

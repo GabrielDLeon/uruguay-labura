@@ -122,14 +122,14 @@ const SYNONYMS = {
   "acompanamiento-terapeutico": "acompanamiento terapeutico",
   "acompañamiento-terapeutico": "acompanamiento terapeutico",
   management: "direccion de empresas",
-  "moldería": "molderia",
+  moldería: "molderia",
   moldería: "molderia",
   tendencia: "tendencias",
   "ciencia-de-la-computacion": "informatica",
   "ingenieria en computacion": "informatica",
   "ingenieria de computacion": "informatica",
   bioquimica: "bioquimica",
-  "tecnicatura": null, // degree-type tags are dropped
+  tecnicatura: null, // degree-type tags are dropped
   "tecnico superior": null,
   tecnico: null,
   tecnicaturas: null,
@@ -144,9 +144,22 @@ const SYNONYMS = {
 
 // Degree-type tags that must never appear as topical tags.
 const DROP_TAGS = new Set([
-  "tecnicatura", "tecnico", "tecnico superior", "grado", "posgrado",
-  "especializacion", "maestria", "doctorado", "diplomado", "carrera",
-  "licenciatura", "tecnologo", "ciclo", "curso", "master", "diploma",
+  "tecnicatura",
+  "tecnico",
+  "tecnico superior",
+  "grado",
+  "posgrado",
+  "especializacion",
+  "maestria",
+  "doctorado",
+  "diplomado",
+  "carrera",
+  "licenciatura",
+  "tecnologo",
+  "ciclo",
+  "curso",
+  "master",
+  "diploma",
 ]);
 
 function canonicalTag(raw) {
@@ -171,7 +184,9 @@ for (const wf of workFiles) {
 }
 
 // Load current careers.
-const files = readdirSync(DIR).filter((f) => f.endsWith(".md")).sort();
+const files = readdirSync(DIR)
+  .filter((f) => f.endsWith(".md"))
+  .sort();
 const errors = [];
 let ok = 0;
 for (const file of files) {
@@ -229,4 +244,8 @@ console.log(`Carreras OK: ${ok}`);
 console.log(`Errores: ${errors.length}`);
 for (const e of errors.slice(0, 60)) console.log("  " + e);
 if (errors.length > 60) console.log(`  ... y ${errors.length - 60} más`);
-console.log(APPLY ? "\n✅ Aplicado." : "\n⚠️  Solo validación: use --apply para escribir.");
+console.log(
+  APPLY
+    ? "\n✅ Aplicado."
+    : "\n⚠️  Solo validación: use --apply para escribir.",
+);

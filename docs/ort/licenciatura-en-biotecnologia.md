@@ -62,9 +62,7 @@ Por medio de convenios con instituciones como el Laboratorio Tecnológico del Ur
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Matemática 1**
 
@@ -87,7 +85,6 @@ Presenta una introducción a las técnicas y aplicaciones vinculadas a la utiliz
 Introduce al alumno a los aspectos principales del trabajo en laboratorio, enfatizando las normas de seguridad, correcta manipulación, uso de equipos básicos de laboratorio (ph-metro, balanzas, centrífuga, espectrofotómetro) y registro y procesamiento de datos. Se pretende que el alumno desarrolle destreza en el manejo práctico, así como ejercitar aspectos relacionados con la estructura de la materia, nomenclatura, estequiometria de las reacciones, pH y su medición, soluciones amortiguadoras, titulaciones, equilibrio químico y cinética química.
 
 ### 2.º semestre
-
 
 **Matemática 2**
 
@@ -115,9 +112,7 @@ Estudia las bases químicas y fisicoquímicas del comportamiento de las diferent
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Probabilidad y estadística**
 
@@ -145,7 +140,6 @@ Trata las nociones básicas de la protección de la propiedad intelectual e indu
 
 ### 4.º semestre
 
-
 **Genética y evolución**
 
 A partir de los conceptos de información biológica e interacción molecular como fundamentos de la vida, presenta los fundamentos de la herencia y la variación en los seres vivos para comprender la base material de la herencia y la diversidad biológica. Analiza los distintos niveles en los que estos fenómenos pueden estudiarse y ser modificados. Presenta una visión del concepto de genoma y postgenoma. Estudia las leyes que explican el comportamiento de los genes en las familias y las poblaciones. Presenta las potenciales implicancias de estos conocimientos sobre nuestra sociedad, salud y formas de producción.
@@ -172,9 +166,7 @@ Integrar aspectos fundamentales y aplicados de la enzimología moderna desde un 
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Programación**
 
@@ -198,7 +190,6 @@ Introduce los fundamentos para el desarrollo de metodologías de clonado y prese
 
 ### 6.º semestre
 
-
 **Bioinformática 1**
 
 Introduce los conceptos básicos del análisis de secuencias biológicas, así como las herramientas básicas para dicho análisis. A partir de este curso el estudiante será capaz de ubicar los repositorios claves de secuencias, así como extraer información relevante a partir de estas. Desarrollará habilidades que le permitan estudiar la estructura y propiedades de biomoléculas claves asociadas a problemas biológicos, bioquímicos y/o farmacoquímicos, así como la aplicación de nuevos métodos y recursos bioinformáticos de modelado y predicción.
@@ -221,9 +212,7 @@ Enseña las técnicas y metodologías microbiológicas tradicionales, con el obj
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Bioinformática 2**
 
@@ -250,7 +239,6 @@ Curso práctico que permite al estudiante adquirir la capacidad y destrezas téc
 Presenta conceptos generales sobre los virus y la estructura viral. Trata la relación virus-célula, la multiplicación viral, interferencia, evolución y genética viral. Estudia la inmunología viral, la transformación de células inducida por virus y las familias virales. Presenta la genética molecular de virus y los métodos de diagnóstico viral.
 
 ### 8.º semestre
-
 
 **Trabajo de grado**
 

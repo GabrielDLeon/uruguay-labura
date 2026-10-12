@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Químico Farmacéutico
 - Bioquímico Clínico
 - Químico (orientaciones: Agrícola y Medio Ambiente, Calidad, Materiales)

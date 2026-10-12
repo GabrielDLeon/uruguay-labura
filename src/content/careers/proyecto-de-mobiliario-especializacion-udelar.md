@@ -29,17 +29,17 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=7'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=2&idPosgrado=7'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=7"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=2&idPosgrado=7"
 ---
 
 ## Resumen
 
 ### Objetivo
 
-OBJETIVOS DE LA PROPUESTA EDUCATIVA 1_ Otorgar formación de posgrado (especialización) en el proyecto de mobiliario, propendiendo a la formación de profesionales especializados en el diseño de objetos de equipamiento fijo y móvil, referido a un espacio arquitectónico definido o con independencia de una estructura física determinada. 2_ Perfeccionar un profesional con capacidad de intervenir en la industria del equipamiento, con conocimientos técnicos y teóricos que le permitan desarrollar proyectos pertinentes para el medio. 3_ Integrar conocimientos propios de la disciplina que se desarrollan en distintos servicios educativos: Facultad de Arquitectura, UTU, Centro de Diseño Industrial, Facultad de Ingeniería. 4_ Canalizar en una propuesta educativa concreta las investigaciones y conocimientos generados en el ámbito de investigación propio del Instituto de Diseño y otros ámbitos de la Facultad de Arquitectura y del medio. 5_ Propender al desarrollo disciplinar en la materia, coordinando enseñanza directa con las actividades de investigación desarrolladas en el ámbito del idD 6_ Propender a una mejora de la calidad de vida de la sociedad en su conjunto y especialmente de aquellos sectores de mas bajos recursos donde se dificulta el acceso a equipamiento “diseñado” y por lo tanto a mejores estándares de vida. 7_ Posicionar adecuadamente a través del desarrollo disciplinar, las virtudes y alcances del diseño de productos de equipamiento , tanto para los diversos aspectos de la vida cotidiana como para el desarrollo productivo del país. 8_ Propiciar el incremento en el mercado de productos correctamente diseñados, impactando así directamente en la calidad de vida de la sociedad y en la satisfacción de demandas concretas del medio.
+OBJETIVOS DE LA PROPUESTA EDUCATIVA 1* Otorgar formación de posgrado (especialización) en el proyecto de mobiliario, propendiendo a la formación de profesionales especializados en el diseño de objetos de equipamiento fijo y móvil, referido a un espacio arquitectónico definido o con independencia de una estructura física determinada. 2* Perfeccionar un profesional con capacidad de intervenir en la industria del equipamiento, con conocimientos técnicos y teóricos que le permitan desarrollar proyectos pertinentes para el medio. 3* Integrar conocimientos propios de la disciplina que se desarrollan en distintos servicios educativos: Facultad de Arquitectura, UTU, Centro de Diseño Industrial, Facultad de Ingeniería. 4* Canalizar en una propuesta educativa concreta las investigaciones y conocimientos generados en el ámbito de investigación propio del Instituto de Diseño y otros ámbitos de la Facultad de Arquitectura y del medio. 5* Propender al desarrollo disciplinar en la materia, coordinando enseñanza directa con las actividades de investigación desarrolladas en el ámbito del idD 6* Propender a una mejora de la calidad de vida de la sociedad en su conjunto y especialmente de aquellos sectores de mas bajos recursos donde se dificulta el acceso a equipamiento “diseñado” y por lo tanto a mejores estándares de vida. 7* Posicionar adecuadamente a través del desarrollo disciplinar, las virtudes y alcances del diseño de productos de equipamiento , tanto para los diversos aspectos de la vida cotidiana como para el desarrollo productivo del país. 8* Propiciar el incremento en el mercado de productos correctamente diseñados, impactando así directamente en la calidad de vida de la sociedad y en la satisfacción de demandas concretas del medio.
 
 ### Referentes académicos
 
@@ -59,7 +59,7 @@ El posgrado tendrá una estructura de 9 cursos de distinta carga horaria de acue
 
 ### Unidades curriculares
 
-01_ [P] representación del mobiliario 02_ [P] proyecto (incluye la fabricación del prototipo) 03_ [T] materiales y procedimientos 04_ [T] técnicas de fabricación y producción 05_ [T] ergonomía 06_ [T] gestión del diseño 07_ [T/H] puertas adentro, interioridad y espacio doméstico en el siglo XX 08_ [T/H] historia del mobiliario moderno 09_ [T/H] atributos del mueble 10_ [T o T/H] tesina
+01* [P] representación del mobiliario 02* [P] proyecto (incluye la fabricación del prototipo) 03* [T] materiales y procedimientos 04* [T] técnicas de fabricación y producción 05* [T] ergonomía 06* [T] gestión del diseño 07* [T/H] puertas adentro, interioridad y espacio doméstico en el siglo XX 08* [T/H] historia del mobiliario moderno 09* [T/H] atributos del mueble 10* [T o T/H] tesina
 
 ## Inscripción
 

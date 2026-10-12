@@ -27,20 +27,17 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"
 sources:
-  - label: 'Bases convocatoria 2027-2028 (PDF)'
-    url: 'https://www.artes.udelar.edu.uy/wp-content/uploads/2023/08/260513-Bases-para-la-convocatoria-a-programa-de-posgrado-FArtes.pdf'
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=2'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=86&idPosgrado=2'
-  - label: 'Maestría en Arte Sonoro – Facultad de Artes'
-    url: 'https://www.artes.udelar.edu.uy/carrera/maestria-en-arte-sonoro/'
-  - label: 'Plan de estudios (PDF)'
-    url: 'https://www.artes.udelar.edu.uy/wp-content/uploads/2026/05/plan-de-estudios-maestria-en-arte-sonoro.pdf'
+  - label: "Bases convocatoria 2027-2028 (PDF)"
+    url: "https://www.artes.udelar.edu.uy/wp-content/uploads/2023/08/260513-Bases-para-la-convocatoria-a-programa-de-posgrado-FArtes.pdf"
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=2"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=86&idPosgrado=2"
+  - label: "Maestría en Arte Sonoro – Facultad de Artes"
+    url: "https://www.artes.udelar.edu.uy/carrera/maestria-en-arte-sonoro/"
+  - label: "Plan de estudios (PDF)"
+    url: "https://www.artes.udelar.edu.uy/wp-content/uploads/2026/05/plan-de-estudios-maestria-en-arte-sonoro.pdf"
 ---
-
-
-
 
 ## Resumen
 

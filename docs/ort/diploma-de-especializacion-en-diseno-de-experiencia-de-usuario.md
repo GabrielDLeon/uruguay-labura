@@ -50,9 +50,7 @@ Se cubren aspectos de diseño visual, percepción, cognición, así como la orga
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Investigación de usuario y análisis de datos**
 
@@ -68,13 +66,11 @@ Este curso busca desarrollar habilidades de pensamiento creativo, entrenando el 
 
 ### Junio
 
-
 **Estrategia de contenido y redacción UX**
 
 Introduce a los estudiantes a la disciplina del diseño de contenidos y UX Writing, y su rol tanto dentro del proceso de design thinking como el de la construcción de productos digitales. Permite conocer la importancia del content first como metodología de trabajo, para crear experiencias centradas en las personas y sus necesidades. Acerca guías y permite incorporar las buenas prácticas de la disciplina para poder construir historias y comunicaciones que potencien la experiencia digital de las personas. Créditos: 4
 
 ### Julio - Setiembre
-
 
 **Arquitectura de la información**
 
@@ -90,13 +86,11 @@ Este curso profundiza en la teoría y práctica del diseño de interfaces, abarc
 
 ### Setiembre
 
-
 **Electiva**
 
 Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Habilidades gerenciales y gestión de equipos Incorpora la visión de administración y desarrollo de habilidades gerenciales y estudia la relevancia del gerente de comunicación dentro del equipo de la alta gerencia de la empresa. Examina los modelos de toma de decisiones, el proceso de asignación de recursos, el impacto de la comunicación en la gestión de equipos y los indicadores de desempeño en la gestión. Innovación y estrategia de tecnología Este curso busca generar habilidades para el análisis del contexto tecnológico, el desarrollo de las habilidades de innovación y las prácticas para hacer de éstos un hábito del individuo y de la organización. El contexto extremadamente dinámico de cambios en la industria de tecnología requiere de habilidades para su entendimiento, aprovechamiento e innovación para permitir a cualquier organización mantenerse competitiva. El curso utiliza lecturas, análisis de casos, presentaciones y lectura independiente. Los contenidos y metodología buscan: El contacto de los alumnos con el contexto actual tecnológico. El entendimiento de la dinámica actual de cambios y extracción de aprendizajes de los mismos. La adquisición de técnicas que fomenten la innovación y su gestión. El desarrollo de capacidades de análisis. Organización orientada al cliente El objetivo del curso es que el estudiante desarrolle un entendimiento de cómo implementar la filosofía de negocios del marketing y cómo diseñar las métricas adecuadas para evaluar la gestión del intercambio. En particular, sus objetivos son: Internalizar el concepto de marketing como intercambio de valor entre las partes. Conocer diferentes formas de implementación del concepto de marketing en las organizaciones. Entender las diferentes dimensiones implicadas en la orientación al mercado de una organización. Entender la medición como un proceso de negocios que provee retroalimentación a la organización respecto de los esfuerzos de marketing realizados, en el camino de la implementación efectiva de las estrategias definidas. Entender las diferentes dimensiones de la medición en la gestión de marketing. Conocer las diferentes métricas aplicadas en la gestión de marketing. Aprender a alinear las métricas adecuadas a las estrategias y programas definidos. Taller de creatividad e innovación en Media Lab Esta materia busca implicar y capacitar a los estudiantes para buscar activamente soluciones creativas a problemas reales, que puedan tener un impacto positivo en la sociedad, a partir de trabajo práctico en equipos multidisciplinarios. Se busca que los participantes sean capaces de: Aplicar el diseño centrado en las personas para identificar oportunidades de innovación. Asumir un rol de conocedor o experto en el campo para transformar insights en proyectos con valor económico, social, cultural, regional y medio ambiental. Implementar habilidades adquiridas y desarrolladas en materias previas para desarrollar una reflexión crítica a través del uso de herramientas, técnicas y métodos. Potenciar el desarrollo de sus habilidades blandas o Soft Skills. Redefinir tareas en una serie de ejercicios para llevar a cabo un proyecto en equipo. Desarrollar un modelo con el potencial de ser derivado a escala real. Poner en práctica una cultura de innovación al llevar a cabo experimentos y las lecciones aprendidas de múltiples intentos fallidos. Capacidad para recibir y brindar críticas constructivas en la fase de ideación. Ejercitar la habilidad de trabajar de manera colaborativa y mantener un esquema o calendario de trabajo. Gestión de proyectos para emprendedores Trabaja sobre las características de los emprendimientos ágiles y las metodologías utilizadas por este tipo de emprendedores para llevar adelante sus ideas de negocio. Permite dominar los fundamentos de la gestión de un emprendimiento: estrategia, ventajas competitivas y propuesta de valor, así como el análisis y la gestión de los diferentes modelos de negocios aplicables a un emprendimiento.
 
 ### Octubre - Diciembre
-
 
 **Diseño ético y responsable**
 
@@ -108,13 +102,11 @@ Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicac
 
 ### Diciembre
 
-
 **Marca personal, comunicación y negociación**
 
 Este curso se centra en desarrollar una marca personal sólida y coherente, abordando aspectos como la propuesta de valor única, la estrategia de comunicación y la gestión de la reputación personal. Los estudiantes aprenderán a reconocer y desarrollar competencias que potencien su capacidad de interacción, motivación y liderazgo en diversas situaciones, incluyendo momentos de tensión y conflicto. Además, se analizarán diferentes tipos de liderazgo y formatos de equipos de trabajo, así como los roles y mecanismos de interacción en los mismos. Entrenará la adaptación y flexibilidad necesarias para liderar equipos en procesos cotidianos y de cambio. Finalmente, se explorarán criterios y herramientas para mejorar la gestión en equipos y técnicas de negociación, incluyendo la elaboración de un mapa de poder y su relevancia en la gestión de la comunicación. Créditos: 4
 
 ### Octubre - Abril
-
 
 **Caso integrador: Diseño de experiencia de usuario**
 

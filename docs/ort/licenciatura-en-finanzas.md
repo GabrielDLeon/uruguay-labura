@@ -38,9 +38,7 @@ Esta licenciatura combina ambos mundos con un enfoque práctico distintivo que i
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Introducción a la contabilidad financiera**
 
@@ -64,7 +62,6 @@ El curso refiere a cálculo con dos grandes temas: cálculo en una variable e in
 
 ### 2.° semestre
 
-
 **Contabilidad financiera intermedia**
 
 Esta materia profundiza en el tratamiento contable de cuentas específicas. Se estudian las cuentas por cobrar, incluyendo el cálculo de pérdidas crediticias esperadas. Se abordan las provisiones y contingencias según normativa vigente. Se analizan los activos de largo plazo: propiedades, planta y equipo, activos intangibles y propiedades de inversión, incluyendo su reconocimiento, medición y revelación. Un componente fundamental es el estudio del deterioro de activos, desarrollando la capacidad de evaluar y contabilizar pérdidas por deterioro. La materia integra conocimientos previos aplicándolos a situaciones contables específicas y casos prácticos complejos.
@@ -87,9 +84,7 @@ El curso ofrece una introducción al estudio de instrumentos matemáticos que se
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Análisis de información financiera**
 
@@ -113,7 +108,6 @@ El objetivo general de este curso es desarrollar capacidades para el diseño de 
 
 ### 4.° semestre
 
-
 **Proceso de presupuestación**
 
 El objetivo de la materia es capacitar al estudiante en la elaboración y control de presupuestos en el contexto de la actividad empresarial, haciendo énfasis en su importancia y su aplicabilidad, así como en las diferentes herramientas y metodologías disponibles para facilitar el proceso. Estudian temas tales como: proceso de planificación, presupuesto integral, presupuesto e inflación, presupuestos operativos, control presupuestario y la consideración del riesgo en el proceso presupuestario.
@@ -136,9 +130,7 @@ El curso apunta a una comprensión de la lógica económica y jurídica de las t
 
 ## 3.er año
 
-
 ### 5.° semestre
-
 
 **Finanzas: decisiones de inversion**
 
@@ -158,7 +150,6 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ### 6.° semestre
 
-
 **Sostenibilidad y gestión de riesgos**
 
 Desarrollar competencias integrales en la identificación, evaluación y gestión de riesgos financieros tradicionales y emergentes, incorporando criterios de sostenibilidad (ESG) en la toma de decisiones financieras y estratégicas, preparando profesionales capaces de gestionar los desafíos financieros del siglo XXI.
@@ -177,9 +168,7 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ## 4.° año
 
-
 ### 7.° semestre
-
 
 **Big data en inversiones**
 
@@ -198,7 +187,6 @@ El objetivo de este curso es darle a los estudiantes las herramientas necesarias
 Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Machine learning no supervisado Al finalizar el curso, el estudiante es capaz de entender problemas de aprendizaje estadístico no supervisados, especificar su estructura, desarrollar y aplicar algoritmos para su resolución y comprender sus diagnósticos. El curso incluye el empleo de herramientas de programación en R y manejo de paquetes estadísticos para acercar la teoría a la práctica y permitir su aplicación a casos empíricos concretos. Machine learning para análisis supervisado Introduce al estudiante a las técnicas de machine learning bajo análisis supervisado, tanto en problemas de regresión como de clasificación. El objetivo es que conozca, comprenda y sepa aplicar los modelos más relevantes de la disciplina a la predicción de casos reales. El foco está puesto en el estudio de modelos de predicción y su evaluación, destacando el campo de aplicación en cada caso. Se optimiza el contenido teórico – práctico para un mayor entendimiento usando el programa R como ambiente de aplicación. Deep Learning El curso intenta introducir al estudiante en las técnicas de Deep Learning o Redes Neuronales a diferentes aplicaciones. El objetivo es que los estudiantes comprendan las ventajas y desventajas de usar Redes Neuronales a casos concretos y sepan aplicar los modelos más relevantes de la disciplina a la predicción de casos reales. El curso intenta optimizar el contenido teórico – práctico para el mayor entendimiento; y usa como ambientes de aplicación los programas R, Python y Tensorflow. Economía Bancaria Este curso ofrece una visión integral y rigurosa de la economía bancaria, combinando marcos conceptuales con evidencia empírica y aplicaciones prácticas. Se parte del análisis de las fricciones financieras que justifican la existencia de los bancos, para luego abordar su estructura, los riesgos que enfrentan y el impacto que pueden tener sobre la estabilidad económica. Se abordan temas centrales como la banca relacional, la competencia en mercados de dos lados, la prevalencia de los contratos de deuda y las crisis de liquidez, junto con el análisis de la respuesta regulatoria desde una perspectiva tanto microprudencial como macroprudencial. El curso también incorpora debates actuales sobre innovación financiera y el desarrollo de las FinTech, brindando a los estudiantes herramientas para comprender y evaluar críticamente las transformaciones en el sistema financiero. Ciencia del Comportamiento para la toma de decisiones Muchos de los problemas más desafiantes de hoy están arraigados en el comportamiento humano. El objetivo de este curso es brindar a los estudiantes los conceptos, herramientas y metodologías fundamentales de la Ciencia del Comportamiento, para entender los factores que motivan nuestras acciones. Basado en evidencia reciente de la economía, la psicología y otras disciplinas, se explorarán las técnicas utilizadas para diseñar y evaluar intervenciones eficaces. Está dirigido a estudiantes interesados en comprender el comportamiento desde un enfoque realista y basado en evidencia, y su aplicación en diversos contextos desde el diseño de políticas públicas hasta la gestión de recursos humanos y la toma de decisiones gerenciales. Regulación y Tributos Laborales El curso apunta a una comprensión práctica de la lógica económica y jurídica del derecho laboral y de los tributos que gravan el trabajo en Uruguay. El derecho laboral es analizado desde la perspectiva de la empresa como un marco regulatorio que le impone limitaciones a sus negociaciones con el personal, le crea obligaciones formales y sustanciales, y le genera contingencias económicas. El propósito del curso es permitir que el estudiante sea capaz de analizar y detectar riesgos y contingencias de origen laboral. Asimismo, en lo que refiere a la tributación sobre el trabajo, el curso brinda una formación en profundidad en lo que tiene que ver con la tributación sobre el trabajo en nuestro país, permitiendo que el estudiante evalúe tanto los costos tributarios de diseños laborales alternativos como sus contingencias. Administración General Administrar, o mejor dicho gerenciar, es esencialmente lograr que una organización alcance unos objetivos que se ha fijado en un entorno con restricciones e incertidumbres, y mediante el uso de recursos limitados. En esta materia se presentan los conceptos y procesos propios de la disciplina de la administración. Además, se comienzan a adquirir las habilidades de investigación y análisis que son necesarios para el ejercicio de esta función. Comercio Internacional Presenta los conceptos básicos del comercio exterior, los principales procedimientos operativos, formas de transporte internacional e instrumentos de pago. El estudiante obtiene una comprensión básica de las políticas orientadas al comercio internacional y las principales tendencias, tales como acuerdos internacionales y su impacto sobre el resto de la economía y la sociedad uruguaya. Investigación de Mercados en la Era Digital El curso tiene como objetivo que el alumno conozca la metodología básica que emplea la investigación de mercados, conocer las técnicas usualmente aplicadas, ser capaz de solicitar estudios de empresas especializadas, así como evaluar la calidad de los informes proporcionados por las mismas. Fundamentos del Marketing Desarrolla los diferentes componentes del marketing empresarial. Partiendo de los fundamentos del marketing, analiza las variables que están fuera de control, las variables controlables y como se combinan en el mix de marketing del mercado, producto-servicio, el sistema de información y control, y demás elementos de análisis y gestión. Marketing Estratégico Analiza los fundamentos de marketing desde una perspectiva estratégica, desarrollando su comprensión y alcance, sus teorías básicas, y sus oportunidades y restricciones. Promueve la asimilación de la filosofía y el vocabulario de marketing, la comprensión del significado de hacer marketing y su rol en la estrategia competitiva. Contabilidad y Administración Financiera del Estado El curso tiene como objetivo el análisis de los aspectos particulares de la contabilidad y la administración financiera del Estado. Incluye, por lo tanto, el estudio de la contabilidad presupuestal, la contabilidad patrimonial y los registros complementarios, así como el alcance de la responsabilidad de los funcionarios públicos y el sistema de control interno y externo que rige en el Estado uruguayo. Estrategia y Competencia Parte de la base de que las empresas para poder ser exitosas deben comprender el entorno en el que operan, así como las habilidades y recursos que las distinguen, es decir, cuál es su ventaja competitiva. La elección en cuanto a estas dimensiones se denomina estrategia. Los estudiantes desarrollan habilidades en la formulación de estrategias viables, que generen valor para los clientes, los accionistas y demás partes interesadas. Organización y Gerencia El curso enfatiza la concepción sistémica de las organizaciones en entornos complejos y dinámicos, el rol del liderazgo y su influencia en los procesos grupales, el diseño y la cultura organizacional, así como el manejo de conflictos, procesos de cambio y las distintas etapas de las empresas durante su ciclo de vida. Planificación Financiera El objetivo de la materia es integrar los diferentes conocimientos adquiridos en los semestres previos sobre estrategia, presupuestación, análisis de estados contables y finanzas, como pilares fundamentarles del proceso de Planificación Financiera. Se enfatiza la importancia y aplicabilidad que el proceso de Planificación Financiera tiene en la realidad de cualquier empresa y se presentan diferentes herramientas y metodologías disponibles para facilitar su desarrollo, en especial para considerar los riesgos a los que la actividad se encuentra expuesta.
 
 ### 8.° semestre
-
 
 **Finanzas cuantitativas aplicadas**
 

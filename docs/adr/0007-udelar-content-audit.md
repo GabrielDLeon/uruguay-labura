@@ -57,7 +57,7 @@ por lane en el parent.
 
 15 de los 23 drafts se resolvieron contra la fuente de facultad/sede:
 FCEA publica oferta e inscripciones 2026 (gestion-TI, sist-info-mae,
- sist-info-esp, econ-inclusión: vigencia + precios confirmados en sus
+sist-info-esp, econ-inclusión: vigencia + precios confirmados en sus
 páginas); FDer publica costo (141,75 UR), horarios y créditos (64) de
 Derecho Procesal; CEINBIO reglamenta la Maestría en Alimentos sin cobro;
 Artes confirma cursado presencial de sus tres maestrías en convocatoria
@@ -82,4 +82,4 @@ nota sobre la discrepancia CAP–facultad en créditos y vigencia).
   $ 0,00.
 - hemato-oncología-pediátrica (FMed): vigente (llamado ago-2026) pero
   CAP sin duración ni costo.
-Re-chequear por ciclo de convocatorias (regla ADR 0001.6).
+  Re-chequear por ciclo de convocatorias (regla ADR 0001.6).

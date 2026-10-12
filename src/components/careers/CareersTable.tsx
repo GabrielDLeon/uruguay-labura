@@ -1,19 +1,17 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from "react";
 
-import CareersSkeleton from '@/components/careers/CareersSkeleton'
-import DataTable, {
-  type DataTableColumn,
-} from '@/components/common/DataTable'
-import { degreeTypeLabels } from '@/lib/careers'
-import type { CareerIndexRecord, CareersIndexPayload } from '@/types/careers'
+import CareersSkeleton from "@/components/careers/CareersSkeleton";
+import DataTable, { type DataTableColumn } from "@/components/common/DataTable";
+import { degreeTypeLabels } from "@/lib/careers";
+import type { CareerIndexRecord, CareersIndexPayload } from "@/types/careers";
 
 interface Props {
-  institution: string
+  institution: string;
 }
 
 const columns: DataTableColumn<CareerIndexRecord>[] = [
   {
-    header: 'Título',
+    header: "Título",
     searchText: (career) => [career.title],
     render: (career) => (
       <a
@@ -25,81 +23,81 @@ const columns: DataTableColumn<CareerIndexRecord>[] = [
     ),
   },
   {
-    header: 'Área',
+    header: "Área",
     searchText: (career) => [career.area],
     render: (career) => (
       <span className="text-muted-foreground">{career.area}</span>
     ),
   },
   {
-    header: 'Tipo',
+    header: "Tipo",
     render: (career) => (
       <span className="badge text-xs" data-variant="outline">
         {degreeTypeLabels[career.degreeType] ?? career.degreeType}
       </span>
     ),
   },
-]
+];
 
 export default function CareersTable({ institution }: Props) {
-  const [careers, setCareers] = useState<CareerIndexRecord[]>([])
-  const [isLoading, setIsLoading] = useState(true)
-  const [loadError, setLoadError] = useState<string | null>(null)
-  const [requestAttempt, setRequestAttempt] = useState(0)
+  const [careers, setCareers] = useState<CareerIndexRecord[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [loadError, setLoadError] = useState<string | null>(null);
+  const [requestAttempt, setRequestAttempt] = useState(0);
 
   useEffect(() => {
-    const controller = new AbortController()
-    let isCancelled = false
+    const controller = new AbortController();
+    let isCancelled = false;
 
     async function loadCareers() {
-      setIsLoading(true)
-      setLoadError(null)
+      setIsLoading(true);
+      setLoadError(null);
 
       try {
         const response = await fetch(`/carreras/${institution}.json`, {
           headers: {
-            Accept: 'application/json',
+            Accept: "application/json",
           },
           signal: controller.signal,
-        })
+        });
 
         if (!response.ok) {
           throw new Error(
             `No se pudo cargar el índice de carreras (${response.status})`,
-          )
+          );
         }
 
-        const payload = (await response.json()) as CareersIndexPayload
+        const payload = (await response.json()) as CareersIndexPayload;
         if (!payload || !Array.isArray(payload.careers)) {
-          throw new Error('Índice de carreras con formato inválido')
+          throw new Error("Índice de carreras con formato inválido");
         }
 
         if (!isCancelled) {
-          setCareers(payload.careers)
+          setCareers(payload.careers);
         }
       } catch (error) {
         if (!isCancelled && !controller.signal.aborted) {
           setLoadError(
-            error instanceof Error ? error.message : 'Error desconocido',
-          )
+            error instanceof Error ? error.message : "Error desconocido",
+          );
         }
       } finally {
         if (!isCancelled) {
-          setIsLoading(false)
+          setIsLoading(false);
         }
       }
     }
 
-    loadCareers()
+    loadCareers();
 
     return () => {
-      isCancelled = true
-      controller.abort()
-    }
-  }, [institution, requestAttempt])
+      isCancelled = true;
+      controller.abort();
+    };
+  }, [institution, requestAttempt]);
 
   if (isLoading) {
-    return <CareersSkeleton />
+    return <CareersSkeleton />;
   }
 
   if (loadError) {
@@ -116,7 +114,7 @@ export default function CareersTable({ institution }: Props) {
           Reintentar
         </button>
       </div>
-    )
+    );
   }
 
   return (
@@ -128,5 +126,5 @@ export default function CareersTable({ institution }: Props) {
       searchPlaceholder="Buscar por título o área"
       itemsPerPage={10}
     />
-  )
+  );
 }

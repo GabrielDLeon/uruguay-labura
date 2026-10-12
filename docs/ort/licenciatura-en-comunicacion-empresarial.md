@@ -42,9 +42,7 @@ Desde la gerencia de comunicación son capaces de diseñar y liderar la estrateg
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Expresión oral y escrita**
 
@@ -68,7 +66,6 @@ La materia propone una inducción a las bases teóricas y a la investigación di
 
 ### 2.° semestre
 
-
 **Redacción expresiva**
 
 La materia aborda la temática de los actos lingüísticos en la información textual, trabajando el nivel denotativo y connotativo. Estudia las tipologías textuales —informativa, explicativa, narrativa y dialogada— y las funciones de lenguaje en relación con el contexto. Créditos: 6
@@ -91,9 +88,7 @@ La asignatura comprende el estudio de las funciones básicas del líder organiza
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Escrituras creativas**
 
@@ -117,7 +112,6 @@ La asignatura tiene como fin aportar herramientas para la comprensión del entor
 
 ### 4.° semestre
 
-
 **Metodología de la investigación en comunicación**
 
 Durante el curso los estudiantes aprenderán a identificar las etapas del proceso de investigación de las Ciencias Sociales y a aplicar técnicas de investigación cualitativas, cuantitativas y mixtas, así como a fundamentar su uso en estudios de específicos del campo de la comunicación. También serán capaces de elegir diferentes tipos de diseños y herramientas de investigación de manera efectiva. Esta materia es la base conceptual y analítica que prepara a los estudiantes para el Proyecto Final de la carrera. Créditos: 6
@@ -140,9 +134,7 @@ El curso propone reflexionar sobre la importancia del liderazgo y el trabajo en 
 
 ## 3.er año
 
-
 ### 5.° semestre
-
 
 **Industrias culturales y del entretenimiento**
 
@@ -166,7 +158,6 @@ El curso propone introducir los elementos básicos de la narración y sus partic
 
 ### 6.° semestre
 
-
 **Asuntos públicos y comunciación de crisis**
 
 El curso conceptualiza el rol y la función estratégica del comunicador en contextos y situaciones de crisis de la organización, abarcando la prevención, el manejo profesional y la gestión y resolución del conflicto, con especial énfasis en las vinculaciones con el entorno y la sociedad. Entrena la mirada analítica abordando casos reales de gestión de asuntos públicos con fuertes implicancias en el entorno social. Créditos: 6
@@ -189,9 +180,7 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ## 4.° año
 
-
 ### 7.° semestre
-
 
 **Seminario de proyecto final**
 
@@ -215,7 +204,6 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ### 8.° semestre
 
-
 **Proyecto final**
 
 Es una instancia individual o grupal de cierre de carrera en la que el alumno desarrolla un proyecto de corte profesional o un trabajo académico-científico de integración de conocimientos en su área. Las dos opciones implican un componente decisivo de investigación y un despliegue de estrategias y métodos de trabajo (académico / profesional) que acrediten un sólido dominio de saberes adquiridos a lo largo de toda la carrera. Créditos: 18
@@ -238,7 +226,7 @@ Presencial. Muchas asignaturas complementan sus dictados a través de la modalid
 
 ## Duración y horarios (detalle)
 
-Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino Semestres 5 al 8: nocturno * * Algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino Semestres 5 al 8: nocturno \* \* Algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ## Títulos y reconocimientos
 

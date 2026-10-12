@@ -54,7 +54,10 @@ export default function SavedSearchCard({
   const showChips =
     chips.length > 0 &&
     search.name.trim().toLowerCase() !== autoName.trim().toLowerCase();
-  const newIds = useMemo(() => new Set(newJobs.map((job) => job.id)), [newJobs]);
+  const newIds = useMemo(
+    () => new Set(newJobs.map((job) => job.id)),
+    [newJobs],
+  );
   const displayJobs = onlyNew ? newJobs : matches;
 
   useEffect(() => {
@@ -134,10 +137,7 @@ export default function SavedSearchCard({
                 {newCount} nueva{newCount !== 1 ? "s" : ""}
               </span>
             ) : (
-              <span
-                className="badge shrink-0 text-xs"
-                data-variant="secondary"
-              >
+              <span className="badge shrink-0 text-xs" data-variant="secondary">
                 Sin novedades
               </span>
             )}

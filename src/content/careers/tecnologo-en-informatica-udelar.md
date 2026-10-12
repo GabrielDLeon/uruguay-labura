@@ -28,14 +28,14 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/tecnologo-en-informatica'
-  - label: 'Carrera compartida (UTEC)'
-    url: 'https://utec.edu.uy/es/educacion/carrera/tecnologo-en-informatica/'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico'
+  - label: "Página oficial"
+    url: "https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/tecnologo-en-informatica"
+  - label: "Carrera compartida (UTEC)"
+    url: "https://utec.edu.uy/es/educacion/carrera/tecnologo-en-informatica/"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.fing.edu.uy/es/carrera/grado/tecn%C3%B3logo-inform%C3%A1tico"
 ---
 
 ## Resumen

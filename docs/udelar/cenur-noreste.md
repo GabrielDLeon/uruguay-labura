@@ -4,6 +4,7 @@
 **Ubicación:** Rivera, Tacuarembó, Cerro Largo
 
 ## Carreras de Grado
+
 - Ingeniería Forestal (Tacuarembó)
 - Tecnólogo en Madera (Rivera)
 - Licenciatura en Enfermería

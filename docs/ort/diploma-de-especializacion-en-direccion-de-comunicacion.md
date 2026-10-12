@@ -44,9 +44,7 @@ Es en ese contexto surge a nivel internacional la figura del DirCom: una funció
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Dirección de comunicación y compromiso social empresarial**
 
@@ -62,13 +60,11 @@ Comprende el valor estratégico del vínculo que las empresas construyen y desar
 
 ### Junio
 
-
 **Estrategia de contenido y redacción UX**
 
 Introduce a los estudiantes a la disciplina del diseño de contenidos y UX Writing, y su rol tanto dentro del proceso de design thinking como el de la construcción de productos digitales. Permite conocer la importancia del content first como metodología de trabajo, para crear experiencias centradas en las personas y sus necesidades. Acerca guías y permite incorporar las buenas prácticas de la disciplina para poder construir historias y comunicaciones que potencien la experiencia digital de las personas. Créditos: 4
 
 ### Julio - Setiembre
-
 
 **Asuntos públicos, reputación y manejo de crisis**
 
@@ -84,13 +80,11 @@ Desarrolla el pensamiento estratégico de comunicación en línea integrado al p
 
 ### Setiembre
 
-
 **Electiva**
 
 Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Habilidades gerenciales y gestión de equipos Incorpora la visión de administración y desarrollo de habilidades gerenciales y estudia la relevancia del gerente de Comunicación dentro del equipo de la alta gerencia de la empresa. Examina los modelos de toma de decisiones, el proceso de asignación de recursos, el impacto de la comunicación en la gestión de equipos y los indicadores de desempeño en la gestión. Persona y organización Brinda conocimientos sobre la función y aportes desarrollados por la Psicología Laboral para la comprensión y análisis del comportamiento humano en el trabajo. Aborda el estudio de los fenómenos psicológicos configurados por la peculiar interacción dinámica existente entre la persona y la organización, considerando los principales atributos de la personalidad que influyen en el comportamiento, percepción y personalidad, satisfacción, motivación y desempeño laboral, la subjetividad del perceptor y sus efectos en la dinámica cotidiana de la organización, satisfacción, motivación y desempeño laboral. Organización orientada al cliente Capacita para orientar la empresa al mercado en cuanto a la inteligencia de marketing, la diseminación de dicha inteligencia a lo largo de la organización y la respuesta de toda la empresa de forma integral al cliente. Capacita para diseñar las métricas adecuadas para la orientación y evaluación de las actividades de marketing. Taller de creatividad e innovación en Media Lab Esta materia busca implicar y capacitar a los estudiantes para buscar activamente soluciones creativas a problemas reales, que puedan tener un impacto positivo en la sociedad, a partir de trabajo práctico en equipos multidisciplinarios. Se busca que los participantes sean capaces de: Aplicar el diseño centrado en las personas para identificar oportunidades de innovación. Asumir un rol de conocedor o experto en el campo para transformar insights en proyectos con valor económico, social, cultural, regional y medio ambiental. Implementar habilidades adquiridas y desarrolladas en materias previas para desarrollar una reflexión crítica a través del uso de herramientas, técnicas y métodos. Potenciar el desarrollo de sus habilidades blandas o Soft Skills. Redefinir tareas en una serie de ejercicios para llevar a cabo un proyecto en equipo. Desarrollar un modelo con el potencial de ser derivado a escala real. Poner en práctica una cultura de innovación al llevar a cabo experimentos y las lecciones aprendidas de múltiples intentos fallidos. Capacidad para recibir y brindar críticas constructivas en la fase de ideación. Ejercitar la habilidad de trabajar de manera colaborativa y mantener un esquema o calendario de trabajo. E-commerce e integración con servicios digitales Se capacita para identificar los factores claves de una estrategia de e-Commerce, que impulsan a los negocios a crecer de manera rentable a través del canal online, logrando la sustentabilidad responsable del negocio. Comprende los elementos estratégicos de diseño del canal de e-Commerce. Taller de analítica de marketing digital Busca dotar a los alumnos de las definiciones conceptuales y la capacidad operativa para medir y trabajar con métricas digitales. Se enfoca en cómo hacer que el marketing se beneficie de la medición y cómo preparar una estrategia de data para aportar valor al negocio. Visualización y narrativa de datos El estudiante deberá ser capaz de entender proceso para desarrollar visualizaciones efectivas para ser utilizadas en diversos medios de comunicación: reportes estáticos, presentaciones y reportes dinámicos. El curso incluye el empleo de herramientas de programación en R y de Microsoft Excel para la entrega de las visualizaciones. Al finalizar el curso, el estudiante será capaz de diseñar, desarrollar y ofrecer presentaciones efectivas en formato de historia narrativa como resultado del proceso de análisis; como también para ofrecer recomendaciones a nivel directivo y gerencial. Será capaz de desarrollar visualizaciones para diversos medios de comunicación, como presentaciones, reportes estáticos, y reportes dinámicos, utilizando herramientas de programación en R y MSExcel. Gestión de la experiencia del cliente El propósito de esta materia es contribuir a que el estudiante comprenda los conceptos y las herramientas necesarias para diseñar y gestionar la experiencia de cliente (CX) con mirada de “afuera hacia adentro de la organización”. Se enfoca en los elementos de diseño, medición, tecnología, y cultura CX. Innovación y estrategia de tecnología El entendimiento del entorno como elemento clave para la formulación de estrategias. Tendencias y factores microeconómicos que inciden en la formulación de estrategias de negocios en entornos cambiantes y de alta tecnología. Las grandes decisiones de una empresa de tecnología: el balance en el continuo producto/servicios. Seleccionar un mercado horizontal, tecnológico o vertical. Orientarse a consumidores o clientes empresariales. Convertirse en una plataforma o ser un activo complementario y de cuál plataforma. Cruzar o no cruzar el abismo. Transformar productos en servicios. Hosting y otras combinaciones de productos, infraestructura y software. Versioning y software pricing. Bundling de productos y servicios. Partnering. No son solo productos. Plataformas y ecosistemas. Dinámica de la elaboración de estrategias en ecosistemas de innovación. Multisided Business Models. Estrategia de innovación.
 
 ### Octubre - Diciembre
-
 
 **Analítica de datos y comunicación**
 
@@ -102,13 +96,11 @@ Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicac
 
 ### Diciembre
 
-
 **Marca personal, comunicación y negociación**
 
 Este curso se centra en desarrollar una marca personal sólida y coherente, abordando aspectos como la propuesta de valor única, la estrategia de comunicación y la gestión de la reputación personal. Los estudiantes aprenderán a reconocer y desarrollar competencias que potencien su capacidad de interacción, motivación y liderazgo en diversas situaciones, incluyendo momentos de tensión y conflicto. Además, se analizarán diferentes tipos de liderazgo y formatos de equipos de trabajo, así como los roles y mecanismos de interacción en los mismos. Entrenará la adaptación y flexibilidad necesarias para liderar equipos en procesos cotidianos y de cambio. Finalmente, se explorarán criterios y herramientas para mejorar la gestión en equipos y técnicas de negociación, incluyendo la elaboración de un mapa de poder y su relevancia en la gestión de la comunicación. Créditos: 4
 
 ### Octubre - Abril
-
 
 **Caso integrador: Plan estratégico de comunicación**
 

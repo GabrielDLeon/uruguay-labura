@@ -24,16 +24,17 @@ tags:
   - cirugia-pediatrica
   - pediatria
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=11'
-  - label: 'Ficha PDF (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=11'
-  - label: 'Centro de Posgrados FMed – Ingreso (PUR)'
-    url: 'http://www.egradu.fmed.edu.uy/pur'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=11"
+  - label: "Ficha PDF (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=11"
+  - label: "Centro de Posgrados FMed – Ingreso (PUR)"
+    url: "http://www.egradu.fmed.edu.uy/pur"
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28"
 ---
+
 ## Resumen
 
 ### Sobre la Carrera

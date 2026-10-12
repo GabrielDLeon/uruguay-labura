@@ -66,9 +66,7 @@ Cuerpo docente La carrera cuenta con un cuerpo docente altamente calificado, con
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Matemática 1**
 
@@ -88,7 +86,6 @@ Presentar a la bioinformática como un abordaje multidisciplinar para el anális
 
 ### 2.° semestre
 
-
 **Matemática 2**
 
 Desarrollar la capacidad de analizar, plantear y resolver problemas. Manejar clara y precisamente los conceptos y las técnicas del álgebra matricial y su vinculación con las aplicaciones. Estudiar los conceptos y las técnicas del cálculo diferencial de varias variables y su vinculación con las aplicaciones.
@@ -107,9 +104,7 @@ Primer acercamiento práctico (con una programación y biología ya cursada). Re
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Probabilidad y estadística 1**
 
@@ -128,7 +123,6 @@ Estudiar el álgebra matricial y los espacios vectoriales con sus aplicaciones. 
 El objetivo de esta asignatura es que el estudiante aprenda las técnicas fundamentales de diseño y análisis de algoritmos y de estructuras de datos. La aprobación del curso deberá implicar que el estudiante haya adquirido habilidades de resolución de problemas no triviales por medio de algoritmos, así como la capacidad de argumentar sobre las propiedades relevantes de sus soluciones, tanto en el plano de su corrección como en los aspectos cuantitativos relativos al desempeño computacional.
 
 ### 4.º semestre
-
 
 **Biología molecular**
 
@@ -152,9 +146,7 @@ Diseñar bases de datos a nivel conceptual y lógico, expresar consultas usando 
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Ingeniería genética**
 
@@ -178,7 +170,6 @@ Esta asignatura presenta la estructura del sector industrial y sus principales s
 
 ### 6.º semestre
 
-
 **Evolución**
 
 En este curso se repasarán algunos conceptos vistos en Genética y Evolución y se profundizará en la Teoría Sintética Evolutiva Moderna. Se acercará a los estudiantes a dos siglos de pensamiento, partiendo desde Lamarck y otras hipótesis pre-darwineanas, pasando por la Teoría de la Evolución por Selección Natural presentada por Darwin y Wallace en el siglo XIX, hasta la Síntesis Evolutiva Moderna de Dobzhansky, Mayr, y Simpson, y tendencias actuales como mutación, seleccionismo, neutralismo, deriva génica y flujo génico. Se verá cómo opera la evolución a diferentes escalas de organización biológica, y cómo influye la geografía en las estructuras poblacionales. Se profundizará en evolución molecular y evolución genómica. Se abordará el efecto del aislamiento reproductivo y la hibridación en relación con la especiación.
@@ -201,9 +192,7 @@ Este curso ofrece una introducción a la biología de sistemas, enseñando cómo
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Biología estructural computacional 2**
 
@@ -226,7 +215,6 @@ Introducción a las señales y sistemas. Ruido, filtros, normalización, error. 
 Se aprenderá un lenguaje compilado de bajo nivel para el desarrollo de aplicaciones de alta performance.
 
 ### 8.º semestre
-
 
 **Comunicación científica y visual de datos e información**
 

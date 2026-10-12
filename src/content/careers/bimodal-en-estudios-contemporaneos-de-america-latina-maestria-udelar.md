@@ -27,14 +27,14 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=31'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=31'
-  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
-    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
-  - label: 'Maestría Bimodal – FCS'
-    url: 'https://cienciassociales.edu.uy/maestria-bimodal-en-estudios-contemporaneos-de-america-latina/'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=31"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=31"
+  - label: "Postulaciones – Bedelía de Posgrados (FCS)"
+    url: "https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
+  - label: "Maestría Bimodal – FCS"
+    url: "https://cienciassociales.edu.uy/maestria-bimodal-en-estudios-contemporaneos-de-america-latina/"
 ---
 
 ## Resumen

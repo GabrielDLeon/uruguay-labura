@@ -28,10 +28,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=2'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=51&idPosgrado=2'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=2"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=51&idPosgrado=2"
 ---
 
 ## Resumen
@@ -49,6 +49,7 @@ Dr. José Vieitez, Dr. Armando Treibich, Dr. Angel Pereyra (UDELAR), Dra. Cristi
 ### Reglamento
 
 [Reglamento del Diploma en Matemática (ANEP-Udelar)](https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=2)
+
 ### Requisitos de Ingreso
 
 Poseer título de grado en Matemática o en Ciencias Afines (Física, Ingeniería) expedido por la UdelaR o asimilable de otra institución universitaria, o poseer título de profesor de Enseñanza Media en Matemática expedido por la ANEP o asimilable.

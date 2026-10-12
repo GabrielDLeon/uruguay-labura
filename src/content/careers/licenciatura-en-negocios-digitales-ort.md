@@ -30,16 +30,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://facs.ort.edu.uy/licenciatura-en-negocios-digitales'
-  - label: 'Plan de estudios'
-    url: 'https://facs.ort.edu.uy/licenciatura-en-negocios-digitales/plan-de-estudios'
-  - label: 'Listado de carreras universitarias'
-    url: 'https://www.ort.edu.uy/carreras-universitarias'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://facs.ort.edu.uy/licenciatura-en-negocios-digitales"
+  - label: "Plan de estudios"
+    url: "https://facs.ort.edu.uy/licenciatura-en-negocios-digitales/plan-de-estudios"
+  - label: "Listado de carreras universitarias"
+    url: "https://www.ort.edu.uy/carreras-universitarias"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-carreras-universitarias"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -63,9 +63,9 @@ Doble titulación con Rennes School of Business
 
 Los estudiantes que completen cuatro años de estudio en Uruguay pueden realizar una doble titulación con la Rennes School of Business (Francia), y acceder a oportunidades de inserción laboral internacional.
 
-El acuerdo permite obtener los títulos de Licenciado/a en Negocios Digitales y el Master of Science in International Management, con alguna de las siguientes especializaciones (a modo de ejemplo)*:
+El acuerdo permite obtener los títulos de Licenciado/a en Negocios Digitales y el Master of Science in International Management, con alguna de las siguientes especializaciones (a modo de ejemplo)\*:
 
-*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
+\*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
 
 Conocé más sobre la doble titulación.
 
@@ -88,7 +88,6 @@ El valor final de las cuotas varía en función de distintos factores, como por 
 ### Becas
 
 La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
-
 
 ## Ingreso
 

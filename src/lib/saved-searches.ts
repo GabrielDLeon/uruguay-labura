@@ -127,11 +127,7 @@ export function describeCriteria(criteria: JobFilters): string[] {
   return labels;
 }
 
-export type CriteriaChipKind =
-  | "query"
-  | "organization"
-  | "taskType"
-  | "quota";
+export type CriteriaChipKind = "query" | "organization" | "taskType" | "quota";
 
 export interface CriteriaChip {
   key: string;

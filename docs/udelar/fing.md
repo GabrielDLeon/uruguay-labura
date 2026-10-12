@@ -6,6 +6,7 @@
 ## Carreras de Grado
 
 ### Ingenierías (5 años)
+
 - Ingeniería Civil
 - Ingeniería de Alimentos
 - Ingeniería de Producción
@@ -20,12 +21,14 @@
 - Ingeniería Química
 
 ### Licenciaturas
+
 - Licenciatura en Ciencias de la Atmósfera
 - Licenciatura en Computación
 - Licenciatura en Ingeniería Biológica (Salto/Paysandú)
 - Licenciatura en Recursos Hídricos y Riego (Salto)
 
 ### Tecnólogos y Técnicos
+
 - Analista en Computación (título intermedio)
 - Tecnólogo Cárnico
 - Tecnólogo en Cartografía

@@ -30,16 +30,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional'
-  - label: 'Plan de estudios'
-    url: 'https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional/plan-de-estudios'
-  - label: 'Listado de postgrados'
-    url: 'https://www.ort.edu.uy/postgrados'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados/facs'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional"
+  - label: "Plan de estudios"
+    url: "https://facs.ort.edu.uy/escuela-de-postgrados/diploma-de-especializacion-en-fiscalidad-internacional/plan-de-estudios"
+  - label: "Listado de postgrados"
+    url: "https://www.ort.edu.uy/postgrados"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-postgrados/facs"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -91,7 +91,6 @@ Duración 18 meses. Horarios de clase 2 veces por semana de 19:00 a 21:30 h. La 
 ### Becas
 
 Becas para postgrados: Becas de hasta 35 %, otorgadas según el perfil y los méritos del postulante.
-
 
 ## Ingreso
 

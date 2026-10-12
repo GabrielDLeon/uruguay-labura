@@ -36,57 +36,57 @@ draft: true
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-04 19:47:33"
 sources:
-  - label: 'Catálogo de la carrera'
-    url: 'https://...'
-  - label: 'Plan de estudios'
-    url: 'https://...'
+  - label: "Catálogo de la carrera"
+    url: "https://..."
+  - label: "Plan de estudios"
+    url: "https://..."
 ---
 ```
 
 Known fields and their allowed values:
 
-| Field | Notes / allowed values |
-|---|---|
-| `title` | required; display name of the career. |
-| `similar` | optional; list of career slugs (other files) suggested on the page. |
-| `institutionName` | required; full human-readable institution name, e.g. `Universidad ORT Uruguay`. |
-| `institution` | required; the institution **short slug** — `ort`, `udelar`, `utec` (match an `institutions/*.md` id). |
-| `degreeType` | required; one of the enum: `maestria`, `especializacion`, `ingenieria`, `doctorado`, `diplomado`, `posdoctorado`, `tecnologo`, `licenciatura`, `tecnicatura`, `carrera`, `ciclo`, `otro`. |
-| `area` | required; one of the site's controlled areas (see below). |
-| `modality` | required; `presencial` \| `virtual` \| `hibrido`. |
-| `shift` | required; `day` \| `night` \| `both`. |
-| `weeklyHours` | required; string, e.g. `No especificado`. |
-| `duration` | optional; string like `2 años`. |
-| `credits` | optional; integer. |
-| `cost` | required; string like `Gratuita`, `Arancelada`, `Arancelado`. |
-| `language` | default `Español`. |
-| `website` | required; official program URL. |
-| `accreditation` | optional; accrediting body. |
-| `description` | optional; one-line Spanish summary shown in listings. |
-| `startDate` / `applicationDeadline` | optional; empty string when unknown. |
-| `tags` | optional; Spanish topical tags (lowercase). |
-| `draft` | `true` while unpublished. |
-| `createdAt` / `updatedAt` | optional; `YYYY-MM-DD HH:MM:SS`. |
-| `sources` | recommended; list of `{ label, url }` backing the body facts. |
+| Field                               | Notes / allowed values                                                                                                                                                                    |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `title`                             | required; display name of the career.                                                                                                                                                     |
+| `similar`                           | optional; list of career slugs (other files) suggested on the page.                                                                                                                       |
+| `institutionName`                   | required; full human-readable institution name, e.g. `Universidad ORT Uruguay`.                                                                                                           |
+| `institution`                       | required; the institution **short slug** — `ort`, `udelar`, `utec` (match an `institutions/*.md` id).                                                                                     |
+| `degreeType`                        | required; one of the enum: `maestria`, `especializacion`, `ingenieria`, `doctorado`, `diplomado`, `posdoctorado`, `tecnologo`, `licenciatura`, `tecnicatura`, `carrera`, `ciclo`, `otro`. |
+| `area`                              | required; one of the site's controlled areas (see below).                                                                                                                                 |
+| `modality`                          | required; `presencial` \| `virtual` \| `hibrido`.                                                                                                                                         |
+| `shift`                             | required; `day` \| `night` \| `both`.                                                                                                                                                     |
+| `weeklyHours`                       | required; string, e.g. `No especificado`.                                                                                                                                                 |
+| `duration`                          | optional; string like `2 años`.                                                                                                                                                           |
+| `credits`                           | optional; integer.                                                                                                                                                                        |
+| `cost`                              | required; string like `Gratuita`, `Arancelada`, `Arancelado`.                                                                                                                             |
+| `language`                          | default `Español`.                                                                                                                                                                        |
+| `website`                           | required; official program URL.                                                                                                                                                           |
+| `accreditation`                     | optional; accrediting body.                                                                                                                                                               |
+| `description`                       | optional; one-line Spanish summary shown in listings.                                                                                                                                     |
+| `startDate` / `applicationDeadline` | optional; empty string when unknown.                                                                                                                                                      |
+| `tags`                              | optional; Spanish topical tags (lowercase).                                                                                                                                               |
+| `draft`                             | `true` while unpublished.                                                                                                                                                                 |
+| `createdAt` / `updatedAt`           | optional; `YYYY-MM-DD HH:MM:SS`.                                                                                                                                                          |
+| `sources`                           | recommended; list of `{ label, url }` backing the body facts.                                                                                                                             |
 
 ### Choosing `degreeType` from the title
 
 Match the degree in the career name to the enum key:
 
-| Title says | Use |
-|---|---|
-| Maestría | `maestria` |
-| Especialización | `especializacion` |
-| Licenciatura | `licenciatura` |
-| Tecnicatura | `tecnicatura` |
-| Doctorado | `doctorado` |
-| Posdoctorado | `posdoctorado` |
-| Tecnólogo | `tecnologo` |
-| Ingeniería | `ingenieria` |
-| Diplomado / Diploma | `diplomado` |
-| Ciclo | `ciclo` |
-| No narrower term | `carrera` |
-| Genuinely outside the list | `otro` |
+| Title says                 | Use               |
+| -------------------------- | ----------------- |
+| Maestría                   | `maestria`        |
+| Especialización            | `especializacion` |
+| Licenciatura               | `licenciatura`    |
+| Tecnicatura                | `tecnicatura`     |
+| Doctorado                  | `doctorado`       |
+| Posdoctorado               | `posdoctorado`    |
+| Tecnólogo                  | `tecnologo`       |
+| Ingeniería                 | `ingenieria`      |
+| Diplomado / Diploma        | `diplomado`       |
+| Ciclo                      | `ciclo`           |
+| No narrower term           | `carrera`         |
+| Genuinely outside the list | `otro`            |
 
 ## Controlled `area` values (observed usage)
 

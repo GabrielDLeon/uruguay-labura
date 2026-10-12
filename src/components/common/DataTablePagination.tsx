@@ -1,44 +1,44 @@
-import { Icon } from '@iconify/react/offline'
-import chevronLeft from '@iconify-icons/mdi/chevron-left.js'
-import chevronRight from '@iconify-icons/mdi/chevron-right.js'
-import dotsHorizontal from '@iconify-icons/mdi/dots-horizontal.js'
+import { Icon } from "@iconify/react/offline";
+import chevronLeft from "@iconify-icons/mdi/chevron-left.js";
+import chevronRight from "@iconify-icons/mdi/chevron-right.js";
+import dotsHorizontal from "@iconify-icons/mdi/dots-horizontal.js";
 
 interface Props {
-  page: number
-  totalPages: number
-  total: number
-  itemsPerPage: number
-  onPageChange: (page: number) => void
+  page: number;
+  totalPages: number;
+  total: number;
+  itemsPerPage: number;
+  onPageChange: (page: number) => void;
 }
 
 function getPageNumbers(
   current: number,
   total: number,
-): (number | 'ellipsis')[] {
+): (number | "ellipsis")[] {
   if (total <= 7) {
-    return Array.from({ length: total }, (_, i) => i + 1)
+    return Array.from({ length: total }, (_, i) => i + 1);
   }
 
-  const pages: (number | 'ellipsis')[] = [1]
+  const pages: (number | "ellipsis")[] = [1];
 
   if (current > 3) {
-    pages.push('ellipsis')
+    pages.push("ellipsis");
   }
 
-  const start = Math.max(2, current - 1)
-  const end = Math.min(total - 1, current + 1)
+  const start = Math.max(2, current - 1);
+  const end = Math.min(total - 1, current + 1);
 
   for (let i = start; i <= end; i++) {
-    pages.push(i)
+    pages.push(i);
   }
 
   if (current < total - 2) {
-    pages.push('ellipsis')
+    pages.push("ellipsis");
   }
 
-  pages.push(total)
+  pages.push(total);
 
-  return pages
+  return pages;
 }
 
 export default function DataTablePagination({
@@ -48,9 +48,9 @@ export default function DataTablePagination({
   itemsPerPage,
   onPageChange,
 }: Props) {
-  const start = (page - 1) * itemsPerPage + 1
-  const end = Math.min(page * itemsPerPage, total)
-  const pageNumbers = getPageNumbers(page, totalPages)
+  const start = (page - 1) * itemsPerPage + 1;
+  const end = Math.min(page * itemsPerPage, total);
+  const pageNumbers = getPageNumbers(page, totalPages);
 
   return (
     <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-between">
@@ -72,12 +72,17 @@ export default function DataTablePagination({
               disabled={page <= 1}
               onClick={() => onPageChange(page - 1)}
             >
-              <Icon icon={chevronLeft} width="16" height="16" aria-hidden="true" />
+              <Icon
+                icon={chevronLeft}
+                width="16"
+                height="16"
+                aria-hidden="true"
+              />
               <span>Anterior</span>
             </button>
           </li>
           {pageNumbers.map((p, i) =>
-            p === 'ellipsis' ? (
+            p === "ellipsis" ? (
               <li key={`ellipsis-${i}`}>
                 <div className="flex size-9 items-center justify-center">
                   <Icon
@@ -94,7 +99,7 @@ export default function DataTablePagination({
                 <button
                   type="button"
                   className="btn"
-                  data-variant={p === page ? 'outline' : 'ghost'}
+                  data-variant={p === page ? "outline" : "ghost"}
                   data-size="icon-sm"
                   onClick={() => onPageChange(p)}
                 >
@@ -113,11 +118,16 @@ export default function DataTablePagination({
               onClick={() => onPageChange(page + 1)}
             >
               <span>Siguiente</span>
-              <Icon icon={chevronRight} width="16" height="16" aria-hidden="true" />
+              <Icon
+                icon={chevronRight}
+                width="16"
+                height="16"
+                aria-hidden="true"
+              />
             </button>
           </li>
         </ul>
       </nav>
     </div>
-  )
+  );
 }

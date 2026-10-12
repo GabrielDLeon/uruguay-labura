@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo (con presencia en CENUR Litoral Norte y CURE)
 
 ## Carreras de Grado
+
 - Doctor en Medicina (7 años)
 - Licenciatura en Biología Humana (interfacultades)
 - Licenciatura en Fisioterapia

@@ -44,7 +44,14 @@ function git(args) {
 
 /** Author date of the first commit that added the file (following renames). */
 function createdAtDate(rel) {
-  const log = git(["log", "--follow", "--diff-filter=A", "--format=%ai", "--", rel])
+  const log = git([
+    "log",
+    "--follow",
+    "--diff-filter=A",
+    "--format=%ai",
+    "--",
+    rel,
+  ])
     .trim()
     .split("\n")
     .filter(Boolean);
@@ -75,7 +82,10 @@ function blobAt(commit, rel) {
 /** Content without the createdAt/updatedAt lines. */
 function withoutMeta(text) {
   if (text == null) return text;
-  return text.split("\n").filter((l) => !META_LINE.test(l)).join("\n");
+  return text
+    .split("\n")
+    .filter((l) => !META_LINE.test(l))
+    .join("\n");
 }
 
 /**
@@ -132,11 +142,18 @@ for (const file of files) {
   const updatedAt = fmtDate(updatedAtDate(rel, commitsTouching(rel)));
 
   if (!createdAt && !updatedAt) {
-    report.push({ rel, note: "⚠️  sin historial git (archivo sin trackear): se omite" });
+    report.push({
+      rel,
+      note: "⚠️  sin historial git (archivo sin trackear): se omite",
+    });
     continue;
   }
 
-  const newFm = withDates(withoutMeta(m[1]).replace(/^\n+/, ""), createdAt, updatedAt);
+  const newFm = withDates(
+    withoutMeta(m[1]).replace(/^\n+/, ""),
+    createdAt,
+    updatedAt,
+  );
   const newRaw = raw.replace(m[0], `---\n${newFm}\n---`);
 
   report.push({ rel, createdAt, updatedAt, changed: newRaw !== raw, newRaw });
@@ -160,12 +177,16 @@ console.log(`\nArchivos procesados: ${files.length}`);
 console.log(`Archivos a modificar: ${toWrite}`);
 
 if (CHECK && toWrite > 0) {
-  console.error(`\n❌ ${toWrite} archivo(s) con fechas desactualizadas. Corré el script con --apply.`);
+  console.error(
+    `\n❌ ${toWrite} archivo(s) con fechas desactualizadas. Corré el script con --apply.`,
+  );
   process.exit(1);
 }
 
 if (!APPLY) {
-  console.log("\n⚠️  Modo dry-run: no se escribió nada. Usá --apply para aplicar.");
+  console.log(
+    "\n⚠️  Modo dry-run: no se escribió nada. Usá --apply para aplicar.",
+  );
 } else if (toWrite > 0) {
   for (const r of report) {
     if (r.changed) writeFileSync(join(ROOT, r.rel), r.newRaw, "utf8");

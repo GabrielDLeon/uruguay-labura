@@ -38,9 +38,7 @@ La carrera apunta a aquellos estudiantes que deseen aplicar sus habilidades en l
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Tecnología del sonido 1**
 
@@ -56,7 +54,6 @@ Promueve la toma de contacto con equipos de producción de audio profesionales, 
 
 ### 2.º semestre
 
-
 **Tecnología del sonido 2**
 
 Describe los principios y las herramientas tecnológicas utilizadas en el entorno de la producción de sonido, desde un punto de vista funcional.
@@ -71,9 +68,7 @@ Capacita en técnicas de grabación a través de prácticas en múltiples situac
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Música y sonido en cine y TV**
 
@@ -89,7 +84,6 @@ Pone en práctica el proceso de mezcla de material musical. Proporciona técnica
 
 ### 4.o semestre
 
-
 **Sistemas de amplificación**
 
 Profundiza en la comprensión y entrena en la operación de los principales componentes de los sistemas de amplificación.
@@ -104,9 +98,7 @@ Aborda de manera teórico-práctica los distintos aspectos del proceso de master
 
 ## 3.er año
 
-
 ### 5.° semestre
-
 
 **Amplificación para espectáculos**
 

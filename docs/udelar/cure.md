@@ -4,6 +4,7 @@
 **Ubicación:** Maldonado, Rocha, Treinta y Tres, Lavalleja
 
 ## Carreras de Grado
+
 - Licenciatura en Diseño de Paisaje (Maldonado)
 - Licenciatura en Gestión Ambiental
 - Licenciatura en Educación Física (Maldonado)

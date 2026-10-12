@@ -40,9 +40,7 @@ La propuesta ofrece suficiente flexibilidad para que los estudiantes puedan adap
 
 ## 1.er año
 
-
 ### Bimestre 1
-
 
 **Estrategia de sistemas de información**
 
@@ -58,7 +56,6 @@ Ciberseguridad En esta asignatura se estudia a la seguridad informática como pa
 
 ### Bimestre 2
 
-
 **Arquitecturas empresariales**
 
 El estudiante será capaz de conocer los objetivos y conceptos asociados a transformación digital. Conocer cómo la arquitectura empresarial es un medio para alcanzar una transformación digital gobernada. Identificar y diseñar una arquitectura empresarial adecuada al tipo de organización estudiada.
@@ -73,7 +70,6 @@ Programación Los objetivos básicos de esta asignatura son presentar los concep
 
 ### Bimestre 3
 
-
 **Análisis funcional**
 
 El estudiante debe comprender las metodología y herramientas para generar una visión funcional integrada y ser capaz de capturar requerimientos y necesidades de las organizaciones.
@@ -87,7 +83,6 @@ Revisión del cálculo de probabilidades y las variables aleatorias. Mostrar las
 Innovación Este curso tiene por objetivo que los estudiantes sean capaces de entender e impulsar los procesos de innovación en una organización. Los estudiantes podrán comprender la importancia de la innovación en el contexto competitivo de las organizaciones. Identificar y diagnosticar las restricciones que bloquean la innovación en una organización, analizar qué tan preparada está una organización para innovar e impulsar un proceso de innovación, conocer y poner en práctica la metodología de Desing Thinking como herramientas para innovar, diseñar y proponer un proceso de innovación, que permita impulsar ideas y convertirlas en innovación en una organización. Análisis de Sistemas de información Esta asignatura se enfoca en el estudio de diversas técnicas y herramientas de análisis y modelado utilizadas para la definición de problemas del negocio y de requerimientos de usuarios. A su vez se detallan los roles y responsabilidades de los participantes asociados a estas actividades en el contexto de las características de la organización y su negocio. Tópicos en dominios específicos 1 Es una materia que permite profundizar en aspectos específicos de un área de aplicación. Su contenido variará dictado a dictado pero el objetivo es permitir a los estudiantes aplicar las metodologías y técnicas vistas en el programa de master al área elegida como objeto de estudio.
 
 ### Bimestre 4
-
 
 **Evaluación de inversiones en TI**
 

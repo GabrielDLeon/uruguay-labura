@@ -28,12 +28,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Página oficial'
-    url: 'https://isef.udelar.edu.uy/ensenanza/licenciatura-en-educacion-fisica/'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-educacion-fisica'
-  - label: 'Sede Rivera'
-    url: 'https://www.rivera.udelar.edu.uy/educacion-fisica/'
+  - label: "Página oficial"
+    url: "https://isef.udelar.edu.uy/ensenanza/licenciatura-en-educacion-fisica/"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-educacion-fisica"
+  - label: "Sede Rivera"
+    url: "https://www.rivera.udelar.edu.uy/educacion-fisica/"
 ---
 
 ## Resumen

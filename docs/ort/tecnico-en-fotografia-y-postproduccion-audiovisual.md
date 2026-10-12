@@ -40,9 +40,7 @@ Se vuelve necesaria la formación de profesionales capaces de cumplir con las de
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Edición**
 
@@ -57,7 +55,6 @@ Capacita en la comprensión del lenguaje audiovisual y sus principales soportes 
 Analiza los elementos básicos de la fotografía, la teoría de la luz y las diferentes fuentes de iluminación. Desarrolla una serie de ejercicios que permiten adquirir la destreza necesaria para el desempeño como camarógrafo. Aborda el funcionamiento de la cámara de video, la combinación de movimientos y las grabaciones en estudio, locaciones y exteriores. Trabajos destacados en Iluminación y cámara en Técnico en Realización Audiovisual https://www.youtube.com/embed/CkAHxuz7xk0?
 
 ### 2.º semestre
-
 
 **Corrección de color**
 
@@ -77,9 +74,7 @@ Introduce al campo de la imagen digital y manejo de software de edición de imag
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Etalonaje digital**
 
@@ -94,7 +89,6 @@ El taller se plantea como una iniciación esencial en el manejo de los procesos 
 Brinda elementos de teoría del montaje cinematográfico, su evolución y sus reglas técnicas. Desarrolla diferentes ejercicios de montaje lineal. El curso incluye la organización del montaje: herramientas, planificación de la edición, composición del equipo, papel del editor y diálogo con el director.
 
 ### 4.º semestre
-
 
 **Coordinación de postproducción**
 

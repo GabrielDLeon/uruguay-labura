@@ -58,9 +58,7 @@ Luego de finalizado el 4.o año, los estudiantes obtienen un primer título univ
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Taller de tecnologías 1**
 
@@ -80,7 +78,6 @@ El objetivo de esta materia es revisar los conceptos del cálculo diferencial e 
 
 ### 2.º semestre
 
-
 **Fundamentos de computación**
 
 El objetivo central de este curso es que el estudiante establezca la relación fundamental existente entre matemática y programación y profundice en ella, de acuerdo a dos líneas principales. Por un lado, la programación es una actividad matemática: escribir un programa puede verse como definir una función (computable) e involucra un razonamiento que cuando se hace explícito constituye una demostración de propiedades relevantes del programa. Es decir, los programas son objetos matemáticos. Por el otro lado, las funciones matemáticas (computables) son programas, pueden ser implementados en máquina y numerosos aspectos de la construcción matemática guardan analogía con la práctica de la programación. Con este método de aproximación se introducen los conceptos fundamentales de la programación funcional.
@@ -99,9 +96,7 @@ Desarrollar capacidades para el entendimiento y la aplicación de la física en 
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Lógica para computación**
 
@@ -120,7 +115,6 @@ El objetivo de esta asignatura es comprender la organización y funcionamiento a
 El objetivo de esta materia es estudiar los elementos de la teoría de las probabilidades e introducir al análisis estadístico. Desarrollar la capacidad de analizar, plantear y resolver problemas en estas temáticas.
 
 ### 4.º semestre
-
 
 **Fundamentos de ingeniería de software**
 
@@ -144,9 +138,7 @@ Esta área temática tiene como fin brindar los fundamentos teóricos y científ
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Teoría de la computación**
 
@@ -170,7 +162,6 @@ En el área se ofrecen asignaturas que facilitan la comprensión del entorno adm
 
 ### 6.º semestre
 
-
 **Ingeniería de software ágil 1**
 
 Esta asignatura se focaliza en la comprensión y aplicación de procesos de gestión ágil, los cuales se orientan a proyectos que se ejecutan en contextos cambiantes y mediante equipos de desarrollo auto-gestionados. Durante el curso se estudian los proyectos de software en el contexto organizacional, marcos de gestión ágil, planificación y ejecución de proyectos y prácticas de desarrollo colaborativo con clientes y usuarios. A su vez se introducen las principales tecnologías de gestión que facilitan la aplicación de procesos con estas características.
@@ -193,9 +184,7 @@ La inteligencia artificial es el estudio de soluciones para problemas que son di
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Ingeniería de software ágil 2**
 
@@ -219,7 +208,6 @@ La inteligencia artificial tiene como objetivo comprender el pensamiento y la in
 
 ### 8.º semestre
 
-
 **Materia de Ingeniería de productos de software**
 
 El contenido temático de esta área comprende el conocimiento sobre el conjunto de actividades necesarias para la producción de software de forma correcta y eficiente. En esta área se consolidan los conceptos del área de ingeniería de software, haciendo énfasis en el desarrollo de productos y servicios innovadores que incorporan, como componente central, las tecnologías de la información. El foco principal se presenta en el diseño conceptual de productos y servicios utilizando el pensamiento creativo, el diseño centrado en el humano y técnicas orientadas a mejorar la experiencia del usuario, cubriendo los conceptos de modelado, análisis, diseño e implementación del software.
@@ -242,9 +230,7 @@ Los contenidos de esta área están orientados a desarrollar los conceptos que p
 
 ## 5.º año
 
-
 ### 9.º semestre
-
 
 **Materia de Comunicación y negociación**
 
@@ -255,7 +241,6 @@ Las habilidades blandas (soft-skills) como capacidad de trabajo en equipo, de co
 Los estudiantes completan su formación seleccionando tres asignaturas electivas a cursar en el marco de un perfil profesional y podrán ajustar su perfil de egreso de acuerdo a sus preferencias y a las características del mercado de trabajo al cual apunten.
 
 ### 10.º semestre
-
 
 **Electiva 2**
 

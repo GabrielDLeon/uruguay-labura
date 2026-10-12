@@ -29,17 +29,17 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=4'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=2&idPosgrado=4'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=2&idPosgrado=4"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=2&idPosgrado=4"
 ---
 
 ## Resumen
 
 ### Objetivo
 
-DESTINATARIOS Este diploma está destinado a personas con formación universitaria en el campo del diseño espacial y estructural. Objetivos específicos 1_ Conceptos Reelaboración y ampliación de las bases conceptuales del análisis estructural Reafirmar el vínculo dialéctico entre la creación arquitectónica y los sistemas estructurales Integración del pensamiento estructural a sistemas de ideas y paradigmas y construcciones culturales. Información específica sobre temas de análisis estructural 2_ Habilidades Re-significar el análisis estructural en términos de incentivos y fundamentos para la creación arquitectónica Reconocer potencialidades estructurales ante y condicionantes diversas y novedosas Ampliar el conjunto de temas del análisis estructural que se manejan con solvencia 3_ Actitudes Impulsar la mirada atenta y curiosa, con capacidad de interpretar y recrear el aporte que puedan incorporar propuestas de la más variada escala y naturaleza Afirmar posturas críticas y atentas, con la capacidad de interpretar y e incorporar las transformaciones tecnológicas y conceptuales. Tener iniciativa para encarar la enseñanza de estructuras con un enfoque global privilegiando la comprensión conceptual y la relación con el diseño EGRESO Quienes completen 60 créditos en las condiciones establecidas en el artículo 15 de la Ordenanza de Posgrados de la Universidad de la República obtendrán el título de Diplomado en Diseño de Estructuras 
+DESTINATARIOS Este diploma está destinado a personas con formación universitaria en el campo del diseño espacial y estructural. Objetivos específicos 1* Conceptos Reelaboración y ampliación de las bases conceptuales del análisis estructural Reafirmar el vínculo dialéctico entre la creación arquitectónica y los sistemas estructurales Integración del pensamiento estructural a sistemas de ideas y paradigmas y construcciones culturales. Información específica sobre temas de análisis estructural 2* Habilidades Re-significar el análisis estructural en términos de incentivos y fundamentos para la creación arquitectónica Reconocer potencialidades estructurales ante y condicionantes diversas y novedosas Ampliar el conjunto de temas del análisis estructural que se manejan con solvencia 3\_ Actitudes Impulsar la mirada atenta y curiosa, con capacidad de interpretar y recrear el aporte que puedan incorporar propuestas de la más variada escala y naturaleza Afirmar posturas críticas y atentas, con la capacidad de interpretar y e incorporar las transformaciones tecnológicas y conceptuales. Tener iniciativa para encarar la enseñanza de estructuras con un enfoque global privilegiando la comprensión conceptual y la relación con el diseño EGRESO Quienes completen 60 créditos en las condiciones establecidas en el artículo 15 de la Ordenanza de Posgrados de la Universidad de la República obtendrán el título de Diplomado en Diseño de Estructuras
 
 ### Perfil de egreso
 

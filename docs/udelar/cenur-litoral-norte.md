@@ -4,6 +4,7 @@
 **Ubicación:** Salto, Paysandú, Artigas, Río Negro
 
 ## Carreras de Grado
+
 - Doctor en Medicina
 - Abogacía
 - Notariado (Escribanía)

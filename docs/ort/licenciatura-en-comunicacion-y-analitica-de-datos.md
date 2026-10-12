@@ -46,9 +46,7 @@ Este escenario demanda un nuevo perfil, que trasciende las fronteras sociales y 
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Expresión oral y escrita**
 
@@ -72,7 +70,6 @@ La materia propone una inducción a las bases teóricas y a la investigación di
 
 ### 2.º semestre
 
-
 **Redacción expresiva**
 
 La materia aborda la temática de los actos lingüísticos en la información textual, trabajando el nivel denotativo y connotativo. Estudia las tipologías textuales —informativa, explicativa, narrativa y dialogada— y las funciones de lenguaje en relación con el contexto. Créditos: 6
@@ -95,9 +92,7 @@ La asignatura brinda los fundamentos conceptuales y estímulos prácticos que pe
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Escrituras creativas**
 
@@ -121,7 +116,6 @@ Al finalizar el curso, los estudiantes podrán aplicar el pensamiento lógico y 
 
 ### 4.º semestre
 
-
 **Metodología de la investigación en comunicación**
 
 Durante el curso los estudiantes aprenderán a identificar las etapas del proceso de investigación de las Ciencias Sociales y a aplicar técnicas de investigación cualitativas, cuantitativas y mixtas, así como a fundamentar su uso en estudios de específicos del campo de la comunicación. También serán capaces de elegir diferentes tipos de diseños y herramientas de investigación de manera efectiva. Esta materia es la base conceptual y analítica que prepara a los estudiantes para el Proyecto Final de la carrera. Créditos: 6
@@ -144,9 +138,7 @@ El curso permite reconocer el concepto de omnicanalidad y aplicarlo a estrategia
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Industrias culturales y del entretenimiento**
 
@@ -169,7 +161,6 @@ La materia permite al estudiante consolidar una base teórica del planeamiento e
 El curso propone introducir los elementos básicos de la narración y sus particularidades para diferentes tipos de productos -audiovisual, cine, periodismo, publicidades,storytelling corporativo, storytelling personal- y promover la capacidad de detectar y compartir ejemplos valiosos. Los estudiantes podrán dominar el storytelling utilizando recursos multimedia para concebir la historia y su presentación y yxperimentar el proceso de producción profesional en diversos formatos. Créditos: 6
 
 ### 6.º semestre
-
 
 **Media Lab**
 
@@ -197,9 +188,7 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Seminario de proyecto final**
 
@@ -223,7 +212,6 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ### 8.º semestre
 
-
 **Proyecto final**
 
 Es una instancia individual o grupal de cierre de carrera en la que el alumno desarrolla un proyecto de corte profesional o una trabajo académico-científico de integración de conocimientos en su área. Las dos opciones implican un componente decisivo de investigación y un despliegue de estrategias y métodos de trabajo (académico / profesional) que acrediten un sólido dominio de saberes adquiridos a lo largo de toda la carrera. Créditos: 18
@@ -246,7 +234,7 @@ Presencial. Muchas asignaturas complementan sus dictados a través de la modalid
 
 ## Duración y horarios (detalle)
 
-Duración 4 años. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino. Semestres 5 al 8: nocturno.* * Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 4 años. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino. Semestres 5 al 8: nocturno.\* \* Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ## Títulos y reconocimientos
 

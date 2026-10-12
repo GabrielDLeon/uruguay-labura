@@ -65,9 +65,7 @@ Los graduados forman parte de la Comunidad Alumni de la Escuela de Negocios, la 
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Introducción a big data y analítica de negocios**
 
@@ -87,7 +85,6 @@ Enseña la gestión y consulta profesional de grandes volúmenes de datos utiliz
 
 ### Julio - Setiembre
 
-
 **Análisis de regresión**
 
 Desarrolla competencias avanzadas en modelización estadística con finalidad predictiva, aplicando técnicas de aprendizaje sobre bases de datos reales.
@@ -101,7 +98,6 @@ Se centra en el descubrimiento de patrones y relaciones ocultas que generan valo
 Integra los pilares de la Inteligencia Artificial Generativa dentro de la estrategia de datos de la organización.
 
 ### Octubre - Diciembre
-
 
 **Machine learning no supervisado**
 
@@ -120,7 +116,6 @@ Enseña a transformar datos crudos en información valiosa mediante la gestión 
 Domina el arte de comunicar hallazgos técnicos de forma clara y persuasiva para influir en la toma de decisiones.
 
 ### Febrero - Marzo
-
 
 **Electiva 1**
 

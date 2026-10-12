@@ -3,6 +3,7 @@
 La Udelar ofrece más de 80 maestrías activas. Se listan organizadas por área:
 
 ## Área de Tecnologías y Ciencias de la Naturaleza y el Hábitat
+
 - Maestría en Agronomía (Facultad de Agronomía)
 - Maestría en Arquitectura (FADU)
 - Maestría en Bioinformática (Ciencias/Ingeniería/Química/Veterinaria)
@@ -48,6 +49,7 @@ La Udelar ofrece más de 80 maestrías activas. Se listan organizadas por área:
 - Maestría en Sistemas de Información y Tecnologías de Gestión de Datos (Facultad de Ingeniería)
 
 ## Área de la Salud
+
 - Maestría en Atención a la Salud en el Primer Nivel (Facultad de Enfermería)
 - Maestría en Ciencias de los Alimentos y Salud Humana (Facultad de Medicina)
 - Maestría en Ciencias Odontológicas (Facultad de Odontología)
@@ -62,6 +64,7 @@ La Udelar ofrece más de 80 maestrías activas. Se listan organizadas por área:
 - Maestría en Ciencias Biomédicas (Facultad de Medicina)
 
 ## Área Social y Artística
+
 - Maestría en Administración y Economía del Turismo (FCEA)
 - Maestría en Arte Sonoro (Facultad de Artes)
 - Maestría en Arte y Cultura Visual (Facultad de Artes)

@@ -92,7 +92,8 @@ const detailItems = [
   {
     label: "Acreditación",
     value: entry.data.accreditation
-      ? (accreditationLabels[entry.data.accreditation] ?? entry.data.accreditation)
+      ? (accreditationLabels[entry.data.accreditation] ??
+        entry.data.accreditation)
       : undefined,
   },
 

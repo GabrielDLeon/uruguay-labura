@@ -26,12 +26,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/tecnicatura-universitaria-en-bienes-culturales'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/'
+  - label: "Página oficial"
+    url: "https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/tecnicatura-universitaria-en-bienes-culturales"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.tacuarembo.udelar.edu.uy/tecnicatura-universitaria-en-bienes-culturales/"
 ---
 
 ## Resumen

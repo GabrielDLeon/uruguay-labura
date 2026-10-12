@@ -29,12 +29,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/ingenieria-de-produccion'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n'
+  - label: "Página oficial"
+    url: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/ingenieria-de-produccion"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.fing.edu.uy/carrera/grado/ingenier%C3%ADa-de-producci%C3%B3n"
 ---
 
 ## Resumen

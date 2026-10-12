@@ -1,0 +1,4 @@
+pnpm-lock.yaml
+src/data/jobs.generated.json
+dist/
+.astro/

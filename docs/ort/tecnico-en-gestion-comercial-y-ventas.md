@@ -54,9 +54,7 @@ Opcionalmente, los graduados pueden cursar algunas materias complementarias y ob
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Gestión y administración de empresas**
 
@@ -75,7 +73,6 @@ El curso aborda las herramientas esenciales que componen Microsoft Excel, en una
 Desarrolla los diferentes componentes del marketing empresarial. Partiendo de los fundamentos del marketing, analiza las variables que están fuera de control, las variables controlables y cómo se combinan en el mix de marketing del mercado, el producto-servicio, el sistema de información y control, y demás elementos de análisis y gestión.
 
 ### 2.° semestre
-
 
 **Canales de ventas**
 
@@ -99,9 +96,7 @@ Brinda formación necesaria para manejar la planilla Excel con idoneidad y profu
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **E-commerce y venta digital aplicada**
 
@@ -120,7 +115,6 @@ Desarrolla habilidades especiales en las diversas áreas del marketing de empres
 La gestión de precios y promociones forman parte de las herramientas clave para incidir sobre los patrones de demanda de los clientes y consumidores. Se estudian los principales aspectos que pueden influir en la toma de decisiones de los compradores, tanto en el entorno minorista como mayorista.
 
 ### 4.° semestre
-
 
 **Simulación en procesos de compras, ventas y distribución**
 

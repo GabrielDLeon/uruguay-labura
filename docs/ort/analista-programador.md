@@ -44,9 +44,7 @@ En la última etapa de la carrera, los estudiantes integran todos sus conocimien
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Programación 1**
 
@@ -62,7 +60,6 @@ Introduce a los estudiantes en los conceptos lógico-matemáticos fundamentales 
 
 ### 2.º semestre
 
-
 **Programación 2**
 
 Extiende los conocimientos de programación adquiridos e introduce a los principios generales del análisis, diseño y de programación orientada a objetos. Capacita en Lenguaje Unificado de Modelado (UML) y brinda los conceptos introductorios para el desarrollo de aplicaciones web. La implementación se realiza utilizando ASP.Net con C# desplegando en Azure. Adicionalmente se introducen los conceptos iniciales del uso de repositorios (GIT/GitHub) y se utilizan herramientas de inteligencia artificial generativa en algunas tareas de apoyo a la implementación.
@@ -77,9 +74,7 @@ Permite un abordaje sobre conceptos de ingeniería de software, requerimientos y
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Desarrollo web asistido por IA**
 
@@ -94,7 +89,6 @@ Capacita para implementar sistemas de bases de datos utilizando el modelo relaci
 Estudia las técnicas de construcción de algoritmos y de gestión de la información, utilizando estructura de datos de memoria. Presenta las herramientas necesarias que permiten diseñar distintas alternativas para diseñar problemas complejos. Además, incorpora herramientas para realizar testing de software. Se trabaja con JAVA como lenguaje de implementación.
 
 ### 4.º semestre
-
 
 **Diseño de aplicaciones con desarrollo generativo**
 
@@ -114,7 +108,7 @@ Presencial con virtualidad. La carrera se dicta mayoritariamente en formato pres
 
 ## Duración y horarios (detalle)
 
-Duración 2 años de cursos. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 lunes a jueves de 9:00 a 12:00.* Vespertino: lunes a jueves de 16:00 a 19:00.* Nocturno: lunes a jueves de 19:30 a 22:30. * Solo disponible para el primer semestre. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 2 años de cursos. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 lunes a jueves de 9:00 a 12:00._ Vespertino: lunes a jueves de 16:00 a 19:00._ Nocturno: lunes a jueves de 19:30 a 22:30. \* Solo disponible para el primer semestre. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ## Títulos y reconocimientos
 

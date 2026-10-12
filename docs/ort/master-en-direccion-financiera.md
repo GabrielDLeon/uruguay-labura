@@ -84,18 +84,13 @@ Los graduados del postgrado forman parte de su Comunidad Alumni de la Escuela de
 
 ## 1.er año
 
-
 ### Cursos nivelatorios
-
 
 **Introducción a métodos cuantitativos**
 
-
 **Taller análisis de mercado**
 
-
 ### Abril-Junio
-
 
 **Instrumentos de renta fija**
 
@@ -111,13 +106,11 @@ El curso combina teoría y práctica para formar profesionales capaces de aplica
 
 ### Junio (intensivo)
 
-
 **Business Inteligence**
 
 El curso ofrece una formación práctica en el uso de herramientas y metodologías para transformar datos en información estratégica. Los estudiantes aprenden a explorar, limpiar, modelar y visualizar datos utilizando Power BI y Tableau, desarrollando proyectos end-to-end aplicados a distintos sectores. Se abordan conceptos clave como segmentación RFM, métricas de campañas (CPA, conversión, ROI) y análisis ABC/Pareto de inventarios, integrando la analítica con la toma de decisiones empresariales. Se trata de una propuesta moderna y aplicada para dominar el ciclo completo del BI y potenciar el valor de los datos en organizaciones dinámicas.
 
 ### Julio-Setiembre
-
 
 **Decisiones de inversión**
 
@@ -133,13 +126,11 @@ El curso introduce a los estudiantes en el mundo de forwards, futuros, swaps y o
 
 ### Setiembre
 
-
 **Taller de equipos y liderazgo**
 
 Promueve el desarrollo de habilidades interpersonales clave para el rol gerencial. A través de un enfoque vivencial, los participantes reflexionan sobre su estilo personal, desaprenden hábitos ineficaces y adoptan nuevas prácticas de comunicación, motivación y liderazgo, incluyendo el liderazgo a distancia y el teletrabajo. Se analizan dinámicas de equipo, estilos de liderazgo, factores motivacionales y estrategias para optimizar la gestión de personas en entornos presenciales y virtuales. Se trata de una experiencia transformadora orientada al autoconocimiento, la influencia positiva y la efectividad organizacional.
 
 ### Octubre-Diciembre
-
 
 **Gerenciamiento de activos**
 
@@ -155,9 +146,7 @@ El curso brinda una formación integral sobre la estructuración, financiamiento
 
 ## 2.do año
 
-
 ### Febrero-Marzo
-
 
 **Valoración de empresas**
 
@@ -165,9 +154,7 @@ El curso ofrece una formación práctica y aplicada en metodologías de valuaci�
 
 ### Abril-Junio
 
-
 **Taller de riesgo financiero**
-
 
 **Taller de investigación**
 
@@ -179,24 +166,17 @@ El curso brinda una comprensión integral de la micro y macroeconomía aplicada 
 
 ### Julio (intesivo)
 
-
 **Semana internacional (opcional)**
-
 
 ### Julio-Setiembre
 
-
 **Gobierno corporativo**
-
 
 **Electiva 1**
 
-
 **Electiva 2**
 
-
 ### Octubre-Diciembre
-
 
 **Taller de ética**
 

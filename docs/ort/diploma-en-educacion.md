@@ -39,9 +39,7 @@ El Diploma en Educación es una propuesta que se propone:
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Teorías de la enseñanza**
 
@@ -60,7 +58,6 @@ Promueve la construcción de una actitud investigativa en educación, para la me
 Seminario curricular con temáticas a determinar por los profesores invitados. Para su elección se tendrá en cuenta los intereses de los estudiantes y las necesidades de cubrir áreas de vacancia en los procesos formativos.
 
 ### 2.º semestre
-
 
 **Innovación y cambio educativo**
 

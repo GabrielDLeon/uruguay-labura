@@ -76,9 +76,7 @@ Por ello, te sugerimos mantener una reunión con un asesor académico para anali
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Materiales**
 
@@ -94,7 +92,6 @@ Diseño de pequeños espacios. Teoría del color y la composición. Conocimiento
 
 ### 2.º semestre
 
-
 **Tendencias del Diseño**
 
 Conocimiento de las tendencias del diseño interior del siglo XX y XXI. Introducción en la metodología de la investigación.
@@ -109,9 +106,7 @@ Composición Espacios y equipamientos flexibles Diseño de la vivienda. Aplicaci
 
 ## 2.º año
 
-
 ### 3. er semestre
-
 
 **Práctica Profesional**
 
@@ -126,7 +121,6 @@ Introducción, desarrollo y profundización en el diseño de acondicionamientos,
 Diseño de espacios comerciales. Conocimientos de identidad e imagen corporativa. Dominio de programas de necesidades. Dominio de SketchUp 2D y 3D, renderizados y edición de imágenes.
 
 ### 4.º semestre
-
 
 **Marketing y Ventas**
 

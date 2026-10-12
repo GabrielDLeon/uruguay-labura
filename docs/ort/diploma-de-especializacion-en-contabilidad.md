@@ -48,9 +48,7 @@ Los graduados forman parte de la Comunidad Alumni de la Escuela de Postgrados en
 
 ## 1.er año
 
-
 ### Julio - Setiembre
-
 
 **Fundamentos de la información financiera**
 
@@ -65,7 +63,6 @@ Examina los conceptos asociados a políticas contables, cambios en las estimacio
 Seleccioná aquí para ver el listado completo y descripción de las materias electivas.
 
 ### Octubre - Diciembre
-
 
 **Activos y pasivos: reconocimiento y medición 1**
 
@@ -85,7 +82,6 @@ Presenta casos del entorno internacional que llevarán a la reflexión sobre la 
 
 ### Febrero-Marzo
 
-
 **Ingresos y gastos: reconocimiento y medición**
 
 Trabaja el reconocimiento del ingreso por ventas y del ingreso por prestación de servicios hasta la contabilización del impuesto diferido tanto desde la perspectiva contable como desde la perspectiva tributaria. Analiza diferencias temporales y temporarias, así como la aplicación del concepto de realización. Aborda los procedimientos de auditoría asociados.
@@ -99,7 +95,6 @@ Trabaja el reconocimiento del ingreso por ventas y del ingreso por prestación d
 Seleccioná aquí para ver el listado completo y descripción de las materias electivas.
 
 ### Abril-Junio
-
 
 **Combinaciones de negocios**
 

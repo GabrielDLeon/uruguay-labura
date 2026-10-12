@@ -60,9 +60,7 @@ Para tener una experiencia de aprendizaje internacional, el master integra profe
 
 ## 1.er año
 
-
 ### Abril-Junio
-
 
 **Insight e inteligencia de mercado**
 
@@ -78,13 +76,11 @@ Este curso te permitirá comprender la lógica estratégica del marketing y su p
 
 ### Junio (intensivo)
 
-
 **Brand Building e innovación**
 
 El curso de Brand Building e Innovación te desafía a ir más allá de la teoría y a descubrir cómo las marcas pueden convertirse en el motor de negocios exitosos y sostenibles. Aprenderás a innovar, construir y potenciar marcas sólidas, entendiendo a fondo su identidad, posicionamiento e imagen, y aplicando estrategias innovadoras de activación, arquitectura y medición de salud marcaria. A través de experiencias prácticas y el análisis de casos reales, desarrollarás la visión estratégica y la capacidad crítica necesarias para diferenciarte en un mercado altamente competitivo.
 
 ### Julio-Setiembre
-
 
 **Omnichannel y trade marketing**
 
@@ -100,13 +96,11 @@ Introduce los conceptos y herramientas para que los directivos de marketing pued
 
 ### Setiembre (intensivo)
 
-
 **Simulador de marketing estratégico**
 
 El curso de Markstrat ofrece una experiencia práctica e inmersiva en marketing estratégico, donde los estudiantes asumen el rol de directores de marketing y toman decisiones reales sobre productos, precios, distribución, investigación y comunicación. A través de un entorno competitivo y dinámico, podrán aplicar conceptos clave como segmentación, posicionamiento y gestión de portafolio, recibiendo feedback inmediato sobre el impacto de sus decisiones. Esta simulación, reconocida a nivel internacional, potencia el trabajo en equipo, la capacidad de análisis y la visión estratégica de largo plazo, preparando a los participantes para liderar en escenarios de negocios complejos y cambiantes.
 
 ### Octubre-Diciembre
-
 
 **Marketing digital**
 
@@ -122,16 +116,13 @@ El curso de Diseño de Servicios y Experiencia de Cliente (CX) te enseña a tran
 
 ### Diciembre (intensivo)
 
-
 **Taller de analítica de marketing digital**
 
 Busca dotar a los estudiantes de las definiciones conceptuales y la capacidad operativa para medir y trabajar con métricas digitales. Se enfoca en cómo hacer que el marketing se beneficie de la medición y cómo preparar una estrategia de data para aportar valor al negocio.
 
 ## 2.° año
 
-
 ### Febrero-Marzo
-
 
 **Electiva 1**
 
@@ -139,13 +130,11 @@ B2B Growth Strategy El curso te prepara para diseñar e implementar estrategias 
 
 **Electiva 2**
 
-
 **Taller de negociación y ventas**
 
 Descubrí cómo transformar cada encuentro en una oportunidad. El Taller de Negociación y Ventas te brindará herramientas prácticas para comunicar con impacto y cerrar acuerdos efectivos. A través de simulaciones, casos reales y dinámicas grupales, aprenderás a detectar necesidades, manejar objeciones y diseñar estrategias de negociación que generen relaciones de confianza y valor a largo plazo.
 
 ### Abril-Junio
-
 
 **Project lab**
 
@@ -161,13 +150,11 @@ Brinda una visión estratégica sobre cómo el Big Data y la analítica resuelve
 
 ### Junio (intensivo)
 
-
 **Pensamiento creativo**
 
 Este curso te permitirá desarrollar y perfeccionar tus habilidades de pensamiento creativo aplicadas al mundo empresarial. Aprenderás a distinguir entre diferentes formas de pensamiento —reproductivo, productivo e innovador— y a utilizar técnicas efectivas de generación de ideas. Además, integrarás la inteligencia emocional en tus procesos creativos, potenciando la colaboración y el trabajo en equipo. Con metodologías prácticas y casos reales, enfrentarás problemas organizacionales desde una nueva perspectiva, diseñando soluciones innovadoras que fortalezcan la competitividad.
 
 ### Julio-Setiembre
-
 
 **Transformación de modelos de negocio**
 
@@ -183,13 +170,11 @@ Este curso te brinda las herramientas para dirigir equipos de marketing y ventas
 
 ### Setiembre (intensivo)
 
-
 **Análisis y previsión de ventas**
 
 Este curso te brindará las herramientas necesarias para analizar el desempeño comercial desde diferentes perspectivas, detectar tendencias y proyectar escenarios de ventas con base en datos reales. Aprenderás a utilizar Excel y técnicas de análisis cualitativo y cuantitativo para elaborar forecasts confiables y diseñar acciones que fortalezcan el plan comercial. Una formación práctica y aplicada para potenciar tu capacidad analítica y de gestión en entornos competitivos.
 
 ### Octubre-Diciembre
-
 
 **Memoria final**
 

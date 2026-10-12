@@ -26,7 +26,7 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Ficha Udelar'
+  - label: "Ficha Udelar"
     url: "https://udelar.edu.uy/carrera/licenciatura-en-ciencia-politica"
   - label: "Página oficial"
     url: "https://cienciassociales.edu.uy/departamento-de-ciencia-politica/licenciatura-en-ciencia-politica/"

@@ -29,16 +29,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro'
-  - label: 'Plan de estudios'
-    url: 'https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro/plan-de-estudios'
-  - label: 'Listado de tecnicaturas'
-    url: 'https://www.ort.edu.uy/tecnicaturas'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro"
+  - label: "Plan de estudios"
+    url: "https://facs.ort.edu.uy/analista-en-gestion-logistica-y-cadenas-de-suministro/plan-de-estudios"
+  - label: "Listado de tecnicaturas"
+    url: "https://www.ort.edu.uy/tecnicaturas"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-tecnicaturas"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -90,7 +90,6 @@ El valor final de las cuotas varía en función de distintos factores, como por 
 ### Becas
 
 La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
-
 
 ## Ingreso
 

@@ -1,19 +1,19 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from "react";
 
-import CareersSkeleton from '@/components/careers/CareersSkeleton'
-import DataTable, { type DataTableColumn } from '@/components/common/DataTable'
-import { degreeTypeLabels, modalityLabels } from '@/lib/careers'
+import CareersSkeleton from "@/components/careers/CareersSkeleton";
+import DataTable, { type DataTableColumn } from "@/components/common/DataTable";
+import { degreeTypeLabels, modalityLabels } from "@/lib/careers";
 import type {
   EducationCareerRecord,
   EducationCareersPayload,
-} from '@/types/careers'
+} from "@/types/careers";
 
 const columns: DataTableColumn<EducationCareerRecord>[] = [
   {
-    header: 'Institución',
+    header: "Institución",
     searchText: (entry) => [
       entry.institution?.short ?? entry.institutionName,
-      entry.institution?.name ?? '',
+      entry.institution?.name ?? "",
     ],
     render: (entry) =>
       entry.institution ? (
@@ -37,7 +37,7 @@ const columns: DataTableColumn<EducationCareerRecord>[] = [
       ),
   },
   {
-    header: 'Título',
+    header: "Título",
     searchText: (entry) => [entry.title, entry.area],
     render: (entry) => (
       <div>
@@ -52,7 +52,7 @@ const columns: DataTableColumn<EducationCareerRecord>[] = [
     ),
   },
   {
-    header: 'Tipo',
+    header: "Tipo",
     searchText: (entry) => [
       degreeTypeLabels[entry.degreeType] ?? entry.degreeType,
     ],
@@ -63,7 +63,7 @@ const columns: DataTableColumn<EducationCareerRecord>[] = [
     ),
   },
   {
-    header: 'Modalidad',
+    header: "Modalidad",
     render: (entry) => (
       <span className="badge text-xs" data-variant="outline">
         {modalityLabels[entry.modality] ?? entry.modality}
@@ -71,83 +71,83 @@ const columns: DataTableColumn<EducationCareerRecord>[] = [
     ),
   },
   {
-    header: 'Duración',
+    header: "Duración",
     render: (entry) => (
       <span className="whitespace-nowrap text-muted-foreground">
-        {entry.duration ?? '-'}
+        {entry.duration ?? "-"}
       </span>
     ),
   },
   {
-    header: 'Matrícula',
+    header: "Matrícula",
     render: (entry) =>
-      entry.cost === 'Gratuita' ? (
+      entry.cost === "Gratuita" ? (
         <span className="text-muted-foreground">-</span>
       ) : (
         <span>{entry.cost}</span>
       ),
   },
-]
+];
 
 export default function EducationTable() {
-  const [careers, setCareers] = useState<EducationCareerRecord[]>([])
-  const [isLoading, setIsLoading] = useState(true)
-  const [loadError, setLoadError] = useState<string | null>(null)
-  const [requestAttempt, setRequestAttempt] = useState(0)
+  const [careers, setCareers] = useState<EducationCareerRecord[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [loadError, setLoadError] = useState<string | null>(null);
+  const [requestAttempt, setRequestAttempt] = useState(0);
 
   useEffect(() => {
-    const controller = new AbortController()
-    let isCancelled = false
+    const controller = new AbortController();
+    let isCancelled = false;
 
     async function loadCareers() {
-      setIsLoading(true)
-      setLoadError(null)
+      setIsLoading(true);
+      setLoadError(null);
 
       try {
-        const response = await fetch('/carreras/index.json', {
+        const response = await fetch("/carreras/index.json", {
           headers: {
-            Accept: 'application/json',
+            Accept: "application/json",
           },
           signal: controller.signal,
-        })
+        });
 
         if (!response.ok) {
           throw new Error(
             `No se pudo cargar el índice de carreras (${response.status})`,
-          )
+          );
         }
 
-        const payload = (await response.json()) as EducationCareersPayload
+        const payload = (await response.json()) as EducationCareersPayload;
         if (!payload || !Array.isArray(payload.careers)) {
-          throw new Error('Índice de carreras con formato inválido')
+          throw new Error("Índice de carreras con formato inválido");
         }
 
         if (!isCancelled) {
-          setCareers(payload.careers)
+          setCareers(payload.careers);
         }
       } catch (error) {
         if (!isCancelled && !controller.signal.aborted) {
           setLoadError(
-            error instanceof Error ? error.message : 'Error desconocido',
-          )
+            error instanceof Error ? error.message : "Error desconocido",
+          );
         }
       } finally {
         if (!isCancelled) {
-          setIsLoading(false)
+          setIsLoading(false);
         }
       }
     }
 
-    loadCareers()
+    loadCareers();
 
     return () => {
-      isCancelled = true
-      controller.abort()
-    }
-  }, [requestAttempt])
+      isCancelled = true;
+      controller.abort();
+    };
+  }, [requestAttempt]);
 
   if (isLoading) {
-    return <CareersSkeleton />
+    return <CareersSkeleton />;
   }
 
   if (loadError) {
@@ -164,7 +164,7 @@ export default function EducationTable() {
           Reintentar
         </button>
       </div>
-    )
+    );
   }
 
   return (
@@ -177,5 +177,5 @@ export default function EducationTable() {
       emptyMessage="No hay programas registrados por el momento."
       itemsPerPage={10}
     />
-  )
+  );
 }

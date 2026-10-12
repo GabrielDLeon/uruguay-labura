@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Licenciatura en Ciencia Política
 - Licenciatura en Desarrollo
 - Licenciatura en Sociología

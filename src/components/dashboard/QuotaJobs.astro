@@ -1,12 +1,12 @@
 ---
-import type { QuotaJobsCounts } from "@/types/jobs"
-import { Icon } from "astro-icon/components"
+import type { QuotaJobsCounts } from "@/types/jobs";
+import { Icon } from "astro-icon/components";
 
 export interface Props {
-  quotas: QuotaJobsCounts
+  quotas: QuotaJobsCounts;
 }
 
-const { quotas } = Astro.props
+const { quotas } = Astro.props;
 
 const quotaItems = [
   {
@@ -41,9 +41,9 @@ const quotaItems = [
     color: "text-amber-600 dark:text-amber-400",
     bgColor: "bg-amber-100 dark:bg-amber-900/30",
   },
-]
+];
 
-const totalQuotaJobs = Object.values(quotas).reduce((s, c) => s + c, 0)
+const totalQuotaJobs = Object.values(quotas).reduce((s, c) => s + c, 0);
 ---
 
 <section>
@@ -52,13 +52,15 @@ const totalQuotaJobs = Object.values(quotas).reduce((s, c) => s + c, 0)
   <div class="grid grid-cols-2 gap-3">
     {
       quotaItems.map((item) => (
-        <div
-          class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center"
-        >
+        <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-4 text-center">
           <div
             class={`mx-auto mb-2 flex size-10 items-center justify-center rounded-full ${item.bgColor}`}
           >
-            <Icon name={item.icon} class={`size-5 ${item.color}`} aria-hidden="true" />
+            <Icon
+              name={item.icon}
+              class={`size-5 ${item.color}`}
+              aria-hidden="true"
+            />
           </div>
           <p class="text-2xl font-semibold text-foreground">{item.count}</p>
           <p class="mt-0.5 text-xs text-muted-foreground">{item.label}</p>

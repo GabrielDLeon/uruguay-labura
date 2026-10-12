@@ -46,9 +46,7 @@ El Master en Big Data extiende la formación ofrecida por el Diploma de Especial
 
 ## 1.er año
 
-
 ### Semestre 1
-
 
 **Técnicas de machine learning para análisis de datos**
 
@@ -64,7 +62,6 @@ Este curso tiene por objetivo general que los estudiantes integren los conceptos
 
 ### Semestre 2
 
-
 **Deep learning aplicado al análisis de datos**
 
 Uno de los problemas fundamentales en aprendizaje automático es la representación del conocimiento. Las técnicas y modelos de aprendizaje profundo constituyen un paradigma cuyo factor central es la representación de modelos complejos mediante la composición de representaciones más simples. Esta materia presenta los modelos fundamentales de aprendizaje profundo, en particular, diferentes tipos de redes neuronales, así como una metodología de aplicación práctica. Además, se presentan implementaciones paralelas y distribuidas de los algoritmos que proveen soluciones eficientes en diferentes arquitecturas.
@@ -79,9 +76,7 @@ El objetivo de este taller es poner en práctica los conocimientos, competencias
 
 ## 2º año
 
-
 ### Semestre 3
-
 
 **Arquitectura de sotfware para analítica en tiempo real**
 
@@ -96,7 +91,6 @@ Los datos en forma de series de tiempo surgen en diversas áreas, como la econom
 Esta materia aborda el proceso, las técnicas y patrones de llevar sistemas de aprendizaje automático (o machine learning) a producción con un enfoque teórico-práctico. Se presentan los conceptos centrales que conforman el ciclo de vida y las operaciones de los proyectos de aprendizaje automático en la industria, con la finalidad de comprender y resolver los desafíos que se presentan al interactuar con una realidad cambiante y cumplir con los requerimientos del sistema. En particular, el curso cubre las herramientas y prácticas necesarias para partir de un problema de aprendizaje automático y servirlo en producción, tomando las consideraciones necesarias, paso fundamental para materializar el valor de una solución de aprendizaje automático.
 
 ### Semestre 4
-
 
 **Trabajo final**
 

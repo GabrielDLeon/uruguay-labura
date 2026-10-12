@@ -25,16 +25,17 @@ tags:
   - atencion-comunitaria
   - salud
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=99
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=99
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -50,8 +51,8 @@ Desarrollar sus prácticas profesionales orientadas en principios éticos y deon
 - **Duración:** 30 meses.
 - **Créditos:** 100 créditos de cursos.
 - **Requiere tesis.**
-TRONCO COMÚN ( MODULOS I,II Y III) COMPARTIDO CON OTRAS MAESTRÍAS MODULOS HORAS Módulo I Investigación I 120 Módulo II Epistemología 75 Módulo III Deontología 15 Módulo IV Administración 75 Módulo V Investigación II 90 TRONCO COMUN COMPARTIDO CON EL RESTO DE LAS MAESTRIAS 375 HORAS DE TRONCO COMUN
-Modulo VI Salud cultura y sociedad 75 horas Modulo VII Modelos y teorías aplicadas al campo de la salud comunitaria 150 horas Modulo VIII Planificación Estratégica aplicada a la atención a la salud en 1er nivel. 75 horas Modulo IX implementación de modelos de práctica investigativa 60 horas Modulo X Modelos y teorías aplicadas al campo de la salud colectiva 90 horas Modelo XI implementación de modelos aplicados 120 horas Modelo XII Diseños de Investigación aplicados al campo de la salud comunitaria 105 horas
+  TRONCO COMÚN ( MODULOS I,II Y III) COMPARTIDO CON OTRAS MAESTRÍAS MODULOS HORAS Módulo I Investigación I 120 Módulo II Epistemología 75 Módulo III Deontología 15 Módulo IV Administración 75 Módulo V Investigación II 90 TRONCO COMUN COMPARTIDO CON EL RESTO DE LAS MAESTRIAS 375 HORAS DE TRONCO COMUN
+  Modulo VI Salud cultura y sociedad 75 horas Modulo VII Modelos y teorías aplicadas al campo de la salud comunitaria 150 horas Modulo VIII Planificación Estratégica aplicada a la atención a la salud en 1er nivel. 75 horas Modulo IX implementación de modelos de práctica investigativa 60 horas Modulo X Modelos y teorías aplicadas al campo de la salud colectiva 90 horas Modelo XI implementación de modelos aplicados 120 horas Modelo XII Diseños de Investigación aplicados al campo de la salud comunitaria 105 horas
 
 ## Ingreso
 

@@ -24,12 +24,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-turismo'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-binacional-en-turismo'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-turismo'
+  - label: "Página oficial"
+    url: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-turismo"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/licenciatura-binacional-en-turismo"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.litoralnorte.udelar.edu.uy/bedelia-de-grado/estudiar-turismo"
 ---
 
 ## Resumen

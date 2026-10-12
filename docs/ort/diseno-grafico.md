@@ -44,9 +44,7 @@ La calidad gráfica de la carrera tiene el sello de la Escuela de Diseño, que c
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Diseño 1 (Comunicación)**
 
@@ -66,7 +64,6 @@ Capacita para dominar las posibilidades que ofrece la diagramación por computad
 
 ### 2.° semestre
 
-
 **Diseño 2 (Información)**
 
 Presenta la tipografía y la estructura de página, su expresividad y carácter, relacionándolas con los mensajes a comunicar y cómo afectan a la comprensión de la información visual.
@@ -85,9 +82,7 @@ Presenta formas de generación, preparación y envío de archivos informáticos 
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Diseño 3 (Persuasión)**
 
@@ -106,7 +101,6 @@ Aborda el rol y el impacto de la Inteligencia Artificial (IA) generativa en el c
 Desarrolla lenguajes visuales orientados a la representación gráfica de marcas. Estudia la gestión proyectual y diseño de logotipos y símbolos como factores fundamentales de identidad de empresas e instituciones.
 
 ### 4.° semestre
-
 
 **Diseño 4 (Identidad)**
 

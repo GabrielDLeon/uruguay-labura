@@ -1,28 +1,28 @@
-import { useCallback, useEffect, useState } from "react"
-import { Icon } from "@iconify/react/offline"
-import { appIcons } from "@/lib/icons"
-import { getSavedJobIds, toggleSavedJob } from "@/lib/saved-jobs"
+import { useCallback, useEffect, useState } from "react";
+import { Icon } from "@iconify/react/offline";
+import { appIcons } from "@/lib/icons";
+import { getSavedJobIds, toggleSavedJob } from "@/lib/saved-jobs";
 
 interface Props {
-  jobId: string
+  jobId: string;
 }
 
 export default function SaveButton({ jobId }: Props) {
-  const [saved, setSaved] = useState(false)
+  const [saved, setSaved] = useState(false);
 
   useEffect(() => {
-    setSaved(getSavedJobIds().includes(jobId))
-  }, [jobId])
+    setSaved(getSavedJobIds().includes(jobId));
+  }, [jobId]);
 
   const handleToggle = useCallback(
     (e: React.MouseEvent) => {
-      e.stopPropagation()
-      e.preventDefault()
-      const result = toggleSavedJob(jobId)
-      setSaved(result.saved)
+      e.stopPropagation();
+      e.preventDefault();
+      const result = toggleSavedJob(jobId);
+      setSaved(result.saved);
     },
     [jobId],
-  )
+  );
 
   return (
     <button
@@ -41,5 +41,5 @@ export default function SaveButton({ jobId }: Props) {
         height="18"
       />
     </button>
-  )
+  );
 }

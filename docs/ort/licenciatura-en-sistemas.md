@@ -69,9 +69,7 @@ Al finalizar los dos años y medio de cursos, nuestros estudiantes obtienen el t
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Programación 1**
 
@@ -91,7 +89,6 @@ El propósito del curso es exponer al estudiante a los aspectos básicos de la p
 
 ### 2.º semestre
 
-
 **Programación 2**
 
 Esta materia tiene como objetivo continuar la formación en el área de programación, con fuerte énfasis en la programación orientada a objetos y en el desarrollo de algoritmia más avanzada. El objetivo es desarrollar aplicaciones orientadas a objetos.
@@ -106,9 +103,7 @@ Esta materia tiene como objetivo principal definir y conceptualizar a los Sistem
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Estructuras de datos y algoritmos 1**
 
@@ -128,7 +123,6 @@ El objetivo de esta materia es diseñar bases de datos a nivel conceptual y lóg
 
 ### 4.º semestre
 
-
 **Infraestructura**
 
 Esta asignatura comprende el estudio de los niveles más bajos en la infraestructura informática. Se analizan la arquitectura y los sistemas operativos y se utiliza una aproximación integradora que busca abarcar la multiplicidad de dispositivos compatibles con la definición de computadora. Así quedan comprendidos dentro del curso tanto los sistemas operativos tradicionales, como los de celulares, tablets y el nivel de software de los sistemas embebidos. También se abarca el caso de un sistema cliente “thin” interactuando contra infraestructura en la nube. A nivel de la arquitectura se discuten características conceptuales de los componentes de los sistemas, en torno a los básicos: CPU y memoria. Se analizan los conceptos fundamentales para el diseño de un sistema operativo, en especial la gestión de los recursos críticos anteriores, junto con el almacenamiento secundario. Se aportan casos reales para fijar ideas. Se busca a través de estos casos dotar a la discusión de la óptica gerencial, de toma de decisiones, afín con el perfil de egreso.
@@ -147,9 +141,7 @@ El objetivo de esta materia es explicar el funcionamiento de los Sistemas Gerenc
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Redes**
 
@@ -168,7 +160,6 @@ El estudiante debe comprender las metodología y herramientas para generar una v
 Durante este curso se profundiza y aplican los conceptos estudiados en el curso Diseño de Aplicaciones 1 y se amplía mediante la introducción de conceptos avanzados de análisis y diseño. Se expondrá al estudiante a arquitecturas en niveles, haciendo énfasis en el diseño de las capas de presentación, servicios y acceso a datos. A su vez se introducen el diseño de frameworks, se profundiza en la utilización de principios de diseño sustentados mediante análisis de métricas a nivel de código y diseño. Se utilizan diversas tecnologías para el desarrollo de interfaces de usuario ricas, servicios web y tecnologías de persistencia de datos.
 
 ### 6.º semestre
-
 
 **Programación de redes**
 
@@ -192,9 +183,7 @@ El estudiante completa su formación seleccionando cuatro asignaturas electivas 
 
 ## 4to. año
 
-
 ### 7.º semestre
-
 
 **Materia de Ingeniería de productos de software**
 
@@ -217,7 +206,6 @@ La gestión de la información se ocupa de la representación, organización, tr
 El estudiante completa su formación seleccionando cuatro asignaturas electivas a cursar en el marco de un perfil profesional. La elección de estas asignaturas permite a los estudiantes ajustar su perfil de egreso a sus preferencias y capacidades o a las características del mercado de trabajo.
 
 ### 8.º semestre
-
 
 **Estrategia de negocios**
 

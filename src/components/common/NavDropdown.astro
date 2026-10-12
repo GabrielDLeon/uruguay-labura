@@ -1,18 +1,18 @@
 ---
-import { Icon } from 'astro-icon/components'
+import { Icon } from "astro-icon/components";
 
 export interface Props {
   /** Unique id for aria attributes */
-  id: string
+  id: string;
   /** Visible label */
-  label: string
+  label: string;
   /** mdi icon name (e.g. "mdi:briefcase-outline") */
-  icon?: string
+  icon?: string;
   /** Minimum width of the dropdown panel */
-  minWidth?: string
+  minWidth?: string;
 }
 
-const { id, label, icon, minWidth = '12rem' } = Astro.props
+const { id, label, icon, minWidth = "12rem" } = Astro.props;
 ---
 
 <div class="nav-dropdown" style={`--min-width: ${minWidth}`}>
@@ -23,15 +23,18 @@ const { id, label, icon, minWidth = '12rem' } = Astro.props
     aria-haspopup="menu"
     aria-controls={`${id}-menu`}
   >
-    {icon && (
-      <Icon name={icon} size={16} class="shrink-0" aria-hidden="true" />
-    )}
+    {icon && <Icon name={icon} size={16} class="shrink-0" aria-hidden="true" />}
     <span>{label}</span>
     <span class="chevron-icon" aria-hidden="true">
       <Icon name="mdi:chevron-down" size={16} />
     </span>
   </button>
-  <div class="nav-popover" role="menu" id={`${id}-menu`} aria-labelledby={`${id}-trigger`}>
+  <div
+    class="nav-popover"
+    role="menu"
+    id={`${id}-menu`}
+    aria-labelledby={`${id}-trigger`}
+  >
     <slot />
   </div>
 </div>
@@ -48,7 +51,9 @@ const { id, label, icon, minWidth = '12rem' } = Astro.props
     border-radius: 0.375rem;
     padding: 0.375rem 0.75rem;
     color: var(--muted-foreground);
-    transition: color 0.15s, background-color 0.15s;
+    transition:
+      color 0.15s,
+      background-color 0.15s;
     cursor: pointer;
     border: none;
     background: none;
@@ -95,7 +100,7 @@ const { id, label, icon, minWidth = '12rem' } = Astro.props
   }
 
   /* Slot content styling */
-  .nav-popover :global([role='menuitem']) {
+  .nav-popover :global([role="menuitem"]) {
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -108,14 +113,14 @@ const { id, label, icon, minWidth = '12rem' } = Astro.props
     transition: background-color 0.1s;
   }
 
-  .nav-popover :global([role='menuitem']:hover),
-  .nav-popover :global([role='menuitem']:focus-visible) {
+  .nav-popover :global([role="menuitem"]:hover),
+  .nav-popover :global([role="menuitem"]:focus-visible) {
     background: var(--muted);
     color: var(--foreground);
     outline: none;
   }
 
-  .nav-popover :global([role='separator']) {
+  .nav-popover :global([role="separator"]) {
     display: block;
     background: var(--border);
     margin: 0.25rem -0.25rem;
@@ -123,7 +128,7 @@ const { id, label, icon, minWidth = '12rem' } = Astro.props
     border: 0;
   }
 
-  .nav-popover :global([role='heading']) {
+  .nav-popover :global([role="heading"]) {
     display: block;
     color: var(--muted-foreground);
     padding: 0.375rem 0.5rem;

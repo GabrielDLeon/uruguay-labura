@@ -28,14 +28,14 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=91'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=91'
-  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
-    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
-  - label: 'Maestría (MSMAI) – FCS'
-    url: 'https://cienciassociales.edu.uy/maestria-en-sociologia-y-metodos-avanzados-de-investigacion/'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=91"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=91"
+  - label: "Postulaciones – Bedelía de Posgrados (FCS)"
+    url: "https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
+  - label: "Maestría (MSMAI) – FCS"
+    url: "https://cienciassociales.edu.uy/maestria-en-sociologia-y-metodos-avanzados-de-investigacion/"
 ---
 
 ## Resumen

@@ -24,14 +24,15 @@ tags:
   - deporte
   - actividad-fisica
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=98
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=98
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo

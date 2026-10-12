@@ -54,9 +54,7 @@ También tienen la posibilidad de obtener un primer título final de Licenciado/
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Programación 1**
 
@@ -76,7 +74,6 @@ Introducir al estudiante a la modalidad de trabajo propia de la ingeniería, est
 
 ### 2.º semestre
 
-
 **Programación 2**
 
 Esta materia tiene como objetivo continuar la formación en el área de programación, con fuerte énfasis en la programación orientada a objetos y en el desarrollo de algoritmia más avanzada. El objetivo es desarrollar aplicaciones orientadas a objetos.
@@ -95,9 +92,7 @@ Brindar al estudiante conocimientos de los métodos generales de análisis de re
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Probabilidad y estadística**
 
@@ -117,7 +112,6 @@ Brindar al estudiante conocimientos de los métodos generales de análisis de re
 
 ### 4.º semestre
 
-
 **Física 2**
 
 Presentar un panorama conceptual de los fenómenos electromagnéticos involucrados en la electrónica y las comunicaciones, desarrollando habilidades de simulación del mundo real, así como el manejo de sensores y datos experimentales necesarios para validar la teoría. Conocimientos y competencias necesarias para una futura implementación tecnológica.
@@ -136,9 +130,7 @@ Estudio, desarrollo, prototipado y documentación por grupos de estudiantes, con
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Sistemas digitales y microprocesadores**
 
@@ -154,9 +146,7 @@ Presentar un panorama conceptual de los fenómenos electromagnéticos ondulatori
 
 **Microeconomía**
 
-
 ### 6.º semestre
-
 
 **Sistemas dinámicos**
 
@@ -176,9 +166,7 @@ Estudio, desarrollo, prototipado y documentación por grupos de alumnos, con la 
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Materia de Control automático**
 
@@ -198,7 +186,6 @@ Impartir los conceptos básicos de los sistemas utilizados en la medida de varia
 
 ### 8.º semestre
 
-
 **Electrónica de potencia**
 
 Estudiar el campo del acondicionamiento y control de la energía eléctrica usando circuitos y dispositivos electrónicos con énfasis en aplicaciones de alimentación y control industrial.
@@ -217,9 +204,7 @@ Estudio, desarrollo, prototipado y documentación por grupos de alumnos, con la 
 
 ## 5.º año
 
-
 ### 9.º semestre
-
 
 **Diseño de sistemas electrónicos**
 
@@ -234,7 +219,6 @@ El estudiante completa su formación seleccionando una asignatura en el área de
 Dentro del área temática es ofrecen asignaturas que faciliten la comprensión del entorno administrativo y económico en el cual se ejerce la profesión. El estudiante completa su formación seleccionando una asignatura del área.
 
 ### 10.º semestre
-
 
 **Materia de Señales y Sistemas - Electrónica y Electrotecnia**
 

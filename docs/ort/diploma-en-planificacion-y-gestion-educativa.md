@@ -40,9 +40,7 @@ En particular, tiene el propósito de:
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Gestión de las instituciones educativas**
 
@@ -61,7 +59,6 @@ Aborda las dinámicas de gestión desde el marco de las políticas educativas �
 Brinda herramientas para la construcción de una actitud investigativa en educación, que permita la mejora de la práctica en un continuo analítico–crítico-reflexivo. Desarrolla competencias metodológicas orientadas al diseño, planificación e implementación de proyectos de investigación educativa aplicada.
 
 ### 2.º semestre
-
 
 **Casos y métodos en investigación educativa 2**
 

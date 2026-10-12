@@ -4,4 +4,5 @@
 **Ubicación:** Montevideo, Artigas, Paysandú
 
 ## Carreras de Grado
+
 - Licenciatura en Enfermería

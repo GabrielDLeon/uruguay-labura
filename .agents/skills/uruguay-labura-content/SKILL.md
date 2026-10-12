@@ -9,11 +9,11 @@ The site is a directory of Uruguay education: **carreras**, **instituciones**, a
 
 Three collections live under `src/content/`:
 
-| Collection | Path | Routed at |
-|---|---|---|
-| Carreras | `src/content/careers/*.md` | `/educacion/carreras/[slug]` |
+| Collection    | Path                            | Routed at                         |
+| ------------- | ------------------------------- | --------------------------------- |
+| Carreras      | `src/content/careers/*.md`      | `/educacion/carreras/[slug]`      |
 | Instituciones | `src/content/institutions/*.md` | `/educacion/instituciones/[slug]` |
-| Becas | `src/content/scholarships/*.md` | `/educacion/becas/[slug]` |
+| Becas         | `src/content/scholarships/*.md` | `/educacion/becas/[slug]`         |
 
 ## The tab mechanism (the one structural rule)
 
@@ -45,23 +45,27 @@ Follow this in order. Each step ends on a checkable bound.
 
 2. **Create or edit the file.** Write the full file: frontmatter block, then the body in Spanish. Match the per-collection template.
 
-    _Done when:_ the file exists at the exact path, the frontmatter has no unknown or misspelled field, and every required field is present per its collection reference.
+   _Done when:_ the file exists at the exact path, the frontmatter has no unknown or misspelled field, and every required field is present per its collection reference.
 
 3. **Write the body with tabs.** Add the canonical H2 tabs for the collection (see below and the per-collection files). Only tabs with real content.
 
-    _Done when:_ every `##` in the body is a member of that collection's canonical set, and the intro text (if any) precedes the first `##`.
+   _Done when:_ every `##` in the body is a member of that collection's canonical set, and the intro text (if any) precedes the first `##`.
 
 4. **Trace every claim to a source.** Each fact in the body must be backed by a `sources` frontmatter entry (careers and scholarships) pointing at the official institution or program page — not scraped aggregators. Facts with no source do not ship.
 
-    _Done when:_ every claim and every `description` maps to a source that is present and linkable.
+   _Done when:_ every claim and every `description` maps to a source that is present and linkable.
 
 5. **Strip scraped artifacts.** Scraped sources will inherit formatting that must not ship: leftover `MSWord` markers, invisible text, stray tokens like `Normal 0 21 false false`, and duplicated blocks. Rewrite the body as clean, human-authored Spanish prose.
 
-    _Done when:_ the rendered body reads as clean Spanish prose with no embedded artifacts.
+   _Done when:_ the rendered body reads as clean Spanish prose with no embedded artifacts.
 
 6. **Validate the build.** If the file is non-trivial, run `pnpm check` to catch schema violations. Fix anything it flags.
 
-    _Done when:_ `pnpm check` passes, or the error is pre-existing and unrelated to this file.
+   _Done when:_ `pnpm check` passes, or the error is pre-existing and unrelated to this file.
+
+7. **Format.** Run `pnpm format` so the file matches Prettier (markdown tables get aligned, frontmatter normalized). Prettier is the only formatter in this repo — never hand-format or copy the spacing of an existing file.
+
+   _Done when:_ `pnpm format:check` passes.
 
 ## Canonical tabs
 

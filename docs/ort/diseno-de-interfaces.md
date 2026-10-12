@@ -40,9 +40,7 @@ La propuesta combina diseño, programación y metodologías de investigación pa
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Diseño 1 (Comunicación)**
 
@@ -62,7 +60,6 @@ Aborda los fundamentos del diseño de prototipos, con énfasis en su uso estrat�
 
 ### 2.° semestre
 
-
 **Diseño 2 (Información)**
 
 Presenta la tipografía y la estructura de página, su expresividad y carácter, relacionándolas con los mensajes a comunicar y cómo afectan a la comprensión de la información visual.
@@ -81,9 +78,7 @@ Ahonda sobre las metodologías y herramientas necesarias para efectuar una adecu
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Diseño 3 (Persuasión)**
 
@@ -102,7 +97,6 @@ Aborda el rol y el impacto de la inteligencia artificial (IA) generativa en el c
 Estructura contenidos y flujos de navegación de manera coherente e intuitiva para diseñar árboles de navegación, mapas de sitio y esquemas de contenido que mejoren la usabilidad y la experiencia general.
 
 ### 4.° semestre
-
 
 **Gestión de diseño**
 

@@ -28,10 +28,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.fenf.edu.uy/ensenanza/area-academica/departamento-de-educacion/carrera-de-grado/'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-enfermeria'
+  - label: "Página oficial"
+    url: "https://www.fenf.edu.uy/ensenanza/area-academica/departamento-de-educacion/carrera-de-grado/"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-enfermeria"
 ---
 
 ## Resumen

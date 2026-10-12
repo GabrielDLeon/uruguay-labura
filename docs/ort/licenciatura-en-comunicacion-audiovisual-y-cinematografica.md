@@ -46,9 +46,7 @@ La materia propone un acercamiento a las herramientas básicas de la narración 
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Expresión oral y escrita**
 
@@ -71,7 +69,6 @@ El curso aporta los elementos necesarios para desempeñarse con corrección y pr
 La materia se propone introducir a la comprensión analítica de los elementos y características del lenguaje audiovisual. Tiene por objetivos situar y comprender el origen y desarrollo de los medios audiovisuales y su lenguaje. Reconocer los elementos fundamentales del lenguaje audiovisual, sus propiedades y principios básicos. Describir y analizar discursos audiovisuales con terminología técnica. Entender y experimentar el proceso de la producción audiovisual. Créditos: 6
 
 ### 2.º semestre
-
 
 **Redacción expresiva**
 
@@ -99,9 +96,7 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Escrituras creativas**
 
@@ -124,7 +119,6 @@ Espacio curricular pensado para comprender y dominar la técnica de la captura d
 El curso Integra la dirección artística como un elemento clave en proyectos audiovisuales y cinematográficos. Permite conocer los diferentes campos y matices técnicos de la dirección artística según el género. Conceptualiza y analiza los elementos artísticos de una imagen y su función narrativa y expresiva. La finalidad es generar un proyecto visual a partir de guiones y convertirlo en material de trabajo real; organizar y planificar el trabajo de arte en proyectos; y trabajar en equipos de arte, ya sea como asistente o director/a. Créditos: 6
 
 ### 4.º semestre
-
 
 **Metodología de la investigación en comunicación**
 
@@ -152,9 +146,7 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Storytelling**
 
@@ -178,7 +170,6 @@ La materia se centra en el diseño y la estructura de los procesos de producció
 
 ### 6.º semestre
 
-
 **Media Lab**
 
 Media Lab Posibilita la integración en equipos multidisciplinarios para la ejecución de proyectos de aplicación, extensión y similares. El fin último es que, a partir de un problema complejo planteado por una institución real externa, el estudiante trabaje en equipos multidisciplinares en soluciones creativas, innovadoras y aplicables. También es posible que el estudiante formule sus propios proyectos y trabaje grupalmente en su incubación. El espacio tiene como objetivos que el estudiante sea capaz de integrarse a equipos multidisciplinarios; reflexionar sobre el rol de su perfil de estudios y encontrar los elementos sinérgicos con otros perfiles; manejar la relación interpersonal y entender los mecanismos de comunicación en grupo, roles y liderazgo y aplicar sus conocimientos a proyectos y soluciones específicas. Créditos: 6
@@ -201,9 +192,7 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Seminario de proyecto final**
 
@@ -222,7 +211,6 @@ Materia que presenta los principales lineamientos conceptuales en torno al cine 
 Nuestro plan de estudios contempla espacios curriculares electivos que permiten a los estudiantes explorar áreas específicas de su interés, enriquecer su formación académica y construir trayectos personalizados dentro del campo de la comunicación. Presentamos un listado provisional y de referencia de asignaturas electivas que se ofrecen. Debe tomarse en cuenta que la oferta varía año a año en función de los lineamientos de la carrera, la actualización profesional y la planificación académica. Este listado se ofrece a modo de orientación y no representa una oferta académica fija. La disponibilidad de cada asignatura se informará al inicio de cada semestre. Comunicación financiera - Créditos: 6 Proyectos tecnológicos en comunicación - Créditos: 6 Taller de presentaciones efectivas - Créditos: 6 Postproducción - Créditos: 6 Proyecto audiovisual con inteligencia artificial - Créditos: 6 Media Lab - Créditos: 6 Gestión de proyectos creativos - Créditos: 6 Ética profesional y relaciones con la prensa - Créditos: 6 Gestión de públicos y audiencias - Créditos: 6 Comportamiento, datos y estrategia - Créditos: 6 Gestión de Recursos Humanos - Créditos: 6 Taller de podcast y marcas - Créditos: 6 Comunicación de impacto, desarrollo humano y sostenibilidad - Créditos: 6 Decisiones basadas en datos - Créditos: 6 Marketing de servicios - Créditos: 6 Gestión estratégica de la imagen corporativa - Créditos: 6 Nuevos formatos narrativos - Créditos: 3
 
 ### 8.º semestre
-
 
 **Proyecto final**
 
@@ -246,7 +234,7 @@ Presencial. Muchas asignaturas complementan sus dictados a través de la modalid
 
 ## Duración y horarios (detalle)
 
-Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino Semestres 5 al 8: nocturno * Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino Semestres 5 al 8: nocturno \* Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ## Títulos y reconocimientos
 

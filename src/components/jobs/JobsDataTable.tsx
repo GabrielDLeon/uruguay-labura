@@ -1,9 +1,7 @@
 import { useMemo } from "react";
 import { Icon } from "@iconify/react/offline";
 
-import DataTable, {
-  type DataTableColumn,
-} from "@/components/common/DataTable";
+import DataTable, { type DataTableColumn } from "@/components/common/DataTable";
 import OrgLogo from "@/components/jobs/OrgLogo";
 import SaveButton from "@/components/jobs/SaveButton";
 import { MAX_TITLE_LENGTH, shorten } from "@/components/jobs/jobs";
@@ -11,9 +9,7 @@ import { formatRelative } from "@/lib/dates";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
 
-function buildColumns(
-  newJobIds?: Set<string>,
-): DataTableColumn<JobRecord>[] {
+function buildColumns(newJobIds?: Set<string>): DataTableColumn<JobRecord>[] {
   return [
     {
       header: "Organismo",
@@ -42,10 +38,7 @@ function buildColumns(
                 {shorten(job.title, MAX_TITLE_LENGTH)}
               </span>
               {isNew ? (
-                <span
-                  className="badge shrink-0 text-xs"
-                  data-variant="success"
-                >
+                <span className="badge shrink-0 text-xs" data-variant="success">
                   Nuevo
                 </span>
               ) : null}

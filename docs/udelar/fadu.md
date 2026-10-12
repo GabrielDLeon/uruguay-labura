@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo, Maldonado (CURE), Salto (CENUR Litoral Norte)
 
 ## Carreras de Grado
+
 - Arquitectura
 - Licenciatura en Diseño de Comunicación Visual
 - Licenciatura en Diseño de Paisaje (CURE Maldonado)

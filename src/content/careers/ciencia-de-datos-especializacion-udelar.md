@@ -22,10 +22,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 18:45:00"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=52'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=52'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=52"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=52"
 ---
 
 ## Resumen
@@ -54,6 +54,7 @@ Un profesional de ciencia de datos es aquella persona que aplica con solvencia l
 ### Requisitos de ingreso
 
 Podrán ingresar al diploma de Especialización Ciencia de Datos quienes cumplan con al menos una de las siguientes condiciones:
+
 - Condición 1: Contar con un título de grado en carreras que incluyan formación en matemática e informática, otorgado por la Universidad de la República de al menos 360 créditos.
 - Condición 2: Contar con formación equivalente que, a juicio de la Comisión de Posgrado, permita la realización y aprovechamiento del Plan de Estudios del diploma de Especialización en Ciencia de Datos o Maestría en Ciencia de Datos Aplicada.
 

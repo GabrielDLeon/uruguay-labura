@@ -101,9 +101,9 @@ Los estudiantes pueden realizar un semestre de intercambio en escuelas de negoci
 
 Doble titulación con Rennes School of Business
 
-En cuatro años y medio, cumpliendo estándares académicos y administrativos, los estudiantes podrán obtener dos títulos: su licenciatura en la facultad y un Master of Science in International Management en Francia, que se dicta en inglés, con alguna de las siguientes especializaciones, a modo de ejemplo*:
+En cuatro años y medio, cumpliendo estándares académicos y administrativos, los estudiantes podrán obtener dos títulos: su licenciatura en la facultad y un Master of Science in International Management en Francia, que se dicta en inglés, con alguna de las siguientes especializaciones, a modo de ejemplo\*:
 
-*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
+\*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
 
 Conocé más sobre la doble titulación.
 
@@ -121,9 +121,7 @@ Para recibirse, los estudiantes deben realizar una Pasantía, cuyo objetivo prin
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Administración general**
 
@@ -147,7 +145,6 @@ El objetivo del curso consiste en desarrollar habilidades de relacionamiento en 
 
 ### 2.° semestre
 
-
 **Contabilidad financiera intermedia**
 
 En este curso se completa el proceso que comenzó en Contabilidad 1 respecto al tratamiento contable de los principales ciclos operativos de la empresa. Los estudiantes son capacitados en el tratamiento contable de operativas diversas y más complejas, así como en las tareas de culminación del proceso contable. Se estudian los conceptos básicos de normas contables adecuadas y de informes financieros. El curso busca, además, desarrollar las siguientes habilidades: Adquirir un alto grado de autonomía. Conseguir buscar, identificar, analizar y sintetizar información proveniente de diversas fuentes, con capacidad crítica para valorar la situación y la previsible evolución de una empresa, emitir juicios razonados, y tomar decisiones sobre cuestiones relevantes de índole económico-empresarial, social y ética. Utilizar las tecnologías de la información y comunicación - Capacidad para trabajar en equipo, con responsabilidad y respeto, iniciativa y liderazgo.
@@ -166,12 +163,9 @@ El objetivo del curso se centra en los aspectos introductorios de la estadístic
 
 **Marco fiscal**
 
-
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Presentación de estados financieros**
 
@@ -195,7 +189,6 @@ Brinda una formación que permite vincular los aspectos técnicos del tratamient
 
 ### 4.° semestre
 
-
 **Análisis de estados financieros**
 
 El curso tiene los siguientes objetivos básicos: Capacitar a los alumnos en las consecuencias de los procesos inflacionarios sobre la información contable y en los distintos métodos de ajuste de estados financieros para reflejar los efectos generados por los cambios de precios. Capacitar a los alumnos sobre el concepto de moneda funcional y el tratamiento contable de operaciones en moneda diferente a su moneda funcional, enseñanza de la metodología de conversión de estados contables. Análisis e interpretación de la situación patrimonial, económica y financiera de una empresa a través de la información financiero contable de la misma y de su entorno.
@@ -214,22 +207,17 @@ El propósito de este curso es el de introducir a los estudiantes en el campo de
 
 **Pensamiento creativo y negociacion**
 
-
 ## 3.er año
-
 
 ### 5.° semestre
 
-
 **Contabilidad de gestión avanzada**
-
 
 **Proceso de presupuestación**
 
 El objetivo de la materia es capacitar al estudiante en la elaboración y control de presupuestos en el contexto de la actividad empresarial, haciendo énfasis en su importancia y su aplicabilidad, así como en las diferentes herramientas y metodologías disponibles para facilitar el proceso. Estudian temas tales como: proceso de planificación, presupuesto integral, presupuesto e inflación, presupuestos operativos, control presupuestario y la consideración del riesgo en el proceso presupuestario.
 
 **Sostenibilidad y gestión de riesgos**
-
 
 **Impuestos a la renta empresarial**
 
@@ -240,7 +228,6 @@ El curso tiene por objetivo lograr una comprensión en profundidad del sistema d
 Control interno es el proceso destinado a proveer razonable seguridad en relación al logro de los objetivos de la empresa y es llevado adelante por el Directorio, la Gerencia y resto del personal, siendo ellos mismos quienes constituyen el Gobierno Corporativo y proveen la estructura a través de la cual se logran los objetivos y se determinan los medios para alcanzarlos y monitorear el desempeño. El curso se propone los siguientes objetivos: Analizar los procesos de negocio típicos de las empresas de modo que los estudiantes puedan comprender la importancia y los principios fundamentales del proceso de gestión de riesgos, sus objetivos, componentes y conceptos clave. Se espera que se familiaricen con las metodologías y herramientas para la identificación, evaluación y monitoreo de los riesgos y aplicar una estrategia proactiva e interfuncional para cumplir con GRC (Governance, Risk & Compliance).
 
 ### 6.° semestre
-
 
 **Contabilidad de grupos**
 
@@ -260,12 +247,9 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 **Ética profesional**
 
-
 ## 4.º año
 
-
 ### 7.° semestre
-
 
 **Estrategia y control de gestión**
 
@@ -289,7 +273,6 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ### 8.° semestre
 
-
 **Planificación financiera**
 
 El objetivo de la materia es integrar los diferentes conocimientos adquiridos en los semestres previos sobre estrategia, presupuestación, análisis de estados contables y finanzas, como pilares fundamentarles del proceso de Planificación Financiera. Se enfatiza la importancia y aplicabilidad que el proceso de Planificación Financiera tiene en la realidad de cualquier empresa y se presentan diferentes herramientas y metodologías disponibles para facilitar su desarrollo, en especial para considerar los riesgos a los que la actividad se encuentra expuesta.
@@ -299,7 +282,6 @@ El objetivo de la materia es integrar los diferentes conocimientos adquiridos en
 El curso tiene como objetivo principal capacitar al estudiante sobre el concepto de auditoría de estados financieros, las normas de auditoría generalmente aceptadas (NIAs), así como los enfoques de auditoría más frecuentes. Estudia el proceso de auditoría, y las normas de auditoría generalmente aceptadas.
 
 **Aplicaciones de IA a los negocios**
-
 
 **Materias electivas**
 

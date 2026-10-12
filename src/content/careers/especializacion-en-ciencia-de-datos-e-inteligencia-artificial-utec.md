@@ -43,7 +43,7 @@ Esta formación combina la excelencia académica y el enfoque práctico de **UTE
 
 La segunda generación de la Especialización tiene una **dedicación promedio estimada de 15 horas semanales.**
 
-Aquellas personas que alcancen la totalidad de créditos, pero no cuenten con título de grado a la fecha de finalización de las actividades de la Especialización, obtendrán un certificado de *Diploma superior en Ciencia de Datos e Inteligencia Artificial*.
+Aquellas personas que alcancen la totalidad de créditos, pero no cuenten con título de grado a la fecha de finalización de las actividades de la Especialización, obtendrán un certificado de _Diploma superior en Ciencia de Datos e Inteligencia Artificial_.
 
 ### Modalidad
 

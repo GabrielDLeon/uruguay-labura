@@ -38,9 +38,7 @@ Asimismo, promueve el intercambio con comunidades y redes académicas, a nivel r
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Teorías de la enseñanza**
 
@@ -59,7 +57,6 @@ Promueve la construcción de una actitud investigativa en educación, para la me
 Seminario curricular con temáticas a determinar por los profesores invitados. Para su elección se tendrá en cuenta los intereses de los estudiantes y las necesidades de cubrir áreas de vacancia en los procesos formativos.
 
 ### 2.º semestre
-
 
 **Innovación y cambio educativo**
 
@@ -83,9 +80,7 @@ Al término del primer semestre del primer año —y luego de haber cumplido con
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Nuevas agendas para la enseñanza**
 
@@ -104,7 +99,6 @@ Desarrollo profesional docente Presenta las diversas conceptualizaciones referid
 Para la implementación del proyecto, los estudiantes contarán con el acompañamiento de un tutor, quien los apoyará a lo largo del proceso. Para la presentación del informe final de tesis, los estudiantes dispondrán de un período mínimo de un año y máximo de dos años, a partir de la aprobación de su proyecto de investigación.
 
 ### 4.º semestre
-
 
 **Seminario de tesis**
 

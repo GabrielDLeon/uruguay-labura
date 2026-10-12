@@ -37,12 +37,12 @@ updatedAt: "2026-09-14 00:00:00"
 
 Montos anuales (2026), pagados en **9 cuotas mensuales entre abril y diciembre**:
 
-| Nivel | Monto anual |
-|---|---|
-| Educación Media Básica (1°, 2°, 3°) | $13.000 |
-| 1° Educación Media Superior | $17.000 |
-| 2° Educación Media Superior | $21.000 |
-| 3° Educación Media Superior | $25.000 |
+| Nivel                               | Monto anual |
+| ----------------------------------- | ----------- |
+| Educación Media Básica (1°, 2°, 3°) | $13.000     |
+| 1° Educación Media Superior         | $17.000     |
+| 2° Educación Media Superior         | $21.000     |
+| 3° Educación Media Superior         | $25.000     |
 
 - Cobro con tarjeta asociada a una cuenta BROU: mayores de 14 años en cuenta personal; menores de 14 años continúan cobrando por BPS.
 - El pago mensual está condicionado al cumplimiento del acuerdo educativo: ante un incumplimiento el pago se suspende (ver guía del usuario para condiciones de reintegro).
@@ -65,7 +65,7 @@ Online en [becas.edu.uy](https://becas.edu.uy/). La postulación es anual: quien
 
 Los resultados se publican en el mismo portal en abril y también se comunican a los centros educativos.
 
-Consultas: 0800 2342 / *2342 (lun–vie 8–18 h).
+Consultas: 0800 2342 / \*2342 (lun–vie 8–18 h).
 
 ## Fechas y Plazas
 

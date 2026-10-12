@@ -52,9 +52,7 @@ Hoy en día, además, los diseñadores gráficos son de los profesionales más s
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Arte y estética 1**
 
@@ -82,7 +80,6 @@ Introduce en el código oral y escrito. Se trabajará el criterio normativo y pr
 
 ### 2.º semestre
 
-
 **Arte y estética 2**
 
 Profundiza en el conocimiento histórico del arte y el diseño, como herramienta para el análisis de los lenguajes visuales y formales a través de una mirada integradora de la sociedad, tomando en cuenta los contextos y las innovaciones tecnológicas que engendraron los cambios. Tiene como objetivos que el estudiante sea capaz de: - Conocer las manifestaciones artísticas y culturales anteriores a nuestro tiempo, así como de ubicar los “objetos-productos” en un contexto histórico y cultural determinado. - Descubrir la influencia de las corrientes artísticas y filosóficas en la cultura contemporánea. - Desarrollar la reflexión crítica y criterio estético, para su propia síntesis creativa, tomando el conocimiento de la historia del diseño y las artes, como una herramienta para el proyecto.
@@ -109,9 +106,7 @@ Introduce al estudiante en el manejo del lenguaje HTML y CSS. Tiene como objetiv
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Técnicas de impresión 1**
 
@@ -139,7 +134,6 @@ La asignatura profundiza el conocimiento del estudiante en el manejo del lenguaj
 
 ### 4.º semestre
 
-
 **Técnicas de impresión 2**
 
 Profundiza los conocimientos de los diferentes métodos de impresión, la preparación y clasificación de originales así como los procedimientos de confección de las películas correspondientes. Tiene como objetivos que el estudiante sea capaz de: - Entender la relación que existe entre técnica y diseño. - Conocer e identificar los pasos del proceso de reproducción gráfica. - Aplicar las herramientas tecnológicas a este proceso en forma optimizada. - Prever el desarrollo de su proyecto de diseño en los diferentes pasos de la reproducción gráfica. - Controlar la correcta reproducción de su diseño en las etapas de preimpresión e impresión. - Optimizar técnicamente su proyecto de forma de disminuir el riesgo de errores en las etapas de preimpresión digital.
@@ -166,9 +160,7 @@ Profundiza en el uso no lineal de las herramientas de edición y postproducción
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Electiva 3 (Gráfica para cine y TV)**
 
@@ -192,7 +184,6 @@ Tiene como objetivos: - Brindar una introducción al conocimiento de la Publicid
 
 ### 6.º semestre
 
-
 **Teorías aplicadas al diseño**
 
 Proporciona los elementos necesarios para ingresar en el campo de la reflexión teórica del diseño combinando teorías de la percepción, la comunicación y la semiótica. Promueve una reflexión crítica acerca del Diseño como contribución a la formación de cultura. Tiene como objetivos que el estudiante sea capaz de: - Reconocer la pertinencia y contribuciones de los sistemas teóricos de la percepción, la comunicación y semióticos, y reconocer su funcionamiento. - Asimilar el uso pragmático de elementos afines al diseño que esos sistemas poseen, para ponerlos en práctica, con destreza y acierto.
@@ -215,9 +206,7 @@ Ayuda a desarrollar las competencias necesarias para una correcta gestión de pr
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Electiva 5 (Marketing digital)**
 
@@ -232,7 +221,6 @@ Proporciona los elementos necesarios para introducir al estudiante en la comunic
 Posibilita la integración en equipos multidisciplnarios para la ejecución de proyectos de aplicación, extensión y similares, ejecutables en el marco del Media Lab. Tiene como objetivos que el estudiante sea capaz de: - Integrarse a equipos multidisciplinarios. - Reflexionar sobre el rol de su perfil de estudios y encontrar los elementos sinérgicos con otros perfiles. - Manejar la relación interpersonal y entender los mecanismos de comunicación en grupo, roles y liderazgo. - Aplicar sus conocimientos a proyectos y soluciones específicas.
 
 ### 8.º semestre
-
 
 **Tendencias del diseño contemporáneo**
 

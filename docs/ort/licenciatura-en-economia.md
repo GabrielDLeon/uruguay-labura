@@ -63,9 +63,9 @@ Esto incluye acceder a posiciones que abarcan desde el asesoramiento económico 
 
 Doble titulación con Rennes School of Business
 
-En cuatro años y medio, cumpliendo estándares académicos y administrativos, los estudiantes podrán obtener dos títulos: su licenciatura en la facultad y un Master of Science in International Management en Francia, que se dicta en inglés, con alguna de las siguientes especializaciones, a modo de ejemplo*:
+En cuatro años y medio, cumpliendo estándares académicos y administrativos, los estudiantes podrán obtener dos títulos: su licenciatura en la facultad y un Master of Science in International Management en Francia, que se dicta en inglés, con alguna de las siguientes especializaciones, a modo de ejemplo\*:
 
-*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
+\*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
 
 Conocé más sobre la doble titulación.
 
@@ -77,9 +77,7 @@ La carrera está basada en el estudio científico, tanto teórico como cuantitat
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Indicadores económicos y sociales**
 
@@ -99,7 +97,6 @@ El propósito de este curso es el de introducir a los estudiantes en el campo de
 
 ### 2.° semestre
 
-
 **Microeconomía intermedia**
 
 Sobre la base de lo estudiado en Principios de Economía, el curso profundiza en el análisis de la determinación de los precios de bienes y de factores de producción (trabajo y capital), y su incidencia en la asignación de recursos de la economía. Además se analizan los efectos sobre el bienestar individual y colectivo de distintas medidas de política económica.
@@ -118,9 +115,7 @@ El objetivo del curso se centra en los aspectos introductorios de la estadístic
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Contabilidad financiera 1**
 
@@ -140,7 +135,6 @@ En este curso se busca que el estudiante conozca modelos univariados para variab
 
 ### 4.° semestre
 
-
 **Teoría de juegos**
 
 Las interacciones entre individuos (en el trabajo, en el ámbito financiero, etc.) o entre empresas se pueden visualizar como negociaciones entre las partes en donde cada una de ellas pugna por conseguir algún objetivo y toma decisiones independientes, para su beneficio personal. De esta forma, el estudiante será capaz de analizar modelos económicos en los que la interacción entre agentes es relevante, en situaciones estáticas y dinámicas, con información completa e incompleta.
@@ -159,9 +153,7 @@ El curso ofrece la posibilidad al estudiante de estudiar y analizar la coyuntura
 
 ## 3.er año
 
-
 ### 5.° semestre
-
 
 **Econometría para datos transversales**
 
@@ -181,7 +173,6 @@ Introducción a la programación 1 y 2 En esta secuencia de cursos, que no requi
 
 ### 6.° semestre
 
-
 **Econometría para series de tiempo**
 
 El curso brinda al estudiante los elementos teóricos y los métodos para el análisis de series de tiempo y la especificación, estimación y validación de modelos uniecuacionales y multiecuacionales. También se estudian diferentes métodos de predicción y se introduce el tratamiento de los problemas de causalidad. El curso teórico será acompañado de aplicaciones prácticas en los que se hará uso intensivo de paquetes econométricos.
@@ -200,9 +191,7 @@ Materias electivas Estas materias se presentan a título de ejemplo. Economía E
 
 ## 4.° año
 
-
 ### 7.° semestre
-
 
 **Organización industrial**
 
@@ -226,7 +215,6 @@ Materias electivas Estas materias se presentan a título de ejemplo. Economía E
 
 ### 8.° semestre
 
-
 **Crecimiento económico**
 
 Estudio de los distintos modelos de crecimiento económico, tradicionales y modernos. Efectos del comercio sobre el crecimiento, capital humano y desarrollo tecnológico endógeno. Se elaborarán trabajos de investigación sobre los determinantes del crecimiento en Uruguay.
@@ -249,7 +237,7 @@ Materias electivas Estas materias se presentan a título de ejemplo. Economía E
 
 **Pasantía**
 
-La Pasantía constituye un crédito académico obligatorio del Plan de Estudios para la obtención del título. Su aprobación depende de la realización de diversas actividades (que pueden ser laborales, académicas, comunitarias u otras) en las condiciones reglamentarias. En general, consiste en una práctica laboral dentro de organizaciones constituidas (empresas, instituciones, organismos, etc.) que tiene como objetivo principal que el estudiante demuestre su capacidad para enfrentarse a la actividad profesional, aplicando los conocimientos adquiridos durante la carrera, en un cargo de responsabilidad acorde a la formación recibida. * Los estudiantes que hayan obtenido el título intermedio pueden cursar o revalidar la Pasantía entre el 5º y 8º semestre.
+La Pasantía constituye un crédito académico obligatorio del Plan de Estudios para la obtención del título. Su aprobación depende de la realización de diversas actividades (que pueden ser laborales, académicas, comunitarias u otras) en las condiciones reglamentarias. En general, consiste en una práctica laboral dentro de organizaciones constituidas (empresas, instituciones, organismos, etc.) que tiene como objetivo principal que el estudiante demuestre su capacidad para enfrentarse a la actividad profesional, aplicando los conocimientos adquiridos durante la carrera, en un cargo de responsabilidad acorde a la formación recibida. \* Los estudiantes que hayan obtenido el título intermedio pueden cursar o revalidar la Pasantía entre el 5º y 8º semestre.
 
 ## Requisitos de ingreso (detalle)
 

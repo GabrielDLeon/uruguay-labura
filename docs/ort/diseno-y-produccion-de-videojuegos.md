@@ -38,9 +38,7 @@ El plan de estudios integra fundamentos de diseño de juego en 2D y 3D, el dise�
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Diseño 1 (Comunicación)**
 
@@ -60,7 +58,6 @@ Introduce al campo de la imagen digital y manejo del software pixelar. Aborda la
 
 ### 2.° semestre
 
-
 **Teoría y evolución del juego**
 
 La asignatura propone un recorrido por la evolución del juego y del videojuego como fenómeno cultural y social, abordando los fundamentos conceptuales de la teoría del juego y la ludología. A partir del análisis el estudiante desarrollará una mirada crítica y creativa sobre el diseño de experiencias lúdicas digitales, explorando también aplicaciones como el advergaming y la comunicación a través de videojuegos.
@@ -79,9 +76,7 @@ La asignatura introduce al estudiante en el uso lineal y no lineal de las herram
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Gestión de proyectos**
 
@@ -100,7 +95,6 @@ La asignatura profundiza en el desarrollo de videojuegos mediante la incorporaci
 La asignatura capacita en los fundamentos del modelado y la animación tridimensional digital. Introduce en el modelado técnico orgánico, la puesta en escena, el control de luces, sombras, cámaras y texturas, así como la animación de personajes 3D.
 
 ### 4.° semestre
-
 
 **Marketing and live operations**
 

@@ -40,9 +40,7 @@ La maestría de dos años de duración ―dirigida a administradores, gestores e
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Gestión de las instituciones educativas**
 
@@ -62,7 +60,6 @@ Brinda herramientas para la construcción de una actitud investigativa en educac
 
 ### 2.° semestre
 
-
 **Casos y métodos en investigación educativa 2**
 
 Busca profundizar el análisis de la información y la producción de datos en el marco del desarrollo de proyectos de mejora escolar, basados en la investigación educativa. Aborda el proceso de construcción del dato, la confiabilidad y la validez de la información empírica necesaria para promover proyectos de mejora educativa.
@@ -77,9 +74,7 @@ Brinda un espacio de acompañamiento en el diseño, aplicación y análisis de u
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Sociedad e instituciones**
 
@@ -94,7 +89,6 @@ Invita al análisis de ciertas capacidades institucionales que permiten enfrenta
 Representa una etapa exploratoria en el marco de una investigación aplicada, con la finalidad de abordar una problemática o demanda organizacional específica, que culmina en un informe diagnóstico. Se procuran integrar metodologías de investigación y estrategias de desarrollo organizacional.
 
 ### 4.° semestre
-
 
 **Electiva 2**
 

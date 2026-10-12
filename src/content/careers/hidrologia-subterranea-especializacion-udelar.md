@@ -25,12 +25,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 18:45:00"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=1'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=1'
-  - label: 'Programa del diploma (PDF, Fing)'
-    url: 'https://www.fing.edu.uy/sites/default/files/Dip_Esp_Hidrolog%C3%ADa_Subterranea.pdf'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=8&idPosgrado=1"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=8&idPosgrado=1"
+  - label: "Programa del diploma (PDF, Fing)"
+    url: "https://www.fing.edu.uy/sites/default/files/Dip_Esp_Hidrolog%C3%ADa_Subterranea.pdf"
 ---
 
 ## Resumen

@@ -4,5 +4,6 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Licenciatura en Nutrición
 - Técnico Operador de Alimentos

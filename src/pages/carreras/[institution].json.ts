@@ -29,10 +29,16 @@ export async function getStaticPaths() {
       // The JSON payload depends on both the institution entry and the careers
       // it lists, so the cacheKey folds both digests together.
       const hasher = createHash("sha256");
-      hasher.update(String(institution.digest ?? institution.data.updatedAt ?? institution.id));
+      hasher.update(
+        String(
+          institution.digest ?? institution.data.updatedAt ?? institution.id,
+        ),
+      );
       for (const career of careers.sort((a, b) => a.id.localeCompare(b.id))) {
         hasher.update("\n");
-        hasher.update(String(career.digest ?? career.data.updatedAt ?? career.id));
+        hasher.update(
+          String(career.digest ?? career.data.updatedAt ?? career.id),
+        );
       }
 
       return {

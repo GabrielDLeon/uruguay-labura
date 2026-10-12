@@ -4,4 +4,5 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Licenciatura en Psicología

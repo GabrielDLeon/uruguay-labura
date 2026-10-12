@@ -54,9 +54,7 @@ Los estudiantes que aprueben las 16 materias obligatorias, que incluyen el talle
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Contabilidad y automatización**
 
@@ -76,7 +74,6 @@ Capacita al estudiante para lograr objetivos predeterminados, en un entorno con 
 
 ### 2.° semestre
 
-
 **Costos y presupuestación**
 
 Incursiona en los sistemas de costos como formación de valor en el ámbito interno de la entidad y en los criterios técnicos de las variables de inventarios. Forma al estudiante en las técnicas de presupuestación y en el análisis de la interpretación de la situación económico-financiera para la evaluación y planificación de las empresas.
@@ -95,9 +92,7 @@ Capacita al estudiante en las técnicas y herramientas que se aplican en la gest
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Operaciones de servicios**
 
@@ -112,7 +107,6 @@ Capacita en los conocimientos necesarios para incorporar las herramientas digita
 Introduce al estudiante en el sistema tributario nacional. Lo capacita en los principales impuestos que gravan la actividad económica y empresarial de nuestro país, teniendo en cuenta lo que debe conocer un empresario para estar en condiciones de interactuar con los asesores especializados y tomar decisiones que involucran aspectos fiscales.
 
 ### 4.° semestre
-
 
 **Cómo constituir una empresa**
 

@@ -26,16 +26,17 @@ tags:
   - atencion-primaria
   - atencion-comunitaria
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=10
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=10
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -51,8 +52,8 @@ Comprender la complejidad del ser humano, las interrelaciones con su entorno fam
 - **Duración:** 18 meses.
 - **Créditos:** 62 créditos de cursos.
 - **Requiere tesis.**
-La Especialidad se desarrollará en el Centro de Postgrado de la Facultad de Enfermería con un total de: 930 horas - 62 créditos, de los cuales 26 créditos (390 horas) corresponden a la teoría y 36 créditos (540 horas) a la experiencia práctica. Cada crédito es equivalente a 15 horas.
-225 hs. -Teóricas – Asignaturas propias a la Especialidad -15 cr. 30 hs.- Metodología Científica- 2 cr. 15 hs- Bioética 1cr. 15 hs. Epidemiología 1cr. Optativas: 30 hs. Inglés (2 cr) ó 30 hs. de portugués (2 cr) ó 30 hs. informática (2 cr) 75 hs.- Corresponden al Trabajo Final. 5 cr. 540 hs.- Horas de Experiencia Práctica.- 36 cr. La Especialidad en Enfermería Familiar y Comunitaria propone entonces, el 59% de experiencia práctica y 41% de teoría.
+  La Especialidad se desarrollará en el Centro de Postgrado de la Facultad de Enfermería con un total de: 930 horas - 62 créditos, de los cuales 26 créditos (390 horas) corresponden a la teoría y 36 créditos (540 horas) a la experiencia práctica. Cada crédito es equivalente a 15 horas.
+  225 hs. -Teóricas – Asignaturas propias a la Especialidad -15 cr. 30 hs.- Metodología Científica- 2 cr. 15 hs- Bioética 1cr. 15 hs. Epidemiología 1cr. Optativas: 30 hs. Inglés (2 cr) ó 30 hs. de portugués (2 cr) ó 30 hs. informática (2 cr) 75 hs.- Corresponden al Trabajo Final. 5 cr. 540 hs.- Horas de Experiencia Práctica.- 36 cr. La Especialidad en Enfermería Familiar y Comunitaria propone entonces, el 59% de experiencia práctica y 41% de teoría.
 
 ## Ingreso
 

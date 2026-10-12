@@ -29,18 +29,15 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"
 sources:
-  - label: 'Bases convocatoria 2027-2028 (PDF)'
-    url: 'https://www.artes.udelar.edu.uy/wp-content/uploads/2023/08/260513-Bases-para-la-convocatoria-a-programa-de-posgrado-FArtes.pdf'
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=3'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=86&idPosgrado=3'
-  - label: 'Maestría en Cine Latinoamericano – Facultad de Artes'
-    url: 'https://www.artes.udelar.edu.uy/carrera/maestria-en-cine-latinoamericano/'
+  - label: "Bases convocatoria 2027-2028 (PDF)"
+    url: "https://www.artes.udelar.edu.uy/wp-content/uploads/2023/08/260513-Bases-para-la-convocatoria-a-programa-de-posgrado-FArtes.pdf"
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=86&idPosgrado=3"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=86&idPosgrado=3"
+  - label: "Maestría en Cine Latinoamericano – Facultad de Artes"
+    url: "https://www.artes.udelar.edu.uy/carrera/maestria-en-cine-latinoamericano/"
 ---
-
-
-
 
 ## Resumen
 

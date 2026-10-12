@@ -23,16 +23,17 @@ tags:
   - oncologia
   - cuidados
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=97
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=97
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -46,8 +47,8 @@ Los profesionales especialistas en enfermería ONCOLOGICA proporcionarán cuidad
 ### Plan de estudios
 
 - **Créditos:** 60.
-Esta Especialidad se desarrollará en el Centro de Postgrado de la Facultad de Enfermería con un total de: 900 horas - 60 créditos (24 créditos Teóricos, 36 créditos Práctica)
-Desarrollo curricular: 195 hs. -Teóricas – Asignaturas propias a la Especialidad -13 créditos. 30 hs.- Metodología Científicacréditos. 15 hs- Bioética 1cr. Crédito. 15 hs. Epidemiología 1 crédito. Optativas: 30 hs. inglés o 30 hs. de portugués o 30 hs. informática – 2 créditos. 75 hs.- Corresponden al Trabajo Final. 5 créditos. 540 hs.- Prácticas.- 36 créditos.
+  Esta Especialidad se desarrollará en el Centro de Postgrado de la Facultad de Enfermería con un total de: 900 horas - 60 créditos (24 créditos Teóricos, 36 créditos Práctica)
+  Desarrollo curricular: 195 hs. -Teóricas – Asignaturas propias a la Especialidad -13 créditos. 30 hs.- Metodología Científicacréditos. 15 hs- Bioética 1cr. Crédito. 15 hs. Epidemiología 1 crédito. Optativas: 30 hs. inglés o 30 hs. de portugués o 30 hs. informática – 2 créditos. 75 hs.- Corresponden al Trabajo Final. 5 créditos. 540 hs.- Prácticas.- 36 créditos.
 
 ## Ingreso
 

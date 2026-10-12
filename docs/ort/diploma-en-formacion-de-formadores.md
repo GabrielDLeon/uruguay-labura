@@ -40,9 +40,7 @@ El Diploma en Formación de Formadores tiene el propósito de:
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Fundamentos, destinatarios y metodología de la formación**
 
@@ -61,7 +59,6 @@ Expone las diversas concepciones acerca de la institución formadora. Aborda los
 Seminario curricular con temáticas a determinar por los profesores invitados. Para su elección se tendrá en cuenta los intereses de los estudiantes y las necesidades de cubrir áreas de vacancia en los procesos formativos.
 
 ### 2.º semestre
-
 
 **Desarrollo profesional docente**
 

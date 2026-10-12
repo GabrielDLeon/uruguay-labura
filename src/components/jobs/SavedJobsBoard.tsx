@@ -59,9 +59,6 @@ export default function SavedJobsBoard() {
   }
 
   return (
-    <JobsDataTable
-      jobs={savedJobs}
-      searchPlaceholder="Buscar en guardados"
-    />
+    <JobsDataTable jobs={savedJobs} searchPlaceholder="Buscar en guardados" />
   );
 }

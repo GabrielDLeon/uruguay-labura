@@ -44,9 +44,7 @@ Es allí cuando surge la posibilidad de crear un objeto nuevo, que considera int
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Arte y estética 1**
 
@@ -74,7 +72,6 @@ Proporciona los recursos técnicos que hacen viable un enriquecimiento de la sen
 
 ### 2.º semestre
 
-
 **Arte y estética 2**
 
 Presenta la historia del arte en relación con la comunicación visual y el diseño. Provee de una visión panorámica de las manifestaciones artísticas y de las teorías estéticas en las que se basaron sus creadores. Estudia en forma crítica los códigos empleados por los artistas contemporáneos. Fomenta la aproximación personal a las distintas expresiones, con el fin de agudizar el sentido crítico y estético.
@@ -101,9 +98,7 @@ Proporciona los recursos técnicos que hacen viable un enriquecimiento de la sen
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Electiva 2 (Evolución del diseño industrial 1)**
 
@@ -127,7 +122,6 @@ Desarrolla aplicaciones digitales para el enriquecimiento de la labor proyectual
 
 ### 4.º semestre
 
-
 **Electiva 3 (Evolución del diseño industrial 2)**
 
 La asignatura introduce al estudiante en el conocimiento del desarrollo del Diseño Industrial en el siglo XX, atendiendo a los resultados de la sinergia diseño - producción, con las variables sociales, tecnológicas y económicas que los propiciaron.
@@ -150,9 +144,7 @@ Desarrolla aplicaciones digitales para el enriquecimiento de la labor proyectual
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Administración y costos industriales**
 
@@ -176,7 +168,6 @@ Desarrolla aplicaciones digitales para el enriquecimiento de la labor proyectual
 
 ### 6.º semestre
 
-
 **Teorías aplicadas al diseño**
 
 La asignatura proporciona al estudiante los elementos necesarios para ingresar en el campo de la reflexión teórica del diseño combinando teorías de la percepción, la comunicación y la semiótica. Promueve una reflexión crítica acerca del Diseño como contribución a la formación de cultura.
@@ -195,9 +186,7 @@ Desarrolla las competencias necesarias para una correcta identificación, admini
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Electiva 6 (Marketing digital)**
 
@@ -212,7 +201,6 @@ Mediante el análisis de casos y la ejercitación, el área proyectual va involu
 La asignatura posibilita al estudiante a integrarse en equipos multidisciplnarios para la ejecución de proyectos de aplicación, extensión y similares, ejecutables en el marco del Media Lab.
 
 ### 8.º semestre
-
 
 **Tendencias del diseño contemporáneo**
 

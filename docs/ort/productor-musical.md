@@ -40,9 +40,7 @@ La carrera apunta a aquellos estudiantes con perfiles creativos, independientes,
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Tecnología del home studio 1**
 
@@ -62,7 +60,6 @@ Brinda herramientas y técnicas avanzadas para la creación musical, mediante el
 
 ### 2.º semestre
 
-
 **Tecnología del home studio 2**
 
 Describe los principios y las herramientas tecnológicas utilizadas en el entorno de la producción musical, desde un punto de vista funcional.
@@ -81,9 +78,7 @@ Brinda herramientas y técnicas avanzadas para la creación musical, mediante el
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Acústica del home studio**
 
@@ -103,7 +98,6 @@ Proporciona las herramientas musicales que constituyen la base para la composici
 
 ### 4.º semestre
 
-
 **Arreglo musical**
 
 Entrena en la adaptación de los diferentes parámetros musicales de una canción tales como el largo y reordenamiento de secciones, la selección del tempo y tonalidad, la función y el rango de cada instrumento, así como la relación entre el género musical y la paleta instrumental.
@@ -122,9 +116,7 @@ Proporciona las herramientas musicales que constituyen la base para la composici
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Proyecto de producción musical**
 

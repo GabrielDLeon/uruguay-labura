@@ -28,10 +28,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial FING'
-    url: 'https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto'
+  - label: "Página oficial FING"
+    url: "https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.fing.edu.uy/es/carrera/grado/lic-en-recursos-hidricos-y-riego-rn-salto"
 ---
 
 ## Resumen

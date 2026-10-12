@@ -48,16 +48,13 @@ Esta maestría lleva más de 35 años formando líderes, referentes y tomadores 
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Introducción a la contabilidad financiera**
 
 Presenta los términos y conceptos básicos de contabilidad financiera evidenciando cómo los sistemas contables se utilizan para registrar las actividades económicas diarias de un negocio. Expone a los participantes a los estados contables que las organizaciones utilizan para describir sus negocios y se aproxima a su desempeño a través de ratios. Diseñado y administrado por Harvard University, se brinda con el soporte académico del cuerpo docente local.
 
 **Introducción a métodos cuantitativos**
-
 
 **Comportamiento organizacional**
 
@@ -77,13 +74,11 @@ Presenta los fundamentos de contabilidad financiera necesarios para la toma de d
 
 ### Junio (intensivo)
 
-
 **Decisiones en entornos complejos**
 
 A partir de las mejores prácticas de consultoría y utilizando metodologías de toma de decisiones, los estudiantes profundizan y desarrollan sus habilidades profesionales: resolver problemas complejos y no estructurados, gestionar proyectos y equipos, y comunicar y persuadir.
 
 ### Julio - Setiembre
-
 
 **Supply chain Management**
 
@@ -99,13 +94,11 @@ Provee conocimientos y desarrolla habilidades en metodologías y técnicas de an
 
 ### Setiembre (intensivo)
 
-
 **Taller de trabajo en equipo**
 
 A través del aprendizaje experimental se fundamenta la transferencia de conocimientos y experiencias mediante la aplicación de dinámicas de grupo para la conformación de equipos de alto rendimiento en un marco creativo, dinámico, interactivo y divertido.
 
 ### Octubre - Diciembre
-
 
 **Liderazgo estratégico**
 
@@ -121,9 +114,7 @@ Introduce los principios económicos relevantes para la dirección estratégica.
 
 ## 2.do año
 
-
 ### Febrero - Marzo
-
 
 **Modelos de negocios e innovación**
 
@@ -139,7 +130,6 @@ Desarrolla las capacidades para formular estrategias competitivas sostenibles qu
 
 ### Febrero - Marzo (intensivo)
 
-
 **Electiva 1**
 
 Debe elegir 5 materias electivas. Si escoge 3 o más de la misma área obtiene el título con una orientación. Contará con asesoramiento personalizado de la Coordinación Académica para identificar las asignaturas que le generen más valor.
@@ -149,7 +139,6 @@ Debe elegir 5 materias electivas. Si escoge 3 o más de la misma área obtiene e
 Debe elegir 5 materias electivas. Si escoge 3 o más de la misma área obtiene el título con una orientación. Contará con asesoramiento personalizado de la Coordinación Académica para identificar las asignaturas que le generen más valor.
 
 ### Abril - Junio
-
 
 **Simulación estratégica competitiva**
 
@@ -169,13 +158,11 @@ Debe elegir 5 materias electivas. Si escoge 3 o más de la misma área obtiene e
 
 ### Junio (intensivo)
 
-
 **Taller gestión del talento**
 
 Focaliza en el cambio de comportamientos para hacer constructivos los conflictos que se presentan frente a los cambios, decisiones y diferentes visiones del día a día. Se utilizan las prácticas de aprendizaje para adultos, tales como juegos de roles, estudios de casos, ejercicios, simulaciones, testimonios, videograbación e instrumentos de autoevaluación.
 
 ### Julio - Setiembre
-
 
 **Innovación, tecnología y negocios**
 
@@ -183,16 +170,13 @@ Explora cómo las tecnologías digitales transforman industrias, modelos de nego
 
 **Electiva 5**
 
-
 ### Octubre - Diciembre
-
 
 **Plan de negocios**
 
 Aborda la definición, la estrategia de implementación, y el análisis de viabilidad económico-financiera y comercial de un proyecto real de negocios, elaborado por los participantes bajo la supervisión metodológica de tutores experimentados en este tipo de proyectos. Integra y somete a la realidad los conceptos y métodos desarrollados a lo largo del MBA.
 
 ### Intercambios
-
 
 **Doble titulación: Florida International University**
 

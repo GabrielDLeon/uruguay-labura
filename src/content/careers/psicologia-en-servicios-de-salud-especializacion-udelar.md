@@ -26,16 +26,17 @@ tags:
   - salud
   - atencion-comunitaria
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=10&idPosgrado=97
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=10&idPosgrado=97
-  - label: 'Reglamento de la Especialización (PDF)'
+  - label: "Reglamento de la Especialización (PDF)"
     url: http://psico.edu.uy/sites/default/files/2017-02/especializacion_en_psicologia_en_servicios_de_salud.pdf
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo

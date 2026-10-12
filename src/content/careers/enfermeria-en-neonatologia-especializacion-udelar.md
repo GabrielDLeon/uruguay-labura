@@ -24,16 +24,17 @@ tags:
   - pediatria
   - cuidados
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=96
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=96
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -47,8 +48,8 @@ Identifica los problemas de salud de la población objetivo (embarazadas, recié
 ### Plan de estudios
 
 - **Créditos:** 120.
-Contará con un total de: 1800 horas correspondientes a 120 créditos distribuyéndose los mismos de la siguiente forma: Actividades Teóricas: 40 créditos correspondientes a 600 horas teóricas Actividades Prácticas: 80 créditos correspondientes a 1200 horas prácticas.
-Asignaturas propias de la especialidad 600 HORAS TEÓRICAS – 40 créditos. Unidades específicas del programa: ……. . . . . . …. 405 horas (27 créditos) Materias de apoyo: ………………………………………. 135 horas (9 créditos) Metodología científica:…………………………………45 horas (3 créditos) Bioestadística:…………………………………………. 45 horas (3 créditos) Ofimática…………………………………………………15 horas (1 créditos). Elaboración de Proyectos………………………………30 horas (2 créditos) II.4.2. Asignaturas Opcionales: …………………….……………… 30 horas (2 créditos) Inglés: . . . . . . .…………………………….……………. 30 horas (2 créditos) Portugués…………………………………………………. 30 horas (2 créditos) II.4.3. Elaboración e implementación de Proyecto final…. …. 30 horas (2 créditos)
+  Contará con un total de: 1800 horas correspondientes a 120 créditos distribuyéndose los mismos de la siguiente forma: Actividades Teóricas: 40 créditos correspondientes a 600 horas teóricas Actividades Prácticas: 80 créditos correspondientes a 1200 horas prácticas.
+  Asignaturas propias de la especialidad 600 HORAS TEÓRICAS – 40 créditos. Unidades específicas del programa: ……. . . . . . …. 405 horas (27 créditos) Materias de apoyo: ………………………………………. 135 horas (9 créditos) Metodología científica:…………………………………45 horas (3 créditos) Bioestadística:…………………………………………. 45 horas (3 créditos) Ofimática…………………………………………………15 horas (1 créditos). Elaboración de Proyectos………………………………30 horas (2 créditos) II.4.2. Asignaturas Opcionales: …………………….……………… 30 horas (2 créditos) Inglés: . . . . . . .…………………………….……………. 30 horas (2 créditos) Portugués…………………………………………………. 30 horas (2 créditos) II.4.3. Elaboración e implementación de Proyecto final…. …. 30 horas (2 créditos)
 
 ## Ingreso
 

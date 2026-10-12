@@ -55,9 +55,7 @@ La formación recibida por los graduados durante la carrera les permitirá:
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Programación 1**
 
@@ -77,7 +75,6 @@ Introducir al estudiante a la modalidad de trabajo propia de la ingeniería, est
 
 ### 2.º semestre
 
-
 **Programación 2**
 
 Esta materia tiene como objetivo continuar la formación en el área de programación, con fuerte énfasis en la programación orientada a objetos y en el desarrollo de algoritmia más avanzada. El objetivo es desarrollar aplicaciones orientadas a objetos.
@@ -96,9 +93,7 @@ Brindar al estudiante conocimientos de los métodos generales de análisis de re
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Probabilidad y estadística**
 
@@ -118,7 +113,6 @@ Brindar al estudiante conocimientos de los métodos generales de análisis de re
 
 ### 4.º semestre
 
-
 **Física 2**
 
 Presentar un panorama conceptual de los fenómenos electromagnéticos involucrados en la electrónica y las comunicaciones, desarrollando habilidades de simulación del mundo real, así como el manejo de sensores y datos experimentales necesarios para validar la teoría. Conocimientos y competencias necesarias para una futura implementación tecnológica.
@@ -137,9 +131,7 @@ Estudiar las ecuaciones diferenciales y su forma de resolución. Desarrollar la 
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Sistemas digitales y microprocesadores**
 
@@ -155,9 +147,7 @@ Presentar un panorama conceptual de los fenómenos electromagnéticos ondulatori
 
 **Microeconomía**
 
-
 ### 6.º semestre
-
 
 **Redes eléctricas**
 
@@ -177,9 +167,7 @@ La asignatura tiene como objetivo impartir conocimientos básicos sobre circuito
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Materia de Control automático**
 
@@ -199,7 +187,6 @@ Impartir los conceptos básicos de los sistemas utilizados en la medida de varia
 
 ### 8.º semestre
 
-
 **Electrónica de potencia**
 
 Estudiar el campo del acondicionamiento y control de la energía eléctrica usando circuitos y dispositivos electrónicos con énfasis en aplicaciones de alimentación y control industrial.
@@ -218,9 +205,7 @@ Familiarizar a los estudiantes con la organización industrial y la estructura d
 
 ## 5.º año
 
-
 ### 9.º semestre
-
 
 **Materia Electiva**
 
@@ -235,7 +220,6 @@ Como ampliación de los conocimientos impartidos en los cursos de Electrotecnia,
 Familiarizar a los estudiantes con la organización de los mercados energéticos, los agentes involucrados, características de oferta y demanda, así como los distintos mecanismos de funcionamiento. Se estudiarán los conceptos de optimización y su aplicación a los mercados energéticos eléctricos. Se incluirá las valoraciones de los riesgos asociados, conceptos de seguridad de suministro, así como la interacción de las redes y los mercados considerando características y condicionamientos eléctricos, así como distintas técnicas de despacho de la generación, y las decisiones y mecanismos referidos a inversiones en generación y redes.
 
 ### 10.º semestre
-
 
 **Transporte de energía eléctrica**
 

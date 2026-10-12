@@ -58,9 +58,7 @@ Los graduados del postgrado forman parte de su Comunidad Alumni de la Escuela de
 
 ## 1.er año
 
-
 ### Abril-Junio
-
 
 **Marco legal del trabajo**
 
@@ -76,7 +74,6 @@ Brinda conocimientos sobre la función y aportes desarrollados por la Psicologí
 
 ### Junio (intensivo)
 
-
 **Taller de comunicación**
 
 Capacita para identificar los factores que puedan dificultar una comunicación efectiva y aplica conductas y técnicas que permitan su resolución. Desarrolla con énfasis la capacidad de comprender los principios y técnicas de la comunicación eficaz, reconocer la presencia de factores que la impiden y cómo actuar de forma proactiva, de escuchar y comprender, hacer preguntas para liderar la comunicación, manejar los componentes no verbales, dar retroalimentación y realizar presentaciones orales efectivas.
@@ -86,7 +83,6 @@ Capacita para identificar los factores que puedan dificultar una comunicación e
 Tiene como objetivo introducir a los estudiantes en el manejo de las redes sociales en los procesos de atracción y selección del talento, a través de actividades como: conocer las redes diferentes sociales más eficaces en Recursos Humanos 2.0, publicar anuncios de empleo en redes sociales, automatización de procesos de selección, monitoreo de la reputación digital de la empresa.
 
 ### Julio-Setiembre
-
 
 **Equipos, colaboración e influencia**
 
@@ -102,13 +98,11 @@ Estudia las vinculaciones de los sistemas de remuneración y beneficios con las 
 
 ### Setiembre (intensivo)
 
-
 **Taller de negociación**
 
 Estudia aspectos conceptuales y prácticos de la negociación interpersonal. Entrena en los elementos conceptuales necesarios para comprender el rol y la importancia de las instancias de negociación. Desarrolla el proceso de comunicación y el manejo de las diversas técnicas de presentación personal y colectiva. Profundiza en la preparación y realización de negociaciones con respecto a los recursos humanos, utilizando juegos de negociación, simulación de situaciones y estudio de diversos modelos de negociación. Aborda el rol del negociador desde lo experiencial y conductual, con un gran énfasis en negociaciones colectivas laborales y su encuadre legal.
 
 ### Octubre-Diciembre
-
 
 **Resultados y analítica de recursos humanos**
 
@@ -123,7 +117,6 @@ Define la participación de la función de recursos humanos y/o del departamento
 Estudia aspectos conceptuales y prácticos de la negociación interpersonal. Entrena en los elementos conceptuales necesarios para comprender el rol y la importancia de las instancias de negociación. Desarrolla el proceso de comunicación y el manejo de las diversas técnicas de presentación personal y colectiva. Profundiza en la preparación y realización de negociaciones a nivel de los recursos humanos, utilizando juegos de negociación, simulación de situaciones y estudio de diversos modelos de negociación. Aborda el rol del negociador desde lo experiencial y conductual, con un gran énfasis en negociaciones colectivas laborales y su encuadre legal.
 
 ### Febrero-Marzo
-
 
 **Sostenibilidad y gestión responsable**
 

@@ -28,20 +28,17 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"
 sources:
-  - label: 'Especialización y Maestría en Gramática del Español (ANEP)'
-    url: 'https://formacion.anep.edu.uy/node/542'
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=91'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=51&idPosgrado=91'
-  - label: 'Plan de estudios (PDF, FHCE)'
-    url: 'https://fhce.edu.uy/wp-content/uploads/2026/04/Plan-de-estudios-Gramatica-del-Espanol.pdf'
-  - label: 'Posgrados ANEP-Udelar – FHCE'
-    url: 'https://fhce.edu.uy/posgrados-anep-udelar/'
+  - label: "Especialización y Maestría en Gramática del Español (ANEP)"
+    url: "https://formacion.anep.edu.uy/node/542"
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=91"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=51&idPosgrado=91"
+  - label: "Plan de estudios (PDF, FHCE)"
+    url: "https://fhce.edu.uy/wp-content/uploads/2026/04/Plan-de-estudios-Gramatica-del-Espanol.pdf"
+  - label: "Posgrados ANEP-Udelar – FHCE"
+    url: "https://fhce.edu.uy/posgrados-anep-udelar/"
 ---
-
-
-
 
 ## Resumen
 

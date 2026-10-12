@@ -44,9 +44,7 @@ Esta materia profundiza en las distintas formas del periodismo, con la participa
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Expresión oral y escrita**
 
@@ -69,7 +67,6 @@ El curso aporta los elementos necesarios para desempeñarse con corrección y pr
 El curso aborda la práctica periodística desde su complejidad y multiplicidad de opciones, explorando tanto la riqueza de la palabra como el valor del silencio. Permite forjar una mirada propia a través del estudio sistemático y la revisión constante, redactando noticias y entrevistas que aporten comprensión y sentido en un mundo dinámico y cambiante. Brinda las herramientas para redactar contenidos periodísticos con precisión, claridad y rigurosidad, seleccionando y jerarquizando contenidos, estableciendo prioridades de agenda, consiguiendo información, efectuando entrevistas y crónicas, y dominando el lenguaje periodístico en sus múltiples formatos, incluyendo nociones de lenguaje radial y audiovisual. Finalmente, propone conocer el medio periodístico local y los referentes de la región, discutiendo sus modos y prácticas profesionales, y valorar la calidad periodística de trabajos publicados, identificando buenas prácticas y reconociendo aquellas que no se ajustan a estos estándares en el contexto actual. Créditos: 6
 
 ### 2.º semestre
-
 
 **Redacción expresiva**
 
@@ -97,9 +94,7 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Escrituras creativas**
 
@@ -127,7 +122,6 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ### 4.º semestre
 
-
 **Metodología de la investigación en comunicación**
 
 Durante el curso los estudiantes aprenderán a identificar las etapas del proceso de investigación de las Ciencias Sociales y a aplicar técnicas de investigación cualitativas, cuantitativas y mixtas, así como a fundamentar su uso en estudios de específicos del campo de la comunicación. También serán capaces de elegir diferentes tipos de diseños y herramientas de investigación de manera efectiva. Esta materia es la base conceptual y analítica que prepara a los estudiantes para el Proyecto Final de la carrera. Créditos: 6
@@ -150,9 +144,7 @@ El curso presenta elementos críticos y analíticos en la elaboración de una id
 
 ## 3.er año
 
-
 ### 5.° semestre
-
 
 **Industrias culturales y del entretenimiento**
 
@@ -176,7 +168,6 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ### 6.º semestre
 
-
 **Media Lab**
 
 Media Lab posibilita la integración en equipos multidisciplinarios para la ejecución de proyectos de aplicación, extensión y similares. El fin último es que, a partir de un problema complejo planteado por una institución real externa, el estudiante trabaje en equipos multidisciplinares en soluciones creativas, innovadoras y aplicables. También es posible que el estudiante formule sus propios proyectos y trabaje grupalmente en su incubación. El espacio tiene como objetivos que el estudiante sea capaz de integrarse a equipos multidisciplinarios; reflexionar sobre el rol de su perfil de estudios y encontrar los elementos sinérgicos con otros perfiles; manejar la relación interpersonal y entender los mecanismos de comunicación en grupo, roles y liderazgo y aplicar sus conocimientos a proyectos y soluciones específicas. Créditos: 6
@@ -199,9 +190,7 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Seminario de proyecto final**
 
@@ -225,7 +214,6 @@ Nuestro plan de estudios contempla espacios curriculares electivos que permiten 
 
 ### 8.º semestre
 
-
 **Proyecto final**
 
 Es una instancia individual o grupal de cierre de carrera en la que el estudiante desarrolla un proyecto de corte profesional o un trabajo académico-científico de integración de conocimientos en su área. Las dos opciones implican un componente decisivo de investigación y un despliegue de estrategias y métodos de trabajo (académico / profesional) que acrediten un sólido dominio de saberes adquiridos a lo largo de toda la carrera. Créditos: 18
@@ -248,7 +236,7 @@ Presencial. Muchas asignaturas complementan sus dictados a través de la modalid
 
 ## Duración y horarios (detalle)
 
-Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00 Semestres 1 al 4: matutino Semestres 5 al 8: nocturno * Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00 Semestres 1 al 4: matutino Semestres 5 al 8: nocturno \* Las clases prácticas de la orientación audiovisual y algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ## Títulos y reconocimientos
 

@@ -1,37 +1,37 @@
 ---
-import { Image } from 'astro:assets'
-import { Icon } from 'astro-icon/components'
+import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
 
 interface Props {
-  title: string
-  short?: string
-  url: string
-  description?: string
+  title: string;
+  short?: string;
+  url: string;
+  description?: string;
   /** Free-text type (e.g. "Beca privada por mérito académico"), fallback for the description */
-  type: string
-  tags: string[]
-  image?: any
+  type: string;
+  tags: string[];
+  image?: any;
 }
 
-const { title, short, url, description, type, tags, image } = Astro.props
+const { title, short, url, description, type, tags, image } = Astro.props;
 
 const typeIcons: Record<string, string> = {
-  estatal: 'mdi:bank',
-  privada: 'mdi:domain',
-  internacional: 'mdi:earth',
-  gremial: 'mdi:account-group',
-}
+  estatal: "mdi:bank",
+  privada: "mdi:domain",
+  internacional: "mdi:earth",
+  gremial: "mdi:account-group",
+};
 
 const typeLabels: Record<string, string> = {
-  estatal: 'Estatal',
-  privada: 'Privada',
-  internacional: 'Internacional',
-  gremial: 'Gremial',
-}
+  estatal: "Estatal",
+  privada: "Privada",
+  internacional: "Internacional",
+  gremial: "Gremial",
+};
 
-const primaryTag = tags.find((t) => typeIcons[t])
-const icon = primaryTag ? typeIcons[primaryTag] : 'mdi:school'
-const category = primaryTag ? typeLabels[primaryTag] : undefined
+const primaryTag = tags.find((t) => typeIcons[t]);
+const icon = primaryTag ? typeIcons[primaryTag] : "mdi:school";
+const category = primaryTag ? typeLabels[primaryTag] : undefined;
 ---
 
 <a
@@ -41,7 +41,11 @@ const category = primaryTag ? typeLabels[primaryTag] : undefined
   {
     image ? (
       <div class="flex size-12 shrink-0 items-center justify-center rounded-md overflow-hidden">
-        <Image src={image} alt={short ?? title} class="h-full w-full object-cover" />
+        <Image
+          src={image}
+          alt={short ?? title}
+          class="h-full w-full object-cover"
+        />
       </div>
     ) : (
       <div class="flex size-12 shrink-0 items-center justify-center rounded-md bg-primary/10">

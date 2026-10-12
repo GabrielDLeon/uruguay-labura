@@ -1,23 +1,27 @@
 ---
 interface Item {
-  label: string
-  value: string | number | undefined | null
+  label: string;
+  value: string | number | undefined | null;
 }
 
 interface Props {
-  items: Item[]
+  items: Item[];
 }
 
-const { items } = Astro.props
+const { items } = Astro.props;
 ---
 
-<dl class="*:flex *:justify-between [&_dt]:text-muted-foreground [&_dd]:font-medium [&_dd]:text-right grid gap-2 text-sm">
+<dl
+  class="*:flex *:justify-between [&_dt]:text-muted-foreground [&_dd]:font-medium [&_dd]:text-right grid gap-2 text-sm"
+>
   {
-    items.filter((i) => i.value != null).map((item) => (
-      <div>
-        <dt>{item.label}</dt>
-        <dd>{item.value}</dd>
-      </div>
-    ))
+    items
+      .filter((i) => i.value != null)
+      .map((item) => (
+        <div>
+          <dt>{item.label}</dt>
+          <dd>{item.value}</dd>
+        </div>
+      ))
   }
 </dl>

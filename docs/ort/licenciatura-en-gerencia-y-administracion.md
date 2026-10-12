@@ -82,9 +82,9 @@ Los estudiantes pueden realizar un semestre de intercambio en escuelas de negoci
 
 Doble titulación con Rennes School of Business
 
-En un período de cuatro años y medio, al que se le suma una pasantía a realizar en Europa —que gestiona Rennes School of Business—, y habiendo cumplido los estándares académicos y administrativos, los estudiantes obtendrán los títulos de Licenciado/a en Gerencia y Administración y el Master of Science in International Management, con alguna de las siguientes especializaciones (a modo de ejemplo)*:
+En un período de cuatro años y medio, al que se le suma una pasantía a realizar en Europa —que gestiona Rennes School of Business—, y habiendo cumplido los estándares académicos y administrativos, los estudiantes obtendrán los títulos de Licenciado/a en Gerencia y Administración y el Master of Science in International Management, con alguna de las siguientes especializaciones (a modo de ejemplo)\*:
 
-*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
+\*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
 
 Conocé más sobre la doble titulación.
 
@@ -116,9 +116,7 @@ Para recibirse los estudiantes deben realizar una Pasantía, cuyo objetivo princ
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Administración general**
 
@@ -142,7 +140,6 @@ Facilita al estudiante su integración dentro de un equipo y el fortalecimiento 
 
 ### 2.° semestre
 
-
 **Fundamentos de marketing**
 
 Marketing es la actividad de generar y mantener relaciones rentables con clientes, al pensar el intercambio comercial con fuerte empatía con el consumidor para satisfacer sus necesidades a lo largo del tiempo. El curso proporciona un conocimiento extensivo de los fundamentos, herramientas y filosofías de la disciplina por medio del manejo del marketing mix (producto, precio, promoción y plaza), del comportamiento del consumidor, mercado objetivo y posicionamiento.
@@ -165,9 +162,7 @@ El curso brinda al estudiante un marco general para comprender el contexto tecno
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Marketing estratégico**
 
@@ -191,7 +186,6 @@ El curso introduce al estudiante en el uso profesional de planillas electrónica
 
 ### 4.° semestre
 
-
 **Comercio internacional**
 
 Presenta los conceptos básicos del comercio exterior, los principales procedimientos operativos, formas de transporte internacional e instrumentos de pago. El estudiante obtiene una comprensión básica de las políticas orientadas al comercio internacional y las principales tendencias, tales como acuerdos internacionales y su impacto sobre el resto de la economía y la sociedad uruguaya.
@@ -214,9 +208,7 @@ Presenta las situaciones jurídicas relevantes en el contexto empresarial a las 
 
 ## 3.er año
 
-
 ### 5.° Semestre
-
 
 **Economía gerencial y de plataformas**
 
@@ -240,7 +232,6 @@ El curso busca que el estudiante conozca la metodología de la investigación de
 
 ### 6.° semestre
 
-
 **Estrategia y competencia**
 
 Parte de la base de que las empresas para poder ser exitosas deben comprender el entorno en el que operan, así como las habilidades y recursos que las distinguen, es decir, cuál es su ventaja competitiva. La elección en cuanto a estas dimensiones se denomina estrategia. Los estudiantes desarrollan habilidades en la formulación de estrategias viables, que generen valor para los clientes, los accionistas y demás partes interesadas.
@@ -263,9 +254,7 @@ Curso avanzado que profundiza, a partir de los fundamentos adquiridos en Finanza
 
 ## 4.° año
 
-
 ### 7.° semestre
-
 
 **Estrategia e implantación**
 
@@ -288,7 +277,6 @@ Estas materias se presentan a título de ejemplo. Marketing Marketing digital El
 El curso desarrolla competencias para diseñar y entregar presentaciones profesionales efectivas en contextos empresariales y académicos. Se trabajan los tres ejes que determinan el impacto de una presentación: el contenido (estructura del mensaje, storytelling, pirámide de Minto, manejo de argumentos y evidencia, adaptación a la audiencia), el diseño visual (principios de diseño aplicados a slides, jerarquías visuales, uso del color y la tipografía, visualización de datos para presentaciones, uso eficaz de PowerPoint o herramientas equivalentes) y la entrega oral (lenguaje verbal y no verbal, manejo de la voz y el espacio, gestión de la ansiedad, interacción con la audiencia, manejo de preguntas y objeciones). El curso es altamente práctico, con presentaciones grabadas y feedback individualizado de docentes y pares.
 
 ### 8.° semestre
-
 
 **Materias electivas**
 

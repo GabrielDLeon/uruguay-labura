@@ -1,36 +1,36 @@
-import { useEffect, useMemo, useState } from 'react'
-import type { ReactNode } from 'react'
+import { useEffect, useMemo, useState } from "react";
+import type { ReactNode } from "react";
 
-import DataTablePagination from '@/components/common/DataTablePagination'
-import TableContainer from '@/components/common/TableContainer'
+import DataTablePagination from "@/components/common/DataTablePagination";
+import TableContainer from "@/components/common/TableContainer";
 
 export interface DataTableColumn<T> {
-  header: string
-  render: (row: T) => ReactNode
+  header: string;
+  render: (row: T) => ReactNode;
   /** Campos del registro que se incluyen en la búsqueda por texto. */
-  searchText?: (row: T) => string[]
+  searchText?: (row: T) => string[];
 }
 
 interface Props<T> {
-  rows: T[]
-  columns: DataTableColumn<T>[]
-  getRowId: (row: T) => string
+  rows: T[];
+  columns: DataTableColumn<T>[];
+  getRowId: (row: T) => string;
   /** Sustantivo plural para el contador, ej: "carreras", "sedes". */
-  noun: string
+  noun: string;
   /** Forma singular, para “1 llamado” en vez de “1 llamados”. */
-  singularNoun?: string
-  searchPlaceholder?: string
-  emptyMessage?: string
-  itemsPerPage?: number
+  singularNoun?: string;
+  searchPlaceholder?: string;
+  emptyMessage?: string;
+  itemsPerPage?: number;
 }
 
-const DEFAULT_ITEMS_PER_PAGE = 15
+const DEFAULT_ITEMS_PER_PAGE = 15;
 
 function normalize(text: string) {
   return text
     .toLowerCase()
-    .normalize('NFD')
-    .replace(/\p{Diacritic}/gu, '')
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "");
 }
 
 export default function DataTable<T>({
@@ -39,43 +39,43 @@ export default function DataTable<T>({
   getRowId,
   noun,
   singularNoun,
-  searchPlaceholder = 'Buscar...',
-  emptyMessage = 'No se encontraron resultados.',
+  searchPlaceholder = "Buscar...",
+  emptyMessage = "No se encontraron resultados.",
   itemsPerPage = DEFAULT_ITEMS_PER_PAGE,
 }: Props<T>) {
-  const [query, setQuery] = useState('')
-  const [page, setPage] = useState(1)
+  const [query, setQuery] = useState("");
+  const [page, setPage] = useState(1);
 
   const filtered = useMemo(() => {
-    const q = normalize(query.trim())
-    if (!q) return rows
+    const q = normalize(query.trim());
+    if (!q) return rows;
     return rows.filter((row) =>
       columns.some((column) =>
         (column.searchText?.(row) ?? []).some((text) =>
           normalize(text).includes(q),
         ),
       ),
-    )
-  }, [rows, columns, query])
+    );
+  }, [rows, columns, query]);
 
-  const totalPages = Math.max(1, Math.ceil(filtered.length / itemsPerPage))
-  const currentPage = Math.min(page, totalPages)
+  const totalPages = Math.max(1, Math.ceil(filtered.length / itemsPerPage));
+  const currentPage = Math.min(page, totalPages);
   const pageItems = filtered.slice(
     (currentPage - 1) * itemsPerPage,
     currentPage * itemsPerPage,
-  )
+  );
 
   useEffect(() => {
-    setPage(1)
-  }, [query])
+    setPage(1);
+  }, [query]);
 
   return (
     <section className="grid gap-4">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <p className="text-sm text-muted-foreground" role="status">
-          {rows.length}{' '}
+          {rows.length}{" "}
           {rows.length === 1 && singularNoun ? singularNoun : noun}
-          {query.trim() ? ` · ${filtered.length} resultados` : ''}
+          {query.trim() ? ` · ${filtered.length} resultados` : ""}
         </p>
         <div role="group" className="field w-full sm:max-w-xs">
           <input
@@ -124,5 +124,5 @@ export default function DataTable<T>({
         </>
       )}
     </section>
-  )
+  );
 }

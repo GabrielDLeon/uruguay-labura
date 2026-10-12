@@ -24,16 +24,17 @@ tags:
   - medicina-de-emergencia
   - cuidados
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=93
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=93
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -47,8 +48,8 @@ Los Especialistas proporcionarán cuidados enfermeros a personas con complicacio
 ### Plan de estudios
 
 - **Créditos:** 60.
-Esta Especialidad se desarrollará en el Centro de Posgrado de la Facultad de Enfermería con un total de: 900 horas - 60 cr. (24 cr. Teóricos y 36 cr. Práctica)
-Contenidos Teóricos: 285 hs (19 cr) 195 hs. Asignaturas propias a la Especialidad -13 créditos. 30 hs. Metodología Científica- 2 créditos. 15 hs. Bioética 1 crédito. 15 hs Epidemiología 1 crédito. Optativas: 30 hs. (2 cr.): Deberá seleccionar una de las siguientes asignaturas: inglés, portugués o informática. - Trabajo Final: 75 hs. - 5 cr. - Prácticas: 540 hs - 36 cr.
+  Esta Especialidad se desarrollará en el Centro de Posgrado de la Facultad de Enfermería con un total de: 900 horas - 60 cr. (24 cr. Teóricos y 36 cr. Práctica)
+  Contenidos Teóricos: 285 hs (19 cr) 195 hs. Asignaturas propias a la Especialidad -13 créditos. 30 hs. Metodología Científica- 2 créditos. 15 hs. Bioética 1 crédito. 15 hs Epidemiología 1 crédito. Optativas: 30 hs. (2 cr.): Deberá seleccionar una de las siguientes asignaturas: inglés, portugués o informática. - Trabajo Final: 75 hs. - 5 cr. - Prácticas: 540 hs - 36 cr.
 
 ## Ingreso
 

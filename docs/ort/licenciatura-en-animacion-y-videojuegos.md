@@ -42,9 +42,7 @@ Por estas razones, estudiar Animación y Videojuegos resulta fundamental para aq
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Arte y estética 1**
 
@@ -72,7 +70,6 @@ Proporciona los recursos técnicos que hacen viable un enriquecimiento de la sen
 
 ### 2.º semestre
 
-
 **Arte y estética 2**
 
 Presenta la historia del arte en relación con la comunicación visual y el diseño. Provee de una visión panorámica de las manifestaciones artísticas y de las teorías estéticas en las que se basaron sus creadores. Estudia en forma crítica los códigos empleados por los artistas contemporáneos. Fomenta la aproximación personal a las distintas expresiones, con el fin de agudizar el sentido crítico y estético.
@@ -99,9 +96,7 @@ La asignatura introduce al estudiante en el conocimiento de los recursos de expr
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Lenguaje audiovisual**
 
@@ -129,7 +124,6 @@ La asignatura capacita al estudiante en animación y videojuegos mediante el mod
 
 ### 4.º semestre
 
-
 **Diseño de videojuegos 1**
 
 La asignatura introduce al estudiante en los elementos básicos del diseño conceptual de videojuegos.
@@ -156,9 +150,7 @@ La asignatura capacita al estudiante en la animación de personajes y efectos es
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Teoría del juego**
 
@@ -186,7 +178,6 @@ La asignatura introduce al estudiante en el proceso de prototipado y programaci�
 
 ### 6.º semestre
 
-
 **Teorías aplicadas al diseño**
 
 La asignatura proporciona al estudiante los elementos necesarios para ingresar en el campo de la reflexión teórica del diseño combinando teorías de la percepción, la comunicación y la semiótica. Promueve una reflexión crítica acerca del Diseño como contribución a la formación de cultura.
@@ -213,9 +204,7 @@ La asignatura capacita al estudiante en el modelado 3D de personajes y entornos 
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Efectos especiales y fotorrealismo**
 
@@ -234,7 +223,6 @@ La asignatura profundiza en la animación de personajes en tres dimensiones, foc
 Presentar los conceptos fundamentales de la programación de videojuegos en entornos 3D.
 
 ### 8.º semestre
-
 
 **Marketing 1**
 

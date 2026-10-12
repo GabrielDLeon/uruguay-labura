@@ -29,10 +29,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=95'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=4&idPosgrado=95'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=4&idPosgrado=95"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=4&idPosgrado=95"
 ---
 
 ## Resumen
@@ -63,7 +63,7 @@ INGRESO Podrán aspirar a la especialización quienes posean título universitar
 
 ### Programa
 
-PLAN DE ESTUDIO La duración mínima es de un año lectivo y las exigencias curriculares mínimas son de 60 créditos. De ellos 14, corresponderán a una actividad programada obligatoria, en la que se exigirá no menos de 100 horas presenciales y que corresponde a un trabajo de investigación en el área de las ciencias ambientales abordando una temática territorialmente definida. Los restantes créditos (46) comprenderán cursos optativos de posgrado distribuidos en tres unidades temáticas: Biofísica, Socio-económica y Análisis e integración. Los cursos optativos deberán incluir un mínimo de 20 créditos en la Unidad Biofísica, 15 créditos en la Unidad de Análisis e integración y 6 créditos en la Unidad Socio-económica. Se otorgará un crédito cada 15 horas de trabajo estudiantil. Los créditos serán válidos por 2 años. La nota mínima de aprobación de los cursos será de 6 (BBB) Podrá incluir las siguientes unidades temáticas: UNIDAD BIOFÍSICA Incluirá bases conceptuales sobre: * Clima, geomorfología y suelos * Ecología de comunidades y ecosistemas * Servicios ecosistémicos * Recursos naturales Créditos mínimos obligatorios: 20 UNIDAD DE ANÁLISIS E INTEGRACIÓN Incluirá bases conceptuales sobre: * Análisis de impacto ambiental * Relevamiento de recursos naturales, análisis e interpretación de datos ambiental * Tratamiento e interpretación de imágenes de teledetección para aplicaciones ambientales, manejo de sistemas de información geográfica * Gestión ambiental Créditos mínimos obligatorios: 15 UNIDAD SOCIO-ECONÓMICA Incluirá bases conceptuales sobre: * Economía ambiental, economía ecológica y economía política: legislación y sociología ambiental. * Créditos mínimos obligatorios 6.
+PLAN DE ESTUDIO La duración mínima es de un año lectivo y las exigencias curriculares mínimas son de 60 créditos. De ellos 14, corresponderán a una actividad programada obligatoria, en la que se exigirá no menos de 100 horas presenciales y que corresponde a un trabajo de investigación en el área de las ciencias ambientales abordando una temática territorialmente definida. Los restantes créditos (46) comprenderán cursos optativos de posgrado distribuidos en tres unidades temáticas: Biofísica, Socio-económica y Análisis e integración. Los cursos optativos deberán incluir un mínimo de 20 créditos en la Unidad Biofísica, 15 créditos en la Unidad de Análisis e integración y 6 créditos en la Unidad Socio-económica. Se otorgará un crédito cada 15 horas de trabajo estudiantil. Los créditos serán válidos por 2 años. La nota mínima de aprobación de los cursos será de 6 (BBB) Podrá incluir las siguientes unidades temáticas: UNIDAD BIOFÍSICA Incluirá bases conceptuales sobre: _ Clima, geomorfología y suelos _ Ecología de comunidades y ecosistemas _ Servicios ecosistémicos _ Recursos naturales Créditos mínimos obligatorios: 20 UNIDAD DE ANÁLISIS E INTEGRACIÓN Incluirá bases conceptuales sobre: _ Análisis de impacto ambiental _ Relevamiento de recursos naturales, análisis e interpretación de datos ambiental _ Tratamiento e interpretación de imágenes de teledetección para aplicaciones ambientales, manejo de sistemas de información geográfica _ Gestión ambiental Créditos mínimos obligatorios: 15 UNIDAD SOCIO-ECONÓMICA Incluirá bases conceptuales sobre: _ Economía ambiental, economía ecológica y economía política: legislación y sociología ambiental. _ Créditos mínimos obligatorios 6.
 
 ### Unidades curriculares
 

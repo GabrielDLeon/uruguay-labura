@@ -29,10 +29,10 @@ draft: false
 createdAt: "2026-08-09 15:12:26"
 updatedAt: "2026-09-28 01:30:00"
 sources:
-  - label: 'Página oficial del programa'
-    url: 'https://ude.edu.uy/facultad-de-ingenieria/diploma-en-inteligencia-artificial-aplicada/'
-  - label: 'Facultad de Ingeniería'
-    url: 'https://ude.edu.uy/facultad-de-ingenieria/'
+  - label: "Página oficial del programa"
+    url: "https://ude.edu.uy/facultad-de-ingenieria/diploma-en-inteligencia-artificial-aplicada/"
+  - label: "Facultad de Ingeniería"
+    url: "https://ude.edu.uy/facultad-de-ingenieria/"
 ---
 
 ## Resumen

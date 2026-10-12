@@ -53,9 +53,7 @@ La carrera se caracteriza por una capacitación en las áreas fundamentales de l
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Iluminación y cámara**
 
@@ -71,7 +69,6 @@ Aborda el trabajo de la edición audiovisual, analizando los criterios de selecc
 
 ### 2.° semestre
 
-
 **Guión**
 
 Estudia los elementos que integran el formato de guión literario. Mediante ejercicios prácticos el estudiante aprende a trabajar el guión técnico. Realiza debates en el aula y análisis críticos.
@@ -86,9 +83,7 @@ Presenta elementos críticos y analíticos en la elaboración de documentales. C
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Dirección de arte**
 
@@ -103,7 +98,6 @@ Estudia los elementos teóricos y prácticos que implican la creación, el desar
 Brinda elementos de teoría del montaje cinematográfico, su evolución y sus reglas técnicas. Desarrolla diferentes ejercicios de montaje lineal. El curso incluye la organización del montaje: herramientas, planificación de la edición, composición del equipo, papel del editor y diálogo con el director.
 
 ### 4.o semestre
-
 
 **Realización de TV**
 

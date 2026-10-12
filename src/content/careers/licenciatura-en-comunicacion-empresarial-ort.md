@@ -31,16 +31,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://fc.ort.edu.uy/licenciatura-en-comunicacion-empresarial'
-  - label: 'Plan de estudios'
-    url: 'https://fc.ort.edu.uy/licenciatura-en-comunicacion-empresarial/plan-de-estudios'
-  - label: 'Listado de carreras universitarias'
-    url: 'https://www.ort.edu.uy/carreras-universitarias'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-empresarial"
+  - label: "Plan de estudios"
+    url: "https://fc.ort.edu.uy/licenciatura-en-comunicacion-empresarial/plan-de-estudios"
+  - label: "Listado de carreras universitarias"
+    url: "https://www.ort.edu.uy/carreras-universitarias"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-carreras-universitarias"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -75,7 +75,7 @@ Presencial. Muchas asignaturas complementan sus dictados a través de la modalid
 
 ### Duración y Horarios
 
-Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino Semestres 5 al 8: nocturno * * Algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 4 años de cursos. Horarios de clase Matutino: lunes a viernes de 8:30 a 13:00. Nocturno: lunes a jueves de 18:30 a 23:00. Semestres 1 al 4: matutino Semestres 5 al 8: nocturno \* \* Algunas clases especiales con docentes invitados pueden tener lugar fuera del turno definido. Algunas materias electivas son dictadas en horario vespertino. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ### Valor de las Cuotas
 
@@ -84,7 +84,6 @@ El valor final de las cuotas varía en función de distintos factores, como por 
 ### Becas
 
 La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
-
 
 ## Ingreso
 

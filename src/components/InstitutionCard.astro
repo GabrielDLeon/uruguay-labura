@@ -1,18 +1,18 @@
 ---
-import { Image } from 'astro:assets'
-import { Icon } from 'astro-icon/components'
-import { institutionTypeLabels } from '@/lib/institution'
+import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
+import { institutionTypeLabels } from "@/lib/institution";
 
 interface Props {
-  href: string
-  name: string
-  short?: string
-  description?: string
-  type: 'public' | 'private'
-  logo?: any
+  href: string;
+  name: string;
+  short?: string;
+  description?: string;
+  type: "public" | "private";
+  logo?: any;
 }
 
-const { href, name, short, description, type, logo } = Astro.props
+const { href, name, short, description, type, logo } = Astro.props;
 ---
 
 <a
@@ -38,7 +38,7 @@ const { href, name, short, description, type, logo } = Astro.props
       </h4>
       <span
         class="badge text-xs shrink-0"
-        data-variant={type === 'public' ? 'success' : 'secondary'}
+        data-variant={type === "public" ? "success" : "secondary"}
       >
         {institutionTypeLabels[type]}
       </span>

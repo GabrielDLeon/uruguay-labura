@@ -21,9 +21,7 @@ function isJobsDatasetPayload(value: unknown): value is JobsDatasetPayload {
   }
 
   const payload = value as Partial<JobsDatasetPayload>;
-  return (
-    Array.isArray(payload.jobs) && typeof payload.scrapedAt === "string"
-  );
+  return Array.isArray(payload.jobs) && typeof payload.scrapedAt === "string";
 }
 
 /**

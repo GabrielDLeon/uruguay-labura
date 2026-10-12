@@ -30,16 +30,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://facs.ort.edu.uy/licenciatura-en-economia'
-  - label: 'Plan de estudios'
-    url: 'https://facs.ort.edu.uy/licenciatura-en-economia/plan-de-estudios'
-  - label: 'Listado de carreras universitarias'
-    url: 'https://www.ort.edu.uy/carreras-universitarias'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-carreras-universitarias'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://facs.ort.edu.uy/licenciatura-en-economia"
+  - label: "Plan de estudios"
+    url: "https://facs.ort.edu.uy/licenciatura-en-economia/plan-de-estudios"
+  - label: "Listado de carreras universitarias"
+    url: "https://www.ort.edu.uy/carreras-universitarias"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-carreras-universitarias"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -85,9 +85,9 @@ Esto incluye acceder a posiciones que abarcan desde el asesoramiento económico 
 
 Doble titulación con Rennes School of Business
 
-En cuatro años y medio, cumpliendo estándares académicos y administrativos, los estudiantes podrán obtener dos títulos: su licenciatura en la facultad y un Master of Science in International Management en Francia, que se dicta en inglés, con alguna de las siguientes especializaciones, a modo de ejemplo*:
+En cuatro años y medio, cumpliendo estándares académicos y administrativos, los estudiantes podrán obtener dos títulos: su licenciatura en la facultad y un Master of Science in International Management en Francia, que se dicta en inglés, con alguna de las siguientes especializaciones, a modo de ejemplo\*:
 
-*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
+\*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
 
 Conocé más sobre la doble titulación.
 
@@ -114,7 +114,6 @@ El valor final de las cuotas varía en función de distintos factores, como por 
 ### Becas
 
 La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para carreras universitarias
-
 
 ## Ingreso
 
@@ -298,4 +297,4 @@ Materias electivas Estas materias se presentan a título de ejemplo. Economía E
 
 **Pasantía**
 
-La Pasantía constituye un crédito académico obligatorio del Plan de Estudios para la obtención del título. Su aprobación depende de la realización de diversas actividades (que pueden ser laborales, académicas, comunitarias u otras) en las condiciones reglamentarias. En general, consiste en una práctica laboral dentro de organizaciones constituidas (empresas, instituciones, organismos, etc.) que tiene como objetivo principal que el estudiante demuestre su capacidad para enfrentarse a la actividad profesional, aplicando los conocimientos adquiridos durante la carrera, en un cargo de responsabilidad acorde a la formación recibida. * Los estudiantes que hayan obtenido el título intermedio pueden cursar o revalidar la Pasantía entre el 5º y 8º semestre.
+La Pasantía constituye un crédito académico obligatorio del Plan de Estudios para la obtención del título. Su aprobación depende de la realización de diversas actividades (que pueden ser laborales, académicas, comunitarias u otras) en las condiciones reglamentarias. En general, consiste en una práctica laboral dentro de organizaciones constituidas (empresas, instituciones, organismos, etc.) que tiene como objetivo principal que el estudiante demuestre su capacidad para enfrentarse a la actividad profesional, aplicando los conocimientos adquiridos durante la carrera, en un cargo de responsabilidad acorde a la formación recibida. \* Los estudiantes que hayan obtenido el título intermedio pueden cursar o revalidar la Pasantía entre el 5º y 8º semestre.

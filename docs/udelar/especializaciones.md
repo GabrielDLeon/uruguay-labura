@@ -3,6 +3,7 @@
 La Udelar ofrece más de 120 especializaciones activas. Se listan las principales por área:
 
 ## Área de Tecnologías y Ciencias de la Naturaleza y el Hábitat
+
 - Especialización en Agronomía (Facultad de Agronomía)
 - Especialización en Arquitectura en Madera (FADU)
 - Especialización en Bioinformática (interfacultades)
@@ -34,6 +35,7 @@ La Udelar ofrece más de 120 especializaciones activas. Se listan las principale
 - Especialización en Tránsito y Transporte (Facultad de Ingeniería)
 
 ## Área de la Salud (selección de especializaciones médicas)
+
 - Especialización en Alergología, Anatomía Patológica, Anestesiología, Cardiología, Cirugía General, Cirugía Pediátrica, Dermatología, Endocrinología, Gastroenterología, Geriatría, Ginecotocología, Hematología, Imagenología, Infectología, Medicina Familiar, Medicina Intensiva, Medicina Interna, Nefrología, Neonatología, Neumología, Neurocirugía, Neurología, Oftalmología, Oncología Médica, Pediatría, Psiquiatría, Traumatología, Urología (Facultad de Medicina)
 - Especialización en Endodoncia, Implantología Oral, Odontopediatría, Ortodoncia, Periodoncia, Prostodoncia, Cirugía Buco Maxilo Facial (Facultad de Odontología)
 - Especialización en Enfermería en Nefrología, Neonatología, Cuidados Intensivos, Oncológica, Salud Mental (Facultad de Enfermería)
@@ -41,6 +43,7 @@ La Udelar ofrece más de 120 especializaciones activas. Se listan las principale
 - Especialización en Nutrición en Enfermedades Crónicas (Escuela de Nutrición)
 
 ## Área Social y Artística
+
 - Especialización en Administración, Auditoría, Contabilidad, Costos, Finanzas, Marketing, Tributaria (FCEA)
 - Especialización en Derecho (Facultad de Derecho) — varias orientaciones
 - Especialización en Economía, Políticas Sociales, Estudios Internacionales, Trabajo Social (Facultad de Ciencias Sociales)

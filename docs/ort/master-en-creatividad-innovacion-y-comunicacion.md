@@ -40,9 +40,7 @@ La formación propuesta prepara a profesionales para asumir el liderazgo de equi
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Tecnologías aplicadas a la creatividad**
 
@@ -58,13 +56,11 @@ Este curso busca desarrollar habilidades de pensamiento creativo, entrenando el 
 
 ### Junio
 
-
 **Electiva**
 
 Estas asignaturas se presentan a título de ejemplo y pueden variar de un semestre a otro. Las inscripciones están sujetas a quórum mínimo por turno. Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Innovación y estrategia de tecnología Este curso busca generar habilidades para el análisis del contexto tecnológico, el desarrollo de las habilidades de innovación y las prácticas para hacer de éstos un hábito del individuo y de la organización. El contexto extremadamente dinámico de cambios en la industria de tecnología requiere de habilidades para su entendimiento, aprovechamiento e innovación para permitir a cualquier organización mantenerse competitiva. El curso utiliza lecturas, análisis de casos, presentaciones y lectura independiente. Los contenidos y metodología buscan: El contacto de los alumnos con el contexto actual tecnológico. El entendimiento de la dinámica actual de cambios y extracción de aprendizajes de los mismos. La adquisición de técnicas que fomenten la innovación y su gestión. El desarrollo de capacidades de análisis. Organización orientada al cliente El objetivo del curso es que el estudiante desarrolle un entendimiento de cómo implementar la filosofía de negocios del marketing y cómo diseñar las métricas adecuadas para evaluar la gestión del intercambio. En particular, sus objetivos son: Internalizar el concepto de Marketing como intercambio de valor entre las partes. Conocer los diferentes alcances al constructo “orientación al mercado” propuestos por la literatura. Conocer diferentes formas de implementación del concepto de marketing en las organizaciones. Entender las diferentes dimensiones implicadas en la orientación al mercado de una organización. Entender la medición como un proceso de negocios que provee retroalimentación a la organización respecto de los esfuerzos de marketing realizados, en el camino de la implementación efectiva de las estrategias definidas. Entender las diferentes dimensiones de la medición en la gestión de marketing. Conocer las diferentes métricas aplicadas en la gestión de marketing. Aprender a alinear las métricas adecuadas a las estrategias y programas definidos. Taller de liderazgo responsable Liderar implica entender las motivaciones profundas que llevan a los recursos humanos a involucrarse activamente en sus actividades. Para ello se requiere de líderes capaces de centrar su acción en torno a valores. El objetivo general del taller es concientizar a los estudiantes con los conceptos teóricos prácticos en el tema de liderazgo dentro de un marco ético. Los estudiantes deben vivenciar y aprender qué implicancia tiene el marco ético en su forma de pensar y de liderar a personas. El marco ético incluye los puntos de sustentabilidad de sistemas y de negocios, tanto como a la responsabilidad social con la cual deben actuar los lideres hoy en día. La concientización debe expresarse a través de una comunicación efectiva de los estudiantes con otras personas. En este marco se debe estimular especialmente los aspectos cognitivos y emocionales para que los estudiantes como líderes del futuro puedan liderar personas y ser liderados en forma efectiva y humana. Analítica de datos y comunicación Forma al ejecutivo en el campo del análisis de datos digitales y big data para la generación de información. Capacita al ejecutivo en el uso de herramientas de análisis de la comunicación (relevamiento de opinión pública, reputación, imagen, segmentación de públicos) y trabaja el desarrollo de un informe de análisis de datos para la interacción con especialistas. Habilidades gerenciales y gestión de equipos Incorpora la visión de administración y desarrollo de habilidades gerenciales y estudia la relevancia del gerente de Comunicación dentro del equipo de la alta gerencia de la empresa. Examina los modelos de toma de decisiones, el proceso de asignación de recursos, el impacto de la comunicación en la gestión de equipos y los indicadores de desempeño en la gestión. Disrupción digital y comunicación Analiza el concepto de disrupción digital en el ámbito empresarial y su vínculo con la sociedad. Estudia la tecnología disruptiva y los modelos de negocio innovadores e incorpora una perspectiva sociocultural desde la disrupción social como evolución de tecnologías y medios de comunicación y su impacto en el entramado sociocultural. UX/UI y estrategia de contenido Esta materia se plantea: Instruir en la comprensión de la teoría y los conceptos en donde se enfoca el diseño UX/UI, así como las herramientas y metodologías que les permitan implementarlo, gestionarlo y medirlo. Liderar el estudio de audiencias determinadas y sus interacciones con sistemas análogos o digitales, y la influencia que los protagonistas mercantiles de estos productos o servicios tienen en sus vidas y entornos. Descifrar las necesidades de usuarios clave para crear experiencias memorables y significativas a medida a través de procesos, herramientas, productos o servicios, como mediadores entre los objetivos de negocio y las necesidades de la audiencia establecida. Comprender los factores clave de éxito en una estrategia de contenido acorde a las necesidades detectadas de las audiencias: estudio de los mecanismos cognitivos, análisis de públicos y las decisiones de formato, cantidad, estructura y estilo.
 
 ### Julio - Setiembre
-
 
 **Gestión de la innovación y el talento**
 
@@ -80,13 +76,11 @@ La asignatura tiene como objetivo familiarizar a los estudiantes con los nuevos 
 
 ### Setiembre
 
-
 **Taller de creatividad e innovación en Media Lab**
 
 Esta materia busca implicar y capacitar a los estudiantes para buscar activamente soluciones creativas a problemas reales, que puedan tener un impacto positivo en la sociedad, a partir de trabajo práctico en equipos multidisciplinarios. Se busca que los participantes sean capaces de: Aplicar el diseño centrado en las personas para identificar oportunidades de innovación. Asumir un rol de conocedor o experto en el campo para transformar insights en proyectos con valor económico, social, cultural, regional y medio ambiental. Implementar habilidades adquiridas y desarrolladas en materias previas para desarrollar una reflexión crítica a través del uso de herramientas, técnicas y métodos. Potenciar el desarrollo de sus habilidades blandas o Soft Skills. Redefinir tareas en una serie de ejercicios para llevar a cabo un proyecto en equipo. Desarrollar un modelo con el potencial de ser derivado a escala real. Poner en práctica una cultura de innovación al llevar a cabo experimentos y las lecciones aprendidas de múltiples intentos fallidos. Capacidad para recibir y brindar críticas constructivas en la fase de ideación. Ejercitar la habilidad de trabajar de manera colaborativa y mantener un esquema o calendario de trabajo. Créditos: 4
 
 ### Octubre - Diciembre
-
 
 **Gestión de proyectos para emprendedores**
 
@@ -98,13 +92,11 @@ Propone una aproximación analítica y práctica al valor económico, social y c
 
 ### Diciembre
 
-
 **Marca personal, comunicación y negociación**
 
 Este curso se centra en desarrollar una marca personal sólida y coherente, abordando aspectos como la propuesta de valor única, la estrategia de comunicación y la gestión de la reputación personal. Los estudiantes aprenderán a reconocer y desarrollar competencias que potencien su capacidad de interacción, motivación y liderazgo en diversas situaciones, incluyendo momentos de tensión y conflicto. Además, se analizarán diferentes tipos de liderazgo y formatos de equipos de trabajo, así como los roles y mecanismos de interacción en los mismos. Entrenará la adaptación y flexibilidad necesarias para liderar equipos en procesos cotidianos y de cambio. Finalmente, se explorarán criterios y herramientas para mejorar la gestión en equipos y técnicas de negociación, incluyendo la elaboración de un mapa de poder y su relevancia en la gestión de la comunicación. Créditos: 4
 
 ### Octubre - Abril
-
 
 **Caso integrador: Plan de innovación**
 
@@ -112,9 +104,7 @@ El Proyecto: Plan de Innovación pretende que el estudiante integre los conocimi
 
 ## 2.º año
 
-
 ### Abril - Junio
-
 
 **Dirección de comunicación y compromiso social empresarial**
 
@@ -130,7 +120,6 @@ Comprende el valor estratégico del vínculo que las empresas construyen y desar
 
 ### Julio - Setiembre
 
-
 **Asuntos públicos, reputación y manejo de crisis**
 
 Aborda la comprensión del escenario público y del rol del Estado como árbitros de la interrelación entre los diferentes actores sociales. Reflexiona sobre la formación de la imagen pública de la organización observando el diseño, implementación y evaluación de los planes de asuntos públicos de comunicación y su tratamiento en los contextos de conflicto o crisis. https://www.youtube.com/watch?v=vGK27M4gM3c&list=PLdInbF47KVC0rcCeYfid9uVypWAREEitY Reviví la charla con Eva Pedrol: No es lo que parece: la gestión de crisis en la “era de la atención” Créditos: 4
@@ -145,13 +134,11 @@ Desarrolla el pensamiento estratégico de comunicación en línea integrado al p
 
 ### Setiembre
 
-
 **Tendencias globales para el diseño de futuros**
 
 Este curso busca desarrollar competencias en el análisis de tendencias globales y su aplicación en el diseño estratégico. Los estudiantes explorarán herramientas para imaginar escenarios futuros y complementarán el diseño estratégico con reflexiones filosóficas y artísticas que desafían paradigmas actuales. Se promoverá una visión crítica y ética sobre las implicaciones sociales, económicas y ambientales del diseño de futuros. Créditos: 4 https://www.youtube.com/watch?v=0psTXQn2-fQ
 
 ### Octubre - Abril
-
 
 **Proyecto final: Plan de comunicación de la innovación**
 

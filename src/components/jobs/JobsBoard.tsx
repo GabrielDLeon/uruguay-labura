@@ -8,7 +8,11 @@ import JobsFilters from "@/components/jobs/JobsFilters";
 import JobsList from "@/components/jobs/JobsList";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
 import JobsTable from "@/components/jobs/JobsTable";
-import { ITEMS_PER_PAGE, cleanOption, filterJobs } from "@/components/jobs/jobs";
+import {
+  ITEMS_PER_PAGE,
+  cleanOption,
+  filterJobs,
+} from "@/components/jobs/jobs";
 import SaveSearchButton from "@/components/jobs/SaveSearchButton";
 import useJobs from "@/components/jobs/useJobs";
 import type { JobFilters } from "@/types/jobs";

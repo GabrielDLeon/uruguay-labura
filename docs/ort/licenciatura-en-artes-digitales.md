@@ -42,9 +42,7 @@ El plan de estudios combina fundamentos del arte y el diseño con tecnologías e
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Arte y estética 1**
 
@@ -72,7 +70,6 @@ Introduce en el código oral y escrito. Se trabajará el criterio normativo y pr
 
 ### 2.º semestre
 
-
 **Arte y estética 2**
 
 Profundiza en el conocimiento histórico del arte y el diseño, como herramienta para el análisis de los lenguajes visuales y formales a través de una mirada integradora de la sociedad, tomando en cuenta los contextos y las innovaciones tecnológicas que engendraron los cambios. Tiene como objetivos que el estudiante sea capaz de: Conocer las manifestaciones artísticas y culturales anteriores a nuestro tiempo, así como de ubicar los “objetos-productos” en un contexto histórico y cultural determinado. Descubrir la influencia de las corrientes artísticas y filosóficas en la cultura contemporánea. Desarrollar la reflexión crítica y criterio estético, para su propia síntesis creativa, tomando el conocimiento de la historia del diseño y las artes, como una herramienta para el proyecto.
@@ -99,9 +96,7 @@ La asignatura introduce al estudiante en el manejo del lenguaje HTML y CSS. Tien
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Lenguaje audiovisual**
 
@@ -125,7 +120,6 @@ Capacita para comprender y dominar la técnica de la captura de imágenes e intr
 
 ### 4.º semestre
 
-
 **Electiva 1 (Arte contemporáneo)**
 
 Introduce en el estudio crítico de las artes contemporáneas desde una perspectiva histórica, social y política, a través de una mirada integral de las diferentes disciplinas artísticas que surgen a partir de la invención de la fotografía en el siglo XIX, su consolidación en el siglo XX y su proyección en el siglo XXI, tomando en cuenta los contextos e innovaciones tecnológicas que propiciaron su evolución. Tiene como objetivos que el estudiante sea capaz de: Distinguir las diferentes disciplinas, corrientes y períodos dentro de las artes contemporáneas. Comprender los procesos históricos, sociales y políticos. Descubrir la influencia de las corrientes artísticas y filosóficas en la cultura contemporánea. Establecer un pensamiento crítico, desarrollar su criterio estético y síntesis creativa.
@@ -148,9 +142,7 @@ Profundiza en el uso no lineal de las herramientas de edición y postproducción
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Electiva 2 (Narrativa transmedia)**
 
@@ -170,7 +162,6 @@ Brinda los fundamentos conceptuales y prácticos que permiten analizar, diagnost
 
 ### 6.º semestre
 
-
 **Teorías aplicadas al diseño**
 
 Proporciona los elementos necesarios para ingresar en el campo de la reflexión teórica del diseño combinando teorías de la percepción, la comunicación y la semiótica. Promueve una reflexión crítica acerca del Diseño como contribución a la formación de cultura. Tiene como objetivos que el estudiante sea capaz de: Reconocer la pertinencia y contribuciones de los sistemas teóricos de la percepción, la comunicación y semióticos, y reconocer su funcionamiento. Asimilar el uso pragmático de elementos afines al diseño que esos sistemas poseen, para ponerlos en práctica, con destreza y acierto.
@@ -189,9 +180,7 @@ Ayuda a desarrollar las competencias necesarias para una correcta gestión de pr
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Electiva 6 (Marketing digital)**
 
@@ -206,7 +195,6 @@ Introduce en la expresión proyectual de contenidos digitales experimentales med
 Posibilita la integración en equipos multidisciplinarios para la ejecución de proyectos de aplicación, extensión y similares, ejecutables en el marco del Media Lab. Tiene como objetivos que el estudiante sea capaz de: Integrarse a equipos multidisciplinarios. Reflexionar sobre el rol de su perfil de estudios y encontrar los elementos sinérgicos con otros perfiles. Manejar la relación interpersonal y entender los mecanismos de comunicación en grupos, roles y liderazgo. Aplicar sus conocimientos a proyectos y soluciones específicas.
 
 ### 8.º semestre
-
 
 **Tendencias del diseño contemporáneo**
 

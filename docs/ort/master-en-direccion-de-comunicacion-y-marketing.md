@@ -48,9 +48,7 @@ Con la activa participación en dinámicas teórico-prácticas, un experimentado
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Dirección de comunicación y compromiso social empresarial**
 
@@ -66,13 +64,11 @@ Comprende el valor estratégico del vínculo que las empresas construyen y desar
 
 ### Junio
 
-
 **Estrategia de contenido y redacción UX**
 
 Introduce a los estudiantes a la disciplina del diseño de contenidos y UX Writing, y su rol tanto dentro del proceso de design thinking como el de la construcción de productos digitales. Permite conocer la importancia del content first como metodología de trabajo, para crear experiencias centradas en las personas y sus necesidades. Acerca guías y permite incorporar las buenas prácticas de la disciplina para poder construir historias y comunicaciones que potencien la experiencia digital de las personas. Créditos: 4
 
 ### Julio - Setiembre
-
 
 **Asuntos públicos, reputación y manejo de crisis**
 
@@ -88,13 +84,11 @@ Desarrolla el pensamiento estratégico de comunicación en línea integrado al p
 
 ### Setiembre
 
-
 **Electiva**
 
 Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicación y Diseño de la Universidad ORT Uruguay con la Barcelona School of Management —la escuela de negocios de la Universidad Pompeu Fabra (España)—, los estudiantes de sus postgrados pueden cursar materias en Barcelona. Conocé más de este acuerdo: Alianza con Barcelona School of Management Conocé más sobre esta experiencia: Intercambio académico en Barcelona: estudiantes de postgrado se capacitan en protocolo y eventos Dirección comercial y ventas Trabaja los temas relacionados con las decisiones comerciales y de ventas a partir de un conocimiento profundo del proceso de compra del cliente. Pone foco en los factores que contribuyen a una mayor eficacia y eficiencia de la organización de ventas y a un mejor desempeño del jefe de ventas. Estudia sistemas de asignación y compensación de vendedores y desarrollo de planes comerciales alineados con objetivos y estrategias de marketing. Incorpora herramientas del Key Account Management. Investigación de mercados Presenta métodos, herramientas y técnicas para una investigación en marketing que facilite al directivo la toma de decisiones comerciales. Define objetivos de investigación orientados a resolver problemas gerenciales. Estudia el brief de investigación, las fuentes primarias y secundarias de información, las principales técnicas cualitativas y cuantitativas de la disciplina. Capacita para el análisis de datos cualitativos y cuantitativos. Marketing de servicios y relaciones Analiza las particularidades de los intangibles y cómo afectan en la toma de decisiones. Asimismo capacita en los conocimientos de la gestión de la relación con el cliente (CRM) y en las herramientas organizativas para construir una organización de servicios centrada en el cliente y basada en la rentabilidad y la dirección de la relación con el cliente. Capacita en las nuevas herramientas para explotar una base de datos y obtener ventajas competitivas desde un adecuado análisis de la información comercial. Métodos cuantitativos para decisiones gerenciales Provee conocimientos y desarrolla habilidades en metodologías y técnicas de análisis cuantitativo. Los participantes enmarcan y resuelven típicos problemas de negocios, aplican métodos de análisis cuantitativo para mejorar el proceso de decisión e interactúan con expertos del área. Organización orientada al cliente Capacita para orientar la empresa al mercado en cuanto a la inteligencia de marketing, la diseminación de dicha inteligencia a lo largo de la organización y la respuesta de toda la empresa de forma integral al cliente. Capacita para diseñar las métricas adecuadas para la orientación y evaluación de las actividades de marketing. Persona y organización Brinda conocimientos sobre la función y aportes desarrollados por la Psicología Laboral para la comprensión y análisis del comportamiento humano en el trabajo. Aborda el estudio de los fenómenos psicológicos configurados por la peculiar interacción dinámica existente entre la persona y la organización, considerando los principales atributos de la personalidad que influyen en el comportamiento, percepción y personalidad, satisfacción, motivación y desempeño laboral, la subjetividad del perceptor y sus efectos en la dinámica cotidiana de la organización, satisfacción, motivación y desempeño laboral. Introducción a big data y analítica de negocios Al finalizar el curso, los estudiantes sabrán manejar y diferenciar los principales conceptos vinculados a la disciplina de analítica de big data. A saber, conocimiento de las fuentes de big data, principales tecnologías, perfiles y roles, metodologías de análisis e interpretación de datos y regulación de uso y protección de datos.
 
 ### Octubre - Diciembre
-
 
 **Analítica de datos y comunicación**
 
@@ -106,16 +100,13 @@ Propone al estudiante la integración de los conocimientos adquiridos durante el
 
 ### Diciembre
 
-
 **Marca personal, comunicación y negociación**
 
 Incorpora competencias generales de liderazgo y el efecto que genera en la motivación y el trabajo colectivo en las organizaciones. Entrena la capacidad de adaptación y la flexibilidad para liderar procesos cotidianos y de cambio. Estudia el mapa de poder en la organización y su impacto en la gestión de la comunicación. Analiza el proceso de negociación y las diferentes estrategias aplicables. Créditos: 4
 
 ## 2.º año
 
-
 ### Abril - Junio
-
 
 **Insight e inteligencia de mercado**
 
@@ -127,13 +118,11 @@ Este curso te permitirá comprender la lógica estratégica del marketing y su p
 
 ### Junio
 
-
 **Brand Building e innovación**
 
 El curso de Brand Building e Innovación te desafía a ir más allá de la teoría y a descubrir cómo las marcas pueden convertirse en el motor de negocios exitosos y sostenibles. Aprenderás a innovar, construir y potenciar marcas sólidas, entendiendo a fondo su identidad, posicionamiento e imagen, y aplicando estrategias innovadoras de activación, arquitectura y medición de salud marcaria. A través de experiencias prácticas y el análisis de casos reales, desarrollarás la visión estratégica y la capacidad crítica necesarias para diferenciarte en un mercado altamente competitivo. Créditos: 4
 
 ### Julio - Setiembre
-
 
 **Política de precios y rentabilidad**
 
@@ -149,13 +138,11 @@ Electiva internacional Gracias al convenio que mantiene la Facultad de Comunicac
 
 ### Setiembre
 
-
 **Simulador de marketing estratégico**
 
 El curso de Markstrat ofrece una experiencia práctica e inmersiva en marketing estratégico, donde los estudiantes asumen el rol de directores de marketing y toman decisiones reales sobre productos, precios, distribución, investigación y comunicación. A través de un entorno competitivo y dinámico, podrán aplicar conceptos clave como segmentación, posicionamiento y gestión de portafolio, recibiendo feedback inmediato sobre el impacto de sus decisiones. Esta simulación, reconocida a nivel internacional, potencia el trabajo en equipo, la capacidad de análisis y la visión estratégica de largo plazo, preparando a los participantes para liderar en escenarios de negocios complejos y cambiantes. Créditos: 4
 
 ### Octubre - Abril
-
 
 **Proyecto final - Plan de comunicación y marketing**
 

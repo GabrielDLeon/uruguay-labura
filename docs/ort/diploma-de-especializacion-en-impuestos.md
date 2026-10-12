@@ -48,9 +48,7 @@ Aprovechando las materias electivas, podrás explorar en profundidad los aspecto
 
 ## 1.er año
 
-
 ### Julio-Setiembre
-
 
 **Derecho tributario aplicado**
 
@@ -66,7 +64,6 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ### Octubre-Diciembre
 
-
 **Fiscalidad internacional**
 
 Marco normativo OCDE. Tratados para Evitar la Doble Imposición. Establecimiento Permanente. Concepto de residencia fiscal. Precios de Transferencia. Thin capitalization. Comercio Electrónico. Comparativo del sistema uruguayo con otros países del MERCOSUR.
@@ -81,13 +78,11 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ### Diciembre (semana intensiva)
 
-
 **Taller de ética**
 
 Presenta casos del entorno internacional que llevan a la reflexión sobre la práctica de los profesionales que se desempeñan en el área de contabilidad, impuestos o finanzas, dado que la convergencia internacional y la transparencia en los negocios requieren una actuación ética constante. El abordaje es desarrollado por un profesor extranjero invitado a tales efectos.
 
 ### Febrero-Marzo
-
 
 **Tributación a las rentas de las personas físicas y no residentes**
 
@@ -102,7 +97,6 @@ Formas alternativas de transferencias empresariales. Grupos económicos: concept
 Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Principales regímenes promocionales Analiza los aspectos teóricos y prácticos de los principales regímenes promocionales que otorgan beneficios tributarios a las empresas inversoras, destacando los aspectos que generan controversia, así como la posibilidad de combinar el aprovechamiento de distintos regímenes a la hora de estructurar la operativa empresarial. Tributación a la seguridad social Analiza las diferentes partidas abonadas al personal y los ingresos de quienes se desempeñen en calidad de no dependientes desde el punto de vista de las Contribuciones Especiales a la Seguridad Social. Analiza la normativa vigente, así como las distintas posiciones de los organismos recaudadores ante consultas formuladas por los contribuyentes y la doctrina. Presupuestación y planificación financiera El objetivo de esta materia es proporcionar las herramientas para el análisis de los estados financieros de una empresa desde el punto de vista de la evaluación de la gestión y de la planificación estratégica, integrar los conceptos de planificación y control financiero para lograr un dominio que permita participar en el diseño de los sistemas de información que provean a la dirección de información oportuna y relevante para la toma de decisiones y que permitan monitorear a la gestión de la compañía. Auditoría: aspectos prácticos y económicos El objetivo general del curso es discutir, desde una perspectiva tanto teórica como de un practioner, los temas relevantes del proceso de auditoría. La materia brinda a los estudiantes un panorama general sobre la naturaleza de los servicios de atestiguamiento, la regulación de la profesión del auditor y los aspectos comportamentales y económicos de la auditoría. Entre los temas discutidos también se incluyen temas relacionados al control interno y aspectos del gobierno corporativo de la entidad. Análisis de convenios para evitar doble imposición El objetivo general del curso es dotar a los estudiantes de aquellos conocimientos necesarios que le permitan resolver casos prácticos bajo los Convenios para Evitar la Doble Imposición vigentes firmados por Uruguay. Análisis de estados financieros El objetivo general del curso es lograr que los estudiantes adquieran los conocimientos y habilidades que les permitan analizar la información contable y financiera de las empresas. Por medio de resolución de casos y discusión de situaciones empresariales reales, se profundiza el entendimiento sobre qué contienen los Estados Financieros, por qué las firmas revelan cierta información en ellos y cómo ser un usuario sofisticado de información financiera. Medidas antiabuso y convenios para evitar doble imposición El objetivo de esta materia es entregar una visión global del problema de abuso de convenios de doble imposición, considerando el trabajo de OCDE, la política de distintos gobiernos y jurisprudencia relevante en la materia. Asimismo, además del análisis técnico de normas específicas, el curso busca proporcionar un entendimiento con respecto a la discusión política y técnica a nivel internacional que se vislumbra capaz de generar un cambio profundo en la tributación internacional en el corto plazo sobre la base de la iniciativa OCDE/G-20 Base Erosion and Profit Shifting (BEPS). Taller de habilidades gerenciales El objetivo del taller consiste en promover un cambio en el comportamiento del participante, que le permita desarrollar sus habilidades en la interacción y comunicación interpersonal, la motivación y el liderazgo de equipos de trabajo, que el rol gerencial requiere. El taller se centra en el participante como principal protagonista que deberá realizar un camino de desaprendizaje y aprendizaje a las más eficaces tendencias en lo referente a la comunicación, la motivación y el liderazgo personal y organizacional. Tributación en el sector agropecuario El objetivo general del curso es sintetizar la normativa tributaria más relevante vinculada a la tributación en el sector agropecuario. Se estudian las principales características del Impuesto a la Renta de las Actividades Económicas, del Impuesto al Valor Agregado y del Impuesto al Patrimonio y demás tributos de imposición al capital. Introducción a big data y analítica de negocios La materia apunta a permitir la comprensión de los cambios en el paradigma de negocios que torna imprescindible la competencia basada en la explotación de datos. Asimismo, busca la que el alumno pueda comprender, diferenciar y utilizar fluidamente los principales conceptos clave asociados a la disciplina: fuentes de Big data, principales tecnologías, perfiles y roles, metodologías de análisis e interpretación de datos y regulación de uso y protección de datos. Por último, se busca la comprensión de los pasos de la metodología de análisis de datos para elaborar un plan de trabajo desde la detección del caso de negocio, hasta la disponibilización y medición de los resultados. Régimen fiscal de precios de transferencia El curso busca suministrar conocimientos especializados sobre el Tema de Precios de Transferencia a través la transmisión de conceptos fundamentales y estratégicos en un ámbito académico y de intercambio de experiencias prácticas a nivel local, regional e internacional. Tributación aduanera y comercio exterior Presenta los principales instrumentos de imposición tributaria en el comercio exterior. Aborda el marco normativo vigente en Uruguay, el GATT y la OMC, valoración en aduana, normas de origen de mercancías y su aplicación a los acuerdos y, finalmente, clasificación arancelaria. Contabilidad y finanzas para el desarrollo sostenible Aborda el impacto del Global Reporting Information en la contabilidad y su vinculación con el Balance Social y con la Responsabilidad Social. Analiza la medición y exposición de los impactos provocados por la gestión medioambiental en la contabilidad. El curso está a cargo de un profesor extranjero especialista en el tema.
 
 ### Abril-Junio
-
 
 **Imposición al consumo y al patrimonio**
 

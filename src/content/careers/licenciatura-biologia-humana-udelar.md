@@ -28,12 +28,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Página oficial'
-    url: 'http://www.lbh.fmed.edu.uy/como-es-su-plan-de-estudios.html'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-biologia-humana'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'http://www.lbh.fmed.edu.uy/como-es-su-plan-de-estudios.html'
+  - label: "Página oficial"
+    url: "http://www.lbh.fmed.edu.uy/como-es-su-plan-de-estudios.html"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/licenciatura-biologia-humana"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "http://www.lbh.fmed.edu.uy/como-es-su-plan-de-estudios.html"
 ---
 
 ## Resumen

@@ -27,14 +27,14 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=87'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=87'
-  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
-    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
-  - label: 'Formulario de postulación (FCEA)'
-    url: 'https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=87"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=87"
+  - label: "Postulaciones – Bedelía de Posgrados (FCS)"
+    url: "https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
+  - label: "Formulario de postulación (FCEA)"
+    url: "https://fcea.udelar.edu.uy/postulaciones/formulario-postulacion.html"
 ---
 
 ## Resumen
@@ -57,7 +57,7 @@ Apertura y cierre de inscripciones Las inscripciones se realizan cada 2 años. I
 
 ### Programa
 
-Módulo Teoría y Procesos culturales: Cultura uruguaya: mitos, genealogías, irrupciones. Una mirada histórica - 6 créditos Sociedad y cultura del capitalismo tardío. Aproximaciones teóricas desde las ciencias sociales - 4 créditos Consumo, mediación y recepción cultural. De públicos, audiencias y usuarios digitales - 6 créditos Módulo Economía y Gestión Cultural Tópicos de Administración - 7 créditos Laboratorio Cultural (CLAB I): Gestión de organizaciones, experiencias y proyectos culturales - 6 créditos Economía Creativa - 4 créditos Módulo Legislación y políticas culturales Política y Gestión Cultural para la equidad - 4 créditos Derecho y marco regulatorio en cultura - 4 créditos Políticas culturales e institucionalidad cultural - 4 créditos Talleres Seminario - taller de Actores culturales - 5 créditos Taller de Proyectos Culturales (Clab II) - 5 créditos Asignaturas Opcionales (*) - 15 créditos Trabajo Final - 10 créditos (*) Las asignaturas opcionales – a título enunciativo - son las siguientes: Internacionalización de la Cultura: intercambio de bienes, servicios y contenidos del sector creativo, Las bibliotecas como organizaciones culturales, Historia del cine y el audiovisual uruguayo (1896-2021), Prácticas culturales y Educación artística, Práctica Pre-Profesional en Economía Creativa (PPPC), Políticas de comunicación, Gestión del patrimonio cultural inmaterial, Cine participativo. Miradas populares e intersecciones creativas, Gestión de documentos con valor cultural como apoyo a la investigación Modalidad de clases Las clases serán presenciales con alguna instancia virtual sincrónica.
+Módulo Teoría y Procesos culturales: Cultura uruguaya: mitos, genealogías, irrupciones. Una mirada histórica - 6 créditos Sociedad y cultura del capitalismo tardío. Aproximaciones teóricas desde las ciencias sociales - 4 créditos Consumo, mediación y recepción cultural. De públicos, audiencias y usuarios digitales - 6 créditos Módulo Economía y Gestión Cultural Tópicos de Administración - 7 créditos Laboratorio Cultural (CLAB I): Gestión de organizaciones, experiencias y proyectos culturales - 6 créditos Economía Creativa - 4 créditos Módulo Legislación y políticas culturales Política y Gestión Cultural para la equidad - 4 créditos Derecho y marco regulatorio en cultura - 4 créditos Políticas culturales e institucionalidad cultural - 4 créditos Talleres Seminario - taller de Actores culturales - 5 créditos Taller de Proyectos Culturales (Clab II) - 5 créditos Asignaturas Opcionales (_) - 15 créditos Trabajo Final - 10 créditos (_) Las asignaturas opcionales – a título enunciativo - son las siguientes: Internacionalización de la Cultura: intercambio de bienes, servicios y contenidos del sector creativo, Las bibliotecas como organizaciones culturales, Historia del cine y el audiovisual uruguayo (1896-2021), Prácticas culturales y Educación artística, Práctica Pre-Profesional en Economía Creativa (PPPC), Políticas de comunicación, Gestión del patrimonio cultural inmaterial, Cine participativo. Miradas populares e intersecciones creativas, Gestión de documentos con valor cultural como apoyo a la investigación Modalidad de clases Las clases serán presenciales con alguna instancia virtual sincrónica.
 
 ### Unidades curriculares
 

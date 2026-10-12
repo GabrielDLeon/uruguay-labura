@@ -28,10 +28,10 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=97'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=51&idPosgrado=97'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=97"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=51&idPosgrado=97"
 ---
 
 ## Resumen
@@ -53,6 +53,7 @@ Fernando Pesce, Ana Domínguez, Marcel Achkar
 ### Reglamento
 
 [Reglamento para los Diplomas, Especializaciones y Maestrías del Área de Perfeccionamiento y Estudios Superiores (ANEP)](https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=51&idPosgrado=97)
+
 ### Requisitos de Ingreso
 
 Los aspirantes a cursar el posgrado deberán poseer: Título de grado expedido por ANEP o UdelaR, o equivalente, de acuerdo con el marco normativo vigente. En el caso de títulos obtenidos en el exterior se seguirá el sistema de reválidas vigente. La selección se realizará a través de: 1- Estudio de Méritos. Estos comprenderán tres dimensiones: formación académica, producción intelectual y práctica profesional. 2- Valoración de un proyecto – el aspirante a ingresar presentará un proyecto de investigación vinculado a la temática de educación ambiental. 3- Una entrevista. Para acceder a la misma el postulante debe superar el 25% del puntaje atribuido a los méritos y al proyecto 4 - Lectura y traducción de un breve texto en inglés, siguiendo la normativa del ingreso a la Maestría en Ciencias Ambientales.

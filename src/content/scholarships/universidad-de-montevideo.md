@@ -35,11 +35,11 @@ updatedAt: "2026-09-14 00:00:00"
 
 Becas parciales de la matrícula para estudiantes ingresantes a carreras de grado de la UM. Ninguna cubre el 100%: cada beca tiene su propio porcentaje y cierre de postulación.
 
-| Beca | Cobertura | Cierre de postulación |
-|---|---|---|
-| Beca UM (preuniversitaria) | 70% de la matrícula | 30 de junio (convocatoria 2026 cerrada) |
-| Beca a la Excelencia | 50% de la matrícula | 30 de septiembre |
-| Beca Interior | 40% de la matrícula | 31 de agosto (convocatoria 2026 cerrada) |
+| Beca                       | Cobertura           | Cierre de postulación                    |
+| -------------------------- | ------------------- | ---------------------------------------- |
+| Beca UM (preuniversitaria) | 70% de la matrícula | 30 de junio (convocatoria 2026 cerrada)  |
+| Beca a la Excelencia       | 50% de la matrícula | 30 de septiembre                         |
+| Beca Interior              | 40% de la matrícula | 31 de agosto (convocatoria 2026 cerrada) |
 
 - La **Beca Interior** es acumulable con el descuento al interior de la UM.
 

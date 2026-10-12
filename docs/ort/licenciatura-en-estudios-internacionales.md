@@ -81,11 +81,11 @@ Doble titulación con Rennes School of Business
 
 Los estudiantes de la Licenciatura en Estudios Internacionales tienen la posibilidad de obtener una doble titulación con la Rennes School of Business (Francia). El acuerdo permite que los estudiantes cursen tres años y medio en Uruguay (incluida la monografía) y luego completen un año en Francia. De esa manera pueden realizar un Master of Science de la escuela de negocios francesa.
 
-Así, en un período de cuatro años y medio, al que se le suma una pasantía a realizar en Europa (que gestiona RSB), y habiendo cumplido los estándares académicos y administrativos, los estudiantes obtendrán los títulos de Licenciado/a en Estudios Internacionales y el Master of Science in International Management con una de las siguientes especializaciones (a modo de ejemplo)*:
+Así, en un período de cuatro años y medio, al que se le suma una pasantía a realizar en Europa (que gestiona RSB), y habiendo cumplido los estándares académicos y administrativos, los estudiantes obtendrán los títulos de Licenciado/a en Estudios Internacionales y el Master of Science in International Management con una de las siguientes especializaciones (a modo de ejemplo)\*:
 
 Los cursos se dictan en inglés, por lo que es necesario tener un buen nivel en ese idioma.
 
-*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
+\*Nota: Las especializaciones quedan sujetas al quorum mínimo que establezca RSB.
 
 Conocé más sobre el acuerdo.
 
@@ -97,9 +97,7 @@ Para recibirse, los estudiantes deben realizar una Pasantía, cuyo objetivo prin
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Cultura y sociedad contemporánea**
 
@@ -123,7 +121,6 @@ El presente curso tiene por objetivo pedagógico lograr que el alumno pueda comp
 
 ### 2.° semestre
 
-
 **Sistema internacional contemporáneo**
 
 Introducción a los diferentes enfoques teóricos más relevantes para la comprensión del funcionamiento del sistema internacional y sus actores. El curso abarcará la evolución de las relaciones internacionales como ciencia, como correlato de las dos grandes guerras mundiales del siglo XX. Asimismo, se analizarán las causas y consecuencias de la caída de la ex Unión Soviética y se profundizará en los diferentes debates teóricos que el escenario de la posguerra fría generó en los años noventa. En adición a ello, se prevé considerar el debate sobre la crisis del estado-nación como unidad constitutiva del sistema internacional, el sentido de los cambios generados en la escena internacional luego de los episodios de 2001 en Estados Unidos, y los temas más actuales de la agenda internacional.
@@ -146,9 +143,7 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Derecho internacional público**
 
@@ -172,7 +167,6 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ### 4.° semestre
 
-
 **Instituciones internacionales**
 
 El objetivo de la materia es examinar la importancia y el papel de las instituciones internacionales en la formación del sistema internacional contemporáneo. Se estudian los principales aspectos teóricos y empíricos del trabajo de las organizaciones internacionales, así como la experiencia de instituciones internacionales seleccionadas. En particular, se examina en detalle el funcionamiento de las Naciones Unidas y sus agencias, así como su contribución a la paz y el orden mundial.
@@ -195,9 +189,7 @@ La logística, de la mano de la globalización, se ha convertido en una de las a
 
 ## 3.er año
 
-
 ### 5.° semestre
-
 
 **Política exterior del Uruguay**
 
@@ -221,7 +213,6 @@ La materia métodos de investigación tiene como objetivos generales lograr el a
 
 ### 6.° semestre
 
-
 **Integración regional**
 
 El curso tiene como finalidad que el estudiante conozca los principales procesos de integración, los acuerdos recientes y el marco multilateral que los respalda. Por otro lado, la situación actual del contexto internacional y sus perspectivas. Se explicitan los acuerdos de Europa, América Latina y Asia realizando una comparación de los aspectos esenciales de los mismos. En particular se analiza la situación del Uruguay en el marco del Mercosur y la influencia del mismo en su economía. Adicionalmente, se tratan los temas de actualidad que tengan una vinculación con la integración regional o el ámbito multilateral o la situación de un determinado país. Como metodología de clase, adicionalmente al dictado del profesor, en varias oportunidades se solicita a los alumnos que preparen determinado tema y de esta forma se fomenta una interacción entre los estudiantes y el profesor y permite la discusión en clase de la temática seleccionada.
@@ -244,9 +235,7 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 
 ## 4.° año
 
-
 ### 7.° semestre
-
 
 **Materias electivas**
 
@@ -269,7 +258,6 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 El Seminario de Monografía está diseñado para constituir el inicio del proceso de elaboración de la monografía final de carrera. A través del curso, se espera que los estudiantes puedan formular adecuadamente el proyecto de monografía con el cual culminarán sus estudios en la universidad. Para ello, el Seminario está diseñado de forma tal de analizar junto a los estudiantes las diferentes secciones que todo buen proyecto de investigación académica debe contener, a saber: la elección de una pregunta pertinente de investigación y su adecuada fundamentación; la formulación de objetivos o metas que se cumplirán a través del proceso de investigación desarrollado (tomando en cuenta las limitantes temporales y financieras enfrentadas por los estudiantes), la elaboración de un marco teórico que permita la confección de hipótesis para enfocar la respuesta a las preguntas de investigación y la elección de un diseño metodológico capaz de poner a prueba las hipótesis y habilitar la respuesta a las preguntas iniciales. El curso se basa fundamentalmente en la exposición de los alumnos (en este caso de los diferentes componentes de su proyecto de monografía final) y la discusión posterior de dichas exposiciones. La discusión es abierta e intervienen los estudiantes. Los profesores discuten las exposiciones para estimular el pensamiento crítico de los expositores y brindan orientación. De esta manera, es posible que el estudiante avance en la elaboración de su proyecto interactuando críticamente con compañeros y profesores.
 
 ### 8.° semestre
-
 
 **Análisis y decisión para la coyuntura internacional**
 

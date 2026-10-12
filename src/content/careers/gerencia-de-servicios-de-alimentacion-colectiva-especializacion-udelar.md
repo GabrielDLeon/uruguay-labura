@@ -25,16 +25,17 @@ tags:
   - alimentacion
   - industria-alimentaria
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=18&idPosgrado=98
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=18&idPosgrado=98
-  - label: 'Posgrados de la Escuela de Nutrición'
+  - label: "Posgrados de la Escuela de Nutrición"
     url: https://www.nutricion.edu.uy/?page_id=1381
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -52,7 +53,7 @@ El Centro de Posgrado de la Escuela de Nutrición, se propone la creación de un
 - **Plan de estudios:** 2019.
 - **Título otorgado:** Especialista en Gerencia de Servicios de Alimentación Colectiva.
 - **Requiere tesis.**
-El programa de la especialización se estructura en torno a dos ejes: Un componente de formación teórica con 5 módulos temáticos. Un componente de formación práctica que comprende la experiencia de campo del especialista La duración prevista es de 3 semestres incluyendo la realización de un trabajo final, con una carga horaria total de 900 horas y 60 créditos.
+  El programa de la especialización se estructura en torno a dos ejes: Un componente de formación teórica con 5 módulos temáticos. Un componente de formación práctica que comprende la experiencia de campo del especialista La duración prevista es de 3 semestres incluyendo la realización de un trabajo final, con una carga horaria total de 900 horas y 60 créditos.
 
 ## Ingreso
 

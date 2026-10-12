@@ -30,16 +30,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://fi.ort.edu.uy/analista-en-infraestructura-informatica'
-  - label: 'Plan de estudios'
-    url: 'https://fi.ort.edu.uy/analista-en-infraestructura-informatica/plan-de-estudios'
-  - label: 'Listado de tecnicaturas'
-    url: 'https://www.ort.edu.uy/tecnicaturas'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-tecnicaturas'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://fi.ort.edu.uy/analista-en-infraestructura-informatica"
+  - label: "Plan de estudios"
+    url: "https://fi.ort.edu.uy/analista-en-infraestructura-informatica/plan-de-estudios"
+  - label: "Listado de tecnicaturas"
+    url: "https://www.ort.edu.uy/tecnicaturas"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-tecnicaturas"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -88,7 +88,7 @@ Presencial con virtualidad La carrera de dicta mayoritariamente en formato prese
 
 ### Duración y Horarios
 
-Duración 3 años. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 Nocturno: lunes a jueves de 19:30 a 22:30. * Semestre 1 y 2: tres días a la semana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
+Duración 3 años. Horarios de clase Matutino: lunes a jueves de 8:00 a 11:00 Nocturno: lunes a jueves de 19:30 a 22:30. \* Semestre 1 y 2: tres días a la semana. La Universidad ORT Uruguay se reserva el derecho de realizar ajustes de fechas, horarios y contenidos. Los horarios mencionados no incluyen las prácticas. Las inscripciones están sujetas a quorum mínimo por turno.
 
 ### Valor de las Cuotas
 
@@ -97,7 +97,6 @@ El valor final de las cuotas varía en función de distintos factores, como por 
 ### Becas
 
 La Universidad ORT Uruguay otorga más de 1000 becas por año dirigidas a nuevos estudiantes cuyos ingresos y los de su familia no les permiten financiar totalmente sus estudios. ORT también dispone de convenios con organizaciones estatales, instituciones no gubernamentales y empresas de los más variados rubros, que otorgan beneficios especiales para los estudiantes. Becas para tecnicaturas
-
 
 ## Ingreso
 

@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Doctor en Odontología
 - Licenciatura en Biología Humana (interfacultades)
 - Asistente en Odontología

@@ -5,6 +5,7 @@ La **Universidad de la República** es la principal institución de educación s
 ---
 
 ## Área Ciencias de la Salud
+
 - [Facultad de Medicina](facultad-de-medicina.md)
 - [Facultad de Enfermería](facultad-de-enfermeria.md)
 - [Facultad de Odontología](facultad-de-odontologia.md)
@@ -13,6 +14,7 @@ La **Universidad de la República** es la principal institución de educación s
 - [Instituto Superior de Educación Física (ISEF)](isef.md)
 
 ## Área de Tecnologías y Ciencias de la Naturaleza y el Hábitat
+
 - [Facultad de Agronomía](facultad-de-agronomia.md)
 - [Facultad de Arquitectura, Diseño y Urbanismo (FADU)](fadu.md)
 - [Facultad de Ciencias](facultad-de-ciencias.md)
@@ -21,6 +23,7 @@ La **Universidad de la República** es la principal institución de educación s
 - [Facultad de Veterinaria](facultad-de-veterinaria.md)
 
 ## Área Social y Artística
+
 - [Facultad de Artes](facultad-de-artes.md)
 - [Facultad de Ciencias Económicas y de Administración (FCEA)](fcea.md)
 - [Facultad de Derecho](facultad-de-derecho.md)
@@ -29,12 +32,14 @@ La **Universidad de la República** es la principal institución de educación s
 - [Facultad de Información y Comunicación (FIC)](fic.md)
 
 ## Centros Universitarios Regionales
+
 - [Centro Universitario Regional Este (CURE)](cure.md)
 - [Centro Universitario Regional Litoral Norte](cenur-litoral-norte.md)
 - [Centro Universitario Regional Noreste](cenur-noreste.md)
 - [Región Suroeste](region-suroeste.md)
 
 ## Posgrados
+
 - [Doctorados](doctorados.md)
 - [Maestrías](maestrias.md)
 - [Especializaciones](especializaciones.md)
@@ -43,6 +48,7 @@ La **Universidad de la República** es la principal institución de educación s
 ---
 
 ## Información General
+
 - **Sitio web oficial:** https://udelar.edu.uy
 - **Buscador de carreras:** https://udelar.edu.uy/carreras
 - **Portal de posgrados:** https://www.posgrados.udelar.edu.uy/

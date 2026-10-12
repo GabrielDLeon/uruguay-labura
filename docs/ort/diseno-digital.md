@@ -42,9 +42,7 @@ La calidad gráfica de la carrera tiene el sello de una Escuela con más de 25 a
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Diseño 1 (Comunicación)**
 
@@ -64,7 +62,6 @@ HTML, CSS Desarrolla las herramientas y los conceptos para el maquetado y la dia
 
 ### 2.° semestre
 
-
 **Diseño 2 (Información)**
 
 Presenta la tipografía y la estructura de página, su expresividad y carácter, relacionándolas con los mensajes a comunicar y cómo afectan a la comprensión de la información visual.
@@ -83,9 +80,7 @@ HTML, CSS 3 Aborda el lenguaje de hojas de estilo (CSS) para controlar los aspec
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Diseño 3 (Persuasión)**
 
@@ -104,7 +99,6 @@ Aborda el rol y el impacto de la Inteligencia Artificial (IA) generativa en el c
 JS Introduce a los principios generales de la programación web, abordando particularmente la resolución del diseño en HTML dinámico y JavaScript.
 
 ### 4.° semestre
-
 
 **Diseño 4 (Identidad)**
 

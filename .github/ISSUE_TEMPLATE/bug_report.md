@@ -3,7 +3,7 @@ name: Reporte de bug
 about: Reportá un error o comportamiento inesperado del sitio
 title: "[Bug] "
 labels: ["bug"]
-assignees: ''
+assignees: ""
 ---
 
 ## Descripción del bug

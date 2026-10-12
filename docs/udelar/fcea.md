@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo (con carreras en CURE, CENUR Noreste, Región Suroeste)
 
 ## Carreras de Grado
+
 - Contador Público
 - Licenciatura en Administración
 - Licenciatura en Economía

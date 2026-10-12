@@ -44,9 +44,7 @@ El postgrado responde a la alta demanda de especialistas en salud cutánea, cons
 
 ## 1.er año
 
-
 ### 1
-
 
 **Semiología, anatomía y fisiología de la piel**
 
@@ -74,7 +72,6 @@ Práctica inicial en ámbitos hospitalarios y policlínicos, bajo supervisión d
 
 ### 2
 
-
 **Dermatosis inflamatorias**
 
 Estudia las enfermedades inflamatorias de la piel, como dermatitis y eczemas, psoriasis, liquen rojo plano, pitiriasis rubra pilaris, acné y urticaria, entre otras, abordando fisiopatología, diagnóstico y tratamientos actuales. Permite adquirir una visión integral de patologías prevalentes y complejas.
@@ -101,9 +98,7 @@ Consolidación de la práctica clínica, con mayor exposición a pacientes y tom
 
 ## 2.o año
 
-
 ### 3
-
 
 **Dermatología pediátrica**
 
@@ -131,7 +126,6 @@ Rotación clínica con mayor autonomía progresiva en la evaluación y tratamien
 
 ### 4
 
-
 **Taller de cirugía dermatológica básica y experimental**
 
 Introduce las técnicas quirúrgicas esenciales: distintos tipos de suturas y los materiales utilizados para las mismas, realización de biopsias en piel, mucosas y uñas, extirpación de lesiones y formas de reconstrucción de los defectos quirúrgicos correspondientes, criocirugía, electrocirugía y Laser. Consta de talleres prácticos en modelos quirúrgicos cadavéricos y artificiales. Permite adquirir destrezas prácticas bajo condiciones controladas.
@@ -154,9 +148,7 @@ Ampliación de la experiencia clínica con mayor responsabilidad en la práctica
 
 ## 3.er año
 
-
 ### 5
-
 
 **Psicodermatología y dermatología en diversidad**
 
@@ -179,7 +171,6 @@ Discusión de literatura y casos clínicos complejos vinculados a subespecialida
 Rotación práctica en servicios especializados con supervisión académica.
 
 ### 6
-
 
 **Enfermedades cutáneas infrecuentes**
 

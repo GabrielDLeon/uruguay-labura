@@ -151,7 +151,10 @@ export function jobMatchesFilters(
     }
   }
 
-  if (filters.organization && cleanOption(job.organization) !== filters.organization) {
+  if (
+    filters.organization &&
+    cleanOption(job.organization) !== filters.organization
+  ) {
     return false;
   }
 

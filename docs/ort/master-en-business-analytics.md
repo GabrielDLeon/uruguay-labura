@@ -42,9 +42,7 @@ Estos profesionales son capaces de traducir problemas de negocio en desafíos an
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Introducción a big data y analítica de negocios**
 
@@ -64,7 +62,6 @@ Enseña la gestión y consulta profesional de grandes volúmenes de datos utiliz
 
 ### Julio - Setiembre
 
-
 **Análisis de regresión**
 
 Desarrolla competencias avanzadas en modelización estadística con finalidad predictiva, aplicando técnicas de aprendizaje sobre bases de datos reales.
@@ -78,7 +75,6 @@ Se centra en el descubrimiento de patrones y relaciones ocultas que generan valo
 Integra los pilares de la Inteligencia Artificial Generativa dentro de la estrategia de datos de la organización.
 
 ### Octubre - Diciembre
-
 
 **Machine learning no supervisado**
 
@@ -98,24 +94,17 @@ Domina el arte de comunicar hallazgos técnicos de forma clara y persuasiva para
 
 ## 2.° año
 
-
 ### Febrero - Marzo
-
 
 **Electiva 1**
 
-
 **Electiva 2**
-
 
 **Electiva 3**
 
-
 **Electiva 4**
 
-
 ### Abril - Junio
-
 
 **Marketing Analytics**
 
@@ -127,13 +116,11 @@ Aplica técnicas cuantitativas y modelos de datos a los principales desafíos fi
 
 **Taller de Investigación (Project Lab)**
 
-
 **Innovación y Transformación Digital**
 
 Explora cómo los datos y la tecnología redefinen modelos de negocio, impulsan la innovación y crean ventajas competitivas sostenibles.
 
 ### Julio - Setiembre
-
 
 **Gobernanza de Datos e IA**
 
@@ -144,7 +131,6 @@ Enseña a diseñar e implementar programas de gobernanza de datos a escala organ
 Equipa al ejecutivo para identificar oportunidades concretas de IA por industria, evaluar el retorno de las iniciativas, estructurar equipos y liderar la adopción en la organización.
 
 ### Octubre - Diciembre
-
 
 **Liderazgo en Desarrollo de Productos de Datos**
 

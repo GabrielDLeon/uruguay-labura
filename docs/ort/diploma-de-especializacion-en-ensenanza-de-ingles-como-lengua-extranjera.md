@@ -47,9 +47,7 @@ Es importante destacar que el postgrado es impartido íntegramente en inglés.
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Taller de lectura y escritura académica**
 
@@ -64,7 +62,6 @@ Las características de los factores individuales que tienen injerencia en el ap
 Fundamentos de la lingüística general. Aportes de la psicolingüística y sociolingüística a la didáctica de las lenguas extranjeras. La lingüística aplicada y las investigaciones sobre adquisición y aprendizaje de lenguas extranjeras. Teorías lingüísticas contemporáneas. Herramientas digitales que aportan a la lingüística y su investigación. Recorrido histórico de la didáctica de las lenguas extranjeras. Enfoques orientados al desarrollo de la competencia comunicativa. Paradigmas, enfoques y métodos contemporáneos de enseñanza y aprendizaje de lenguas extranjeras. El aprendizaje de lenguas mediado por tecnologías digitales.
 
 ### 2.º semestre
-
 
 **La evaluación y las lenguas extranjeras**
 

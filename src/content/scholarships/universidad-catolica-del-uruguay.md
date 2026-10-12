@@ -27,12 +27,12 @@ updatedAt: "2026-09-14 00:00:00"
 
 El Concurso de Becas de la UCU reúne cuatro becas de grado para nuevos estudiantes, con coberturas parciales o totales de la matrícula según la modalidad y el resultado del concurso.
 
-| Beca | Cobertura | Ediciones |
-|---|---|---|
-| Excelencia Académica | 100% u 80% | JUL · OCT · DIC · FEB |
-| Dámaso Antonio Larrañaga | 100% u 80% | JUL · DIC · FEB |
-| Conferencia Episcopal del Uruguay (CEU) | 80% o 50% | JUL · DIC · FEB |
-| Buen Desempeño | 50% o 30% | JUL · OCT · DIC · FEB |
+| Beca                                    | Cobertura  | Ediciones             |
+| --------------------------------------- | ---------- | --------------------- |
+| Excelencia Académica                    | 100% u 80% | JUL · OCT · DIC · FEB |
+| Dámaso Antonio Larrañaga                | 100% u 80% | JUL · DIC · FEB       |
+| Conferencia Episcopal del Uruguay (CEU) | 80% o 50%  | JUL · DIC · FEB       |
+| Buen Desempeño                          | 50% o 30%  | JUL · OCT · DIC · FEB |
 
 - El concurso entrega más de 400 becas por año a nuevos estudiantes de grado, para premiar la excelencia académica y/o apoyar económicamente.
 - Se puede postular al mismo tiempo a distintos tipos de beca, siempre que se cumplan los requisitos de cada una.

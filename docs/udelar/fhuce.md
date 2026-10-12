@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Licenciatura en Ciencias Antropológicas
 - Licenciatura en Ciencias Históricas
 - Licenciatura en Filosofía

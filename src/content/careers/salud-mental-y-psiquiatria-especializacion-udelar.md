@@ -24,16 +24,17 @@ tags:
   - psiquiatria
   - salud-publica
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=90
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=90
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -47,8 +48,8 @@ En este sentido el trabajo de la enfermera/o especialista se conjuga entre dos �
 ### Plan de estudios
 
 - **Créditos:** 60.
-La especialidad cuenta con 900 horas – 60 cr. (24 cr. Teóricos, 32 cr. Prácticos y 4 cr. Del trabajo final).
-La Especialidad se desarrollará con un total de 900 horas, que se corresponden con 60 créditos, distribuidos de la siguiente manera: a) Teóricos: 360 horas, 24 créditos b) Prácticas: 480 horas, 32 créditos. c) Trabajo final: 60 horas, 4 créditos. Programa analítico: Teóricos: Unidad1. Proceso Salud – Enfermedad – Nuevos Modelos de Atención: 45 horas, 3 créditos. Unidad 2. Cuidados a personas a través del ciclo de vida: 60 horas, 4 créditos. Unidad 3. La relación interpersonal: 45 horas, 3 créditos Unidad 4. Psicopatología: 165 horas, 11 créditos Unidad 5: Bioética: 45 horas, 3 créditos
+  La especialidad cuenta con 900 horas – 60 cr. (24 cr. Teóricos, 32 cr. Prácticos y 4 cr. Del trabajo final).
+  La Especialidad se desarrollará con un total de 900 horas, que se corresponden con 60 créditos, distribuidos de la siguiente manera: a) Teóricos: 360 horas, 24 créditos b) Prácticas: 480 horas, 32 créditos. c) Trabajo final: 60 horas, 4 créditos. Programa analítico: Teóricos: Unidad1. Proceso Salud – Enfermedad – Nuevos Modelos de Atención: 45 horas, 3 créditos. Unidad 2. Cuidados a personas a través del ciclo de vida: 60 horas, 4 créditos. Unidad 3. La relación interpersonal: 45 horas, 3 créditos Unidad 4. Psicopatología: 165 horas, 11 créditos Unidad 5: Bioética: 45 horas, 3 créditos
 
 ## Ingreso
 

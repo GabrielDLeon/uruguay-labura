@@ -56,9 +56,7 @@ Al finalizar los cuatro primeros años de la carrera tienen la posibilidad de ob
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Programación 1**
 
@@ -78,7 +76,6 @@ Introducir al estudiante a la modalidad de trabajo propia de la ingeniería, est
 
 ### 2.º semestre
 
-
 **Programación 2**
 
 Esta materia tiene como objetivo continuar la formación en el área de programación, con fuerte énfasis en la programación orientada a objetos y en el desarrollo de algoritmia más avanzada. El objetivo es desarrollar aplicaciones orientadas a objetos.
@@ -97,9 +94,7 @@ Brindar al estudiante conocimientos de los métodos generales de análisis de re
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Probabilidad y estadística**
 
@@ -119,7 +114,6 @@ Brindar al estudiante conocimientos de los métodos generales de análisis de re
 
 ### 4.º semestre
 
-
 **Física 2**
 
 Presentar un panorama conceptual de los fenómenos electromagnéticos involucrados en la electrónica y las comunicaciones, desarrollando habilidades de simulación del mundo real, así como el manejo de sensores y datos experimentales necesarios para validar la teoría. Conocimientos y competencias necesarias para una futura implementación tecnológica.
@@ -138,9 +132,7 @@ Estudio, desarrollo, prototipado y documentación por grupos de estudiantes, con
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Sistemas digitales y microprocesadores**
 
@@ -156,9 +148,7 @@ Presentar un panorama conceptual de los fenómenos electromagnéticos ondulatori
 
 **Microeconomía**
 
-
 ### 6.º semestre
-
 
 **Sistemas dinámicos**
 
@@ -178,9 +168,7 @@ Estudio, desarrollo, prototipado y documentación por grupos de alumnos, con la 
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Bases de datos 1**
 
@@ -200,7 +188,6 @@ El estudiante puede optar por un conjunto de materias electivas, que le permiten
 
 ### 8.º semestre
 
-
 **Materia de Sistemas inteligentes (machine learning)**
 
 La inteligencia artificial es el estudio de soluciones para problemas que son difíciles de resolver con métodos tradicionales. Se utilizan técnicas generalizadas en apoyo de aplicaciones cotidianas que perciben su entorno e interactúan de forma racional con este. El objetivo de esta área en particular es brindar los conceptos de modelos y técnicas de análisis inteligente de datos, con el fin de extraer información útil para la toma de decisiones. Estos contenidos incluyen los principios básicos de la inteligencia artificial, y los conceptos teórico-prácticos de aprendizaje automático (machine learning, deep learning), optimización y análisis predictivo.
@@ -219,9 +206,7 @@ Estudio, desarrollo, prototipado y documentación por grupos de alumnos, con la 
 
 ## 5.º año
 
-
 ### 9.º semestre
-
 
 **Materia de Matemática o Ciencias de la computación**
 
@@ -236,7 +221,6 @@ Dentro del área temática es ofrecen asignaturas que faciliten la comprensión 
 En esta asignatura se busca analizar el diseño, arquitectura y funcionamiento de diferentes redes de datos de tipo inalámbrico, con foco particular en la tecnología celular y las redes WiFi. En los últimos años se ha vivido una revolución en cuanto a la capacidad de transmisión, cobertura y despliegue de soluciones inalámbricas. Destacan en particular las nuevas tecnologías celulares (3G, 4G, 5G) que incorporan voz y datos sobre una misma capa física. A su vez, en las redes locales, las capacidades inalámbricas (WiFi) han tenido un despliegue espectacular en las últimas décadas. Se propone analizar la arquitectura y técnicas de modulación de estas redes, con énfasis en los servicios que ofrecen a las capas superiores.
 
 ### 10.º semestre
-
 
 **Materia de Telecomunicaciones o Telemática**
 

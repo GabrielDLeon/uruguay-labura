@@ -27,7 +27,7 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Ficha Udelar'
+  - label: "Ficha Udelar"
     url: "https://www.artes.udelar.edu.uy/carrera/licenciatura-en-danza-contemporanea/"
   - label: "Plan de estudios (PDF)"
     url: "https://www.artes.udelar.edu.uy/wp-content/uploads/2024/06/Licenciatura_Danza_Contemporanea_Plan_de_Estudios_v2.pdf"

@@ -4,9 +4,11 @@
 
 - **Build**: `pnpm build`
 - **Type check**: `pnpm check`
-- **Format**: `pnpm prettier --write .`
+- **Format**: `pnpm format` (Prettier). Check with `pnpm format:check`.
 
 **Important**: Never run `pnpm build`, `pnpm dev`, or `pnpm start`.
+
+**Formatting is not optional**: there is no ESLint/Biome in this repo, only Prettier (`.prettierrc`) plus `astro check` for types. After writing or editing any file, run `pnpm format` (or `pnpm format:check`) before finishing. Do not hand-format or follow other style conventions — Prettier is the single source of truth.
 
 ## Code Style
 
@@ -15,7 +17,7 @@
 - **Naming**: camelCase for functions/variables, PascalCase for components
 - **Types**: Use Zod schemas for content collections and validation
 - **Error handling**: Provide fallbacks (e.g., default locale in i18n)
-- **Formatting**: Prettier with astro plugin for .astro files (no semicolons, single quotes)
+- **Formatting**: Prettier (`.prettierrc`): semicolons, double quotes, printWidth 80, trailing commas. Never hand-format; run `pnpm format`.
 - **Components**: Astro components with frontmatter for logic and TypeScript interfaces for props
 - **Collections**: Define content collections in content.config.ts
 - **Icons**: Import from `astro-icon/components` (e.g., `import { Icon } from "astro-icon/components"`), use MDI icons (e.g., `mdi:menu`)

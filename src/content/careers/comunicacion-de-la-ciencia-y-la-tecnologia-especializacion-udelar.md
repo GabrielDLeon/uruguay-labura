@@ -28,16 +28,13 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=96&idPosgrado=96'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=96&idPosgrado=96'
-  - label: 'Especialización – FIC'
-    url: 'https://fic.edu.uy/ensenanza/posgrado/cienciaytecnologia'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=96&idPosgrado=96"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=96&idPosgrado=96"
+  - label: "Especialización – FIC"
+    url: "https://fic.edu.uy/ensenanza/posgrado/cienciaytecnologia"
 ---
-
-
-
 
 ## Resumen
 

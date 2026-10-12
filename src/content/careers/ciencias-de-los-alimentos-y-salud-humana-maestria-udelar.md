@@ -25,12 +25,12 @@ tags:
   - nutricion
   - salud
 sources:
-  - label: 'Reglamento de la Maestría (CEINBIO)'
-    url: 'https://ceinbio.edu.uy/sites/default/files/media/files/2024-02/Reglamento%20-%20Maestr%C3%ADa%20en%20Ciencias%20de%20los%20Alimentos%20y%20Salud%20Humana_0.pdf'
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=70'
-  - label: 'Ficha PDF (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=70'
+  - label: "Reglamento de la Maestría (CEINBIO)"
+    url: "https://ceinbio.edu.uy/sites/default/files/media/files/2024-02/Reglamento%20-%20Maestr%C3%ADa%20en%20Ciencias%20de%20los%20Alimentos%20y%20Salud%20Humana_0.pdf"
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=9&idPosgrado=70"
+  - label: "Ficha PDF (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=9&idPosgrado=70"
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 22:20:00"

@@ -46,9 +46,7 @@ Prueba de ello son los logros de los graduados y sus marcas propias, así como e
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Arte y estética 1**
 
@@ -76,7 +74,6 @@ Proporciona los recursos técnicos y expresivos que hacen viable un enriquecimie
 
 ### 2.º semestre
 
-
 **Arte y estética 2**
 
 Profundiza en el conocimiento histórico del arte y el diseño, como herramienta para el análisis de los lenguajes visuales y formales a través de una mirada integradora de la sociedad, tomando en cuenta los contextos y las innovaciones tecnológicas que engendraron los cambios. Tiene como objetivos que el estudiante sea capaz de: - Conocer las manifestaciones artísticas y culturales anteriores a nuestro tiempo, así como de ubicar los “objetos-productos” en un contexto histórico y cultural determinado. - Descubrir la influencia de las corrientes artísticas y filosóficas en la cultura contemporánea. - Desarrollar la reflexión crítica y criterio estético, para su propia síntesis creativa, tomando el conocimiento de la historia del diseño y las artes, como una herramienta para el proyecto.
@@ -103,9 +100,7 @@ Capacita al alumno en las técnicas de expresión de ilustración para la repres
 
 ## 2.º año
 
-
 ### 3.er semestre
-
 
 **Tecnología textil 1**
 
@@ -133,7 +128,6 @@ La asignatura introduce a comprender la moda y sus manifestaciones como un fenó
 
 ### 4.º semestre
 
-
 **Tecnología textil 2**
 
 Introduce y capacita en el estudio de textiles, hilatura y tejeduría, terminaciones y acabados, para desarrollar productos que se adapten a los requerimientos de la industria y el mercado.
@@ -160,9 +154,7 @@ La asignatura introduce a comprender la moda y sus manifestaciones como un fenó
 
 ## 3.er año
 
-
 ### 5.º semestre
-
 
 **Sociología de la moda**
 
@@ -181,7 +173,6 @@ Introduce y capacita en el diseño de piezas complementarias a la indumentaria. 
 Capacita en el área de la sastreria (femenina y masculina) e indumentaria en diversidad de materiales: sus transformaciones, interpretación del diseño y realización de moldería para la materialización del producto. Profundiza en los aspectos técnicos del diseño de producto y en los contenidos del sistema de modelaje industrial, necesarios para las áreas de fabricación y producción del producto a escala industrial. Tiene como objetivos que el estudiante sea capaz de: - Desarrollar la capacidad de imaginar el volumen a través del plano para lograr la óptima realización del producto final. - Utilizar y manejar las herramientas que hacen al trabajo del diseñador en el área de producción. - Abordar la problemática de la construcción de la indumentaria de manera gradual y sistemática. - Comprender la mecánica de trabajo requerida en una empresa de desarrollo y fabricación de indumentaria.
 
 ### 6.º semestre
-
 
 **Teorías aplicadas al diseño**
 
@@ -205,9 +196,7 @@ Ayuda a desarrollar las competencias necesarias para una correcta gestión de pr
 
 ## 4.º año
 
-
 ### 7.º semestre
-
 
 **Electiva 6 (Marketing digital)**
 
@@ -222,7 +211,6 @@ Enfoca el diseño de modas hacia la creación de colecciones, focalizando en el 
 Introduce al estudiante en la exploración de ideas emprendedoras, desde su gestación, formulación y evaluación de potencial. Tiene como objetivos que el estudiante sea capaz de: - Dominar los principios de la creación y gestión de start ups, y poner a prueba una idea de negocio. - Trabajar en equipos para validar o descartar su idea de negocio. - Identificar “un cliente” para su idea, formular la propuesta de valor. - Incorporar las prácticas que de metodologías de descubrimiento, validación e implementación de nuevas ideas emorendedoras. (Asignatura de la Facultad de Ingeniería).
 
 ### 8.º semestre
-
 
 **Tendencias del diseño contemporáneo**
 

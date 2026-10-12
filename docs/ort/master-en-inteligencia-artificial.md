@@ -48,9 +48,7 @@ Este programa está diseñado para quienes ya poseen una formación universitari
 
 ## 1.er año
 
-
 ### Semestre 1
-
 
 **Agentes inteligentes**
 
@@ -66,7 +64,6 @@ El objetivo de este curso es presentar los fundamentos teóricos del aprendizaje
 
 ### Semestre 2
 
-
 **Modelos de deep learning**
 
 Uno de los problemas fundamentales en aprendizaje automático es la representación del conocimiento. Las técnicas y modelos de aprendizaje profundo constituyen un paradigma cuyo factor central es la representación de modelos complejos mediante la composición de representaciones más simples. Esta materia presenta los modelos fundamentales de aprendizaje profundo, en particular, diferentes tipos de redes neuronales, enfocándose principalmente en los aspectos teóricos de estos modelos.
@@ -81,9 +78,7 @@ Este curso es una introducción al campo de la inteligencia artificial orientada
 
 ## 2º año
 
-
 ### Semestre 3
-
 
 **Electiva**
 
@@ -98,7 +93,6 @@ Los estudiantes completan su formación seleccionando tres asignaturas electivas
 Los estudiantes completan su formación seleccionando tres asignaturas electivas para profundizar y expandir sus conocimientos técnicos en diversos aspectos del desarrollo y la aplicación responsable de sistemas de inteligencia artificial. Las electivas pueden ser: Optimización aplicada al aprendizaje automático Sistemas multiagente Análisis predictivo de series temporales Machine learning en producción Inteligencia artificial responsable Las materias evolucionarán en el tiempo conformemente a los avances científicos y tecnológicos en inteligencia artificial. Teniendo en cuenta que se trata de un área muy dinámica, la Coordinación Académica, junto al equipo docente, realizará una activa vigilancia científico-tecnológica con el objetivo de garantizar la actualización del plan de estudios con respecto al estado del arte.
 
 ### Semestre 4
-
 
 **Trabajo final**
 

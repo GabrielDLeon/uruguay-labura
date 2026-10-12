@@ -75,9 +75,7 @@ Las evaluaciones principales se realizan en forma presencial.
 
 ## 1.er año
 
-
 ### Julio - Setiembre
-
 
 **Fundamentos de la información financiera**
 
@@ -97,7 +95,6 @@ Identifica y desarrolla habilidades prácticas en relación con los aspectos con
 
 ### Octubre - Diciembre
 
-
 **Fiscalidad internacional**
 
 Busca la comprensión de los conceptos involucrados en materia de fiscalidad internacional, desde el punto de vista teórico y práctico, brindando al estudiante la visión de la imposición internacional necesaria en la planificación estratégica tributaria. Luego de presentaciones introductorias de los temas se aplicará una metodología basada en el análisis de casos por parte de los estudiantes.
@@ -116,7 +113,6 @@ Presenta casos del entorno internacional que llevarán a la reflexión sobre la 
 
 ### Febrero - Marzo
 
-
 **Sociedades y finanzas sociales**
 
 En la materia se analiza el concepto de sociedad desde una perspectiva económica, legal y financiera, en el marco de la regulación societaria. Aborda, desde una perspectiva empresarial, la elección del tipo social, estructura de capital, ingeniería societaria vinculada a la planificación de la empresa, y la armonización de los intereses de diversos tipos de accionistas, así como las formas alternativas de transferencias empresariales y los grupos económicos.
@@ -130,7 +126,6 @@ El curso busca suministrar conocimientos especializados sobre el Tema de Precios
 Impuesto a la Renta de las personas físicas (IRPF). Impuesto a la renta de los no residentes (IRNR). Sintetiza la normativa tributaria más relevante vinculada a la tributación de las rentas en el Uruguay. Estudia las principales características de los impuestos a la Renta de los No Residentes y de las Personas Físicas. Con un enfoque pragmático el estudiante conoce las principales características de la tributación sobre las rentas de los no residentes y de las personas físicas.
 
 ### Abril - Junio
-
 
 **Imposición al consumo y al patrimonio**
 
@@ -150,9 +145,7 @@ El objetivo del curso es asistir al alumno durante la elaboración de su tesis o
 
 ## 2.do año
 
-
 ### Julio - Setiembre
-
 
 **Tendencias globales en tributación**
 
@@ -164,7 +157,6 @@ El modelo de convenio fiscal de la OCDE ha servido de base para la negociación 
 
 ### Octubre - Diciembre
 
-
 **Gestión del riesgo fiscal internacional**
 
 El propósito del curso es proporcionar un marco para la aplicación de principios de gestión de riesgos de cumplimiento tributario. Se identificarán y discutirán los principios generales que se encuentran tanto en la identificación como en el tratamiento de los riesgos de cumplimiento dentro de una amplia variedad de jurisdicciones tributarias. Se busca proporcionar información sobre la forma en que las estrategias de gestión influyen en el comportamiento de las empresas en relación con sus obligaciones fiscales.
@@ -174,7 +166,6 @@ El propósito del curso es proporcionar un marco para la aplicación de principi
 Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Auditoría: aspectos prácticos y económicos El objetivo general del curso es discutir, desde una perspectiva tanto teórica como de un practioner, los temas relevantes del proceso de auditoría. La materia brinda a los estudiantes un panorama general sobre la naturaleza de los servicios de atestiguamiento, la regulación de la profesión del auditor y los aspectos comportamentales y económicos de la auditoría. Entre los temas discutidos también se incluyen temas relacionados al control interno y aspectos del gobierno corporativo de la entidad. Contabilidad y finanzas para el desarrollo sostenible Aborda el impacto del Global Reporting Information en la contabilidad y su vinculación con el Balance Social y con la Responsabilidad Social. Analiza la medición y exposición de los impactos provocados por la gestión medioambiental en la contabilidad. El curso está a cargo de un profesor extranjero especialista en el tema. Tributación en el sector agropecuario El objetivo general del curso es sintetizar la normativa tributaria más relevante vinculada a la tributación en el sector agropecuario. Se estudian las principales características del Impuesto a la Renta de las Actividades Económicas, del Impuesto al Valor Agregado y del Impuesto al Patrimonio y demás tributos de imposición al capital.
 
 ### Febrero – Marzo
-
 
 **Medidas antiabuso y convenios para evitar doble imposición**
 
@@ -186,13 +177,11 @@ El curso trata las consideraciones fiscales y no fiscales importantes en la plan
 
 ### Abril - Junio
 
-
 **Introducción a big data y analítica de negocios**
 
 La materia apunta a permitir la comprensión de los cambios en el paradigma de negocios que torna imprescindible la competencia basada en la explotación de datos. Asimismo, busca que el alumno pueda comprender, diferenciar y utilizar fluidamente los principales conceptos clave asociados a la disciplina: fuentes de big data, principales tecnologías, perfiles y roles, metodologías de análisis e interpretación de datos y regulación de uso y protección de datos. Por último, se busca la comprensión de los pasos de la metodología de análisis de datos para elaborar un plan de trabajo desde la detección del caso de negocio, hasta la disponibilidad y medición de los resultados.
 
 ### Julio - Diciembre
-
 
 **Memoria Final**
 

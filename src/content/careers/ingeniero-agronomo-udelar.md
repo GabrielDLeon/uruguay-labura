@@ -29,12 +29,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/ingeniero-agronomo'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/'
+  - label: "Página oficial"
+    url: "https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/ingeniero-agronomo"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://portal.fagro.edu.uy/ensenanza/unidad-de-ensenanza/ingenieria-agronomica/"
 ---
 
 ## Resumen

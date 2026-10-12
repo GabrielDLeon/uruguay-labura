@@ -56,9 +56,7 @@ El departamento de marketing de las empresas es la voz del consumidor dentro de 
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Administración general**
 
@@ -82,7 +80,6 @@ El curso busca dotar al estudiante del instrumental matemático necesario para l
 
 ### 2.° semestre
 
-
 **Equipos, liderazgo y trabajo colaborativo**
 
 Facilita al estudiante su integración dentro de un equipo y el fortalecimiento de su liderazgo. Al finalizar, el estudiante posee conocimientos y habilidades que le permiten integrarse exitosamente en un equipo de estudio o trabajo, reconociendo la importancia de las “competencias blandas” (soft skills) como la confianza, la escucha, el respeto y el desarrollo de aptitudes personales y sociales. Es un curso participativo, que atiende tanto el nivel cognitivo/intelectual, como el afectivo/vivencial de los estudiantes.
@@ -105,9 +102,7 @@ Esta materia apunta a que el participante comprenda y aplique las técnicas más
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Marketing de servicios y relaciones**
 
@@ -131,7 +126,6 @@ El objetivo del curso se centra en los aspectos introductorios de la estadístic
 
 ### 4.° semestre
 
-
 **Análisis económico-financiero en marketing**
 
 El propósito de esta materia es introducir los conceptos y herramientas económico-financieras que ayudan al directivo de marketing y ventas a evaluar las decisiones comerciales en el corto y largo plazo.
@@ -154,9 +148,7 @@ El estudiante aprende a utilizar la nueva tecnología de la información y las c
 
 ## 3.er año
 
-
 ### 5.° Semestre
-
 
 **Matemática financiera**
 
@@ -180,7 +172,6 @@ Aborda la temática de las marcas y su impacto en las estrategias de las empresa
 
 ### 6.° semestre
 
-
 **E-commerce y servicios digitales**
 
 Esta materia tiene como objetivo presentar todas las variables que deberá gestionar a la hora de llevar adelante un e-commerce, ya sea propio, o a través de un marketplace. También pretende profundizar sobre los distintos servicios digitales vinculados al share of wallet del empresario, a la hora de llevar adelante negocios digitales.
@@ -203,9 +194,7 @@ El propósito de esta materia es contribuir a que el estudiante comprenda los co
 
 ## 4.° año
 
-
 ### 7.° semestre
-
 
 **Análisis y previsión de ventas**
 
@@ -225,9 +214,7 @@ Estas materias se presentan a título de ejemplo. Analítica de marketing digita
 
 **Electiva 4**
 
-
 ### 8.° semestre
-
 
 **Consultoría en marketing y negocios**
 
@@ -239,9 +226,7 @@ El objetivo de esta materia es capacitar para tomar decisiones estratégicas de 
 
 **Electiva 5**
 
-
 **Electiva 6**
-
 
 **Herramientas de IA**
 

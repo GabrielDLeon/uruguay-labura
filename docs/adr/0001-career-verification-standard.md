@@ -23,8 +23,8 @@ y cada institución se auditaría con una vara distinta.
    3. noticias oficiales del dominio institucional (válidas, p. ej. para un email
       de contacto que la ficha no publica);
    4. prensa y terceros: solo corroboración secundaria, nunca fuente.
-   Los snapshots internos (`docs/<institucion>/` y similares) son material de
-   trabajo transitorio: se **borran** al cerrar cada auditoría.
+      Los snapshots internos (`docs/<institucion>/` y similares) son material de
+      trabajo transitorio: se **borran** al cerrar cada auditoría.
 2. **Checklist de carrera verificada** (100% para pasar a visible, `draft: false`):
    - `website` responde 200 y es la ficha oficial de esa carrera;
    - `title/short/institution/degreeType/area` correctos;

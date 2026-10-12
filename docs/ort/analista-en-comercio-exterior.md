@@ -48,9 +48,7 @@ La carrera, con un enfoque práctico, actualizado y una inserción laboral rápi
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Comercio internacional y política comercial**
 
@@ -70,7 +68,6 @@ Desarrolla los diferentes componentes del marketing empresarial. Partiendo de lo
 
 ### 2.° semestre
 
-
 **Internacionalización de la empresa en la era digital**
 
 El propósito del curso es, primero, introducir a los estudiantes en los conceptos básicos de la teoría y práctica de la administración, así como la actividad gerencial. Luego el enfoque está dado en el proceso de internacionalización de las empresas, teniendo en cuenta también aquellos negocios que comercializan servicios y productos digitales. Este proceso comienza con entender el contexto internacional, aspectos culturales y de mercado, para decidir la estrategia a aplicar.
@@ -85,9 +82,7 @@ Aborda el derecho de las transacciones internacionales y las operaciones de impo
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Operativa y procedimientos del comercio internacional**
 

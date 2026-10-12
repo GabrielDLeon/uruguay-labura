@@ -19,13 +19,13 @@ export const departmentToId: Record<string, string> = {
   Soriano: "UY-SO",
   Tacuarembó: "UY-TA",
   "Treinta y Tres": "UY-TT",
-}
+};
 
 export function locationsToIds(locations: string[]): string[] {
-  const ids: string[] = []
+  const ids: string[] = [];
   for (const loc of locations) {
-    const id = departmentToId[loc]
-    if (id) ids.push(id)
+    const id = departmentToId[loc];
+    if (id) ids.push(id);
   }
-  return [...new Set(ids)]
+  return [...new Set(ids)];
 }

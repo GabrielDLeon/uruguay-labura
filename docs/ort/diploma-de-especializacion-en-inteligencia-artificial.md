@@ -45,9 +45,7 @@ Los cursos aprobados del plan de estudios del Diploma son reconocidos para la re
 
 ## 1.er año
 
-
 ### Semestre 1
-
 
 **Agentes inteligentes**
 
@@ -62,7 +60,6 @@ El objetivo de este taller es aplicar los conocimientos adquiridos en casos de e
 El objetivo de este curso es presentar los fundamentos teóricos del aprendizaje estadístico (o statistical learning theory) y los paradigmas algorítmicos que se derivan de estos. Mediante un enfoque teórico-práctico se guía al estudiante en el desarrollo de sistemas de inteligencia artificial con el fin de resolver problemas mediante aprendizaje automático (o machine learning) en diferentes áreas de aplicación.
 
 ### Semestre 2
-
 
 **Modelos de deep learning**
 

@@ -3,7 +3,7 @@ name: Solicitud de feature
 about: Sugerí una nueva funcionalidad o mejora para el sitio
 title: "[Feature] "
 labels: ["enhancement"]
-assignees: ''
+assignees: ""
 ---
 
 ## ¿Qué problema resuelve?

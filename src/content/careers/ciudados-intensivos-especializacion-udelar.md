@@ -25,16 +25,17 @@ tags:
   - medicina-intensiva
   - cuidados
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=12
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=12
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -51,7 +52,8 @@ Los profesionales Especialistas en Enfermería de Cuidados Intensivos proporcion
 - **Créditos:** 60 créditos de cursos.
 - **Título otorgado:** Especialista en Cuidados Intensivos.
 - **Requiere tesis.**
-DESARROLLO CURRICULAR. Contenidos teóricos: 360 hs. (24 c). Asignaturas propias a la Especialidad -13 cr.- 195 hs. -Teóricas. Métodos: 60 hs: 4 c: Metodología Científica, 30 hs, 2 cr. Bioética, 15 hs, 1cr. Epidemiología, 15 hs. 1cr. Optativas: 30 hs – 2c Deberá seleccionar una de las siguientes asignaturas: Inglés, Portugués e Informática. Trabajo Final. 75 hs.-5 cr. ​ Prácticas: 540 hs. (36 c)
+  DESARROLLO CURRICULAR. Contenidos teóricos: 360 hs. (24 c). Asignaturas propias a la Especialidad -13 cr.- 195 hs. -Teóricas. Métodos: 60 hs: 4 c: Metodología Científica, 30 hs, 2 cr. Bioética, 15 hs, 1cr. Epidemiología, 15 hs. 1cr. Optativas: 30 hs – 2c Deberá seleccionar una de las siguientes asignaturas: Inglés, Portugués e Informática. Trabajo Final. 75 hs.-5 cr. ​ Prácticas: 540 hs. (36 c)
+
 1. Metodología científica. 2 creditos 2. Bioética. 1 cr 3. Epidemiología. 1cr 4. Optativa. 2 cr 5. Epistemologia. 1 cr 6. Aspectos organizativos y Ético legales. 1 cr 7. Normas de Seguridad. 1 cr 8. Aspectos psicosociales. 1 cr. 9. Principios fisiopatológicos del paciente crítico. 1 cr 10. Asistencia al paciente crítico con afecciones cardio vasculares. 2 cr. 11. Asistencia al paciente crítico con afecciones cerebro vasculares. 1 cr 12. Asistencia al paciente crítico con afecciones cardiopulmonares. 1 cr 13. Asistencia al paciente crítico con afecciones en el sistema genito-urinario. 1 cr 14. Asistencia del paciente crítico con afecciones gastrointestinales. 1 cr 15. Asistencia del paciente crítico con afecciones del sistema tegumentario. 1 cr 16. Asistencia del paciente crítico con afecciones del sistema musculo-esquelético. 1 cr 17. Trabajo Final. 5 cr. 18. Residencia. 36 cr.
 
 ## Ingreso

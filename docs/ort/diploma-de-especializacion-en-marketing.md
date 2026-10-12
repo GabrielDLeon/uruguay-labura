@@ -76,9 +76,7 @@ Además, brinda la posibilidad de estudiar asignaturas electivas en escuelas de 
 
 ## 1.er año
 
-
 ### Abril-Junio
-
 
 **Insight e inteligencia de mercado**
 
@@ -94,13 +92,11 @@ Este curso te permitirá comprender la lógica estratégica del marketing y su p
 
 ### Junio (intensivo)
 
-
 **Brand Building e innovación**
 
 El curso de Brand Building e Innovación te desafía a ir más allá de la teoría y a descubrir cómo las marcas pueden convertirse en el motor de negocios exitosos y sostenibles. Aprenderás a innovar, construir y potenciar marcas sólidas, entendiendo a fondo su identidad, posicionamiento e imagen, y aplicando estrategias innovadoras de activación, arquitectura y medición de salud marcaria. A través de experiencias prácticas y el análisis de casos reales, desarrollarás la visión estratégica y la capacidad crítica necesarias para diferenciarte en un mercado altamente competitivo.
 
 ### Julio-Setiembre
-
 
 **Omnichannel y trade marketing**
 
@@ -116,13 +112,11 @@ Introduce los conceptos y herramientas para que los directivos de marketing pued
 
 ### Setiembre (intensivo)
 
-
 **Simulador de marketing estratégico**
 
 El curso de Markstrat ofrece una experiencia práctica e inmersiva en marketing estratégico, donde los estudiantes asumen el rol de directores de marketing y toman decisiones reales sobre productos, precios, distribución, investigación y comunicación. A través de un entorno competitivo y dinámico, podrán aplicar conceptos clave como segmentación, posicionamiento y gestión de portafolio, recibiendo feedback inmediato sobre el impacto de sus decisiones. Esta simulación, reconocida a nivel internacional, potencia el trabajo en equipo, la capacidad de análisis y la visión estratégica de largo plazo, preparando a los participantes para liderar en escenarios de negocios complejos y cambiantes.
 
 ### Octubre-Diciembre
-
 
 **Marketing digital**
 
@@ -138,13 +132,11 @@ El curso de Diseño de Servicios y Experiencia de Cliente (CX) te enseña a tran
 
 ### Diciembre (intensivo)
 
-
 **Taller de analítica de marketing digital**
 
 Busca dotar a los estudiantes de las definiciones conceptuales y la capacidad operativa para medir y trabajar con métricas digitales. Se enfoca en cómo hacer que el marketing se beneficie de la medición y cómo preparar una estrategia de data para aportar valor al negocio.
 
 ### Febrero-Marzo
-
 
 **Electiva 1**
 

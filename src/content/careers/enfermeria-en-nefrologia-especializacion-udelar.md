@@ -23,16 +23,17 @@ tags:
   - nefrologia
   - cuidados
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=7&idPosgrado=95
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=7&idPosgrado=95
-  - label: 'Centro de Posgrado de Enfermería'
+  - label: "Centro de Posgrado de Enfermería"
     url: https://www.fenf.edu.uy/ensenanza/posgrado/
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Objetivo
@@ -46,8 +47,8 @@ Los profesionales Especialistas en Enfermería en Nefrología proporcionarán cu
 ### Plan de estudios
 
 - **Créditos:** 60.
-Esta Especialidad se desarrollará en el Centro de Posgrado de la Facultad de Enfermería con un total de 900 horas - 60 cr. (24 cr. Teóricos, 36 cr. Práctica)
-195 hs teóricas Asignaturas propias a la especialidad 13 cr. 30 hs metodología científica 2 cr. 15 hs bioética 1cr. 15 hs epidemiología 1cr. 75 hs trabajo final. 5cr. 540 hs prácticas 36 cr. Optativas Inglés 30 hs 2cr. o Portugués 30 hs 2cr. o Informática 30 hs 2cr.
+  Esta Especialidad se desarrollará en el Centro de Posgrado de la Facultad de Enfermería con un total de 900 horas - 60 cr. (24 cr. Teóricos, 36 cr. Práctica)
+  195 hs teóricas Asignaturas propias a la especialidad 13 cr. 30 hs metodología científica 2 cr. 15 hs bioética 1cr. 15 hs epidemiología 1cr. 75 hs trabajo final. 5cr. 540 hs prácticas 36 cr. Optativas Inglés 30 hs 2cr. o Portugués 30 hs 2cr. o Informática 30 hs 2cr.
 
 ## Ingreso
 

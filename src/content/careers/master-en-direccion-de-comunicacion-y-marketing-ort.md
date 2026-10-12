@@ -30,16 +30,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 00:30:00"
 sources:
-  - label: 'Página oficial de la carrera'
-    url: 'https://fc.ort.edu.uy/escuela-de-postgrados/master-en-direccion-de-comunicacion-y-marketing'
-  - label: 'Plan de estudios'
-    url: 'https://fc.ort.edu.uy/escuela-de-postgrados/master-en-direccion-de-comunicacion-y-marketing/plan-de-estudios'
-  - label: 'Listado de postgrados'
-    url: 'https://www.ort.edu.uy/postgrados'
-  - label: 'Información de becas'
-    url: 'https://www.ort.edu.uy/becas/becas-para-postgrados/fc'
-  - label: 'Universidad ORT Uruguay'
-    url: 'https://www.ort.edu.uy'
+  - label: "Página oficial de la carrera"
+    url: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-direccion-de-comunicacion-y-marketing"
+  - label: "Plan de estudios"
+    url: "https://fc.ort.edu.uy/escuela-de-postgrados/master-en-direccion-de-comunicacion-y-marketing/plan-de-estudios"
+  - label: "Listado de postgrados"
+    url: "https://www.ort.edu.uy/postgrados"
+  - label: "Información de becas"
+    url: "https://www.ort.edu.uy/becas/becas-para-postgrados/fc"
+  - label: "Universidad ORT Uruguay"
+    url: "https://www.ort.edu.uy"
 ---
 
 ## Resumen
@@ -81,7 +81,6 @@ Duración Un año y medio de cursos, además de un Proyecto Final (3 clases sema
 ### Becas
 
 La Escuela de Postgrados y Actualización en Comunicación y Diseño ofrece fondos de becas para facilitar el acceso de profesionales con alto potencial a sus programas. Incluye apoyos para emprendedores, jóvenes talentos, candidatos con necesidad financiera, estudiantes del interior y estudiantes internacionales.
-
 
 ## Ingreso
 

@@ -29,16 +29,16 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-08-07 12:21:06"
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
-    url: 'https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=45'
-  - label: 'Ficha PDF'
-    url: 'https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=45'
-  - label: 'Postulaciones – Bedelía de Posgrados (FCS)'
-    url: 'https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/'
-  - label: 'Diploma en Intervención Familiar – FCS'
-    url: 'https://cienciassociales.edu.uy/departamento-de-trabajo-social/ensenanza-de-posgrado/diploma-en-intervencion-familiar/'
-  - label: 'Reglamento del Diploma (PDF)'
-    url: 'https://cienciassociales.edu.uy/wp-content/uploads/2019/10/REGLAMENTO-DIPLOMA-FAMILIA-2013.pdf'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
+    url: "https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=6&idPosgrado=45"
+  - label: "Ficha PDF"
+    url: "https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=6&idPosgrado=45"
+  - label: "Postulaciones – Bedelía de Posgrados (FCS)"
+    url: "https://cienciassociales.edu.uy/ensenanza/bedelia-de-posgrado/postulaciones/"
+  - label: "Diploma en Intervención Familiar – FCS"
+    url: "https://cienciassociales.edu.uy/departamento-de-trabajo-social/ensenanza-de-posgrado/diploma-en-intervencion-familiar/"
+  - label: "Reglamento del Diploma (PDF)"
+    url: "https://cienciassociales.edu.uy/wp-content/uploads/2019/10/REGLAMENTO-DIPLOMA-FAMILIA-2013.pdf"
 ---
 
 ## Resumen

@@ -57,9 +57,7 @@ Aquellos estudiantes que aprueben las 16 materias obligatorias, que incluyen el 
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Economía y organización del turismo**
 
@@ -79,7 +77,6 @@ Desarrolla los diferentes componentes del marketing empresarial. Partiendo de lo
 
 ### 2.° semestre
 
-
 **Geografía turística y patrimonio cultural**
 
 Introduce en los principios de la sostenibilidad aplicada al turismo, basada en la conservación y puesta en valor del patrimonio mundial, regional y local. Facilita herramientas técnicas para la gestión del patrimonio, con especial atención en la toma de decisiones sobre su planificación, comercialización y promoción turística.
@@ -98,9 +95,7 @@ Desarrolla habilidades especiales en las diversas áreas del marketing de empres
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Gestión y supervisión de capital humano**
 
@@ -119,7 +114,6 @@ Forma en la gestión hotelera, el negocio de alojamiento, la venta de habitacion
 Capacita en los conocimientos necesarios para incorporar las herramientas digitales en las actividades de investigación, comunicación y comercialización de productos turísticos. Se enfoca en modelos de negocios apoyados en herramientas digitales. Prepara al estudiante para que sea capaz de entender las estrategias y así gestionar los medios digitales para satisfacer las nuevas expectativas del turista.
 
 ### 4.° semestre
-
 
 **Gestión de precios y revenue management**
 

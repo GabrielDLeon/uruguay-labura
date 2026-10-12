@@ -32,16 +32,16 @@ updatedAt: "2026-09-14 00:00:00"
 
 Bienestar Universitario (SCIBU) ofrece **ocho tipos de becas** para estudiantes de UDELAR con vulnerabilidades socioeconómicas, familiares, sociales o personales. Las prestaciones no son excluyentes entre sí (se pueden solicitar varias), pero no se puede recibir a la vez una beca económica de otra institución por más de 1/2 BPC.
 
-| Beca | Cobertura | Monto |
-|---|---|---|
-| Apoyo Económico | Mensual para gastos generales | 2 BPC mensuales |
-| Alimentación | Almuerzo y/o cena en comedores universitarios y cantinas descentralizadas, sin canon para los becarios | Servicio |
-| Transporte | Trayectos interdepartamentales de menos de 60 km, transporte suburbano sin subsidios públicos, múltiples traslados semanales o discapacidad | 1/4 BPC |
-| Alojamiento | Beca económica para afrontar el gasto de alojamiento en la localidad de estudios, distinta a la del núcleo familiar | 2 BPC mensuales |
-| Pasajes interdepartamentales | Descuento adicional del 10% sobre el 20% que brinda ANETRA (30% en total), para estudiar en un departamento distinto al del hogar a más de 60 km | Descuento |
-| Materiales de estudio | Compra de materiales requeridos por las asignaturas en curso | 1/2 BPC |
-| Guardería | Hijos de 0 a 3 años bajo patria potestad o tenencia legal, con guardería habilitada por el MEC | 2 BPC mensuales |
-| Laptop | Préstamo anual de una computadora | Préstamo |
+| Beca                         | Cobertura                                                                                                                                        | Monto           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| Apoyo Económico              | Mensual para gastos generales                                                                                                                    | 2 BPC mensuales |
+| Alimentación                 | Almuerzo y/o cena en comedores universitarios y cantinas descentralizadas, sin canon para los becarios                                           | Servicio        |
+| Transporte                   | Trayectos interdepartamentales de menos de 60 km, transporte suburbano sin subsidios públicos, múltiples traslados semanales o discapacidad      | 1/4 BPC         |
+| Alojamiento                  | Beca económica para afrontar el gasto de alojamiento en la localidad de estudios, distinta a la del núcleo familiar                              | 2 BPC mensuales |
+| Pasajes interdepartamentales | Descuento adicional del 10% sobre el 20% que brinda ANETRA (30% en total), para estudiar en un departamento distinto al del hogar a más de 60 km | Descuento       |
+| Materiales de estudio        | Compra de materiales requeridos por las asignaturas en curso                                                                                     | 1/2 BPC         |
+| Guardería                    | Hijos de 0 a 3 años bajo patria potestad o tenencia legal, con guardería habilitada por el MEC                                                   | 2 BPC mensuales |
+| Laptop                       | Préstamo anual de una computadora                                                                                                                | Préstamo        |
 
 - **Apoyo Económico**, **Alojamiento** y **Guardería** se pagan mensualmente: de mayo a diciembre para quienes acceden por primera vez y de marzo a diciembre para quienes renuevan.
 - Los montos se indexan a la Base de Prestaciones y Contribuciones (BPC), que se actualiza anualmente por decreto (BPC 2026: $6.864; 2 BPC = $13.728 a valores de enero 2026).

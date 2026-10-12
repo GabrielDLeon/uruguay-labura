@@ -1,5 +1,5 @@
 ---
-import { Icon } from 'astro-icon/components'
+import { Icon } from "astro-icon/components";
 ---
 
 <section class="relative overflow-hidden border-b border-border">
@@ -23,7 +23,8 @@ import { Icon } from 'astro-icon/components'
       Trabajo y formación en Uruguay, en un solo lugar.
     </h1>
     <p class="mx-auto mt-6 max-w-xl text-base text-muted-foreground">
-      Encontrá trabajo y formación en Uruguay sin recorrer diez sitios distintos.
+      Encontrá trabajo y formación en Uruguay sin recorrer diez sitios
+      distintos.
     </p>
     <button
       type="button"
@@ -40,7 +41,9 @@ import { Icon } from 'astro-icon/components'
 </section>
 
 <script is:inline>
-  document.querySelector('[data-hero-search]')?.addEventListener('click', () => {
-    document.getElementById('search-trigger')?.click()
-  })
+  document
+    .querySelector("[data-hero-search]")
+    ?.addEventListener("click", () => {
+      document.getElementById("search-trigger")?.click();
+    });
 </script>

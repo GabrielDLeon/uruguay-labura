@@ -83,16 +83,16 @@ descripción**. Se extrajo esa estructura para documentar el plan en los archivo
 Todos los archivos siguen el mismo formato (encabezado, ficha de metadatos, resumen,
 plan de estudio, secciones de detalle y fuentes). Los campos se completaron así:
 
-| Campo | Origen |
-|---|---|
-| Nombre, área, nivel | Catálogo JSON |
-| Tipo (licenciatura, maestría, etc.) | Inferido del nombre y del nivel |
-| Modalidad, turno, duración | Texto de las cajas + JSON-LD |
-| Requisitos de ingreso | JSON-LD + caja de la página |
-| Perfil de egreso y salida laboral | Caja "Perfil de los graduados" |
-| Becas | JSON-LD + caja "Becas" |
-| Título intermedio | Caja "Títulos y reconocimientos" |
-| Página oficial | Catálogo JSON |
+| Campo                               | Origen                           |
+| ----------------------------------- | -------------------------------- |
+| Nombre, área, nivel                 | Catálogo JSON                    |
+| Tipo (licenciatura, maestría, etc.) | Inferido del nombre y del nivel  |
+| Modalidad, turno, duración          | Texto de las cajas + JSON-LD     |
+| Requisitos de ingreso               | JSON-LD + caja de la página      |
+| Perfil de egreso y salida laboral   | Caja "Perfil de los graduados"   |
+| Becas                               | JSON-LD + caja "Becas"           |
+| Título intermedio                   | Caja "Títulos y reconocimientos" |
+| Página oficial                      | Catálogo JSON                    |
 
 ## Reglas de calidad aplicadas
 

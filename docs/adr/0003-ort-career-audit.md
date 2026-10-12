@@ -16,7 +16,7 @@ sitio no publica montos (entrevista personal).
 ## Estado inicial
 
 114/115 en `draft` (conteo con 17 falsos positivos del glob `*ort*`:
-*transporte*, *ortopedia*, *portugués* de otras instituciones — excluidos,
+_transporte_, _ortopedia_, _portugués_ de otras instituciones — excluidos,
 quedan 98). 1 visible (Ingeniería en Sistemas).
 
 ## Decisiones ORT-específicas

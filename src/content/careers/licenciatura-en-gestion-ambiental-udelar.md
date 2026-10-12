@@ -27,12 +27,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/licenciatura-en-gestion-ambiental'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/'
+  - label: "Página oficial"
+    url: "https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/licenciatura-en-gestion-ambiental"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.cure.edu.uy/ensenanza/oferta-educativa/licenciatura-en-gestion-ambiental/"
 ---
 
 ## Resumen

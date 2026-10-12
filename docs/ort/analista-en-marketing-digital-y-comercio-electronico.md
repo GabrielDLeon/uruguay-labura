@@ -46,9 +46,7 @@ Además, la carrera le brinda habilidades y competencias claves como la resoluci
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Marketing de demanda**
 
@@ -68,7 +66,6 @@ Capacita en técnicas de negociación, comunicación y ventas en formato presenc
 
 ### 2.° Semestre
 
-
 **Marketing de oferta**
 
 Trabaja en el proceso de segmentación, elección del público objetivo y la propuesta de posicionamiento competitivo. Aborda las 4P del marketing mix: producto, precio, plaza, promoción alineados con dicho posicionamiento.
@@ -83,9 +80,7 @@ Capacita en la definición del problema de comunicación a partir del plan de ma
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Ecommerce y venta automatizada**
 
@@ -104,7 +99,6 @@ Comprende las estrategias de SEO y SEM para lograr captación, conversión y fid
 Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Gestión de la experiencia del cliente Gestión de marketing de servicios Gestión de precios y promociones Indicadores para la gestión comercial Marketing digital y publicidad turística Trade marketing y gestión de categorías
 
 ### 4.º semestre
-
 
 **Marketplaces y plataformas**
 

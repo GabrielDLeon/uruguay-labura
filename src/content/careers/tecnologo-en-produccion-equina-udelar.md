@@ -29,12 +29,12 @@ draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 12:00:00"
 sources:
-  - label: 'Página oficial'
-    url: 'https://www.fvet.edu.uy/ensenanza/grado/tecnologo-en-produccion-equina/'
-  - label: 'Ficha Udelar'
-    url: 'https://udelar.edu.uy/carrera/tecnologo-en-produccion-equina'
-  - label: 'Sede o facultad (fuente anterior)'
-    url: 'https://www.fvet.edu.uy/ensenanza/grado/tecnologo-en-produccion-equina/'
+  - label: "Página oficial"
+    url: "https://www.fvet.edu.uy/ensenanza/grado/tecnologo-en-produccion-equina/"
+  - label: "Ficha Udelar"
+    url: "https://udelar.edu.uy/carrera/tecnologo-en-produccion-equina"
+  - label: "Sede o facultad (fuente anterior)"
+    url: "https://www.fvet.edu.uy/ensenanza/grado/tecnologo-en-produccion-equina/"
 ---
 
 ## Resumen

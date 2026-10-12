@@ -24,18 +24,19 @@ tags:
   - biologia-oral
   - biologia
 sources:
-  - label: 'Catálogo de Posgrados Udelar (CAP)'
+  - label: "Catálogo de Posgrados Udelar (CAP)"
     url: https://cap.posgrados.udelar.edu.uy/detallesPosgrado.php?idServicio=21&idPosgrado=91
-  - label: 'Ficha del programa en el CAP (PDF)'
+  - label: "Ficha del programa en el CAP (PDF)"
     url: https://cap.posgrados.udelar.edu.uy/fpdf/posgradoPDF.php?idServicio=21&idPosgrado=91
-  - label: 'Maestría en Ciencias Odontológicas (FO)'
+  - label: "Maestría en Ciencias Odontológicas (FO)"
     url: https://odon.edu.uy/sitio/maestria/
-  - label: 'Programa de la opción Biología Oral (PDF)'
+  - label: "Programa de la opción Biología Oral (PDF)"
     url: https://odon.edu.uy/sitio/wp-content/uploads/2024/11/Biologia-Oral.pdf
 draft: false
 createdAt: "2026-07-31 16:58:06"
 updatedAt: "2026-09-28 21:00:00"
 ---
+
 ## Resumen
 
 ### Plan de estudios

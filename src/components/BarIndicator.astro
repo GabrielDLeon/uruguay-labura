@@ -1,20 +1,20 @@
 ---
 interface Props {
-  label: string
-  value: string
-  total: number
-  filled: number
+  label: string;
+  value: string;
+  total: number;
+  filled: number;
 }
 
-const { label, value, total, filled } = Astro.props
+const { label, value, total, filled } = Astro.props;
 
 const levelColors = [
-  'bg-[var(--bar-l1)]',
-  'bg-[var(--bar-l2)]',
-  'bg-[var(--bar-l3)]',
-  'bg-[var(--bar-l4)]',
-]
-const activeColor = levelColors[Math.min(filled - 1, levelColors.length - 1)]!
+  "bg-[var(--bar-l1)]",
+  "bg-[var(--bar-l2)]",
+  "bg-[var(--bar-l3)]",
+  "bg-[var(--bar-l4)]",
+];
+const activeColor = levelColors[Math.min(filled - 1, levelColors.length - 1)]!;
 ---
 
 <div>
@@ -26,7 +26,7 @@ const activeColor = levelColors[Math.min(filled - 1, levelColors.length - 1)]!
     {
       Array.from({ length: total }, (_, i) => (
         <div
-          class={`h-1.5 flex-1 rounded-full ${i < filled ? activeColor : 'bg-[var(--bar-inactive)]'}`}
+          class={`h-1.5 flex-1 rounded-full ${i < filled ? activeColor : "bg-[var(--bar-inactive)]"}`}
         />
       ))
     }

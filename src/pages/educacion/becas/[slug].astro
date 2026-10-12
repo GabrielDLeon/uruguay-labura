@@ -55,9 +55,7 @@ const detailItems = [
     label: "Institución",
     value: entry.data.institution,
   },
-  ...(entry.data.amount
-    ? [{ label: "Monto", value: entry.data.amount }]
-    : []),
+  ...(entry.data.amount ? [{ label: "Monto", value: entry.data.amount }] : []),
   ...(entry.data.level.length > 0
     ? [
         {
@@ -76,9 +74,7 @@ const detailItems = [
         },
       ]
     : []),
-  ...(entry.data.renewable
-    ? [{ label: "Renovable", value: "Sí" }]
-    : []),
+  ...(entry.data.renewable ? [{ label: "Renovable", value: "Sí" }] : []),
 ];
 
 const pageUrl = absUrl(`/educacion/becas/${entry.id}`);

@@ -48,9 +48,7 @@ Asimismo, lograrás impulsar tu involucramiento en la emisión de información n
 
 ## 1.er año
 
-
 ### Abril - Junio
-
 
 **Instrumentos de renta fija**
 
@@ -65,7 +63,6 @@ Aborda las fuentes de información, la generación de estados financieros y su a
 Presenta los principales procedimientos estadísticos y econométricos utilizados en el análisis de temas financieros y en la toma de decisiones: tablas de contingencia, análisis de la varianza, regresión simple y múltiple. Enfatiza en la presentación de los conceptos y en la aplicación práctica de los métodos y procedimientos.
 
 ### Julio - Setiembre
-
 
 **Fundamentos de la información financiera**
 
@@ -84,7 +81,6 @@ Examina los conceptos asociados a políticas contables, cambios en las estimacio
 Dirigido al conocimiento y uso de instrumentos y títulos financieros. Analiza los diferentes criterios de valoración y los riesgos básicos asociados a los instrumentos. Deriva los conceptos de put call parity y el método de Black & Scholes, para profundizar en sus aplicaciones reales a situaciones regionales, en particular de nuestro país. Desarrolla instrumentos sintéticos e introduce modelos binomiales para captar la esencia de la valuación de opciones. Estudia además la metodología de medición del Riesgo de Mercado conocida como Value at Risk (VaR), culminando con el teorema de arbitraje.
 
 ### Octubre - Diciembre
-
 
 **Activos y pasivos: reconocimiento y medición 1**
 
@@ -108,7 +104,6 @@ Presenta casos del entorno internacional que llevan a la reflexión sobre la pr�
 
 ### Febrero - Marzo
 
-
 **Finanzas 3: Decisiones de financiamiento y dividendos**
 
 Analiza los teoremas de Modigliani-Miller y su impacto en nuestras latitudes en los valores de la firma, culminando con teoría de la Agencia. Profundiza en el impacto de decisiones tácticas y estructuras de financiamiento de las empresas. Analiza escenarios con distintas fuentes de financiamiento de la empresa, desarrolla una estructura óptima y culmina con los aspectos determinantes de la política de dividendos, con un énfasis en la gestión de las finanzas en economías inestables.
@@ -123,12 +118,9 @@ Estudia a través de casos reales los diferentes criterios de valoración de emp
 
 ## 2.do año
 
-
 ### Abril - Junio
 
-
 **Taller de riesgo financiero**
-
 
 **Combinaciones de negocios**
 
@@ -144,9 +136,7 @@ El objetivo de esta materia es proporcionar las herramientas para el análisis d
 
 ### Julio - Setiembre
 
-
 **Gobierno corporativo**
-
 
 **Electiva 1**
 
@@ -157,7 +147,6 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 Las materias electivas se presentan a título de ejemplo y están sujetas a quorum mínimo. Análisis técnico y estrategias de trading B2B Gorwth Strategy Banca de inversión Blockchain, Crypto y Defi Dirección de operaciones Eficacia y desarrollo organizacional Estrategia con derivados Finanzas 3: Decisiones de financiamiento y dividendos Fundamentos de la información financiera Fundamentos de modelos de datos y datamining Gestión integral de riesgo y prueba de tensión Grupos e influencia interpersonal Liderazgo emprendedor Machine learning no supervisado Machine learning supervisado Nuevas tendencias en finanzas Presupuestación y planificación financiera Taller de conversaciones difíciles Taller de mercados e instituciones financieras Valoración de activos financiero
 
 ### Julio
-
 
 **Memoria Final**
 

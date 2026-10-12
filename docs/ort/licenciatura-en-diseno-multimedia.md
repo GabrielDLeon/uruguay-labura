@@ -44,9 +44,7 @@ Estudiar Diseño Multimedia es formar parte de un campo en crecimiento, donde el
 
 ## 1.er año
 
-
 ### 1.er semestre
-
 
 **Arte y estética 1**
 
@@ -74,7 +72,6 @@ La materia introduce al estudiante en el código oral y escrito. Se trabajará e
 
 ### 2.° semestre
 
-
 **Arte y estética 2**
 
 La asignatura profundiza en el conocimiento histórico del arte y el diseño, como herramienta para el análisis de los lenguajes visuales y formales a través de una mirada integradora de la sociedad, tomando en cuenta los contextos y las innovaciones tecnológicas que engendraron los cambios. Tiene como objetivo que el estudiante sea capaz de: Conocer las manifestaciones artísticas y culturales anteriores a nuestro tiempo, así como de ubicar los “objetos-productos” en un contexto histórico y cultural determinado. Descubrir la influencia de las corrientes artísticas y filosóficas en la cultura contemporánea. Desarrollar la reflexión crítica y criterio estético, para su propia síntesis creativa, tomando el conocimiento de la historia del diseño y las artes, como una herramienta para el proyecto.
@@ -101,9 +98,7 @@ La asignatura introduce al estudiante en el manejo del lenguaje HTML y CSS. Tien
 
 ## 2.° año
 
-
 ### 3.er semestre
-
 
 **Lenguaje audiovisual**
 
@@ -131,7 +126,6 @@ La asignatura profundiza el conocimiento del estudiante en el manejo del lenguaj
 
 ### 4.° semestre
 
-
 **Modelado y animación de gráficos 3D**
 
 La asignatura capacita en el modelado tridimensional digital de figuras geométricas y de composición así como textos, logotipos, objetos de presentación, entornos, etc. Aplica a estos las técnicas de movimiento, producción de animaciones y los efectos que acompañen las acciones principales a ser usada como video. Examina el manejo del espacio tridimensional, la puesta en escena, el control de luces, sombras, cámaras y secuencias. Tiene como objetivo que el estudiante sea capaz de: Dominar las herramientas fundamentales de modelado, texturizado, animación y rendering. Aprender las diferentes técnicas del modelado digital. Crear piezas y animaciones originales basados en los modelos creados.
@@ -158,9 +152,7 @@ La asignatura profundiza en el uso no lineal de las herramientas de edición y p
 
 ## 3.er año
 
-
 ### 5.° semestre
-
 
 **Teoría del juego**
 
@@ -188,7 +180,6 @@ Capacita en la producción de gráficos para producciones cinematográficas y te
 
 ### 6.° semestre
 
-
 **Teorías aplicadas al diseño**
 
 La asignatura proporciona al estudiante los elementos necesarios para ingresar en el campo de la reflexión teórica del diseño combinando teorías de la percepción, la comunicación y la semiótica. Promueve una reflexión crítica acerca del Diseño como contribución a la formación de cultura.
@@ -211,9 +202,7 @@ Desarrolla las competencias necesarias para una correcta identificación, admini
 
 ## 4.° año
 
-
 ### 7.° semestre
-
 
 **Electiva 5 (Marketing digital)**
 
@@ -232,7 +221,6 @@ La asignatura posibilita al estudiante a integrarse en equipos multidisciplinari
 Presentar los conceptos fundamentales de la programación de videojuegos en entornos 3D. Tiene como objetivo conocer y entender los aspectos fundamentales de la programación de videojuegos en 3D.
 
 ### 8.° semestre
-
 
 **Tendencias del diseño contemporáneo**
 

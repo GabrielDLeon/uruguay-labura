@@ -48,9 +48,7 @@ Impulsá tu futuro en recursos humanos. ¡Formá parte del cambio y marcá la di
 
 ## 1.er año
 
-
 ### Abril-Junio
-
 
 **Marco legal del trabajo**
 
@@ -66,7 +64,6 @@ Brinda conocimientos sobre la función y aportes desarrollados por la Psicologí
 
 ### Junio (intensivo)
 
-
 **Taller de comunicación**
 
 Capacita para identificar los factores que puedan dificultar una comunicación efectiva y aplica conductas y técnicas que permitan su resolución. Desarrolla con énfasis la capacidad de comprender los principios y técnicas de la comunicación eficaz, reconocer la presencia de factores que la impiden y cómo actuar de forma proactiva, de escuchar y comprender, hacer preguntas para liderar la comunicación, manejar los componentes no verbales, dar retroalimentación y realizar presentaciones orales efectivas.
@@ -76,7 +73,6 @@ Capacita para identificar los factores que puedan dificultar una comunicación e
 Tiene como objetivo introducir a los estudiantes en el manejo de las redes sociales en los procesos de atracción y selección del talento, a través de actividades como: conocer las redes diferentes sociales más eficaces en Recursos Humanos 2.0, publicar anuncios de empleo en redes sociales, automatización de procesos de selección, monitoreo de la reputación digital de la empresa.
 
 ### Julio-Setiembre
-
 
 **Equipos, colaboración e influencia**
 
@@ -92,13 +88,11 @@ Estudia las vinculaciones de los sistemas de remuneración y beneficios con las 
 
 ### Setiembre (intensivo)
 
-
 **Taller de negociación**
 
 Estudia aspectos conceptuales y prácticos de la negociación interpersonal. Entrena en los elementos conceptuales necesarios para comprender el rol y la importancia de las instancias de negociación. Desarrolla el proceso de comunicación y el manejo de las diversas técnicas de presentación personal y colectiva. Profundiza en la preparación y realización de negociaciones con respecto a los recursos humanos, utilizando juegos de negociación, simulación de situaciones y estudio de diversos modelos de negociación. Aborda el rol del negociador desde lo experiencial y conductual, con un gran énfasis en negociaciones colectivas laborales y su encuadre legal.
 
 ### Octubre-Diciembre
-
 
 **Resultados y analítica de recursos humanos**
 
@@ -114,9 +108,7 @@ Estudia aspectos conceptuales y prácticos de la negociación interpersonal. Ent
 
 ## 2.do año
 
-
 ### Febrero-Marzo
-
 
 **Sostenibilidad y gestión responsable**
 
@@ -128,7 +120,6 @@ En la materia se abordará el estado actual de las aplicaciones de la inteligenc
 
 ### Abril-Junio
 
-
 **Finanzas para decisiones gerenciales**
 
 Presenta los conceptos y procedimientos básicos de la contabilidad financiera utilizados como soporte para la toma de decisiones. Estados financieros y su relación mutua, análisis de las valoraciones contables de cada tipo de cuenta, análisis financieros y la temporalidad en la información. El punto de vista adoptado no es el del responsable de la preparación de la información, sino el del profesional que debe trabajar con ella y conocer sus posibilidades y limitaciones.
@@ -139,13 +130,11 @@ Proporciona una visión global del cambio y del desarrollo organizacional. Abord
 
 ### Julio (intensivo)
 
-
 **Métodos de investigación y diagnóstico organizacional**
 
 Brinda el instrumental metodológico necesario para el estudio de la realidad vinculado con las técnicas y conceptos del diagnóstico sobre el funcionamiento de las organizaciones. Presenta aspectos de metodología investigativa que se desarrollan en conexión con las diversas técnicas del análisis organizacional: métodos cuantitativos y cualitativos, muestreo, encuestas y codificación de datos.
 
 ### Julio-Setiembre
-
 
 **Taller de investigación**
 
@@ -160,7 +149,6 @@ Las materias electivas se presentan a título de ejemplo y están sujetas a quor
 Brinda la oportunidad de que las personas y los grupos descubran sus actitudes y patrones de comportamiento, su manera de ver, ser y hacer las cosas que los han llevado a los resultados que han tenido hasta el momento. Reconocer esas actitudes y patrones permite descubrir qué es lo que impide su modificación, y así reconocidos, superarlos, desarrollando la capacidad de reflexión, cooperación, trabajo en equipo y el potencial de liderazgo.
 
 ### Octubre-Diciembre
-
 
 **Taller de conversaciones difíciles**
 

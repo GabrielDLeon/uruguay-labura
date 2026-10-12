@@ -4,6 +4,7 @@
 **Ubicación:** Montevideo
 
 ## Carreras de Grado
+
 - Licenciatura en Archivología
 - Licenciatura en Bibliotecología
 - Licenciatura en Comunicación

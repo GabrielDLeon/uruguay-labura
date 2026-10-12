@@ -97,9 +97,7 @@ export default function SavedSearchesBoard() {
             newJobs={newJobs}
             open={openId === search.id}
             onToggle={() =>
-              setOpenId((current) =>
-                current === search.id ? null : search.id,
-              )
+              setOpenId((current) => (current === search.id ? null : search.id))
             }
             onRename={(name) => renameSavedSearch(search.id, name)}
             onDelete={() => {
