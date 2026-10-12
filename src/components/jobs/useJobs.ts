@@ -1,14 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 
 import type { JobRecord } from "@/types/jobs";
-import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
-
-const JOBS_DATASET_URL = "/jobs.generated.json";
-
-interface JobsDatasetPayload {
-  jobs: JobRecord[];
-  scrapedAt: string;
-}
+import { filterActiveJobs, loadJobsDataset } from "@/lib/jobs-dataset";
 
 export default function useJobs() {
   const [jobs, setJobs] = useState<JobRecord[]>([]);
@@ -18,69 +11,33 @@ export default function useJobs() {
   const [requestAttempt, setRequestAttempt] = useState(0);
 
   useEffect(() => {
-    const controller = new AbortController();
+    let active = true;
 
-    async function loadJobs() {
-      setIsLoading(true);
-      setLoadError(null);
+    setIsLoading(true);
+    setLoadError(null);
 
-      try {
-        const response = await fetch(JOBS_DATASET_URL, {
-          headers: {
-            Accept: "application/json",
-          },
-          signal: controller.signal,
-        });
-
-        if (!response.ok) {
-          throw new Error(`No se pudo cargar el dataset (${response.status})`);
-        }
-
-        const payload = await response.json();
-        if (!payload || typeof payload !== "object") {
-          throw new Error("Dataset con formato invalido");
-        }
-
-        const dataset = payload as JobsDatasetPayload;
-        if (
-          !Array.isArray(dataset.jobs) ||
-          typeof dataset.scrapedAt !== "string"
-        ) {
-          throw new Error("Dataset con formato invalido");
-        }
-
-        const today = startOfToday();
-
-        setJobs(
-          dataset.jobs.filter((job) => {
-            if (!job.closingDate) return true
-            const closing = parseDate(job.closingDate)
-            if (!closing) return true
-            return startOfDay(closing) >= today
-          }),
-        );
+    loadJobsDataset(requestAttempt > 0)
+      .then((dataset) => {
+        if (!active) return;
+        setJobs(filterActiveJobs(dataset.jobs));
         setScrapedAt(dataset.scrapedAt);
-      } catch (error) {
-        if (controller.signal.aborted) {
-          return;
-        }
-
+      })
+      .catch((error) => {
+        if (!active) return;
         setLoadError(
           error instanceof Error
             ? error.message
             : "No se pudieron cargar los llamados",
         );
-      } finally {
-        if (!controller.signal.aborted) {
+      })
+      .finally(() => {
+        if (active) {
           setIsLoading(false);
         }
-      }
-    }
-
-    loadJobs();
+      });
 
     return () => {
-      controller.abort();
+      active = false;
     };
   }, [requestAttempt]);
 

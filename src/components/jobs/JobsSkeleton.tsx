@@ -5,36 +5,28 @@ export default function JobsSkeleton() {
       aria-live="polite"
       aria-busy="true"
     >
-      <div className="card bg-transparent">
-        <section className="grid gap-4">
-          <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-5">
-            <div className="grid gap-2 lg:col-span-2">
-              <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
-              <div className="bg-accent animate-pulse h-10 w-full rounded-md" />
-            </div>
-            <div className="grid gap-2">
-              <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
-              <div className="bg-accent animate-pulse h-10 w-full rounded-md" />
-            </div>
-            <div className="grid gap-2">
-              <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
-              <div className="bg-accent animate-pulse h-10 w-full rounded-md" />
-            </div>
-            <div className="grid gap-2">
-              <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
-              <div className="bg-accent animate-pulse h-10 w-full rounded-md" />
-            </div>
+      <div className="grid gap-4">
+        <div className="grid gap-2">
+          <div className="bg-accent animate-pulse h-4 w-16 rounded-md" />
+          <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
+        </div>
+        <div className="grid gap-3 md:grid-cols-3">
+          <div className="grid gap-2">
+            <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
+            <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
+          </div>
+          <div className="grid gap-2">
+            <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
+            <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
           </div>
           <div className="grid gap-2">
             <div className="bg-accent animate-pulse h-4 w-16 rounded-md" />
-            <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
-              <div className="bg-accent animate-pulse h-6 w-full rounded-md" />
-              <div className="bg-accent animate-pulse h-6 w-full rounded-md" />
-              <div className="bg-accent animate-pulse h-6 w-full rounded-md" />
-              <div className="bg-accent animate-pulse h-6 w-full rounded-md" />
-            </div>
+            <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
           </div>
-        </section>
+        </div>
+        <div>
+          <div className="bg-accent animate-pulse h-8 w-36 rounded-md" />
+        </div>
       </div>
 
       <div className="hidden md:block">

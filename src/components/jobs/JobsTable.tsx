@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react/offline";
 
 import JobStatusBadge from "@/components/jobs/JobStatusBadge";
 import SaveButton from "@/components/jobs/SaveButton";
+import TableContainer from "@/components/common/TableContainer";
 import { formatDateShort, formatRelative } from "@/lib/dates";
 
 import {
@@ -25,7 +26,7 @@ const SHOW_TAGS = false;
 export default function JobsTable({ jobs }: Props) {
   return (
     <div className="hidden md:block">
-      <section className="overflow-x-auto">
+      <TableContainer>
         <table className="table table-fixed w-full min-w-[900px]">
           <colgroup>
             <col className="w-10" />
@@ -36,7 +37,7 @@ export default function JobsTable({ jobs }: Props) {
             <col className="w-28" />
             <col className="w-20" />
           </colgroup>
-          <thead>
+          <thead className="bg-muted">
             <tr>
               <th>
                 <span className="sr-only">Organismo</span>
@@ -56,7 +57,7 @@ export default function JobsTable({ jobs }: Props) {
               const displayStatus = getDisplayStatus(job);
 
               return (
-                <tr key={job.id} className="hover:bg-[var(--muted)]">
+                <tr key={job.id} className="hover:bg-muted/50">
                   <td>
                     <OrgLogo organization={job.organization} />
                   </td>
@@ -145,7 +146,7 @@ export default function JobsTable({ jobs }: Props) {
             })}
           </tbody>
         </table>
-      </section>
+      </TableContainer>
     </div>
   );
 }

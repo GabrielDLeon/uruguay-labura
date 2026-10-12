@@ -1,5 +1,5 @@
 import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
-import type { JobRecord } from "@/types/jobs";
+import type { JobFilters, JobRecord } from "@/types/jobs";
 
 export const MAX_TITLE_LENGTH = 110;
 export const ITEMS_PER_PAGE = 25;
@@ -122,4 +122,66 @@ export function isUpcoming(job: JobRecord): boolean {
   const opening = parseDate(job.openingDate);
 
   return Boolean(opening && startOfDay(opening) > startOfToday());
+}
+
+/** ¿El llamado matchea los criterios de una búsqueda guardada? */
+export function jobMatchesFilters(
+  job: JobRecord,
+  filters: JobFilters,
+): boolean {
+  if (filters.query) {
+    const text = normalize(filters.query);
+    const haystack = normalize(
+      [
+        job.title,
+        job.position,
+        job.callNumber,
+        job.organization,
+        job.subOrganization,
+        job.locality,
+        job.location,
+        job.taskType,
+        job.tags.join(" "),
+      ]
+        .filter(Boolean)
+        .join(" "),
+    );
+    if (!haystack.includes(text)) {
+      return false;
+    }
+  }
+
+  if (filters.organization && cleanOption(job.organization) !== filters.organization) {
+    return false;
+  }
+
+  if (filters.taskType && cleanOption(job.taskType) !== filters.taskType) {
+    return false;
+  }
+
+  if (filters.afro && !job.quotas.afrodescendientes) {
+    return false;
+  }
+
+  if (filters.discapacidad && !job.quotas.discapacidad) {
+    return false;
+  }
+
+  if (filters.trans && !job.quotas.trans) {
+    return false;
+  }
+
+  if (filters.victimas && !job.quotas.victimasDelitosViolentos) {
+    return false;
+  }
+
+  return true;
+}
+
+/** Filtra un dataset con los mismos criterios que usa el tablero de llamados. */
+export function filterJobs(
+  jobs: JobRecord[],
+  filters: JobFilters,
+): JobRecord[] {
+  return jobs.filter((job) => jobMatchesFilters(job, filters));
 }

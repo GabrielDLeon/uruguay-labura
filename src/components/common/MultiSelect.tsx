@@ -73,7 +73,14 @@ export default function MultiSelect({
         : `${values.length} seleccionados`;
 
   return (
-    <div id={id} className="select relative" ref={rootRef}>
+    // basecoat auto-inicializa `div.select`; este dropdown es custom, así que
+    // lo excluimos con `data-select-initialized` para evitar errores en consola.
+    <div
+      id={id}
+      className="select relative"
+      data-select-initialized="true"
+      ref={rootRef}
+    >
       <button
         type="button"
         className="flex w-full items-center justify-between gap-2"

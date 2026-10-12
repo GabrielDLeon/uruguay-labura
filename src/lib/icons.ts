@@ -1,9 +1,11 @@
 import bookOpenOutline from "@iconify-icons/mdi/book-open-outline.js";
+import bookmark from "@iconify-icons/mdi/bookmark.js";
 import bookmarkOutline from "@iconify-icons/mdi/bookmark-outline.js";
 import briefcaseOutline from "@iconify-icons/mdi/briefcase-outline.js";
 import calendarEnd from "@iconify-icons/mdi/calendar-end.js";
 import calendarStart from "@iconify-icons/mdi/calendar-start.js";
 import check from "@iconify-icons/mdi/check.js";
+import chevronDown from "@iconify-icons/mdi/chevron-down.js";
 import clockOutline from "@iconify-icons/mdi/clock-outline.js";
 import accountGroupOutline from "@iconify-icons/mdi/account-group-outline.js";
 import compassOutline from "@iconify-icons/mdi/compass-outline.js";
@@ -12,37 +14,43 @@ import domain from "@iconify-icons/mdi/domain.js";
 import emailOutline from "@iconify-icons/mdi/email-outline.js";
 import formatListBulleted from "@iconify-icons/mdi/format-list-bulleted.js";
 import handCoinOutline from "@iconify-icons/mdi/hand-coin-outline.js";
-import heart from "@iconify-icons/mdi/heart.js";
-import heartOutline from "@iconify-icons/mdi/heart-outline.js";
 import informationOutline from "@iconify-icons/mdi/information-outline.js";
 import magnify from "@iconify-icons/mdi/magnify.js";
 import mapMarkerOutline from "@iconify-icons/mdi/map-marker-outline.js";
 import openInNew from "@iconify-icons/mdi/open-in-new.js";
+import pencilOutline from "@iconify-icons/mdi/pencil-outline.js";
 import schoolOutline from "@iconify-icons/mdi/school-outline.js";
+import star from "@iconify-icons/mdi/star.js";
+import starOutline from "@iconify-icons/mdi/star-outline.js";
 import tagOutline from "@iconify-icons/mdi/tag-outline.js";
+import trashCanOutline from "@iconify-icons/mdi/trash-can-outline.js";
 
 export const appIcons = {
   book: bookOpenOutline,
-  bookmark: bookmarkOutline,
+  bookmark,
+  bookmarkOutline,
   check,
+  chevronDown,
   closingDate: calendarEnd,
   cost: creditCardOutline,
   department: mapMarkerOutline,
   email: emailOutline,
   quota: accountGroupOutline,
   externalLink: openInNew,
-  heart,
-  heartOutline,
   institution: domain,
   jobsCount: formatListBulleted,
   openingDate: calendarStart,
   page: compassOutline,
+  pencil: pencilOutline,
   school: schoolOutline,
   scholarship: handCoinOutline,
   search: magnify,
+  star,
+  starOutline,
   status: informationOutline,
   tag: tagOutline,
   taskType: briefcaseOutline,
+  trash: trashCanOutline,
   updatedAt: clockOutline,
 } as const;
 

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import type { ReactNode } from 'react'
 
 import DataTablePagination from '@/components/common/DataTablePagination'
+import TableContainer from '@/components/common/TableContainer'
 
 export interface DataTableColumn<T> {
   header: string
@@ -16,6 +17,8 @@ interface Props<T> {
   getRowId: (row: T) => string
   /** Sustantivo plural para el contador, ej: "carreras", "sedes". */
   noun: string
+  /** Forma singular, para “1 llamado” en vez de “1 llamados”. */
+  singularNoun?: string
   searchPlaceholder?: string
   emptyMessage?: string
   itemsPerPage?: number
@@ -35,6 +38,7 @@ export default function DataTable<T>({
   columns,
   getRowId,
   noun,
+  singularNoun,
   searchPlaceholder = 'Buscar...',
   emptyMessage = 'No se encontraron resultados.',
   itemsPerPage = DEFAULT_ITEMS_PER_PAGE,
@@ -69,7 +73,8 @@ export default function DataTable<T>({
     <section className="grid gap-4">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <p className="text-sm text-muted-foreground" role="status">
-          {rows.length} {noun}
+          {rows.length}{' '}
+          {rows.length === 1 && singularNoun ? singularNoun : noun}
           {query.trim() ? ` · ${filtered.length} resultados` : ''}
         </p>
         <div role="group" className="field w-full sm:max-w-xs">
@@ -88,28 +93,26 @@ export default function DataTable<T>({
         <p className="text-sm text-muted-foreground">{emptyMessage}</p>
       ) : (
         <>
-          <div className="overflow-hidden rounded-lg border border-border">
-            <div className="overflow-x-auto">
-              <table className="table w-full">
-                <thead className="bg-muted">
-                  <tr>
+          <TableContainer>
+            <table className="table w-full">
+              <thead className="bg-muted">
+                <tr>
+                  {columns.map((column) => (
+                    <th key={column.header}>{column.header}</th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {pageItems.map((row) => (
+                  <tr key={getRowId(row)} className="hover:bg-muted/50">
                     {columns.map((column) => (
-                      <th key={column.header}>{column.header}</th>
+                      <td key={column.header}>{column.render(row)}</td>
                     ))}
                   </tr>
-                </thead>
-                <tbody>
-                  {pageItems.map((row) => (
-                    <tr key={getRowId(row)} className="hover:bg-muted/50">
-                      {columns.map((column) => (
-                        <td key={column.header}>{column.render(row)}</td>
-                      ))}
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </div>
+                ))}
+              </tbody>
+            </table>
+          </TableContainer>
 
           <DataTablePagination
             page={currentPage}

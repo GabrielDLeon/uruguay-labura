@@ -65,105 +65,100 @@ export default function JobsFilters({
   };
 
   return (
-    <div className="card bg-transparent overflow-visible">
-      <section className="form grid gap-4">
+    <div className="form grid gap-4">
+      <div role="group" className="field">
+        <label className="inline-flex items-center gap-2" htmlFor="job-search">
+          <Icon
+            icon={appIcons.search}
+            width="16"
+            height="16"
+            className="shrink-0"
+            aria-hidden="true"
+          />
+          Buscar
+        </label>
+        <input
+          id="job-search"
+          type="text"
+          autoFocus
+          className="input"
+          value={query}
+          onChange={(event) => onQueryChange(event.target.value)}
+        />
+      </div>
+
+      <div className="grid gap-3 md:grid-cols-3">
         <div role="group" className="field">
           <label
             className="inline-flex items-center gap-2"
-            htmlFor="job-search"
+            htmlFor="job-organization"
           >
             <Icon
-              icon={appIcons.search}
+              icon={appIcons.department}
               width="16"
               height="16"
               className="shrink-0"
               aria-hidden="true"
             />
-            Buscar
+            Organismo
           </label>
-          <input
-            id="job-search"
-            type="text"
-            autoFocus
-            className="input"
-            value={query}
-            onChange={(event) => onQueryChange(event.target.value)}
+          <SearchableSelect
+            id="job-organization"
+            value={organization}
+            options={organizationOptions}
+            allLabel="Todos"
+            searchPlaceholder="Buscar organismo"
+            onChange={onOrganizationChange}
           />
         </div>
 
-        <div className="grid gap-3 md:grid-cols-3">
-          <div role="group" className="field">
-            <label
-              className="inline-flex items-center gap-2"
-              htmlFor="job-organization"
-            >
-              <Icon
-                icon={appIcons.department}
-                width="16"
-                height="16"
-                className="shrink-0"
-                aria-hidden="true"
-              />
-              Organismo
-            </label>
-            <SearchableSelect
-              id="job-organization"
-              value={organization}
-              options={organizationOptions}
-              allLabel="Todos"
-              searchPlaceholder="Buscar organismo"
-              onChange={onOrganizationChange}
+        <div role="group" className="field">
+          <label
+            className="inline-flex items-center gap-2"
+            htmlFor="job-task-type"
+          >
+            <Icon
+              icon={appIcons.taskType}
+              width="16"
+              height="16"
+              className="shrink-0"
+              aria-hidden="true"
             />
-          </div>
-
-          <div role="group" className="field">
-            <label
-              className="inline-flex items-center gap-2"
-              htmlFor="job-task-type"
-            >
-              <Icon
-                icon={appIcons.taskType}
-                width="16"
-                height="16"
-                className="shrink-0"
-                aria-hidden="true"
-              />
-              Tipo de tarea
-            </label>
-            <SearchableSelect
-              id="job-task-type"
-              value={taskType}
-              options={taskTypeOptions}
-              allLabel="Todos"
-              searchPlaceholder="Buscar tipo de tarea"
-              onChange={onTaskTypeChange}
-            />
-          </div>
-
-          <div role="group" className="field">
-            <label
-              className="inline-flex items-center gap-2"
-              htmlFor="job-quotas"
-            >
-              <Icon
-                icon={appIcons.quota}
-                width="16"
-                height="16"
-                className="shrink-0"
-                aria-hidden="true"
-              />
-              Cupos
-            </label>
-            <MultiSelect
-              id="job-quotas"
-              values={selectedQuotas}
-              options={QUOTA_OPTIONS}
-              allLabel="Todos"
-              onChange={handleQuotasChange}
-            />
-          </div>
+            Tipo de tarea
+          </label>
+          <SearchableSelect
+            id="job-task-type"
+            value={taskType}
+            options={taskTypeOptions}
+            allLabel="Todos"
+            searchPlaceholder="Buscar tipo de tarea"
+            onChange={onTaskTypeChange}
+          />
         </div>
-      </section>
+
+        <div role="group" className="field">
+          <label
+            className="inline-flex items-center gap-2"
+            htmlFor="job-quotas"
+          >
+            <Icon
+              icon={appIcons.quota}
+              width="16"
+              height="16"
+              className="shrink-0"
+              aria-hidden="true"
+            />
+            Cupos
+          </label>
+          <MultiSelect
+            id="job-quotas"
+            values={selectedQuotas}
+            options={QUOTA_OPTIONS}
+            allLabel="Todos"
+            onChange={handleQuotasChange}
+          />
+        </div>
+      </div>
     </div>
   );
 }
