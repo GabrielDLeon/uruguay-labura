@@ -72,12 +72,9 @@ export default function JobsBoard({
   const [selectedJobId, setSelectedJobId] = useState<string | null>(
     initialJobId || null,
   );
-  // The board is a static page, so build-time `Astro.url.searchParams` is
-  // empty: the deep link is read from the browser URL on mount instead.
   const [urlReady, setUrlReady] = useState(false);
-  // True when opening the drawer pushed a history entry from the list. Direct
-  // entry via a shared `?job=` link has no board entry to go back to.
   const pushedJobRef = useRef(false);
+  const listScrollRef = useRef<HTMLDivElement | null>(null);
 
   const handleQueryChange = (value: string) => {
     setQuery(value);
@@ -121,7 +118,7 @@ export default function JobsBoard({
   };
 
   useEffect(() => {
-    const mediaQuery = window.matchMedia("(min-width: 768px)");
+    const mediaQuery = window.matchMedia("(min-width: 1024px)");
 
     const applyMode = () => {
       setViewportMode(mediaQuery.matches ? "desktop" : "mobile");
@@ -200,9 +197,7 @@ export default function JobsBoard({
 
   const handleSelectJob = useCallback((jobId: string) => {
     setSelectedJobId(jobId);
-    // On small screens the detail is a drawer, so push a history entry with
-    // the deep link: the back button or gesture then closes it.
-    if (!window.matchMedia("(max-width: 767px)").matches) {
+    if (!window.matchMedia("(max-width: 1023px)").matches) {
       return;
     }
     const params = new URLSearchParams(window.location.search);
@@ -212,14 +207,11 @@ export default function JobsBoard({
   }, []);
 
   const closeDrawer = useCallback(() => {
-    // Opened from the list: the previous history entry is the board itself.
     if (pushedJobRef.current) {
       pushedJobRef.current = false;
       window.history.back();
       return;
     }
-    // Direct entry via a shared link: there is no board entry to go back to,
-    // so clean the job param in place and never leave the site.
     const params = new URLSearchParams(window.location.search);
     params.delete("job");
     const search = params.toString();
@@ -288,8 +280,21 @@ export default function JobsBoard({
     () => jobs.find((job) => job.id === selectedJobId) ?? null,
     [jobs, selectedJobId],
   );
+  useEffect(() => {
+    if (viewportMode !== "desktop" || !urlReady) return;
+    if (selectedJobId && filtered.some((job) => job.id === selectedJobId)) {
+      return;
+    }
+    const firstJob = filtered[startOffset];
+    if (firstJob) setSelectedJobId(firstJob.id);
+  }, [viewportMode, urlReady, selectedJobId, filtered, startOffset]);
+
   const isMobile = viewportMode === "mobile";
   const isDrawerOpen = isMobile && selectedJob !== null;
+
+  useEffect(() => {
+    listScrollRef.current?.scrollTo({ top: 0 });
+  }, [clampedPage]);
 
   useEffect(() => {
     if (!isDrawerOpen) return;
@@ -351,28 +356,32 @@ export default function JobsBoard({
           No se encontraron resultados.
         </p>
       ) : (
-        <div className="grid lg:h-[calc(100vh-6rem)] lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:overflow-hidden">
+        <div className="grid lg:grid-cols-[minmax(0,2fr)_minmax(0,3fr)] border-t">
           {!isMobile || !selectedJob ? (
-            <div className="flex min-w-0 flex-col lg:overflow-y-auto">
-              {visibleJobs.map((job) => (
-                <JobBlock
-                  key={job.id}
-                  job={job}
-                  selected={job.id === selectedJobId}
-                  onSelect={handleSelectJob}
-                />
-              ))}
+            <div className="flex min-w-0 flex-col lg:sticky lg:top-16 lg:max-h-[calc(100vh-5rem)] lg:self-start">
+              <div
+                ref={listScrollRef}
+                className="flex min-w-0 flex-col lg:min-h-0 lg:overflow-y-auto"
+              >
+                {visibleJobs.map((job) => (
+                  <JobBlock
+                    key={job.id}
+                    job={job}
+                    selected={job.id === selectedJobId}
+                    onSelect={handleSelectJob}
+                  />
+                ))}
+              </div>
 
               {filtered.length > ITEMS_PER_PAGE ? (
-                <div
-                  className={`${BLOCK_BASE_CLASS} shrink-0 border-b border-border`}
-                >
+                <div className={`${BLOCK_BASE_CLASS} shrink-0 border-t`}>
                   <DataTablePagination
                     page={clampedPage}
                     totalPages={totalPages}
                     total={filtered.length}
                     itemsPerPage={ITEMS_PER_PAGE}
                     onPageChange={setPage}
+                    showRange={false}
                   />
                 </div>
               ) : null}
@@ -380,7 +389,7 @@ export default function JobsBoard({
           ) : null}
 
           {!isMobile ? (
-            <div className="hidden min-w-0 lg:block lg:overflow-y-auto lg:border-l lg:border-border">
+            <div className="hidden min-w-0 lg:block lg:border-l lg:border-border">
               {selectedJob ? (
                 <JobDetail job={selectedJob} />
               ) : (
