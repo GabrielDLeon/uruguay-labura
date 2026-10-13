@@ -20,7 +20,7 @@
 - **Formatting**: Prettier (`.prettierrc`): semicolons, double quotes, printWidth 80, trailing commas. Never hand-format; run `pnpm format`.
 - **Components**: Astro components with frontmatter for logic and TypeScript interfaces for props
 - **Collections**: Define content collections in content.config.ts
-- **Icons**: Import from `astro-icon/components` (e.g., `import { Icon } from "astro-icon/components"`), use MDI icons (e.g., `mdi:menu`)
+- **Icons**: Import from `astro-icon/components` (e.g., `import { Icon } from "astro-icon/components"`), use Keyline Icons, base fill style (e.g., `keyline-icons:menu-fill`); MDI (`mdi:*`) only for brands/icons missing from Keyline (e.g., `mdi:github`). React islands use `@iconify/react/offline` with data from `@iconify-icons/keyline-icons/<name>` (no `.js` suffix) via `appIcons` in `src/lib/icons.ts`
 - **Styling**: Tailwind CSS + Basecoat CSS (see `node_modules/basecoat-css/dist/basecoat.css` for component styles)
 - **Config**: YAML files for site configuration
 
