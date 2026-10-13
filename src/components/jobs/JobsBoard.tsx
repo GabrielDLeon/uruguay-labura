@@ -4,10 +4,10 @@ import "@/styles/global.css";
 
 import type { FilterMenuOption } from "@/components/common/FilterMenu";
 import DataTablePagination from "@/components/common/DataTablePagination";
+import JobBlock from "@/components/jobs/JobBlock";
+import JobDetail from "@/components/jobs/JobDetail";
 import JobsFilters from "@/components/jobs/JobsFilters";
-import JobsList from "@/components/jobs/JobsList";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
-import JobsTable from "@/components/jobs/JobsTable";
 import {
   ITEMS_PER_PAGE,
   cleanOption,
@@ -33,6 +33,7 @@ interface JobsBoardProps {
   initialTrans?: boolean;
   initialVictimas?: boolean;
   initialPage?: number;
+  initialJobId?: string;
 }
 
 export default function JobsBoard({
@@ -44,6 +45,7 @@ export default function JobsBoard({
   initialTrans = false,
   initialVictimas = false,
   initialPage = 1,
+  initialJobId = "",
 }: JobsBoardProps) {
   const { jobs, loadError, isLoading, retry } = useJobs();
 
@@ -59,6 +61,9 @@ export default function JobsBoard({
   >("both");
 
   const [page, setPage] = useState(initialPage);
+  const [selectedJobId, setSelectedJobId] = useState<string | null>(
+    initialJobId || null,
+  );
 
   const handleQueryChange = (value: string) => {
     setQuery(value);
@@ -126,6 +131,7 @@ export default function JobsBoard({
     if (trans) params.set("trans", "1");
     if (victimas) params.set("vict", "1");
     if (page > 1) params.set("page", String(page));
+    if (selectedJobId) params.set("job", selectedJobId);
 
     const search = params.toString();
     const newURL = search ? `?${search}` : window.location.pathname;
@@ -139,6 +145,7 @@ export default function JobsBoard({
     trans,
     victimas,
     page,
+    selectedJobId,
   ]);
 
   useEffect(() => {
@@ -152,6 +159,7 @@ export default function JobsBoard({
       setTrans(params.get("trans") === "1");
       setVictimas(params.get("vict") === "1");
       setPage(Number(params.get("page") ?? "1"));
+      setSelectedJobId(params.get("job") || null);
     };
 
     window.addEventListener("popstate", onPopState);
@@ -211,6 +219,12 @@ export default function JobsBoard({
   const visibleJobs = filtered.slice(startOffset, startOffset + ITEMS_PER_PAGE);
   const hasNoResults = filtered.length === 0;
 
+  const selectedJob = useMemo(
+    () => jobs.find((job) => job.id === selectedJobId) ?? null,
+    [jobs, selectedJobId],
+  );
+  const isMobile = viewportMode === "mobile";
+
   if (isLoading) {
     return <JobsSkeleton />;
   }
@@ -259,25 +273,52 @@ export default function JobsBoard({
         <p className="text-muted-foreground text-sm">
           No se encontraron resultados.
         </p>
-      ) : null}
+      ) : (
+        <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:items-start">
+          {!isMobile || !selectedJob ? (
+            <div className="flex flex-col gap-4">
+              {visibleJobs.map((job) => (
+                <JobBlock
+                  key={job.id}
+                  job={job}
+                  selected={job.id === selectedJobId}
+                  onSelect={setSelectedJobId}
+                />
+              ))}
 
-      {!hasNoResults && viewportMode !== "mobile" ? (
-        <JobsTable jobs={visibleJobs} />
-      ) : null}
+              {filtered.length > ITEMS_PER_PAGE ? (
+                <DataTablePagination
+                  page={clampedPage}
+                  totalPages={totalPages}
+                  total={filtered.length}
+                  itemsPerPage={ITEMS_PER_PAGE}
+                  onPageChange={setPage}
+                />
+              ) : null}
+            </div>
+          ) : null}
 
-      {!hasNoResults && viewportMode !== "desktop" ? (
-        <JobsList jobs={visibleJobs} />
-      ) : null}
+          {!isMobile ? (
+            <div className="lg:sticky lg:top-6 lg:max-h-[calc(100vh-3rem)] lg:overflow-y-auto">
+              {selectedJob ? (
+                <JobDetail job={selectedJob} />
+              ) : (
+                <p className="card text-muted-foreground rounded-lg border p-6 text-sm">
+                  Elegí un llamado de la lista para ver el detalle completo sin
+                  salir del sitio.
+                </p>
+              )}
+            </div>
+          ) : null}
 
-      {!hasNoResults && filtered.length > ITEMS_PER_PAGE ? (
-        <DataTablePagination
-          page={clampedPage}
-          totalPages={totalPages}
-          total={filtered.length}
-          itemsPerPage={ITEMS_PER_PAGE}
-          onPageChange={setPage}
-        />
-      ) : null}
+          {isMobile && selectedJob ? (
+            <JobDetail
+              job={selectedJob}
+              onBack={() => setSelectedJobId(null)}
+            />
+          ) : null}
+        </div>
+      )}
     </section>
   );
 }

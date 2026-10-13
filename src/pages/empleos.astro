@@ -54,6 +54,7 @@ import { formatDateShort } from "@/lib/dates";
         1,
         Number(Astro.url.searchParams.get("page") ?? "1"),
       )}
+      initialJobId={Astro.url.searchParams.get("job") ?? ""}
     />
   </Block>
 </Layout>

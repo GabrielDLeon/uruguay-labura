@@ -55,6 +55,8 @@ export const jobSchema = z.object({
   title: z.string().min(1),
   position: z.string().nullable(),
   location: z.string().nullable(),
+  modalidad: z.array(z.string()).default([]),
+  grado: z.string().nullable(),
   organization: z.string().nullable(),
   subOrganization: z.string().nullable(),
   department: z.string().nullable(),

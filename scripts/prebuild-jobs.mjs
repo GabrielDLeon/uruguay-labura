@@ -239,14 +239,36 @@ export async function fetchAndProcessJobs(sourceUrl) {
     );
   }
 
+  async function writeDetailsDataset(dataset) {
+    const detailsPath = path.join(
+      rootDir,
+      "src/data/job-details.generated.json",
+    );
+    await mkdir(path.dirname(detailsPath), { recursive: true });
+    await writeFile(
+      detailsPath,
+      `${JSON.stringify(dataset, null, 2)}\n`,
+      "utf8",
+    );
+  }
+
   const sourcePayload = await readSourceData(sourceUrl);
   // Day precision: keeps the generated dataset byte-identical between builds
   // on the same day, so the module hash of jobs.generated.json doesn't change.
   const nowIso = new Date().toISOString().slice(0, 10);
   const rawJobs = flattenRawJobs(sourcePayload);
-  const jobs = sortJobsByClosingDate(
-    rawJobs.map((rawJob) => normalizeJob(rawJob, nowIso)),
+  const jobsWithDetails = sortJobsByClosingDate(
+    rawJobs.map((rawJob) => ({
+      ...normalizeJob(rawJob, nowIso),
+      detailMarkdown: toNullableString(rawJob.detail_markdown),
+    })),
   );
+  // Details are kept out of jobs.generated.json so the browser only downloads
+  // the detail of the job the visitor opens, from /empleos/<id>.json.
+  const details = jobsWithDetails
+    .filter((job) => job.detailMarkdown)
+    .map((job) => ({ id: job.id, markdown: job.detailMarkdown }));
+  const jobs = jobsWithDetails.map(({ detailMarkdown, ...job }) => job);
 
   const dashboard = computeDashboard(jobs, nowIso);
 
@@ -259,9 +281,17 @@ export async function fetchAndProcessJobs(sourceUrl) {
   };
 
   await writeDataset(normalized);
+  await writeDetailsDataset({
+    scrapedAt: nowIso,
+    total: details.length,
+    details,
+  });
 
   console.log(
     `[prebuild-jobs] Dataset ready at src/data/jobs.generated.json with ${jobs.length} jobs`,
+  );
+  console.log(
+    `[prebuild-jobs] Job details ready at src/data/job-details.generated.json with ${details.length} entries`,
   );
 }
 
