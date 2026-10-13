@@ -1,4 +1,5 @@
 import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
+import { getOrganizationSearchText } from "@/lib/organizations";
 import type { JobFilters, JobRecord } from "@/types/jobs";
 
 export const MAX_TITLE_LENGTH = 110;
@@ -136,7 +137,7 @@ export function jobMatchesFilters(
         job.title,
         job.position,
         job.callNumber,
-        job.organization,
+        getOrganizationSearchText(job.organization ?? ""),
         job.subOrganization,
         job.locality,
         job.location,
