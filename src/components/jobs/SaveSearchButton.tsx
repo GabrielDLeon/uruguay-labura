@@ -3,7 +3,11 @@ import { Icon } from "@iconify/react/offline";
 
 import { filterJobs } from "@/components/jobs/jobs";
 import { appIcons } from "@/lib/icons";
-import { createSavedSearch, defaultSearchName } from "@/lib/saved-searches";
+import {
+  createSavedSearch,
+  defaultSearchName,
+  hasActiveFilters,
+} from "@/lib/saved-searches";
 import type { JobFilters, JobRecord } from "@/types/jobs";
 
 interface Props {
@@ -25,6 +29,11 @@ export default function SaveSearchButton({ filters, jobs }: Props) {
   const handleSubmit = (event: { preventDefault: () => void }) => {
     event.preventDefault();
 
+    if (!hasActiveFilters(filters)) {
+      setOpen(false);
+      return;
+    }
+
     const matchedIds = filterJobs(jobs, filters).map((job) => job.id);
     createSavedSearch(name, filters, matchedIds);
 
@@ -37,7 +46,7 @@ export default function SaveSearchButton({ filters, jobs }: Props) {
     <div className="flex flex-wrap items-center gap-2">
       {open ? (
         <form
-          className="flex w-full flex-wrap items-center gap-2 sm:w-auto"
+          className="flex flex-wrap items-center gap-2"
           onSubmit={handleSubmit}
         >
           <label htmlFor={inputId} className="sr-only">
@@ -46,7 +55,7 @@ export default function SaveSearchButton({ filters, jobs }: Props) {
           <input
             id={inputId}
             type="text"
-            className="input w-full sm:w-64"
+            className="input w-56"
             value={name}
             onChange={(event) => setName(event.target.value)}
             placeholder="Nombre de la búsqueda"
@@ -68,19 +77,19 @@ export default function SaveSearchButton({ filters, jobs }: Props) {
       ) : (
         <button
           type="button"
-          className="btn"
-          data-size="sm"
-          data-variant="outline"
+          className="border-input text-foreground hover:bg-muted inline-flex size-8 shrink-0 items-center justify-center rounded-md border transition-colors"
+          data-tooltip="Guardar búsqueda"
+          data-side="bottom"
+          aria-label="Guardar búsqueda"
           onClick={handleOpen}
         >
           <Icon
-            icon={saved ? appIcons.check : appIcons.starOutline}
+            icon={saved ? appIcons.bookmark : appIcons.bookmarkOutline}
             width="16"
             height="16"
             className="shrink-0"
             aria-hidden="true"
           />
-          {saved ? "Búsqueda guardada" : "Guardar búsqueda"}
         </button>
       )}
     </div>

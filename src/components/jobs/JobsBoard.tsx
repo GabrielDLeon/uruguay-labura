@@ -2,7 +2,7 @@ import { useDeferredValue, useEffect, useMemo, useState } from "react";
 
 import "@/styles/global.css";
 
-import type { SearchableSelectOption } from "@/components/common/SearchableSelect";
+import type { FilterMenuOption } from "@/components/common/FilterMenu";
 import DataTablePagination from "@/components/common/DataTablePagination";
 import JobsFilters from "@/components/jobs/JobsFilters";
 import JobsList from "@/components/jobs/JobsList";
@@ -22,6 +22,7 @@ import {
   getOrganizationLogo,
   getOrganizationSearchText,
 } from "@/lib/organizations";
+import { hasActiveFilters } from "@/lib/saved-searches";
 
 interface JobsBoardProps {
   initialQuery?: string;
@@ -157,7 +158,7 @@ export default function JobsBoard({
     return () => window.removeEventListener("popstate", onPopState);
   }, []);
 
-  const organizationOptions = useMemo<SearchableSelectOption[]>(() => {
+  const organizationOptions = useMemo<FilterMenuOption[]>(() => {
     return [...new Set(jobs.map((job) => cleanOption(job.organization)))]
       .sort((a, b) => a.localeCompare(b, "es"))
       .map((organizationName) => {
@@ -174,7 +175,7 @@ export default function JobsBoard({
       });
   }, [jobs]);
 
-  const taskTypeOptions = useMemo<SearchableSelectOption[]>(() => {
+  const taskTypeOptions = useMemo<FilterMenuOption[]>(() => {
     return [...new Set(jobs.map((job) => cleanOption(job.taskType)))]
       .sort((a, b) => a.localeCompare(b, "es"))
       .map((option) => ({
@@ -231,30 +232,28 @@ export default function JobsBoard({
 
   return (
     <section className="flex flex-col gap-6">
-      <div className="-mx-4 border-b border-border px-4 pb-6 sm:-mx-6 sm:px-6">
-        <JobsFilters
-          query={query}
-          organization={organization}
-          taskType={taskType}
-          afro={afro}
-          discapacidad={discapacidad}
-          trans={trans}
-          victimas={victimas}
-          organizationOptions={organizationOptions}
-          taskTypeOptions={taskTypeOptions}
-          onQueryChange={handleQueryChange}
-          onOrganizationChange={handleOrganizationChange}
-          onTaskTypeChange={handleTaskTypeChange}
-          onAfroChange={handleAfroChange}
-          onDiscapacidadChange={handleDiscapacidadChange}
-          onTransChange={handleTransChange}
-          onVictimasChange={handleVictimasChange}
-        />
-
-        <div className="mt-4 flex flex-wrap items-center gap-2">
+      <JobsFilters
+        query={query}
+        organization={organization}
+        taskType={taskType}
+        afro={afro}
+        discapacidad={discapacidad}
+        trans={trans}
+        victimas={victimas}
+        organizationOptions={organizationOptions}
+        taskTypeOptions={taskTypeOptions}
+        onQueryChange={handleQueryChange}
+        onOrganizationChange={handleOrganizationChange}
+        onTaskTypeChange={handleTaskTypeChange}
+        onAfroChange={handleAfroChange}
+        onDiscapacidadChange={handleDiscapacidadChange}
+        onTransChange={handleTransChange}
+        onVictimasChange={handleVictimasChange}
+      >
+        {hasActiveFilters(criteria) ? (
           <SaveSearchButton filters={criteria} jobs={jobs} />
-        </div>
-      </div>
+        ) : null}
+      </JobsFilters>
 
       {hasNoResults ? (
         <p className="text-muted-foreground text-sm">

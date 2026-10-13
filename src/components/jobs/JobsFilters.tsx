@@ -1,12 +1,10 @@
-import { Icon } from "@iconify/react/offline";
+import type { ReactNode } from "react";
 
-import MultiSelect from "@/components/common/MultiSelect";
-import SearchableSelect, {
-  type SearchableSelectOption,
-} from "@/components/common/SearchableSelect";
-import { appIcons } from "@/lib/icons";
+import FilterMenu, {
+  type FilterMenuOption,
+} from "@/components/common/FilterMenu";
 
-const QUOTA_OPTIONS = [
+const QUOTA_OPTIONS: FilterMenuOption[] = [
   { value: "afro", label: "Afrodescendientes" },
   { value: "discapacidad", label: "Discapacidad" },
   { value: "trans", label: "Personas trans" },
@@ -21,8 +19,8 @@ interface Props {
   discapacidad: boolean;
   trans: boolean;
   victimas: boolean;
-  organizationOptions: SearchableSelectOption[];
-  taskTypeOptions: SearchableSelectOption[];
+  organizationOptions: FilterMenuOption[];
+  taskTypeOptions: FilterMenuOption[];
   onQueryChange: (value: string) => void;
   onOrganizationChange: (value: string) => void;
   onTaskTypeChange: (value: string) => void;
@@ -30,6 +28,8 @@ interface Props {
   onDiscapacidadChange: (value: boolean) => void;
   onTransChange: (value: boolean) => void;
   onVictimasChange: (value: boolean) => void;
+  /** Extra actions rendered at the end of the filter row. */
+  children?: ReactNode;
 }
 
 export default function JobsFilters({
@@ -49,6 +49,7 @@ export default function JobsFilters({
   onDiscapacidadChange,
   onTransChange,
   onVictimasChange,
+  children,
 }: Props) {
   const selectedQuotas = [
     afro ? "afro" : null,
@@ -67,97 +68,48 @@ export default function JobsFilters({
   return (
     <div className="form grid gap-4">
       <div role="group" className="field">
-        <label className="inline-flex items-center gap-2" htmlFor="job-search">
-          <Icon
-            icon={appIcons.search}
-            width="16"
-            height="16"
-            className="shrink-0"
-            aria-hidden="true"
-          />
-          Buscar
-        </label>
         <input
           id="job-search"
           type="text"
           autoFocus
           className="input"
+          placeholder="Buscar"
+          aria-label="Buscar llamado"
           value={query}
           onChange={(event) => onQueryChange(event.target.value)}
         />
       </div>
 
-      <div className="grid gap-3 md:grid-cols-3">
-        <div role="group" className="field">
-          <label
-            className="inline-flex items-center gap-2"
-            htmlFor="job-organization"
-          >
-            <Icon
-              icon={appIcons.department}
-              width="16"
-              height="16"
-              className="shrink-0"
-              aria-hidden="true"
-            />
-            Organismo
-          </label>
-          <SearchableSelect
-            id="job-organization"
-            value={organization}
-            options={organizationOptions}
-            allLabel="Todos"
-            searchPlaceholder="Buscar organismo"
-            onChange={onOrganizationChange}
-          />
-        </div>
-
-        <div role="group" className="field">
-          <label
-            className="inline-flex items-center gap-2"
-            htmlFor="job-task-type"
-          >
-            <Icon
-              icon={appIcons.taskType}
-              width="16"
-              height="16"
-              className="shrink-0"
-              aria-hidden="true"
-            />
-            Tipo de tarea
-          </label>
-          <SearchableSelect
-            id="job-task-type"
-            value={taskType}
-            options={taskTypeOptions}
-            allLabel="Todos"
-            searchPlaceholder="Buscar tipo de tarea"
-            onChange={onTaskTypeChange}
-          />
-        </div>
-
-        <div role="group" className="field">
-          <label
-            className="inline-flex items-center gap-2"
-            htmlFor="job-quotas"
-          >
-            <Icon
-              icon={appIcons.quota}
-              width="16"
-              height="16"
-              className="shrink-0"
-              aria-hidden="true"
-            />
-            Cupos
-          </label>
-          <MultiSelect
-            id="job-quotas"
-            values={selectedQuotas}
-            options={QUOTA_OPTIONS}
-            allLabel="Todos"
-            onChange={handleQuotasChange}
-          />
-        </div>
+      <div className="flex flex-wrap items-center gap-2">
+        <FilterMenu
+          id="job-organization"
+          label="Organismo"
+          values={organization ? [organization] : []}
+          options={organizationOptions}
+          searchable
+          searchPlaceholder="Buscar organismo"
+          onChange={(nextValues) => onOrganizationChange(nextValues[0] ?? "")}
+        />
+        <FilterMenu
+          id="job-task-type"
+          label="Tipo de tarea"
+          values={taskType ? [taskType] : []}
+          options={taskTypeOptions}
+          onChange={(nextValues) => onTaskTypeChange(nextValues[0] ?? "")}
+        />
+        <FilterMenu
+          id="job-quotas"
+          label="Cupos"
+          values={selectedQuotas}
+          options={QUOTA_OPTIONS}
+          multiple
+          onChange={handleQuotasChange}
+        />
+        {children ? (
+          <div className="ml-auto flex flex-wrap items-center gap-2">
+            {children}
+          </div>
+        ) : null}
       </div>
     </div>
   );

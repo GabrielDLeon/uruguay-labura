@@ -10,19 +10,10 @@ export default function JobsSkeleton() {
           <div className="bg-accent animate-pulse h-4 w-16 rounded-md" />
           <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
         </div>
-        <div className="grid gap-3 md:grid-cols-3">
-          <div className="grid gap-2">
-            <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
-            <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
-          </div>
-          <div className="grid gap-2">
-            <div className="bg-accent animate-pulse h-4 w-24 rounded-md" />
-            <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
-          </div>
-          <div className="grid gap-2">
-            <div className="bg-accent animate-pulse h-4 w-16 rounded-md" />
-            <div className="bg-accent animate-pulse h-9 w-full rounded-md" />
-          </div>
+        <div className="flex flex-wrap items-center gap-2">
+          <div className="bg-accent animate-pulse h-8 w-28 rounded-md" />
+          <div className="bg-accent animate-pulse h-8 w-32 rounded-md" />
+          <div className="bg-accent animate-pulse h-8 w-20 rounded-md" />
         </div>
         <div>
           <div className="bg-accent animate-pulse h-8 w-36 rounded-md" />

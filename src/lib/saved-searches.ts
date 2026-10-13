@@ -162,6 +162,11 @@ export function criteriaChips(criteria: JobFilters): CriteriaChip[] {
   return chips;
 }
 
+/** True when the criteria narrow the listing, i.e. there is something to save. */
+export function hasActiveFilters(criteria: JobFilters): boolean {
+  return describeCriteria(criteria).length > 0;
+}
+
 /** Nombre por defecto cuando el usuario no escribe uno. */
 export function defaultSearchName(criteria: JobFilters): string {
   const labels = describeCriteria(criteria);
