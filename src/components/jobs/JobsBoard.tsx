@@ -3,6 +3,7 @@ import {
   useDeferredValue,
   useEffect,
   useMemo,
+  useRef,
   useState,
 } from "react";
 
@@ -74,6 +75,9 @@ export default function JobsBoard({
   // The board is a static page, so build-time `Astro.url.searchParams` is
   // empty: the deep link is read from the browser URL on mount instead.
   const [urlReady, setUrlReady] = useState(false);
+  // True when opening the drawer pushed a history entry from the list. Direct
+  // entry via a shared `?job=` link has no board entry to go back to.
+  const pushedJobRef = useRef(false);
 
   const handleQueryChange = (value: string) => {
     setQuery(value);
@@ -177,6 +181,7 @@ export default function JobsBoard({
 
   useEffect(() => {
     const onPopState = () => {
+      pushedJobRef.current = false;
       const params = new URLSearchParams(window.location.search);
       setQuery(params.get("q") ?? "");
       setOrganization(params.get("org") ?? "");
@@ -202,15 +207,27 @@ export default function JobsBoard({
     }
     const params = new URLSearchParams(window.location.search);
     params.set("job", jobId);
+    pushedJobRef.current = true;
     window.history.pushState(null, "", `?${params.toString()}`);
   }, []);
 
   const closeDrawer = useCallback(() => {
-    const params = new URLSearchParams(window.location.search);
-    if (params.get("job")) {
+    // Opened from the list: the previous history entry is the board itself.
+    if (pushedJobRef.current) {
+      pushedJobRef.current = false;
       window.history.back();
       return;
     }
+    // Direct entry via a shared link: there is no board entry to go back to,
+    // so clean the job param in place and never leave the site.
+    const params = new URLSearchParams(window.location.search);
+    params.delete("job");
+    const search = params.toString();
+    window.history.replaceState(
+      null,
+      "",
+      search ? `/empleos?${search}` : "/empleos",
+    );
     setSelectedJobId(null);
   }, []);
 
