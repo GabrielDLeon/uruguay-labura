@@ -66,11 +66,12 @@ export function loadJobsDataset(force = false): Promise<JobsDatasetPayload> {
   return request;
 }
 
-/** Solo llamados vigentes: sin cierre o con cierre hoy o después. */
+/** Solo llamados vigentes: no cerrados y sin cierre vencido. */
 export function filterActiveJobs(jobs: JobRecord[]): JobRecord[] {
   const today = startOfToday();
 
   return jobs.filter((job) => {
+    if (job.status === "cerrado") return false;
     if (!job.closingDate) return true;
     const closing = parseDate(job.closingDate);
     if (!closing) return true;

@@ -1,4 +1,10 @@
-import { useDeferredValue, useEffect, useMemo, useState } from "react";
+import {
+  useCallback,
+  useDeferredValue,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
 
 import "@/styles/global.css";
 
@@ -65,6 +71,9 @@ export default function JobsBoard({
   const [selectedJobId, setSelectedJobId] = useState<string | null>(
     initialJobId || null,
   );
+  // The board is a static page, so build-time `Astro.url.searchParams` is
+  // empty: the deep link is read from the browser URL on mount instead.
+  const [urlReady, setUrlReady] = useState(false);
 
   const handleQueryChange = (value: string) => {
     setQuery(value);
@@ -123,6 +132,22 @@ export default function JobsBoard({
   }, []);
 
   useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    setQuery(params.get("q") ?? "");
+    setOrganization(params.get("org") ?? "");
+    setTaskType(params.get("type") ?? "");
+    setAfro(params.get("afro") === "1");
+    setDiscapacidad(params.get("disc") === "1");
+    setTrans(params.get("trans") === "1");
+    setVictimas(params.get("vict") === "1");
+    setPage(Number(params.get("page") ?? "1"));
+    setSelectedJobId(params.get("job") || null);
+    setUrlReady(true);
+  }, []);
+
+  useEffect(() => {
+    if (!urlReady) return;
+
     const params = new URLSearchParams();
     if (query) params.set("q", query);
     if (organization) params.set("org", organization);
@@ -147,6 +172,7 @@ export default function JobsBoard({
     victimas,
     page,
     selectedJobId,
+    urlReady,
   ]);
 
   useEffect(() => {
@@ -165,6 +191,27 @@ export default function JobsBoard({
 
     window.addEventListener("popstate", onPopState);
     return () => window.removeEventListener("popstate", onPopState);
+  }, []);
+
+  const handleSelectJob = useCallback((jobId: string) => {
+    setSelectedJobId(jobId);
+    // On small screens the detail is a drawer, so push a history entry with
+    // the deep link: the back button or gesture then closes it.
+    if (!window.matchMedia("(max-width: 767px)").matches) {
+      return;
+    }
+    const params = new URLSearchParams(window.location.search);
+    params.set("job", jobId);
+    window.history.pushState(null, "", `?${params.toString()}`);
+  }, []);
+
+  const closeDrawer = useCallback(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("job")) {
+      window.history.back();
+      return;
+    }
+    setSelectedJobId(null);
   }, []);
 
   const organizationOptions = useMemo<FilterMenuOption[]>(() => {
@@ -225,6 +272,16 @@ export default function JobsBoard({
     [jobs, selectedJobId],
   );
   const isMobile = viewportMode === "mobile";
+  const isDrawerOpen = isMobile && selectedJob !== null;
+
+  useEffect(() => {
+    if (!isDrawerOpen) return;
+    const previous = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = previous;
+    };
+  }, [isDrawerOpen]);
 
   if (isLoading) {
     return <JobsSkeleton />;
@@ -285,7 +342,7 @@ export default function JobsBoard({
                   key={job.id}
                   job={job}
                   selected={job.id === selectedJobId}
-                  onSelect={setSelectedJobId}
+                  onSelect={handleSelectJob}
                 />
               ))}
 
@@ -304,7 +361,7 @@ export default function JobsBoard({
           ) : null}
 
           {!isMobile ? (
-            <div className="min-w-0 lg:overflow-y-auto lg:border-l lg:border-border">
+            <div className="hidden min-w-0 lg:block lg:overflow-y-auto lg:border-l lg:border-border">
               {selectedJob ? (
                 <JobDetail job={selectedJob} />
               ) : (
@@ -317,15 +374,19 @@ export default function JobsBoard({
               )}
             </div>
           ) : null}
-
-          {isMobile && selectedJob ? (
-            <JobDetail
-              job={selectedJob}
-              onBack={() => setSelectedJobId(null)}
-            />
-          ) : null}
         </div>
       )}
+
+      {isDrawerOpen && selectedJob ? (
+        <div
+          role="dialog"
+          aria-modal="true"
+          aria-label={`Detalle del llamado ${selectedJob.title}`}
+          className="bg-background fixed inset-0 z-50 overflow-x-hidden overflow-y-auto lg:hidden"
+        >
+          <JobDetail job={selectedJob} onBack={closeDrawer} />
+        </div>
+      ) : null}
     </section>
   );
 }

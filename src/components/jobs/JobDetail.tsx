@@ -13,6 +13,7 @@ import {
   formatDateShort,
   formatRelative,
 } from "@/lib/dates";
+import { parseJobDetailSections } from "@/lib/job-detail-markdown";
 import { loadJobDetail } from "@/lib/jobs-details";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
@@ -27,38 +28,8 @@ type DetailState =
   | { status: "ready"; markdown: string | null }
   | { status: "error"; message: string };
 
-interface DetailSection {
-  heading: string | null;
-  body: string;
-}
-
-function parseDetailSections(markdown: string): DetailSection[] {
-  const sections: DetailSection[] = [];
-  let current: DetailSection = { heading: null, body: "" };
-
-  for (const line of markdown.split("\n")) {
-    if (line.startsWith("## ")) {
-      if (current.heading || current.body.trim()) {
-        sections.push(current);
-      }
-      current = { heading: line.slice(3).trim(), body: "" };
-      continue;
-    }
-
-    current.body += `${current.body ? "\n" : ""}${line}`;
-  }
-
-  if (current.heading || current.body.trim()) {
-    sections.push(current);
-  }
-
-  return sections
-    .map((section) => ({ ...section, body: section.body.trim() }))
-    .filter((section) => section.heading || section.body);
-}
-
 function DetailSections({ markdown }: { markdown: string }) {
-  const sections = useMemo(() => parseDetailSections(markdown), [markdown]);
+  const sections = useMemo(() => parseJobDetailSections(markdown), [markdown]);
 
   return (
     <div className="flex flex-col gap-5">

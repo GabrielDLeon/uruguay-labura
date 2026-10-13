@@ -264,9 +264,15 @@ export async function fetchAndProcessJobs(sourceUrl) {
     })),
   );
   // Details are kept out of jobs.generated.json so the browser only downloads
-  // the detail of the job the visitor opens, from /empleos/<id>.json.
+  // the detail of the job the visitor opens, from /empleos/<id>.json. Closed
+  // jobs are dropped here so their detail page and JSON stop existing.
   const details = jobsWithDetails
-    .filter((job) => job.detailMarkdown)
+    .filter(
+      (job) =>
+        job.detailMarkdown &&
+        job.status !== "cerrado" &&
+        (!job.closingDate || job.closingDate >= nowIso),
+    )
     .map((job) => ({ id: job.id, markdown: job.detailMarkdown }));
   const jobs = jobsWithDetails.map(({ detailMarkdown, ...job }) => job);
 
