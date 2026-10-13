@@ -364,7 +364,9 @@ export default function JobsBoard({
               ))}
 
               {filtered.length > ITEMS_PER_PAGE ? (
-                <div className={`${BLOCK_BASE_CLASS} border-b border-border`}>
+                <div
+                  className={`${BLOCK_BASE_CLASS} shrink-0 border-b border-border`}
+                >
                   <DataTablePagination
                     page={clampedPage}
                     totalPages={totalPages}

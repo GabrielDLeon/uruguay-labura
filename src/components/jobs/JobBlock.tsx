@@ -31,8 +31,8 @@ export default function JobBlock({ job, selected, onSelect }: Props) {
           onSelect(job.id);
         }
       }}
-      className={`${BLOCK_BASE_CLASS} w-full min-w-0 cursor-pointer overflow-hidden border-b border-border text-left transition-colors hover:bg-muted/40 ${
-        selected ? "bg-muted" : ""
+      className={`${BLOCK_BASE_CLASS} w-full min-w-0 shrink-0 cursor-pointer border-b border-border text-left transition-colors hover:bg-muted/40 ${
+        selected ? "bg-muted ring-1 ring-primary ring-inset" : ""
       }`}
     >
       <header className="flex items-start gap-3">
