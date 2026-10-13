@@ -9,6 +9,7 @@ interface Props {
   total: number;
   itemsPerPage: number;
   onPageChange: (page: number) => void;
+  showRange?: boolean;
 }
 
 function getPageNumbers(
@@ -47,6 +48,7 @@ export default function DataTablePagination({
   total,
   itemsPerPage,
   onPageChange,
+  showRange = true,
 }: Props) {
   const start = (page - 1) * itemsPerPage + 1;
   const end = Math.min(page * itemsPerPage, total);
@@ -54,13 +56,15 @@ export default function DataTablePagination({
 
   return (
     <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-between">
-      <span className="text-sm text-muted-foreground order-2 sm:order-1">
-        Mostrando {start}-{end} de {total}
-      </span>
+      {showRange ? (
+        <span className="text-sm text-muted-foreground order-2 sm:order-1">
+          Mostrando {start}-{end} de {total}
+        </span>
+      ) : null}
       <nav
         role="navigation"
         aria-label="paginación"
-        className="order-1 sm:order-2"
+        className="order-1 sm:order-2 sm:ml-auto sm:mr-auto"
       >
         <ul className="flex flex-row items-center gap-1">
           <li>
@@ -78,7 +82,7 @@ export default function DataTablePagination({
                 height="16"
                 aria-hidden="true"
               />
-              <span>Anterior</span>
+              <span className="hidden sm:inline">Anterior</span>
             </button>
           </li>
           {pageNumbers.map((p, i) =>
@@ -117,7 +121,7 @@ export default function DataTablePagination({
               disabled={page >= totalPages}
               onClick={() => onPageChange(page + 1)}
             >
-              <span>Siguiente</span>
+              <span className="hidden sm:inline">Siguiente</span>
               <Icon
                 icon={chevronRight}
                 width="16"
