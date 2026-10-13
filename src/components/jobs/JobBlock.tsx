@@ -1,5 +1,6 @@
 import { Icon } from "@iconify/react/offline";
 
+import { BLOCK_BASE_CLASS } from "@/components/common/block";
 import JobStatusBadge from "@/components/jobs/JobStatusBadge";
 import OrgLogo from "@/components/jobs/OrgLogo";
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
@@ -30,8 +31,8 @@ export default function JobBlock({ job, selected, onSelect }: Props) {
           onSelect(job.id);
         }
       }}
-      className={`card cursor-pointer gap-3 rounded-lg border p-4 text-left transition-colors hover:border-foreground/30 ${
-        selected ? "border-primary ring-1 ring-primary" : ""
+      className={`${BLOCK_BASE_CLASS} w-full min-w-0 cursor-pointer overflow-hidden border-b border-border text-left transition-colors hover:bg-muted/40 ${
+        selected ? "bg-muted" : ""
       }`}
     >
       <header className="flex items-start gap-3">
@@ -52,7 +53,7 @@ export default function JobBlock({ job, selected, onSelect }: Props) {
         </span>
       </header>
 
-      <div className="flex flex-wrap items-center gap-2">
+      <div className="mt-3 flex flex-wrap items-center gap-2">
         {isUpcoming(job) ? (
           <span className="text-muted-foreground text-xs">
             Abre {formatDateShort(job.openingDate)}
@@ -61,7 +62,7 @@ export default function JobBlock({ job, selected, onSelect }: Props) {
           <JobStatusBadge status={displayStatus} />
         )}
         {job.location ? (
-          <span className="text-muted-foreground inline-flex items-center gap-1 text-xs">
+          <span className="text-muted-foreground inline-flex max-w-full min-w-0 items-center gap-1 text-xs">
             <Icon
               icon={appIcons.department}
               width="14"
@@ -73,7 +74,7 @@ export default function JobBlock({ job, selected, onSelect }: Props) {
           </span>
         ) : null}
         {job.taskType ? (
-          <span className="text-muted-foreground inline-flex items-center gap-1 text-xs">
+          <span className="text-muted-foreground inline-flex max-w-full min-w-0 items-center gap-1 text-xs">
             <Icon
               icon={appIcons.taskType}
               width="14"
@@ -86,7 +87,7 @@ export default function JobBlock({ job, selected, onSelect }: Props) {
         ) : null}
       </div>
 
-      <div className="text-muted-foreground flex flex-wrap items-center gap-x-4 gap-y-1 text-xs">
+      <div className="text-muted-foreground mt-2 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs">
         {job.openingDate ? (
           <span>Inscripciones desde {formatDateShort(job.openingDate)}</span>
         ) : null}

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Icon } from "@iconify/react/offline";
 import type { ReactNode } from "react";
 
+import { BLOCK_BASE_CLASS } from "@/components/common/block";
 import JobStatusBadge from "@/components/jobs/JobStatusBadge";
 import OrgLogo from "@/components/jobs/OrgLogo";
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
@@ -134,7 +135,9 @@ export default function JobDetail({ job, onBack }: Props) {
       : null;
 
   return (
-    <article className="card gap-4 rounded-lg border p-5">
+    <article
+      className={`${BLOCK_BASE_CLASS} flex min-h-full min-w-0 flex-col gap-4`}
+    >
       {onBack ? (
         <button
           type="button"

@@ -4,6 +4,7 @@ import "@/styles/global.css";
 
 import type { FilterMenuOption } from "@/components/common/FilterMenu";
 import DataTablePagination from "@/components/common/DataTablePagination";
+import { BLOCK_BASE_CLASS } from "@/components/common/block";
 import JobBlock from "@/components/jobs/JobBlock";
 import JobDetail from "@/components/jobs/JobDetail";
 import JobsFilters from "@/components/jobs/JobsFilters";
@@ -245,38 +246,40 @@ export default function JobsBoard({
   }
 
   return (
-    <section className="flex flex-col gap-6">
-      <JobsFilters
-        query={query}
-        organization={organization}
-        taskType={taskType}
-        afro={afro}
-        discapacidad={discapacidad}
-        trans={trans}
-        victimas={victimas}
-        organizationOptions={organizationOptions}
-        taskTypeOptions={taskTypeOptions}
-        onQueryChange={handleQueryChange}
-        onOrganizationChange={handleOrganizationChange}
-        onTaskTypeChange={handleTaskTypeChange}
-        onAfroChange={handleAfroChange}
-        onDiscapacidadChange={handleDiscapacidadChange}
-        onTransChange={handleTransChange}
-        onVictimasChange={handleVictimasChange}
-      >
-        {hasActiveFilters(criteria) ? (
-          <SaveSearchButton filters={criteria} jobs={jobs} />
-        ) : null}
-      </JobsFilters>
+    <section className="flex flex-col">
+      <div className={`${BLOCK_BASE_CLASS} border-b border-border`}>
+        <JobsFilters
+          query={query}
+          organization={organization}
+          taskType={taskType}
+          afro={afro}
+          discapacidad={discapacidad}
+          trans={trans}
+          victimas={victimas}
+          organizationOptions={organizationOptions}
+          taskTypeOptions={taskTypeOptions}
+          onQueryChange={handleQueryChange}
+          onOrganizationChange={handleOrganizationChange}
+          onTaskTypeChange={handleTaskTypeChange}
+          onAfroChange={handleAfroChange}
+          onDiscapacidadChange={handleDiscapacidadChange}
+          onTransChange={handleTransChange}
+          onVictimasChange={handleVictimasChange}
+        >
+          {hasActiveFilters(criteria) ? (
+            <SaveSearchButton filters={criteria} jobs={jobs} />
+          ) : null}
+        </JobsFilters>
+      </div>
 
       {hasNoResults ? (
-        <p className="text-muted-foreground text-sm">
+        <p className={`${BLOCK_BASE_CLASS} text-muted-foreground text-sm`}>
           No se encontraron resultados.
         </p>
       ) : (
-        <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:items-start">
+        <div className="grid lg:h-[calc(100vh-6rem)] lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)] lg:overflow-hidden">
           {!isMobile || !selectedJob ? (
-            <div className="flex flex-col gap-4">
+            <div className="flex min-w-0 flex-col lg:overflow-y-auto">
               {visibleJobs.map((job) => (
                 <JobBlock
                   key={job.id}
@@ -287,23 +290,27 @@ export default function JobsBoard({
               ))}
 
               {filtered.length > ITEMS_PER_PAGE ? (
-                <DataTablePagination
-                  page={clampedPage}
-                  totalPages={totalPages}
-                  total={filtered.length}
-                  itemsPerPage={ITEMS_PER_PAGE}
-                  onPageChange={setPage}
-                />
+                <div className={`${BLOCK_BASE_CLASS} border-b border-border`}>
+                  <DataTablePagination
+                    page={clampedPage}
+                    totalPages={totalPages}
+                    total={filtered.length}
+                    itemsPerPage={ITEMS_PER_PAGE}
+                    onPageChange={setPage}
+                  />
+                </div>
               ) : null}
             </div>
           ) : null}
 
           {!isMobile ? (
-            <div className="lg:sticky lg:top-6 lg:max-h-[calc(100vh-3rem)] lg:overflow-y-auto">
+            <div className="min-w-0 lg:overflow-y-auto lg:border-l lg:border-border">
               {selectedJob ? (
                 <JobDetail job={selectedJob} />
               ) : (
-                <p className="card text-muted-foreground rounded-lg border p-6 text-sm">
+                <p
+                  className={`${BLOCK_BASE_CLASS} text-muted-foreground min-h-full text-sm`}
+                >
                   Elegí un llamado de la lista para ver el detalle completo sin
                   salir del sitio.
                 </p>
