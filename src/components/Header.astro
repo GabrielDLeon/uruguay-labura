@@ -2,11 +2,60 @@
 import { Icon } from "astro-icon/components";
 import NavDropdown from "./common/NavDropdown.astro";
 import SearchModal from "@/components/search/SearchModal.astro";
+
+const sections = [
+  {
+    id: "empleos",
+    label: "Empleos",
+    icon: "keyline-icons:briefcase-fill",
+    links: [
+      {
+        href: "/empleos",
+        label: "Todos los llamados",
+        icon: "keyline-icons:briefcase-fill",
+      },
+      {
+        href: "/empleos/datos",
+        label: "Datos",
+        icon: "keyline-icons:chart-bar-fill",
+      },
+      {
+        href: "/empleos/guardados",
+        label: "Guardados",
+        icon: "keyline-icons:bookmark-fill",
+      },
+    ],
+  },
+  {
+    id: "educacion",
+    label: "Educación",
+    icon: "keyline-icons:graduation-cap-fill",
+    links: [
+      {
+        href: "/educacion/carreras",
+        label: "Carreras",
+        icon: "keyline-icons:graduation-cap-fill",
+      },
+      {
+        href: "/educacion/instituciones",
+        label: "Instituciones",
+        icon: "keyline-icons:landmark-fill",
+      },
+      {
+        href: "/educacion/becas",
+        label: "Becas",
+        icon: "keyline-icons:hand-coins-fill",
+      },
+    ],
+  },
+];
+
+const repoUrl = "https://github.com/GabrielDLeon/uruguay-labura";
 ---
 
 <header
   data-pagefind-ignore
-  class="sticky top-0 z-50 border-b border-[var(--color-border)] bg-[var(--card-bg)]/90 backdrop-blur"
+  class="sticky top-0 z-50 border-b border-[var(--color-border)] bg-[var(--card-bg)]"
 >
   <div class="mx-auto w-full max-w-7xl px-4 sm:px-6">
     <div class="flex items-center gap-2 py-2 sm:gap-4 sm:py-3">
@@ -14,83 +63,37 @@ import SearchModal from "@/components/search/SearchModal.astro";
         🇺🇾 Labura
       </a>
 
-      <nav class="hidden items-center gap-1 text-sm sm:flex">
-        <NavDropdown
-          id="empleos"
-          label="Empleos"
-          icon="keyline-icons:briefcase-fill"
-          minWidth="12rem"
-        >
-          <a href="/empleos" role="menuitem">
-            <Icon
-              name="keyline-icons:briefcase-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Todos los llamados
-          </a>
-          <a href="/empleos/datos" role="menuitem">
-            <Icon
-              name="keyline-icons:chart-bar-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Datos
-          </a>
-          <a href="/empleos/guardados" role="menuitem">
-            <Icon
-              name="keyline-icons:bookmark-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Guardados
-          </a>
-        </NavDropdown>
-
-        <NavDropdown
-          id="educacion"
-          label="Educación"
-          icon="keyline-icons:graduation-cap-fill"
-          minWidth="12rem"
-        >
-          <a href="/educacion/carreras" role="menuitem">
-            <Icon
-              name="keyline-icons:graduation-cap-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Carreras
-          </a>
-          <a href="/educacion/instituciones" role="menuitem">
-            <Icon
-              name="keyline-icons:landmark-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Instituciones
-          </a>
-          <a href="/educacion/becas" role="menuitem">
-            <Icon
-              name="keyline-icons:hand-coins-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Becas
-          </a>
-        </NavDropdown>
+      <nav class="hidden items-center gap-1 text-sm lg:flex">
+        {
+          sections.map((section) => (
+            <NavDropdown
+              id={section.id}
+              label={section.label}
+              icon={section.icon}
+              minWidth="12rem"
+            >
+              {section.links.map((link) => (
+                <a href={link.href} role="menuitem">
+                  <Icon name={link.icon} size={16} aria-hidden="true" />
+                  {link.label}
+                </a>
+              ))}
+            </NavDropdown>
+          ))
+        }
       </nav>
 
-      <SearchModal wrapperClass="min-w-0 flex-1" />
+      <SearchModal wrapperClass="ml-auto min-w-0 lg:ml-0 lg:flex-1" />
 
       <div class="flex items-center gap-2">
         <a
-          href="https://github.com/GabrielDLeon/uruguay-labura"
+          href={repoUrl}
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub repository"
-          class="btn hidden sm:inline-flex"
+          class="btn hidden lg:inline-flex"
           data-variant="outline"
-          data-size="icon-sm"
+          data-size="icon"
         >
           <Icon name="mdi:github" size={24} aria-hidden="true" />
         </a>
@@ -101,9 +104,9 @@ import SearchModal from "@/components/search/SearchModal.astro";
           data-tooltip="Toggle dark mode"
           data-side="bottom"
           onclick="document.dispatchEvent(new CustomEvent('basecoat:theme'))"
-          class="btn"
+          class="btn hidden lg:inline-flex"
           data-variant="outline"
-          data-size="icon-sm"
+          data-size="icon"
         >
           <span class="hidden dark:block">
             <Icon name="keyline-icons:sun-fill" size={24} aria-hidden="true" />
@@ -112,58 +115,132 @@ import SearchModal from "@/components/search/SearchModal.astro";
             <Icon name="keyline-icons:moon-fill" size={24} aria-hidden="true" />
           </span>
         </button>
+
+        <button
+          type="button"
+          data-menu-open
+          aria-label="Abrir menú"
+          aria-haspopup="dialog"
+          aria-controls="mobile-menu"
+          class="btn lg:hidden"
+          data-variant="outline"
+          data-size="icon"
+        >
+          <Icon name="keyline-icons:menu-fill" size={24} aria-hidden="true" />
+        </button>
       </div>
     </div>
-
-    <nav class="flex items-center gap-1 overflow-x-auto pb-3 text-sm sm:hidden">
-      <a
-        href="/empleos"
-        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-      >
-        <Icon
-          name="keyline-icons:briefcase-fill"
-          size={16}
-          class="shrink-0"
-          aria-hidden="true"
-        />
-        Empleos
-      </a>
-      <a
-        href="/empleos/guardados"
-        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-        title="Guardados"
-      >
-        <Icon
-          name="keyline-icons:bookmark-fill"
-          size={16}
-          class="shrink-0"
-          aria-hidden="true"
-        />
-      </a>
-      <a
-        href="/educacion"
-        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-      >
-        <Icon
-          name="keyline-icons:graduation-cap-fill"
-          size={16}
-          class="shrink-0"
-          aria-hidden="true"
-        />
-        Educación
-      </a>
-      <a
-        href="/educacion/becas"
-        class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-      >
-        <Icon
-          name="keyline-icons:hand-coins-fill"
-          size={16}
-          class="shrink-0"
-          aria-hidden="true"
-        />
-        Becas
-      </a>
-    </nav>
   </div>
 </header>
+
+<dialog
+  id="mobile-menu"
+  class="drawer lg:hidden"
+  data-side="right"
+  aria-label="Menú"
+>
+  <div class="bg-background text-foreground">
+    <header
+      class="flex flex-row items-center gap-2 border-b border-border px-4 py-3"
+    >
+      <span class="text-base font-semibold">Menú</span>
+      <button
+        type="button"
+        data-menu-close
+        aria-label="Cerrar menú"
+        class="btn ml-auto"
+        data-variant="ghost"
+        data-size="icon-sm"
+      >
+        <Icon name="keyline-icons:x-fill" size={24} aria-hidden="true" />
+      </button>
+    </header>
+
+    <section class="flex flex-col gap-4 p-4">
+      {
+        sections.map((section) => (
+          <div>
+            <p class="mb-1 px-3 text-xs font-semibold tracking-wide text-muted-foreground uppercase">
+              {section.label}
+            </p>
+            <ul>
+              {section.links.map((link) => (
+                <li>
+                  <a
+                    href={link.href}
+                    class="flex items-center gap-2 rounded-md px-3 py-2 text-sm text-foreground transition-colors hover:bg-muted"
+                  >
+                    <Icon
+                      name={link.icon}
+                      size={16}
+                      class="shrink-0"
+                      aria-hidden="true"
+                    />
+                    {link.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </section>
+
+    <footer class="flex flex-col gap-2 border-t border-border p-4">
+      <a
+        href={repoUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn justify-start"
+        data-variant="outline"
+        data-size="sm"
+      >
+        <Icon name="mdi:github" size={16} aria-hidden="true" />
+        GitHub
+      </a>
+
+      <button
+        type="button"
+        onclick="document.dispatchEvent(new CustomEvent('basecoat:theme'))"
+        class="btn justify-start"
+        data-variant="outline"
+        data-size="sm"
+      >
+        <span class="hidden dark:block">
+          <Icon name="keyline-icons:sun-fill" size={16} aria-hidden="true" />
+        </span>
+        <span class="block dark:hidden">
+          <Icon name="keyline-icons:moon-fill" size={16} aria-hidden="true" />
+        </span>
+        Cambiar tema
+      </button>
+    </footer>
+  </div>
+</dialog>
+
+<script>
+  const drawer = document.getElementById(
+    "mobile-menu",
+  ) as HTMLDialogElement | null;
+
+  if (drawer) {
+    document.querySelectorAll("[data-menu-open]").forEach((element) => {
+      element.addEventListener("click", () => drawer.showModal());
+    });
+
+    document.querySelectorAll("[data-menu-close]").forEach((element) => {
+      element.addEventListener("click", () => drawer.close());
+    });
+
+    drawer.addEventListener("click", (event) => {
+      const target = event.target as HTMLElement | null;
+      if (target?.closest("a")) drawer.close();
+    });
+
+    window
+      .matchMedia("(min-width: 1024px)")
+      .addEventListener("change", (event) => {
+        if (event.matches) drawer.close();
+      });
+  }
+</script>
