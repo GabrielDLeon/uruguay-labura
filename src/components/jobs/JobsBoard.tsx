@@ -321,7 +321,7 @@ export default function JobsBoard({
 
   return (
     <section className="flex flex-col">
-      <div className={`${BLOCK_BASE_CLASS} border-b border-border`}>
+      <div className="px-4 pb-6 sm:px-6">
         <JobsFilters
           query={query}
           organization={organization}
