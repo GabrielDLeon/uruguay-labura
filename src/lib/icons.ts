@@ -7,6 +7,7 @@ import calendarStart from "@iconify-icons/keyline-icons/calendar-arrow-left-fill
 import check from "@iconify-icons/keyline-icons/check-fill";
 import chevronDown from "@iconify-icons/keyline-icons/chevron-down-fill";
 import clock from "@iconify-icons/keyline-icons/clock-fill";
+import close from "@iconify-icons/keyline-icons/x-fill";
 import users from "@iconify-icons/keyline-icons/users-fill";
 import compass from "@iconify-icons/keyline-icons/compass-fill";
 import creditCard from "@iconify-icons/keyline-icons/credit-card-fill";
@@ -31,6 +32,7 @@ export const appIcons = {
   bookmarkOutline,
   check,
   chevronDown,
+  close,
   closingDate: calendarEnd,
   cost: creditCard,
   department: mapPin,
