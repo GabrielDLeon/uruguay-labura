@@ -6,83 +6,38 @@ import PageHeader from "@/components/PageHeader.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import { Icon } from "astro-icon/components";
 import jobsDataset from "@/data/jobs.generated.json";
-import {
-  formatDateShort,
-  parseDate,
-  startOfDay,
-  startOfToday,
-} from "@/lib/dates";
-
-const today = startOfToday();
-const activeJobs = jobsDataset.jobs.filter((job) => {
-  if (!job.closingDate) return true;
-  const closing = parseDate(job.closingDate);
-  if (!closing) return true;
-  return startOfDay(closing) >= today;
-});
+import { formatDateShort } from "@/lib/dates";
 ---
 
 <Layout
   title="Llamados laborales en Uruguay"
-  description="Explora llamados abiertos de Uruguay Concursa con filtros y vista centralizada."
+  description="Explora llamados y concursos abiertos de sitios oficiales de Uruguay con filtros y vista centralizada."
 >
   <PagefindIndex
     title="Empleos en Uruguay"
-    description="Llamados laborales y concursos abiertos de Uruguay Concursa, con filtros y vista centralizada."
+    description="Llamados laborales y concursos abiertos de sitios oficiales de Uruguay, con filtros y vista centralizada."
     kind="pagina"
   />
 
   <Block class="border-b border-border">
     <PageHeader title="Llamados laborales de Uruguay">
-      El siguiente listado es una recopilación semanal de los concursos
-      actualmente disponibles y activos del sitio {" "}
-      <a
-        href="https://www.uruguayconcursa.gub.uy"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="underline decoration-dotted underline-offset-3 hover:text-foreground"
-        >Uruguay Concursa</a
-      >. El proyecto busca mejorar la experiencia de los usuarios.
+      Explorá los llamados abiertos de sitios oficiales de Uruguay y encontrá tu
+      próxima oportunidad.
     </PageHeader>
 
-    <div class="flex flex-wrap items-center gap-2 text-sm">
-      <span
-        class="badge inline-flex items-center gap-1"
-        data-variant="secondary"
-      >
-        <Icon
-          name="mdi:format-list-bulleted"
-          width="14"
-          height="14"
-          class="shrink-0"
-          aria-hidden="true"
-        />
-        {activeJobs.length} llamados activos
-      </span>
-      <span class="text-muted-foreground inline-flex items-center gap-1">
-        <Icon
-          name="mdi:clock-outline"
-          width="14"
-          height="14"
-          class="shrink-0"
-          aria-hidden="true"
-        />
-        Actualizado: {formatDateShort(jobsDataset.scrapedAt)}
-      </span>
-      <a
-        href="/empleos/datos"
-        class="inline-flex items-center gap-1 underline decoration-dotted underline-offset-3 hover:text-foreground"
-      >
-        <Icon
-          name="mdi:chart-bar"
-          width="14"
-          height="14"
-          class="shrink-0"
-          aria-hidden="true"
-        />
-        Ver datos
-      </a>
-    </div>
+    <p class="text-muted-foreground inline-flex items-center gap-1 text-sm">
+      <Icon
+        name="keyline-icons:clock-fill"
+        width="14"
+        height="14"
+        class="shrink-0"
+        aria-hidden="true"
+      />
+      Actualizado:{" "}
+      <time datetime={jobsDataset.scrapedAt}>
+        {formatDateShort(jobsDataset.scrapedAt)}
+      </time>
+    </p>
   </Block>
 
   <Block>
