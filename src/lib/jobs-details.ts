@@ -15,6 +15,10 @@ function isJobDetailPayload(value: unknown): value is JobDetailPayload {
   );
 }
 
+export function getCachedJobDetail(id: string): JobDetailPayload | undefined {
+  return detailCache.get(id);
+}
+
 /**
  * Fetches (or reuses) the text detail of one job from its static file
  * `/empleos/<id>.json`. The board never downloads every detail: only the one

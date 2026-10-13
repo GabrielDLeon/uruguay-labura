@@ -4,6 +4,7 @@ import type { ReactNode } from "react";
 
 import { BLOCK_BASE_CLASS } from "@/components/common/block";
 import JobStatusBadge from "@/components/jobs/JobStatusBadge";
+import JobDetailSkeleton from "@/components/jobs/JobDetailSkeleton";
 import OrgLogo from "@/components/jobs/OrgLogo";
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
 import SaveButton from "@/components/jobs/SaveButton";
@@ -14,7 +15,7 @@ import {
   formatRelative,
 } from "@/lib/dates";
 import { parseJobDetailSections } from "@/lib/job-detail-markdown";
-import { loadJobDetail } from "@/lib/jobs-details";
+import { getCachedJobDetail, loadJobDetail } from "@/lib/jobs-details";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
 
@@ -59,11 +60,31 @@ function MetaItem({ label, children }: { label: string; children: ReactNode }) {
 }
 
 export default function JobDetail({ job, onBack }: Props) {
-  const [detail, setDetail] = useState<DetailState>({ status: "loading" });
+  const [detail, setDetail] = useState<DetailState>(() => {
+    const cached = getCachedJobDetail(job.id);
+    return cached
+      ? { status: "ready", markdown: cached.markdown }
+      : { status: "loading" };
+  });
+  const [showSkeleton, setShowSkeleton] = useState(false);
 
   useEffect(() => {
     let active = true;
+
+    const cached = getCachedJobDetail(job.id);
+    if (cached) {
+      setDetail({ status: "ready", markdown: cached.markdown });
+      setShowSkeleton(false);
+      return;
+    }
+
     setDetail({ status: "loading" });
+    setShowSkeleton(false);
+    // Only show the skeleton when the request is slow enough to be noticed;
+    // a cached or fast load should feel instantaneous.
+    const timer = window.setTimeout(() => {
+      if (active) setShowSkeleton(true);
+    }, 180);
 
     loadJobDetail(job.id)
       .then((payload) => {
@@ -79,10 +100,14 @@ export default function JobDetail({ job, onBack }: Props) {
               ? error.message
               : "No se pudo cargar el detalle",
         });
+      })
+      .finally(() => {
+        window.clearTimeout(timer);
       });
 
     return () => {
       active = false;
+      window.clearTimeout(timer);
     };
   }, [job.id]);
 
@@ -191,10 +216,8 @@ export default function JobDetail({ job, onBack }: Props) {
       </dl>
 
       <div className="border-t border-border pt-4">
-        {detail.status === "loading" ? (
-          <p className="text-muted-foreground text-sm">
-            Cargando detalle del llamado…
-          </p>
+        {detail.status === "loading" && showSkeleton ? (
+          <JobDetailSkeleton />
         ) : null}
 
         {detail.status === "error" ? (
