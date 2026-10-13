@@ -23,9 +23,15 @@ importers:
       '@fontsource-variable/inter':
         specifier: ^5.3.0
         version: 5.3.0
+      '@iconify-icons/keyline-icons':
+        specifier: ^2.0.14
+        version: 2.0.14
       '@iconify-icons/mdi':
         specifier: ^1.2.48
         version: 1.2.48
+      '@iconify-json/keyline-icons':
+        specifier: ^1.2.14
+        version: 1.2.14
       '@iconify-json/mdi':
         specifier: ^1.2.3
         version: 1.2.3
@@ -581,8 +587,14 @@ packages:
   '@fontsource-variable/inter@5.3.0':
     resolution: {integrity: sha512-OupL48va4JNofb97w6NYeF9S7W/kHNKM0Er8Dem5nqi4jeOLrVJDoE8tZEpnMJmtkvNbB1EIPPwHcdkF6b1oUA==}
 
+  '@iconify-icons/keyline-icons@2.0.14':
+    resolution: {integrity: sha512-gJsO2CTF+l8N4yoJK7QnmpSFpXQpcl5nDYq+PqM8ZF1V2d2zaCaCqqjuwPDQ+qZ5XWjgECv7CO5hKhP7XQ//gQ==}
+
   '@iconify-icons/mdi@1.2.48':
     resolution: {integrity: sha512-51bfNoRLhYDfxSu0Nyi/uRVq6q/tP4TyEc0vvuNwImrXpxrRJUAWJF2A36CfBkXm3hO9IBlph/CD/XNDJKgG6w==}
+
+  '@iconify-json/keyline-icons@1.2.14':
+    resolution: {integrity: sha512-KVULFovSNgwAbzM82aJr5PRzvDmQPYg2nUc+SMzIa1PBJXQbwCr/fMolhaRczofUTJbI9COSLsJRdV/pqWQrKg==}
 
   '@iconify-json/mdi@1.2.3':
     resolution: {integrity: sha512-O3cLwbDOK7NNDf2ihaQOH5F9JglnulNDFV7WprU2dSoZu3h3cWH//h74uQAB87brHmvFVxIOkuBX2sZSzYhScg==}
@@ -3383,7 +3395,15 @@ snapshots:
 
   '@fontsource-variable/inter@5.3.0': {}
 
+  '@iconify-icons/keyline-icons@2.0.14':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-icons/mdi@1.2.48':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/keyline-icons@1.2.14':
     dependencies:
       '@iconify/types': 2.0.0
 
