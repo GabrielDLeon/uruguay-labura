@@ -21,214 +21,174 @@ import udelarLogo from "@/assets/institutions/udelar-logo.webp";
 import ucuLogo from "@/assets/institutions/ucu-logo.webp";
 import utecLogo from "@/assets/institutions/utec-logo.webp";
 
-const organizationAbbreviations: Record<string, string> = {
-  "administracion de las obras sanitarias del estado": "OSE",
-  "administracion de los ferrocarriles del estado": "AFE",
-  "administracion de servicios de salud del estado": "ASSE",
-  "administracion nacional de combustibles alcohol y portland": "ANCAP",
-  "administracion nacional de educacion publica": "ANEP",
-  "administracion nacional de telecomunicaciones": "ANTEL",
-  "administracion nacional de usinas y trasmisiones electricas": "UTE",
-  "agencia nacional de vivienda": "ANV",
-  "banco de la republica oriental del uruguay": "BROU",
-  "banco de seguros del estado": "BSE",
-  "corporacion nacional para el desarrollo": "CND",
-  "instituto nacional de colonizacion": "INC",
-  "instituto nacional de evaluacion educativa": "INEEd",
-  "instituto uruguayo de meteorologia inumet": "INUMET",
-  "instituto uruguayo de meteorologia": "INUMET",
-  "intendencia de artigas": "Artigas",
-  "intendencia de canelones": "Canelones",
-  "intendencia de cerro largo": "Cerro Largo",
-  "intendencia de colonia": "Colonia",
-  "intendencia de durazno": "Durazno",
-  "intendencia de flores": "Flores",
-  "intendencia de florida": "Florida",
-  "intendencia de lavalleja": "Lavalleja",
-  "intendencia de maldonado": "Maldonado",
-  "intendencia de montevideo": "Montevideo",
-  "intendencia de paysandu": "Paysandú",
-  "intendencia de rio negro": "Río Negro",
-  "intendencia de rivera": "Rivera",
-  "intendencia de rocha": "Rocha",
-  "intendencia de salto": "Salto",
-  "intendencia de san jose": "San José",
-  "intendencia de soriano": "Soriano",
-  "intendencia de tacuarembo": "Tacuarembó",
-  "intendencia de treinta y tres": "Treinta y Tres",
-  "ministerio de ambiente": "MA",
-  "ministerio de defensa nacional": "MDN",
-  "ministerio de desarrollo social": "MIDES",
-  "ministerio de economia y finanzas": "MEF",
-  "ministerio de educacion y cultura": "MEC",
-  "ministerio de ganaderia agricultura y pesca": "MGAP",
-  "ministerio de industria energia y mineria": "MIEM",
-  "ministerio de relaciones exteriores": "MRREE",
-  "ministerio de salud publica": "MSP",
-  "ministerio de trabajo y seguridad social": "MTSS",
-  "ministerio de transporte y obras publicas": "MTOP",
-  "ministerio de turismo": "MINTUR",
-  "ministerio de vivienda y ordenamiento territorial": "MVOT",
-  "ministerio del interior": "MI",
-  "pdu ccee": "PDU CCEE",
-  "presidencia de la republica": "Presidencia",
-  "unidad reguladora de servicios de energia y agua": "URSEA",
-  "universidad de la republica": "Udelar",
-  "universidad catolica del uruguay": "UCU",
-  "universidad ort uruguay": "ORT",
-  "universidad tecnologica": "UTEC",
-  afe: "AFE",
-  ancap: "ANCAP",
-  anep: "ANEP",
-  antel: "ANTEL",
-  anv: "ANV",
-  asse: "ASSE",
-  brou: "BROU",
-  bse: "BSE",
-  cnd: "CND",
-  inc: "INC",
-  ineed: "INEEd",
-  inumet: "INUMET",
-  ma: "MA",
-  mdn: "MDN",
-  mec: "MEC",
-  mef: "MEF",
-  mgap: "MGAP",
-  mi: "MI",
-  mides: "MIDES",
-  miem: "MIEM",
-  mintur: "MINTUR",
-  mrree: "MRREE",
-  msp: "MSP",
-  mtop: "MTOP",
-  mtss: "MTSS",
-  mvot: "MVOT",
-  ose: "OSE",
-  ort: "ORT",
-  ucu: "UCU",
-  ursea: "URSEA",
-  ute: "UTE",
-  utec: "UTEC",
-};
-
-const organizationFullNames: Record<string, string> = {
-  afe: "Administracion de los Ferrocarriles del Estado",
-  ancap: "Administracion Nacional de Combustibles, Alcohol y Portland",
-  anep: "Administracion Nacional de Educacion Publica",
-  antel: "Administracion Nacional de Telecomunicaciones",
-  anv: "Agencia Nacional de Vivienda",
-  asse: "Administracion de Servicios de Salud del Estado",
-  brou: "Banco de la Republica Oriental del Uruguay",
-  bse: "Banco de Seguros del Estado",
-  cnd: "Corporacion Nacional para el Desarrollo",
-  inc: "Instituto Nacional de Colonizacion",
-  ineed: "Instituto Nacional de Evaluacion Educativa",
-  inumet: "Instituto Uruguayo de Meteorologia",
-  "instituto uruguayo de meteorologia inumet":
-    "Instituto Uruguayo de Meteorologia - INUMET",
-  ma: "Ministerio de Ambiente",
-  mdn: "Ministerio de Defensa Nacional",
-  mec: "Ministerio de Educacion y Cultura",
-  mef: "Ministerio de Economia y Finanzas",
-  mgap: "Ministerio de Ganaderia, Agricultura y Pesca",
-  mi: "Ministerio del Interior",
-  mides: "Ministerio de Desarrollo Social",
-  miem: "Ministerio de Industria, Energia y Mineria",
-  mintur: "Ministerio de Turismo",
-  mrree: "Ministerio de Relaciones Exteriores",
-  msp: "Ministerio de Salud Publica",
-  mtop: "Ministerio de Transporte y Obras Publicas",
-  mtss: "Ministerio de Trabajo y Seguridad Social",
-  mvot: "Ministerio de Vivienda y Ordenamiento Territorial",
-  ose: "Administracion de las Obras Sanitarias del Estado",
-  ort: "Universidad ORT Uruguay",
-  ucu: "Universidad Catolica del Uruguay",
-  udelar: "Universidad de la Republica",
-  ursea: "Unidad Reguladora de Servicios de Energia y Agua",
-  ute: "Administracion Nacional de Usinas y Trasmisiones Electricas",
-  utec: "Universidad Tecnologica",
-};
-
-const organizationLogos: Record<string, string> = {
-  "universidad de la republica": udelarLogo.src,
-  udelar: udelarLogo.src,
-  "universidad tecnologica": utecLogo.src,
-  utec: utecLogo.src,
-  "banco de prevision social": bpsLogo.src,
-  bps: bpsLogo.src,
-  "banco de seguros del estado": bseLogo.src,
-  bse: bseLogo.src,
-  "banco hipotecario del uruguay": bhuLogo.src,
-  bhu: bhuLogo.src,
-  "administracion de las obras sanitarias del estado": oseLogo.src,
-  ose: oseLogo.src,
-  "universidad ort uruguay": ortLogo.src,
-  ort: ortLogo.src,
-  "universidad catolica del uruguay": ucuLogo.src,
-  ucu: ucuLogo.src,
-  "intendencia de canelones": canelonesLogo.src,
-  canelones: canelonesLogo.src,
-  "intendencia de florida": floridaLogo.src,
-  florida: floridaLogo.src,
-  "intendencia de rio negro": rioNegroLogo.src,
-  "rio negro": rioNegroLogo.src,
-  "intendencia de rivera": riveraLogo.src,
-  rivera: riveraLogo.src,
-  "intendencia de rocha": rochaLogo.src,
-  rocha: rochaLogo.src,
-  "intendencia de soriano": sorianoLogo.src,
-  soriano: sorianoLogo.src,
-  "intendencia de san jose": sanJoseLogo.src,
-  "san jose": sanJoseLogo.src,
-  "intendencia de tacuarembo": tacuaremboLogo.src,
-  tacuarembo: tacuaremboLogo.src,
-  "instituto nacional de colonizacion": incLogo.src,
-  inc: incLogo.src,
-  "administracion nacional de educacion publica": anepLogo.src,
-  anep: anepLogo.src,
-  "administracion de servicios de salud del estado": asseLogo.src,
-  asse: asseLogo.src,
-  "agencia nacional de vivienda": anvLogo.src,
-  anv: anvLogo.src,
-  "instituto uruguayo de meteorologia": inumetLogo.src,
-  "instituto uruguayo de meteorologia inumet": inumetLogo.src,
-  inumet: inumetLogo.src,
-  "ministerio de ambiente": ministerioLogo.src,
-  ma: ministerioLogo.src,
-  "ministerio de defensa nacional": ministerioLogo.src,
-  mdn: ministerioLogo.src,
-  "ministerio de desarrollo social": ministerioLogo.src,
-  mides: ministerioLogo.src,
-  "ministerio de economia y finanzas": ministerioLogo.src,
-  mef: ministerioLogo.src,
-  "ministerio de educacion y cultura": ministerioLogo.src,
-  mec: ministerioLogo.src,
-  "ministerio de ganaderia agricultura y pesca": ministerioLogo.src,
-  mgap: ministerioLogo.src,
-  "ministerio de industria energia y mineria": ministerioLogo.src,
-  miem: ministerioLogo.src,
-  "ministerio de relaciones exteriores": ministerioLogo.src,
-  mrree: ministerioLogo.src,
-  "ministerio de salud publica": ministerioLogo.src,
-  msp: ministerioLogo.src,
-  "ministerio de trabajo y seguridad social": ministerioLogo.src,
-  mtss: ministerioLogo.src,
-  "ministerio de transporte y obras publicas": ministerioLogo.src,
-  mtop: ministerioLogo.src,
-  "ministerio de turismo": ministerioLogo.src,
-  mintur: ministerioLogo.src,
-  "ministerio de vivienda y ordenamiento territorial": ministerioLogo.src,
-  mvot: ministerioLogo.src,
-  "ministerio del interior": ministerioLogo.src,
-  mi: ministerioLogo.src,
-  "presidencia de la republica": ministerioLogo.src,
-};
-
-export function getOrganizationLogo(organization: string) {
-  const normalized = normalizeText(organization);
-  return organizationLogos[normalized] ?? null;
+interface Organization {
+  name: string;
+  short?: string;
+  aliases?: string[];
+  logo?: string;
 }
 
+const ORGANIZATIONS: Organization[] = [
+  {
+    name: "Administración de las Obras Sanitarias del Estado",
+    short: "OSE",
+    logo: oseLogo.src,
+  },
+  { name: "Administración de los Ferrocarriles del Estado", short: "AFE" },
+  {
+    name: "Administración de Servicios de Salud del Estado",
+    short: "ASSE",
+    logo: asseLogo.src,
+  },
+  {
+    name: "Administración Nacional de Combustibles, Alcohol y Portland",
+    short: "ANCAP",
+  },
+  {
+    name: "Administración Nacional de Educación Pública",
+    short: "ANEP",
+    logo: anepLogo.src,
+  },
+  { name: "Administración Nacional de Telecomunicaciones", short: "ANTEL" },
+  {
+    name: "Administración Nacional de Usinas y Trasmisiones Eléctricas",
+    short: "UTE",
+  },
+  { name: "Agencia Nacional de Vivienda", short: "ANV", logo: anvLogo.src },
+  { name: "Banco de la República Oriental del Uruguay", short: "BROU" },
+  { name: "Banco de Previsión Social", short: "BPS", logo: bpsLogo.src },
+  { name: "Banco de Seguros del Estado", short: "BSE", logo: bseLogo.src },
+  { name: "Banco Hipotecario del Uruguay", short: "BHU", logo: bhuLogo.src },
+  { name: "Corporación Nacional para el Desarrollo", short: "CND" },
+  {
+    name: "Instituto Nacional de Colonización",
+    short: "INC",
+    logo: incLogo.src,
+  },
+  { name: "Instituto Nacional de Evaluación Educativa", short: "INEEd" },
+  {
+    name: "Instituto Uruguayo de Meteorología",
+    short: "INUMET",
+    aliases: ["Instituto Uruguayo de Meteorología - INUMET"],
+    logo: inumetLogo.src,
+  },
+  { name: "Intendencia de Artigas", short: "Artigas" },
+  {
+    name: "Intendencia de Canelones",
+    short: "Canelones",
+    logo: canelonesLogo.src,
+  },
+  { name: "Intendencia de Cerro Largo", short: "Cerro Largo" },
+  { name: "Intendencia de Colonia", short: "Colonia" },
+  { name: "Intendencia de Durazno", short: "Durazno" },
+  { name: "Intendencia de Flores", short: "Flores" },
+  { name: "Intendencia de Florida", short: "Florida", logo: floridaLogo.src },
+  { name: "Intendencia de Lavalleja", short: "Lavalleja" },
+  { name: "Intendencia de Maldonado", short: "Maldonado" },
+  { name: "Intendencia de Montevideo", short: "Montevideo" },
+  { name: "Intendencia de Paysandú", short: "Paysandú" },
+  {
+    name: "Intendencia de Río Negro",
+    short: "Río Negro",
+    logo: rioNegroLogo.src,
+  },
+  { name: "Intendencia de Rivera", short: "Rivera", logo: riveraLogo.src },
+  { name: "Intendencia de Rocha", short: "Rocha", logo: rochaLogo.src },
+  { name: "Intendencia de Salto", short: "Salto" },
+  {
+    name: "Intendencia de San José",
+    short: "San José",
+    logo: sanJoseLogo.src,
+  },
+  { name: "Intendencia de Soriano", short: "Soriano", logo: sorianoLogo.src },
+  {
+    name: "Intendencia de Tacuarembó",
+    short: "Tacuarembó",
+    logo: tacuaremboLogo.src,
+  },
+  { name: "Intendencia de Treinta y Tres", short: "Treinta y Tres" },
+  { name: "Ministerio de Ambiente", short: "MA", logo: ministerioLogo.src },
+  {
+    name: "Ministerio de Defensa Nacional",
+    short: "MDN",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Desarrollo Social",
+    short: "MIDES",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Economía y Finanzas",
+    short: "MEF",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Educación y Cultura",
+    short: "MEC",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Ganadería, Agricultura y Pesca",
+    short: "MGAP",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Industria, Energía y Minería",
+    short: "MIEM",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Relaciones Exteriores",
+    short: "MRREE",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Salud Pública",
+    short: "MSP",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Trabajo y Seguridad Social",
+    short: "MTSS",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Ministerio de Transporte y Obras Públicas",
+    short: "MTOP",
+    logo: ministerioLogo.src,
+  },
+  { name: "Ministerio de Turismo", short: "MINTUR", logo: ministerioLogo.src },
+  {
+    name: "Ministerio de Vivienda y Ordenamiento Territorial",
+    short: "MVOT",
+    logo: ministerioLogo.src,
+  },
+  { name: "Ministerio del Interior", short: "MI", logo: ministerioLogo.src },
+  { name: "PDU CCEE" },
+  {
+    name: "Presidencia de la República",
+    short: "Presidencia",
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Unidad Reguladora de Servicios de Energía y Agua",
+    short: "URSEA",
+  },
+  { name: "Universidad Católica del Uruguay", short: "UCU", logo: ucuLogo.src },
+  {
+    name: "Universidad de la República",
+    short: "Udelar",
+    logo: udelarLogo.src,
+  },
+  { name: "Universidad ORT Uruguay", short: "ORT", logo: ortLogo.src },
+  { name: "Universidad Tecnológica", short: "UTEC", logo: utecLogo.src },
+];
+
+/**
+ * Normaliza un texto para comparar organismos sin depender de mayúsculas,
+ * tildes, signos ni caracteres invisibles (la fuente los incluye).
+ */
 export function normalizeText(text: string) {
   return text
     .toLowerCase()
@@ -241,14 +201,37 @@ export function normalizeText(text: string) {
     .trim();
 }
 
+const organizationsByKey = new Map<string, Organization>();
+
+for (const organization of ORGANIZATIONS) {
+  const keys = new Set([
+    organization.name,
+    organization.short,
+    ...(organization.aliases ?? []),
+  ]);
+
+  for (const key of keys) {
+    if (key) {
+      organizationsByKey.set(normalizeText(key), organization);
+    }
+  }
+}
+
+function findOrganization(organization: string) {
+  return organizationsByKey.get(normalizeText(organization));
+}
+
 export function getOrganizationAbbreviation(organization: string) {
-  const normalized = normalizeText(organization);
-  return organizationAbbreviations[normalized] ?? organization;
+  const match = findOrganization(organization);
+  return match?.short ?? match?.name ?? organization;
 }
 
 export function getOrganizationFullName(organization: string) {
-  const normalized = normalizeText(organization);
-  return organizationFullNames[normalized] ?? organization;
+  return findOrganization(organization)?.name ?? organization;
+}
+
+export function getOrganizationLogo(organization: string) {
+  return findOrganization(organization)?.logo;
 }
 
 export function getOrganizationSearchText(organization: string) {
