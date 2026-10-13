@@ -32,7 +32,6 @@ export default function JobsTable({ jobs }: Props) {
             <col className="w-10" />
             <col className="w-80" />
             {SHOW_TAGS ? <col className="w-78" /> : null}
-            <col className="w-32" />
             <col className="w-20" />
             <col className="w-28" />
             <col className="w-20" />
@@ -44,7 +43,6 @@ export default function JobsTable({ jobs }: Props) {
               </th>
               <th>Título</th>
               {SHOW_TAGS ? <th>Tags</th> : null}
-              <th>Lugar</th>
               <th>Estado</th>
               <th>Cierre</th>
               <th className="text-center">
@@ -97,12 +95,6 @@ export default function JobsTable({ jobs }: Props) {
                       </span>
                     </td>
                   ) : null}
-                  <td
-                    className="truncate text-xs"
-                    title={job.location ?? undefined}
-                  >
-                    {job.location ?? "—"}
-                  </td>
                   <td className="whitespace-nowrap">
                     {isUpcoming(job) ? (
                       <span className="text-muted-foreground text-xs">
