@@ -16,7 +16,7 @@ const { wrapperClass = "mb-6" } = Astro.props;
     aria-haspopup="dialog"
     aria-controls="search-dialog"
   >
-    <Icon name="mdi:magnify" class="size-4 shrink-0" />
+    <Icon name="keyline-icons:search" class="size-4 shrink-0" />
     <span>Buscar en Uruguay Labura...</span>
     <kbd class="ml-auto hidden text-[10px] font-mono opacity-50 sm:inline"
       >Ctrl K</kbd
@@ -36,7 +36,10 @@ const { wrapperClass = "mb-6" } = Astro.props;
     <div
       class="flex items-center gap-3 border-b border-[var(--border)] px-4 py-3"
     >
-      <Icon name="mdi:magnify" class="size-5 shrink-0 text-muted-foreground" />
+      <Icon
+        name="keyline-icons:search"
+        class="size-5 shrink-0 text-muted-foreground"
+      />
       <input
         type="search"
         role="combobox"
@@ -54,7 +57,7 @@ const { wrapperClass = "mb-6" } = Astro.props;
         id="search-dialog-close"
         class="flex size-6 items-center justify-center rounded-md text-muted-foreground hover:text-foreground hover:bg-[var(--accent)] transition-colors"
       >
-        <Icon name="mdi:close" class="size-4" />
+        <Icon name="keyline-icons:x-fill" class="size-4" />
       </button>
     </div>
     <div
@@ -70,7 +73,7 @@ const { wrapperClass = "mb-6" } = Astro.props;
         data-close-on-click
         class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
       >
-        <Icon name="mdi:school-outline" class="size-3.5" />
+        <Icon name="keyline-icons:graduation-cap-fill" class="size-3.5" />
         Educación
       </a>
       <a
@@ -78,7 +81,7 @@ const { wrapperClass = "mb-6" } = Astro.props;
         data-close-on-click
         class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
       >
-        <Icon name="mdi:domain" class="size-3.5" />
+        <Icon name="keyline-icons:building-fill" class="size-3.5" />
         Instituciones
       </a>
       <a
@@ -86,7 +89,7 @@ const { wrapperClass = "mb-6" } = Astro.props;
         data-close-on-click
         class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
       >
-        <Icon name="mdi:hand-coin-outline" class="size-3.5" />
+        <Icon name="keyline-icons:hand-coins-fill" class="size-3.5" />
         Becas
       </a>
       <a
@@ -94,7 +97,7 @@ const { wrapperClass = "mb-6" } = Astro.props;
         data-close-on-click
         class="inline-flex items-center gap-1 rounded-md border border-[var(--border)] bg-[var(--muted)] px-2 py-1 text-xs text-muted-foreground transition-colors hover:bg-[var(--accent)] hover:text-foreground"
       >
-        <Icon name="mdi:briefcase-outline" class="size-3.5" />
+        <Icon name="keyline-icons:briefcase-fill" class="size-3.5" />
         Empleos
       </a>
     </div>

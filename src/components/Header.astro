@@ -18,19 +18,31 @@ import SearchModal from "@/components/search/SearchModal.astro";
         <NavDropdown
           id="empleos"
           label="Empleos"
-          icon="mdi:briefcase-outline"
+          icon="keyline-icons:briefcase-fill"
           minWidth="12rem"
         >
           <a href="/empleos" role="menuitem">
-            <Icon name="mdi:briefcase-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:briefcase-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Todos los llamados
           </a>
           <a href="/empleos/datos" role="menuitem">
-            <Icon name="mdi:chart-bar" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:chart-bar-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Datos
           </a>
           <a href="/empleos/guardados" role="menuitem">
-            <Icon name="mdi:bookmark-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:bookmark-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Guardados
           </a>
         </NavDropdown>
@@ -38,19 +50,31 @@ import SearchModal from "@/components/search/SearchModal.astro";
         <NavDropdown
           id="educacion"
           label="Educación"
-          icon="mdi:school-outline"
+          icon="keyline-icons:graduation-cap-fill"
           minWidth="12rem"
         >
           <a href="/educacion/carreras" role="menuitem">
-            <Icon name="mdi:school-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:graduation-cap-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Carreras
           </a>
           <a href="/educacion/instituciones" role="menuitem">
-            <Icon name="mdi:bank-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:landmark-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Instituciones
           </a>
           <a href="/educacion/becas" role="menuitem">
-            <Icon name="mdi:hand-coin-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:hand-coins-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Becas
           </a>
         </NavDropdown>
@@ -82,10 +106,10 @@ import SearchModal from "@/components/search/SearchModal.astro";
           data-size="icon-sm"
         >
           <span class="hidden dark:block">
-            <Icon name="mdi:white-balance-sunny" size={24} aria-hidden="true" />
+            <Icon name="keyline-icons:sun-fill" size={24} aria-hidden="true" />
           </span>
           <span class="block dark:hidden">
-            <Icon name="mdi:weather-night" size={24} aria-hidden="true" />
+            <Icon name="keyline-icons:moon-fill" size={24} aria-hidden="true" />
           </span>
         </button>
       </div>
@@ -97,7 +121,7 @@ import SearchModal from "@/components/search/SearchModal.astro";
         class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
       >
         <Icon
-          name="mdi:briefcase-outline"
+          name="keyline-icons:briefcase-fill"
           size={16}
           class="shrink-0"
           aria-hidden="true"
@@ -110,7 +134,7 @@ import SearchModal from "@/components/search/SearchModal.astro";
         title="Guardados"
       >
         <Icon
-          name="mdi:bookmark-outline"
+          name="keyline-icons:bookmark-fill"
           size={16}
           class="shrink-0"
           aria-hidden="true"
@@ -121,7 +145,7 @@ import SearchModal from "@/components/search/SearchModal.astro";
         class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
       >
         <Icon
-          name="mdi:school-outline"
+          name="keyline-icons:graduation-cap-fill"
           size={16}
           class="shrink-0"
           aria-hidden="true"
@@ -133,7 +157,7 @@ import SearchModal from "@/components/search/SearchModal.astro";
         class="inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1.5 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
       >
         <Icon
-          name="mdi:hand-coin-outline"
+          name="keyline-icons:hand-coins-fill"
           size={16}
           class="shrink-0"
           aria-hidden="true"

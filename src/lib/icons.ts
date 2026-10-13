@@ -1,57 +1,57 @@
-import bookOpenOutline from "@iconify-icons/mdi/book-open-outline.js";
-import bookmark from "@iconify-icons/mdi/bookmark.js";
-import bookmarkOutline from "@iconify-icons/mdi/bookmark-outline.js";
-import briefcaseOutline from "@iconify-icons/mdi/briefcase-outline.js";
-import calendarEnd from "@iconify-icons/mdi/calendar-end.js";
-import calendarStart from "@iconify-icons/mdi/calendar-start.js";
-import check from "@iconify-icons/mdi/check.js";
-import chevronDown from "@iconify-icons/mdi/chevron-down.js";
-import clockOutline from "@iconify-icons/mdi/clock-outline.js";
-import accountGroupOutline from "@iconify-icons/mdi/account-group-outline.js";
-import compassOutline from "@iconify-icons/mdi/compass-outline.js";
-import creditCardOutline from "@iconify-icons/mdi/credit-card-outline.js";
-import domain from "@iconify-icons/mdi/domain.js";
-import emailOutline from "@iconify-icons/mdi/email-outline.js";
-import formatListBulleted from "@iconify-icons/mdi/format-list-bulleted.js";
-import handCoinOutline from "@iconify-icons/mdi/hand-coin-outline.js";
-import informationOutline from "@iconify-icons/mdi/information-outline.js";
-import magnify from "@iconify-icons/mdi/magnify.js";
-import mapMarkerOutline from "@iconify-icons/mdi/map-marker-outline.js";
-import openInNew from "@iconify-icons/mdi/open-in-new.js";
-import pencilOutline from "@iconify-icons/mdi/pencil-outline.js";
-import schoolOutline from "@iconify-icons/mdi/school-outline.js";
-import star from "@iconify-icons/mdi/star.js";
-import starOutline from "@iconify-icons/mdi/star-outline.js";
-import tagOutline from "@iconify-icons/mdi/tag-outline.js";
-import trashCanOutline from "@iconify-icons/mdi/trash-can-outline.js";
+import bookOpen from "@iconify-icons/keyline-icons/book-open-fill";
+import bookmark from "@iconify-icons/keyline-icons/bookmark-fill";
+import bookmarkOutline from "@iconify-icons/keyline-icons/bookmark";
+import briefcase from "@iconify-icons/keyline-icons/briefcase-fill";
+import calendarEnd from "@iconify-icons/keyline-icons/calendar-arrow-right-fill";
+import calendarStart from "@iconify-icons/keyline-icons/calendar-arrow-left-fill";
+import check from "@iconify-icons/keyline-icons/check-fill";
+import chevronDown from "@iconify-icons/keyline-icons/chevron-down-fill";
+import clock from "@iconify-icons/keyline-icons/clock-fill";
+import users from "@iconify-icons/keyline-icons/users-fill";
+import compass from "@iconify-icons/keyline-icons/compass-fill";
+import creditCard from "@iconify-icons/keyline-icons/credit-card-fill";
+import building from "@iconify-icons/keyline-icons/building-fill";
+import mail from "@iconify-icons/keyline-icons/mail-fill";
+import list from "@iconify-icons/keyline-icons/list-fill";
+import handCoins from "@iconify-icons/keyline-icons/hand-coins-fill";
+import info from "@iconify-icons/keyline-icons/info-fill";
+import search from "@iconify-icons/keyline-icons/search";
+import mapPin from "@iconify-icons/keyline-icons/map-pin-fill";
+import externalLink from "@iconify-icons/keyline-icons/square-arrow-out-up-right-fill";
+import pen from "@iconify-icons/keyline-icons/pen-fill";
+import graduationCap from "@iconify-icons/keyline-icons/graduation-cap-fill";
+import star from "@iconify-icons/keyline-icons/star-fill";
+import starOutline from "@iconify-icons/keyline-icons/star";
+import tag from "@iconify-icons/keyline-icons/tag-fill";
+import bin from "@iconify-icons/keyline-icons/bin-fill";
 
 export const appIcons = {
-  book: bookOpenOutline,
+  book: bookOpen,
   bookmark,
   bookmarkOutline,
   check,
   chevronDown,
   closingDate: calendarEnd,
-  cost: creditCardOutline,
-  department: mapMarkerOutline,
-  email: emailOutline,
-  quota: accountGroupOutline,
-  externalLink: openInNew,
-  institution: domain,
-  jobsCount: formatListBulleted,
+  cost: creditCard,
+  department: mapPin,
+  email: mail,
+  quota: users,
+  externalLink,
+  institution: building,
+  jobsCount: list,
   openingDate: calendarStart,
-  page: compassOutline,
-  pencil: pencilOutline,
-  school: schoolOutline,
-  scholarship: handCoinOutline,
-  search: magnify,
+  page: compass,
+  pencil: pen,
+  school: graduationCap,
+  scholarship: handCoins,
+  search,
   star,
   starOutline,
-  status: informationOutline,
-  tag: tagOutline,
-  taskType: briefcaseOutline,
-  trash: trashCanOutline,
-  updatedAt: clockOutline,
+  status: info,
+  tag,
+  taskType: briefcase,
+  trash: bin,
+  updatedAt: clock,
 } as const;
 
 export type AppIconName = keyof typeof appIcons;

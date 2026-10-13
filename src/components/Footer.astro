@@ -13,7 +13,7 @@ import { Icon } from "astro-icon/components";
         <h3
           class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
         >
-          <Icon name="mdi:information-outline" size={18} aria-hidden="true" />
+          <Icon name="keyline-icons:info-fill" size={18} aria-hidden="true" />
           Sobre
         </h3>
         <p class="text-sm text-muted-foreground">
@@ -25,7 +25,11 @@ import { Icon } from "astro-icon/components";
           class="mt-3 inline-flex items-center gap-1.5 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
         >
           Acerca del proyecto
-          <Icon name="mdi:arrow-right" size={16} aria-hidden="true" />
+          <Icon
+            name="keyline-icons:arrow-right-fill"
+            size={16}
+            aria-hidden="true"
+          />
         </a>
       </div>
 
@@ -34,7 +38,11 @@ import { Icon } from "astro-icon/components";
         <h3
           class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
         >
-          <Icon name="mdi:navigation" size={18} aria-hidden="true" />
+          <Icon
+            name="keyline-icons:navigation-fill"
+            size={18}
+            aria-hidden="true"
+          />
           Navegación
         </h3>
         <nav class="grid gap-2 text-sm">
@@ -42,35 +50,55 @@ import { Icon } from "astro-icon/components";
             href="/empleos"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon name="mdi:briefcase-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:briefcase-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Empleos
           </a>
           <a
             href="/empleos/guardados"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon name="mdi:bookmark-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:bookmark-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Guardados
           </a>
           <a
             href="/educacion"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon name="mdi:school-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:graduation-cap-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Educación
           </a>
           <a
             href="/educacion/instituciones"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon name="mdi:office-building" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:buildings-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Instituciones
           </a>
           <a
             href="/educacion/becas"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon name="mdi:hand-coin-outline" size={16} aria-hidden="true" />
+            <Icon
+              name="keyline-icons:hand-coins-fill"
+              size={16}
+              aria-hidden="true"
+            />
             Becas
           </a>
         </nav>
@@ -81,7 +109,11 @@ import { Icon } from "astro-icon/components";
         <h3
           class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
         >
-          <Icon name="mdi:share-variant" size={18} aria-hidden="true" />
+          <Icon
+            name="keyline-icons:share-2-fill"
+            size={18}
+            aria-hidden="true"
+          />
           Comunidad
         </h3>
         <nav class="grid gap-2 text-sm">
@@ -100,11 +132,7 @@ import { Icon } from "astro-icon/components";
             rel="noopener noreferrer"
             class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Icon
-              name="mdi:message-alert-outline"
-              size={16}
-              aria-hidden="true"
-            />
+            <Icon name="keyline-icons:bug-fill" size={16} aria-hidden="true" />
             Reportar un problema
           </a>
         </nav>

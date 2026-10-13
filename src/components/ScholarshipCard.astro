@@ -16,10 +16,10 @@ interface Props {
 const { title, short, url, description, type, tags, image } = Astro.props;
 
 const typeIcons: Record<string, string> = {
-  estatal: "mdi:bank",
-  privada: "mdi:domain",
-  internacional: "mdi:earth",
-  gremial: "mdi:account-group",
+  estatal: "keyline-icons:landmark-fill",
+  privada: "keyline-icons:building-fill",
+  internacional: "keyline-icons:earth-fill",
+  gremial: "keyline-icons:users-fill",
 };
 
 const typeLabels: Record<string, string> = {
@@ -30,7 +30,9 @@ const typeLabels: Record<string, string> = {
 };
 
 const primaryTag = tags.find((t) => typeIcons[t]);
-const icon = primaryTag ? typeIcons[primaryTag] : "mdi:school";
+const icon = primaryTag
+  ? typeIcons[primaryTag]
+  : "keyline-icons:graduation-cap-fill";
 const category = primaryTag ? typeLabels[primaryTag] : undefined;
 ---
 

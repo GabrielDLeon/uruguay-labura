@@ -1,7 +1,7 @@
 import { Icon } from "@iconify/react/offline";
-import chevronLeft from "@iconify-icons/mdi/chevron-left.js";
-import chevronRight from "@iconify-icons/mdi/chevron-right.js";
-import dotsHorizontal from "@iconify-icons/mdi/dots-horizontal.js";
+import chevronLeft from "@iconify-icons/keyline-icons/chevron-left-fill";
+import chevronRight from "@iconify-icons/keyline-icons/chevron-right-fill";
+import dotsHorizontal from "@iconify-icons/keyline-icons/more-horizontal-fill";
 
 interface Props {
   page: number;

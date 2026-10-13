@@ -6,7 +6,7 @@ export interface Props {
   id: string;
   /** Visible label */
   label: string;
-  /** mdi icon name (e.g. "mdi:briefcase-outline") */
+  /** Iconify icon name (e.g. "keyline-icons:briefcase-fill") */
   icon?: string;
   /** Minimum width of the dropdown panel */
   minWidth?: string;
@@ -26,7 +26,7 @@ const { id, label, icon, minWidth = "12rem" } = Astro.props;
     {icon && <Icon name={icon} size={16} class="shrink-0" aria-hidden="true" />}
     <span>{label}</span>
     <span class="chevron-icon" aria-hidden="true">
-      <Icon name="mdi:chevron-down" size={16} />
+      <Icon name="keyline-icons:chevron-down-fill" size={16} />
     </span>
   </button>
   <div

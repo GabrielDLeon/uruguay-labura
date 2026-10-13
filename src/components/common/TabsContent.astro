@@ -1,7 +1,7 @@
 ---
-import bookOpenOutline from "@iconify-icons/mdi/book-open-outline.js";
-import calendarTextOutline from "@iconify-icons/mdi/calendar-text-outline.js";
-import clipboardAccountOutline from "@iconify-icons/mdi/clipboard-account-outline.js";
+import bookOpen from "@iconify-icons/keyline-icons/book-open-fill";
+import calendarDays from "@iconify-icons/keyline-icons/calendar-days-fill";
+import clipboardList from "@iconify-icons/keyline-icons/clipboard-list-fill";
 import { iconToSvg } from "@/lib/icons";
 import Block from "@/components/Block.astro";
 
@@ -25,9 +25,9 @@ const TAB_ICONS: Record<
   string,
   { body: string; width?: number; height?: number }
 > = {
-  Resumen: bookOpenOutline,
-  Ingreso: clipboardAccountOutline,
-  "Plan de Estudio": calendarTextOutline,
+  Resumen: bookOpen,
+  Ingreso: clipboardList,
+  "Plan de Estudio": calendarDays,
 };
 ---
 
