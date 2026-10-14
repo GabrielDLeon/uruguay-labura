@@ -15,7 +15,7 @@ import { BLOCK_BASE_CLASS } from "@/components/common/block";
 import JobBlock from "@/components/jobs/JobBlock";
 import JobDetail from "@/components/jobs/JobDetail";
 import JobsFilters from "@/components/jobs/JobsFilters";
-import JobsSkeleton from "@/components/jobs/JobsSkeleton";
+import JobsBoardSkeleton from "@/components/jobs/JobsBoardSkeleton";
 import {
   ITEMS_PER_PAGE,
   cleanOption,
@@ -306,7 +306,7 @@ export default function JobsBoard({
   }, [isDrawerOpen]);
 
   if (isLoading) {
-    return <JobsSkeleton />;
+    return <JobsBoardSkeleton />;
   }
 
   if (loadError) {
