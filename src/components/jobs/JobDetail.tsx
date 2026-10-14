@@ -215,7 +215,11 @@ export default function JobDetail({ job, onBack }: Props) {
         ) : null}
       </dl>
 
-      <div className="border-t border-border pt-4">
+      <div
+        className={`border-t border-border pt-4 ${
+          detail.status === "loading" ? "lg:min-h-[calc(100vh-5rem)]" : ""
+        }`}
+      >
         {detail.status === "loading" && showSkeleton ? (
           <JobDetailSkeleton />
         ) : null}
