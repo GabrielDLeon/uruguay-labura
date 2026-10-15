@@ -1,5 +1,6 @@
 /**
- * Helpers de localStorage a prueba de SSR y de cuota/privacidad.
+ * Helpers de localStorage a prueba de prerender (build sin `window`) y de
+ * cuota/privacidad.
  *
  * Todo el estado anónimo del usuario (empleos guardados, búsquedas guardadas)
  * vive acá: no hay backend ni cuentas.

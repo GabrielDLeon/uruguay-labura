@@ -28,8 +28,6 @@ export async function fetchAndProcessJobs(sourceUrl) {
   }
 
   function stripInvisible(text) {
-    // Source pages embed soft hyphens / zero-width chars (e.g. "Rí\u00ado Negro"
-    // from uruguayconcursa) that otherwise split one organism into two.
     return text
       .normalize("NFC")
       .replace(/\p{Cf}/gu, "")
@@ -96,9 +94,7 @@ export async function fetchAndProcessJobs(sourceUrl) {
 
     const sourceJobId = toNullableString(rawJob.source_job_id);
     const callNumber = toNullableString(rawJob.call_number);
-    // Scraper owns quality: title is clean, title_original is raw.
     const title = toNullableString(rawJob.title);
-    const titleRaw = toNullableString(rawJob.title_original);
     const source = toNullableString(rawJob.source) ?? "uruguay-concursa";
     const status = normalizeStatus(rawJob.status);
 
@@ -115,10 +111,8 @@ export async function fetchAndProcessJobs(sourceUrl) {
       typeof rawJob.total_positions === "number"
         ? rawJob.total_positions
         : null;
-    // Origen por fuente: UC usa su ficha; ORT/UCU traen su URL propia (PDF).
     const origin =
       toNullableString(rawJob.detail_url) ?? `${ucJobUrlBase}${sourceJobId}`;
-    // Postulación: link específico si hay, si no el origen (UC y ORT: ficha/PDF).
     const applyUrl = toNullableString(rawJob.apply_url) ?? origin;
     const applyEmail = toNullableString(rawJob.apply_email);
     const documents = Array.isArray(rawJob.documentos)
@@ -136,16 +130,12 @@ export async function fetchAndProcessJobs(sourceUrl) {
       sourceJobId,
       callNumber,
       title,
-      titleRaw,
       position: toNullableString(rawJob.cargo),
       location: toNullableString(rawJob.lugar),
       modalidad: passthroughModalidad(rawJob.modalidad),
       grado: toNullableString(rawJob.grado),
       organization: toCleanString(rawJob.organization),
       subOrganization: toCleanString(rawJob.sub_organization),
-      department: null,
-      locality: null,
-      inciso: null,
       taskType: toNullableString(rawJob.task_type),
       status,
       openingDate,
@@ -276,14 +266,11 @@ export async function fetchAndProcessJobs(sourceUrl) {
     .map((job) => ({ id: job.id, markdown: job.detailMarkdown }));
   const jobs = jobsWithDetails.map(({ detailMarkdown, ...job }) => job);
 
-  const dashboard = computeDashboard(jobs, nowIso);
-
   const normalized = {
     source: "multiple",
     scrapedAt: nowIso,
     total: jobs.length,
     jobs,
-    dashboard,
   };
 
   await writeDataset(normalized);
@@ -299,122 +286,6 @@ export async function fetchAndProcessJobs(sourceUrl) {
   console.log(
     `[prebuild-jobs] Job details ready at src/data/job-details.generated.json with ${details.length} entries`,
   );
-}
-
-function computeDashboard(jobs, nowIso) {
-  function parseLocalDate(value) {
-    const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(value ?? "").trim());
-    if (match)
-      return new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
-    return new Date(value);
-  }
-  const now = parseLocalDate(nowIso);
-  const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-
-  function isActive(job) {
-    if (String(job.status || "").toLowerCase() !== "abierto") return false;
-    if (!job.closingDate) return true;
-    const closing = parseLocalDate(job.closingDate);
-    const closeDay = new Date(
-      closing.getFullYear(),
-      closing.getMonth(),
-      closing.getDate(),
-    );
-    return closeDay >= todayStart;
-  }
-
-  const activeJobs = jobs.filter(isActive);
-
-  // --- Top 10 organizations ---
-  const orgCounts = new Map();
-  for (const job of activeJobs) {
-    if (job.organization) {
-      orgCounts.set(
-        job.organization,
-        (orgCounts.get(job.organization) ?? 0) + 1,
-      );
-    }
-  }
-  const topOrganizations = [...orgCounts.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 10)
-    .map(([name, count]) => ({ name, count }));
-
-  // --- Task type distribution ---
-  const taskTypeCounts = new Map();
-  for (const job of activeJobs) {
-    if (job.taskType) {
-      taskTypeCounts.set(
-        job.taskType,
-        (taskTypeCounts.get(job.taskType) ?? 0) + 1,
-      );
-    }
-  }
-  const totalWithType = activeJobs.reduce(
-    (sum, j) => sum + (j.taskType ? 1 : 0),
-    0,
-  );
-  const taskTypeDistribution = [...taskTypeCounts.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .map(([name, count]) => ({
-      name,
-      count,
-      percentage: Math.round((count / totalWithType) * 1000) / 10,
-    }));
-
-  // --- Quota jobs ---
-  const quotaJobs = {
-    afrodescendientes: activeJobs.filter((j) => j.quotas.afrodescendientes)
-      .length,
-    trans: activeJobs.filter((j) => j.quotas.trans).length,
-    discapacidad: activeJobs.filter((j) => j.quotas.discapacidad).length,
-    victimas: activeJobs.filter((j) => j.quotas.victimasDelitosViolentos)
-      .length,
-  };
-
-  // --- Next 7 days closing ---
-  const sevenDaysFromNow = new Date(todayStart);
-  sevenDaysFromNow.setDate(sevenDaysFromNow.getDate() + 7);
-
-  const closingByDate = new Map();
-  for (const job of activeJobs) {
-    if (job.closingDate) {
-      const closing = parseLocalDate(job.closingDate);
-      const closeDay = new Date(
-        closing.getFullYear(),
-        closing.getMonth(),
-        closing.getDate(),
-      );
-      if (closeDay >= todayStart && closeDay <= sevenDaysFromNow) {
-        const key = job.closingDate;
-        closingByDate.set(key, (closingByDate.get(key) ?? 0) + 1);
-      }
-    }
-  }
-  const byDate = [...closingByDate.entries()]
-    .sort((a, b) => a[0].localeCompare(b[0]))
-    .map(([date, count]) => ({ date, count }));
-  const totalClosing = byDate.reduce((sum, d) => sum + d.count, 0);
-
-  // --- Evolution (current snapshot) ---
-  const evolution = [
-    {
-      date: nowIso.slice(0, 10),
-      total: activeJobs.length,
-      organizations: topOrganizations.length,
-    },
-  ];
-
-  return {
-    topOrganizations,
-    taskTypeDistribution,
-    quotaJobs,
-    next7Days: {
-      totalClosing,
-      byDate,
-    },
-    evolution,
-  };
 }
 
 const isMainModule = process.argv[1] === fileURLToPath(import.meta.url);

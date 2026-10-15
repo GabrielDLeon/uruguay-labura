@@ -1,11 +1,10 @@
 import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
+import { QUOTAS } from "@/lib/jobs-domain";
 import { getOrganizationSearchText } from "@/lib/organizations";
 import type { JobFilters, JobRecord } from "@/types/jobs";
 
 export const MAX_TITLE_LENGTH = 110;
 export const ITEMS_PER_PAGE = 25;
-
-export const HIDDEN_TAGS = new Set(["salud"]);
 
 // Strips Unicode format characters (soft hyphen, zero-width joiners, BOM…) that
 // leak from scraped HTML and would otherwise create duplicate organisms.
@@ -13,7 +12,7 @@ export function stripInvisible(text: string | null | undefined) {
   return (text ?? "").normalize("NFC").replace(/\p{Cf}/gu, "");
 }
 
-export function normalize(text: string | null | undefined) {
+function normalize(text: string | null | undefined) {
   return stripInvisible(text)
     .toLowerCase()
     .normalize("NFD")
@@ -31,74 +30,6 @@ export function shorten(text: string, maxLength: number) {
 
   return `${text.slice(0, maxLength - 1).trimEnd()}...`;
 }
-
-export const TAG_LABELS: Record<string, string> = {
-  salud: "Salud",
-  educacion: "Educación",
-  tecnologia: "Tecnología",
-  administracion: "Administración",
-  legal: "Legal",
-  ingenieria: "Ingeniería",
-  ciencia: "Ciencia",
-  seguridad: "Seguridad",
-  comunicaciones: "Comunicaciones",
-  transporte: "Transporte",
-  artes: "Artes",
-  medio_ambiente: "Medio Ambiente",
-  agro: "Agro",
-  docente: "Docente",
-  profesional: "Profesional",
-  tecnico: "Técnico",
-  asistente: "Asistente",
-  administrativo: "Administrativo",
-  especializado: "Especializado",
-  directivo: "Directivo",
-  operativo: "Operativo",
-  supervision: "Supervisión",
-  cardiologia: "Cardiología",
-  neurologia: "Neurología",
-  traumatologia: "Traumatología",
-  hemoterapia: "Hemoterapia",
-  anestesiologia: "Anestesiología",
-  oftalmologia: "Oftalmología",
-  psiquiatria: "Psiquiatría",
-  neumologia: "Neumología",
-  endocrinologia: "Endocrinología",
-  urologia: "Urología",
-  gastroenterologia: "Gastroenterología",
-  medicina_interna: "Medicina Interna",
-  medicina_nuclear: "Medicina Nuclear",
-  medicina_preventiva: "Medicina Preventiva",
-  medicina_familiar: "Medicina Familiar",
-  medicina_intensiva: "Medicina Intensiva",
-  otorrinolaringologia: "Otorrinolaringología",
-  patologia: "Patología",
-  obstetricia: "Obstetricia y Ginecología",
-  cirugia: "Cirugía",
-  odontologia: "Odontología",
-  fisioterapia: "Fisioterapia",
-  radioterapia: "Radioterapia",
-  enfermeria: "Enfermería",
-  farmacia: "Farmacia",
-  nutricion: "Nutrición",
-  laboratorio: "Laboratorio",
-  imagenologia: "Imagenología",
-  bioquimica: "Bioquímica",
-  bacteriologia: "Bacteriología",
-  virologia: "Virología",
-  histologia: "Histología",
-  embriologia: "Embriología",
-  inmunobiologia: "Inmunobiología",
-  fisiopatologia: "Fisiopatología",
-  fisiologia: "Fisiología",
-  psicologia_medica: "Psicología Médica",
-  medicina_emergencia: "Emergencia",
-  medicina_fisica_rehab: "Med. Física y Rehab.",
-  infectologia: "Infectología",
-  kinesiologia: "Kinesiología",
-  veterinaria: "Veterinaria",
-  administracion_salud: "Adm. Salud",
-};
 
 export type JobDisplayStatus = "abierto" | "cerrado";
 
@@ -139,7 +70,6 @@ export function jobMatchesFilters(
         job.callNumber,
         getOrganizationSearchText(job.organization ?? ""),
         job.subOrganization,
-        job.locality,
         job.location,
         job.taskType,
         job.tags.join(" "),
@@ -163,20 +93,10 @@ export function jobMatchesFilters(
     return false;
   }
 
-  if (filters.afro && !job.quotas.afrodescendientes) {
-    return false;
-  }
-
-  if (filters.discapacidad && !job.quotas.discapacidad) {
-    return false;
-  }
-
-  if (filters.trans && !job.quotas.trans) {
-    return false;
-  }
-
-  if (filters.victimas && !job.quotas.victimasDelitosViolentos) {
-    return false;
+  for (const quota of QUOTAS) {
+    if (filters[quota.filterKey] && !job.quotas[quota.quotaKey]) {
+      return false;
+    }
   }
 
   return true;

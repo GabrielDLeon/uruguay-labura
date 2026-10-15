@@ -12,10 +12,12 @@ import "@/styles/global.css";
 import type { FilterMenuOption } from "@/components/common/FilterMenu";
 import DataTablePagination from "@/components/common/DataTablePagination";
 import { BLOCK_BASE_CLASS } from "@/components/common/block";
+import { useMediaQuery } from "@/components/common/useMediaQuery";
 import JobBlock from "@/components/jobs/JobBlock";
 import JobDetail from "@/components/jobs/JobDetail";
 import JobsFilters from "@/components/jobs/JobsFilters";
 import JobsBoardSkeleton from "@/components/jobs/JobsBoardSkeleton";
+import JobsLoadError from "@/components/jobs/JobsLoadError";
 import {
   ITEMS_PER_PAGE,
   cleanOption,
@@ -57,6 +59,9 @@ export default function JobsBoard({
 }: JobsBoardProps) {
   const { jobs, loadError, isLoading, retry } = useJobs();
 
+  const isDesktop = useMediaQuery("(min-width: 1024px)");
+  const isMobile = isDesktop === false;
+
   const [query, setQuery] = useState(initialQuery);
   const [organization, setOrganization] = useState(initialOrganization);
   const [taskType, setTaskType] = useState(initialTaskType);
@@ -64,9 +69,6 @@ export default function JobsBoard({
   const [discapacidad, setDiscapacidad] = useState(initialDiscapacidad);
   const [trans, setTrans] = useState(initialTrans);
   const [victimas, setVictimas] = useState(initialVictimas);
-  const [viewportMode, setViewportMode] = useState<
-    "both" | "desktop" | "mobile"
-  >("both");
 
   const [page, setPage] = useState(initialPage);
   const [selectedJobId, setSelectedJobId] = useState<string | null>(
@@ -116,21 +118,6 @@ export default function JobsBoard({
     trans,
     victimas,
   };
-
-  useEffect(() => {
-    const mediaQuery = window.matchMedia("(min-width: 1024px)");
-
-    const applyMode = () => {
-      setViewportMode(mediaQuery.matches ? "desktop" : "mobile");
-    };
-
-    applyMode();
-    mediaQuery.addEventListener("change", applyMode);
-
-    return () => {
-      mediaQuery.removeEventListener("change", applyMode);
-    };
-  }, []);
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -195,16 +182,19 @@ export default function JobsBoard({
     return () => window.removeEventListener("popstate", onPopState);
   }, []);
 
-  const handleSelectJob = useCallback((jobId: string) => {
-    setSelectedJobId(jobId);
-    if (!window.matchMedia("(max-width: 1023px)").matches) {
-      return;
-    }
-    const params = new URLSearchParams(window.location.search);
-    params.set("job", jobId);
-    pushedJobRef.current = true;
-    window.history.pushState(null, "", `?${params.toString()}`);
-  }, []);
+  const handleSelectJob = useCallback(
+    (jobId: string) => {
+      setSelectedJobId(jobId);
+      if (!isMobile) {
+        return;
+      }
+      const params = new URLSearchParams(window.location.search);
+      params.set("job", jobId);
+      pushedJobRef.current = true;
+      window.history.pushState(null, "", `?${params.toString()}`);
+    },
+    [isMobile],
+  );
 
   const closeDrawer = useCallback(() => {
     if (pushedJobRef.current) {
@@ -281,15 +271,14 @@ export default function JobsBoard({
     [jobs, selectedJobId],
   );
   useEffect(() => {
-    if (viewportMode !== "desktop" || !urlReady) return;
+    if (isDesktop !== true || !urlReady) return;
     if (selectedJobId && filtered.some((job) => job.id === selectedJobId)) {
       return;
     }
     const firstJob = filtered[startOffset];
     if (firstJob) setSelectedJobId(firstJob.id);
-  }, [viewportMode, urlReady, selectedJobId, filtered, startOffset]);
+  }, [isDesktop, urlReady, selectedJobId, filtered, startOffset]);
 
-  const isMobile = viewportMode === "mobile";
   const isDrawerOpen = isMobile && selectedJob !== null;
 
   useEffect(() => {
@@ -310,18 +299,7 @@ export default function JobsBoard({
   }
 
   if (loadError) {
-    return (
-      <section className="grid gap-4">
-        <p className="text-sm text-destructive">
-          No se pudieron cargar los llamados. {loadError}
-        </p>
-        <div>
-          <button type="button" className="btn" data-size="sm" onClick={retry}>
-            Reintentar
-          </button>
-        </div>
-      </section>
-    );
+    return <JobsLoadError message={loadError} onRetry={retry} />;
   }
 
   return (

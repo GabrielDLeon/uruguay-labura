@@ -1,6 +1,7 @@
 ---
 import type { QuotaJobsCounts } from "@/types/jobs";
 import { Icon } from "astro-icon/components";
+import { QUOTAS } from "@/lib/jobs-domain";
 
 export interface Props {
   quotas: QuotaJobsCounts;
@@ -8,40 +9,38 @@ export interface Props {
 
 const { quotas } = Astro.props;
 
-const quotaItems = [
-  {
-    key: "discapacidad",
-    label: "Discapacidad",
-    count: quotas.discapacidad,
+const PRESENTATION: Record<
+  keyof QuotaJobsCounts,
+  { icon: string; color: string; bgColor: string }
+> = {
+  discapacidad: {
     icon: "keyline-icons:accessibility-fill",
     color: "text-blue-600 dark:text-blue-400",
     bgColor: "bg-blue-100 dark:bg-blue-900/30",
   },
-  {
-    key: "afrodescendientes",
-    label: "Afrodescendientes",
-    count: quotas.afrodescendientes,
+  afrodescendientes: {
     icon: "keyline-icons:users-fill",
     color: "text-green-600 dark:text-green-400",
     bgColor: "bg-green-100 dark:bg-green-900/30",
   },
-  {
-    key: "trans",
-    label: "Trans",
-    count: quotas.trans,
+  trans: {
     icon: "mdi:gender-transgender",
     color: "text-purple-600 dark:text-purple-400",
     bgColor: "bg-purple-100 dark:bg-purple-900/30",
   },
-  {
-    key: "victimas",
-    label: "Víctimas delitos violentos",
-    count: quotas.victimas,
+  victimas: {
     icon: "keyline-icons:shield-user-fill",
     color: "text-amber-600 dark:text-amber-400",
     bgColor: "bg-amber-100 dark:bg-amber-900/30",
   },
-];
+};
+
+const quotaItems = QUOTAS.map((quota) => ({
+  key: quota.dashboardKey,
+  label: quota.label,
+  count: quotas[quota.dashboardKey],
+  ...PRESENTATION[quota.dashboardKey],
+}));
 
 const totalQuotaJobs = Object.values(quotas).reduce((s, c) => s + c, 0);
 ---

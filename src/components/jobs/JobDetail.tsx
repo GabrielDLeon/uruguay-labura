@@ -15,6 +15,7 @@ import {
   formatRelative,
 } from "@/lib/dates";
 import { parseJobDetailSections } from "@/lib/job-detail-markdown";
+import { QUOTAS } from "@/lib/jobs-domain";
 import { getCachedJobDetail, loadJobDetail } from "@/lib/jobs-details";
 import { appIcons } from "@/lib/icons";
 import type { JobRecord } from "@/types/jobs";
@@ -113,14 +114,9 @@ export default function JobDetail({ job, onBack }: Props) {
 
   const displayStatus = getDisplayStatus(job);
 
-  const quotaLabels = [
-    job.quotas.afrodescendientes ? "Afrodescendientes" : null,
-    job.quotas.discapacidad ? "Discapacidad" : null,
-    job.quotas.trans ? "Personas trans" : null,
-    job.quotas.victimasDelitosViolentos
-      ? "Víctimas de delitos violentos"
-      : null,
-  ].filter((label): label is string => label !== null);
+  const quotaLabels = QUOTAS.filter((quota) => job.quotas[quota.quotaKey]).map(
+    (quota) => quota.label,
+  );
 
   const registrationPeriod =
     job.openingDate || job.closingDate

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { Icon } from "@iconify/react/offline";
 
+import { useMediaQuery } from "@/components/common/useMediaQuery";
 import { appIcons } from "@/lib/icons";
 import { normalizeText } from "@/lib/organizations";
 
@@ -49,22 +50,10 @@ export default function FilterMenu({
 }: Props) {
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
-  const [isMobile, setIsMobile] = useState(false);
+  const isMobile = useMediaQuery("(max-width: 1023px)") ?? false;
   const rootRef = useRef<HTMLDivElement | null>(null);
   const dialogRef = useRef<HTMLDialogElement | null>(null);
   const searchInputRef = useRef<HTMLInputElement | null>(null);
-
-  useEffect(() => {
-    const mediaQuery = window.matchMedia("(max-width: 1023px)");
-    const applyMode = () => setIsMobile(mediaQuery.matches);
-
-    applyMode();
-    mediaQuery.addEventListener("change", applyMode);
-
-    return () => {
-      mediaQuery.removeEventListener("change", applyMode);
-    };
-  }, []);
 
   useEffect(() => {
     if (!isMobile) setOpen(false);
@@ -279,7 +268,7 @@ export default function FilterMenu({
             id={menuId}
             role="menu"
             aria-label={label}
-            className="bg-popover text-popover-foreground border-border absolute top-full left-0 z-30 mt-1 flex max-h-64 w-64 flex-col gap-0.5 overflow-y-auto rounded-md border p-1 shadow-md"
+            className="bg-popover text-popover-foreground border-border absolute top-full left-0 z-30 mt-1 flex max-h-64 w-max min-w-64 max-w-[min(28rem,calc(100vw-2rem))] flex-col gap-0.5 overflow-y-auto rounded-md border p-1 shadow-md"
           >
             {searchable ? (
               <div className="bg-popover border-border sticky top-0 z-10 border-b p-1">

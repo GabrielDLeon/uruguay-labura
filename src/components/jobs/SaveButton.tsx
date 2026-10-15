@@ -18,8 +18,7 @@ export default function SaveButton({ jobId }: Props) {
     (e: React.MouseEvent) => {
       e.stopPropagation();
       e.preventDefault();
-      const result = toggleSavedJob(jobId);
-      setSaved(result.saved);
+      setSaved(toggleSavedJob(jobId));
     },
     [jobId],
   );

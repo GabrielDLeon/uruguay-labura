@@ -41,9 +41,6 @@ export interface JobRecord {
   grado: string | null;
   organization: string | null;
   subOrganization: string | null;
-  department: string | null;
-  locality: string | null;
-  inciso: string | null;
   taskType: string | null;
   status: JobStatus;
   openingDate: string | null;
@@ -106,7 +103,6 @@ export interface JobsDataset {
   scrapedAt: string;
   total: number;
   jobs: JobRecord[];
-  dashboard?: DashboardData;
 }
 
 /** Criterios de filtrado del tablero de llamados. */

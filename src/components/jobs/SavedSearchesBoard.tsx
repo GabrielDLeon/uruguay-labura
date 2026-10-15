@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
+import JobsLoadError from "@/components/jobs/JobsLoadError";
 import SavedSearchCard from "@/components/jobs/SavedSearchCard";
 import useJobs from "@/components/jobs/useJobs";
 import {
@@ -48,18 +49,7 @@ export default function SavedSearchesBoard() {
   }
 
   if (loadError) {
-    return (
-      <section className="grid gap-4">
-        <p className="text-sm text-destructive">
-          No se pudieron cargar los llamados. {loadError}
-        </p>
-        <div>
-          <button type="button" className="btn" data-size="sm" onClick={retry}>
-            Reintentar
-          </button>
-        </div>
-      </section>
-    );
+    return <JobsLoadError message={loadError} onRetry={retry} />;
   }
 
   if (searches.length === 0) {

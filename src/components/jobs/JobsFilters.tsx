@@ -4,14 +4,13 @@ import type { ReactNode } from "react";
 import FilterMenu, {
   type FilterMenuOption,
 } from "@/components/common/FilterMenu";
+import { QUOTAS } from "@/lib/jobs-domain";
 import { appIcons } from "@/lib/icons";
 
-const QUOTA_OPTIONS: FilterMenuOption[] = [
-  { value: "afro", label: "Afrodescendientes" },
-  { value: "discapacidad", label: "Discapacidad" },
-  { value: "trans", label: "Personas trans" },
-  { value: "victimas", label: "Victimas delitos violentos" },
-];
+const QUOTA_OPTIONS: FilterMenuOption[] = QUOTAS.map((quota) => ({
+  value: quota.filterKey,
+  label: quota.label,
+}));
 
 interface Props {
   query: string;
@@ -83,7 +82,7 @@ export default function JobsFilters({
             type="text"
             autoFocus
             className="input pl-9"
-            placeholder="Buscar por título, organismo (o sigla), tarea o número de llamado"
+            placeholder="Buscar por título, organismo, tarea o número de llamado"
             aria-label="Buscar llamado"
             value={query}
             onChange={(event) => onQueryChange(event.target.value)}

@@ -6,10 +6,12 @@ import DashboardSection from "@/components/dashboard/DashboardSection.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import { absUrl, breadcrumbList } from "@/lib/seo";
 import { getBreadcrumbs } from "@/lib/breadcrumbs";
+import { computeDashboard } from "@/lib/jobs-domain";
 import type { JobsDataset } from "@/types/jobs";
 import jobsData from "@/data/jobs.generated.json";
 
 const dataset = jobsData as unknown as JobsDataset;
+const dashboard = computeDashboard(dataset.jobs, dataset.scrapedAt);
 
 const breadcrumbs = getBreadcrumbs(Astro.url.pathname);
 const jsonLd = {
@@ -39,8 +41,8 @@ const jsonLd = {
     />
 
     {
-      dataset.dashboard ? (
-        <DashboardSection dashboard={dataset.dashboard} />
+      dataset.jobs.length > 0 ? (
+        <DashboardSection dashboard={dashboard} />
       ) : (
         <p class="text-sm text-muted-foreground">
           No hay datos disponibles por el momento.
