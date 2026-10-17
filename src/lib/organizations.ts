@@ -3,22 +3,28 @@ import anvLogo from "@/assets/institutions/anv-logo.webp";
 import asseLogo from "@/assets/institutions/asse-logo.webp";
 import bhuLogo from "@/assets/institutions/bhu-logo.webp";
 import bpsLogo from "@/assets/institutions/bps-logo.webp";
+import brouLogo from "@/assets/institutions/brou-logo.webp";
 import bseLogo from "@/assets/institutions/bse-logo.webp";
 import canelonesLogo from "@/assets/institutions/canelones-logo.webp";
 import floridaLogo from "@/assets/institutions/florida-logo.webp";
+import fnrLogo from "@/assets/institutions/fnr-logo.webp";
 import incLogo from "@/assets/institutions/inc-logo.webp";
+import inauLogo from "@/assets/institutions/inau-logo.webp";
 import inumetLogo from "@/assets/institutions/inumet-logo.webp";
 import ministerioLogo from "@/assets/institutions/ministerio-logo.webp";
+import montevideoLogo from "@/assets/institutions/montevideo-logo.webp";
 import oseLogo from "@/assets/institutions/ose-logo.webp";
 import ortLogo from "@/assets/institutions/ort-logo.webp";
 import rioNegroLogo from "@/assets/institutions/rio-negro-logo.webp";
 import riveraLogo from "@/assets/institutions/rivera-logo.webp";
 import rochaLogo from "@/assets/institutions/rocha-logo.webp";
+import saltoLogo from "@/assets/institutions/salto-logo.webp";
 import sanJoseLogo from "@/assets/institutions/san-jose-logo.webp";
 import sorianoLogo from "@/assets/institutions/soriano-logo.webp";
 import tacuaremboLogo from "@/assets/institutions/tacuarembo-logo.webp";
 import udelarLogo from "@/assets/institutions/udelar-logo.webp";
 import ucuLogo from "@/assets/institutions/ucu-logo.webp";
+import ursecLogo from "@/assets/institutions/ursec-logo.webp";
 import utecLogo from "@/assets/institutions/utec-logo.webp";
 
 interface Organization {
@@ -55,11 +61,28 @@ const ORGANIZATIONS: Organization[] = [
     short: "UTE",
   },
   { name: "Agencia Nacional de Vivienda", short: "ANV", logo: anvLogo.src },
-  { name: "Banco de la República Oriental del Uruguay", short: "BROU" },
+  {
+    name: "Banco de la República Oriental del Uruguay",
+    short: "BROU",
+    aliases: ["Banco República"],
+    logo: brouLogo.src,
+  },
   { name: "Banco de Previsión Social", short: "BPS", logo: bpsLogo.src },
   { name: "Banco de Seguros del Estado", short: "BSE", logo: bseLogo.src },
   { name: "Banco Hipotecario del Uruguay", short: "BHU", logo: bhuLogo.src },
   { name: "Corporación Nacional para el Desarrollo", short: "CND" },
+  {
+    name: "Fondo Nacional de Recursos",
+    short: "FNR",
+    aliases: ["Fondo Nacional de Recursos - FNR"],
+    logo: fnrLogo.src,
+  },
+  {
+    name: "Instituto del Niño y Adolescente del Uruguay",
+    short: "INAU",
+    aliases: ["Instituto del Niño y Adolescente del Uruguay - INAU"],
+    logo: inauLogo.src,
+  },
   {
     name: "Instituto Nacional de Colonización",
     short: "INC",
@@ -85,7 +108,11 @@ const ORGANIZATIONS: Organization[] = [
   { name: "Intendencia de Florida", short: "Florida", logo: floridaLogo.src },
   { name: "Intendencia de Lavalleja", short: "Lavalleja" },
   { name: "Intendencia de Maldonado", short: "Maldonado" },
-  { name: "Intendencia de Montevideo", short: "Montevideo" },
+  {
+    name: "Intendencia de Montevideo",
+    short: "Montevideo",
+    logo: montevideoLogo.src,
+  },
   { name: "Intendencia de Paysandú", short: "Paysandú" },
   {
     name: "Intendencia de Río Negro",
@@ -94,7 +121,11 @@ const ORGANIZATIONS: Organization[] = [
   },
   { name: "Intendencia de Rivera", short: "Rivera", logo: riveraLogo.src },
   { name: "Intendencia de Rocha", short: "Rocha", logo: rochaLogo.src },
-  { name: "Intendencia de Salto", short: "Salto" },
+  {
+    name: "Intendencia de Salto",
+    short: "Salto",
+    logo: saltoLogo.src,
+  },
   {
     name: "Intendencia de San José",
     short: "San José",
@@ -167,9 +198,25 @@ const ORGANIZATIONS: Organization[] = [
   { name: "Ministerio del Interior", short: "MI", logo: ministerioLogo.src },
   { name: "PDU CCEE" },
   {
+    name: "Poder Judicial",
+    aliases: ["Poder Judicial de la República Oriental del Uruguay"],
+    logo: ministerioLogo.src,
+  },
+  {
+    name: "Poder Legislativo",
+    aliases: ["Poder Legislativo de la República Oriental del Uruguay"],
+    logo: ministerioLogo.src,
+  },
+  {
     name: "Presidencia de la República",
     short: "Presidencia",
     logo: ministerioLogo.src,
+  },
+  {
+    name: "Unidad Reguladora de Servicios de Comunicaciones",
+    short: "URSEC",
+    aliases: ["Unidad Reguladora de Servicios de Comunicaciones - URSEC"],
+    logo: ursecLogo.src,
   },
   {
     name: "Unidad Reguladora de Servicios de Energía y Agua",
