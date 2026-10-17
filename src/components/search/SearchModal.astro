@@ -11,14 +11,14 @@ const { wrapperClass = "mb-6" } = Astro.props;
 <div class={wrapperClass}>
   <button
     type="button"
-    class="flex h-9 w-full items-center gap-2 rounded-md border border-input bg-transparent px-3 py-1 text-left text-base text-muted-foreground shadow-xs outline-none transition-[color,box-shadow] md:text-sm dark:bg-input/30 cursor-pointer"
+    class="flex h-9 w-9 shrink-0 cursor-pointer items-center justify-center gap-2 rounded-md border border-input bg-transparent text-left text-base text-muted-foreground shadow-xs outline-none transition-[color,box-shadow] md:text-sm lg:w-full lg:justify-start lg:px-3 lg:py-1 dark:bg-input/30"
     id="search-trigger"
     aria-haspopup="dialog"
     aria-controls="search-dialog"
   >
     <Icon name="keyline-icons:search" class="size-4 shrink-0" />
-    <span>Buscar en Uruguay Labura...</span>
-    <kbd class="ml-auto hidden text-[10px] font-mono opacity-50 sm:inline"
+    <span class="hidden lg:inline">Buscar en Uruguay Labura...</span>
+    <kbd class="ml-auto hidden text-[10px] font-mono opacity-50 lg:inline"
       >Ctrl K</kbd
     >
   </button>

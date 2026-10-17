@@ -1,14 +1,8 @@
 import type { JobFilters, SavedSearch } from "@/types/jobs";
+import { QUOTAS } from "@/lib/jobs-domain";
 import { readJson, subscribeToKeys, writeJson } from "@/lib/storage";
 
 const STORAGE_KEY = "ul:savedSearches:v1";
-
-const QUOTA_LABELS: [keyof JobFilters, string][] = [
-  ["afro", "Afrodescendientes"],
-  ["discapacidad", "Discapacidad"],
-  ["trans", "Personas trans"],
-  ["victimas", "Víctimas delitos violentos"],
-];
 
 function isSavedSearch(value: unknown): value is SavedSearch {
   if (!value || typeof value !== "object") return false;
@@ -86,18 +80,6 @@ export function subscribeToSavedSearches(listener: () => void): () => void {
   return subscribeToKeys([STORAGE_KEY], listener);
 }
 
-export function criteriaFromSearchParams(params: URLSearchParams): JobFilters {
-  return {
-    query: params.get("q") ?? "",
-    organization: params.get("org") ?? "",
-    taskType: params.get("type") ?? "",
-    afro: params.get("afro") === "1",
-    discapacidad: params.get("disc") === "1",
-    trans: params.get("trans") === "1",
-    victimas: params.get("vict") === "1",
-  };
-}
-
 export function criteriaToSearchParams(criteria: JobFilters): URLSearchParams {
   const params = new URLSearchParams();
 
@@ -114,17 +96,7 @@ export function criteriaToSearchParams(criteria: JobFilters): URLSearchParams {
 
 /** Etiquetas legibles de los criterios activos, para chips y nombres. */
 export function describeCriteria(criteria: JobFilters): string[] {
-  const labels: string[] = [];
-
-  if (criteria.query) labels.push(criteria.query);
-  if (criteria.organization) labels.push(criteria.organization);
-  if (criteria.taskType) labels.push(criteria.taskType);
-
-  for (const [key, label] of QUOTA_LABELS) {
-    if (criteria[key] === true) labels.push(label);
-  }
-
-  return labels;
+  return criteriaChips(criteria).map((chip) => chip.label);
 }
 
 export type CriteriaChipKind = "query" | "organization" | "taskType" | "quota";
@@ -153,9 +125,13 @@ export function criteriaChips(criteria: JobFilters): CriteriaChip[] {
     chips.push({ key: "taskType", label: criteria.taskType, kind: "taskType" });
   }
 
-  for (const [key, label] of QUOTA_LABELS) {
-    if (criteria[key] === true) {
-      chips.push({ key, label, kind: "quota" });
+  for (const quota of QUOTAS) {
+    if (criteria[quota.filterKey]) {
+      chips.push({
+        key: quota.filterKey,
+        label: quota.label,
+        kind: "quota",
+      });
     }
   }
 

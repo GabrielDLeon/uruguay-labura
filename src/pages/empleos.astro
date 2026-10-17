@@ -19,8 +19,8 @@ import { formatDateShort } from "@/lib/dates";
     kind="pagina"
   />
 
-  <Block class="border-b border-border">
-    <PageHeader title="Llamados laborales de Uruguay">
+  <Block class="pb-5">
+    <PageHeader title="Llamados laborales de Uruguay" class="mb-3">
       Explorá los llamados abiertos de sitios oficiales de Uruguay y encontrá tu
       próxima oportunidad.
     </PageHeader>
@@ -40,20 +40,16 @@ import { formatDateShort } from "@/lib/dates";
     </p>
   </Block>
 
-  <Block>
-    <JobsBoard
-      client:load
-      initialQuery={Astro.url.searchParams.get("q") ?? ""}
-      initialOrganization={Astro.url.searchParams.get("org") ?? ""}
-      initialTaskType={Astro.url.searchParams.get("type") ?? ""}
-      initialAfro={Astro.url.searchParams.get("afro") === "1"}
-      initialDiscapacidad={Astro.url.searchParams.get("disc") === "1"}
-      initialTrans={Astro.url.searchParams.get("trans") === "1"}
-      initialVictimas={Astro.url.searchParams.get("vict") === "1"}
-      initialPage={Math.max(
-        1,
-        Number(Astro.url.searchParams.get("page") ?? "1"),
-      )}
-    />
-  </Block>
+  <JobsBoard
+    client:load
+    initialQuery={Astro.url.searchParams.get("q") ?? ""}
+    initialOrganization={Astro.url.searchParams.get("org") ?? ""}
+    initialTaskType={Astro.url.searchParams.get("type") ?? ""}
+    initialAfro={Astro.url.searchParams.get("afro") === "1"}
+    initialDiscapacidad={Astro.url.searchParams.get("disc") === "1"}
+    initialTrans={Astro.url.searchParams.get("trans") === "1"}
+    initialVictimas={Astro.url.searchParams.get("vict") === "1"}
+    initialPage={Math.max(1, Number(Astro.url.searchParams.get("page") ?? "1"))}
+    initialJobId={Astro.url.searchParams.get("job") ?? ""}
+  />
 </Layout>

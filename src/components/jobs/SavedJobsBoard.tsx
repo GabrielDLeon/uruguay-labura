@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 
 import JobsDataTable from "@/components/jobs/JobsDataTable";
 import JobsSkeleton from "@/components/jobs/JobsSkeleton";
+import JobsLoadError from "@/components/jobs/JobsLoadError";
 import useJobs from "@/components/jobs/useJobs";
 import { getSavedJobIds, subscribeToSavedJobs } from "@/lib/saved-jobs";
 
@@ -27,18 +28,7 @@ export default function SavedJobsBoard() {
   }
 
   if (loadError) {
-    return (
-      <section className="grid gap-4">
-        <p className="text-sm text-destructive">
-          No se pudieron cargar los llamados. {loadError}
-        </p>
-        <div>
-          <button type="button" className="btn" data-size="sm" onClick={retry}>
-            Reintentar
-          </button>
-        </div>
-      </section>
-    );
+    return <JobsLoadError message={loadError} onRetry={retry} />;
   }
 
   if (savedJobs.length === 0) {

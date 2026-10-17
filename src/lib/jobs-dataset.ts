@@ -1,4 +1,3 @@
-import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
 import type { JobRecord } from "@/types/jobs";
 
 export interface JobsDatasetPayload {
@@ -64,16 +63,4 @@ export function loadJobsDataset(force = false): Promise<JobsDatasetPayload> {
 
   inflightRequest = request;
   return request;
-}
-
-/** Solo llamados vigentes: sin cierre o con cierre hoy o después. */
-export function filterActiveJobs(jobs: JobRecord[]): JobRecord[] {
-  const today = startOfToday();
-
-  return jobs.filter((job) => {
-    if (!job.closingDate) return true;
-    const closing = parseDate(job.closingDate);
-    if (!closing) return true;
-    return startOfDay(closing) >= today;
-  });
 }

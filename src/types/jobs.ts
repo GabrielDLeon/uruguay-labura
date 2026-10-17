@@ -1,3 +1,20 @@
+/** Text detail of a single job, served as a static file per job. */
+export interface JobDetailPayload {
+  id: string;
+  markdown: string | null;
+}
+
+/**
+ * Build-time detail dataset (`src/data/job-details.generated.json`).
+ * It lives outside `jobs.generated.json` so the browser only downloads the
+ * detail of the job the visitor opens.
+ */
+export interface JobDetailsDataset {
+  scrapedAt: string;
+  total: number;
+  details: JobDetailPayload[];
+}
+
 export type JobStatus = "abierto" | "cerrado" | "otro";
 
 export interface JobQuotaFlags {
@@ -20,11 +37,10 @@ export interface JobRecord {
   title: string;
   position: string | null;
   location: string | null;
+  modalidad: string[];
+  grado: string | null;
   organization: string | null;
   subOrganization: string | null;
-  department: string | null;
-  locality: string | null;
-  inciso: string | null;
   taskType: string | null;
   status: JobStatus;
   openingDate: string | null;
@@ -87,7 +103,6 @@ export interface JobsDataset {
   scrapedAt: string;
   total: number;
   jobs: JobRecord[];
-  dashboard?: DashboardData;
 }
 
 /** Criterios de filtrado del tablero de llamados. */

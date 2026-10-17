@@ -1,11 +1,11 @@
 import { useCallback, useEffect, useState } from "react";
 
 import type { JobRecord } from "@/types/jobs";
-import { filterActiveJobs, loadJobsDataset } from "@/lib/jobs-dataset";
+import { filterActiveJobs } from "@/lib/jobs-domain";
+import { loadJobsDataset } from "@/lib/jobs-dataset";
 
 export default function useJobs() {
   const [jobs, setJobs] = useState<JobRecord[]>([]);
-  const [scrapedAt, setScrapedAt] = useState<string | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [requestAttempt, setRequestAttempt] = useState(0);
@@ -20,7 +20,6 @@ export default function useJobs() {
       .then((dataset) => {
         if (!active) return;
         setJobs(filterActiveJobs(dataset.jobs));
-        setScrapedAt(dataset.scrapedAt);
       })
       .catch((error) => {
         if (!active) return;
@@ -47,7 +46,6 @@ export default function useJobs() {
 
   return {
     jobs,
-    scrapedAt,
     loadError,
     isLoading,
     retry,

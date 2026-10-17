@@ -13,22 +13,19 @@ function setSavedJobIds(ids: string[]): void {
   writeJson(STORAGE_KEY, ids);
 }
 
-export function toggleSavedJob(id: string): {
-  saved: boolean;
-  ids: string[];
-} {
+export function toggleSavedJob(id: string): boolean {
   const current = getSavedJobIds();
   const index = current.indexOf(id);
 
   if (index >= 0) {
     current.splice(index, 1);
     setSavedJobIds(current);
-    return { saved: false, ids: current };
+    return false;
   }
 
   current.push(id);
   setSavedJobIds(current);
-  return { saved: true, ids: current };
+  return true;
 }
 
 export function subscribeToSavedJobs(listener: () => void): () => void {

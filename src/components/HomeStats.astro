@@ -1,32 +1,23 @@
 ---
-import type { JobsDataset, JobRecord } from "@/types/jobs";
+import type { JobsDataset } from "@/types/jobs";
 import jobsData from "@/data/jobs.generated.json";
-import { getDisplayStatus } from "@/components/jobs/jobs";
-import { parseDate, startOfDay, startOfToday } from "@/lib/dates";
+import { filterActiveJobs } from "@/lib/jobs-domain";
 
 const dataset = jobsData as unknown as JobsDataset;
 
-const todayStart = startOfToday();
-
-const activeJobs = dataset.jobs.filter((job: JobRecord) => {
-  if (getDisplayStatus(job) !== "abierto") return false;
-  if (!job.closingDate) return true;
-  const closing = parseDate(job.closingDate);
-  if (!closing) return true;
-  return startOfDay(closing) >= todayStart;
-});
+const activeJobs = filterActiveJobs(dataset.jobs);
 
 const uniqueOrganizations = new Set(
-  activeJobs.map((j: JobRecord) => j.organization).filter(Boolean),
+  activeJobs.map((job) => job.organization).filter(Boolean),
 );
 
 const totalPositions = activeJobs.reduce(
-  (sum: number, j: JobRecord) => sum + (j.totalPositions ?? 0),
+  (sum, job) => sum + (job.totalPositions ?? 0),
   0,
 );
 
 const uniqueTaskTypes = new Set(
-  activeJobs.map((j: JobRecord) => j.taskType).filter(Boolean),
+  activeJobs.map((job) => job.taskType).filter(Boolean),
 );
 ---
 
