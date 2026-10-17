@@ -242,7 +242,19 @@ export async function fetchAndProcessJobs(sourceUrl) {
     );
   }
 
-  const sourcePayload = await readSourceData(sourceUrl);
+  let sourcePayload;
+  try {
+    sourcePayload = await readSourceData(sourceUrl);
+  } catch (error) {
+    if (!datasetExists) {
+      throw error;
+    }
+    console.warn(
+      `[prebuild-jobs] Could not read source data (${error.message}); keeping the existing dataset at src/data/jobs.generated.json`,
+    );
+    return;
+  }
+
   // Day precision: keeps the generated dataset byte-identical between builds
   // on the same day, so the module hash of jobs.generated.json doesn't change.
   const nowIso = new Date().toISOString().slice(0, 10);
