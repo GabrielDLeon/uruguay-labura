@@ -6,11 +6,14 @@ import bpsLogo from "@/assets/institutions/bps-logo.webp";
 import brouLogo from "@/assets/institutions/brou-logo.webp";
 import bseLogo from "@/assets/institutions/bse-logo.webp";
 import canelonesLogo from "@/assets/institutions/canelones-logo.webp";
+import cndLogo from "@/assets/institutions/cnd-logo.webp";
+import fgnLogo from "@/assets/institutions/fgn-logo.webp";
 import floridaLogo from "@/assets/institutions/florida-logo.webp";
 import fnrLogo from "@/assets/institutions/fnr-logo.webp";
 import incLogo from "@/assets/institutions/inc-logo.webp";
 import inauLogo from "@/assets/institutions/inau-logo.webp";
 import inumetLogo from "@/assets/institutions/inumet-logo.webp";
+import lavallejaLogo from "@/assets/institutions/lavalleja-logo.webp";
 import ministerioLogo from "@/assets/institutions/ministerio-logo.webp";
 import montevideoLogo from "@/assets/institutions/montevideo-logo.webp";
 import oseLogo from "@/assets/institutions/ose-logo.webp";
@@ -24,6 +27,7 @@ import sorianoLogo from "@/assets/institutions/soriano-logo.webp";
 import tacuaremboLogo from "@/assets/institutions/tacuarembo-logo.webp";
 import udelarLogo from "@/assets/institutions/udelar-logo.webp";
 import ucuLogo from "@/assets/institutions/ucu-logo.webp";
+import urseaLogo from "@/assets/institutions/ursea-logo.webp";
 import ursecLogo from "@/assets/institutions/ursec-logo.webp";
 import utecLogo from "@/assets/institutions/utec-logo.webp";
 
@@ -70,7 +74,16 @@ const ORGANIZATIONS: Organization[] = [
   { name: "Banco de Previsión Social", short: "BPS", logo: bpsLogo.src },
   { name: "Banco de Seguros del Estado", short: "BSE", logo: bseLogo.src },
   { name: "Banco Hipotecario del Uruguay", short: "BHU", logo: bhuLogo.src },
-  { name: "Corporación Nacional para el Desarrollo", short: "CND" },
+  {
+    name: "Corporación Nacional para el Desarrollo",
+    short: "CND",
+    logo: cndLogo.src,
+  },
+  {
+    name: "Fiscalía General de la Nación",
+    short: "FGN",
+    logo: fgnLogo.src,
+  },
   {
     name: "Fondo Nacional de Recursos",
     short: "FNR",
@@ -106,7 +119,11 @@ const ORGANIZATIONS: Organization[] = [
   { name: "Intendencia de Durazno", short: "Durazno" },
   { name: "Intendencia de Flores", short: "Flores" },
   { name: "Intendencia de Florida", short: "Florida", logo: floridaLogo.src },
-  { name: "Intendencia de Lavalleja", short: "Lavalleja" },
+  {
+    name: "Intendencia de Lavalleja",
+    short: "Lavalleja",
+    logo: lavallejaLogo.src,
+  },
   { name: "Intendencia de Maldonado", short: "Maldonado" },
   {
     name: "Intendencia de Montevideo",
@@ -221,6 +238,7 @@ const ORGANIZATIONS: Organization[] = [
   {
     name: "Unidad Reguladora de Servicios de Energía y Agua",
     short: "URSEA",
+    logo: urseaLogo.src,
   },
   { name: "Universidad Católica del Uruguay", short: "UCU", logo: ucuLogo.src },
   {
