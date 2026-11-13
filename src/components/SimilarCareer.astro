@@ -28,31 +28,25 @@ const {
   class="flex flex-col gap-2 rounded-lg border p-4 transition-colors hover:bg-muted"
 >
   <div class="flex gap-3">
-    {
-      institutionLogo && (
-        <Image
-          src={institutionLogo}
-          alt={institutionName}
-          class="h-10 w-auto object-contain shrink-0 mt-0.5 rounded"
-        />
-      )
-    }
+    {institutionLogo && (
+      <Image
+        src={institutionLogo}
+        alt={institutionName}
+        class="h-10 w-auto object-contain shrink-0 mt-0.5 rounded"
+      />
+    )}
     <div class="flex flex-col gap-1 min-w-0">
       <h3 class="text-sm font-semibold text-foreground leading-snug">
         {title}
       </h3>
-      <p class="text-xs text-muted-foreground truncate">
-        {institutionName}
-      </p>
+      <p class="text-xs text-muted-foreground truncate">{institutionName}</p>
     </div>
   </div>
-  {
-    description ? (
-      <p class="text-xs text-muted-foreground line-clamp-2 leading-normal">
-        {description}
-      </p>
-    ) : null
-  }
+  {description ? (
+    <p class="text-xs text-muted-foreground line-clamp-2 leading-normal">
+      {description}
+    </p>
+  ) : null}
   <div class="flex flex-wrap gap-1">
     <span class="badge text-xs" data-variant="outline">
       {degreeTypeLabel}

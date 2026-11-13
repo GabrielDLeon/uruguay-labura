@@ -55,13 +55,11 @@ const { title, description, jsonLd, breadcrumbs } = Astro.props;
     <Banner />
     <Header />
     <main class="mx-auto w-full max-w-7xl flex-1 border-x">
-      {
-        breadcrumbs && breadcrumbs.length > 0 ? (
-          <Block class="border-b border-border sm:py-4">
-            <Breadcrumbs items={breadcrumbs} />
-          </Block>
-        ) : null
-      }
+      {breadcrumbs && breadcrumbs.length > 0 ? (
+        <Block class="border-b border-border sm:py-4">
+          <Breadcrumbs items={breadcrumbs} />
+        </Block>
+      ) : null}
       <slot />
     </main>
     <Footer />

@@ -3,6 +3,7 @@ import Layout from "@/layouts/Layout.astro";
 import { Icon } from "astro-icon/components";
 import { getCollection } from "astro:content";
 import HomeHero from "@/components/home/HomeHero.astro";
+import SectionCard from "@/components/home/SectionCard.astro";
 import PatternDivider from "@/components/home/PatternDivider.astro";
 import PagefindIndex from "@/components/PagefindIndex.astro";
 import { filterActiveJobs } from "@/lib/jobs-domain";
@@ -56,9 +57,7 @@ const careers = await getCollection("careers");
         </p>
         <p class="mt-1 text-xs text-muted-foreground">Organismos</p>
       </div>
-      <div
-        class="border-t border-r border-border px-4 py-5 text-center sm:border-t-0 sm:py-6"
-      >
+      <div class="border-t border-r border-border px-4 py-5 text-center sm:border-t-0 sm:py-6">
         <p
           class="font-mono text-2xl font-semibold text-foreground tabular-nums sm:text-3xl"
           data-count={totalPositions > 0 ? totalPositions : undefined}
@@ -67,9 +66,7 @@ const careers = await getCollection("careers");
         </p>
         <p class="mt-1 text-xs text-muted-foreground">Puestos totales</p>
       </div>
-      <div
-        class="border-t border-border px-4 py-5 text-center sm:border-t-0 sm:py-6"
-      >
+      <div class="border-t border-border px-4 py-5 text-center sm:border-t-0 sm:py-6">
         <p
           class="font-mono text-2xl font-semibold text-foreground tabular-nums sm:text-3xl"
           data-count={careers.length}
@@ -118,83 +115,24 @@ const careers = await getCollection("careers");
     class="grid border-b border-border sm:grid-cols-2"
     aria-label="Secciones"
   >
-    <a
+    <SectionCard
       href="/empleos"
-      class="group flex flex-col justify-between gap-6 border-b border-border bg-card p-6 sm:border-r sm:border-b-0 sm:p-8"
-    >
-      <div>
-        <div class="flex items-center justify-between">
-          <span
-            class="flex size-10 items-center justify-center rounded-lg border border-border bg-muted text-foreground"
-          >
-            <Icon
-              name="keyline-icons:briefcase-fill"
-              class="size-5"
-              aria-hidden="true"
-            />
-          </span>
-          <span class="badge" data-variant="secondary">
-            {activeJobs.length} abiertos
-          </span>
-        </div>
-        <h2 class="mt-6 text-2xl font-semibold tracking-tight text-foreground">
-          Empleos
-        </h2>
-        <p class="mt-2 max-w-md text-sm text-muted-foreground">
-          Llamados de sitios oficiales de Uruguay con filtros, guardados y vista
-          centralizada. Postulás siempre en el sitio oficial.
-        </p>
-      </div>
-      <span
-        class="inline-flex items-center gap-2 text-sm font-medium text-foreground"
-      >
-        Explorar llamados
-        <Icon
-          name="keyline-icons:arrow-right-fill"
-          class="size-4"
-          aria-hidden="true"
-        />
-      </span>
-    </a>
+      icon="keyline-icons:briefcase-fill"
+      badge={`${activeJobs.length} abiertos`}
+      title="Empleos"
+      description="Llamados de sitios oficiales de Uruguay con filtros, guardados y vista centralizada. Postulás siempre en el sitio oficial."
+      cta="Explorar llamados"
+      class="border-b border-border sm:border-r sm:border-b-0"
+    />
 
-    <a
+    <SectionCard
       href="/educacion"
-      class="group flex flex-col justify-between gap-6 bg-card p-6 sm:p-8"
-    >
-      <div>
-        <div class="flex items-center justify-between">
-          <span
-            class="flex size-10 items-center justify-center rounded-lg border border-border bg-muted text-foreground"
-          >
-            <Icon
-              name="keyline-icons:graduation-cap-fill"
-              class="size-5"
-              aria-hidden="true"
-            />
-          </span>
-          <span class="badge" data-variant="secondary">
-            {careers.length} programas
-          </span>
-        </div>
-        <h2 class="mt-6 text-2xl font-semibold tracking-tight text-foreground">
-          Educación
-        </h2>
-        <p class="mt-2 max-w-md text-sm text-muted-foreground">
-          Carreras, instituciones y becas para seguir creciendo profesionalmente
-          en Uruguay.
-        </p>
-      </div>
-      <span
-        class="inline-flex items-center gap-2 text-sm font-medium text-foreground"
-      >
-        Explorar educación
-        <Icon
-          name="keyline-icons:arrow-right-fill"
-          class="size-4"
-          aria-hidden="true"
-        />
-      </span>
-    </a>
+      icon="keyline-icons:graduation-cap-fill"
+      badge={`${careers.length} programas`}
+      title="Educación"
+      description="Carreras, instituciones y becas para seguir creciendo profesionalmente en Uruguay."
+      cta="Explorar educación"
+    />
   </section>
 
   <PatternDivider />

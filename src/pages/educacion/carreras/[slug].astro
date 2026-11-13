@@ -186,78 +186,73 @@ const jsonLd = {
 
 <Layout
   title={entry.data.title}
-  description={entry.data.description ??
-    `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`}
+  description={
+    entry.data.description ??
+    `${entry.data.degreeType} en ${entry.data.area} ofrecido por ${entry.data.institutionName}.`
+  }
   jsonLd={jsonLd}
   breadcrumbs={breadcrumbs}
 >
   <Block class="border-b">
     <div class="flex items-center gap-4">
-      {
-        institutionEntry?.data.logo && (
-          <Image
-            src={institutionEntry.data.logo}
-            alt={institutionEntry.data.name}
-            class="h-16 w-auto object-contain shrink-0 mt-1 rounded-lg sm:h-20"
-          />
-        )
-      }
+      {institutionEntry?.data.logo && (
+        <Image
+          src={institutionEntry.data.logo}
+          alt={institutionEntry.data.name}
+          class="h-16 w-auto object-contain shrink-0 mt-1 rounded-lg sm:h-20"
+        />
+      )}
       <div>
         <h1 class="text-2xl mb-1 font-semibold text-foreground sm:text-3xl">
           {entry.data.title}
         </h1>
         <p class="text-muted-foreground text-base">
-          {
-            entry.data.institution ? (
-              <a
-                href={`/educacion/instituciones/${entry.data.institution}`}
-                class="hover:underline"
-              >
-                {entry.data.institutionName}
-              </a>
-            ) : (
-              entry.data.institutionName
-            )
-          }
+          {entry.data.institution ? (
+            <a
+              href={`/educacion/instituciones/${entry.data.institution}`}
+              class="hover:underline"
+            >
+              {entry.data.institutionName}
+            </a>
+          ) : (
+            entry.data.institutionName
+          )}
         </p>
       </div>
     </div>
   </Block>
 
-  {
-    entry.data.searchable ? (
-      <PagefindIndex
-        title={entry.data.title}
-        description={entry.data.description}
-        kind="carrera"
-        meta={{
-          degreeType:
-            degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType,
-          modality: modalityLabels[entry.data.modality] ?? entry.data.modality,
-          description: entry.data.description ?? undefined,
-        }}
-      />
-    ) : null
-  }
+  {entry.data.searchable ? (
+    <PagefindIndex
+      title={entry.data.title}
+      description={entry.data.description}
+      kind="carrera"
+      meta={{
+        degreeType:
+          degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType,
+        modality: modalityLabels[entry.data.modality] ?? entry.data.modality,
+        description: entry.data.description ?? undefined,
+      }}
+    />
+  ) : null}
 
   <div data-pagefind-ignore="all">
     <div class="grid md:grid-cols-3">
       <aside class="h-full md:order-2 md:border-l mb-8 md:mb-0">
         <Block class="flex h-full flex-col gap-8">
-          {
-            entry.data.description ? (
-              <AsideSection title="Descripción">
-                <p class="text-sm text-foreground leading-relaxed">
-                  {entry.data.description}
-                </p>
-              </AsideSection>
-            ) : null
-          }
+          {entry.data.description ? (
+            <AsideSection title="Descripción">
+              <p class="text-sm text-foreground leading-relaxed">
+                {entry.data.description}
+              </p>
+            </AsideSection>
+          ) : null}
           <section class="space-y-3">
             <BarIndicator
               label="Tipo"
-              value={degreeTypeLabels[entry.data.degreeType] ??
-                entry.data.degreeType}
+              value={
+                degreeTypeLabels[entry.data.degreeType] ?? entry.data.degreeType
+              }
               total={4}
               filled={getDegreeTypeBarInfo(entry.data.degreeType).filled}
             />
@@ -272,40 +267,36 @@ const jsonLd = {
             <KeyValueList items={detailItems} />
           </AsideSection>
 
-          {
-            solidarityFund.applies ? (
-              <SolidarityFundInfo
-                tier={solidarityFund.tier}
-                additional={solidarityFund.additional}
-              />
-            ) : null
-          }
+          {solidarityFund.applies ? (
+            <SolidarityFundInfo
+              tier={solidarityFund.tier}
+              additional={solidarityFund.additional}
+            />
+          ) : null}
 
-          {
-            careerBecas.length > 0 ? (
-              <AsideSection title="Becas">
-                <div class="flex flex-col gap-2">
-                  {careerBecas.map((beca) => (
-                    <a
-                      href={`/educacion/becas/${beca.id}`}
-                      class="rounded-lg border border-border bg-muted/30 p-4 block hover:bg-accent/50 transition-colors"
-                    >
-                      <span class="flex items-center gap-2 text-sm text-foreground font-medium">
-                        <Icon
-                          name="keyline-icons:hand-coins-fill"
-                          class="size-4 shrink-0"
-                        />
-                        <span>{beca.data.title}</span>
-                      </span>
-                      <span class="text-xs text-muted-foreground mt-1 block">
-                        {beca.data.institution}
-                      </span>
-                    </a>
-                  ))}
-                </div>
-              </AsideSection>
-            ) : null
-          }
+          {careerBecas.length > 0 ? (
+            <AsideSection title="Becas">
+              <div class="flex flex-col gap-2">
+                {careerBecas.map((beca) => (
+                  <a
+                    href={`/educacion/becas/${beca.id}`}
+                    class="rounded-lg border border-border bg-muted/30 p-4 block hover:bg-accent/50 transition-colors"
+                  >
+                    <span class="flex items-center gap-2 text-sm text-foreground font-medium">
+                      <Icon
+                        name="keyline-icons:hand-coins-fill"
+                        class="size-4 shrink-0"
+                      />
+                      <span>{beca.data.title}</span>
+                    </span>
+                    <span class="text-xs text-muted-foreground mt-1 block">
+                      {beca.data.institution}
+                    </span>
+                  </a>
+                ))}
+              </div>
+            </AsideSection>
+          ) : null}
 
           <AsideSection title="Contacto">
             <div class="flex flex-col gap-2">
@@ -318,41 +309,37 @@ const jsonLd = {
               >
                 Sitio web oficial
               </a>
-              {
-                entry.data.contactEmail ? (
-                  Array.isArray(entry.data.contactEmail) ? (
-                    entry.data.contactEmail.map((email) => (
-                      <button
-                        type="button"
-                        class="btn"
-                        data-variant="outline"
-                        data-copy={email}
-                      >
-                        {email}
-                      </button>
-                    ))
-                  ) : (
+              {entry.data.contactEmail ? (
+                Array.isArray(entry.data.contactEmail) ? (
+                  entry.data.contactEmail.map((email) => (
                     <button
                       type="button"
                       class="btn"
                       data-variant="outline"
-                      data-copy={entry.data.contactEmail}
+                      data-copy={email}
                     >
-                      {entry.data.contactEmail}
+                      {email}
                     </button>
-                  )
-                ) : null
-              }
+                  ))
+                ) : (
+                  <button
+                    type="button"
+                    class="btn"
+                    data-variant="outline"
+                    data-copy={entry.data.contactEmail}
+                  >
+                    {entry.data.contactEmail}
+                  </button>
+                )
+              ) : null}
             </div>
           </AsideSection>
 
-          {
-            entry.data.sources.length > 0 ? (
-              <AsideSection title="Fuentes">
-                <SourcesList sources={entry.data.sources} />
-              </AsideSection>
-            ) : null
-          }
+          {entry.data.sources.length > 0 ? (
+            <AsideSection title="Fuentes">
+              <SourcesList sources={entry.data.sources} />
+            </AsideSection>
+          ) : null}
 
           <div class="flex flex-col gap-2">
             <LastUpdated
@@ -389,56 +376,51 @@ const jsonLd = {
 
       <div class="md:order-1 md:col-span-2 min-w-0">
         <section id="tabbed-content">
-          {
-            hasSections ? (
-              <TabsContent
-                sections={entry.data.sections}
-                introHtml={entry.data.introHtml}
-              />
-            ) : (
-              <Content />
-            )
-          }
+          {hasSections ? (
+            <TabsContent
+              sections={entry.data.sections}
+              introHtml={entry.data.introHtml}
+            />
+          ) : (
+            <Content />
+          )}
         </section>
       </div>
     </div>
 
-    {
-      similarEntries.length > 0 ? (
-        <Block class="border-t">
-          <h2 class="text-lg font-semibold text-foreground mb-4">
-            Te podría interesar
-          </h2>
-          <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {similarEntries.map((similar) => {
-              const inst = institutions.find(
-                (i) => i.id === similar.data.institution,
-              );
-              return (
-                <SimilarCareer
-                  title={similar.data.short ?? similar.data.title}
-                  institutionName={
-                    inst?.data.short ??
-                    inst?.data.name ??
-                    similar.data.institutionName
-                  }
-                  institutionLogo={inst?.data.logo}
-                  description={similar.data.description}
-                  degreeTypeLabel={
-                    degreeTypeLabels[similar.data.degreeType] ??
-                    similar.data.degreeType
-                  }
-                  modalityLabel={
-                    modalityLabels[similar.data.modality] ??
-                    similar.data.modality
-                  }
-                  url={`/educacion/carreras/${similar.id}`}
-                />
-              );
-            })}
-          </div>
-        </Block>
-      ) : null
-    }
+    {similarEntries.length > 0 ? (
+      <Block class="border-t">
+        <h2 class="text-lg font-semibold text-foreground mb-4">
+          Te podría interesar
+        </h2>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {similarEntries.map((similar) => {
+            const inst = institutions.find(
+              (i) => i.id === similar.data.institution,
+            );
+            return (
+              <SimilarCareer
+                title={similar.data.short ?? similar.data.title}
+                institutionName={
+                  inst?.data.short ??
+                  inst?.data.name ??
+                  similar.data.institutionName
+                }
+                institutionLogo={inst?.data.logo}
+                description={similar.data.description}
+                degreeTypeLabel={
+                  degreeTypeLabels[similar.data.degreeType] ??
+                  similar.data.degreeType
+                }
+                modalityLabel={
+                  modalityLabels[similar.data.modality] ?? similar.data.modality
+                }
+                url={`/educacion/carreras/${similar.id}`}
+              />
+            );
+          })}
+        </div>
+      </Block>
+    ) : null}
   </div>
 </Layout>

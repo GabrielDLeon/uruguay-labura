@@ -40,41 +40,33 @@ const category = primaryTag ? typeLabels[primaryTag] : undefined;
   href={url}
   class="not-prose group flex items-start gap-4 rounded-lg border border-border bg-muted/30 p-4 transition-colors hover:bg-accent/50"
 >
-  {
-    image ? (
-      <div class="flex size-12 shrink-0 items-center justify-center rounded-md overflow-hidden">
-        <Image
-          src={image}
-          alt={short ?? title}
-          class="h-full w-full object-cover"
-        />
-      </div>
-    ) : (
-      <div class="flex size-12 shrink-0 items-center justify-center rounded-md bg-primary/10">
-        <Icon name={icon} class="size-6 text-primary" />
-      </div>
-    )
-  }
+  {image ? (
+    <div class="flex size-12 shrink-0 items-center justify-center rounded-md overflow-hidden">
+      <Image
+        src={image}
+        alt={short ?? title}
+        class="h-full w-full object-cover"
+      />
+    </div>
+  ) : (
+    <div class="flex size-12 shrink-0 items-center justify-center rounded-md bg-primary/10">
+      <Icon name={icon} class="size-6 text-primary" />
+    </div>
+  )}
   <div class="min-w-0 flex-1">
     <div class="flex items-start justify-between gap-2">
-      <h4 class="text-sm font-semibold text-foreground">
-        {short ?? title}
-      </h4>
-      {
-        category ? (
-          <span class="badge text-xs shrink-0" data-variant="outline">
-            {category}
-          </span>
-        ) : null
-      }
+      <h4 class="text-sm font-semibold text-foreground">{short ?? title}</h4>
+      {category ? (
+        <span class="badge text-xs shrink-0" data-variant="outline">
+          {category}
+        </span>
+      ) : null}
     </div>
 
-    {
-      description || type ? (
-        <p class="mt-1.5 text-xs text-muted-foreground line-clamp-2">
-          {description ?? type}
-        </p>
-      ) : null
-    }
+    {description || type ? (
+      <p class="mt-1.5 text-xs text-muted-foreground line-clamp-2">
+        {description ?? type}
+      </p>
+    ) : null}
   </div>
 </a>

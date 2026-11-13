@@ -13,9 +13,7 @@ const { title, description, kind, meta } = Astro.props;
   <h1>{title}</h1>
   {description ? <p>{description}</p> : null}
   <span data-pagefind-meta={`kind:${kind}`}></span>
-  {
-    Object.entries(meta ?? {}).map(([key, value]) =>
-      value ? <span data-pagefind-meta={`${key}:${value}`} /> : null,
-    )
-  }
+  {Object.entries(meta ?? {}).map(([key, value]) =>
+    value ? <span data-pagefind-meta={`${key}:${value}`} /> : null,
+  )}
 </div>

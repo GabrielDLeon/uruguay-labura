@@ -23,12 +23,10 @@ const activeColor = levelColors[Math.min(filled - 1, levelColors.length - 1)]!;
     <span class="text-foreground text-sm">{value}</span>
   </div>
   <div class="flex gap-1">
-    {
-      Array.from({ length: total }, (_, i) => (
-        <div
-          class={`h-1.5 flex-1 rounded-full ${i < filled ? activeColor : "bg-[var(--bar-inactive)]"}`}
-        />
-      ))
-    }
+    {Array.from({ length: total }, (_, i) => (
+      <div
+        class={`h-1.5 flex-1 rounded-full ${i < filled ? activeColor : "bg-[var(--bar-inactive)]"}`}
+      />
+    ))}
   </div>
 </div>

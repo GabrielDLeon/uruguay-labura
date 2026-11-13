@@ -40,14 +40,12 @@ const jsonLd = {
       description="Estadísticas agregadas de los llamados de sitios oficiales de Uruguay: evolución en el tiempo, organismos con más llamados, distribución por tipo de tarea y cuotas."
     />
 
-    {
-      dataset.jobs.length > 0 ? (
-        <DashboardSection dashboard={dashboard} />
-      ) : (
-        <p class="text-sm text-muted-foreground">
-          No hay datos disponibles por el momento.
-        </p>
-      )
-    }
+    {dataset.jobs.length > 0 ? (
+      <DashboardSection dashboard={dashboard} />
+    ) : (
+      <p class="text-sm text-muted-foreground">
+        No hay datos disponibles por el momento.
+      </p>
+    )}
   </Block>
 </Layout>

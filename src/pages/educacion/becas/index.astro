@@ -45,19 +45,17 @@ const jsonLd = {
     />
 
     <section class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {
-        entries.map((entry) => (
-          <ScholarshipCard
-            title={entry.data.title}
-            short={entry.data.short}
-            url={`/educacion/becas/${entry.id}`}
-            description={entry.data.description}
-            type={entry.data.type}
-            tags={entry.data.tags}
-            image={entry.data.image}
-          />
-        ))
-      }
+      {entries.map((entry) => (
+        <ScholarshipCard
+          title={entry.data.title}
+          short={entry.data.short}
+          url={`/educacion/becas/${entry.id}`}
+          description={entry.data.description}
+          type={entry.data.type}
+          tags={entry.data.tags}
+          image={entry.data.image}
+        />
+      ))}
     </section>
   </Block>
 </Layout>

@@ -78,13 +78,13 @@ const gradientStyle = buildConicGradient(pieItems, COLORS);
   <div class="flex flex-col items-center gap-6 sm:flex-row sm:items-start">
     <!-- Donut chart -->
     <div class="relative shrink-0">
-      <div class="size-44 rounded-full" style={{ background: gradientStyle }}>
-      </div>
+      <div
+        class="size-44 rounded-full"
+        style={{ background: gradientStyle }}
+      ></div>
       <!-- Inner hole for donut effect -->
       <div class="absolute inset-0 flex items-center justify-center">
-        <div
-          class="flex size-24 items-center justify-center rounded-full bg-[var(--card-bg)]"
-        >
+        <div class="flex size-24 items-center justify-center rounded-full bg-[var(--card-bg)]">
           <div class="text-center">
             <p class="text-2xl font-semibold text-foreground leading-none">
               {pieItems.reduce((s, d) => s + d.count, 0)}
@@ -97,22 +97,20 @@ const gradientStyle = buildConicGradient(pieItems, COLORS);
 
     <!-- Legend -->
     <div class="flex-1 min-w-0 space-y-1.5 self-center sm:self-auto">
-      {
-        pieItems.map((item, i) => (
-          <div class="flex items-center gap-2 text-sm">
-            <span
-              class="inline-block size-3 shrink-0 rounded-sm"
-              style={{
-                backgroundColor: COLORS[i % COLORS.length],
-              }}
-            />
-            <span class="flex-1 text-foreground truncate">{item.name}</span>
-            <span class="shrink-0 text-muted-foreground tabular-nums">
-              {item.count} ({item.percentage}%)
-            </span>
-          </div>
-        ))
-      }
+      {pieItems.map((item, i) => (
+        <div class="flex items-center gap-2 text-sm">
+          <span
+            class="inline-block size-3 shrink-0 rounded-sm"
+            style={{
+              backgroundColor: COLORS[i % COLORS.length],
+            }}
+          />
+          <span class="flex-1 text-foreground truncate">{item.name}</span>
+          <span class="shrink-0 text-muted-foreground tabular-nums">
+            {item.count} ({item.percentage}%)
+          </span>
+        </div>
+      ))}
     </div>
   </div>
 </section>

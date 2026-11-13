@@ -5,11 +5,7 @@ import type { CareerEntry } from "@/content.config";
 type BecaEntry = CollectionEntry<"scholarships">;
 
 export type BecaLevel =
-  | "grado"
-  | "posgrado"
-  | "tecnico"
-  | "diplomado"
-  | "educacion-media";
+  "grado" | "posgrado" | "tecnico" | "diplomado" | "educacion-media";
 
 const degreeTypeLevelMap: Record<string, BecaLevel> = {
   maestria: "posgrado",

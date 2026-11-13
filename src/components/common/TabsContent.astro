@@ -33,51 +33,49 @@ const TAB_ICONS: Record<
 
 {introHtml && <div class={PROSE_CLASS} set:html={introHtml} />}
 
-{
-  sections.length > 0 && (
-    <div class="tabs gap-0" id={tabsId}>
-      <nav
-        role="tablist"
-        aria-orientation="horizontal"
-        class="flex flex-wrap gap-x-3 w-full rounded-none"
-      >
-        {sections.map((s, i) => {
-          const icon = TAB_ICONS[s.label];
-          const tabNum = i + 1;
-          return (
-            <button
-              type="button"
-              role="tab"
-              id={`${tabsId}-tab-${tabNum}`}
-              aria-controls={`${tabsId}-panel-${tabNum}`}
-              aria-selected={i === 0 ? "true" : "false"}
-              tabindex={i === 0 ? "0" : "-1"}
-              class="shadow-none aria-selected:border aria-selected:border-border"
-            >
-              {icon && <Fragment set:html={iconToSvg(icon, "mr-1.5 size-5")} />}
-              {s.label}
-            </button>
-          );
-        })}
-      </nav>
-      <div class="w-full border-b border-border" />
+{sections.length > 0 && (
+  <div class="tabs gap-0" id={tabsId}>
+    <nav
+      role="tablist"
+      aria-orientation="horizontal"
+      class="flex flex-wrap gap-x-3 w-full rounded-none"
+    >
       {sections.map((s, i) => {
+        const icon = TAB_ICONS[s.label];
         const tabNum = i + 1;
         return (
-          <div
-            role="tabpanel"
-            id={`${tabsId}-panel-${tabNum}`}
-            aria-labelledby={`${tabsId}-tab-${tabNum}`}
-            tabindex="-1"
-            class:list={[PROSE_CLASS, "[&>div>*:first-child]:mt-0"]}
-            hidden={i !== 0}
+          <button
+            type="button"
+            role="tab"
+            id={`${tabsId}-tab-${tabNum}`}
+            aria-controls={`${tabsId}-panel-${tabNum}`}
+            aria-selected={i === 0 ? "true" : "false"}
+            tabindex={i === 0 ? "0" : "-1"}
+            class="shadow-none aria-selected:border aria-selected:border-border"
           >
-            <Block>
-              <Fragment set:html={s.html} />
-            </Block>
-          </div>
+            {icon && <Fragment set:html={iconToSvg(icon, "mr-1.5 size-5")} />}
+            {s.label}
+          </button>
         );
       })}
-    </div>
-  )
-}
+    </nav>
+    <div class="w-full border-b border-border" />
+    {sections.map((s, i) => {
+      const tabNum = i + 1;
+      return (
+        <div
+          role="tabpanel"
+          id={`${tabsId}-panel-${tabNum}`}
+          aria-labelledby={`${tabsId}-tab-${tabNum}`}
+          tabindex="-1"
+          class:list={[PROSE_CLASS, "[&>div>*:first-child]:mt-0"]}
+          hidden={i !== 0}
+        >
+          <Block>
+            <Fragment set:html={s.html} />
+          </Block>
+        </div>
+      );
+    })}
+  </div>
+)}

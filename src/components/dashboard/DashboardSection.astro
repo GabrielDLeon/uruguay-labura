@@ -27,36 +27,26 @@ const { dashboard } = Astro.props;
   <div class="grid gap-6">
     <!-- Row 1: Top Orgs + Task Type Distribution -->
     <div class="grid gap-6 md:grid-cols-2">
-      <div
-        class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5"
-      >
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
         <TopOrganizations organizations={dashboard.topOrganizations} />
       </div>
-      <div
-        class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5"
-      >
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
         <TaskTypePie distribution={dashboard.taskTypeDistribution} />
       </div>
     </div>
 
     <!-- Row 2: Quota Jobs + Closing Timeline -->
     <div class="grid gap-6 md:grid-cols-2">
-      <div
-        class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5"
-      >
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
         <QuotaJobs quotas={dashboard.quotaJobs} />
       </div>
-      <div
-        class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5"
-      >
+      <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
         <ClosingTimeline next7Days={dashboard.next7Days} />
       </div>
     </div>
 
     <!-- Row 3: Evolution -->
-    <div
-      class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5"
-    >
+    <div class="rounded-lg border border-[var(--color-border)] bg-[var(--card-bg)] p-5">
       <Evolution evolution={dashboard.evolution} />
     </div>
   </div>

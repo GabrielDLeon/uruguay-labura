@@ -2,55 +2,7 @@
 import { Icon } from "astro-icon/components";
 import NavDropdown from "./common/NavDropdown.astro";
 import SearchModal from "@/components/search/SearchModal.astro";
-
-const sections = [
-  {
-    id: "empleos",
-    label: "Empleos",
-    icon: "keyline-icons:briefcase-fill",
-    links: [
-      {
-        href: "/empleos",
-        label: "Todos los llamados",
-        icon: "keyline-icons:briefcase-fill",
-      },
-      {
-        href: "/empleos/datos",
-        label: "Datos",
-        icon: "keyline-icons:chart-bar-fill",
-      },
-      {
-        href: "/empleos/guardados",
-        label: "Guardados",
-        icon: "keyline-icons:bookmark-fill",
-      },
-    ],
-  },
-  {
-    id: "educacion",
-    label: "Educación",
-    icon: "keyline-icons:graduation-cap-fill",
-    links: [
-      {
-        href: "/educacion/carreras",
-        label: "Carreras",
-        icon: "keyline-icons:graduation-cap-fill",
-      },
-      {
-        href: "/educacion/instituciones",
-        label: "Instituciones",
-        icon: "keyline-icons:landmark-fill",
-      },
-      {
-        href: "/educacion/becas",
-        label: "Becas",
-        icon: "keyline-icons:hand-coins-fill",
-      },
-    ],
-  },
-];
-
-const repoUrl = "https://github.com/GabrielDLeon/uruguay-labura";
+import { navSections, repoUrl } from "@/lib/nav";
 ---
 
 <header
@@ -64,23 +16,21 @@ const repoUrl = "https://github.com/GabrielDLeon/uruguay-labura";
       </a>
 
       <nav class="hidden items-center gap-1 text-sm lg:flex">
-        {
-          sections.map((section) => (
-            <NavDropdown
-              id={section.id}
-              label={section.label}
-              icon={section.icon}
-              minWidth="12rem"
-            >
-              {section.links.map((link) => (
-                <a href={link.href} role="menuitem">
-                  <Icon name={link.icon} size={16} aria-hidden="true" />
-                  {link.label}
-                </a>
-              ))}
-            </NavDropdown>
-          ))
-        }
+        {navSections.map((section) => (
+          <NavDropdown
+            id={section.id}
+            label={section.label}
+            icon={section.icon}
+            minWidth="12rem"
+          >
+            {section.links.map((link) => (
+              <a href={link.href} role="menuitem">
+                <Icon name={link.icon} size={16} aria-hidden="true" />
+                {link.label}
+              </a>
+            ))}
+          </NavDropdown>
+        ))}
       </nav>
 
       <SearchModal wrapperClass="ml-auto min-w-0 lg:ml-0 lg:flex-1" />
@@ -140,9 +90,7 @@ const repoUrl = "https://github.com/GabrielDLeon/uruguay-labura";
   aria-label="Menú"
 >
   <div class="bg-background text-foreground">
-    <header
-      class="flex flex-row items-center gap-2 border-b border-border px-4 py-3"
-    >
+    <header class="flex flex-row items-center gap-2 border-b border-border px-4 py-3">
       <span class="text-base font-semibold">Menú</span>
       <button
         type="button"
@@ -157,33 +105,31 @@ const repoUrl = "https://github.com/GabrielDLeon/uruguay-labura";
     </header>
 
     <section class="flex flex-col gap-4 p-4">
-      {
-        sections.map((section) => (
-          <div>
-            <p class="mb-1 px-3 text-xs font-semibold tracking-wide text-muted-foreground uppercase">
-              {section.label}
-            </p>
-            <ul>
-              {section.links.map((link) => (
-                <li>
-                  <a
-                    href={link.href}
-                    class="flex items-center gap-2 rounded-md px-3 py-2 text-sm text-foreground transition-colors hover:bg-muted"
-                  >
-                    <Icon
-                      name={link.icon}
-                      size={16}
-                      class="shrink-0"
-                      aria-hidden="true"
-                    />
-                    {link.label}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        ))
-      }
+      {navSections.map((section) => (
+        <div>
+          <p class="mb-1 px-3 text-xs font-semibold tracking-wide text-muted-foreground uppercase">
+            {section.label}
+          </p>
+          <ul>
+            {section.links.map((link) => (
+              <li>
+                <a
+                  href={link.href}
+                  class="flex items-center gap-2 rounded-md px-3 py-2 text-sm text-foreground transition-colors hover:bg-muted"
+                >
+                  <Icon
+                    name={link.icon}
+                    size={16}
+                    class="shrink-0"
+                    aria-hidden="true"
+                  />
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
     </section>
 
     <footer class="flex flex-col gap-2 border-t border-border p-4">

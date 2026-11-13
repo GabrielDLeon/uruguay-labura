@@ -7,7 +7,6 @@ import JobStatusBadge from "@/components/jobs/JobStatusBadge";
 import JobDetailSkeleton from "@/components/jobs/JobDetailSkeleton";
 import OrgLogo from "@/components/jobs/OrgLogo";
 import OrganizationLabel from "@/components/jobs/OrganizationLabel";
-import SaveButton from "@/components/jobs/SaveButton";
 import { getDisplayStatus, isUpcoming } from "@/components/jobs/jobs";
 import {
   formatDateReadable,
@@ -161,7 +160,6 @@ export default function JobDetail({ job, onBack }: Props) {
             {job.callNumber ? ` · Llamado ${job.callNumber}` : null}
           </p>
         </div>
-        <SaveButton jobId={job.id} />
       </header>
 
       <div className="flex flex-wrap items-center gap-2">

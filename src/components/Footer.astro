@@ -1,5 +1,15 @@
 ---
-import { Icon } from "astro-icon/components";
+import { navSections, projectLinks } from "@/lib/nav";
+
+const columns = [
+  ...navSections.map((section) => ({
+    title: section.label,
+    links: section.links,
+  })),
+  { title: "Proyecto", links: projectLinks },
+];
+
+const isExternal = (href: string) => href.startsWith("http");
 ---
 
 <footer
@@ -7,150 +17,51 @@ import { Icon } from "astro-icon/components";
   class="border-t border-[var(--color-border)] bg-[var(--card-bg)]/50"
 >
   <div class="mx-auto w-full max-w-7xl px-4 py-10 sm:px-6">
-    <div class="grid grid-cols-1 gap-8 sm:grid-cols-3">
-      <!-- Sobre -->
+    <div class="flex flex-col gap-8 lg:flex-row lg:items-start lg:justify-between">
+      <!-- Uruguay Labura -->
       <div class="max-w-xs">
-        <h3
-          class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
-        >
-          <Icon name="keyline-icons:info-fill" size={18} aria-hidden="true" />
-          Sobre
+        <h3 class="mb-3 text-sm font-semibold text-foreground">
+          Uruguay Labura
         </h3>
         <p class="text-sm text-muted-foreground">
           Directorio de llamados laborales y educación en Uruguay con filtros
           simples y acceso rápido a cada oportunidad.
         </p>
-        <a
-          href="/acerca"
-          class="mt-3 inline-flex items-center gap-1.5 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
-        >
-          Acerca del proyecto
-          <Icon
-            name="keyline-icons:arrow-right-fill"
-            size={16}
-            aria-hidden="true"
-          />
-        </a>
       </div>
 
-      <!-- Navegación -->
-      <div>
-        <h3
-          class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
-        >
-          <Icon
-            name="keyline-icons:navigation-fill"
-            size={18}
-            aria-hidden="true"
-          />
-          Navegación
-        </h3>
-        <nav class="grid gap-2 text-sm">
-          <a
-            href="/empleos"
-            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Icon
-              name="keyline-icons:briefcase-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Empleos
-          </a>
-          <a
-            href="/empleos/guardados"
-            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Icon
-              name="keyline-icons:bookmark-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Guardados
-          </a>
-          <a
-            href="/educacion"
-            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Icon
-              name="keyline-icons:graduation-cap-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Educación
-          </a>
-          <a
-            href="/educacion/instituciones"
-            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Icon
-              name="keyline-icons:buildings-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Instituciones
-          </a>
-          <a
-            href="/educacion/becas"
-            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Icon
-              name="keyline-icons:hand-coins-fill"
-              size={16}
-              aria-hidden="true"
-            />
-            Becas
-          </a>
-        </nav>
-      </div>
-
-      <!-- Comunidad -->
-      <div>
-        <h3
-          class="mb-3 flex items-center gap-2 text-sm font-semibold text-foreground"
-        >
-          <Icon
-            name="keyline-icons:share-2-fill"
-            size={18}
-            aria-hidden="true"
-          />
-          Comunidad
-        </h3>
-        <nav class="grid gap-2 text-sm">
-          <a
-            href="https://github.com/GabrielDLeon/uruguay-labura"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Icon name="mdi:github" size={16} aria-hidden="true" />
-            GitHub
-          </a>
-          <a
-            href="https://github.com/GabrielDLeon/uruguay-labura/issues"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="flex items-center gap-2 text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Icon name="keyline-icons:bug-fill" size={16} aria-hidden="true" />
-            Reportar un problema
-          </a>
-        </nav>
+      <div class="grid grid-cols-2 gap-x-8 gap-y-6 sm:grid-cols-3 lg:gap-x-12">
+        {columns.map((column) => (
+          <div>
+            <h3 class="mb-3 text-sm font-semibold text-foreground">
+              {column.title}
+            </h3>
+            <nav class="grid gap-2 text-sm">
+              {column.links.map((link) => (
+                <a
+                  href={link.href}
+                  target={isExternal(link.href) ? "_blank" : undefined}
+                  rel={
+                    isExternal(link.href) ? "noopener noreferrer" : undefined
+                  }
+                  class="text-muted-foreground transition-colors hover:text-foreground"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </nav>
+          </div>
+        ))}
       </div>
     </div>
   </div>
 
   <!-- Aviso legal -->
   <div class="border-t border-[var(--color-border)]">
-    <div
-      class="mx-auto flex w-full max-w-7xl flex-col gap-3 px-4 py-4 text-xs text-muted-foreground sm:px-6"
-    >
-      <p class="max-w-3xl leading-relaxed">
-        Directorio independiente, sin afiliación oficial. Logos de sus
-        titulares.
-      </p>
-      <div class="sm:flex sm:items-center sm:justify-between">
-        <p>Uruguay Labura. Proyecto en evolución.</p>
+    <div class="mx-auto w-full max-w-7xl px-4 py-4 text-xs text-muted-foreground sm:px-6">
+      <div class="flex flex-col gap-1 sm:flex-row sm:items-center sm:justify-between">
+        <p>
+          © {new Date().getFullYear()} Uruguay Labura. Proyecto en evolución.
+        </p>
         <p>
           Creado por{" "}
           <a

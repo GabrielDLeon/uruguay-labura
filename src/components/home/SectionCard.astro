@@ -1,0 +1,55 @@
+---
+import { Icon } from "astro-icon/components";
+
+interface Props {
+  href: string;
+  icon: string;
+  badge: string;
+  title: string;
+  description: string;
+  cta: string;
+  class?: string;
+}
+
+const {
+  href,
+  icon,
+  badge,
+  title,
+  description,
+  cta,
+  class: className,
+} = Astro.props;
+---
+
+<a
+  href={href}
+  class:list={[
+    "flex flex-col justify-between gap-6 bg-card p-6 sm:p-8",
+    className,
+  ]}
+>
+  <div>
+    <div class="flex items-center justify-between">
+      <span class="flex size-10 items-center justify-center rounded-lg border border-border bg-muted text-foreground">
+        <Icon name={icon} class="size-5" aria-hidden="true" />
+      </span>
+      <span class="badge" data-variant="secondary">
+        {badge}
+      </span>
+    </div>
+    <h2 class="mt-6 text-2xl font-semibold tracking-tight text-foreground">
+      {title}
+    </h2>
+    <p class="mt-2 max-w-md text-sm text-muted-foreground">{description}</p>
+  </div>
+
+  <span class="inline-flex items-center gap-2 text-sm font-medium text-foreground">
+    {cta}
+    <Icon
+      name="keyline-icons:arrow-right-fill"
+      class="size-4"
+      aria-hidden="true"
+    />
+  </span>
+</a>
