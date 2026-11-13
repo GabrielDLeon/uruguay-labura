@@ -4,7 +4,7 @@ import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
 import icon from "astro-icon";
-import pagefind from "astro-pagefind";
+import pagefind from "./integrations/pagefind";
 import { prebuildJobsPlugin } from "./vite/plugins/prebuild-jobs.mjs";
 
 export default defineConfig({

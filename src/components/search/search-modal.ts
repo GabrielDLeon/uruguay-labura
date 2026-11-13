@@ -33,6 +33,11 @@ interface PagefindResultData {
     degreeType?: string;
     modality?: string;
     kind?: string;
+    organization?: string;
+    taskType?: string;
+    status?: string;
+    closingDate?: string;
+    callNumber?: string;
     [key: string]: string | undefined;
   };
   plain_excerpt: string;
@@ -52,41 +57,49 @@ interface PagefindAPI {
   search: (query: string) => Promise<PagefindSearchResponse>;
 }
 
-type ResultKind = "carrera" | "institucion" | "beca" | "pagina";
+type ResultKind = "carrera" | "institucion" | "beca" | "pagina" | "llamado";
 
-const KIND_ORDER: ResultKind[] = ["pagina", "institucion", "beca", "carrera"];
+const KIND_ORDER: ResultKind[] = [
+  "pagina",
+  "institucion",
+  "beca",
+  "carrera",
+  "llamado",
+];
 
 const KIND_CONFIG: Record<
   ResultKind,
-  { icon: string; label: string; groupLabel: string; badge: string }
+  { icon: string; groupLabel: string; iconClass: string }
 > = {
+  llamado: {
+    icon: iconToSvg(appIcons.taskType),
+    groupLabel: "Llamados",
+    iconClass: "result-icon--llamado",
+  },
   pagina: {
     icon: iconToSvg(appIcons.page),
-    label: "Sección",
     groupLabel: "Secciones",
-    badge: "badge--pagina",
+    iconClass: "result-icon--pagina",
   },
   carrera: {
     icon: iconToSvg(appIcons.school),
-    label: "Carrera",
     groupLabel: "Carreras",
-    badge: "badge--carrera",
+    iconClass: "result-icon--carrera",
   },
   institucion: {
     icon: iconToSvg(appIcons.institution),
-    label: "Institución",
     groupLabel: "Instituciones",
-    badge: "badge--institucion",
+    iconClass: "result-icon--institucion",
   },
   beca: {
     icon: iconToSvg(appIcons.scholarship),
-    label: "Beca",
     groupLabel: "Becas",
-    badge: "badge--beca",
+    iconClass: "result-icon--beca",
   },
 };
 
 function getKind(meta: PagefindResultData["meta"]): ResultKind {
+  if (meta.kind === "llamado") return "llamado";
   if (meta.kind === "pagina") return "pagina";
   if (meta.kind === "carrera") return "carrera";
   if (meta.kind === "beca") return "beca";
@@ -95,6 +108,18 @@ function getKind(meta: PagefindResultData["meta"]): ResultKind {
 
 const RESULT_LIMIT = 8;
 const DESCRIPTION_MAX = 200;
+
+const shortDate = new Intl.DateTimeFormat("es-UY", {
+  day: "numeric",
+  month: "numeric",
+  year: "numeric",
+});
+
+function formatClosingDate(date: string | undefined): string | undefined {
+  if (!date) return undefined;
+  const parsed = new Date(`${date}T00:00:00`);
+  return Number.isNaN(parsed.getTime()) ? undefined : shortDate.format(parsed);
+}
 
 function escapeHtml(text: string): string {
   const div = document.createElement("div");
@@ -163,6 +188,14 @@ function createSearchModal() {
         : result.url;
     const description =
       result.meta.description || result.plain_excerpt || result.excerpt || "";
+    const closingDate =
+      kind === "llamado"
+        ? formatClosingDate(result.meta.closingDate)
+        : undefined;
+    const secondary =
+      kind === "llamado" && closingDate
+        ? `${description} · Cierra ${closingDate}`
+        : description;
 
     const institutionLogo =
       kind === "institucion"
@@ -173,7 +206,7 @@ function createSearchModal() {
 
     const leading = institutionLogo
       ? `<img src="${institutionLogo}" alt="${escapeAttribute(result.meta.title || "")}" class="size-9 shrink-0 rounded-lg object-contain" loading="lazy" />`
-      : `<div class="flex size-9 shrink-0 items-center justify-center rounded-lg bg-[var(--muted)] text-muted-foreground">
+      : `<div class="result-icon flex size-9 shrink-0 items-center justify-center rounded-lg ${cfg.iconClass}">
           ${cfg.icon}
         </div>`;
 
@@ -187,13 +220,10 @@ function createSearchModal() {
     >
       ${leading}
       <div class="min-w-0 flex-1">
-        <div class="flex items-center gap-2">
-          <span class="text-sm font-medium text-foreground leading-snug">${escapeHtml(result.meta.title || result.url)}</span>
-          <span class="badge text-[10px] px-1.5 py-0.5 leading-none ${cfg.badge}">${cfg.label}</span>
-        </div>
+        <span class="block text-sm font-medium text-foreground leading-snug line-clamp-2">${escapeHtml(result.meta.title || result.url)}</span>
         ${
-          description
-            ? `<p class="text-xs text-muted-foreground line-clamp-2 mt-1 leading-relaxed">${escapeHtml(description.slice(0, DESCRIPTION_MAX))}</p>`
+          secondary
+            ? `<p class="text-xs text-muted-foreground line-clamp-2 mt-1 leading-relaxed">${escapeHtml(secondary.slice(0, DESCRIPTION_MAX))}</p>`
             : ""
         }
       </div>
@@ -216,19 +246,28 @@ function createSearchModal() {
     let remaining = RESULT_LIMIT;
     let itemIndex = 0;
     const groupsHtml: string[] = [];
+    const presentKinds = KIND_ORDER.filter(
+      (kind) => (byKind.get(kind)?.length ?? 0) > 0,
+    );
 
-    for (const kind of KIND_ORDER) {
-      const items = byKind.get(kind);
-      if (!items || items.length === 0) continue;
-
-      const slice = items.slice(0, remaining);
+    presentKinds.forEach((kind, position) => {
+      const items = byKind.get(kind) ?? [];
+      // Share the remaining slots with the groups still to come, so the last
+      // group (llamados) is not crowded out by the first ones.
+      const groupsLeft = presentKinds.length - position;
+      const slice = items.slice(
+        0,
+        Math.max(1, Math.ceil(remaining / groupsLeft)),
+      );
       remaining -= slice.length;
+
+      if (slice.length === 0) return;
 
       groupsHtml.push(
         `<div class="px-3 pt-3 pb-1 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">${KIND_CONFIG[kind].groupLabel}</div>`,
         ...slice.map((result) => renderResultItem(result, kind, itemIndex++)),
       );
-    }
+    });
 
     menu.innerHTML = groupsHtml.join("");
     input.removeAttribute("aria-activedescendant");

@@ -50,15 +50,15 @@ importers:
       astro-icon:
         specifier: ^1.2.0
         version: 1.2.0
-      astro-pagefind:
-        specifier: ^2.0.1
-        version: 2.0.1(astro@7.4.11(@astrojs/markdown-remark@7.3.8)(@types/node@24.12.0)(esbuild@0.28.1)(jiti@2.7.0)(yaml@2.8.3))
       astro-seo:
         specifier: ^1.2.0
         version: 1.2.0
       basecoat-css:
         specifier: ^1.1.0
         version: 1.1.0
+      pagefind:
+        specifier: ^1.5.2
+        version: 1.5.2
       react:
         specifier: ^19.3.1
         version: 19.3.1
@@ -776,9 +776,6 @@ packages:
   '@oxc-project/types@0.156.0':
     resolution: {integrity: sha512-1Duyg48TdJNdyhEB8Xn1L36bT9Pv6GUtlKjHxOys8xkaF/rQq3XJE+bAurSK/AgIz5mGFsb77cn9Pb20+WCScw==}
 
-  '@pagefind/component-ui@1.6.0':
-    resolution: {integrity: sha512-Y1DGghiGTdPNzuXphHginp45/3wVUXiwRdfAPSGTBTEBnrj8VnAEC2mgFuy2RzVwBf4reqanPvJVwxPoLI89Ww==}
-
   '@pagefind/darwin-arm64@1.5.2':
     resolution: {integrity: sha512-MXpI+7HsAdPkvJ0gk9xj9g541BCqBZOBbdwj9g6lB5LCj6kSV6nqDSjzcAJwvOsfu0fjwvC8hQU+ecfhp+MpiQ==}
     cpu: [arm64]
@@ -813,9 +810,6 @@ packages:
     resolution: {integrity: sha512-Fa2Iyw7kaDRzGMfNYNUXNW2zbL5FQVDgSOcbDHdzBrDEdpqOqg8TcZ68F22ol6NJ9IGzvUdmeyZypLW5dyhqsg==}
     cpu: [x64]
     os: [win32]
-
-  '@polka/url@1.0.0-next.29':
-    resolution: {integrity: sha512-wwQAWhWSuHaag8c4q/KN/vCoeOJYshAIvMQwD4GpSb3OiZklFfvAgmj0VCBBImRpuF/aFgIRzllXlVX93Jevww==}
 
   '@prettier/parse-srcset@3.1.0':
     resolution: {integrity: sha512-FIRv2rZotO9NP/r66taYqD1zICpPiBbrECqjKV/xqNotqDxF7fLzzUeK+1RSRx9Tenk0DajR/GcRmTJ2qtHaKQ==}
@@ -1174,10 +1168,6 @@ packages:
     engines: {node: '>=0.4.0'}
     hasBin: true
 
-  adequate-little-templates@1.0.2:
-    resolution: {integrity: sha512-d0tFFG538l3Y4CElRKtticzrMr/OGohs32/nf3Ewn8rbTMBYwkVNe8mPdXWrDnMlz+ZVUFQjsTmsBD5zCtU4wg==}
-    engines: {node: '>=14'}
-
   ajv-draft-04@1.0.0:
     resolution: {integrity: sha512-mv00Te6nmYbRp5DCwclxtt7yV/joXJPGS7nM+97GdxvuttCOfgI3K4U25zboyeX0O+myI8ERluxQe5wljMmVIw==}
     peerDependencies:
@@ -1228,11 +1218,6 @@ packages:
     resolution: {integrity: sha512-0848V2WZuTPhqGSqLeZimLJZ5wmamMtWYzvA2kvg8s2DrUPZ3/nrTcHJWN0eJHt62jy7uvNxgTNiUJGIr7JNxg==}
     engines: {node: '>=22.12.0'}
 
-  astro-pagefind@2.0.1:
-    resolution: {integrity: sha512-zhMTctuVuKrYH1C0Xl+p8mhexEuxVrqfT8paQOAbKZFtgUIWAMtR2nCeU11ti4Rfeit16LhiCxZFwjOqYoiaNQ==}
-    peerDependencies:
-      astro: ^2.0.4 || ^3 || ^4 || ^5 || ^6 || ^7
-
   astro-seo@1.2.0:
     resolution: {integrity: sha512-ZqS2ZLKJ9GZwcONho9W95xkGBWuPpikTsMBzjuq/6CKtKUEgMDbSZkoLwoZsmLVq/p52T4z7JwgjC3AtMg7Trg==}
 
@@ -1255,9 +1240,6 @@ packages:
 
   basecoat-css@1.1.0:
     resolution: {integrity: sha512-qQ25lbkdXiBQd8uBd4juOX1y2ut+Ww4Aaa7EwO9Is/jd143Ze/eRULQdJmiwAwzKKqkxtvg9YTJg79xXz2nLeg==}
-
-  bcp-47@2.1.2:
-    resolution: {integrity: sha512-wsv86UuNFuPnVieKLyECTT+CP1WSAHeoIg5P3xu2kA9Z+7fVPoKt7dxzSeEhtJel0AI+NW3fIW3KtTKQKUCngg==}
 
   boolbase@1.0.0:
     resolution: {integrity: sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww==}
@@ -2159,10 +2141,6 @@ packages:
     resolution: {integrity: sha512-imjLsVHgPuWhvpU3P+zOekvMYqnel7QmKsFC4Sn0fCuAvaaalBsxwKEsrU8Ko5BdFnZA6Go/8a0RzahS634UgA==}
     engines: {node: '>=20'}
 
-  sirv@3.0.2:
-    resolution: {integrity: sha512-2wcC/oGxHis/BoHkkPwldgiPSYcpZK3JU28WoMVv55yHJgcZ8rlXvuG9iZggz+sU1d4bRgIGASwyWqjxu3FM0g==}
-    engines: {node: '>=18'}
-
   sisteransi@2.0.0:
     resolution: {integrity: sha512-2WCqLdt12eN6ehLI50S2/ZxoowXU3DD1KVPRyVP0WEsFahrGZZmCdq1K59qjJljMRIDTwx1D9YaRK+hDneBUMg==}
     engines: {node: '>=20'}
@@ -2254,10 +2232,6 @@ packages:
 
   tinyps@0.5.2:
     resolution: {integrity: sha512-sYhvdbpuo2rGE7u/jPUMiZz4H2LCaOodUtRD9ot4DLNFQbr884g9zozoJnxLI+1r4hXqWkmdHUl8Yig2Rllxxw==}
-
-  totalist@3.0.1:
-    resolution: {integrity: sha512-sf4i37nQ2LBx4m3wB74y+ubopq6W/dIzXg0FDGjsYnZHVa1Da8FH853wlL2gtUhg+xJXjfk3kUZS3BRoQeoQBQ==}
-    engines: {node: '>=6'}
 
   trim-lines@3.0.1:
     resolution: {integrity: sha512-kRj8B+YHZCc9kQYdWfJB2/oUl9rA99qbowYYBtr4ui4mZyAQ2JpvVBd/6U2YloATfqBhBTSMhTpgBHtU0Mf3Rg==}
@@ -3263,11 +3237,6 @@ snapshots:
 
   '@oxc-project/types@0.156.0': {}
 
-  '@pagefind/component-ui@1.6.0':
-    dependencies:
-      adequate-little-templates: 1.0.2
-      bcp-47: 2.1.2
-
   '@pagefind/darwin-arm64@1.5.2':
     optional: true
 
@@ -3288,8 +3257,6 @@ snapshots:
 
   '@pagefind/windows-x64@1.5.2':
     optional: true
-
-  '@polka/url@1.0.0-next.29': {}
 
   '@prettier/parse-srcset@3.1.0': {}
 
@@ -3583,8 +3550,6 @@ snapshots:
 
   acorn@8.19.0: {}
 
-  adequate-little-templates@1.0.2: {}
-
   ajv-draft-04@1.0.0(ajv@8.17.1):
     optionalDependencies:
       ajv: 8.17.1
@@ -3626,13 +3591,6 @@ snapshots:
       '@iconify/tools': 5.0.14
       '@iconify/types': 2.0.0
       '@iconify/utils': 3.1.7
-
-  astro-pagefind@2.0.1(astro@7.4.11(@astrojs/markdown-remark@7.3.8)(@types/node@24.12.0)(esbuild@0.28.1)(jiti@2.7.0)(yaml@2.8.3)):
-    dependencies:
-      '@pagefind/component-ui': 1.6.0
-      astro: 7.4.11(@astrojs/markdown-remark@7.3.8)(@types/node@24.12.0)(esbuild@0.28.1)(jiti@2.7.0)(yaml@2.8.3)
-      pagefind: 1.5.2
-      sirv: 3.0.2
 
   astro-seo@1.2.0: {}
 
@@ -3731,12 +3689,6 @@ snapshots:
   bail@2.0.2: {}
 
   basecoat-css@1.1.0: {}
-
-  bcp-47@2.1.2:
-    dependencies:
-      is-alphabetical: 2.0.1
-      is-alphanumerical: 2.0.1
-      is-decimal: 2.0.1
 
   boolbase@1.0.0: {}
 
@@ -5059,12 +5011,6 @@ snapshots:
       '@shikijs/vscode-textmate': 10.1.0
       '@types/hast': 3.0.5
 
-  sirv@3.0.2:
-    dependencies:
-      '@polka/url': 1.0.0-next.29
-      mrmime: 2.0.1
-      totalist: 3.0.1
-
   sisteransi@2.0.0: {}
 
   sitemap@9.0.1:
@@ -5150,8 +5096,6 @@ snapshots:
       picomatch: 4.0.7
 
   tinyps@0.5.2: {}
-
-  totalist@3.0.1: {}
 
   trim-lines@3.0.1: {}
 
