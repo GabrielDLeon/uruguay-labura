@@ -30,36 +30,56 @@ export function sectionsLoader(options: Parameters<typeof glob>[0]): Loader {
         )
           continue;
         const stored = entry.data as Record<string, unknown>;
-        // Already split in a previous sync; avoid re-rendering unchanged entries.
-        if (Array.isArray(stored.sections) && stored.sections.length > 0)
-          continue;
+        // The collection schema (including `image()`) only runs through `parseData`,
+        // so the raw frontmatter is kept aside and re-validated on every sync.
+        const rawFrontmatter =
+          typeof stored.rawFrontmatter === "object" &&
+          stored.rawFrontmatter !== null
+            ? (stored.rawFrontmatter as Record<string, unknown>)
+            : stored;
 
-        const { intro, sections } = splitSections(entry.body);
-        const fileURL = entry.filePath
-          ? new URL(entry.filePath.replace(/^\/?/, ""), context.config.root)
+        const parsed = await context.parseData({
+          id: entry.id,
+          data: rawFrontmatter,
+          filePath: entry.filePath,
+        });
+
+        const cachedSections = Array.isArray(stored.sections)
+          ? (stored.sections as SectionData[])
           : undefined;
+        let introHtml =
+          typeof stored.introHtml === "string" ? stored.introHtml : undefined;
+        let renderedSections = cachedSections;
 
-        const introHtml = intro.trim()
-          ? (await context.renderMarkdown(intro, { fileURL })).html
-          : undefined;
+        if (!renderedSections?.length) {
+          const { intro, sections } = splitSections(entry.body);
+          const fileURL = entry.filePath
+            ? new URL(entry.filePath.replace(/^\/?/, ""), context.config.root)
+            : undefined;
 
-        const renderedSections: SectionData[] = await Promise.all(
-          sections.map(async (section) => {
-            const rendered = await context.renderMarkdown(section.content, {
-              fileURL,
-            });
-            return {
-              id: slugify(section.label),
-              label: section.label,
-              html: rendered.html,
-            };
-          }),
-        );
+          introHtml = intro.trim()
+            ? (await context.renderMarkdown(intro, { fileURL })).html
+            : undefined;
+
+          renderedSections = await Promise.all(
+            sections.map(async (section) => {
+              const rendered = await context.renderMarkdown(section.content, {
+                fileURL,
+              });
+              return {
+                id: slugify(section.label),
+                label: section.label,
+                html: rendered.html,
+              };
+            }),
+          );
+        }
 
         const data = {
-          ...stored,
+          ...parsed,
           ...(introHtml ? { introHtml } : {}),
-          sections: renderedSections,
+          sections: renderedSections ?? [],
+          rawFrontmatter,
         };
 
         context.store.set({
@@ -70,9 +90,9 @@ export function sectionsLoader(options: Parameters<typeof glob>[0]): Loader {
           digest: compositeDigest({
             fileDigest: entry.digest,
             body: entry.body,
-            frontmatter: stored,
+            frontmatter: rawFrontmatter,
             introHtml,
-            sections: renderedSections,
+            sections: renderedSections ?? [],
           }),
         });
       }
